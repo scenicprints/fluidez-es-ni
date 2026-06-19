@@ -1,0 +1,84 @@
+{
+  "id": "sc01",
+  "title": "Ordering at the fritanga",
+  "desc": "Order food from doña Carmen",
+  "setting": "It's evening. You walk up to doña Carmen's street food stand, hungry after a long day.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Doña Carmen",
+      "es": "¡Hola, chele! ¿Qué te doy?",
+      "en": "Hi, foreigner! What can I get you?",
+      "options": [
+        {
+          "es": "Buenas. ¿Qué tenés?",
+          "en": "Evening. What do you have?",
+          "verdict": "good",
+          "feedback": "Perfect — casual and friendly, using the Nica 'vos' form (tenés). She'll like that."
+        },
+        {
+          "es": "Hola. Yo querer comida.",
+          "en": "Hello. Me want food.",
+          "verdict": "ok",
+          "feedback": "She'll understand you, but 'yo querer' isn't conjugated. You'd say 'quiero comida.'"
+        },
+        {
+          "es": "Necesito un taxi.",
+          "en": "I need a taxi.",
+          "verdict": "bad",
+          "feedback": "That's for a taxi, not food! Watch the context."
+        }
+      ]
+    },
+    {
+      "speaker": "Doña Carmen",
+      "es": "Tengo gallo pinto, carne asada y tajadas. ¿Querés todo?",
+      "en": "I've got gallo pinto, grilled meat, and plantain chips. Want everything?",
+      "options": [
+        {
+          "es": "Dale pues, un poco de todo.",
+          "en": "Sure, a bit of everything.",
+          "verdict": "good",
+          "feedback": "'Dale pues' is the perfect Nica way to say 'okay then.' You sound local."
+        },
+        {
+          "es": "Sí, gracias.",
+          "en": "Yes, thanks.",
+          "verdict": "ok",
+          "feedback": "Polite and clear — works fine, just a little plain."
+        },
+        {
+          "es": "No, nada.",
+          "en": "No, nothing.",
+          "verdict": "bad",
+          "feedback": "You just turned down all the food! Probably not what you wanted."
+        }
+      ]
+    },
+    {
+      "speaker": "Doña Carmen",
+      "es": "Aquí tenés. Son cuarenta córdobas.",
+      "en": "Here you go. That's forty córdobas.",
+      "options": [
+        {
+          "es": "Aquí está. ¡Gracias, doña!",
+          "en": "Here it is. Thanks, ma'am!",
+          "verdict": "good",
+          "feedback": "Warm and respectful — calling her 'doña' is exactly right in Nicaragua."
+        },
+        {
+          "es": "Ok.",
+          "en": "Ok.",
+          "verdict": "ok",
+          "feedback": "Gets the job done, but a thank-you goes a long way here."
+        },
+        {
+          "es": "Muy caro.",
+          "en": "Too expensive.",
+          "verdict": "bad",
+          "feedback": "Forty córdobas is more than fair for a full plate — and it's a bit rude!"
+        }
+      ]
+    }
+  ]
+}

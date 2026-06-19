@@ -1,0 +1,49 @@
+{
+  "id": "sc17",
+  "title": "At the bank",
+  "desc": "Open an account",
+  "setting": "You've waited in line at the bank. It's your turn at the teller's window.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Cajero",
+      "es": "Buenos días. ¿En qué le puedo servir?",
+      "en": "Good morning. How can I help you?",
+      "options": [
+        { "es": "Quisiera abrir una cuenta, por favor.", "en": "I'd like to open an account, please.", "verdict": "good", "feedback": "'Quisiera' (I'd like) is the polished, formal way to ask. Perfect for a bank." },
+        { "es": "Dame una cuenta.", "en": "Give me an account.", "verdict": "bad", "feedback": "Way too blunt for a formal setting — and 'dame' is too casual here." },
+        { "es": "Una cuenta nueva.", "en": "A new account.", "verdict": "ok", "feedback": "Understandable, just abrupt. A full polite sentence fits the bank better." }
+      ]
+    },
+    {
+      "speaker": "Cajero",
+      "es": "Con gusto. ¿Trae algún documento de identidad?",
+      "en": "Gladly. Do you have an ID document?",
+      "options": [
+        { "es": "Sí, traigo mi pasaporte.", "en": "Yes, I have my passport.", "verdict": "good", "feedback": "Direct and prepared. Exactly what he needs to proceed." },
+        { "es": "¿Qué documentos necesito?", "en": "What documents do I need?", "verdict": "good", "feedback": "A smart question if unsure — better to ask than to be turned away." },
+        { "es": "No traje nada.", "en": "I didn't bring anything.", "verdict": "bad", "feedback": "You can't open an account with no ID. Always bring documents to the bank." }
+      ]
+    },
+    {
+      "speaker": "Cajero",
+      "es": "Perfecto. Llene este formulario y firme abajo.",
+      "en": "Perfect. Fill out this form and sign below.",
+      "options": [
+        { "es": "¿Dónde firmo exactamente?", "en": "Where exactly do I sign?", "verdict": "good", "feedback": "Asking to be sure before signing anything official is exactly the right instinct." },
+        { "es": "Listo, ya firmé todo.", "en": "Done, I signed everything.", "verdict": "ok", "feedback": "Fine if you're sure — but on official forms, confirming where never hurts." },
+        { "es": "No me gusta llenar formularios.", "en": "I don't like filling out forms.", "verdict": "ok", "feedback": "Relatable! But it's required — best to just work through it politely." }
+      ]
+    },
+    {
+      "speaker": "Cajero",
+      "es": "Todo en orden. Su cuenta estará activa mañana.",
+      "en": "Everything's in order. Your account will be active tomorrow.",
+      "options": [
+        { "es": "Muchas gracias por su ayuda.", "en": "Thank you very much for your help.", "verdict": "good", "feedback": "Polite and warm — the right note to end a formal interaction on." },
+        { "es": "¿Mañana? Qué lento.", "en": "Tomorrow? How slow.", "verdict": "bad", "feedback": "Next-day activation is normal. Complaining about it just sours things." },
+        { "es": "Perfecto. Que tenga buen día.", "en": "Perfect. Have a good day.", "verdict": "good", "feedback": "Smooth and courteous. A good-day wish is always welcome." }
+      ]
+    }
+  ]
+}

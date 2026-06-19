@@ -1,0 +1,49 @@
+{
+  "id": "sc11",
+  "title": "Talking about yourself",
+  "desc": "Share your life with a new friend",
+  "setting": "At a gathering, someone you just met is curious about you and starts asking questions.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Karla",
+      "es": "Y vos, ¿de qué trabajás?",
+      "en": "And you, what do you do for work?",
+      "options": [
+        { "es": "Soy programador. Trabajo con computadoras.", "en": "I'm a programmer. I work with computers.", "verdict": "good", "feedback": "Clear and complete. 'Soy' + profession is exactly right." },
+        { "es": "Trabajo, sí.", "en": "I work, yes.", "verdict": "bad", "feedback": "That dodges the question! She wants to know what you do." },
+        { "es": "Programador.", "en": "Programmer.", "verdict": "ok", "feedback": "Understandable, just a little terse. A full sentence feels warmer." }
+      ]
+    },
+    {
+      "speaker": "Karla",
+      "es": "¡Qué interesante! ¿Y tenés familia aquí?",
+      "en": "How interesting! And do you have family here?",
+      "options": [
+        { "es": "No, mi familia vive en Estados Unidos.", "en": "No, my family lives in the US.", "verdict": "good", "feedback": "Natural and honest. 'Vive en' tells her where they are." },
+        { "es": "Tengo dos hermanos, pero viven lejos.", "en": "I have two siblings, but they live far away.", "verdict": "good", "feedback": "Lovely detail — sharing a little extra invites connection." },
+        { "es": "Sí.", "en": "Yes.", "verdict": "ok", "feedback": "A 'yes' with no detail closes the door. Give her something to follow up on." }
+      ]
+    },
+    {
+      "speaker": "Karla",
+      "es": "¿Y te hallás aquí en Nicaragua?",
+      "en": "And do you feel at home here in Nicaragua?",
+      "options": [
+        { "es": "Me encanta. La gente es muy cálida.", "en": "I love it. The people are very warm.", "verdict": "good", "feedback": "A warm answer that compliments her people — that lands beautifully." },
+        { "es": "Más o menos.", "en": "More or less.", "verdict": "ok", "feedback": "Honest, but a bit flat. If you do like it, let it show!" },
+        { "es": "Sí me hallo, gracias a la gente.", "en": "Yes I feel at home, thanks to the people.", "verdict": "good", "feedback": "Great — you even reused her word 'hallar.' Sounds very natural." }
+      ]
+    },
+    {
+      "speaker": "Karla",
+      "es": "Pues ya sos uno más de nosotros.",
+      "en": "Well, you're one of us now.",
+      "options": [
+        { "es": "Eso me hace muy feliz. Gracias.", "en": "That makes me very happy. Thanks.", "verdict": "good", "feedback": "Heartfelt and natural. A perfect response to being welcomed in." },
+        { "es": "Gracias, igualmente.", "en": "Thanks, likewise.", "verdict": "ok", "feedback": "'Igualmente' doesn't quite fit here — there's nothing to return. A simple thanks is better." },
+        { "es": "Qué bueno.", "en": "How nice.", "verdict": "ok", "feedback": "Pleasant, but a warmer reply would honor the kind thing she said." }
+      ]
+    }
+  ]
+}

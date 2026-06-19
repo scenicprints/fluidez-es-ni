@@ -1,0 +1,49 @@
+{
+  "id": "sc24",
+  "title": "A vulnerable moment",
+  "desc": "Open up about something hard",
+  "setting": "Something has been weighing on you. Lucía senses it and gently asks. This is a chance to be honest.",
+  "ph": 4,
+  "steps": [
+    {
+      "speaker": "Lucía",
+      "es": "Te conozco. Algo te pasa. Contame.",
+      "en": "I know you. Something's wrong. Tell me.",
+      "options": [
+        { "es": "Es difícil de decir, pero quiero ser sincero.", "en": "It's hard to say, but I want to be honest.", "verdict": "good", "feedback": "Naming that it's hard AND choosing honesty anyway — that's real vulnerability. Beautiful." },
+        { "es": "No es nada, de verdad.", "en": "It's nothing, really.", "verdict": "ok", "feedback": "We all hide this way, but she sees through it. Trust is built by letting her in." },
+        { "es": "No quiero hablar de eso.", "en": "I don't want to talk about it.", "verdict": "ok", "feedback": "A valid boundary — but she's offering safety. Consider opening the door a little." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Tranquilo. Tomate tu tiempo. Te escucho.",
+      "en": "Easy. Take your time. I'm listening.",
+      "options": [
+        { "es": "A veces tengo miedo de no ser suficiente para vos.", "en": "Sometimes I'm afraid I'm not enough for you.", "verdict": "good", "feedback": "Deeply honest — naming a fear like this is the bravest kind of trust. Real intimacy." },
+        { "es": "Cosas del trabajo, nada importante.", "en": "Work stuff, nothing important.", "verdict": "ok", "feedback": "A safer deflection — but she's made space for the real thing. You can go deeper." },
+        { "es": "Olvidalo, ya se me pasa.", "en": "Forget it, I'll get over it.", "verdict": "bad", "feedback": "Brushing her off after she made space can hurt. She wants to be there for you." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Mi amor, para mí sos más que suficiente.",
+      "en": "My love, to me you are more than enough.",
+      "options": [
+        { "es": "Gracias por escucharme sin juzgar.", "en": "Thank you for listening without judging.", "verdict": "good", "feedback": "Acknowledging her gift of listening deepens the bond. Tender and grateful." },
+        { "es": "Me cuesta creerlo, pero gracias.", "en": "It's hard for me to believe, but thank you.", "verdict": "good", "feedback": "Honest about the struggle while receiving her love — that's authentic, not negative." },
+        { "es": "Bueno, si vos lo decís.", "en": "Well, if you say so.", "verdict": "bad", "feedback": "Dismissive of her reassurance. She means it — let it land." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Quiero que sepas que siempre voy a estar.",
+      "en": "I want you to know I'll always be here.",
+      "options": [
+        { "es": "Eso significa todo para mí. Te amo.", "en": "That means everything to me. I love you.", "verdict": "good", "feedback": "The perfect response to being chosen and reassured — open, loving, complete." },
+        { "es": "Yo también voy a estar para vos, siempre.", "en": "I'll always be here for you too, always.", "verdict": "good", "feedback": "Returning the promise makes it mutual. This is what partnership sounds like." },
+        { "es": "Ojalá sea cierto.", "en": "I hope that's true.", "verdict": "ok", "feedback": "Understandable if you're guarded, but it doubts her sincerity. She means it — trust it." }
+      ]
+    }
+  ]
+}

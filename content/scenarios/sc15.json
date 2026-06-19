@@ -1,0 +1,49 @@
+{
+  "id": "sc15",
+  "title": "A heart-to-heart",
+  "desc": "Open up about a hard day",
+  "setting": "You've had a rough day. Roberto can tell something's off and asks about it.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "Te veo medio raro. ¿Qué te pasa?",
+      "en": "You seem a bit off. What's wrong?",
+      "options": [
+        { "es": "Tuve un mal día, la verdad.", "en": "I had a bad day, honestly.", "verdict": "good", "feedback": "Open and natural — 'la verdad' (honestly) makes it feel real and trusting." },
+        { "es": "Nada, todo bien.", "en": "Nothing, all good.", "verdict": "ok", "feedback": "We all say it, but he can tell. It's okay to let a friend in." },
+        { "es": "Estoy cansado y un poco triste.", "en": "I'm tired and a little sad.", "verdict": "good", "feedback": "Naming feelings directly — exactly the Phase 2 leap. Honest and clear." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Contame, pues. ¿Qué pasó?",
+      "en": "Tell me, then. What happened?",
+      "options": [
+        { "es": "Perdí mi teléfono y llegué tarde al trabajo.", "en": "I lost my phone and got to work late.", "verdict": "good", "feedback": "Two past-tense verbs telling a real story — 'perdí' and 'llegué.' Strong." },
+        { "es": "Muchas cosas salieron mal hoy.", "en": "A lot of things went wrong today.", "verdict": "good", "feedback": "Nice — 'salieron mal' (went wrong) is a useful, natural phrase." },
+        { "es": "No quiero hablar.", "en": "I don't want to talk.", "verdict": "ok", "feedback": "Valid to feel that way — though he's offering an ear, and that's worth something." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Uy, qué mala onda. ¿Y cómo te sentís ahora?",
+      "en": "Oof, that's rough. And how do you feel now?",
+      "options": [
+        { "es": "Frustrado, pero hablar ayuda.", "en": "Frustrated, but talking helps.", "verdict": "good", "feedback": "Honest about the feeling AND grateful for the talk. Beautifully balanced." },
+        { "es": "Un poco mejor, gracias por escuchar.", "en": "A little better, thanks for listening.", "verdict": "good", "feedback": "Warm and real — acknowledging his support is exactly right." },
+        { "es": "Igual de mal.", "en": "Just as bad.", "verdict": "ok", "feedback": "Honest — and that's okay. A good friend won't rush you to feel better." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Tranquilo, hermano. Mañana es otro día.",
+      "en": "Easy, brother. Tomorrow's another day.",
+      "options": [
+        { "es": "Tenés razón. Gracias, hermano.", "en": "You're right. Thanks, brother.", "verdict": "good", "feedback": "Returning 'hermano' seals the bond — that's deep friendship in Nica terms." },
+        { "es": "Gracias por estar ahí.", "en": "Thanks for being there.", "verdict": "good", "feedback": "Touching and sincere. This is what Phase 2 is all about — real connection." },
+        { "es": "Sí, sí.", "en": "Yeah, yeah.", "verdict": "ok", "feedback": "He's being a true friend — a warmer reply honors that better." }
+      ]
+    }
+  ]
+}

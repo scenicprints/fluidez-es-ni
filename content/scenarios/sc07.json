@@ -1,0 +1,49 @@
+{
+  "id": "sc07",
+  "title": "Asking for directions",
+  "desc": "Find your way Nica-style",
+  "setting": "You're lost looking for a friend's house. You stop a friendly woman on the sidewalk.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Señora",
+      "es": "¿Andás perdido, muchacho?",
+      "en": "Are you lost, young man?",
+      "options": [
+        { "es": "Sí, busco la casa azul cerca del parque.", "en": "Yes, I'm looking for the blue house near the park.", "verdict": "good", "feedback": "Perfect — you gave a landmark, which is exactly how directions work here." },
+        { "es": "Sí, estoy perdido.", "en": "Yes, I'm lost.", "verdict": "ok", "feedback": "Honest! But tell her where you're trying to go so she can help." },
+        { "es": "No, gracias.", "en": "No, thanks.", "verdict": "bad", "feedback": "But you ARE lost — let her help! Pride won't get you there." }
+      ]
+    },
+    {
+      "speaker": "Señora",
+      "es": "Ah, sí. De aquí, dos cuadras arriba.",
+      "en": "Ah, yes. From here, two blocks east.",
+      "options": [
+        { "es": "¿Arriba es hacia el este?", "en": "Is 'arriba' toward the east?", "verdict": "good", "feedback": "Smart question! 'Arriba' = east (where the sun rises) confuses every newcomer." },
+        { "es": "Dos cuadras, entiendo.", "en": "Two blocks, I understand.", "verdict": "ok", "feedback": "Okay — but make sure you know which way 'arriba' is, or you'll go wrong." },
+        { "es": "¿Arriba? ¿Subo una escalera?", "en": "Up? Do I climb stairs?", "verdict": "bad", "feedback": "Not 'up'! In Nica directions 'arriba' means east, not upward." }
+      ]
+    },
+    {
+      "speaker": "Señora",
+      "es": "Exacto. Después una cuadra al sur, en la esquina.",
+      "en": "Exactly. Then one block south, on the corner.",
+      "options": [
+        { "es": "Dos arriba y una al sur. ¿Verdad?", "en": "Two east and one south. Right?", "verdict": "good", "feedback": "Repeating directions back is the best way to lock them in. Smart move." },
+        { "es": "Perfecto, gracias.", "en": "Perfect, thanks.", "verdict": "ok", "feedback": "Hope you've got it! Confirming would've been safer." },
+        { "es": "¿Me lo puede escribir?", "en": "Can you write it down?", "verdict": "ok", "feedback": "No shame in that — though most folks here just point and tell." }
+      ]
+    },
+    {
+      "speaker": "Señora",
+      "es": "Así es. Que Dios te acompañe, muchacho.",
+      "en": "That's it. May God go with you, young man.",
+      "options": [
+        { "es": "Muchas gracias, señora.", "en": "Thank you very much, ma'am.", "verdict": "good", "feedback": "Warm and respectful. 'Señora' shows the right courtesy." },
+        { "es": "Gracias, igualmente.", "en": "Thanks, you too.", "verdict": "good", "feedback": "Nice — returning her blessing is a lovely touch." },
+        { "es": "Ok, adiós.", "en": "Ok, bye.", "verdict": "ok", "feedback": "A bit flat after such a kind send-off, but it works." }
+      ]
+    }
+  ]
+}

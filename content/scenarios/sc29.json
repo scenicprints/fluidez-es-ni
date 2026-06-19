@@ -1,0 +1,49 @@
+{
+  "id": "sc29",
+  "title": "At the juntada",
+  "desc": "Hang out, slang and all",
+  "setting": "You arrive at a house party full of Roberto's friends. The music's loud and everyone's in full casual mode.",
+  "ph": 5,
+  "steps": [
+    {
+      "speaker": "Beto",
+      "es": "¡Ideay, chele! Pensábamos que ya no venías.",
+      "en": "Hey, foreigner! We thought you weren't coming.",
+      "options": [
+        { "es": "¡Aquí ando, pues! No me lo iba a perder.", "en": "Here I am! I wasn't gonna miss it.", "verdict": "good", "feedback": "Natural and warm — 'aquí ando, pues' is exactly the right casual energy." },
+        { "es": "Disculpen la tardanza, había tráfico.", "en": "Excuse my lateness, there was traffic.", "verdict": "ok", "feedback": "A bit formal for a house party. Loosen up — nobody's clocking you here." },
+        { "es": "Sí, llegué.", "en": "Yes, I arrived.", "verdict": "ok", "feedback": "Flat. The party's lively — bring some of that energy in with you!" }
+      ]
+    },
+    {
+      "speaker": "Beto",
+      "es": "¡Eso! Agarrá una birra. ¿Cómo va todo, maje?",
+      "en": "There you go! Grab a beer. How's everything, dude?",
+      "options": [
+        { "es": "Todo deacachimba, maje. ¡Qué buen ambiente!", "en": "Everything's awesome, dude. What a great vibe!", "verdict": "good", "feedback": "Slang nailed — 'deacachimba' and complimenting the 'ambiente' fit perfectly." },
+        { "es": "Bien, todo en orden, gracias.", "en": "Good, all in order, thanks.", "verdict": "ok", "feedback": "Sounds like a business meeting! Match the party energy — keep it loose." },
+        { "es": "Pura vida, maje.", "en": "All good, dude.", "verdict": "good", "feedback": "Easy and upbeat. Works great in the moment." }
+      ]
+    },
+    {
+      "speaker": "Beto",
+      "es": "Más al rato ponemos música pa' bailar. ¿Le entrás?",
+      "en": "Later we'll put on music to dance. You in?",
+      "options": [
+        { "es": "¡Claro! Aunque bailo medio chambón, jaja.", "en": "Of course! Even though I dance kinda clumsy, haha.", "verdict": "good", "feedback": "Game and self-deprecating — 'chambón' (clumsy) is great slang. They'll love it." },
+        { "es": "Le entro, pero me enseñás los pasos.", "en": "I'm in, but you teach me the moves.", "verdict": "good", "feedback": "Enthusiastic and inviting them to include you. Perfect party spirit." },
+        { "es": "No, yo no bailo.", "en": "No, I don't dance.", "verdict": "bad", "feedback": "Flat refusal at a party shuts the door. Even 'I'm bad but I'll try' keeps you in the fun." }
+      ]
+    },
+    {
+      "speaker": "Beto",
+      "es": "¡Jajaja, este chele es lo máximo! Ya sos de la familia.",
+      "en": "Hahaha, this foreigner is the best! You're family now.",
+      "options": [
+        { "es": "¡Eso, maje! Gracias por hacerme sentir así.", "en": "Yeah, dude! Thanks for making me feel that way.", "verdict": "good", "feedback": "Warm and genuine while keeping the casual tone. A perfect blend." },
+        { "es": "La familia que uno escoge, ¿va?", "en": "The family you choose, right?", "verdict": "good", "feedback": "Beautiful — a little idiomatic wisdom dropped casually. That's fluency with heart." },
+        { "es": "Bueno, no exageremos.", "en": "Well, let's not exaggerate.", "verdict": "ok", "feedback": "Deflecting the warmth feels a bit cold. Just receive the love — they mean it." }
+      ]
+    }
+  ]
+}

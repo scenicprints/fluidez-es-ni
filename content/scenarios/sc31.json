@@ -1,0 +1,49 @@
+{
+  "id": "sc31",
+  "title": "A deep conversation",
+  "desc": "Discuss an abstract idea",
+  "setting": "Over coffee, a thoughtful friend asks you a big, open-ended question. This is about expressing ideas with nuance.",
+  "ph": 6,
+  "steps": [
+    {
+      "speaker": "Lucía",
+      "es": "¿Vos creés que la gente cambia de verdad?",
+      "en": "Do you think people really change?",
+      "options": [
+        { "es": "Creo que cambiamos, pero la esencia permanece.", "en": "I think we change, but the essence remains.", "verdict": "good", "feedback": "Nuanced and balanced — holding two ideas at once is exactly C1-level thought." },
+        { "es": "Sí.", "en": "Yes.", "verdict": "bad", "feedback": "A one-word answer wastes a rich question. This is the level where you develop ideas." },
+        { "es": "Depende de la persona y las circunstancias.", "en": "It depends on the person and circumstances.", "verdict": "good", "feedback": "Thoughtful hedging — acknowledging complexity is sophisticated and honest." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Interesante. ¿Y vos, has cambiado mucho?",
+      "en": "Interesting. And you, have you changed a lot?",
+      "options": [
+        { "es": "Más de lo que habría imaginado al llegar.", "en": "More than I would have imagined when I arrived.", "verdict": "good", "feedback": "Conditional perfect ('habría imaginado') used naturally — elegant and precise." },
+        { "es": "Sí, cambié.", "en": "Yes, I changed.", "verdict": "ok", "feedback": "True but thin. At this level, reach for the texture behind the answer." },
+        { "es": "El idioma me transformó por dentro, no solo la lengua.", "en": "The language transformed me inside, not just my speech.", "verdict": "good", "feedback": "Beautiful and reflective — a genuinely C1 way to express depth." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "¿En qué sentido te transformó?",
+      "en": "In what sense did it transform you?",
+      "options": [
+        { "es": "Aprender a pensar distinto me hizo ver el mundo distinto.", "en": "Learning to think differently made me see the world differently.", "verdict": "good", "feedback": "Articulate cause-and-effect on an abstract idea. This is real eloquence." },
+        { "es": "No sé explicarlo bien.", "en": "I can't explain it well.", "verdict": "ok", "feedback": "Honest, but you can — push a little. Even 'it's hard to put in words, but...' invites you to try." },
+        { "es": "Me dio otra forma de ser yo mismo.", "en": "It gave me another way of being myself.", "verdict": "good", "feedback": "Poetic and precise — a lovely, layered thought delivered cleanly." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Qué manera tan linda de decirlo.",
+      "en": "What a beautiful way to put it.",
+      "options": [
+        { "es": "Es que vos sacás lo mejor de mis pensamientos.", "en": "It's that you bring out the best in my thoughts.", "verdict": "good", "feedback": "Warm, gracious, and a little tender — closing an abstract talk on a human note. Perfect." },
+        { "es": "Gracias. Me gusta pensar en voz alta con vos.", "en": "Thanks. I like thinking out loud with you.", "verdict": "good", "feedback": "Sincere and natural — acknowledges the joy of the conversation itself." },
+        { "es": "Bueno, no es para tanto.", "en": "Well, it's not a big deal.", "verdict": "ok", "feedback": "Deflecting a genuine compliment dampens the moment. Receive it warmly." }
+      ]
+    }
+  ]
+}

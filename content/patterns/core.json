@@ -1,0 +1,74 @@
+[
+  {
+    "id": "voseo",
+    "title": "Voseo — The Nica 'You'",
+    "min": 3,
+    "trigger": [
+      "vos",
+      "sos",
+      "tenés",
+      "querés",
+      "sabés",
+      "podés",
+      "venís",
+      "hacés",
+      "mirá",
+      "andá",
+      "tomá"
+    ],
+    "text": "Nicaragua uses 'vos' instead of 'tú'. This changes conjugations:\n\n• Tú tienes → Vos tenés\n• Tú quieres → Vos querés\n• Tú sabes → Vos sabés\n\nPattern: stress the last syllable, drop -ie- stems.\n\nCommands: stress final syllable:\n• Mira → Mirá • Anda → Andá • Toma → Tomá\n\nYou'll never hear 'tú' in Nicaragua."
+  },
+  {
+    "id": "ser_estar",
+    "title": "Ser vs Estar — Two 'Be' Verbs",
+    "min": 4,
+    "trigger": [
+      "soy",
+      "es",
+      "son",
+      "estoy",
+      "está",
+      "están"
+    ],
+    "text": "SER — permanent things:\n• Soy de EEUU (origin)\n• Es doctora (profession)\n• Es grande (inherent quality)\n\nESTAR — temporary/location:\n• Estoy en Managua (location)\n• Estoy enfermo (temp state)\n• Está bueno (right now)\n\nIf it can change → estar.\nIf it defines what something IS → ser."
+  },
+  {
+    "id": "me_gusta",
+    "title": "Me gusta — Backwards 'Liking'",
+    "min": 3,
+    "trigger": [
+      "gusta",
+      "gustan",
+      "me"
+    ],
+    "text": "English: 'I like the food'\nSpanish: 'Me gusta la comida' (food pleases me)\n\nSubject is FLIPPED:\n• Me gusta el arroz (I like rice)\n• Me gustan los mangos (I like mangos)\n• ¿Te gusta Nicaragua?\n\nGusta = one thing. Gustan = multiple things."
+  },
+  {
+    "id": "nica_dir",
+    "title": "Nica Directions — No Street Names",
+    "min": 2,
+    "trigger": [
+      "cuadras",
+      "norte",
+      "sur",
+      "arriba",
+      "abajo",
+      "esquina"
+    ],
+    "text": "Managua has no street names. Everything is landmarks + compass:\n\n• '2 cuadras al norte del parque'\n• Arriba = east (sun comes up)\n• Abajo = west (sun goes down)\n• Al lago = toward Lake Managua\n\n'De la Rotonda, 3 arriba, 1 al sur, casa esquinera.'"
+  },
+  {
+    "id": "tener_expr",
+    "title": "Tener Expressions — 'To Have' = 'To Be'",
+    "min": 3,
+    "trigger": [
+      "tengo",
+      "tiene",
+      "hambre",
+      "años",
+      "miedo",
+      "razón"
+    ],
+    "text": "Spanish uses 'tener' (to have) where English uses 'to be':\n\n• Tengo hambre = I'm hungry (I have hunger)\n• Tengo 25 años = I'm 25 (I have 25 years)\n• Tengo miedo = I'm scared (I have fear)\n• Tiene razón = He's right (He has reason)\n• Tengo sed = I'm thirsty (I have thirst)\n• Tengo frío/calor = I'm cold/hot"
+  }
+]

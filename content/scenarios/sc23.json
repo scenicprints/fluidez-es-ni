@@ -1,0 +1,49 @@
+{
+  "id": "sc23",
+  "title": "Meeting the family",
+  "desc": "Make a good impression",
+  "setting": "Lucía has brought you home to meet her parents for the first time. Her mother opens the door.",
+  "ph": 4,
+  "steps": [
+    {
+      "speaker": "Doña Marta",
+      "es": "¡Pase! Así que usted es el famoso novio.",
+      "en": "Come in! So you're the famous boyfriend.",
+      "options": [
+        { "es": "Mucho gusto, doña. Le traje estas flores.", "en": "Nice to meet you, ma'am. I brought you these flowers.", "verdict": "good", "feedback": "Respectful 'doña' plus a thoughtful gift — a flawless first impression here." },
+        { "es": "Hola.", "en": "Hi.", "verdict": "bad", "feedback": "Far too casual for meeting a partner's mother. Warmth and respect matter enormously." },
+        { "es": "El mismo. Mucho gusto, señora.", "en": "The very one. Nice to meet you, ma'am.", "verdict": "good", "feedback": "Charming and polite — playing along with her warmth while staying respectful." }
+      ]
+    },
+    {
+      "speaker": "Doña Marta",
+      "es": "Qué detalle. Pase, pase, la comida está lista.",
+      "en": "How thoughtful. Come in, come in, the food is ready.",
+      "options": [
+        { "es": "Huele delicioso. Gracias por recibirme.", "en": "It smells delicious. Thank you for having me.", "verdict": "good", "feedback": "Praising the food and thanking her for the welcome — exactly right. She'll glow." },
+        { "es": "No tengo hambre, gracias.", "en": "I'm not hungry, thanks.", "verdict": "bad", "feedback": "She cooked to welcome you! Declining the meal would be a real misstep here." },
+        { "es": "¿Qué hizo de comer?", "en": "What did you cook?", "verdict": "ok", "feedback": "Curiosity is fine, but lead with gratitude for the welcome first." }
+      ]
+    },
+    {
+      "speaker": "Don Pedro",
+      "es": "Así que usted hace feliz a mi hija.",
+      "en": "So you're the one who makes my daughter happy.",
+      "options": [
+        { "es": "Hago todo lo posible, don Pedro.", "en": "I do everything I can, Don Pedro.", "verdict": "good", "feedback": "Humble, sincere, and using his name respectfully. A father wants to hear exactly this." },
+        { "es": "Eso espero, señor.", "en": "I hope so, sir.", "verdict": "good", "feedback": "Honest and modest — shows you take it seriously without overpromising." },
+        { "es": "Pues obvio, soy lo mejor que le pasó.", "en": "Well obviously, I'm the best thing that happened to her.", "verdict": "bad", "feedback": "Cocky with her father?! That's a fast way to lose his respect. Stay humble." }
+      ]
+    },
+    {
+      "speaker": "Doña Marta",
+      "es": "Espero que se sienta como en su casa, mijo.",
+      "en": "I hope you feel at home, dear.",
+      "options": [
+        { "es": "Ya me siento así. Se lo agradezco mucho.", "en": "I already do. I appreciate it so much.", "verdict": "good", "feedback": "Warm, grateful, and it honors her kindness. She just called you 'mijo' — you're in." },
+        { "es": "Gracias, doña. Son muy amables.", "en": "Thank you, ma'am. You're all very kind.", "verdict": "good", "feedback": "Gracious and respectful — acknowledging the whole family's warmth is a lovely touch." },
+        { "es": "Bueno, ya veremos.", "en": "Well, we'll see.", "verdict": "bad", "feedback": "Cold and guarded when she's embracing you. Receive the warmth openly." }
+      ]
+    }
+  ]
+}

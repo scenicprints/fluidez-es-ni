@@ -1,0 +1,49 @@
+{
+  "id": "sc25",
+  "title": "Making up after a fight",
+  "desc": "Repair things with someone you love",
+  "setting": "You and Lucía argued earlier and said things you regret. You've cooled down and come to make peace.",
+  "ph": 4,
+  "steps": [
+    {
+      "speaker": "Lucía",
+      "es": "Pensé que necesitabas espacio.",
+      "en": "I thought you needed space.",
+      "options": [
+        { "es": "Lo necesitaba, pero ahora quiero hablar.", "en": "I did, but now I want to talk.", "verdict": "good", "feedback": "Honest and constructive — acknowledging the space while choosing to reconnect. Mature." },
+        { "es": "Vine a arreglar las cosas.", "en": "I came to fix things.", "verdict": "good", "feedback": "Clear, warm intent. Leading with repair sets the right tone immediately." },
+        { "es": "Sigo enojado, pero bueno.", "en": "I'm still mad, but whatever.", "verdict": "bad", "feedback": "Coming in still hostile won't repair anything. Cool down fully before you talk." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Yo también dije cosas que no sentía.",
+      "en": "I said things I didn't mean too.",
+      "options": [
+        { "es": "Perdoná lo que dije. Estaba molesto, no pensé.", "en": "Forgive what I said. I was upset, I didn't think.", "verdict": "good", "feedback": "Owning your part without excuses is the heart of a real apology. Strong." },
+        { "es": "Empezaste vos.", "en": "You started it.", "verdict": "bad", "feedback": "Assigning blame reopens the fight. Repair means owning your side, not scoring points." },
+        { "es": "Los dos nos pasamos un poco.", "en": "We both went a little too far.", "verdict": "ok", "feedback": "Fair, though owning your own part specifically lands warmer than splitting it evenly." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "No me gusta pelear con vos.",
+      "en": "I don't like fighting with you.",
+      "options": [
+        { "es": "A mí tampoco. Quiero que entendás cómo me sentí.", "en": "Me neither. I want you to understand how I felt.", "verdict": "good", "feedback": "Agreeing AND gently asking to be understood — that's how you grow from a fight." },
+        { "es": "Entonces no peleemos más.", "en": "Then let's not fight anymore.", "verdict": "good", "feedback": "Simple and warm. A shared commitment to do better." },
+        { "es": "Pues entonces no hagás esas cosas.", "en": "Then don't do those things.", "verdict": "bad", "feedback": "Turning it into a demand reignites it. Speak from your feelings, not ultimatums." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Ven aquí. Te quiero, tonto.",
+      "en": "Come here. I love you, silly.",
+      "options": [
+        { "es": "Yo también te quiero. Perdón otra vez.", "en": "I love you too. Sorry again.", "verdict": "good", "feedback": "Warm, affectionate, and humble — the perfect way to close the loop and reconnect." },
+        { "es": "Ya, ven, te extrañé.", "en": "Come here, I missed you.", "verdict": "good", "feedback": "Tender and real — admitting you missed her even after a few hours is sweet." },
+        { "es": "Está bien, pero la próxima portate mejor.", "en": "Fine, but behave better next time.", "verdict": "bad", "feedback": "A jab in the middle of making up undoes it. Just receive the affection." }
+      ]
+    }
+  ]
+}

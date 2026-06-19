@@ -1,0 +1,49 @@
+{
+  "id": "sc38",
+  "title": "A battle of wits",
+  "desc": "Keep up with rapid wordplay",
+  "setting": "Among close friends, a fast-paced game of puns and comebacks breaks out. The skill: think in layers and volley instantly.",
+  "ph": 7,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "Maje, vos sos como el café: mejor con leche y sin amargura.",
+      "en": "Dude, you're like coffee: better with milk and without bitterness.",
+      "options": [
+        { "es": "Y vos como el azúcar: dulce pero malo en exceso.", "en": "And you're like sugar: sweet but bad in excess.", "verdict": "good", "feedback": "You extended his metaphor and flipped it back — that's high-level improvised wordplay. Brilliant." },
+        { "es": "Jaja, qué buena esa.", "en": "Haha, good one.", "verdict": "ok", "feedback": "Appreciating it is fine, but the game is to volley. Fire one back!" },
+        { "es": "No entendí.", "en": "I didn't get it.", "verdict": "bad", "feedback": "At this level you CAN get it — the milk/bitterness layering is the joke. Stay in the game." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "¡Uy! Te las traés. A ver si seguís el ritmo.",
+      "en": "Whoa! You've got it in you. Let's see if you keep the pace.",
+      "options": [
+        { "es": "Tranquilo, que el que ríe último, ríe mejor.", "en": "Relax, he who laughs last, laughs best.", "verdict": "good", "feedback": "Dropping a proverb mid-banter as a comeback — layered and witty. Native-level play." },
+        { "es": "Dale, tirá lo que tengás.", "en": "Go on, throw what you've got.", "verdict": "good", "feedback": "Confident and casual — accepting the challenge with swagger. Perfect energy." },
+        { "es": "Mejor paramos aquí.", "en": "Better we stop here.", "verdict": "ok", "feedback": "Bowing out early cuts the fun. You're holding your own — keep going!" }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Este chele ya no se deja. ¡Está deacachimba!",
+      "en": "This foreigner doesn't back down anymore. He's awesome!",
+      "options": [
+        { "es": "Es que con vos de rival, uno aprende a la fuerza.", "en": "It's that with you as a rival, one learns by force.", "verdict": "good", "feedback": "A compliment disguised as a jab — peak banter. You're thinking in two layers at once." },
+        { "es": "Años de aguantarte algo dejan, ¿no?", "en": "Years of putting up with you leave something, no?", "verdict": "good", "feedback": "Cheeky and affectionate — the perfect register among old friends. Effortless." },
+        { "es": "Gracias, me esfuerzo mucho.", "en": "Thanks, I try hard.", "verdict": "ok", "feedback": "Too earnest for the moment — the bit's still flying. Keep playing!" }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Jajaja, ya sos más nica que el gallo pinto, maje.",
+      "en": "Hahaha, you're more Nica than gallo pinto now, dude.",
+      "options": [
+        { "es": "Y con más sabor, modestia aparte.", "en": "And with more flavor, modesty aside.", "verdict": "good", "feedback": "You extended the food metaphor with a wink — the comedic button on the whole exchange. Masterful." },
+        { "es": "No hay mayor honor que ese, hermano.", "en": "There's no greater honor than that, brother.", "verdict": "good", "feedback": "Warm sincerity landing after all the jokes — a perfect tonal shift to close on." },
+        { "es": "Bueno, ya, suficiente.", "en": "Okay, enough.", "verdict": "ok", "feedback": "Ending it flatly wastes a great setup. Land one more line, then bask in it." }
+      ]
+    }
+  ]
+}

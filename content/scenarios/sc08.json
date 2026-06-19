@@ -1,0 +1,49 @@
+{
+  "id": "sc08",
+  "title": "Catching the bus",
+  "desc": "Ride the urban bus and pay the fare",
+  "setting": "A crowded bus pulls up. You squeeze on and the cobrador (fare collector) works his way toward you.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Cobrador",
+      "es": "¡Pasaje, pasaje! ¿Para dónde, joven?",
+      "en": "Fare, fare! Where to, young man?",
+      "options": [
+        { "es": "Al centro. ¿Cuánto es?", "en": "Downtown. How much is it?", "verdict": "good", "feedback": "Destination plus the fare question — efficient, exactly right for a packed bus." },
+        { "es": "Voy al centro.", "en": "I'm going downtown.", "verdict": "ok", "feedback": "Good — he'll tell you the fare. Asking the price yourself is even smoother." },
+        { "es": "No sé.", "en": "I don't know.", "verdict": "bad", "feedback": "On a moving bus he needs a quick answer. Have your stop ready." }
+      ]
+    },
+    {
+      "speaker": "Cobrador",
+      "es": "Cinco córdobas.",
+      "en": "Five córdobas.",
+      "options": [
+        { "es": "Aquí tiene.", "en": "Here you go.", "verdict": "good", "feedback": "Quick and clear — hand over the coins and you're set." },
+        { "es": "¿Tiene cambio de cien?", "en": "Do you have change for a hundred?", "verdict": "ok", "feedback": "Fair to ask, but small bills are gold on buses. Try to have coins ready." },
+        { "es": "Es muy caro.", "en": "That's very expensive.", "verdict": "bad", "feedback": "Five córdobas is the fixed fare — there's no haggling on the bus!" }
+      ]
+    },
+    {
+      "speaker": "Señora a la par",
+      "es": "Agárrese bien, que este chofer maneja recio.",
+      "en": "Hold on tight, this driver drives hard.",
+      "options": [
+        { "es": "Gracias por avisar.", "en": "Thanks for the heads-up.", "verdict": "good", "feedback": "Friendly — strangers look out for each other on the bus. Accept the kindness." },
+        { "es": "Sí, ya lo siento.", "en": "Yeah, I can feel it.", "verdict": "good", "feedback": "Nice, natural reply — shares the moment with a little humor." },
+        { "es": "No me hable.", "en": "Don't talk to me.", "verdict": "bad", "feedback": "Yikes — she's being kind! That would be rude here, where buses are social." }
+      ]
+    },
+    {
+      "speaker": "Cobrador",
+      "es": "¡Centro! El que se baja, que se baje ya.",
+      "en": "Downtown! Whoever's getting off, get off now.",
+      "options": [
+        { "es": "¡Aquí, por favor! Permiso.", "en": "Here, please! Excuse me.", "verdict": "good", "feedback": "'Permiso' to squeeze past the crowd is essential bus etiquette. Perfect." },
+        { "es": "¡Me bajo aquí!", "en": "I'm getting off here!", "verdict": "good", "feedback": "Clear and loud enough to be heard — just what's needed." },
+        { "es": "Un momento...", "en": "One moment...", "verdict": "bad", "feedback": "The bus won't wait! You have to move quickly at your stop." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sc20",
+  "title": "The job interview",
+  "desc": "Present yourself with confidence",
+  "setting": "You're interviewing for a position you really want. The manager begins the interview.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Gerente",
+      "es": "Cuénteme un poco sobre su experiencia.",
+      "en": "Tell me a bit about your experience.",
+      "options": [
+        { "es": "Tengo cinco años trabajando con computadoras.", "en": "I have five years working with computers.", "verdict": "good", "feedback": "Concrete and confident. Leading with a clear fact makes a strong impression." },
+        { "es": "Pues... un poco de todo.", "en": "Well... a bit of everything.", "verdict": "ok", "feedback": "Too vague for an interview. Give specifics — years, skills, roles." },
+        { "es": "No tengo mucha experiencia.", "en": "I don't have much experience.", "verdict": "bad", "feedback": "Don't undersell yourself out of the gate! Frame what you DO have positively." }
+      ]
+    },
+    {
+      "speaker": "Gerente",
+      "es": "¿Y cuáles diría que son sus fortalezas?",
+      "en": "And what would you say your strengths are?",
+      "options": [
+        { "es": "Soy organizado y aprendo rápido.", "en": "I'm organized and I learn fast.", "verdict": "good", "feedback": "Two clear strengths, stated plainly. Exactly what she's listening for." },
+        { "es": "Hablo varios idiomas, incluido español.", "en": "I speak several languages, including Spanish.", "verdict": "good", "feedback": "Great — and saying it IN Spanish proves it. Strong move." },
+        { "es": "No sé, supongo que soy normal.", "en": "I don't know, I guess I'm average.", "verdict": "bad", "feedback": "An interview is the time to shine, not shrink. Name a real strength with confidence." }
+      ]
+    },
+    {
+      "speaker": "Gerente",
+      "es": "¿Por qué quiere trabajar con nosotros?",
+      "en": "Why do you want to work with us?",
+      "options": [
+        { "es": "Porque creo que puedo aportar mucho aquí.", "en": "Because I believe I can contribute a lot here.", "verdict": "good", "feedback": "Focuses on what you'll give, not just get. That's what managers want to hear." },
+        { "es": "Porque necesito un trabajo.", "en": "Because I need a job.", "verdict": "bad", "feedback": "Honest, but it's all about you. Show interest in what you'd bring to them." },
+        { "es": "Me interesa mucho lo que hace la empresa.", "en": "I'm very interested in what the company does.", "verdict": "good", "feedback": "Shows genuine interest in them specifically. A solid, professional answer." }
+      ]
+    },
+    {
+      "speaker": "Gerente",
+      "es": "Muy bien. ¿Cuándo podría empezar?",
+      "en": "Very good. When could you start?",
+      "options": [
+        { "es": "Puedo empezar cuando usted necesite.", "en": "I can start whenever you need.", "verdict": "good", "feedback": "Flexible and eager — a great closing note that signals real availability." },
+        { "es": "Tendría que pensarlo.", "en": "I'd have to think about it.", "verdict": "ok", "feedback": "Reasonable if true, but at the offer stage, hesitation can cool their interest." },
+        { "es": "Cuando me paguen bien.", "en": "When you pay me well.", "verdict": "bad", "feedback": "Leading with money before an offer comes off poorly. Save salary talk for later." }
+      ]
+    }
+  ]
+}

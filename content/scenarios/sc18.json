@@ -1,0 +1,49 @@
+{
+  "id": "sc18",
+  "title": "Clearing the air",
+  "desc": "Resolve a misunderstanding with a friend",
+  "setting": "Roberto has been short with you all day. You sense something's wrong and decide to address it.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "Dijiste que venías ayer y nunca llegaste.",
+      "en": "You said you were coming yesterday and never showed up.",
+      "options": [
+        { "es": "Creo que hubo un malentendido. Yo entendí hoy.", "en": "I think there was a misunderstanding. I understood today.", "verdict": "good", "feedback": "Naming it as a misunderstanding (not blaming) opens the door to fixing it calmly." },
+        { "es": "Yo nunca dije eso.", "en": "I never said that.", "verdict": "bad", "feedback": "Flat denial escalates things. Even if you're sure, lead with curiosity, not defense." },
+        { "es": "Ah, perdón, se me olvidó.", "en": "Oh, sorry, I forgot.", "verdict": "ok", "feedback": "Honest if true — but if it was really a mix-up, say so rather than take false blame." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "¿En serio? Yo te dije bien claro que era ayer.",
+      "en": "Really? I told you clearly it was yesterday.",
+      "options": [
+        { "es": "Puede que no te entendí bien. Disculpá.", "en": "Maybe I didn't understand you well. Sorry.", "verdict": "good", "feedback": "Taking partial responsibility cools things without grovelling. Very mature." },
+        { "es": "Entonces te equivocaste vos.", "en": "Then YOU got it wrong.", "verdict": "bad", "feedback": "Turning it into blame reignites the conflict. The goal is to repair, not win." },
+        { "es": "Bueno, ya pasó, no importa.", "en": "Well, it's over, doesn't matter.", "verdict": "ok", "feedback": "Brushing it off can feel dismissive when he's clearly bothered. Acknowledge his feeling." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Bueno, tal vez los dos nos confundimos.",
+      "en": "Well, maybe we both got confused.",
+      "options": [
+        { "es": "Seguro. Lo importante es aclararlo.", "en": "Surely. The important thing is to clear it up.", "verdict": "good", "feedback": "Refocusing on resolution over fault — exactly how to close a misunderstanding." },
+        { "es": "Sí, no quiero que quedemos mal por esto.", "en": "Yes, I don't want us to be on bad terms over this.", "verdict": "good", "feedback": "Naming that you value the friendship is warm and disarming. Beautiful." },
+        { "es": "Como sea.", "en": "Whatever.", "verdict": "bad", "feedback": "Dismissive — he just offered an olive branch. Meet it, don't swat it away." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Tenés razón. Todo bien, hermano.",
+      "en": "You're right. All good, brother.",
+      "options": [
+        { "es": "Todo bien. Gracias por hablarlo.", "en": "All good. Thanks for talking it out.", "verdict": "good", "feedback": "Appreciating the conversation itself strengthens the bond. Perfect close." },
+        { "es": "Listo. La próxima confirmo bien.", "en": "Done. Next time I'll confirm clearly.", "verdict": "good", "feedback": "Owning a small fix going forward shows real maturity. Nicely done." },
+        { "es": "Ya era hora.", "en": "About time.", "verdict": "bad", "feedback": "A jab at the end undoes the repair. End warm when someone offers peace." }
+      ]
+    }
+  ]
+}

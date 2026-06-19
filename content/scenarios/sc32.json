@@ -1,0 +1,49 @@
+{
+  "id": "sc32",
+  "title": "The hypothetical game",
+  "desc": "Play with 'what if'",
+  "setting": "Friends are passing time with hypothetical questions. The skill: the past subjunctive and conditional, used smoothly.",
+  "ph": 6,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "Si pudieras vivir en cualquier época, ¿cuál sería?",
+      "en": "If you could live in any era, which would it be?",
+      "options": [
+        { "es": "Si pudiera, escogería los años sesenta.", "en": "If I could, I'd choose the sixties.", "verdict": "good", "feedback": "Past subjunctive + conditional, paired perfectly ('pudiera' / 'escogería'). Flawless." },
+        { "es": "Los años sesenta.", "en": "The sixties.", "verdict": "ok", "feedback": "Answers it, but skips the grammar the game is built on. Frame it with 'si pudiera...'" },
+        { "es": "Vivo en los sesenta.", "en": "I live in the sixties.", "verdict": "bad", "feedback": "Present tense breaks the hypothetical. This needs the conditional: 'viviría' or 'escogería'." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "¡Buena! ¿Y si tuvieras que renunciar a un sentido?",
+      "en": "Nice! And if you had to give up one sense?",
+      "options": [
+        { "es": "Si tuviera que hacerlo, renunciaría al olfato.", "en": "If I had to, I'd give up smell.", "verdict": "good", "feedback": "'Si tuviera... renunciaría' — textbook-perfect hypothetical, delivered naturally." },
+        { "es": "Renunciaría al olfato, creo.", "en": "I'd give up smell, I think.", "verdict": "good", "feedback": "Clean conditional with a natural hedge ('creo'). Works beautifully." },
+        { "es": "No quiero renunciar a nada.", "en": "I don't want to give up anything.", "verdict": "ok", "feedback": "Dodges the game — fine once, but the fun is in playing along with the hypothetical." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Jajaja. ¿Y si no hubieras venido a Nicaragua?",
+      "en": "Hahaha. And if you hadn't come to Nicaragua?",
+      "options": [
+        { "es": "Si no hubiera venido, no sería quien soy hoy.", "en": "If I hadn't come, I wouldn't be who I am today.", "verdict": "good", "feedback": "Pluperfect subjunctive + conditional ('hubiera venido' / 'sería') — advanced and elegant." },
+        { "es": "Mi vida habría sido muy diferente.", "en": "My life would have been very different.", "verdict": "good", "feedback": "Conditional perfect ('habría sido') — sophisticated and exactly right." },
+        { "es": "No vine, pero aquí estoy.", "en": "I didn't come, but here I am.", "verdict": "bad", "feedback": "Contradicts itself and drops the hypothetical. Use 'si no hubiera venido...'" }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Qué profundo te pusiste, maje.",
+      "en": "You got deep, dude.",
+      "options": [
+        { "es": "Vos preguntaste, yo solo respondí con el alma.", "en": "You asked, I just answered from the soul.", "verdict": "good", "feedback": "Playful yet sincere — a graceful register blend between the game and real feeling." },
+        { "es": "Es que tus preguntas dan para pensar.", "en": "It's that your questions give a lot to think about.", "verdict": "good", "feedback": "Natural and warm — turns the compliment back nicely." },
+        { "es": "Perdón por ponerme serio.", "en": "Sorry for getting serious.", "verdict": "ok", "feedback": "No need to apologize for depth! Own the thoughtful moment." }
+      ]
+    }
+  ]
+}

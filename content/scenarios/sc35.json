@@ -1,0 +1,49 @@
+{
+  "id": "sc35",
+  "title": "Speaking for a cause",
+  "desc": "Persuade a group with conviction",
+  "setting": "At a community meeting about fixing the neighborhood park, you're asked to make the case. The skill: persuasive, eloquent advocacy.",
+  "ph": 6,
+  "steps": [
+    {
+      "speaker": "Vecino",
+      "es": "¿Y por qué deberíamos gastar en ese parque viejo?",
+      "en": "And why should we spend on that old park?",
+      "options": [
+        { "es": "Porque no es solo un parque; es el corazón del barrio.", "en": "Because it's not just a park; it's the heart of the neighborhood.", "verdict": "good", "feedback": "Reframing from cost to meaning — that's persuasive rhetoric. Opens hearts, not just minds." },
+        { "es": "Porque está feo.", "en": "Because it's ugly.", "verdict": "bad", "feedback": "Too thin to move anyone. Advocacy needs a vision, not just a complaint." },
+        { "es": "Porque nuestros hijos merecen un lugar seguro.", "en": "Because our children deserve a safe place.", "verdict": "good", "feedback": "Appeals to shared values — children, safety. Emotionally resonant and effective." }
+      ]
+    },
+    {
+      "speaker": "Vecino",
+      "es": "Pero no tenemos dinero para eso.",
+      "en": "But we don't have money for that.",
+      "options": [
+        { "es": "Si nos organizamos, juntos podemos lograr más de lo que creemos.", "en": "If we organize, together we can achieve more than we think.", "verdict": "good", "feedback": "Conditional 'si nos organizamos' plus a hopeful vision — rallying language at its best." },
+        { "es": "El dinero siempre es excusa.", "en": "Money is always an excuse.", "verdict": "bad", "feedback": "Dismissing a real concern alienates people. Address it, don't belittle it." },
+        { "es": "Podemos pedir ayuda y aportar entre todos.", "en": "We can ask for help and all chip in.", "verdict": "good", "feedback": "Concrete and inclusive — turns an objection into a shared plan. Smart advocacy." }
+      ]
+    },
+    {
+      "speaker": "Vecino",
+      "es": "Suena bonito, pero ¿de verdad cambiaría algo?",
+      "en": "Sounds nice, but would it really change anything?",
+      "options": [
+        { "es": "Un barrio que cuida sus espacios se cuida a sí mismo.", "en": "A neighborhood that cares for its spaces cares for itself.", "verdict": "good", "feedback": "Aphoristic and quotable — the kind of line that sticks in people's minds. Eloquent." },
+        { "es": "Tal vez no, pero hay que intentar.", "en": "Maybe not, but we have to try.", "verdict": "ok", "feedback": "Honest, but it concedes too much ground. Lead with conviction, not doubt." },
+        { "es": "Imaginen a los niños jugando ahí de nuevo.", "en": "Imagine the children playing there again.", "verdict": "good", "feedback": "Painting a vivid picture is powerful persuasion — you make them feel the future." }
+      ]
+    },
+    {
+      "speaker": "Vecino",
+      "es": "Bueno... el chele habla con razón. ¡Cuenten conmigo!",
+      "en": "Well... the foreigner makes sense. Count me in!",
+      "options": [
+        { "es": "¡Eso! Juntos vamos a recuperar lo nuestro.", "en": "Yes! Together we'll reclaim what's ours.", "verdict": "good", "feedback": "Rallying and unifying — 'lo nuestro' makes it collective. A rousing close." },
+        { "es": "Gracias. Sabía que entenderían.", "en": "Thank you. I knew you'd understand.", "verdict": "good", "feedback": "Gracious and affirming — credits them for coming around. Warm leadership." },
+        { "es": "Por fin alguien razona.", "en": "Finally someone reasons.", "verdict": "bad", "feedback": "Condescending — it insults everyone who hesitated. You just won them over; don't lose them now." }
+      ]
+    }
+  ]
+}

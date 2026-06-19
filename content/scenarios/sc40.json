@@ -1,0 +1,49 @@
+{
+  "id": "sc40",
+  "title": "They think you're a native",
+  "desc": "The journey comes full circle",
+  "setting": "In a city where no one knows you, a stranger chats with you and simply assumes you were born here. The final test — and the payoff.",
+  "ph": 7,
+  "steps": [
+    {
+      "speaker": "Desconocido",
+      "es": "¿Vos también sos de por aquí? Se nota el acento.",
+      "en": "Are you from around here too? I can tell by the accent.",
+      "options": [
+        { "es": "Llevo el acento bien puesto, ¿verdad?", "en": "I wear the accent well, don't I?", "verdict": "good", "feedback": "Playful and confident — letting the assumption ride with a wink. You've earned the smoothness." },
+        { "es": "Algo así. El corazón sí es de aquí.", "en": "Something like that. My heart, at least, is from here.", "verdict": "good", "feedback": "Poetic and warm — true without breaking the moment. A graceful, earned answer." },
+        { "es": "No, en realidad soy extranjero.", "en": "No, actually I'm a foreigner.", "verdict": "ok", "feedback": "Perfectly honest — and a fine choice. But notice: he couldn't tell. That's the whole journey, right there." }
+      ]
+    },
+    {
+      "speaker": "Desconocido",
+      "es": "¡No me digás! Pues hablás igualito que nosotros.",
+      "en": "You don't say! Well, you talk just like us.",
+      "options": [
+        { "es": "Es que esta tierra se me metió en el alma.", "en": "It's that this land got into my soul.", "verdict": "good", "feedback": "A line worthy of the moment — almost literary, deeply felt. This is C2 with heart." },
+        { "es": "Años de vivir, escuchar y querer este lugar.", "en": "Years of living, listening, and loving this place.", "verdict": "good", "feedback": "Beautifully balanced — the recipe for true fluency in one elegant sentence." },
+        { "es": "Sí, me costó mucho lograrlo.", "en": "Yes, it took me a lot to achieve it.", "verdict": "ok", "feedback": "True, but it centers the struggle over the joy. Let the wonder of arriving shine through." }
+      ]
+    },
+    {
+      "speaker": "Desconocido",
+      "es": "Qué bonito. ¿Y nunca pensás en irte?",
+      "en": "How nice. And do you never think of leaving?",
+      "options": [
+        { "es": "¿Para qué irme, si ya encontré mi lugar en el mundo?", "en": "Why leave, if I already found my place in the world?", "verdict": "good", "feedback": "A rhetorical question delivered with quiet certainty — eloquent and moving. The summit." },
+        { "es": "Uno no deja el lugar que lo hizo quien es.", "en": "One doesn't leave the place that made them who they are.", "verdict": "good", "feedback": "Aphoristic and profound — the kind of line a native might say. You've fully arrived." },
+        { "es": "A veces, pero no en serio.", "en": "Sometimes, but not seriously.", "verdict": "ok", "feedback": "Honest, but it lets the air out of a soaring moment. Trust the depth you're capable of now." }
+      ]
+    },
+    {
+      "speaker": "Desconocido",
+      "es": "Pues bienvenido a casa, paisano.",
+      "en": "Well, welcome home, countryman.",
+      "options": [
+        { "es": "Gracias, paisano. No hay palabra más linda que 'casa'.", "en": "Thanks, countryman. There's no lovelier word than 'home'.", "verdict": "good", "feedback": "The perfect final note of the entire journey — being called 'paisano' and embracing 'casa.' Complete." },
+        { "es": "En casa, por fin. Gracias.", "en": "Home, at last. Thank you.", "verdict": "good", "feedback": "Quiet, earned, and deeply moving. After the whole road from 'buenas' — this is the destination." },
+        { "es": "Gracias, igual.", "en": "Thanks, you too.", "verdict": "ok", "feedback": "A bit flat for the moment that closes everything. Let 'casa' land with the weight it's earned." }
+      ]
+    }
+  ]
+}

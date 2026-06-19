@@ -1,0 +1,49 @@
+{
+  "id": "sc26",
+  "title": "Talking like a local",
+  "desc": "Keep up with casual slang",
+  "setting": "You run into Roberto on the street. He greets you in full casual Nica mode.",
+  "ph": 5,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "¡Ey, maje! ¿Qué te contás?",
+      "en": "Hey, dude! What's up with you?",
+      "options": [
+        { "es": "Aquí nomás, maje. ¿Y vos?", "en": "Just here, dude. And you?", "verdict": "good", "feedback": "Perfect register — 'maje' back at him plus the casual 'aquí nomás.' You sound local." },
+        { "es": "Estoy bien, gracias. ¿Cómo está usted?", "en": "I'm fine, thank you. How are you?", "verdict": "bad", "feedback": "Way too formal with a buddy! 'Usted' with Roberto sounds stiff and distant here." },
+        { "es": "Ahí, en la lucha, pues.", "en": "There, hustling, you know.", "verdict": "good", "feedback": "'En la lucha' (in the struggle/grind) is a great casual answer. Very natural." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Fijate que hoy hay juntada donde Beto. ¿Te apuntás?",
+      "en": "So there's a get-together at Beto's today. You in?",
+      "options": [
+        { "es": "¡Dale pues! ¿A qué hora?", "en": "Yeah, sure! What time?", "verdict": "good", "feedback": "'Dale pues' is the ideal casual yes, and you got the practical detail. Smooth." },
+        { "es": "Tal vez, ahí veo.", "en": "Maybe, I'll see.", "verdict": "ok", "feedback": "Careful — to a Nica ear 'ahí veo' often signals a soft no. If you mean yes, say it!" },
+        { "es": "Sí, me gustaría asistir al evento.", "en": "Yes, I'd like to attend the event.", "verdict": "ok", "feedback": "Grammatically perfect but stiff — 'asistir al evento' for a house party sounds like a textbook." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "¡Tuani! Va a estar deacachimba la cosa.",
+      "en": "Awesome! It's gonna be a great time.",
+      "options": [
+        { "es": "¡Buenísimo! Ahí llego sin falta.", "en": "Great! I'll be there for sure.", "verdict": "good", "feedback": "Enthusiastic and natural. 'Sin falta' (without fail) shows you're committed." },
+        { "es": "Qué bueno que será divertido.", "en": "How nice that it'll be fun.", "verdict": "ok", "feedback": "A little flat next to his energy. Match his vibe — get hyped!" },
+        { "es": "Ojalá no esté aburrido.", "en": "Hopefully it won't be boring.", "verdict": "bad", "feedback": "Kind of a downer when he's hyping it up. Read the energy and roll with it." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "De show, maje. Nos vemos al rato.",
+      "en": "Cool, dude. See you in a bit.",
+      "options": [
+        { "es": "Ahí nos vemos, maje. Cuídate.", "en": "See you there, dude. Take care.", "verdict": "good", "feedback": "Casual, warm, perfectly matched to him. You closed it like a true compa." },
+        { "es": "Hasta luego, que tenga buen día.", "en": "Goodbye, have a good day.", "verdict": "ok", "feedback": "Polite but formal again — with Roberto, keep it loose: 'nos vemos, maje.'" },
+        { "es": "Dale, al rato pues.", "en": "Cool, in a bit then.", "verdict": "good", "feedback": "Easy and natural — 'al rato pues' is exactly how friends sign off here." }
+      ]
+    }
+  ]
+}

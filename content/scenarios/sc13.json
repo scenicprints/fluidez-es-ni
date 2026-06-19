@@ -1,0 +1,49 @@
+{
+  "id": "sc13",
+  "title": "Dinner at a friend's house",
+  "desc": "Be a gracious guest",
+  "setting": "You've been invited to Roberto's home for dinner. His mother greets you at the door.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Doña Rosa",
+      "es": "¡Pase, pase! Qué bueno que vino.",
+      "en": "Come in, come in! So glad you came.",
+      "options": [
+        { "es": "Gracias por invitarme, doña.", "en": "Thank you for inviting me, ma'am.", "verdict": "good", "feedback": "Gracious and respectful — 'doña' is just the right touch of warmth." },
+        { "es": "Hola.", "en": "Hi.", "verdict": "ok", "feedback": "Too casual for a host welcoming you in. A thank-you sets the right tone." },
+        { "es": "Traje hambre.", "en": "I brought my appetite.", "verdict": "good", "feedback": "Ha! Playful and charming — Nica hosts love a guest ready to eat." }
+      ]
+    },
+    {
+      "speaker": "Doña Rosa",
+      "es": "Siéntese. Hice gallo pinto y carne. Coma, coma.",
+      "en": "Sit down. I made gallo pinto and meat. Eat, eat.",
+      "options": [
+        { "es": "Se ve riquísimo. Gracias, doña.", "en": "It looks delicious. Thank you, ma'am.", "verdict": "good", "feedback": "Complimenting the food before eating delights any cook. Perfect." },
+        { "es": "No tengo mucha hambre.", "en": "I'm not very hungry.", "verdict": "bad", "feedback": "Ouch — she cooked for you! That would hurt her feelings here." },
+        { "es": "Gracias. ¿Puedo servirme?", "en": "Thanks. May I serve myself?", "verdict": "ok", "feedback": "Polite, though she'll likely insist on serving you a generous plate herself." }
+      ]
+    },
+    {
+      "speaker": "Doña Rosa",
+      "es": "¿Le gustó? ¿Quiere más?",
+      "en": "Did you like it? Want more?",
+      "options": [
+        { "es": "Estaba delicioso. Un poquito más, gracias.", "en": "It was delicious. A little more, thanks.", "verdict": "good", "feedback": "Accepting seconds is a compliment in itself. 'Estaba delicioso' is perfect past tense." },
+        { "es": "Sí, todo muy rico. Ya quedé lleno.", "en": "Yes, all delicious. I'm full now.", "verdict": "good", "feedback": "Gracious either way — praising the food while gently declining more is smooth." },
+        { "es": "No, estuvo normal.", "en": "No, it was just okay.", "verdict": "bad", "feedback": "'Just okay' about a home-cooked meal? That stings. Always praise the cook." }
+      ]
+    },
+    {
+      "speaker": "Doña Rosa",
+      "es": "Aquí siempre tiene su plato, mijo.",
+      "en": "Here you always have your plate, dear.",
+      "options": [
+        { "es": "Eso significa mucho para mí. Gracias.", "en": "That means a lot to me. Thank you.", "verdict": "good", "feedback": "Heartfelt — she just treated you like family, and you honored it." },
+        { "es": "Qué amable, doña. Gracias.", "en": "How kind, ma'am. Thank you.", "verdict": "good", "feedback": "Warm and respectful. A lovely way to receive her generosity." },
+        { "es": "Bueno, adiós.", "en": "Okay, bye.", "verdict": "bad", "feedback": "Way too abrupt after such a tender thing to say! Meet warmth with warmth." }
+      ]
+    }
+  ]
+}

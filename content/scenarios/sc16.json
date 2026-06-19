@@ -1,0 +1,49 @@
+{
+  "id": "sc16",
+  "title": "Making a complaint",
+  "desc": "Return a broken product",
+  "setting": "The fan you bought last week stopped working. You return to the store with your receipt.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Empleada",
+      "es": "Buenas. ¿En qué le ayudo?",
+      "en": "Hello. How can I help you?",
+      "options": [
+        { "es": "Compré este ventilador y ya no funciona.", "en": "I bought this fan and it no longer works.", "verdict": "good", "feedback": "Clear and factual — states the problem without aggression. Exactly right." },
+        { "es": "Este ventilador es una basura.", "en": "This fan is garbage.", "verdict": "bad", "feedback": "Starting hostile puts her on the defensive. Calm and factual gets better results." },
+        { "es": "Tengo un problema con esto.", "en": "I have a problem with this.", "verdict": "ok", "feedback": "Okay, but vague. Saying what's actually wrong moves things faster." }
+      ]
+    },
+    {
+      "speaker": "Empleada",
+      "es": "¿Tiene el recibo y cuánto hace que lo compró?",
+      "en": "Do you have the receipt, and how long ago did you buy it?",
+      "options": [
+        { "es": "Sí, aquí está. Lo compré hace una semana.", "en": "Yes, here it is. I bought it a week ago.", "verdict": "good", "feedback": "Receipt plus a clear timeframe — you're making her job easy. Perfect." },
+        { "es": "No tengo recibo.", "en": "I don't have a receipt.", "verdict": "ok", "feedback": "Harder without it, but worth trying. Bring the receipt when you can." },
+        { "es": "Hace mucho, no me acuerdo.", "en": "A long time ago, I don't remember.", "verdict": "bad", "feedback": "Vague timing weakens your case — and warranties have limits. Be specific." }
+      ]
+    },
+    {
+      "speaker": "Empleada",
+      "es": "Déjeme revisar. ¿Qué solución busca usted?",
+      "en": "Let me check. What solution are you looking for?",
+      "options": [
+        { "es": "Quiero un cambio o que me devuelvan el dinero.", "en": "I want an exchange or my money back.", "verdict": "good", "feedback": "Stating your desired outcome clearly is exactly how to resolve a complaint." },
+        { "es": "Lo que usted crea justo.", "en": "Whatever you think is fair.", "verdict": "ok", "feedback": "Polite, but naming what you want protects your interest. Don't be shy here." },
+        { "es": "No sé, usted dígame.", "en": "I don't know, you tell me.", "verdict": "ok", "feedback": "Hands her all the power. Knowing your ask gives you footing." }
+      ]
+    },
+    {
+      "speaker": "Empleada",
+      "es": "Tiene razón, está en garantía. Le doy uno nuevo.",
+      "en": "You're right, it's under warranty. I'll give you a new one.",
+      "options": [
+        { "es": "Se lo agradezco mucho. Muy amable.", "en": "I appreciate it very much. Very kind.", "verdict": "good", "feedback": "Gracious in victory — leaving on good terms is smart and warm." },
+        { "es": "Por fin. Debió ser más rápido.", "en": "Finally. It should've been faster.", "verdict": "bad", "feedback": "She just helped you! Souring it at the end burns goodwill you may need again." },
+        { "es": "Perfecto, gracias.", "en": "Perfect, thanks.", "verdict": "good", "feedback": "Clean and polite. A satisfying close to a complaint handled well." }
+      ]
+    }
+  ]
+}

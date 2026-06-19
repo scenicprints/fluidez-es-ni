@@ -1,0 +1,49 @@
+{
+  "id": "sc28",
+  "title": "Reading between the lines",
+  "desc": "Catch what isn't said",
+  "setting": "You invite an acquaintance to help you move on Saturday. Listen carefully to what he really means.",
+  "ph": 5,
+  "steps": [
+    {
+      "speaker": "Conocido",
+      "es": "¿El sábado? Uy... fijate que ahí veo, maje.",
+      "en": "Saturday? Oof... well, I'll see, dude.",
+      "options": [
+        { "es": "Tranquilo, si no podés no hay bronca.", "en": "No worries, if you can't, it's all good.", "verdict": "good", "feedback": "You read it right — 'ahí veo' is a soft no. Giving him an easy out is the gracious move." },
+        { "es": "¡Genial, entonces contá conmigo que ahí estás!", "en": "Great, so count on it, you're in!", "verdict": "bad", "feedback": "He was gently declining! Pushing past a soft no puts him in an awkward spot." },
+        { "es": "¿Eso es un sí o un no?", "en": "Is that a yes or a no?", "verdict": "ok", "feedback": "Direct — sometimes useful, but here it corners him. Reading the hint is smoother." }
+      ]
+    },
+    {
+      "speaker": "Conocido",
+      "es": "Es que tengo un compromiso, creo. No estoy seguro.",
+      "en": "It's that I have a commitment, I think. I'm not sure.",
+      "options": [
+        { "es": "No te preocupés, ya conseguiré quién me ayude.", "en": "Don't worry, I'll find someone to help.", "verdict": "good", "feedback": "Perfect — you let him off the hook without making him say no outright. Very culturally tuned." },
+        { "es": "Pero si no estás seguro, ¡entonces vení!", "en": "But if you're not sure, then come!", "verdict": "bad", "feedback": "He's hedging on purpose to be polite. Don't trap him — that's the whole point of the hint." },
+        { "es": "Bueno, avisame si podés.", "en": "Okay, let me know if you can.", "verdict": "ok", "feedback": "Reasonable, though it gently keeps the pressure on. A clean release would be kinder." }
+      ]
+    },
+    {
+      "speaker": "Conocido",
+      "es": "Sí, mejor así. Pero cualquier otra cosa, ahí estoy.",
+      "en": "Yeah, better that way. But anything else, I'm here.",
+      "options": [
+        { "es": "Claro, maje. Para una birra siempre, ¿va?", "en": "Of course, dude. For a beer always, right?", "verdict": "good", "feedback": "You kept it warm and light — reading the room and keeping the friendship easy. Spot on." },
+        { "es": "Ya veo, solo no querías ayudar a mover.", "en": "I see, you just didn't want to help move.", "verdict": "bad", "feedback": "Calling out the soft no embarrasses him. The unspoken deal is you both pretend. Let it be." },
+        { "es": "Vale, gracias de todos modos.", "en": "Okay, thanks anyway.", "verdict": "ok", "feedback": "Polite and fine, though a warmer note would keep the bond stronger." }
+      ]
+    },
+    {
+      "speaker": "Conocido",
+      "es": "¡De show! Ahí nos pegamos una birra, pues.",
+      "en": "Cool! We'll grab a beer then.",
+      "options": [
+        { "es": "Dale pues, maje. Ahí nos vemos.", "en": "Sounds good, dude. See you around.", "verdict": "good", "feedback": "Easy, friendly close — no hard feelings on either side. You handled the whole dance perfectly." },
+        { "es": "Eso, pero la birra la pagás vos por no ayudarme.", "en": "Yeah, but you're buying the beer for not helping.", "verdict": "ok", "feedback": "Playful if your tone's right — but it does poke at the thing you'd both agreed to drop." },
+        { "es": "Listo, cuidate pues.", "en": "Alright, take care then.", "verdict": "good", "feedback": "Relaxed and warm. A clean, friendly wrap-up." }
+      ]
+    }
+  ]
+}

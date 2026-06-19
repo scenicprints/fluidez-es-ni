@@ -1,0 +1,49 @@
+{
+  "id": "sc03",
+  "title": "At the pharmacy",
+  "desc": "You're not feeling well",
+  "setting": "You have a headache and an upset stomach. You walk into a small farmacia.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Farmacéutica",
+      "es": "Buenas. ¿En qué le puedo ayudar?",
+      "en": "Hello. How can I help you?",
+      "options": [
+        { "es": "Me duele la cabeza.", "en": "My head hurts.", "verdict": "good", "feedback": "Perfect. 'Me duele' + body part is exactly how you describe pain." },
+        { "es": "Estoy enfermo.", "en": "I'm sick.", "verdict": "ok", "feedback": "True and useful, but vague. Telling her what hurts gets you the right medicine faster." },
+        { "es": "Quiero comida.", "en": "I want food.", "verdict": "bad", "feedback": "This is a pharmacy, not a comedor! Tell her what's wrong." }
+      ]
+    },
+    {
+      "speaker": "Farmacéutica",
+      "es": "¿Y también le duele el estómago?",
+      "en": "And does your stomach hurt too?",
+      "options": [
+        { "es": "Sí, un poco.", "en": "Yes, a little.", "verdict": "good", "feedback": "Simple and clear. 'Un poco' is a handy way to soften an answer." },
+        { "es": "Sí.", "en": "Yes.", "verdict": "ok", "feedback": "Fine — though a word or two more helps her help you." },
+        { "es": "No entiendo.", "en": "I don't understand.", "verdict": "ok", "feedback": "Honest, and a perfectly good thing to say when stuck! She'll rephrase." }
+      ]
+    },
+    {
+      "speaker": "Farmacéutica",
+      "es": "Le doy estas pastillas. Una cada ocho horas.",
+      "en": "I'll give you these pills. One every eight hours.",
+      "options": [
+        { "es": "¿Cuánto cuesta?", "en": "How much is it?", "verdict": "good", "feedback": "Always good to ask the price. Clear and practical." },
+        { "es": "¿Una qué?", "en": "One what?", "verdict": "ok", "feedback": "A fine clarifying question if you missed it — never be afraid to ask." },
+        { "es": "No, gracias.", "en": "No, thanks.", "verdict": "bad", "feedback": "You came in sick — turning down the medicine leaves you no better off!" }
+      ]
+    },
+    {
+      "speaker": "Farmacéutica",
+      "es": "Cuarenta córdobas. Que se mejore.",
+      "en": "Forty córdobas. Get well soon.",
+      "options": [
+        { "es": "Gracias. Muy amable.", "en": "Thank you. Very kind.", "verdict": "good", "feedback": "Lovely. 'Muy amable' is a warm, very Nica way to thank someone." },
+        { "es": "Gracias.", "en": "Thanks.", "verdict": "ok", "feedback": "Perfectly fine and polite." },
+        { "es": "Está muy caro.", "en": "That's very expensive.", "verdict": "bad", "feedback": "Forty córdobas for medicine is fair — and you don't haggle at a pharmacy!" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sc09",
+  "title": "Ordering lunch",
+  "desc": "Order a full meal at a comedor",
+  "setting": "It's lunchtime. You sit down at a small comedor and the cook comes over.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Cocinera",
+      "es": "Buenas. Hoy hay carne asada o pollo. ¿Qué le sirvo?",
+      "en": "Hello. Today there's grilled beef or chicken. What can I serve you?",
+      "options": [
+        { "es": "Carne asada, por favor.", "en": "Grilled beef, please.", "verdict": "good", "feedback": "Clear choice, polite. Exactly what she's waiting to hear." },
+        { "es": "¿Con qué viene?", "en": "What does it come with?", "verdict": "good", "feedback": "Great question — shows you're curious about the meal. Comes with gallo pinto and more." },
+        { "es": "Lo que sea.", "en": "Whatever.", "verdict": "ok", "feedback": "She'll pick for you, but stating a choice is friendlier and gets you what you want." }
+      ]
+    },
+    {
+      "speaker": "Cocinera",
+      "es": "Viene con gallo pinto, maduro y ensalada. ¿Y de tomar?",
+      "en": "It comes with gallo pinto, fried plantain, and salad. And to drink?",
+      "options": [
+        { "es": "Un fresco de cacao, por favor.", "en": "A cacao drink, please.", "verdict": "good", "feedback": "Perfect — ordering a típico fresco like a local. Cacao is a classic." },
+        { "es": "¿Qué frescos tiene?", "en": "What fresh drinks do you have?", "verdict": "good", "feedback": "Always good to ask — Nica frescos are a highlight worth exploring." },
+        { "es": "Nada, gracias.", "en": "Nothing, thanks.", "verdict": "ok", "feedback": "Fine, though a cold fresco with lunch is half the joy here!" }
+      ]
+    },
+    {
+      "speaker": "Cocinera",
+      "es": "Aquí tiene. Buen provecho.",
+      "en": "Here you go. Enjoy your meal.",
+      "options": [
+        { "es": "¡Gracias! Se ve riquísimo.", "en": "Thanks! It looks delicious.", "verdict": "good", "feedback": "Warm and appreciative — cooks love to hear the food looks good." },
+        { "es": "Gracias.", "en": "Thanks.", "verdict": "ok", "feedback": "Polite and perfectly fine." },
+        { "es": "¿Esto es todo?", "en": "This is all?", "verdict": "bad", "feedback": "It's a generous plate! That would come off as ungrateful." }
+      ]
+    },
+    {
+      "speaker": "Cocinera",
+      "es": "¿Le gustó? ¿Le traigo algo más?",
+      "en": "Did you like it? Can I bring you anything else?",
+      "options": [
+        { "es": "Me encantó, gracias. La cuenta, por favor.", "en": "I loved it, thanks. The check, please.", "verdict": "good", "feedback": "Full and natural — compliment plus asking for the bill. Smooth finish." },
+        { "es": "Estaba muy rico. Nada más.", "en": "It was really good. Nothing else.", "verdict": "good", "feedback": "Lovely — 'estaba rico' is exactly how you praise a meal." },
+        { "es": "Sí.", "en": "Yes.", "verdict": "ok", "feedback": "Yes to which part? A fuller answer helps her." }
+      ]
+    }
+  ]
+}

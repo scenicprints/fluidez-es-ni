@@ -1,0 +1,49 @@
+{
+  "id": "sc22",
+  "title": "Saying how you feel",
+  "desc": "Express affection to your partner",
+  "setting": "You and Lucía have been together a while. It's a quiet, tender moment, and you want to tell her what she means to you.",
+  "ph": 4,
+  "steps": [
+    {
+      "speaker": "Lucía",
+      "es": "Estás muy callado. ¿En qué pensás?",
+      "en": "You're very quiet. What are you thinking about?",
+      "options": [
+        { "es": "En lo feliz que soy con vos.", "en": "About how happy I am with you.", "verdict": "good", "feedback": "Open and warm — sharing the happy thought invites closeness. Perfect." },
+        { "es": "En nada.", "en": "About nothing.", "verdict": "bad", "feedback": "A missed chance to connect. She's inviting you in — step through the door." },
+        { "es": "En nosotros.", "en": "About us.", "verdict": "good", "feedback": "Simple and intimate. 'En nosotros' says a lot in two words." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "¿Ah sí? ¿Y qué pensás de nosotros?",
+      "en": "Oh yeah? And what do you think about us?",
+      "options": [
+        { "es": "Que te quiero más cada día.", "en": "That I care for you more each day.", "verdict": "good", "feedback": "'Te quiero' for tender affection — exactly the right register here. Lovely." },
+        { "es": "Que está bien la cosa.", "en": "That things are okay.", "verdict": "bad", "feedback": "Way too lukewarm for the moment! She's opening her heart — meet her there." },
+        { "es": "Que sos muy importante para mí.", "en": "That you're very important to me.", "verdict": "good", "feedback": "Sincere and heartfelt. A beautiful thing to say and easy to mean." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Vos también sos todo para mí.",
+      "en": "You're everything to me too.",
+      "options": [
+        { "es": "Quiero que sepás que te amo.", "en": "I want you to know that I love you.", "verdict": "good", "feedback": "The subjunctive 'que sepás' plus 'te amo' — the deepest declaration. Brave and beautiful." },
+        { "es": "Igual.", "en": "Same.", "verdict": "bad", "feedback": "'Same' to 'you're everything to me'?! This moment deserves your real words." },
+        { "es": "Me hacés muy feliz, de verdad.", "en": "You make me very happy, truly.", "verdict": "good", "feedback": "Heartfelt and genuine. 'De verdad' adds sincerity. Wonderful." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Yo también te amo. Con toda el alma.",
+      "en": "I love you too. With all my soul.",
+      "options": [
+        { "es": "Ojalá siempre estemos así de bien.", "en": "I hope we're always this good together.", "verdict": "good", "feedback": "'Ojalá... estemos' — subjunctive of hope, the perfect tender wish. Masterful." },
+        { "es": "Yo igual, mi amor.", "en": "Me too, my love.", "verdict": "good", "feedback": "'Mi amor' is the natural term of endearment — sweet and fitting." },
+        { "es": "Bueno, ya.", "en": "Okay, then.", "verdict": "bad", "feedback": "Don't shut down the most tender moment! Let it breathe." }
+      ]
+    }
+  ]
+}

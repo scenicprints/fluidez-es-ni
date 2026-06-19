@@ -1,0 +1,49 @@
+{
+  "id": "sc14",
+  "title": "What do you like?",
+  "desc": "Share hobbies and tastes",
+  "setting": "At a relaxed hangout, the conversation turns to music, hobbies, and what everyone's into.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Karla",
+      "es": "¿Qué te gusta hacer en tu tiempo libre?",
+      "en": "What do you like to do in your free time?",
+      "options": [
+        { "es": "Me gusta leer y salir a caminar.", "en": "I like to read and go for walks.", "verdict": "good", "feedback": "'Me gusta' + verb, two activities — exactly how to talk about hobbies." },
+        { "es": "Me gusta.", "en": "I like.", "verdict": "bad", "feedback": "Like what? The sentence needs what you like — 'me gusta leer,' for example." },
+        { "es": "Leer, caminar, esas cosas.", "en": "Reading, walking, that kind of thing.", "verdict": "ok", "feedback": "Casual and clear enough — a full 'me gusta' would be a touch smoother." }
+      ]
+    },
+    {
+      "speaker": "Karla",
+      "es": "¿Y te gusta la música? ¿Qué escuchás?",
+      "en": "And do you like music? What do you listen to?",
+      "options": [
+        { "es": "Me encanta la música. Escucho de todo.", "en": "I love music. I listen to everything.", "verdict": "good", "feedback": "'Me encanta' is stronger than 'me gusta' — great for things you really love." },
+        { "es": "No me gusta la música.", "en": "I don't like music.", "verdict": "ok", "feedback": "Totally valid if true! Just unusual — be ready for a surprised look." },
+        { "es": "Sí, música.", "en": "Yes, music.", "verdict": "ok", "feedback": "She wants to know WHICH music. Name a kind to keep it going." }
+      ]
+    },
+    {
+      "speaker": "Karla",
+      "es": "¿Sabés bailar? Aquí todos bailan.",
+      "en": "Do you know how to dance? Everyone dances here.",
+      "options": [
+        { "es": "Un poco, pero no muy bien.", "en": "A little, but not very well.", "verdict": "good", "feedback": "Honest and humble — and it invites them to teach you, which they'll love." },
+        { "es": "No, pero quiero aprender.", "en": "No, but I want to learn.", "verdict": "good", "feedback": "Even better — showing you want to learn opens the door to connection." },
+        { "es": "Soy el mejor bailarín.", "en": "I'm the best dancer.", "verdict": "ok", "feedback": "Bold! Be ready to back that up — they'll absolutely call your bluff." }
+      ]
+    },
+    {
+      "speaker": "Karla",
+      "es": "¡Entonces te enseñamos! Vení.",
+      "en": "Then we'll teach you! Come on.",
+      "options": [
+        { "es": "¡Dale! Pero tené paciencia conmigo.", "en": "Okay! But be patient with me.", "verdict": "good", "feedback": "Playful and willing — 'dale' plus humor is the perfect yes." },
+        { "es": "Bueno, vamos a intentarlo.", "en": "Alright, let's give it a try.", "verdict": "good", "feedback": "Game and easygoing. 'Vamos a intentarlo' fits the moment well." },
+        { "es": "No, mejor no.", "en": "No, better not.", "verdict": "bad", "feedback": "Turning down the invite shuts down a warm moment. Jump in — that's where friendship grows!" }
+      ]
+    }
+  ]
+}

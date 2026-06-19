@@ -1,0 +1,49 @@
+{
+  "id": "sc02",
+  "title": "Meeting Roberto",
+  "desc": "Introduce yourself to a new friend",
+  "setting": "You're sitting outside a pulpería when a friendly young man strikes up a conversation.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "¡Buenas! ¿Cómo te llamás?",
+      "en": "Hello! What's your name?",
+      "options": [
+        { "es": "Me llamo Miguel. ¿Y vos?", "en": "My name is Miguel. And you?", "verdict": "good", "feedback": "Perfect — and you used 'vos,' the Nica way. Asking back keeps the conversation going." },
+        { "es": "Miguel.", "en": "Miguel.", "verdict": "ok", "feedback": "Understandable, but a bit short. 'Me llamo Miguel' sounds warmer." },
+        { "es": "Bien, gracias.", "en": "Fine, thanks.", "verdict": "bad", "feedback": "That answers 'how are you,' not 'what's your name.' Listen for the question word." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Mucho gusto, Miguel. ¿De dónde sos?",
+      "en": "Nice to meet you, Miguel. Where are you from?",
+      "options": [
+        { "es": "Soy de Estados Unidos.", "en": "I'm from the United States.", "verdict": "good", "feedback": "Exactly right. 'Soy de' + place is how you say where you're from." },
+        { "es": "Estoy de Estados Unidos.", "en": "(incorrect 'be') from the US.", "verdict": "ok", "feedback": "Close! But origin uses 'ser' (soy), not 'estar' (estoy). 'Soy de...'" },
+        { "es": "Tengo veinte años.", "en": "I'm twenty years old.", "verdict": "bad", "feedback": "That's your age, not where you're from. He asked '¿de dónde?'" }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "¡Qué tuani! ¿Y qué hacés aquí en Nicaragua?",
+      "en": "Cool! And what are you doing here in Nicaragua?",
+      "options": [
+        { "es": "Quiero aprender español.", "en": "I want to learn Spanish.", "verdict": "good", "feedback": "Clear and honest. 'Quiero' + verb is a great pattern to know." },
+        { "es": "Aprender español, vos sabés.", "en": "Learn Spanish, you know.", "verdict": "ok", "feedback": "Casual and friendly — works, though a full 'quiero aprender' is cleaner." },
+        { "es": "No sé.", "en": "I don't know.", "verdict": "bad", "feedback": "A missed chance to connect. Even simple Spanish keeps the conversation alive." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Pues aquí aprendés rápido. ¡Bienvenido!",
+      "en": "Well, you'll learn fast here. Welcome!",
+      "options": [
+        { "es": "Muchas gracias, Roberto.", "en": "Thank you very much, Roberto.", "verdict": "good", "feedback": "Warm and natural. Using his name makes it personal." },
+        { "es": "Gracias.", "en": "Thanks.", "verdict": "ok", "feedback": "Polite and fine. A touch more warmth never hurts here." },
+        { "es": "Adiós.", "en": "Goodbye.", "verdict": "bad", "feedback": "A bit abrupt right after he welcomed you! A thank-you fits better." }
+      ]
+    }
+  ]
+}

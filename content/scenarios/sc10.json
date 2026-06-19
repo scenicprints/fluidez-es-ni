@@ -1,0 +1,49 @@
+{
+  "id": "sc10",
+  "title": "Making plans",
+  "desc": "Arrange to meet a friend",
+  "setting": "Roberto calls you. He wants to make plans for the weekend.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "¿Qué hacés el sábado? Vamos a la playa.",
+      "en": "What are you doing Saturday? Let's go to the beach.",
+      "options": [
+        { "es": "¡Dale! Me encanta la idea.", "en": "Yes! I love the idea.", "verdict": "good", "feedback": "Enthusiastic and natural. 'Dale' is the perfect way to say yes here." },
+        { "es": "Tal vez. ¿A qué hora?", "en": "Maybe. What time?", "verdict": "good", "feedback": "Practical — getting the details before committing is totally normal." },
+        { "es": "No hago nada.", "en": "I'm not doing anything.", "verdict": "ok", "feedback": "True, but it's a flat reply to a fun invite. Show some interest!" }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Salimos temprano, como a las seis de la mañana.",
+      "en": "We leave early, around six in the morning.",
+      "options": [
+        { "es": "¿Tan temprano? Está bien, dale.", "en": "That early? Okay, sure.", "verdict": "good", "feedback": "Natural reaction plus agreement — sounds like a real friend chatting." },
+        { "es": "Perfecto, a las seis.", "en": "Perfect, at six.", "verdict": "good", "feedback": "Clear confirmation of the time. No confusion later." },
+        { "es": "Las seis de la tarde, bien.", "en": "Six in the evening, good.", "verdict": "bad", "feedback": "He said morning (de la mañana)! You'd miss the whole trip." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Nos vemos en mi casa. No llegués tarde.",
+      "en": "Meet at my house. Don't be late.",
+      "options": [
+        { "es": "Tranquilo, llego temprano.", "en": "Relax, I'll arrive early.", "verdict": "good", "feedback": "Reassuring and easy — 'tranquilo' is a very Nica way to say no worries." },
+        { "es": "Ahí estaré.", "en": "I'll be there.", "verdict": "good", "feedback": "Short, confident, reliable. Good." },
+        { "es": "Siempre llego tarde.", "en": "I always arrive late.", "verdict": "bad", "feedback": "Not the thing to say after he asked you not to be late!" }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Tuani. Entonces nos vemos el sábado, pues.",
+      "en": "Cool. So we'll see each other Saturday, then.",
+      "options": [
+        { "es": "Nos vemos. ¡Que estés bien!", "en": "See you. Take care!", "verdict": "good", "feedback": "Warm sign-off between friends. Exactly the right register." },
+        { "es": "Dale, ahí nos vemos.", "en": "Okay, see you there.", "verdict": "good", "feedback": "Casual and friendly — 'ahí nos vemos' is perfect for closing plans." },
+        { "es": "Adiós, señor.", "en": "Goodbye, sir.", "verdict": "bad", "feedback": "'Señor'?! Way too formal for a friend. Keep it casual with Roberto." }
+      ]
+    }
+  ]
+}

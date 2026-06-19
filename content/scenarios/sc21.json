@@ -1,0 +1,49 @@
+{
+  "id": "sc21",
+  "title": "Meeting someone special",
+  "desc": "Show genuine interest",
+  "setting": "At a party, you're talking with Lucía, someone you've just met and really like. The conversation is going well.",
+  "ph": 4,
+  "steps": [
+    {
+      "speaker": "Lucía",
+      "es": "Me cae bien hablar con vos. Sos diferente.",
+      "en": "I like talking with you. You're different.",
+      "options": [
+        { "es": "A mí también me gusta hablar con vos.", "en": "I like talking with you too.", "verdict": "good", "feedback": "Warm and reciprocal — returning the feeling keeps the spark alive without overdoing it." },
+        { "es": "Gracias, supongo.", "en": "Thanks, I guess.", "verdict": "bad", "feedback": "Lukewarm! She opened up a little — meet her warmth, don't deflect it." },
+        { "es": "¿Diferente bueno o diferente malo?", "en": "Different good or different bad?", "verdict": "ok", "feedback": "Playful and a little flirty — works if your tone is light, risky if she meant it sincerely." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Bueno bueno, jaja. Contame más de vos.",
+      "en": "Good good, haha. Tell me more about you.",
+      "options": [
+        { "es": "Vine a aprender español, pero me quedé por la gente.", "en": "I came to learn Spanish, but I stayed for the people.", "verdict": "good", "feedback": "Lovely and a little charming — it hints she's part of why you'd stay. Smooth." },
+        { "es": "No hay mucho que contar.", "en": "There's not much to tell.", "verdict": "bad", "feedback": "Closes the door she's opening. Give her something — curiosity is interest." },
+        { "es": "¿Qué querés saber?", "en": "What do you want to know?", "verdict": "ok", "feedback": "Fine, turns it back to her — but offering something yourself first feels warmer." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Qué lindo. ¿Y te hallás aquí entonces?",
+      "en": "How sweet. So you feel at home here?",
+      "options": [
+        { "es": "Cada día más, sobre todo esta noche.", "en": "More every day, especially tonight.", "verdict": "good", "feedback": "Gently flirtatious without being too much — 'especially tonight' lands beautifully." },
+        { "es": "Sí, la gente es muy cálida.", "en": "Yes, the people are very warm.", "verdict": "good", "feedback": "Sincere and kind. A safe, genuine answer that compliments her world." },
+        { "es": "Más o menos.", "en": "More or less.", "verdict": "ok", "feedback": "A bit flat for such a warm moment. Let a little more feeling through." }
+      ]
+    },
+    {
+      "speaker": "Lucía",
+      "es": "Me gustaría verte otra vez.",
+      "en": "I'd like to see you again.",
+      "options": [
+        { "es": "Ojalá que sí. ¿Te doy mi número?", "en": "I hope so. Can I give you my number?", "verdict": "good", "feedback": "'Ojalá' (subjunctive of hope) plus a clear next step — perfect, and confident." },
+        { "es": "Claro, me encantaría.", "en": "Of course, I'd love to.", "verdict": "good", "feedback": "'Me encantaría' (I'd love to) is warm and eager in just the right measure." },
+        { "es": "Tal vez.", "en": "Maybe.", "verdict": "bad", "feedback": "After such a sweet moment, 'maybe' is cold. If you're interested, show it!" }
+      ]
+    }
+  ]
+}

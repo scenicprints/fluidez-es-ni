@@ -1,0 +1,49 @@
+{
+  "id": "sc19",
+  "title": "Asking a big favor",
+  "desc": "Borrow something important",
+  "setting": "Your laptop broke right before a deadline. You call Roberto to ask for serious help.",
+  "ph": 3,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "¿Aló? ¿Qué pasó, todo bien?",
+      "en": "Hello? What's up, everything okay?",
+      "options": [
+        { "es": "Roberto, ¿te puedo pedir un favor grande?", "en": "Roberto, can I ask you a big favor?", "verdict": "good", "feedback": "Signaling upfront that it's a big ask is courteous — it lets him prepare." },
+        { "es": "Necesito tu computadora ya.", "en": "I need your computer now.", "verdict": "bad", "feedback": "Demanding, not asking. A big favor needs a softer, more respectful opener." },
+        { "es": "Perdón que te moleste...", "en": "Sorry to bother you...", "verdict": "ok", "feedback": "Polite, though a touch over-apologetic. Friends don't need so much hedging." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Claro, decime. ¿Qué necesitás?",
+      "en": "Of course, tell me. What do you need?",
+      "options": [
+        { "es": "¿Me podrías prestar tu laptop unos días?", "en": "Could you lend me your laptop for a few days?", "verdict": "good", "feedback": "'Podrías' (could you) is the soft, polite conditional — ideal for a real favor." },
+        { "es": "Préstame la laptop.", "en": "Lend me the laptop.", "verdict": "ok", "feedback": "Direct command — fine between close friends, but 'podrías' lands softer for a big ask." },
+        { "es": "Dame tu computadora.", "en": "Give me your computer.", "verdict": "bad", "feedback": "'Give me' sounds like you're keeping it! And it's too demanding. Ask to borrow, gently." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Uy, la uso para el trabajo... ¿para cuándo la necesitás?",
+      "en": "Oof, I use it for work... when do you need it?",
+      "options": [
+        { "es": "Solo hasta el viernes. Te la cuido bien.", "en": "Just until Friday. I'll take good care of it.", "verdict": "good", "feedback": "Specific timeframe plus reassurance — you're addressing his exact worry. Excellent." },
+        { "es": "No sé, un tiempo.", "en": "I don't know, a while.", "verdict": "bad", "feedback": "Vague timing on someone's work computer? That'll make him hesitate. Be precise." },
+        { "es": "Entiendo si no podés, no hay problema.", "en": "I understand if you can't, no problem.", "verdict": "ok", "feedback": "Gracious — giving him an out is kind, though you can still make your case first." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Está bien, confío en vos. Pasá por ella.",
+      "en": "Alright, I trust you. Come get it.",
+      "options": [
+        { "es": "De verdad te lo agradezco un montón.", "en": "I really appreciate it a ton.", "verdict": "good", "feedback": "Heartfelt thanks for a real favor — and it honors the trust he just showed." },
+        { "es": "Gracias, hermano. Te debo una.", "en": "Thanks, brother. I owe you one.", "verdict": "good", "feedback": "'Te debo una' (I owe you one) is perfect — warm and acknowledges the favor." },
+        { "es": "Bueno, ahí voy.", "en": "Okay, on my way.", "verdict": "ok", "feedback": "A bit flat for someone lending you their work laptop. A real thanks fits better." }
+      ]
+    }
+  ]
+}

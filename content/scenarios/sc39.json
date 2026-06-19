@@ -1,0 +1,49 @@
+{
+  "id": "sc39",
+  "title": "Speaking with eloquence",
+  "desc": "Give a toast worth remembering",
+  "setting": "At Roberto's wedding, you're unexpectedly asked to say a few words. The skill: rise to the occasion with warmth and eloquence.",
+  "ph": 7,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "Maje, decí unas palabras. Sos parte de la familia.",
+      "en": "Dude, say a few words. You're part of the family.",
+      "options": [
+        { "es": "Será un honor. Denme un momento para hacerle justicia.", "en": "It'll be an honor. Give me a moment to do it justice.", "verdict": "good", "feedback": "Gracious and self-assured — buying a beat to speak well rather than blurting. Poised." },
+        { "es": "No, no, mejor que hable otro.", "en": "No, no, better someone else speaks.", "verdict": "bad", "feedback": "Refusing the honor at a friend's wedding stings. You have the words now — rise to it." },
+        { "es": "Claro, con mucho gusto.", "en": "Of course, with pleasure.", "verdict": "good", "feedback": "Warm and willing. A simple, gracious yes that honors the invitation." }
+      ]
+    },
+    {
+      "speaker": "Invitados",
+      "es": "¡Que hable, que hable!",
+      "en": "Speech, speech!",
+      "options": [
+        { "es": "Hace años llegué a esta tierra sin conocer a nadie.", "en": "Years ago I came to this land knowing no one.", "verdict": "good", "feedback": "Opening with your own story draws everyone in — a storyteller's instinct. Beautiful start." },
+        { "es": "Eh... pues... felicidades a los novios.", "en": "Uh... well... congrats to the couple.", "verdict": "ok", "feedback": "Nerves are natural, but you can do better than filler. Take a breath and begin with heart." },
+        { "es": "Voy a ser breve porque hay comida esperando.", "en": "I'll be brief because there's food waiting.", "verdict": "ok", "feedback": "A light joke can work, but at a wedding, lead with warmth before humor." }
+      ]
+    },
+    {
+      "speaker": "Invitados",
+      "es": "(silencio atento)",
+      "en": "(attentive silence)",
+      "options": [
+        { "es": "Roberto me dio su amistad, y con ella, un hogar.", "en": "Roberto gave me his friendship, and with it, a home.", "verdict": "good", "feedback": "A moving, well-built line — friendship to home is a gorgeous progression. The room is yours." },
+        { "es": "Son buenas personas y los quiero mucho.", "en": "They're good people and I love them a lot.", "verdict": "ok", "feedback": "Sincere, but plain for a toast. This is the moment to let your eloquence shine." },
+        { "es": "Que vivan los novios y que sean felices.", "en": "Long live the couple, may they be happy.", "verdict": "good", "feedback": "A classic, heartfelt toast line — simple and traditional, lands warmly." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "(con lágrimas) Gracias, hermano. Sabía que dirías algo así.",
+      "en": "(tearfully) Thank you, brother. I knew you'd say something like that.",
+      "options": [
+        { "es": "¡Por los novios! Que su amor dure más que mis errores de español.", "en": "To the couple! May their love outlast my Spanish mistakes.", "verdict": "good", "feedback": "A toast that's heartfelt AND funny, with a humble callback to your journey. Absolutely perfect." },
+        { "es": "¡Salud por una vida juntos llena de amor!", "en": "Cheers to a life together full of love!", "verdict": "good", "feedback": "A warm, classic toast that raises the glass beautifully. The room will cheer." },
+        { "es": "Bueno, ya, vamos a comer.", "en": "Okay, let's go eat.", "verdict": "bad", "feedback": "Undercutting a tender moment for a joke about food deflates it. Let the warmth crest first." }
+      ]
+    }
+  ]
+}

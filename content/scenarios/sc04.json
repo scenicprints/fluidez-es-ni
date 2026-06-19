@@ -1,0 +1,49 @@
+{
+  "id": "sc04",
+  "title": "Taking a taxi",
+  "desc": "Get across town and agree on a price",
+  "setting": "You flag down a taxi on a busy Managua street. You need to get to the UCA university.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Chofer",
+      "es": "¿Para dónde vas?",
+      "en": "Where are you headed?",
+      "options": [
+        { "es": "A la UCA, por favor.", "en": "To the UCA, please.", "verdict": "good", "feedback": "Clear destination, polite. Exactly what he needs to hear." },
+        { "es": "Voy a la UCA.", "en": "I'm going to the UCA.", "verdict": "good", "feedback": "Also great — 'voy a' + place is a solid, natural pattern." },
+        { "es": "No sé dónde.", "en": "I don't know where.", "verdict": "bad", "feedback": "He can't drive you nowhere! You need to name a destination." }
+      ]
+    },
+    {
+      "speaker": "Chofer",
+      "es": "Te llevo por cien córdobas.",
+      "en": "I'll take you for a hundred córdobas.",
+      "options": [
+        { "es": "¿No puede ser menos?", "en": "Can't it be less?", "verdict": "good", "feedback": "Taxis in Managua aren't metered — negotiating is normal and expected." },
+        { "es": "Está bien.", "en": "That's fine.", "verdict": "ok", "feedback": "You can accept, but the first price is usually negotiable. No harm trying." },
+        { "es": "Cien dólares, dale.", "en": "A hundred dollars, okay.", "verdict": "bad", "feedback": "Dollars, not córdobas?! That's a huge overpay. He said córdobas." }
+      ]
+    },
+    {
+      "speaker": "Chofer",
+      "es": "Bueno, ochenta. Pero subí rápido.",
+      "en": "Fine, eighty. But get in quick.",
+      "options": [
+        { "es": "Dale pues. Gracias.", "en": "Okay then. Thanks.", "verdict": "good", "feedback": "'Dale pues' seals a deal perfectly — you sound like a local." },
+        { "es": "Ochenta está bien.", "en": "Eighty is fine.", "verdict": "good", "feedback": "Clear agreement. Confirming the number avoids confusion later." },
+        { "es": "¿Ochenta qué?", "en": "Eighty what?", "verdict": "ok", "feedback": "If you truly didn't catch it, fine to ask — but he means córdobas." }
+      ]
+    },
+    {
+      "speaker": "Chofer",
+      "es": "Listo. Llegamos. Son ochenta.",
+      "en": "Done. We're here. That's eighty.",
+      "options": [
+        { "es": "Aquí tiene. Que le vaya bien.", "en": "Here you go. Take care.", "verdict": "good", "feedback": "Smooth and warm. 'Que le vaya bien' is the perfect parting line." },
+        { "es": "Gracias, aquí está.", "en": "Thanks, here it is.", "verdict": "good", "feedback": "Clear and polite — hands over the fare with thanks." },
+        { "es": "No tengo dinero.", "en": "I have no money.", "verdict": "bad", "feedback": "After agreeing to the fare? That's a problem you don't want to create!" }
+      ]
+    }
+  ]
+}

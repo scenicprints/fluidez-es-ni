@@ -1,0 +1,49 @@
+{
+  "id": "sc27",
+  "title": "Getting teased",
+  "desc": "Give as good as you get",
+  "setting": "You're hanging out with friends and Roberto starts ribbing you, Nica-style. Teasing means they like you — so tease back.",
+  "ph": 5,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "Maje, con ese acento todavía parecés gringo perdido.",
+      "en": "Dude, with that accent you still sound like a lost gringo.",
+      "options": [
+        { "es": "Y vos con esa panza ya sos dos majes.", "en": "And you with that belly are already two dudes.", "verdict": "good", "feedback": "Perfect — you teased right back. That's exactly how you earn respect here." },
+        { "es": "Oye, eso me ofende.", "en": "Hey, that offends me.", "verdict": "bad", "feedback": "Taking it personally kills the fun. Among friends, teasing is affection — roll with it." },
+        { "es": "Jaja, al menos aprendí, ¿no?", "en": "Haha, at least I learned, right?", "verdict": "ok", "feedback": "Good-natured and fine — though firing back a joke would land even better." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "¡Uy! El chele salió respondón.",
+      "en": "Whoa! The foreigner came back with a comeback.",
+      "options": [
+        { "es": "Aprendí del mejor... digo, del más hablador.", "en": "I learned from the best... I mean, the most talkative.", "verdict": "good", "feedback": "Quick, playful, with a little twist at the end — that's real Nica banter. Excellent." },
+        { "es": "Claro, ya me defiendo.", "en": "Of course, I can hold my own now.", "verdict": "good", "feedback": "Confident and casual. Shows you're comfortable in the back-and-forth." },
+        { "es": "No quiero pelear.", "en": "I don't want to fight.", "verdict": "bad", "feedback": "It's not a fight! Misreading friendly teasing as conflict puts a wall up. Keep it light." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Jajaja, ya te volviste bien vacilón.",
+      "en": "Hahaha, you've become a real jokester.",
+      "options": [
+        { "es": "Ideay, algo se me pega de andar con vos.", "en": "Well, something rubs off hanging out with you.", "verdict": "good", "feedback": "'Ideay' plus a playful jab — flawless. You're thinking in Nica now." },
+        { "es": "Gracias, me esfuerzo.", "en": "Thanks, I try hard.", "verdict": "ok", "feedback": "Sweet but a little earnest for the moment. The banter's still rolling — keep playing." },
+        { "es": "Es que tengo buen profesor.", "en": "It's 'cause I have a good teacher.", "verdict": "good", "feedback": "Warm and clever — a compliment wrapped in a joke. Nicely done." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Ya sos de los nuestros, maje.",
+      "en": "You're one of us now, dude.",
+      "options": [
+        { "es": "Eso ni se pregunta, hermano.", "en": "That goes without saying, brother.", "verdict": "good", "feedback": "Confident and warm — 'ni se pregunta' is a great idiomatic flourish. You belong." },
+        { "es": "Me alegra escuchar eso, de verdad.", "en": "I'm glad to hear that, truly.", "verdict": "good", "feedback": "Sincere — a nice moment of real warmth after all the joking. Balanced perfectly." },
+        { "es": "Bueno, gracias.", "en": "Well, thanks.", "verdict": "ok", "feedback": "A bit flat for such a warm thing to say. Let the moment land with more feeling." }
+      ]
+    }
+  ]
+}

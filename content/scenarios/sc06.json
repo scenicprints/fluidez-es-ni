@@ -1,0 +1,49 @@
+{
+  "id": "sc06",
+  "title": "Haggling for a shirt",
+  "desc": "Negotiate a price at the market",
+  "setting": "At the market you spot a shirt you like. The vendor notices your interest.",
+  "ph": 1,
+  "steps": [
+    {
+      "speaker": "Vendedor",
+      "es": "Esa camisa le queda bien. Doscientos córdobas.",
+      "en": "That shirt suits you. Two hundred córdobas.",
+      "options": [
+        { "es": "Está un poco caro. ¿No hay rebaja?", "en": "It's a bit pricey. Any discount?", "verdict": "good", "feedback": "Textbook haggling — polite, but you opened the negotiation. Expected here." },
+        { "es": "Doscientos, dale.", "en": "Two hundred, okay.", "verdict": "ok", "feedback": "You can accept, but the first price almost always has room. Try a counter." },
+        { "es": "No me gusta.", "en": "I don't like it.", "verdict": "bad", "feedback": "If you don't want it, fine — but you said you liked it. Mixed signals." }
+      ]
+    },
+    {
+      "speaker": "Vendedor",
+      "es": "Para vos, ciento setenta. Es buen precio.",
+      "en": "For you, one seventy. It's a good price.",
+      "options": [
+        { "es": "¿Ciento cuarenta?", "en": "One forty?", "verdict": "good", "feedback": "A confident counter-offer. Meeting in the middle is the whole game." },
+        { "es": "Ciento setenta está bien.", "en": "One seventy is fine.", "verdict": "ok", "feedback": "Fair enough — you can settle here. But one more nudge often works." },
+        { "es": "No, gracias, muy caro.", "en": "No thanks, too expensive.", "verdict": "ok", "feedback": "Walking away is a valid tactic — sometimes they call you back with a better price!" }
+      ]
+    },
+    {
+      "speaker": "Vendedor",
+      "es": "Uy, me estás matando. Ciento cincuenta y es tuya.",
+      "en": "Oof, you're killing me. One fifty and it's yours.",
+      "options": [
+        { "es": "Dale pues. Ciento cincuenta.", "en": "Okay then. One fifty.", "verdict": "good", "feedback": "Deal sealed with a perfect 'dale pues.' You haggled like a local." },
+        { "es": "Está bien, la llevo.", "en": "Alright, I'll take it.", "verdict": "good", "feedback": "Clear acceptance — 'la llevo' (I'll take it) is exactly right." },
+        { "es": "Cien.", "en": "A hundred.", "verdict": "bad", "feedback": "Pushing too hard after a fair drop can kill the deal. Know when to close." }
+      ]
+    },
+    {
+      "speaker": "Vendedor",
+      "es": "Buena compra. Te la pongo en una bolsa.",
+      "en": "Good buy. I'll put it in a bag for you.",
+      "options": [
+        { "es": "Gracias. Muy amable.", "en": "Thanks. Very kind.", "verdict": "good", "feedback": "Friendly close. A good haggle ends with everyone smiling." },
+        { "es": "Gracias.", "en": "Thanks.", "verdict": "ok", "feedback": "Perfectly fine." },
+        { "es": "Espero que no se rompa.", "en": "I hope it doesn't fall apart.", "verdict": "bad", "feedback": "A little insulting after he gave you a deal! Better to keep it warm." }
+      ]
+    }
+  ]
+}

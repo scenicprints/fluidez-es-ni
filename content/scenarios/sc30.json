@@ -1,0 +1,49 @@
+{
+  "id": "sc30",
+  "title": "You sound like a local",
+  "desc": "Receive the ultimate compliment",
+  "setting": "At the market, a vendor who's never met you is surprised by how you speak.",
+  "ph": 5,
+  "steps": [
+    {
+      "speaker": "Vendedora",
+      "es": "Oiga, ¿y usted de qué parte es? Habla raro pero bonito.",
+      "en": "Say, where are you from? You talk funny but nice.",
+      "options": [
+        { "es": "Soy gringo, pero ya medio pinolero, jaja.", "en": "I'm a gringo, but half-Nicaraguan now, haha.", "verdict": "good", "feedback": "Charming and self-aware — claiming 'pinolero' playfully will delight her." },
+        { "es": "No le entiendo.", "en": "I don't understand you.", "verdict": "bad", "feedback": "You clearly do! Don't undersell yourself when someone's complimenting your Spanish." },
+        { "es": "De los Estados Unidos, pero vivo aquí.", "en": "From the US, but I live here.", "verdict": "good", "feedback": "Clear and warm. Mentioning you live here explains the local flavor in your speech." }
+      ]
+    },
+    {
+      "speaker": "Vendedora",
+      "es": "¡No me diga! Si habla igualito que nosotros.",
+      "en": "You don't say! You talk just like us.",
+      "options": [
+        { "es": "Es que aprendí en la calle, con la gente.", "en": "It's because I learned in the street, with the people.", "verdict": "good", "feedback": "A lovely, true answer — it honors the people who taught you. She'll appreciate it." },
+        { "es": "Gracias, me ha costado bastante.", "en": "Thanks, it's taken me a lot of effort.", "verdict": "good", "feedback": "Humble and honest. Acknowledging the work behind it is genuine and relatable." },
+        { "es": "Sí, soy muy inteligente.", "en": "Yes, I'm very smart.", "verdict": "bad", "feedback": "Bragging deflates the warm moment. Humility wins hearts here, not boasting." }
+      ]
+    },
+    {
+      "speaker": "Vendedora",
+      "es": "Qué lindo. ¿Y le gusta vivir en Nicaragua?",
+      "en": "How nice. And do you like living in Nicaragua?",
+      "options": [
+        { "es": "Me enamoré del país y de su gente, doña.", "en": "I fell in love with the country and its people, ma'am.", "verdict": "good", "feedback": "Heartfelt and respectful — 'doña' plus genuine warmth. She'll remember you." },
+        { "es": "Sí, este lugar ya es mi hogar.", "en": "Yes, this place is my home now.", "verdict": "good", "feedback": "Simple and moving. 'Mi hogar' carries real weight after this whole journey." },
+        { "es": "Está bien, supongo.", "en": "It's okay, I guess.", "verdict": "bad", "feedback": "Lukewarm after she's been so warm! If you love it, let her hear it." }
+      ]
+    },
+    {
+      "speaker": "Vendedora",
+      "es": "Pues bienvenido, pinolero adoptado. Aquí tiene su casa.",
+      "en": "Well, welcome, adopted Nicaraguan. Here you have your home.",
+      "options": [
+        { "es": "Gracias, doña. Eso significa todo para mí.", "en": "Thank you, ma'am. That means everything to me.", "verdict": "good", "feedback": "The perfect close to the whole journey — gratitude, warmth, belonging. Beautiful." },
+        { "es": "Qué amable. Me hace sentir en familia.", "en": "How kind. You make me feel like family.", "verdict": "good", "feedback": "Warm and genuine — naming the feeling of family lands beautifully." },
+        { "es": "Bueno, gracias, hasta luego.", "en": "Well, thanks, bye.", "verdict": "ok", "feedback": "A little abrupt for such a tender welcome. Let the moment breathe before you go." }
+      ]
+    }
+  ]
+}

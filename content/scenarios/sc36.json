@@ -1,0 +1,49 @@
+{
+  "id": "sc36",
+  "title": "Trading proverbs",
+  "desc": "Match wits with a grandmother",
+  "setting": "Doña Marta is dispensing wisdom in proverbs, as grandmothers do. The skill: understand them and reply in kind.",
+  "ph": 7,
+  "steps": [
+    {
+      "speaker": "Doña Marta",
+      "es": "Acordate, mijo: camarón que se duerme, se lo lleva la corriente.",
+      "en": "Remember, dear: the shrimp that sleeps gets swept off by the current.",
+      "options": [
+        { "es": "Cierto, doña. Al que madruga, Dios lo ayuda.", "en": "True, ma'am. God helps those who rise early.", "verdict": "good", "feedback": "You answered a proverb WITH a proverb on the same theme — that's true mastery. She'll be delighted." },
+        { "es": "¿Qué tienen que ver los camarones?", "en": "What do shrimp have to do with it?", "verdict": "bad", "feedback": "Taking a proverb literally misses its whole point. The image carries the meaning — read past the words." },
+        { "es": "Tiene razón, hay que estar atento.", "en": "You're right, one must stay alert.", "verdict": "ok", "feedback": "You understood it — good. But matching her proverb with your own would really land." }
+      ]
+    },
+    {
+      "speaker": "Doña Marta",
+      "es": "¡Eso! Veo que ya tenés colmillo. ¿Y este: a buen entendedor...?",
+      "en": "There you go! I see you've got savvy. And this one: to a good listener...?",
+      "options": [
+        { "es": "...pocas palabras. Me lo sé, doña.", "en": "...few words. I know it, ma'am.", "verdict": "good", "feedback": "You completed the classic refrán perfectly — 'a buen entendedor, pocas palabras.' Flawless." },
+        { "es": "...hay que hablarle claro.", "en": "...you have to speak clearly.", "verdict": "ok", "feedback": "Reasonable guess, but the set ending is 'pocas palabras.' These are fixed — worth memorizing." },
+        { "es": "No conozco ese.", "en": "I don't know that one.", "verdict": "ok", "feedback": "Honest! And fine — but this is among the most common refranes. Tuck it away." }
+      ]
+    },
+    {
+      "speaker": "Doña Marta",
+      "es": "¡Ay, este muchacho! Habla mejor que muchos de aquí.",
+      "en": "Oh, this young man! He speaks better than many from here.",
+      "options": [
+        { "es": "Aprendí de las mejores, empezando por usted.", "en": "I learned from the best, starting with you.", "verdict": "good", "feedback": "Gracious and warm, with a little courtly charm — exactly the right note with an elder." },
+        { "es": "Es que tuve buenos maestros en la calle.", "en": "It's that I had good teachers in the street.", "verdict": "good", "feedback": "Humble and true — honoring the everyday people who taught you. Lovely." },
+        { "es": "Sí, soy bastante bueno ya.", "en": "Yes, I'm pretty good now.", "verdict": "bad", "feedback": "Boasting deflates her compliment. Humility is the higher register here." }
+      ]
+    },
+    {
+      "speaker": "Doña Marta",
+      "es": "Dios te bendiga, mijo. Sos de los nuestros.",
+      "en": "God bless you, dear. You're one of us.",
+      "options": [
+        { "es": "Que Dios la bendiga a usted, doña. Gracias por todo.", "en": "May God bless you, ma'am. Thank you for everything.", "verdict": "good", "feedback": "Returning the blessing in kind is deeply respectful and culturally perfect. A beautiful close." },
+        { "es": "Eso es lo más lindo que me han dicho.", "en": "That's the loveliest thing anyone's said to me.", "verdict": "good", "feedback": "Heartfelt and sincere — receiving her blessing with real emotion. Touching." },
+        { "es": "Gracias, doña.", "en": "Thanks, ma'am.", "verdict": "ok", "feedback": "Polite, but the moment deserves more warmth than a plain thanks." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sc37",
+  "title": "Discussing poetry",
+  "desc": "Talk about Darío with feeling",
+  "setting": "At a cultural evening, conversation turns to Rubén Darío. The skill: an elevated, literary register and genuine appreciation.",
+  "ph": 7,
+  "steps": [
+    {
+      "speaker": "Profesora",
+      "es": "¿Ha leído usted a Darío? Es nuestro mayor poeta.",
+      "en": "Have you read Darío? He's our greatest poet.",
+      "options": [
+        { "es": "Sí, su musicalidad me cautivó por completo.", "en": "Yes, his musicality captivated me completely.", "verdict": "good", "feedback": "'Musicalidad' and 'cautivó' — precise literary vocabulary delivered naturally. Elegant." },
+        { "es": "Sí, escribe bonito.", "en": "Yes, he writes nice.", "verdict": "ok", "feedback": "True, but the register's too casual for a literary discussion. Reach for richer words." },
+        { "es": "No, nunca lo he leído.", "en": "No, I've never read him.", "verdict": "ok", "feedback": "Honest — and an invitation for her to share. But if you have read him, show that appreciation." }
+      ]
+    },
+    {
+      "speaker": "Profesora",
+      "es": "¿Y qué le evoca su poesía?",
+      "en": "And what does his poetry evoke for you?",
+      "options": [
+        { "es": "Una nostalgia hermosa por lo que se va y no vuelve.", "en": "A beautiful nostalgia for what leaves and doesn't return.", "verdict": "good", "feedback": "Poetic and perceptive — you're discussing literature AS literature. Genuinely C2." },
+        { "es": "Me hace sentir cosas, no sé bien cómo decirlo.", "en": "It makes me feel things, I'm not sure how to say it.", "verdict": "ok", "feedback": "Sincere, but at this level you CAN articulate it. Trust your vocabulary and reach." },
+        { "es": "Sobre todo, la belleza del idioma mismo.", "en": "Above all, the beauty of the language itself.", "verdict": "good", "feedback": "A thoughtful, layered answer — appreciating the language as its own art. Sophisticated." }
+      ]
+    },
+    {
+      "speaker": "Profesora",
+      "es": "Me sorprende su sensibilidad. ¿De dónde es usted?",
+      "en": "Your sensitivity surprises me. Where are you from?",
+      "options": [
+        { "es": "De fuera, aunque el español me adoptó hace tiempo.", "en": "From abroad, though Spanish adopted me long ago.", "verdict": "good", "feedback": "'El español me adoptó' — a graceful, almost poetic way to put it. Beautiful turn of phrase." },
+        { "es": "Soy extranjero, pero amo esta lengua.", "en": "I'm a foreigner, but I love this language.", "verdict": "good", "feedback": "Sincere and warm, in fitting register. A lovely, honest answer." },
+        { "es": "De los Estados Unidos, ¿por?", "en": "From the United States, why?", "verdict": "ok", "feedback": "Fine, but a touch flat after such a graceful question. Match her register with some warmth." }
+      ]
+    },
+    {
+      "speaker": "Profesora",
+      "es": "Pues ama nuestra lengua más que muchos nativos.",
+      "en": "Well, you love our language more than many natives.",
+      "options": [
+        { "es": "Quien llega de fuera a veces ve la belleza con ojos nuevos.", "en": "One who arrives from outside sometimes sees the beauty with fresh eyes.", "verdict": "good", "feedback": "Wise and quotable — an almost aphoristic reflection. This is the summit of expression." },
+        { "es": "Es un honor escuchar eso de usted.", "en": "It's an honor to hear that from you.", "verdict": "good", "feedback": "Gracious and appropriately humble in an elevated setting. Well judged." },
+        { "es": "Gracias, hago lo que puedo.", "en": "Thanks, I do what I can.", "verdict": "ok", "feedback": "Modest, but a bit plain for the eloquence she just praised. Let your range show." }
+      ]
+    }
+  ]
+}

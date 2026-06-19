@@ -1,0 +1,49 @@
+{
+  "id": "sc12",
+  "title": "How was your weekend?",
+  "desc": "Talk about the past",
+  "setting": "It's Monday morning. Your coworker wants to hear about your weekend.",
+  "ph": 2,
+  "steps": [
+    {
+      "speaker": "Compañero",
+      "es": "¿Qué hiciste el fin de semana?",
+      "en": "What did you do over the weekend?",
+      "options": [
+        { "es": "Fui a la playa con unos amigos.", "en": "I went to the beach with some friends.", "verdict": "good", "feedback": "Past tense nailed — 'fui' (I went) is the one to know. Great." },
+        { "es": "Voy a la playa.", "en": "I go to the beach.", "verdict": "bad", "feedback": "That's present tense — sounds like a plan, not what happened. He asked about the past." },
+        { "es": "La playa.", "en": "The beach.", "verdict": "ok", "feedback": "He'll get the gist, but a full sentence shows off your past tense." }
+      ]
+    },
+    {
+      "speaker": "Compañero",
+      "es": "¡Qué rico! ¿Y qué tal estuvo?",
+      "en": "Nice! And how was it?",
+      "options": [
+        { "es": "Estuvo muy divertido. Nadé bastante.", "en": "It was a lot of fun. I swam a lot.", "verdict": "good", "feedback": "'Estuvo' and 'nadé' — two past forms in one breath. You're getting it." },
+        { "es": "Está bien.", "en": "It's good.", "verdict": "ok", "feedback": "Present tense again — try 'estuvo' (it was) for something that's done." },
+        { "es": "Muy divertido, comí pescado.", "en": "Lots of fun, I ate fish.", "verdict": "good", "feedback": "Nice — 'comí' (I ate) is perfect. Casual and clear." }
+      ]
+    },
+    {
+      "speaker": "Compañero",
+      "es": "¿Y el domingo qué tal?",
+      "en": "And how about Sunday?",
+      "options": [
+        { "es": "Descansé en casa y vi una película.", "en": "I rested at home and watched a movie.", "verdict": "good", "feedback": "Two more clean past verbs. You're telling a real story now." },
+        { "es": "Nada, descansé.", "en": "Nothing, I rested.", "verdict": "good", "feedback": "Short but correct — 'descansé' is spot on. Totally natural." },
+        { "es": "Descanso todos los domingos.", "en": "I rest every Sunday.", "verdict": "ok", "feedback": "That's a habit (present). He asked about THIS Sunday — try 'descansé.'" }
+      ]
+    },
+    {
+      "speaker": "Compañero",
+      "es": "Suena a un buen fin de semana.",
+      "en": "Sounds like a good weekend.",
+      "options": [
+        { "es": "Sí, la verdad estuvo bien. ¿Y el tuyo?", "en": "Yeah, honestly it was good. And yours?", "verdict": "good", "feedback": "Perfect close — you answered AND turned it back to him. Real conversation." },
+        { "es": "Sí, estuvo bueno.", "en": "Yeah, it was good.", "verdict": "ok", "feedback": "Fine — though asking about his weekend would keep it flowing." },
+        { "es": "Sí.", "en": "Yes.", "verdict": "ok", "feedback": "A bit of a conversation-ender. Toss the question back to him!" }
+      ]
+    }
+  ]
+}

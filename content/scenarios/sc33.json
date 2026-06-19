@@ -1,0 +1,49 @@
+{
+  "id": "sc33",
+  "title": "Holding a debate",
+  "desc": "Argue a point with structure",
+  "setting": "In a work meeting, you disagree with a proposal. The skill: persuade with logic, concede gracefully, stay composed.",
+  "ph": 6,
+  "steps": [
+    {
+      "speaker": "Colega",
+      "es": "Deberíamos lanzar el producto ya. No hay tiempo que perder.",
+      "en": "We should launch the product now. No time to lose.",
+      "options": [
+        { "es": "Entiendo la urgencia, pero hay riesgos que considerar.", "en": "I understand the urgency, but there are risks to consider.", "verdict": "good", "feedback": "Validates his point first, then pivots — the hallmark of persuasive disagreement." },
+        { "es": "No, estás equivocado.", "en": "No, you're wrong.", "verdict": "bad", "feedback": "Blunt contradiction shuts down dialogue. Acknowledge, then make your case." },
+        { "es": "Tenés razón, lancémoslo.", "en": "You're right, let's launch it.", "verdict": "ok", "feedback": "If you actually disagree, caving isn't persuasion. Hold your ground respectfully." }
+      ]
+    },
+    {
+      "speaker": "Colega",
+      "es": "¿Qué riesgos? El mercado está listo ahora.",
+      "en": "What risks? The market is ready now.",
+      "options": [
+        { "es": "Concedo ese punto, sin embargo, las pruebas son incompletas.", "en": "I concede that point, however, the testing is incomplete.", "verdict": "good", "feedback": "'Concedo... sin embargo' — conceding then countering is sophisticated debate structure." },
+        { "es": "El mercado no lo es todo.", "en": "The market isn't everything.", "verdict": "ok", "feedback": "A fair jab, but vague. Back it with the specific risk to be convincing." },
+        { "es": "Ya te dije, hay riesgos.", "en": "I already told you, there are risks.", "verdict": "bad", "feedback": "Repeating without evidence weakens you. Name the actual risk." }
+      ]
+    },
+    {
+      "speaker": "Colega",
+      "es": "Bueno... ¿y qué propones entonces?",
+      "en": "Well... so what do you propose then?",
+      "options": [
+        { "es": "Una prueba breve primero; así reducimos el riesgo sin perder tiempo.", "en": "A short test first; that way we cut risk without losing time.", "verdict": "good", "feedback": "Offering a solution that honors HIS concern (time) too — that's how you win a debate." },
+        { "es": "Propongo esperar.", "en": "I propose waiting.", "verdict": "ok", "feedback": "A position, but no bridge to his urgency. Give him something he can say yes to." },
+        { "es": "No sé, pero así no.", "en": "I don't know, but not like this.", "verdict": "bad", "feedback": "Opposing without an alternative leaves you stuck. Always bring a proposal." }
+      ]
+    },
+    {
+      "speaker": "Colega",
+      "es": "Mmm... eso sí podría funcionar.",
+      "en": "Hmm... that could actually work.",
+      "options": [
+        { "es": "Me alegra que lo veamos parecido. Trabajemos en eso.", "en": "I'm glad we see it similarly. Let's work on that.", "verdict": "good", "feedback": "Gracious in winning — framing it as 'we' keeps the relationship strong. Masterful." },
+        { "es": "Te lo dije.", "en": "Told you so.", "verdict": "bad", "feedback": "Gloating undoes the goodwill you just built. Win humbly." },
+        { "es": "Perfecto, avancemos juntos entonces.", "en": "Perfect, let's move forward together then.", "verdict": "good", "feedback": "Collaborative and forward-looking. A clean, professional close." }
+      ]
+    }
+  ]
+}

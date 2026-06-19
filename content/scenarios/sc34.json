@@ -1,0 +1,49 @@
+{
+  "id": "sc34",
+  "title": "Catching the irony",
+  "desc": "Read tone and respond in kind",
+  "setting": "You show up late, again. Roberto greets you with classic deadpan sarcasm. The skill: catch the irony and volley it back.",
+  "ph": 6,
+  "steps": [
+    {
+      "speaker": "Roberto",
+      "es": "¡Pero qué puntual! Solo cuarenta minutos tarde.",
+      "en": "How punctual! Only forty minutes late.",
+      "options": [
+        { "es": "Es que la puntualidad es lo mío, ya sabés.", "en": "Punctuality is my thing, you know.", "verdict": "good", "feedback": "You caught the sarcasm and played along — leaning INTO the joke is the witty move." },
+        { "es": "Perdón, de verdad lo siento mucho.", "en": "Sorry, I really am very sorry.", "verdict": "ok", "feedback": "He's teasing, not scolding — earnest apology misreads the tone. Lighten up and volley back." },
+        { "es": "No fue mi culpa.", "en": "It wasn't my fault.", "verdict": "bad", "feedback": "Defensiveness kills the joke. He's ribbing you affectionately — play, don't justify." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Ah, claro. Deberían darte un premio.",
+      "en": "Oh, sure. They should give you an award.",
+      "options": [
+        { "es": "Ya lo tengo en casa, junto a los otros.", "en": "I've already got it at home, next to the others.", "verdict": "good", "feedback": "Brilliant — extending the bit with a deadpan add-on. That's native-level humor." },
+        { "es": "Jaja, sí, perdón por la tardanza.", "en": "Haha, yeah, sorry for being late.", "verdict": "ok", "feedback": "The laugh shows you got it, but slipping into apology deflates the volley. Keep the bit going." },
+        { "es": "No exageres.", "en": "Don't exaggerate.", "verdict": "bad", "feedback": "Calling out the exaggeration ends the game flatly. The fun is in escalating it together." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Jajaja, ya ni con vos se puede.",
+      "en": "Hahaha, can't even win with you anymore.",
+      "options": [
+        { "es": "Aprendí del maestro del sarcasmo, ¿qué esperabas?", "en": "I learned from the master of sarcasm, what'd you expect?", "verdict": "good", "feedback": "A compliment wrapped in a comeback — peak Nica banter. You've fully arrived." },
+        { "es": "Tantos años de práctica con vos.", "en": "So many years of practice with you.", "verdict": "good", "feedback": "Warm, witty, and self-aware. The friendship and the humor both shine." },
+        { "es": "Bueno, ya, hablemos en serio.", "en": "Okay, enough, let's talk seriously.", "verdict": "ok", "feedback": "You can pivot, but cutting the fun short feels abrupt. Let the laugh land first." }
+      ]
+    },
+    {
+      "speaker": "Roberto",
+      "es": "Te volviste más nica que yo, maje.",
+      "en": "You've become more Nica than me, dude.",
+      "options": [
+        { "es": "Alguien tenía que mantener el nivel por aquí.", "en": "Someone had to keep up the standard around here.", "verdict": "good", "feedback": "Cheeky and confident — capping the exchange on a perfect comedic high note." },
+        { "es": "Jaja, me lo tomo como un honor.", "en": "Haha, I'll take that as an honor.", "verdict": "good", "feedback": "Warm and genuine while staying playful — a lovely way to receive the praise." },
+        { "es": "Qué va, vos seguís siendo el rey.", "en": "Nah, you're still the king.", "verdict": "good", "feedback": "Generous and humble with a wink — true camaraderie. Beautifully done." }
+      ]
+    }
+  ]
+}

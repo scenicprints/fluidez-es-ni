@@ -1,0 +1,49 @@
+{
+  "id": "sc05",
+  "title": "At the market",
+  "desc": "Buy fruit at the mercado",
+  "setting": "You're at the bustling Mercado Oriental. A vendor calls out as you pass her fruit stand.",
+  "ph": 0,
+  "steps": [
+    {
+      "speaker": "Vendedora",
+      "es": "¡Buenas! Pase, pase. ¿Qué va a llevar?",
+      "en": "Hello! Come, come. What will you take?",
+      "options": [
+        { "es": "¿Cuánto cuestan las naranjas?", "en": "How much are the oranges?", "verdict": "good", "feedback": "Great opener. Asking the price first is exactly how you start." },
+        { "es": "Quiero fruta, por favor.", "en": "I want fruit, please.", "verdict": "ok", "feedback": "Clear enough, though naming what you want gets you served faster." },
+        { "es": "Solo estoy mirando.", "en": "I'm just looking.", "verdict": "ok", "feedback": "A totally valid thing to say! Perfectly polite to browse." }
+      ]
+    },
+    {
+      "speaker": "Vendedora",
+      "es": "Las naranjas están a cinco por veinte córdobas.",
+      "en": "The oranges are five for twenty córdobas.",
+      "options": [
+        { "es": "Deme cinco, por favor.", "en": "Give me five, please.", "verdict": "good", "feedback": "'Deme' (give me) is the natural way to order at a stand. Clean." },
+        { "es": "Quiero cinco naranjas.", "en": "I want five oranges.", "verdict": "good", "feedback": "Also perfect — clear quantity and item." },
+        { "es": "Sí.", "en": "Yes.", "verdict": "bad", "feedback": "Yes to what? She needs to know how many you want." }
+      ]
+    },
+    {
+      "speaker": "Vendedora",
+      "es": "¿Algo más, mi amor? Tengo mangos bien dulces.",
+      "en": "Anything else, dear? I have really sweet mangos.",
+      "options": [
+        { "es": "No, así está bien. Gracias.", "en": "No, that's all. Thanks.", "verdict": "good", "feedback": "'Así está bien' is a smooth way to say 'that's enough.' Very natural." },
+        { "es": "No.", "en": "No.", "verdict": "ok", "feedback": "Gets the point across, but feels a little blunt. A 'gracias' softens it." },
+        { "es": "Sí, deme dos mangos.", "en": "Yes, give me two mangos.", "verdict": "good", "feedback": "Why not! Clear and confident. The mangos really are good there." }
+      ]
+    },
+    {
+      "speaker": "Vendedora",
+      "es": "Son veinte córdobas. Gracias, mi amor.",
+      "en": "That's twenty córdobas. Thank you, dear.",
+      "options": [
+        { "es": "Aquí tiene. Que tenga buen día.", "en": "Here you go. Have a good day.", "verdict": "good", "feedback": "Warm and complete. A good-day wish lands well in the market." },
+        { "es": "Gracias a usted.", "en": "Thank YOU.", "verdict": "good", "feedback": "Lovely touch — 'gracias a usted' returns the warmth politely." },
+        { "es": "Muy caro todo aquí.", "en": "Everything's so expensive here.", "verdict": "bad", "feedback": "Twenty córdobas for fruit is fair — and grumbling sours a friendly exchange." }
+      ]
+    }
+  ]
+}
