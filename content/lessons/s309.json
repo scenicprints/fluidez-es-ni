@@ -1,0 +1,24 @@
+{
+  "id": "s309",
+  "title": "La entrevista",
+  "desc": "A job interview",
+  "ph": 3,
+  "diff": 8,
+  "wu": ["entrevista", "experiencia", "puesto", "habilidad", "empresa", "contratar", "salario", "disponible", "fortaleza", "aportar"],
+  "sn": [
+    { "s": "Tengo una entrevista para un buen puesto.", "e": "I have an interview for a good position." },
+    { "s": "Estoy nervioso, pero preparado.", "e": "I'm nervous, but prepared." },
+    { "s": "\"Cuénteme sobre su experiencia,\" dice la jefa.", "e": "\"Tell me about your experience,\" says the boss." },
+    { "s": "\"Tengo cinco años trabajando con computadoras.\"", "e": "\"I have five years working with computers.\"" },
+    { "s": "\"¿Cuáles son sus fortalezas?\" pregunta.", "e": "\"What are your strengths?\" she asks." },
+    { "s": "\"Soy organizado y aprendo rápido.\"", "e": "\"I'm organized and I learn fast.\"" },
+    { "s": "\"También hablo inglés y ahora español.\"", "e": "\"I also speak English and now Spanish.\"" },
+    { "s": "\"¿Por qué quiere trabajar en esta empresa?\"", "e": "\"Why do you want to work at this company?\"" },
+    { "s": "\"Porque creo que puedo aportar mucho aquí.\"", "e": "\"Because I believe I can contribute a lot here.\"" },
+    { "s": "\"¿Cuándo estaría disponible?\"", "e": "\"When would you be available?\"" },
+    { "s": "\"Puedo empezar cuando usted necesite.\"", "e": "\"I can start whenever you need.\"" },
+    { "s": "\"Me gusta su actitud. Lo llamaremos pronto.\"", "e": "\"I like your attitude. We'll call you soon.\"" },
+    { "s": "Hablar de mí mismo con seguridad: eso es B1.", "e": "Talking about myself with confidence: that's B1." },
+    { "s": "Una entrevista en español ya no es imposible.", "e": "A job interview in Spanish is no longer impossible." }
+  ]
+}

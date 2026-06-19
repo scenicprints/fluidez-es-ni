@@ -1,0 +1,24 @@
+{
+  "id": "s506",
+  "title": "Ahorita",
+  "desc": "The world of diminutives",
+  "ph": 5,
+  "diff": 9,
+  "wu": ["ahorita", "cafecito", "momentito", "ratito", "poquito", "cerquita", "rapidito", "despacito", "cariñito", "tantito"],
+  "sn": [
+    { "s": "Los nicas le ponen 'ito' a casi todo.", "e": "Nicas add 'ito' to almost everything." },
+    { "s": "No es solo tamaño; es cariño y suavidad.", "e": "It's not just size; it's affection and softness." },
+    { "s": "\"¿Querés un cafecito?\" pregunta doña Marta.", "e": "\"Want a little coffee?\" doña Marta asks." },
+    { "s": "No es un café pequeño. Es un café con cariño.", "e": "It's not a small coffee. It's coffee with affection." },
+    { "s": "\"Sí, gracias. Pero esperá un momentito.\"", "e": "\"Yes, thanks. But wait a little moment.\"" },
+    { "s": "La palabra más tramposa es 'ahorita'.", "e": "The trickiest word is 'ahorita'." },
+    { "s": "Puede ser 'ya mismo' o 'en un rato'.", "e": "It can mean 'right now' or 'in a while'." },
+    { "s": "\"Ya voy, ahorita,\" puede ser en cinco minutos.", "e": "\"I'm coming, ahorita,\" might mean in five minutes." },
+    { "s": "\"O en una hora,\" me advierte Lucía, riendo.", "e": "\"Or in an hour,\" Lucía warns me, laughing." },
+    { "s": "\"Vivís cerquita, ¿verdad?\" me preguntan.", "e": "\"You live real close, right?\" they ask me." },
+    { "s": "El diminutivo suaviza, acerca, abraza.", "e": "The diminutive softens, brings close, embraces." },
+    { "s": "\"Tomate tu tiempito,\" me dicen con cariño.", "e": "\"Take your little time,\" they tell me fondly." },
+    { "s": "Hablar con diminutivos es hablar con el corazón.", "e": "Speaking with diminutives is speaking with the heart." },
+    { "s": "Un poquito de 'ito' y ya sonás más dulce.", "e": "A little bit of 'ito' and you sound sweeter." }
+  ]
+}

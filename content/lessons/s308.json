@@ -1,0 +1,24 @@
+{
+  "id": "s308",
+  "title": "Poniendo límites",
+  "desc": "Setting a boundary kindly",
+  "ph": 3,
+  "diff": 8,
+  "wu": ["límite", "no poder", "lamentablemente", "respetar", "ocupado", "disculparse", "firme", "honesto", "comprender", "decir que no"],
+  "sn": [
+    { "s": "Un conocido me pide dinero prestado otra vez.", "e": "An acquaintance asks to borrow money again." },
+    { "s": "Es la tercera vez este mes.", "e": "It's the third time this month." },
+    { "s": "Quiero ayudar, pero también poner un límite.", "e": "I want to help, but also set a boundary." },
+    { "s": "\"Mirá, te aprecio, pero esta vez no puedo.\"", "e": "\"Look, I appreciate you, but this time I can't.\"" },
+    { "s": "\"¿Por qué no?\" pregunta él.", "e": "\"Why not?\" he asks." },
+    { "s": "\"Lamentablemente, ya no me alcanza este mes.\"", "e": "\"Unfortunately, I don't have enough this month.\"" },
+    { "s": "Lo digo con calma, pero firme.", "e": "I say it calmly, but firmly." },
+    { "s": "\"Espero que comprendás mi situación.\"", "e": "\"I hope you understand my situation.\"" },
+    { "s": "\"Está bien. Gracias por ser honesto,\" dice él.", "e": "\"It's okay. Thanks for being honest,\" he says." },
+    { "s": "\"Claro. Te ayudo en otra cosa si puedo.\"", "e": "\"Of course. I'll help with something else if I can.\"" },
+    { "s": "Decir que no también es una forma de respeto.", "e": "Saying no is also a form of respect." },
+    { "s": "Respeto por uno mismo y por el otro.", "e": "Respect for yourself and for the other person." },
+    { "s": "Ser honesto y amable a la vez es posible.", "e": "Being honest and kind at the same time is possible." },
+    { "s": "Poner un límite en español: una victoria personal.", "e": "Setting a boundary in Spanish: a personal victory." }
+  ]
+}

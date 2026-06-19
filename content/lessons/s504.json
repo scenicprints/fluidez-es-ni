@@ -1,0 +1,24 @@
+{
+  "id": "s504",
+  "title": "Chunches y cosas",
+  "desc": "Everyday Nica slang",
+  "ph": 5,
+  "diff": 10,
+  "wu": ["chunche", "cipote", "chavalo", "tuani", "deacachimba", "pinche", "chele", "goma", "jaña", "pegue"],
+  "sn": [
+    { "s": "El nica tiene su propio vocabulario.", "e": "Nica has its own vocabulary." },
+    { "s": "Un 'chunche' es cualquier cosa sin nombre.", "e": "A 'chunche' is any thingamajig without a name." },
+    { "s": "\"Pasame ese chunche,\" dice Roberto.", "e": "\"Pass me that thingy,\" Roberto says." },
+    { "s": "Un 'cipote' o 'chavalo' es un niño o joven.", "e": "A 'cipote' or 'chavalo' is a kid or young person." },
+    { "s": "Si algo es 'tuani' o 'deacachimba', es genial.", "e": "If something is 'tuani' or 'deacachimba', it's awesome." },
+    { "s": "\"Esa fiesta estuvo deacachimba,\" digo.", "e": "\"That party was awesome,\" I say." },
+    { "s": "'Pinche' significa tacaño o de mala calidad.", "e": "'Pinche' means stingy or low quality." },
+    { "s": "A mí me dicen 'chele' por mi piel clara.", "e": "They call me 'chele' for my light skin." },
+    { "s": "Si tomás mucho, al día siguiente tenés 'goma'.", "e": "If you drink a lot, the next day you have a hangover." },
+    { "s": "\"Ando con una goma terrible,\" se queja Roberto.", "e": "\"I've got a terrible hangover,\" Roberto complains." },
+    { "s": "Cada palabra nueva me acerca más a ellos.", "e": "Each new word brings me closer to them." },
+    { "s": "El slang no se aprende en libros.", "e": "Slang isn't learned in books." },
+    { "s": "Se aprende en la calle, con la gente.", "e": "It's learned in the street, with the people." },
+    { "s": "Y entenderlo es entrar en su mundo.", "e": "And understanding it is entering their world." }
+  ]
+}

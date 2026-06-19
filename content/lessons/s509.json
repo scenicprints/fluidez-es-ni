@@ -1,0 +1,24 @@
+{
+  "id": "s509",
+  "title": "Doble sentido",
+  "desc": "Playful double meanings",
+  "ph": 5,
+  "diff": 10,
+  "wu": ["doble sentido", "picardía", "malicia", "inocente", "albur", "reírse", "sonrojarse", "ingenio", "sano", "pillar"],
+  "sn": [
+    { "s": "El humor nica adora el doble sentido.", "e": "Nica humor loves double meanings." },
+    { "s": "Una frase normal puede tener picardía escondida.", "e": "A normal phrase can have hidden mischief." },
+    { "s": "Roberto dice algo y todos se ríen.", "e": "Roberto says something and everyone laughs." },
+    { "s": "Yo no entiendo el chiste al principio.", "e": "I don't get the joke at first." },
+    { "s": "\"Es de doble sentido, maje,\" me explica Lucía.", "e": "\"It's a double meaning, dude,\" Lucía explains." },
+    { "s": "\"La frase suena inocente, pero tiene malicia.\"", "e": "\"The phrase sounds innocent, but it's cheeky.\"" },
+    { "s": "Cuando por fin lo pillo, me río fuerte.", "e": "When I finally catch it, I laugh hard." },
+    { "s": "\"¡Ya entendiste! Te estás poniendo malicioso,\" bromea ella.", "e": "\"You got it! You're getting mischievous,\" she teases." },
+    { "s": "Es un humor pícaro, pero casi siempre sano.", "e": "It's a cheeky humor, but almost always good-natured." },
+    { "s": "Requiere ingenio y un oído fino.", "e": "It requires wit and a sharp ear." },
+    { "s": "Pillar un doble sentido es un logro grande.", "e": "Catching a double meaning is a big achievement." },
+    { "s": "Significa que pensás en español, no que traducís.", "e": "It means you think in Spanish, not that you translate." },
+    { "s": "Me sonrojo un poco, pero me río con ellos.", "e": "I blush a little, but I laugh with them." },
+    { "s": "El día que captás el doble sentido, ya llegaste.", "e": "The day you catch the double meaning, you've arrived." }
+  ]
+}

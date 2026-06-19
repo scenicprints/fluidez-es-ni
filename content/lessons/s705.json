@@ -1,0 +1,24 @@
+{
+  "id": "s705",
+  "title": "El registro formal",
+  "desc": "Elevated phrasing for writing and speeches",
+  "ph": 7,
+  "diff": 14,
+  "wu": ["estimado", "agradecer", "disposición", "cordial", "remitir", "acatar", "conforme", "atentamente", "destacar", "índole"],
+  "sn": [
+    { "s": "Tengo que escribir un correo formal importante.", "e": "I have to write an important formal email." },
+    { "s": "El registro escrito culto es otro mundo.", "e": "The cultured written register is another world." },
+    { "s": "No empiezo con 'hola', sino con 'Estimado señor'.", "e": "I don't start with 'hi', but with 'Dear sir'." },
+    { "s": "\"Le escribo para agradecer su pronta respuesta.\"", "e": "\"I write to thank you for your prompt response.\"" },
+    { "s": "'Quedo a su disposición' ofrece ayuda con elegancia.", "e": "'I remain at your disposal' offers help elegantly." },
+    { "s": "\"Conforme a lo acordado, le remito el documento.\"", "e": "\"In accordance with what we agreed, I send you the document.\"" },
+    { "s": "'Acatar' es cumplir o seguir una norma.", "e": "'Acatar' is to comply with or follow a rule." },
+    { "s": "Quiero 'destacar' lo importante: enfatizarlo con cuidado.", "e": "I want to 'highlight' the important part: emphasize it carefully." },
+    { "s": "Cierro con 'atentamente', nunca con 'chao'.", "e": "I close with 'sincerely', never with 'bye'." },
+    { "s": "Cada frase formal tiene su fórmula precisa.", "e": "Each formal phrase has its precise formula." },
+    { "s": "Saber este registro abre puertas profesionales.", "e": "Knowing this register opens professional doors." },
+    { "s": "Es la diferencia entre escribir bien y escribir con autoridad.", "e": "It's the difference between writing well and writing with authority." },
+    { "s": "La respuesta llega: 'Su carta es de lo más cordial y atinada'.", "e": "The reply comes: 'Your letter is most cordial and apt'." },
+    { "s": "Dominar lo formal y lo coloquial: eso es ser completo.", "e": "Mastering the formal and the colloquial: that's being complete." }
+  ]
+}

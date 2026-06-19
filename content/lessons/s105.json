@@ -1,0 +1,25 @@
+{
+  "id": "s105",
+  "title": "El bus",
+  "desc": "Taking the urban bus",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["bus", "cobrador", "parada", "pasaje", "lleno", "subir", "bajar", "asiento", "rápido", "gente"],
+  "sn": [
+    { "s": "Necesito ir al centro.", "e": "I need to go downtown." },
+    { "s": "Tomo el bus en la parada.", "e": "I take the bus at the stop." },
+    { "s": "El bus llega lleno de gente.", "e": "The bus arrives full of people." },
+    { "s": "Subo con cuidado.", "e": "I get on carefully." },
+    { "s": "\"¡Pasaje, pasaje!\" grita el cobrador.", "e": "\"Fare, fare!\" shouts the fare collector." },
+    { "s": "\"¿Cuánto es el pasaje?\" pregunto.", "e": "\"How much is the fare?\" I ask." },
+    { "s": "\"Cinco córdobas,\" me dice.", "e": "\"Five córdobas,\" he tells me." },
+    { "s": "Le doy el dinero.", "e": "I give him the money." },
+    { "s": "No hay asiento. Voy de pie.", "e": "There's no seat. I stand." },
+    { "s": "El bus va rápido por la ciudad.", "e": "The bus goes fast through the city." },
+    { "s": "Una señora me dice: \"Agárrese bien, joven.\"", "e": "A woman tells me: \"Hold on tight, young man.\"" },
+    { "s": "\"¡Parada!\" grito cuando llego.", "e": "\"Stop!\" I shout when I arrive." },
+    { "s": "Bajo del bus en el centro.", "e": "I get off the bus downtown." },
+    { "s": "El bus es caótico, pero funciona.", "e": "The bus is chaotic, but it works." },
+    { "s": "Y siempre hay alguien que te ayuda.", "e": "And there's always someone who helps you." }
+  ]
+}

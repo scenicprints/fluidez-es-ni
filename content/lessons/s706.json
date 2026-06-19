@@ -1,0 +1,24 @@
+{
+  "id": "s706",
+  "title": "Matices finos",
+  "desc": "Subtle distinctions natives feel",
+  "ph": 7,
+  "diff": 14,
+  "wu": ["matiz", "distinguir", "connotación", "preciso", "sutil", "apreciar", "percibir", "diferenciar", "exacto", "leve"],
+  "sn": [
+    { "s": "Lucía me enseña distinciones que solo un nativo siente.", "e": "Lucía teaches me distinctions only a native feels." },
+    { "s": "'Oír' es percibir sonido; 'escuchar' es prestar atención.", "e": "'Oír' is to perceive sound; 'escuchar' is to pay attention." },
+    { "s": "\"Te oigo, pero no te estaba escuchando,\" puede pasar.", "e": "\"I hear you, but I wasn't listening,\" can happen." },
+    { "s": "'Recordar' es traer a la memoria; 'acordarse' es más íntimo.", "e": "'Recordar' is to recall; 'acordarse' is more intimate." },
+    { "s": "Hay diferencia entre 'un viejo amigo' y 'un amigo viejo'.", "e": "There's a difference between 'an old friend' and 'an elderly friend'." },
+    { "s": "El orden de la palabra cambia el sentido por completo.", "e": "Word order changes the meaning completely." },
+    { "s": "'Cierto hombre' y 'un hombre cierto' no son lo mismo.", "e": "'A certain man' and 'a sure man' aren't the same." },
+    { "s": "'Pobre hombre' da lástima; 'hombre pobre' no tiene dinero.", "e": "'Pobre hombre' is pitiful; 'hombre pobre' has no money." },
+    { "s": "Apreciar estos matices es percibir el alma del idioma.", "e": "Appreciating these nuances is perceiving the language's soul." },
+    { "s": "\"Ya diferenciás cosas que muchos ni notan,\" dice Lucía.", "e": "\"You already distinguish things many don't even notice,\" Lucía says." },
+    { "s": "Un matiz leve puede cambiarlo todo en una frase.", "e": "A slight nuance can change everything in a sentence." },
+    { "s": "Escoger la palabra exacta es un placer en sí mismo.", "e": "Choosing the exact word is a pleasure in itself." },
+    { "s": "Estas sutilezas son el territorio del verdadero dominio.", "e": "These subtleties are the territory of true mastery." },
+    { "s": "Y por fin las habito con naturalidad.", "e": "And at last I inhabit them naturally." }
+  ]
+}

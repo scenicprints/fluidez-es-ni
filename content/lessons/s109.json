@@ -1,0 +1,25 @@
+{
+  "id": "s109",
+  "title": "Un problema pequeño",
+  "desc": "Dealing with a small daily problem",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["problema", "roto", "arreglar", "ayudar", "llave", "puerta", "vecino", "poder", "favor", "resolver"],
+  "sn": [
+    { "s": "Hoy tengo un problema.", "e": "Today I have a problem." },
+    { "s": "La llave no abre la puerta.", "e": "The key won't open the door." },
+    { "s": "La cerradura está rota.", "e": "The lock is broken." },
+    { "s": "No puedo entrar a mi casa.", "e": "I can't get into my house." },
+    { "s": "Mi vecino me ve afuera.", "e": "My neighbor sees me outside." },
+    { "s": "\"¿Qué pasó, vecino?\" me pregunta.", "e": "\"What happened, neighbor?\" he asks me." },
+    { "s": "\"La cerradura está rota. No puedo entrar.\"", "e": "\"The lock is broken. I can't get in.\"" },
+    { "s": "\"Esperá, yo te ayudo.\"", "e": "\"Wait, I'll help you.\"" },
+    { "s": "El vecino conoce a un cerrajero.", "e": "The neighbor knows a locksmith." },
+    { "s": "\"Don Chico arregla todo. Yo lo llamo.\"", "e": "\"Don Chico fixes everything. I'll call him.\"" },
+    { "s": "En media hora llega don Chico.", "e": "In half an hour don Chico arrives." },
+    { "s": "Arregla la cerradura rápido.", "e": "He fixes the lock quickly." },
+    { "s": "\"Ya está. Quedó como nueva.\"", "e": "\"All done. Good as new.\"" },
+    { "s": "\"Muchas gracias a los dos.\"", "e": "\"Thank you both very much.\"" },
+    { "s": "Aquí los vecinos se ayudan. Siempre.", "e": "Here neighbors help each other. Always." }
+  ]
+}

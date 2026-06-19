@@ -1,0 +1,57 @@
+{
+  "id": "s03",
+  "title": "¿De dónde venís?",
+  "desc": "Making friends at a pulpería",
+  "ph": 0,
+  "diff": 2,
+  "wu": [
+    "venís",
+    "sos",
+    "ideay",
+    "sabés",
+    "querés",
+    "tenés",
+    "podés",
+    "dale",
+    "tuani",
+    "barrio"
+  ],
+  "sn": [
+    {
+      "s": "Hay una pulpería cerca de mi casa. Cada tarde voy a comprar agua.",
+      "e": "There's a corner shop near my house. Every afternoon I buy water."
+    },
+    {
+      "s": "Un día, un hombre me habla. \"Vos no sos de aquí, ¿verdad?\"",
+      "e": "One day, a man talks to me. \"You're not from here, right?\""
+    },
+    {
+      "s": "\"Soy de Estados Unidos.\" \"¡Ideay! ¿Y qué hacés en Nicaragua?\"",
+      "e": "\"I'm from the US.\" \"Well! What are you doing in Nicaragua?\""
+    },
+    {
+      "s": "\"Quiero aprender español y conocer el país.\"",
+      "e": "\"I want to learn Spanish and get to know the country.\""
+    },
+    {
+      "s": "\"Pues ya estás en el mejor lugar, hermano. Aquí la gente es tuani.\"",
+      "e": "\"You're already in the best place, bro. People here are cool.\""
+    },
+    {
+      "s": "\"Mirá, yo soy Roberto. Si querés aprender como nica, tenés que salir con nosotros.\"",
+      "e": "\"I'm Roberto. If you want to learn like a Nica, you have to hang with us.\""
+    },
+    {
+      "s": "\"No podés aprender solo en la casa con un libro.\"",
+      "e": "\"You can't learn alone at home with a book.\""
+    },
+    {
+      "s": "\"Dale pues. Mañana en la noche vamos al parque.\"",
+      "e": "\"Alright. Tomorrow night we're going to the park.\""
+    },
+    {
+      "s": "Para aprender una lengua, tenés que vivir en ella. No solo estudiar. Vivir.",
+      "e": "To learn a language, you have to live in it. Not just study. Live."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "s07",
+  "title": "Mi primer trabajo",
+  "desc": "Getting your first job in Nicaragua",
+  "ph": 1,
+  "diff": 3,
+  "wu": [
+    "trabajo",
+    "trabajar",
+    "necesitar",
+    "dinero",
+    "hablar",
+    "saber",
+    "poder",
+    "empezar",
+    "semana",
+    "pagar"
+  ],
+  "sn": [
+    {
+      "s": "Ya tengo dos meses en Nicaragua. Mi dinero se está terminando.",
+      "e": "I've been in Nicaragua two months. My money is running out."
+    },
+    {
+      "s": "Roberto me dice: \"Mirá, mi amigo tiene un café y necesita a alguien que hable inglés.\"",
+      "e": "Roberto: \"My friend has a café and needs someone who speaks English.\""
+    },
+    {
+      "s": "\"¿Para qué necesita inglés?\" \"Porque van muchos turistas.\"",
+      "e": "\"Why does he need English?\" \"Because lots of tourists go there.\""
+    },
+    {
+      "s": "Voy al café. El dueño se llama Marcos.",
+      "e": "I go to the café. The owner is Marcos."
+    },
+    {
+      "s": "\"¿Sabés hacer café?\" me pregunta. \"Sí, puedo aprender rápido.\"",
+      "e": "\"Do you know how to make coffee?\" \"Yes, I can learn fast.\""
+    },
+    {
+      "s": "\"Dale. Empezás mañana. De lunes a viernes, ocho horas. Te pago por semana.\"",
+      "e": "\"Okay. You start tomorrow. Monday to Friday, eight hours. I pay weekly.\""
+    },
+    {
+      "s": "En el trabajo hablo español todo el día con los otros trabajadores.",
+      "e": "At work I speak Spanish all day with the other workers."
+    },
+    {
+      "s": "Con los turistas hablo inglés, pero después cambio a español.",
+      "e": "With tourists I speak English, but then switch to Spanish."
+    },
+    {
+      "s": "Mi español mejora cada semana. Ahora pienso en español sin traducir del inglés.",
+      "e": "My Spanish improves every week. Now I think in Spanish without translating."
+    }
+  ]
+}

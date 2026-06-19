@@ -1,0 +1,24 @@
+{
+  "id": "s606",
+  "title": "El pinolero habla",
+  "desc": "Speech rooted in Nica identity",
+  "ph": 6,
+  "diff": 12,
+  "wu": ["pinolero", "pinol", "gallopinto", "nacatamal", "identidad", "raíz", "orgullo", "tradición", "típico", "tierra"],
+  "sn": [
+    { "s": "Los nicaragüenses se llaman a sí mismos 'pinoleros'.", "e": "Nicaraguans call themselves 'pinoleros'." },
+    { "s": "Viene del 'pinol', una bebida de maíz ancestral.", "e": "It comes from 'pinol', an ancestral corn drink." },
+    { "s": "El maíz está en el alma y en el idioma.", "e": "Corn is in the soul and in the language." },
+    { "s": "\"Somos hijos del maíz,\" dice el abuelo con orgullo.", "e": "\"We are children of corn,\" the grandfather says proudly." },
+    { "s": "Hablar de comida es hablar de identidad.", "e": "Talking about food is talking about identity." },
+    { "s": "El 'gallopinto' no es solo arroz con frijoles.", "e": "'Gallopinto' isn't just rice with beans." },
+    { "s": "Es el desayuno que une a todo un país.", "e": "It's the breakfast that unites a whole country." },
+    { "s": "El 'nacatamal' del domingo es casi una ceremonia.", "e": "Sunday's 'nacatamal' is almost a ceremony." },
+    { "s": "Cuando uso estas palabras, toco la raíz del país.", "e": "When I use these words, I touch the country's roots." },
+    { "s": "\"Vos ya sabés lo que es ser pinolero,\" me dice Lucía.", "e": "\"You already know what it is to be pinolero,\" Lucía tells me." },
+    { "s": "No es solo el idioma; es la tierra, la comida, el orgullo.", "e": "It's not just the language; it's the land, the food, the pride." },
+    { "s": "Hablar como nica es entender de dónde viene cada palabra.", "e": "Speaking like a Nica is understanding where each word comes from." },
+    { "s": "Y cada palabra aquí sabe a maíz y a hogar.", "e": "And every word here tastes of corn and home." },
+    { "s": "Me siento parte de esa herencia ahora.", "e": "I feel part of that heritage now." }
+  ]
+}

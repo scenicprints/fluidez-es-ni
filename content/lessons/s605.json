@@ -1,0 +1,24 @@
+{
+  "id": "s605",
+  "title": "Diario en nica",
+  "desc": "Everyday Nicaraguan expressions",
+  "ph": 6,
+  "diff": 11,
+  "wu": ["ideay", "pues", "dale", "ahuevo", "tuani", "fíjate", "diacachimba", "vaya", "chinear", "amañarse"],
+  "sn": [
+    { "s": "El día de un nica está lleno de sus propias frases.", "e": "A Nica's day is full of their own phrases." },
+    { "s": "'Ideay' abre cualquier conversación.", "e": "'Ideay' opens any conversation." },
+    { "s": "'Pues' la cierra: 'ahí nos vemos, pues'.", "e": "'Pues' closes it: 'see you, then'." },
+    { "s": "Para decir que sí con ganas: '¡ahuevo!'", "e": "To say yes with enthusiasm: '¡ahuevo!'" },
+    { "s": "'Dale pues' es el sí más nica de todos.", "e": "'Dale pues' is the most Nica yes of all." },
+    { "s": "Cuando algo te gusta mucho, te 'amañás'.", "e": "When you really like a place, you 'get comfortable' there." },
+    { "s": "\"Ya me amañé en este barrio,\" le digo a Lucía.", "e": "\"I've settled into this neighborhood,\" I tell Lucía." },
+    { "s": "'Chinear' es cargar o consentir con cariño a alguien.", "e": "'Chinear' is to carry or lovingly pamper someone." },
+    { "s": "\"A esa bebé la chinean todos,\" dice la abuela.", "e": "\"Everyone dotes on that baby,\" the grandma says." },
+    { "s": "Estas palabras no son de España ni de México.", "e": "These words aren't from Spain or Mexico." },
+    { "s": "Son el corazón del habla nicaragüense diaria.", "e": "They're the heart of everyday Nicaraguan speech." },
+    { "s": "Usarlas sin pensar es la prueba de que ya soy de aquí.", "e": "Using them without thinking proves I'm from here now." },
+    { "s": "\"Hablás más nica que muchos nicas,\" bromea Roberto.", "e": "\"You talk more Nica than many Nicas,\" Roberto jokes." },
+    { "s": "Y para mí, eso vale más que cualquier diploma.", "e": "And to me, that's worth more than any diploma." }
+  ]
+}

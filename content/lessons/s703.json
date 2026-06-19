@@ -1,0 +1,24 @@
+{
+  "id": "s703",
+  "title": "Verbos elegantes",
+  "desc": "Sophisticated verbs natives use",
+  "ph": 7,
+  "diff": 13,
+  "wu": ["esgrimir", "ponderar", "vislumbrar", "suscitar", "acaecer", "ahondar", "recalcar", "entrañar", "sopesar", "albergar"],
+  "sn": [
+    { "s": "En el periódico encuentro verbos que rara vez se hablan.", "e": "In the newspaper I find verbs rarely spoken aloud." },
+    { "s": "En vez de 'usar un argumento', se 'esgrime' un argumento.", "e": "Instead of 'use an argument', one 'wields' (esgrime) an argument." },
+    { "s": "'Ponderar' es considerar algo con cuidado, sopesarlo.", "e": "'Ponderar' is to weigh something carefully." },
+    { "s": "\"Hay que ponderar bien los riesgos,\" digo en la reunión.", "e": "\"We must weigh the risks well,\" I say in the meeting." },
+    { "s": "'Vislumbrar' es percibir algo de forma tenue o lejana.", "e": "'Vislumbrar' is to glimpse something faintly or distantly." },
+    { "s": "\"Vislumbro una solución,\" suena mejor que 'veo una'.", "e": "\"I glimpse a solution\" sounds better than 'I see one'." },
+    { "s": "Un tema que provoca debate 'suscita' polémica.", "e": "A topic that provokes debate 'suscita' (stirs up) controversy." },
+    { "s": "'Acaecer' es una forma culta de decir 'suceder'.", "e": "'Acaecer' is a refined way to say 'to happen'." },
+    { "s": "'Ahondar' es profundizar: 'ahondemos en el tema'.", "e": "'Ahondar' is to delve deeper: 'let's delve into the topic'." },
+    { "s": "'Recalcar' es enfatizar: 'quiero recalcar un punto'.", "e": "'Recalcar' is to stress: 'I want to stress a point'." },
+    { "s": "'Albergar' una esperanza es guardarla dentro.", "e": "To 'albergar' (harbor) a hope is to hold it within." },
+    { "s": "\"Albergo la esperanza de quedarme aquí,\" le digo a Lucía.", "e": "\"I harbor the hope of staying here,\" I tell Lucía." },
+    { "s": "Estos verbos dan precisión y elegancia al hablar.", "e": "These verbs give precision and elegance to speech." },
+    { "s": "Un nativo los reconoce al instante, aunque no los use a diario.", "e": "A native recognizes them instantly, even if not used daily." }
+  ]
+}

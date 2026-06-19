@@ -1,0 +1,24 @@
+{
+  "id": "s404",
+  "title": "Una conversación difícil",
+  "desc": "Being vulnerable with someone you love",
+  "ph": 4,
+  "diff": 8,
+  "wu": ["sincero", "miedo", "confesar", "vulnerable", "escuchar", "sentimiento", "callar", "abrir", "comprensión", "apoyar"],
+  "sn": [
+    { "s": "Hay algo que me cuesta decirle a Lucía.", "e": "There's something hard for me to tell Lucía." },
+    { "s": "Tengo miedo de hablar de mis sentimientos.", "e": "I'm afraid to talk about my feelings." },
+    { "s": "\"¿Qué te pasa? Te noto callado,\" me dice.", "e": "\"What's wrong? You seem quiet,\" she tells me." },
+    { "s": "Respiro hondo y decido ser sincero.", "e": "I breathe deep and decide to be honest." },
+    { "s": "\"A veces tengo miedo de no ser suficiente.\"", "e": "\"Sometimes I'm afraid I'm not enough.\"" },
+    { "s": "Es difícil mostrarme vulnerable.", "e": "It's hard to show myself vulnerable." },
+    { "s": "Lucía me toma la mano y me escucha.", "e": "Lucía takes my hand and listens." },
+    { "s": "\"Gracias por confiar en mí,\" dice con dulzura.", "e": "\"Thank you for trusting me,\" she says tenderly." },
+    { "s": "\"Para mí, vos sos más que suficiente.\"", "e": "\"To me, you are more than enough.\"" },
+    { "s": "\"Quiero que sepás que siempre te apoyo.\"", "e": "\"I want you to know I always support you.\"" },
+    { "s": "Sus palabras me quitan un peso enorme.", "e": "Her words lift an enormous weight off me." },
+    { "s": "\"Hablar de esto nos acerca,\" le digo.", "e": "\"Talking about this brings us closer,\" I tell her." },
+    { "s": "Abrir el corazón da miedo, pero también libera.", "e": "Opening your heart is scary, but it also frees you." },
+    { "s": "El amor verdadero se construye con honestidad.", "e": "True love is built with honesty." }
+  ]
+}

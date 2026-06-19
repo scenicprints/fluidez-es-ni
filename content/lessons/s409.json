@@ -1,0 +1,24 @@
+{
+  "id": "s409",
+  "title": "Construyendo un futuro",
+  "desc": "Dreaming of a shared future",
+  "ph": 4,
+  "diff": 9,
+  "wu": ["futuro", "sueño", "juntos", "casa", "planear", "esperanza", "construir", "ojalá", "compartir", "compromiso"],
+  "sn": [
+    { "s": "Una noche, Lucía y yo hablamos del futuro.", "e": "One night, Lucía and I talk about the future." },
+    { "s": "\"¿Cómo te imaginás nuestra vida?\" me pregunta.", "e": "\"How do you imagine our life?\" she asks me." },
+    { "s": "\"Sueño con una casa pequeña, con un jardín.\"", "e": "\"I dream of a small house, with a garden.\"" },
+    { "s": "\"Ojalá podamos tenerla algún día,\" dice ella.", "e": "\"I hope we can have it someday,\" she says." },
+    { "s": "\"Quiero que construyamos algo juntos,\" le digo.", "e": "\"I want us to build something together,\" I tell her." },
+    { "s": "\"Yo también lo deseo con todo el corazón.\"", "e": "\"I want that too, with all my heart.\"" },
+    { "s": "Hablamos de viajes, de planes, de esperanzas.", "e": "We talk about trips, plans, hopes." },
+    { "s": "\"Espero que siempre nos apoyemos,\" dice Lucía.", "e": "\"I hope we always support each other,\" Lucía says." },
+    { "s": "\"Pase lo que pase, vamos a estar juntos.\"", "e": "\"No matter what happens, we'll be together.\"" },
+    { "s": "El futuro se siente posible a su lado.", "e": "The future feels possible by her side." },
+    { "s": "\"Compartir un sueño es un compromiso,\" pienso.", "e": "\"Sharing a dream is a commitment,\" I think." },
+    { "s": "No sé qué traerá la vida, pero la quiero a ella.", "e": "I don't know what life will bring, but I want her in it." },
+    { "s": "Planear un futuro juntos es un acto de amor.", "e": "Planning a future together is an act of love." },
+    { "s": "Y ojalá ese futuro apenas comienza.", "e": "And hopefully that future is just beginning." }
+  ]
+}

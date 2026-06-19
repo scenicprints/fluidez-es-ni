@@ -1,0 +1,25 @@
+{
+  "id": "s103",
+  "title": "En la pulpería",
+  "desc": "The corner store and daily ritual",
+  "ph": 1,
+  "diff": 2,
+  "wu": ["pulpería", "pan", "huevo", "fiado", "vecino", "diario", "saludar", "doña", "siempre", "conocer"],
+  "sn": [
+    { "s": "Cerca de mi casa hay una pulpería.", "e": "Near my house there's a corner store." },
+    { "s": "La dueña es doña Marta.", "e": "The owner is doña Marta." },
+    { "s": "Voy todos los días.", "e": "I go every day." },
+    { "s": "\"Buenas, doña Marta. ¿Cómo está?\"", "e": "\"Hello, doña Marta. How are you?\"" },
+    { "s": "\"Bien, gracias a Dios. ¿Y vos?\"", "e": "\"Good, thank God. And you?\"" },
+    { "s": "\"Bien. Quiero pan y dos huevos.\"", "e": "\"Good. I want bread and two eggs.\"" },
+    { "s": "Doña Marta conoce a todos los vecinos.", "e": "Doña Marta knows all the neighbors." },
+    { "s": "Un señor llega. \"Doña Marta, ¿me fía hasta el viernes?\"", "e": "\"Doña Marta, can you let me pay on Friday?\"" },
+    { "s": "\"Claro, don Beto. Como siempre.\"", "e": "\"Of course, don Beto. Like always.\"" },
+    { "s": "Aquí la gente compra fiado y paga después.", "e": "Here people buy on credit and pay later." },
+    { "s": "Es confianza entre vecinos.", "e": "It's trust between neighbors." },
+    { "s": "\"Aquí tenés tu pan,\" me dice doña Marta.", "e": "\"Here's your bread,\" doña Marta tells me." },
+    { "s": "\"Gracias. Hasta mañana.\"", "e": "\"Thanks. See you tomorrow.\"" },
+    { "s": "La pulpería no es solo una tienda.", "e": "The corner store isn't just a shop." },
+    { "s": "Es el corazón del barrio.", "e": "It's the heart of the neighborhood." }
+  ]
+}

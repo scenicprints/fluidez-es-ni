@@ -1,0 +1,24 @@
+{
+  "id": "s601",
+  "title": "Comiéndose la ese",
+  "desc": "The Nicaraguan accent: dropping the 's'",
+  "ph": 6,
+  "diff": 11,
+  "wu": ["aspirar", "acento", "costa", "pronunciar", "sonido", "relajado", "final", "nica", "distinto", "oído"],
+  "sn": [
+    { "s": "Roberto me enseña el secreto del acento nica.", "e": "Roberto teaches me the secret of the Nica accent." },
+    { "s": "\"Aquí no decimos las eses al final,\" me explica.", "e": "\"Here we don't say the s's at the end,\" he explains." },
+    { "s": "En vez de 'los frijoles', decimos 'lo' frijole'.", "e": "Instead of 'los frijoles', we say 'lo' frijole'." },
+    { "s": "La 's' se aspira o desaparece: 'ehtá' por 'está'.", "e": "The 's' is aspirated or disappears: 'ehtá' for 'está'." },
+    { "s": "\"¿Cómo ehtáh?\" suena, no '¿cómo estás?'", "e": "\"¿Cómo ehtáh?\" is how it sounds, not '¿cómo estás?'" },
+    { "s": "Un mexicano pronuncia cada 's' con cuidado.", "e": "A Mexican pronounces every 's' carefully." },
+    { "s": "Un español la marca aún más fuerte.", "e": "A Spaniard marks it even more strongly." },
+    { "s": "Pero el nica la suaviza, la deja ir.", "e": "But the Nica softens it, lets it go." },
+    { "s": "\"Decí 'má o meno' en vez de 'más o menos',\" me dice.", "e": "\"Say 'má o meno' instead of 'más o menos',\" he tells me." },
+    { "s": "Practico: 'do' cervesa, por favo'.", "e": "I practice: 'two beers, please' (with dropped s's)." },
+    { "s": "\"¡Eso! Ya te sale el acento de la costa,\" se ríe.", "e": "\"That's it! The coastal accent is coming out now,\" he laughs." },
+    { "s": "Este sonido relajado es puro Nicaragua.", "e": "This relaxed sound is pure Nicaragua." },
+    { "s": "No es hablar mal: es hablar como de aquí.", "e": "It's not speaking badly: it's speaking like a local." },
+    { "s": "El oído ya distingue lo nica de lo demás.", "e": "My ear now distinguishes Nica from the rest." }
+  ]
+}

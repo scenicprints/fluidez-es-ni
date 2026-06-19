@@ -1,0 +1,24 @@
+{
+  "id": "s607",
+  "title": "Hablando con el campo",
+  "desc": "Rural Nicaraguan speech and warmth",
+  "ph": 6,
+  "diff": 12,
+  "wu": ["campo", "campesino", "finca", "madrugar", "cosecha", "buey", "vecindad", "hospitalidad", "sencillo", "usted"],
+  "sn": [
+    { "s": "Lucía y yo visitamos a su familia en el campo.", "e": "Lucía and I visit her family in the countryside." },
+    { "s": "El habla del campo es distinta a la de la ciudad.", "e": "Rural speech is different from the city's." },
+    { "s": "Es más pausada, más dulce, llena de 'usted'.", "e": "It's slower, sweeter, full of 'usted'." },
+    { "s": "En el campo, el respeto se nota en cada palabra.", "e": "In the countryside, respect shows in every word." },
+    { "s": "\"Pase adelante, mi hijo. Está en su casa,\" dice don Chico.", "e": "\"Come in, son. Make yourself at home,\" don Chico says." },
+    { "s": "Aunque acabo de llegar, ya me tratan como familia.", "e": "Even though I just arrived, they treat me like family." },
+    { "s": "\"Aquí madrugamos con los gallos,\" me cuenta.", "e": "\"Here we rise early with the roosters,\" he tells me." },
+    { "s": "Habla de la cosecha, de los bueyes, de la tierra.", "e": "He talks about the harvest, the oxen, the land." },
+    { "s": "Su español es sencillo pero sabio, sin prisa.", "e": "His Spanish is simple but wise, unhurried." },
+    { "s": "\"La tierra no miente, mi hijo,\" dice despacio.", "e": "\"The land doesn't lie, son,\" he says slowly." },
+    { "s": "La hospitalidad del campo no tiene igual.", "e": "Rural hospitality is unmatched." },
+    { "s": "Entender este español es entender el alma rural del país.", "e": "Understanding this Spanish is understanding the country's rural soul." },
+    { "s": "Me despido con un 'que le vaya bien, don Chico'.", "e": "I say goodbye with a 'take care, don Chico'." },
+    { "s": "Y él responde: 'vuelva pronto, ya es de la familia'.", "e": "And he answers: 'come back soon, you're family now'." }
+  ]
+}

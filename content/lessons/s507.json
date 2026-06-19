@@ -1,0 +1,24 @@
+{
+  "id": "s507",
+  "title": "Leyendo el ambiente",
+  "desc": "Reading between the lines",
+  "ph": 5,
+  "diff": 10,
+  "wu": ["indirecta", "tal vez", "fíjate", "quizás", "ver", "dar largas", "compromiso", "suave", "entender", "sutil"],
+  "sn": [
+    { "s": "A veces los nicas no dicen 'no' directamente.", "e": "Sometimes Nicas don't say 'no' directly." },
+    { "s": "Dicen cosas suaves para no ser groseros.", "e": "They say soft things to avoid being rude." },
+    { "s": "Invito a un conocido a una fiesta.", "e": "I invite an acquaintance to a party." },
+    { "s": "\"Fijáte que tal vez, ahí veo,\" me dice.", "e": "\"Well, maybe, I'll see,\" he tells me." },
+    { "s": "Antes pensaba que era un 'sí'.", "e": "Before I thought that was a 'yes'." },
+    { "s": "Pero 'ahí veo' muchas veces significa 'no'.", "e": "But 'I'll see' often means 'no'." },
+    { "s": "Lucía me explica el código.", "e": "Lucía explains the code to me." },
+    { "s": "\"Si dicen 'quizás' o 'tal vez', no esperés mucho.\"", "e": "\"If they say 'maybe,' don't expect much.\"" },
+    { "s": "\"Es una forma amable de decir que no.\"", "e": "\"It's a polite way of saying no.\"" },
+    { "s": "Aprendo a leer lo que no se dice.", "e": "I learn to read what isn't said." },
+    { "s": "El tono, la pausa, la mirada: todo habla.", "e": "The tone, the pause, the look: it all speaks." },
+    { "s": "Entender lo sutil es entender la cultura.", "e": "Understanding the subtle is understanding the culture." },
+    { "s": "Ya no me tomo todo tan literal.", "e": "I no longer take everything so literally." },
+    { "s": "Escuchar bien es también leer entre líneas.", "e": "Listening well is also reading between the lines." }
+  ]
+}

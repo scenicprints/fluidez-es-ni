@@ -1,0 +1,24 @@
+{
+  "id": "s610",
+  "title": "Ya hablás como nica",
+  "desc": "Sounding unmistakably Nicaraguan",
+  "ph": 6,
+  "diff": 12,
+  "wu": ["nica", "acento", "lograr", "natural", "orgullo", "pertenecer", "reconocer", "raíz", "halago", "identidad"],
+  "sn": [
+    { "s": "Viajo a otro país y conozco a unos latinos.", "e": "I travel to another country and meet some Latinos." },
+    { "s": "Apenas abro la boca, uno me pregunta algo.", "e": "As soon as I open my mouth, one asks me something." },
+    { "s": "\"Vos sos de Nicaragua, ¿verdad?\"", "e": "\"You're from Nicaragua, right?\"" },
+    { "s": "No me pregunta si soy latino. Sabe el país exacto.", "e": "He doesn't ask if I'm Latino. He knows the exact country." },
+    { "s": "\"¿Cómo supiste?\" le pregunto, sorprendido.", "e": "\"How did you know?\" I ask, surprised." },
+    { "s": "\"Por el acento, el voseo, las palabras. Puro nica.\"", "e": "\"By the accent, the voseo, the words. Pure Nica.\"" },
+    { "s": "Me come las eses, digo 'tuani', voseo sin pensar.", "e": "I drop my s's, say 'tuani', use voseo without thinking." },
+    { "s": "Mi español tiene una bandera, y es azul y blanco.", "e": "My Spanish has a flag, and it's blue and white." },
+    { "s": "No hablo un español de ninguna parte.", "e": "I don't speak a Spanish from nowhere." },
+    { "s": "Hablo el español de un lugar que amo.", "e": "I speak the Spanish of a place I love." },
+    { "s": "Sonar nica no fue meta de gramática, sino de corazón.", "e": "Sounding Nica wasn't a grammar goal, but a heart one." },
+    { "s": "Adopté no solo el idioma, sino su acento, su alma.", "e": "I adopted not just the language, but its accent, its soul." },
+    { "s": "\"Pues sí,\" respondo con orgullo. \"Soy de allá.\"", "e": "\"Well, yes,\" I answer proudly. \"I'm from there.\"" },
+    { "s": "Y al decirlo, siento que es completamente verdad.", "e": "And saying it, I feel it's completely true." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s302",
+  "title": "El reclamo",
+  "desc": "Making a complaint",
+  "ph": 3,
+  "diff": 6,
+  "wu": ["reclamo", "queja", "devolver", "roto", "funcionar", "garantía", "cambio", "exigir", "razonable", "solución"],
+  "sn": [
+    { "s": "Compré un ventilador la semana pasada.", "e": "I bought a fan last week." },
+    { "s": "Pero ya no funciona. Está roto.", "e": "But it doesn't work anymore. It's broken." },
+    { "s": "Vuelvo a la tienda con el recibo.", "e": "I go back to the store with the receipt." },
+    { "s": "\"Buenas. Compré este ventilador y ya no sirve.\"", "e": "\"Hello. I bought this fan and it no longer works.\"" },
+    { "s": "\"¿Tiene el recibo?\" pregunta la empleada.", "e": "\"Do you have the receipt?\" the employee asks." },
+    { "s": "\"Sí, aquí está. Lo compré hace una semana.\"", "e": "\"Yes, here it is. I bought it a week ago.\"" },
+    { "s": "\"Quiero un cambio o que me devuelvan el dinero.\"", "e": "\"I want an exchange or my money back.\"" },
+    { "s": "\"Déjeme revisar la garantía,\" dice ella.", "e": "\"Let me check the warranty,\" she says." },
+    { "s": "Hablo con calma, pero soy firme.", "e": "I speak calmly, but I'm firm." },
+    { "s": "\"Creo que es un reclamo razonable,\" agrego.", "e": "\"I think it's a reasonable complaint,\" I add." },
+    { "s": "\"Tiene razón. Le damos uno nuevo.\"", "e": "\"You're right. We'll give you a new one.\"" },
+    { "s": "\"Se lo agradezco mucho,\" respondo.", "e": "\"I appreciate it very much,\" I respond." },
+    { "s": "Reclamar bien no es ser grosero.", "e": "Complaining well isn't being rude." },
+    { "s": "Es defender lo que es justo, con respeto.", "e": "It's standing up for what's fair, with respect." }
+  ]
+}

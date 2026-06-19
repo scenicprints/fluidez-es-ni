@@ -1,0 +1,24 @@
+{
+  "id": "s406",
+  "title": "Cuidando a los míos",
+  "desc": "Caring for family",
+  "ph": 4,
+  "diff": 8,
+  "wu": ["cuidar", "salud", "preocuparse", "responsabilidad", "anciano", "acompañar", "paciencia", "fuerza", "familia", "ojalá"],
+  "sn": [
+    { "s": "La abuela de Lucía está enferma.", "e": "Lucía's grandmother is sick." },
+    { "s": "Toda la familia se une para cuidarla.", "e": "The whole family comes together to care for her." },
+    { "s": "\"¿Te molesta si ayudo?\" le pregunto a Lucía.", "e": "\"Do you mind if I help?\" I ask Lucía." },
+    { "s": "\"Para nada. Significa mucho para mí,\" responde.", "e": "\"Not at all. It means a lot to me,\" she answers." },
+    { "s": "Acompaño a la abuela y le hago compañía.", "e": "I sit with the grandmother and keep her company." },
+    { "s": "\"Sos un buen muchacho,\" me dice ella, débil.", "e": "\"You're a good young man,\" she tells me, weak." },
+    { "s": "\"Espero que se mejore pronto, doña.\"", "e": "\"I hope you get better soon, ma'am.\"" },
+    { "s": "Cuidar a alguien requiere paciencia y amor.", "e": "Caring for someone requires patience and love." },
+    { "s": "Lucía me mira con ojos llenos de cariño.", "e": "Lucía looks at me with eyes full of affection." },
+    { "s": "\"Ver cómo cuidás a mi abuela me enamora más.\"", "e": "\"Seeing how you care for my grandma makes me love you more.\"" },
+    { "s": "En la familia, los problemas se cargan juntos.", "e": "In the family, burdens are carried together." },
+    { "s": "\"Ojalá tengamos muchos años más con ella.\"", "e": "\"I hope we have many more years with her.\"" },
+    { "s": "Aquí aprendí que la familia se cuida sin condiciones.", "e": "Here I learned that family is cared for without conditions." },
+    { "s": "Pertenecer a una familia es también cuidarla.", "e": "Belonging to a family is also caring for it." }
+  ]
+}

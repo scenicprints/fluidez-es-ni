@@ -1,0 +1,57 @@
+{
+  "id": "s08",
+  "title": "La llamada de teléfono",
+  "desc": "Your first phone call in Spanish",
+  "ph": 1,
+  "diff": 3,
+  "wu": [
+    "teléfono",
+    "llamar",
+    "hablar",
+    "entender",
+    "esperar",
+    "problema",
+    "número",
+    "poder",
+    "decir",
+    "favor"
+  ],
+  "sn": [
+    {
+      "s": "Mi teléfono suena. Es un número que no conozco.",
+      "e": "My phone rings. A number I don't know."
+    },
+    {
+      "s": "\"¿Aló?\" \"Hola, ¿es Miguel? Soy Karla.\"",
+      "e": "\"Hello?\" \"Hi, is this Miguel? It's Karla.\""
+    },
+    {
+      "s": "\"¡Karla! ¿Cómo estás?\" \"Bien, mirá, te llamo porque hay un problema.\"",
+      "e": "\"Karla! How are you?\" \"Good, listen, I'm calling because there's a problem.\""
+    },
+    {
+      "s": "\"Roberto está enfermo y no puede ir al trabajo. ¿Podés decirle a Marcos?\"",
+      "e": "\"Roberto is sick and can't go to work. Can you tell Marcos?\""
+    },
+    {
+      "s": "Yo entiendo todo. Hace un mes no podía entender una llamada en español.",
+      "e": "I understand everything. A month ago I couldn't understand a phone call in Spanish."
+    },
+    {
+      "s": "\"Sí, claro. Yo le digo. ¿Necesita algo Roberto?\"",
+      "e": "\"Yes, of course. I'll tell him. Does Roberto need anything?\""
+    },
+    {
+      "s": "\"No, solo descansar. Gracias, Miguel. Sos muy amable.\"",
+      "e": "\"No, just rest. Thanks, Miguel. You're very kind.\""
+    },
+    {
+      "s": "Después de la llamada, me siento bien. Puedo hablar por teléfono en español.",
+      "e": "After the call, I feel good. I can talk on the phone in Spanish."
+    },
+    {
+      "s": "Eso es un gran paso. El teléfono es más difícil que hablar en persona.",
+      "e": "That's a big step. Phone is harder than in-person."
+    }
+  ]
+}

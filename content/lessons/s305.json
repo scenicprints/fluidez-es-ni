@@ -1,0 +1,24 @@
+{
+  "id": "s305",
+  "title": "Mi opinión",
+  "desc": "Giving a real opinion",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["opinión", "parecer", "importante", "problema", "solución", "porque", "sin embargo", "claro", "ejemplo", "convencer"],
+  "sn": [
+    { "s": "En la cena, hablamos de la educación.", "e": "At dinner, we talk about education." },
+    { "s": "\"¿Qué opinás vos del tema?\" me preguntan.", "e": "\"What's your opinion on the topic?\" they ask me." },
+    { "s": "Ahora puedo dar una opinión completa.", "e": "Now I can give a full opinion." },
+    { "s": "\"Me parece que la educación es lo más importante.\"", "e": "\"It seems to me that education is the most important thing.\"" },
+    { "s": "\"¿Por qué decís eso?\" pregunta la hermana de Roberto.", "e": "\"Why do you say that?\" Roberto's sister asks." },
+    { "s": "\"Porque sin educación, es difícil cambiar las cosas.\"", "e": "\"Because without education, it's hard to change things.\"" },
+    { "s": "\"Sin embargo, también importa el trabajo,\" dice ella.", "e": "\"However, work matters too,\" she says." },
+    { "s": "\"Claro, las dos van juntas,\" respondo.", "e": "\"Of course, the two go together,\" I respond." },
+    { "s": "\"Por ejemplo, un buen trabajo necesita estudio.\"", "e": "\"For example, a good job needs study.\"" },
+    { "s": "\"Tenés un buen punto,\" admite ella.", "e": "\"You have a good point,\" she admits." },
+    { "s": "Doy razones, ejemplos, y escucho las suyas.", "e": "I give reasons, examples, and I listen to theirs." },
+    { "s": "No se trata de ganar, sino de pensar juntos.", "e": "It's not about winning, but about thinking together." },
+    { "s": "Tener una opinión y explicarla: eso es fluidez.", "e": "Having an opinion and explaining it: that's fluency." },
+    { "s": "Ya converso como uno más en la mesa.", "e": "Now I converse like one more person at the table." }
+  ]
+}

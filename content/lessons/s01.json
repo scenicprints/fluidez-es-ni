@@ -1,0 +1,65 @@
+{
+  "id": "s01",
+  "title": "La fritanga de doña Carmen",
+  "desc": "Your first meal in Managua",
+  "ph": 0,
+  "diff": 1,
+  "wu": [
+    "fritanga",
+    "querés",
+    "dale",
+    "gallo",
+    "pinto",
+    "tuani",
+    "tenés",
+    "doña",
+    "comida",
+    "muy"
+  ],
+  "sn": [
+    {
+      "s": "Yo llegar a Managua por la noche.",
+      "e": "I arrive in Managua at night."
+    },
+    {
+      "s": "Tengo mucho hambre.",
+      "e": "I'm very hungry."
+    },
+    {
+      "s": "En la calle hay una fritanga.",
+      "e": "On the street there's a fritanga."
+    },
+    {
+      "s": "La mujer se llama doña Carmen.",
+      "e": "The woman's name is doña Carmen."
+    },
+    {
+      "s": "\"¡Hola! ¿Qué querés comer?\" me dice con una gran sonrisa.",
+      "e": "\"Hi! What do you want to eat?\" she says with a big smile."
+    },
+    {
+      "s": "Yo no sé qué decir. Todo se ve muy bien.",
+      "e": "I don't know what to say. Everything looks really good."
+    },
+    {
+      "s": "Hay gallo pinto, hay carne, hay tajadas de plátano, hay queso frito.",
+      "e": "There's gallo pinto, meat, plantain slices, and fried cheese."
+    },
+    {
+      "s": "\"Dale pues, te doy un poco de todo,\" dice ella.",
+      "e": "\"Okay then, I'll give you a little of everything.\""
+    },
+    {
+      "s": "La comida es muy buena. El gallo pinto tiene un sabor increíble.",
+      "e": "The food is really good. The gallo pinto has an incredible flavor."
+    },
+    {
+      "s": "\"¡Tuani!\" dice ella. \"Mañana tenés que venir otra vez.\"",
+      "e": "\"Awesome!\" she says. \"Tomorrow you have to come again.\""
+    },
+    {
+      "s": "La fritanga de doña Carmen es mi lugar favorito en Managua.",
+      "e": "Doña Carmen's fritanga is my favorite place in Managua."
+    }
+  ]
+}

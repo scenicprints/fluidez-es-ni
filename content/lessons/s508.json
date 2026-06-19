@@ -1,0 +1,24 @@
+{
+  "id": "s508",
+  "title": "La juntada",
+  "desc": "A slang-filled hangout",
+  "ph": 5,
+  "diff": 10,
+  "wu": ["juntada", "cususa", "birra", "bailar", "ambiente", "desvelarse", "vacil", "parranda", "amanecer", "chivear"],
+  "sn": [
+    { "s": "Roberto organiza una juntada en su casa.", "e": "Roberto organizes a get-together at his place." },
+    { "s": "\"Vení, maje, va a estar tuani,\" me dice.", "e": "\"Come, dude, it's gonna be awesome,\" he tells me." },
+    { "s": "Llego y el ambiente está deacachimba.", "e": "I arrive and the vibe is awesome." },
+    { "s": "Hay birras, música, y mucho relajo.", "e": "There are beers, music, and lots of fun." },
+    { "s": "\"¡Ideay, chele! Pensé que no venías,\" grita alguien.", "e": "\"Hey, foreigner! I thought you weren't coming,\" someone shouts." },
+    { "s": "\"¡Aquí ando, pues! No me lo iba a perder.\"", "e": "\"Here I am! I wasn't gonna miss it.\"" },
+    { "s": "Bailamos, contamos chistes, la pasamos bien.", "e": "We dance, tell jokes, have a good time." },
+    { "s": "\"Este chele ya chivea como nica,\" se ríen.", "e": "\"This foreigner already parties like a Nica,\" they laugh." },
+    { "s": "La parranda sigue hasta tarde.", "e": "The party goes on late." },
+    { "s": "\"¿Nos desvelamos hasta el amanecer?\" propone Roberto.", "e": "\"Shall we stay up till dawn?\" Roberto proposes." },
+    { "s": "\"¡Dale pues! Mañana descanso.\"", "e": "\"Okay then! I'll rest tomorrow.\"" },
+    { "s": "Entre amigos, el tiempo no importa.", "e": "Among friends, time doesn't matter." },
+    { "s": "Ya no soy invitado: soy parte de la juntada.", "e": "I'm not a guest anymore: I'm part of the crew." },
+    { "s": "Pertenecer se siente así, en confianza y relajo.", "e": "Belonging feels like this — in trust and good fun." }
+  ]
+}

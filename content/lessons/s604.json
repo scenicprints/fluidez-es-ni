@@ -1,0 +1,24 @@
+{
+  "id": "s604",
+  "title": "El nica no dice...",
+  "desc": "How Nicaraguans phrase things differently",
+  "ph": 6,
+  "diff": 11,
+  "wu": ["expresión", "diferencia", "país", "mandado", "pulpería", "chunche", "andar", "ocupar", "regalar", "prestar"],
+  "sn": [
+    { "s": "No solo cambian las palabras, sino cómo se dicen.", "e": "It's not just the words, but how they're said." },
+    { "s": "Un mexicano va a 'la tienda'; el nica, a 'la pulpería'.", "e": "A Mexican goes to 'la tienda'; the Nica, to 'la pulpería'." },
+    { "s": "En otros países 'ocupar' es usar un espacio.", "e": "In other countries 'ocupar' means to use a space." },
+    { "s": "Aquí 'ocupo' significa 'necesito'.", "e": "Here 'ocupo' means 'I need'." },
+    { "s": "\"Ocupo ir al banco,\" dice un nica con naturalidad.", "e": "\"I need to go to the bank,\" a Nica says naturally." },
+    { "s": "Cuando un nica dice 'regaláme', no pide un regalo.", "e": "When a Nica says 'regaláme', they're not asking for a gift." },
+    { "s": "\"Regaláme un vaso de agua\" es solo 'dame, por favor'.", "e": "\"Regaláme a glass of water\" just means 'please give me'." },
+    { "s": "'Hacer un mandado' es ir a hacer una diligencia.", "e": "'Hacer un mandado' is to run an errand." },
+    { "s": "\"Andá hacé un mandadito,\" me pide doña Marta.", "e": "\"Go run a little errand,\" doña Marta asks me." },
+    { "s": "Estas formas no se aprenden en una clase normal.", "e": "These forms aren't learned in a normal class." },
+    { "s": "Se aprenden viviendo entre nicaragüenses.", "e": "They're learned living among Nicaraguans." },
+    { "s": "Saber qué dice un nica, y cómo, es sonar local.", "e": "Knowing what a Nica says, and how, is sounding local." },
+    { "s": "Ya pienso en nica, no solo en español.", "e": "I now think in Nica, not just in Spanish." },
+    { "s": "Y esa diferencia es la que importa aquí.", "e": "And that difference is the one that matters here." }
+  ]
+}

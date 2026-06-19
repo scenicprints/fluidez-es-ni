@@ -1,0 +1,25 @@
+{
+  "id": "s107",
+  "title": "El teléfono",
+  "desc": "Getting a SIM card and going online",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["teléfono", "chip", "saldo", "recargar", "internet", "número", "llamar", "mensaje", "necesitar", "funcionar"],
+  "sn": [
+    { "s": "Mi teléfono no tiene internet.", "e": "My phone has no internet." },
+    { "s": "Necesito un chip de aquí.", "e": "I need a local SIM card." },
+    { "s": "Voy a una tienda de teléfonos.", "e": "I go to a phone store." },
+    { "s": "\"Buenas. Necesito un chip nuevo.\"", "e": "\"Hello. I need a new SIM card.\"" },
+    { "s": "\"¿Para llamadas o para internet?\"", "e": "\"For calls or for internet?\"" },
+    { "s": "\"Para los dos, por favor.\"", "e": "\"For both, please.\"" },
+    { "s": "El joven pone el chip en mi teléfono.", "e": "The young man puts the SIM in my phone." },
+    { "s": "\"Listo. Este es tu número nuevo.\"", "e": "\"Done. This is your new number.\"" },
+    { "s": "\"¿Cómo recargo el saldo?\" pregunto.", "e": "\"How do I add credit?\" I ask." },
+    { "s": "\"En cualquier pulpería. Decís tu número y pagás.\"", "e": "\"At any corner store. You say your number and pay.\"" },
+    { "s": "\"¿Cuánto para un mes de internet?\"", "e": "\"How much for a month of internet?\"" },
+    { "s": "\"Doscientos córdobas y te dura el mes.\"", "e": "\"Two hundred córdobas and it lasts the month.\"" },
+    { "s": "Ahora puedo llamar y mandar mensajes.", "e": "Now I can call and send messages." },
+    { "s": "Le mando un mensaje a Roberto.", "e": "I send Roberto a message." },
+    { "s": "\"Ya tengo número nica,\" le escribo.", "e": "\"I have a Nica number now,\" I write him." }
+  ]
+}

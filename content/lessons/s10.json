@@ -1,0 +1,61 @@
+{
+  "id": "s10",
+  "title": "La tormenta",
+  "desc": "A tropical storm hits",
+  "ph": 1,
+  "diff": 4,
+  "wu": [
+    "lluvia",
+    "agua",
+    "casa",
+    "fuerte",
+    "puerta",
+    "ventana",
+    "noche",
+    "miedo",
+    "esperar",
+    "todo"
+  ],
+  "sn": [
+    {
+      "s": "Es octubre, la temporada de lluvia en Nicaragua.",
+      "e": "It's October, rainy season in Nicaragua."
+    },
+    {
+      "s": "Una tarde el cielo se pone oscuro muy rápido.",
+      "e": "One afternoon the sky gets dark very fast."
+    },
+    {
+      "s": "Empieza a llover. Pero no es lluvia normal. Es una tormenta fuerte.",
+      "e": "It starts to rain. Not normal rain. A strong storm."
+    },
+    {
+      "s": "El agua entra por abajo de la puerta. Cierro las ventanas.",
+      "e": "Water comes under the door. I close the windows."
+    },
+    {
+      "s": "La luz se va. Toda la casa está oscura.",
+      "e": "The power goes out. The whole house is dark."
+    },
+    {
+      "s": "Roberto viene a mi puerta. \"¿Estás bien? Vení a mi casa. Es más segura.\"",
+      "e": "Roberto comes to my door. \"You okay? Come to my house. It's safer.\""
+    },
+    {
+      "s": "Voy con Roberto. Su familia está en la sala con velas.",
+      "e": "I go with Roberto. His family is in the living room with candles."
+    },
+    {
+      "s": "Doña Rosa me da café caliente. \"No te preocupés. Esto pasa cada año.\"",
+      "e": "Doña Rosa gives me hot coffee. \"Don't worry. This happens every year.\""
+    },
+    {
+      "s": "Esperamos juntos. La familia habla, ríe, cuenta historias.",
+      "e": "We wait together. The family talks, laughs, tells stories."
+    },
+    {
+      "s": "La tormenta es fuerte, pero adentro me siento seguro. Tengo una segunda familia aquí.",
+      "e": "The storm is strong, but inside I feel safe. I have a second family here."
+    }
+  ]
+}

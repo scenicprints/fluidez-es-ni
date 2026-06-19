@@ -1,0 +1,24 @@
+{
+  "id": "s207",
+  "title": "Un mal día",
+  "desc": "Expressing frustration and feelings",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["cansado", "molesto", "triste", "preocupado", "salir mal", "perder", "olvidar", "sentirse", "ánimo", "desahogarse"],
+  "sn": [
+    { "s": "Hoy tuve un día terrible.", "e": "Today I had a terrible day." },
+    { "s": "Roberto nota que estoy molesto.", "e": "Roberto notices I'm upset." },
+    { "s": "\"¿Qué te pasa? Te ves cansado.\"", "e": "\"What's wrong? You look tired.\"" },
+    { "s": "\"Tuve un mal día,\" suspiro.", "e": "\"I had a bad day,\" I sigh." },
+    { "s": "\"Contame. Te escucho.\"", "e": "\"Tell me. I'm listening.\"" },
+    { "s": "\"Perdí mi teléfono y llegué tarde al trabajo.\"", "e": "\"I lost my phone and arrived late to work.\"" },
+    { "s": "\"Después olvidé una reunión importante.\"", "e": "\"Then I forgot an important meeting.\"" },
+    { "s": "\"Uy, qué mala suerte,\" dice Roberto.", "e": "\"Oof, what bad luck,\" says Roberto." },
+    { "s": "\"Me siento frustrado y un poco triste.\"", "e": "\"I feel frustrated and a little sad.\"" },
+    { "s": "\"Tranquilo. Todos tenemos días así.\"", "e": "\"Relax. We all have days like this.\"" },
+    { "s": "\"Mañana va a estar mejor. Ya verás.\"", "e": "\"Tomorrow will be better. You'll see.\"" },
+    { "s": "Hablar de lo que siento me quita un peso.", "e": "Talking about what I feel takes a weight off me." },
+    { "s": "\"Gracias por escucharme,\" le digo.", "e": "\"Thanks for listening to me,\" I tell him." },
+    { "s": "Un buen amigo y un poco de español: eso ayuda.", "e": "A good friend and a little Spanish: that helps." }
+  ]
+}

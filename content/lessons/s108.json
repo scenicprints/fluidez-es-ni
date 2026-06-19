@@ -1,0 +1,25 @@
+{
+  "id": "s108",
+  "title": "Una cita",
+  "desc": "Making plans and telling time",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["hoy", "mañana", "sábado", "hora", "tarde", "temprano", "quedar", "esperar", "salir", "juntos"],
+  "sn": [
+    { "s": "Roberto me llama por teléfono.", "e": "Roberto calls me on the phone." },
+    { "s": "\"¿Qué hacés el sábado?\" me pregunta.", "e": "\"What are you doing Saturday?\" he asks me." },
+    { "s": "\"Nada todavía. ¿Por qué?\"", "e": "\"Nothing yet. Why?\"" },
+    { "s": "\"Vamos a la playa con unos amigos.\"", "e": "\"We're going to the beach with some friends.\"" },
+    { "s": "\"¡Dale! Me encanta la idea.\"", "e": "\"Yes! I love the idea.\"" },
+    { "s": "\"¿A qué hora salimos?\" pregunto.", "e": "\"What time do we leave?\" I ask." },
+    { "s": "\"Temprano. Como a las seis de la mañana.\"", "e": "\"Early. Around six in the morning.\"" },
+    { "s": "\"¿Tan temprano?\" digo yo.", "e": "\"That early?\" I say." },
+    { "s": "\"Sí, para llegar antes del calor.\"", "e": "\"Yes, to arrive before the heat.\"" },
+    { "s": "\"¿Dónde nos quedamos de ver?\"", "e": "\"Where do we meet up?\"" },
+    { "s": "\"En mi casa. No llegués tarde.\"", "e": "\"At my house. Don't be late.\"" },
+    { "s": "\"Tranquilo. Voy a estar ahí temprano.\"", "e": "\"Relax. I'll be there early.\"" },
+    { "s": "\"Perfecto. Nos vemos el sábado.\"", "e": "\"Perfect. See you Saturday.\"" },
+    { "s": "Tengo planes con amigos nicas.", "e": "I have plans with Nica friends." },
+    { "s": "Eso sí es sentirse en casa.", "e": "That really is feeling at home." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s410",
+  "title": "Lo que importa",
+  "desc": "What really matters",
+  "ph": 4,
+  "diff": 9,
+  "wu": ["importar", "agradecido", "hogar", "pertenecer", "raíz", "amor", "familia", "valorar", "bendecido", "ojalá"],
+  "sn": [
+    { "s": "Ha pasado más de un año desde que llegué.", "e": "More than a year has passed since I arrived." },
+    { "s": "Una tarde, miro a mi alrededor y reflexiono.", "e": "One afternoon, I look around and reflect." },
+    { "s": "Tengo a Lucía, su familia, mis amigos.", "e": "I have Lucía, her family, my friends." },
+    { "s": "Llegué sin saber una palabra de español.", "e": "I arrived without knowing a word of Spanish." },
+    { "s": "Ahora hablo, río, y amo en este idioma.", "e": "Now I speak, laugh, and love in this language." },
+    { "s": "\"¿En qué pensás?\" me pregunta Lucía.", "e": "\"What are you thinking about?\" Lucía asks me." },
+    { "s": "\"En lo afortunado que soy,\" le respondo.", "e": "\"About how lucky I am,\" I answer." },
+    { "s": "\"Este lugar se volvió mi hogar.\"", "e": "\"This place became my home.\"" },
+    { "s": "\"Aquí encontré raíces que no esperaba.\"", "e": "\"Here I found roots I didn't expect.\"" },
+    { "s": "\"Te valoro a vos y a todo lo que tengo.\"", "e": "\"I value you and everything I have.\"" },
+    { "s": "\"Me siento bendecido,\" digo, agradecido.", "e": "\"I feel blessed,\" I say, grateful." },
+    { "s": "Lo que importa no son las cosas, sino la gente.", "e": "What matters isn't things, but people." },
+    { "s": "\"Ojalá nunca olvide de dónde vengo,\" pienso.", "e": "\"I hope I never forget where I come from,\" I think." },
+    { "s": "Aprender un idioma fue, al final, aprender a pertenecer.", "e": "Learning a language was, in the end, learning to belong." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s403",
+  "title": "Conociendo a la familia",
+  "desc": "Meeting your partner's family",
+  "ph": 4,
+  "diff": 8,
+  "wu": ["familia", "suegra", "presentar", "respeto", "impresión", "nervios", "aceptar", "bienvenido", "orgulloso", "esperar"],
+  "sn": [
+    { "s": "Lucía quiere presentarme a su familia.", "e": "Lucía wants to introduce me to her family." },
+    { "s": "\"Espero que les caigas bien,\" me dice.", "e": "\"I hope they like you,\" she tells me." },
+    { "s": "Llego con flores para su mamá.", "e": "I arrive with flowers for her mom." },
+    { "s": "\"Mucho gusto, doña. Lucía me habla mucho de usted.\"", "e": "\"Nice to meet you, ma'am. Lucía talks about you a lot.\"" },
+    { "s": "\"Qué detalle tan lindo,\" dice su mamá.", "e": "\"What a lovely gesture,\" her mom says." },
+    { "s": "Su papá me da la mano con firmeza.", "e": "Her dad shakes my hand firmly." },
+    { "s": "\"Así que vos sos el que la hace feliz,\" dice.", "e": "\"So you're the one who makes her happy,\" he says." },
+    { "s": "\"Hago todo lo posible,\" respondo con respeto.", "e": "\"I do everything I can,\" I respond respectfully." },
+    { "s": "Comemos juntos y la plática fluye.", "e": "We eat together and the conversation flows." },
+    { "s": "Quiero causar una buena impresión.", "e": "I want to make a good impression." },
+    { "s": "\"Espero que se sienta como en casa,\" dice la mamá.", "e": "\"I hope you feel at home,\" the mom says." },
+    { "s": "\"Ya me siento así. Gracias por recibirme.\"", "e": "\"I already do. Thank you for having me.\"" },
+    { "s": "Al final, Lucía me susurra: \"Les encantaste.\"", "e": "At the end, Lucía whispers: \"They loved you.\"" },
+    { "s": "Ser aceptado por su familia lo es todo.", "e": "Being accepted by her family means everything." }
+  ]
+}

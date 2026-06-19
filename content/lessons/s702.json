@@ -1,0 +1,24 @@
+{
+  "id": "s702",
+  "title": "Adjetivos precisos",
+  "desc": "Refined adjectives a native knows",
+  "ph": 7,
+  "diff": 13,
+  "wu": ["atinado", "dichoso", "somero", "acérrimo", "minucioso", "tajante", "ferviente", "ameno", "perspicaz", "índole"],
+  "sn": [
+    { "s": "Lucía lee mucho, y de ella aprendo adjetivos finos.", "e": "Lucía reads a lot, and from her I learn refined adjectives." },
+    { "s": "En vez de 'buena idea', dice 'una idea atinada'.", "e": "Instead of 'good idea', she says 'an apt idea' (atinada)." },
+    { "s": "'Atinado' es acertado, justo, bien pensado.", "e": "'Atinado' means apt, accurate, well thought out." },
+    { "s": "Si alguien es muy feliz, está 'dichoso'.", "e": "If someone is very happy, they're 'dichoso' (blessed/joyful)." },
+    { "s": "Un análisis rápido y superficial es 'somero'.", "e": "A quick, surface-level analysis is 'somero' (cursory)." },
+    { "s": "Un fanático intenso es un seguidor 'acérrimo'.", "e": "An intense fan is an 'acérrimo' (staunch) follower." },
+    { "s": "\"Sos muy minucioso con los detalles,\" me dice Lucía.", "e": "\"You're very meticulous with details,\" Lucía tells me." },
+    { "s": "Una respuesta firme y sin matices es 'tajante'.", "e": "A firm, blunt answer is 'tajante' (categorical)." },
+    { "s": "Alguien observador y astuto es 'perspicaz'.", "e": "Someone observant and sharp is 'perspicaz' (perceptive)." },
+    { "s": "Una charla agradable y entretenida es 'amena'.", "e": "A pleasant, entertaining chat is 'amena' (enjoyable)." },
+    { "s": "'La índole' de algo es su naturaleza o carácter.", "e": "The 'índole' of something is its nature or character." },
+    { "s": "\"Es un problema de otra índole,\" digo con soltura.", "e": "\"It's a problem of another nature,\" I say smoothly." },
+    { "s": "Estos adjetivos no salen en los libros básicos.", "e": "These adjectives don't appear in basic books." },
+    { "s": "Pero un nativo culto los tiene siempre a la mano.", "e": "But a cultured native always has them at hand." }
+  ]
+}

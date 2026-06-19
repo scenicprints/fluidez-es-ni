@@ -1,0 +1,24 @@
+{
+  "id": "s402",
+  "title": "Te quiero",
+  "desc": "Expressing affection",
+  "ph": 4,
+  "diff": 7,
+  "wu": ["querer", "amar", "cariño", "abrazo", "sentir", "importar", "amor", "feliz", "junto", "querés"],
+  "sn": [
+    { "s": "Lucía y yo pasamos mucho tiempo juntos.", "e": "Lucía and I spend a lot of time together." },
+    { "s": "Cada día la quiero más.", "e": "Every day I care for her more." },
+    { "s": "En español, 'te quiero' es para el cariño.", "e": "In Spanish, 'te quiero' is for affection." },
+    { "s": "'Te amo' es más fuerte, más profundo.", "e": "'Te amo' is stronger, deeper." },
+    { "s": "Una tarde, le tomo la mano.", "e": "One afternoon, I take her hand." },
+    { "s": "\"Lucía, te quiero mucho,\" le digo.", "e": "\"Lucía, I care for you a lot,\" I tell her." },
+    { "s": "Ella me da un abrazo fuerte.", "e": "She gives me a tight hug." },
+    { "s": "\"Yo también te quiero,\" me responde.", "e": "\"I care for you too,\" she answers." },
+    { "s": "\"Me importás de verdad,\" agrego.", "e": "\"You really matter to me,\" I add." },
+    { "s": "Siento que el corazón me late fuerte.", "e": "I feel my heart beating hard." },
+    { "s": "\"¿Sos feliz conmigo?\" me pregunta.", "e": "\"Are you happy with me?\" she asks." },
+    { "s": "\"Muy feliz. Nunca había sentido esto.\"", "e": "\"Very happy. I've never felt this.\"" },
+    { "s": "Decir 'te quiero' en otro idioma es valiente.", "e": "Saying 'I care for you' in another language is brave." },
+    { "s": "El amor también se aprende, palabra por palabra.", "e": "Love is also learned, word by word." }
+  ]
+}

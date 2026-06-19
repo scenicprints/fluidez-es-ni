@@ -1,0 +1,25 @@
+{
+  "id": "s102",
+  "title": "¿Cuánto cuesta?",
+  "desc": "Haggling at the market",
+  "ph": 1,
+  "diff": 2,
+  "wu": ["caro", "barato", "comprar", "vender", "poco", "mucho", "rebaja", "bolsa", "llevar", "regatear"],
+  "sn": [
+    { "s": "En el mercado todo se puede regatear.", "e": "At the market you can haggle for everything." },
+    { "s": "Veo una camisa bonita.", "e": "I see a nice shirt." },
+    { "s": "\"¿Cuánto cuesta esta camisa?\"", "e": "\"How much is this shirt?\"" },
+    { "s": "\"Doscientos córdobas,\" dice el hombre.", "e": "\"Two hundred córdobas,\" the man says." },
+    { "s": "Es un poco caro para mí.", "e": "It's a little expensive for me." },
+    { "s": "\"Está caro. ¿No hay rebaja?\"", "e": "\"That's expensive. No discount?\"" },
+    { "s": "El hombre piensa un momento.", "e": "The man thinks for a moment." },
+    { "s": "\"Para vos, ciento cincuenta.\"", "e": "\"For you, a hundred fifty.\"" },
+    { "s": "\"¿Ciento veinte?\" digo yo.", "e": "\"A hundred twenty?\" I say." },
+    { "s": "\"Ciento treinta y te la llevás.\"", "e": "\"A hundred thirty and you take it.\"" },
+    { "s": "\"Dale pues. Ciento treinta.\"", "e": "\"Okay then. A hundred thirty.\"" },
+    { "s": "El hombre pone la camisa en una bolsa.", "e": "The man puts the shirt in a bag." },
+    { "s": "\"Gracias, chele. Que le vaya bien.\"", "e": "\"Thanks, foreigner. Take care.\"" },
+    { "s": "Regatear no es pelear. Es parte del juego.", "e": "Haggling isn't fighting. It's part of the game." },
+    { "s": "Y a la gente le gusta cuando vos lo intentás.", "e": "And people like it when you give it a try." }
+  ]
+}

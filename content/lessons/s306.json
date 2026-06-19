@@ -1,0 +1,24 @@
+{
+  "id": "s306",
+  "title": "Un favor grande",
+  "desc": "Asking for a bigger favor",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["favor", "ayuda", "prestar", "podría", "molestia", "deber", "confiar", "agradecer", "comprometer", "devolver"],
+  "sn": [
+    { "s": "Tengo una emergencia y necesito ayuda.", "e": "I have an emergency and need help." },
+    { "s": "Mi computadora se dañó antes de un trabajo importante.", "e": "My computer broke before an important job." },
+    { "s": "Llamo a Roberto, un poco nervioso.", "e": "I call Roberto, a little nervous." },
+    { "s": "\"Roberto, ¿te puedo pedir un favor grande?\"", "e": "\"Roberto, can I ask you a big favor?\"" },
+    { "s": "\"Claro, decime. ¿Qué necesitás?\"", "e": "\"Of course, tell me. What do you need?\"" },
+    { "s": "\"¿Me podrías prestar tu computadora unos días?\"", "e": "\"Could you lend me your computer for a few days?\"" },
+    { "s": "\"Sé que es mucha molestia,\" agrego.", "e": "\"I know it's a big imposition,\" I add." },
+    { "s": "\"No es molestia. Para eso están los amigos.\"", "e": "\"It's no trouble. That's what friends are for.\"" },
+    { "s": "\"Te la cuido y te la devuelvo el viernes.\"", "e": "\"I'll take care of it and return it Friday.\"" },
+    { "s": "\"Tranquilo, confío en vos,\" dice Roberto.", "e": "\"Relax, I trust you,\" Roberto says." },
+    { "s": "\"De verdad te lo agradezco mucho.\"", "e": "\"I really appreciate it a lot.\"" },
+    { "s": "Pedir un favor grande requiere confianza.", "e": "Asking a big favor requires trust." },
+    { "s": "Y cumplir lo prometido la mantiene.", "e": "And keeping your promise maintains it." },
+    { "s": "'Podría' y 'te agradezco' abren muchas puertas.", "e": "'Could you' and 'I appreciate it' open many doors." }
+  ]
+}

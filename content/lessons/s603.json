@@ -1,0 +1,24 @@
+{
+  "id": "s603",
+  "title": "Palabras solo de aquí",
+  "desc": "Words you'll only hear in Nicaragua",
+  "ph": 6,
+  "diff": 11,
+  "wu": ["chereque", "tuani", "deacachimba", "chavalo", "pinta", "cipote", "bicha", "pega", "chochada", "enturcarse"],
+  "sn": [
+    { "s": "Hay palabras que solo existen en Nicaragua.", "e": "There are words that only exist in Nicaragua." },
+    { "s": "Si algo está 'tuani', está buenísimo.", "e": "If something is 'tuani', it's great." },
+    { "s": "Si está 'deacachimba', está todavía mejor.", "e": "If it's 'deacachimba', it's even better." },
+    { "s": "Un 'chavalo' o 'cipote' es un muchacho joven.", "e": "A 'chavalo' or 'cipote' is a young kid." },
+    { "s": "Tus 'chereques' son tus cosas, tus chunches.", "e": "Your 'chereques' are your things, your stuff." },
+    { "s": "\"Agarrá tus chereques que ya nos vamos,\" dice Roberto.", "e": "\"Grab your stuff, we're leaving,\" Roberto says." },
+    { "s": "Una 'pinta' es la apariencia de alguien.", "e": "A 'pinta' is someone's appearance." },
+    { "s": "\"¡Qué buena pinta tenés hoy!\" me dicen.", "e": "\"You look sharp today!\" they tell me." },
+    { "s": "Cuando alguien se 'enturca', se enoja.", "e": "When someone 'se enturca', they get angry." },
+    { "s": "Una 'chochada' es una cosa sin importancia.", "e": "A 'chochada' is something unimportant." },
+    { "s": "Un mexicano no entendería ninguna de estas.", "e": "A Mexican wouldn't understand any of these." },
+    { "s": "Son el sabor único del español nicaragüense.", "e": "They're the unique flavor of Nicaraguan Spanish." },
+    { "s": "Usarlas bien me marca como uno más del barrio.", "e": "Using them well marks me as one of the neighborhood." },
+    { "s": "Cada palabra nica que aprendo es una insignia.", "e": "Each Nica word I learn is a badge." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "s101",
+  "title": "Los números",
+  "desc": "Learning numbers by buying fruit",
+  "ph": 1,
+  "diff": 2,
+  "wu": ["número", "uno", "dos", "tres", "cinco", "diez", "mango", "naranja", "cuánto", "córdoba"],
+  "sn": [
+    { "s": "Quiero comprar fruta.", "e": "I want to buy fruit." },
+    { "s": "Hay una mesa con mangos y naranjas.", "e": "There's a table with mangos and oranges." },
+    { "s": "Una mujer vende la fruta.", "e": "A woman sells the fruit." },
+    { "s": "\"Buenas. ¿Cuánto cuesta un mango?\"", "e": "\"Hello. How much is a mango?\"" },
+    { "s": "\"Cinco córdobas,\" dice ella.", "e": "\"Five córdobas,\" she says." },
+    { "s": "\"¿Y tres mangos?\"", "e": "\"And three mangos?\"" },
+    { "s": "\"Tres mangos, diez córdobas.\"", "e": "\"Three mangos, ten córdobas.\"" },
+    { "s": "Ah, tres por diez es mejor.", "e": "Ah, three for ten is better." },
+    { "s": "\"Dale. Tres mangos, por favor.\"", "e": "\"Okay. Three mangos, please.\"" },
+    { "s": "\"¿Algo más?\" dice la mujer.", "e": "\"Anything else?\" the woman says." },
+    { "s": "\"Dos naranjas también.\"", "e": "\"Two oranges too.\"" },
+    { "s": "\"Son quince córdobas en total.\"", "e": "\"That's fifteen córdobas total.\"" },
+    { "s": "Le doy el dinero.", "e": "I give her the money." },
+    { "s": "Ahora sé los números. Uno, dos, tres...", "e": "Now I know the numbers. One, two, three..." },
+    { "s": "Los números son la llave del mercado.", "e": "Numbers are the key to the market." }
+  ]
+}

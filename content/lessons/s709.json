@@ -1,0 +1,24 @@
+{
+  "id": "s709",
+  "title": "Leyendo como nativo",
+  "desc": "Understanding sophisticated written Spanish",
+  "ph": 7,
+  "diff": 14,
+  "wu": ["editorial", "prosa", "argumento", "sutileza", "interpretar", "trasfondo", "denso", "captar", "matizado", "soltura"],
+  "sn": [
+    { "s": "Me siento a leer el editorial del periódico.", "e": "I sit down to read the newspaper editorial." },
+    { "s": "Antes, este tipo de prosa me resultaba imposible.", "e": "Before, this kind of prose was impossible for me." },
+    { "s": "Frases largas, vocabulario denso, ideas matizadas.", "e": "Long sentences, dense vocabulary, nuanced ideas." },
+    { "s": "Hoy lo leo con soltura, captando cada matiz.", "e": "Today I read it with ease, catching every nuance." },
+    { "s": "Entiendo no solo lo que dice, sino lo que insinúa.", "e": "I understand not just what it says, but what it implies." },
+    { "s": "Percibo la ironía, el trasfondo, la postura del autor.", "e": "I perceive the irony, the subtext, the author's stance." },
+    { "s": "Reconozco los conectores cultos sin esfuerzo.", "e": "I recognize the cultured connectors effortlessly." },
+    { "s": "'No obstante', 'cabe señalar', 'en última instancia'.", "e": "'Nonetheless', 'it's worth noting', 'ultimately'." },
+    { "s": "Leer prensa seria es leer en el nivel más alto.", "e": "Reading serious press is reading at the highest level." },
+    { "s": "Interpretar un argumento complejo ya es algo natural.", "e": "Interpreting a complex argument is now natural." },
+    { "s": "\"Comentás los editoriales mejor que yo,\" dice Lucía.", "e": "\"You discuss the editorials better than I do,\" Lucía says." },
+    { "s": "Leer como nativo es pensar en el idioma, no traducirlo.", "e": "Reading like a native is thinking in the language, not translating it." },
+    { "s": "Y la prensa, antes muralla, hoy es ventana abierta.", "e": "And the press, once a wall, is now an open window." },
+    { "s": "El idioma escrito, en toda su hondura, ya es mío.", "e": "The written language, in all its depth, is mine now." }
+  ]
+}

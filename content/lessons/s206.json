@@ -1,0 +1,24 @@
+{
+  "id": "s206",
+  "title": "Cuando era niño",
+  "desc": "Talking about your childhood",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["niño", "era", "jugaba", "escuela", "abuela", "recordar", "antes", "siempre", "feliz", "infancia"],
+  "sn": [
+    { "s": "Roberto me cuenta de su infancia.", "e": "Roberto tells me about his childhood." },
+    { "s": "\"Cuando era niño, jugaba en la calle todo el día.\"", "e": "\"When I was a kid, I played in the street all day.\"" },
+    { "s": "\"Mi abuela me cuidaba,\" dice con cariño.", "e": "\"My grandma took care of me,\" he says fondly." },
+    { "s": "\"¿Y vos? ¿Cómo eras de niño?\"", "e": "\"And you? What were you like as a kid?\"" },
+    { "s": "Pienso en el pasado. Esto es más difícil.", "e": "I think about the past. This is harder." },
+    { "s": "\"Yo era tímido,\" digo despacio.", "e": "\"I was shy,\" I say slowly." },
+    { "s": "\"Siempre leía libros. No me gustaban los deportes.\"", "e": "\"I always read books. I didn't like sports.\"" },
+    { "s": "\"Mi abuelo me contaba historias.\"", "e": "\"My grandpa used to tell me stories.\"" },
+    { "s": "\"Esas historias me hicieron amar las palabras.\"", "e": "\"Those stories made me love words.\"" },
+    { "s": "\"Por eso ahora aprendés idiomas,\" dice Roberto.", "e": "\"That's why you learn languages now,\" says Roberto." },
+    { "s": "\"Tal vez sí,\" respondo, sorprendido.", "e": "\"Maybe so,\" I answer, surprised." },
+    { "s": "El imperfecto: era, jugaba, leía, contaba.", "e": "The imperfect tense: I was, I played, I read, he told." },
+    { "s": "Es el tiempo de los recuerdos.", "e": "It's the tense of memories." },
+    { "s": "Hablar de antes me ayuda a entender el ahora.", "e": "Talking about before helps me understand the now." }
+  ]
+}

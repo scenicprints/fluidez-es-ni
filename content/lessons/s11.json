@@ -1,0 +1,61 @@
+{
+  "id": "s11",
+  "title": "La discusión",
+  "desc": "Your first argument in Spanish",
+  "ph": 2,
+  "diff": 5,
+  "wu": [
+    "problema",
+    "creer",
+    "pensar",
+    "decir",
+    "entender",
+    "razón",
+    "mejor",
+    "solo",
+    "verdad",
+    "cambiar"
+  ],
+  "sn": [
+    {
+      "s": "Marcos, el dueño del café, quiere cambiar mi horario de trabajo.",
+      "e": "Marcos, the café owner, wants to change my work schedule."
+    },
+    {
+      "s": "\"Miguel, necesito que trabajés los sábados también.\"",
+      "e": "\"Miguel, I need you to work Saturdays too.\""
+    },
+    {
+      "s": "\"Pero los sábados yo estudio español con un profesor.\"",
+      "e": "\"But Saturdays I study Spanish with a teacher.\""
+    },
+    {
+      "s": "\"Lo siento, pero necesito a alguien los sábados. Es el día más ocupado.\"",
+      "e": "\"Sorry, but I need someone on Saturdays. It's the busiest day.\""
+    },
+    {
+      "s": "\"Marcos, yo creo que eso no es justo. No estaba en nuestro acuerdo.\"",
+      "e": "\"Marcos, I don't think that's fair. It wasn't in our agreement.\""
+    },
+    {
+      "s": "Marcos se queda callado un momento. Yo pienso que se va a enojar.",
+      "e": "Marcos goes quiet. I think he's going to get angry."
+    },
+    {
+      "s": "\"Tenés razón,\" dice. \"No estaba en el acuerdo. Mirá, ¿qué te parece si trabajás solo medio día el sábado?\"",
+      "e": "\"You're right,\" he says. \"It wasn't in the deal. How about half a day Saturday?\""
+    },
+    {
+      "s": "\"Dale, eso sí puedo hacer.\"",
+      "e": "\"Okay, I can do that.\""
+    },
+    {
+      "s": "Es la primera vez que tengo una discusión seria en español. Y la gané.",
+      "e": "It's my first serious argument in Spanish. And I won."
+    },
+    {
+      "s": "No solo puedo hablar español. Puedo defenderme en español.",
+      "e": "I can't just speak Spanish. I can defend myself in Spanish."
+    }
+  ]
+}

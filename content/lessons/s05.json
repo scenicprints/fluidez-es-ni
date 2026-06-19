@@ -1,0 +1,57 @@
+{
+  "id": "s05",
+  "title": "Estoy enfermo",
+  "desc": "Getting sick & finding medicine",
+  "ph": 0,
+  "diff": 2,
+  "wu": [
+    "enfermo",
+    "dolor",
+    "cabeza",
+    "estómago",
+    "farmacia",
+    "medicina",
+    "pastillas",
+    "cuerpo",
+    "dormir",
+    "ayudar"
+  ],
+  "sn": [
+    {
+      "s": "Hoy no me siento bien. Me duele la cabeza y el estómago.",
+      "e": "I don't feel well. My head and stomach hurt."
+    },
+    {
+      "s": "Creo que la comida de ayer me hizo mal.",
+      "e": "I think yesterday's food made me sick."
+    },
+    {
+      "s": "Roberto viene. \"¡Ideay! Te ves mal, hermano. ¿Qué te pasa?\"",
+      "e": "Roberto comes. \"Whoa! You look bad, bro. What's wrong?\""
+    },
+    {
+      "s": "\"Estoy enfermo. Me duele todo el cuerpo.\"",
+      "e": "\"I'm sick. My whole body hurts.\""
+    },
+    {
+      "s": "\"Mirá, aquí cerca hay una farmacia. Yo voy a comprar medicina para vos.\"",
+      "e": "\"There's a pharmacy nearby. I'll buy medicine for you.\""
+    },
+    {
+      "s": "Roberto vuelve con pastillas. \"Tomá estas con agua. Una cada ocho horas.\"",
+      "e": "Roberto returns with pills. \"Take these with water. One every eight hours.\""
+    },
+    {
+      "s": "\"Y tenés que descansar. Nada de salir hoy.\"",
+      "e": "\"And you need to rest. No going out today.\""
+    },
+    {
+      "s": "\"Gracias, hermano. Sos muy amable.\" \"Dale pues. Para eso son los amigos.\"",
+      "e": "\"Thanks, bro.\" \"No worries. That's what friends are for.\""
+    },
+    {
+      "s": "Tomo la medicina y duermo todo el día. Al otro día me siento mucho mejor.",
+      "e": "I take the medicine and sleep all day. Next day I feel much better."
+    }
+  ]
+}

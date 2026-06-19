@@ -1,0 +1,24 @@
+{
+  "id": "s510",
+  "title": "Ya sos pinolero",
+  "desc": "Sounding like a local",
+  "ph": 5,
+  "diff": 10,
+  "wu": ["pinolero", "acento", "orgullo", "lograr", "natural", "esfuerzo", "reconocer", "halago", "pertenecer", "camino"],
+  "sn": [
+    { "s": "Estoy en la pulpería comprando, como siempre.", "e": "I'm at the corner store shopping, as always." },
+    { "s": "Platico con doña Marta, suelto, natural.", "e": "I chat with doña Marta, loose, natural." },
+    { "s": "Uso 'maje', 'ideay', 'tuani', sin pensar.", "e": "I use 'maje', 'ideay', 'tuani', without thinking." },
+    { "s": "Una clienta nueva me escucha hablar.", "e": "A new customer listens to me talk." },
+    { "s": "\"¿De qué parte sos?\" me pregunta.", "e": "\"What part are you from?\" she asks." },
+    { "s": "\"Soy de Estados Unidos,\" respondo.", "e": "\"I'm from the United States,\" I respond." },
+    { "s": "\"¡No puede ser! Hablás como pinolero,\" dice.", "e": "\"No way! You talk like a Nicaraguan,\" she says." },
+    { "s": "'Pinolero' es como los nicas se dicen a sí mismos.", "e": "'Pinolero' is what Nicas call themselves." },
+    { "s": "Es el halago más grande que podía recibir.", "e": "It's the biggest compliment I could receive." },
+    { "s": "Doña Marta sonríe, orgullosa.", "e": "Doña Marta smiles, proud." },
+    { "s": "\"Es que ya es de aquí,\" dice ella.", "e": "\"It's because he's from here now,\" she says." },
+    { "s": "Pienso en el largo camino desde aquel primer 'buenas'.", "e": "I think of the long road since that first 'buenas'." },
+    { "s": "Llegué sin nada y encontré una voz, una casa, una vida.", "e": "I arrived with nothing and found a voice, a home, a life." },
+    { "s": "Ya no hablo español: vivo en español.", "e": "I don't speak Spanish anymore: I live in Spanish." }
+  ]
+}

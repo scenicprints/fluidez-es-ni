@@ -1,0 +1,24 @@
+{
+  "id": "s501",
+  "title": "El maje",
+  "desc": "How friends really talk",
+  "ph": 5,
+  "diff": 9,
+  "wu": ["maje", "vos", "pana", "confianza", "relajo", "molestar", "broma", "compa", "tranqui", "buena onda"],
+  "sn": [
+    { "s": "Roberto me saluda diferente hoy.", "e": "Roberto greets me differently today." },
+    { "s": "\"¡Ey, maje! ¿Qué te contás?\"", "e": "\"Hey, dude! What's up with you?\"" },
+    { "s": "'Maje' es como 'dude' entre amigos.", "e": "'Maje' is like 'dude' between friends." },
+    { "s": "\"Aquí nomás, maje. ¿Y vos?\" respondo.", "e": "\"Just here, dude. And you?\" I respond." },
+    { "s": "\"¡Uy, ya hablás como nica!\" se ríe.", "e": "\"Whoa, you already talk like a Nica!\" he laughs." },
+    { "s": "Usar 'maje' es señal de confianza.", "e": "Using 'maje' is a sign of trust." },
+    { "s": "Pero ojo: solo con amigos, no con extraños.", "e": "But careful: only with friends, not with strangers." },
+    { "s": "\"Vení, maje, vamos a echar relajo,\" dice.", "e": "\"Come on, dude, let's go mess around,\" he says." },
+    { "s": "'Echar relajo' es pasarla bien, bromear.", "e": "'Echar relajo' is to have fun, to joke around." },
+    { "s": "\"Dale pues, maje. Pero pagás vos,\" bromeo.", "e": "\"Okay then, dude. But you pay,\" I joke." },
+    { "s": "\"¡Ideay! Qué tacaño,\" se ríe.", "e": "\"Come on! What a cheapskate,\" he laughs." },
+    { "s": "Hablar con confianza me hace sentir parte del grupo.", "e": "Talking casually makes me feel part of the group." },
+    { "s": "Ya no soy el extranjero formal.", "e": "I'm no longer the formal foreigner." },
+    { "s": "Ahora soy el maje que habla como ellos.", "e": "Now I'm the dude who talks like them." }
+  ]
+}

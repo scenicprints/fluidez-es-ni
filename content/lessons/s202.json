@@ -1,0 +1,24 @@
+{
+  "id": "s202",
+  "title": "El fin de semana",
+  "desc": "What you did over the weekend",
+  "ph": 2,
+  "diff": 5,
+  "wu": ["fin de semana", "ayer", "fui", "comí", "descansar", "película", "dormir", "pasear", "estuvo", "divertido"],
+  "sn": [
+    { "s": "Es lunes. Roberto me pregunta por mi fin de semana.", "e": "It's Monday. Roberto asks about my weekend." },
+    { "s": "\"¿Qué hiciste el fin de semana?\"", "e": "\"What did you do over the weekend?\"" },
+    { "s": "Quiero contarle, pero en pasado.", "e": "I want to tell him, but in the past tense." },
+    { "s": "\"El sábado fui a la playa,\" digo.", "e": "\"On Saturday I went to the beach,\" I say." },
+    { "s": "\"¿Y qué tal estuvo?\"", "e": "\"And how was it?\"" },
+    { "s": "\"Estuvo muy divertido. Nadé en el mar.\"", "e": "\"It was a lot of fun. I swam in the sea.\"" },
+    { "s": "\"Comí pescado fresco con unos amigos.\"", "e": "\"I ate fresh fish with some friends.\"" },
+    { "s": "\"¡Qué rico! ¿Y el domingo?\"", "e": "\"How delicious! And Sunday?\"" },
+    { "s": "\"El domingo descansé en casa.\"", "e": "\"On Sunday I rested at home.\"" },
+    { "s": "\"Vi una película y dormí mucho.\"", "e": "\"I watched a movie and slept a lot.\"" },
+    { "s": "Hablar del pasado es difícil, pero lo intento.", "e": "Talking about the past is hard, but I try." },
+    { "s": "\"Hablás cada vez mejor,\" me dice Roberto.", "e": "\"You speak better and better,\" Roberto tells me." },
+    { "s": "Fui, comí, vi, dormí. El pasado tiene su ritmo.", "e": "I went, I ate, I saw, I slept. The past has its rhythm." },
+    { "s": "Poco a poco, cuento mis propias historias.", "e": "Little by little, I tell my own stories." }
+  ]
+}

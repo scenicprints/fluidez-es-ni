@@ -1,0 +1,24 @@
+{
+  "id": "s405",
+  "title": "Extrañándote",
+  "desc": "Missing someone you love",
+  "ph": 4,
+  "diff": 8,
+  "wu": ["extrañar", "distancia", "ojalá", "regresar", "recuerdo", "esperar", "llamada", "abrazar", "pronto", "saudade"],
+  "sn": [
+    { "s": "Tengo que viajar a mi país por dos semanas.", "e": "I have to travel to my country for two weeks." },
+    { "s": "Es la primera vez que me separo de Lucía.", "e": "It's the first time I'm apart from Lucía." },
+    { "s": "Desde el primer día, la extraño mucho.", "e": "From the first day, I miss her a lot." },
+    { "s": "La llamo por teléfono cada noche.", "e": "I call her on the phone every night." },
+    { "s": "\"Te extraño tanto,\" le digo.", "e": "\"I miss you so much,\" I tell her." },
+    { "s": "\"Yo también. La casa se siente vacía,\" responde.", "e": "\"Me too. The house feels empty,\" she answers." },
+    { "s": "\"Ojalá pasen rápido estos días.\"", "e": "\"I hope these days pass quickly.\"" },
+    { "s": "La distancia me enseña cuánto me importa.", "e": "The distance teaches me how much she matters." },
+    { "s": "Pienso en su sonrisa, en sus abrazos.", "e": "I think of her smile, her hugs." },
+    { "s": "\"Cuando regrese, te voy a abrazar fuerte.\"", "e": "\"When I get back, I'm going to hug you tight.\"" },
+    { "s": "\"Te espero con todo el corazón,\" dice ella.", "e": "\"I'll wait for you with all my heart,\" she says." },
+    { "s": "'Ojalá' — el deseo de volver pronto a sus brazos.", "e": "'Ojalá' — the wish to return soon to her arms." },
+    { "s": "Extrañar a alguien es saber que es importante.", "e": "Missing someone is knowing they're important." },
+    { "s": "El amor no entiende de distancias.", "e": "Love doesn't understand distances." }
+  ]
+}

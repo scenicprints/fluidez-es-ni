@@ -1,0 +1,24 @@
+{
+  "id": "s502",
+  "title": "Ideay, pues",
+  "desc": "Nica filler words and reactions",
+  "ph": 5,
+  "diff": 9,
+  "wu": ["ideay", "pues", "va", "diay", "fíjate", "imaginate", "no me digás", "qué barbaridad", "vaya", "pero qué"],
+  "sn": [
+    { "s": "Los nicas tienen palabras para todo.", "e": "Nicas have words for everything." },
+    { "s": "La más famosa es 'ideay'.", "e": "The most famous is 'ideay'." },
+    { "s": "Sirve para sorpresa, saludo, o reclamo.", "e": "It works for surprise, greeting, or complaint." },
+    { "s": "\"¡Ideay! ¿Dónde andabas?\" me dice Lucía.", "e": "\"Hey! Where were you?\" Lucía says to me." },
+    { "s": "\"Ahí, en el trabajo, pues,\" respondo.", "e": "\"There, at work, you know,\" I respond." },
+    { "s": "'Pues' va al final de casi todo.", "e": "'Pues' goes at the end of almost everything." },
+    { "s": "\"Fíjate que hoy vi a Roberto,\" le cuento.", "e": "\"So get this, today I saw Roberto,\" I tell her." },
+    { "s": "\"¿Ah sí? ¡No me digás!\" responde ella.", "e": "\"Oh yeah? You don't say!\" she responds." },
+    { "s": "\"Imaginate que se va a casar.\"", "e": "\"Imagine, he's getting married.\"" },
+    { "s": "\"¡Vaya! ¡Qué barbaridad!\" dice sorprendida.", "e": "\"Wow! How incredible!\" she says, surprised." },
+    { "s": "Estas palabritas le dan sabor a todo.", "e": "These little words give flavor to everything." },
+    { "s": "Sin ellas, sonás como un libro.", "e": "Without them, you sound like a book." },
+    { "s": "Con ellas, sonás como de aquí.", "e": "With them, you sound like you're from here." },
+    { "s": "Ideay, pues, así se habla en Nicaragua.", "e": "Well hey, that's how you talk in Nicaragua." }
+  ]
+}

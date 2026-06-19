@@ -1,0 +1,24 @@
+{
+  "id": "s505",
+  "title": "El chiste",
+  "desc": "Humor and teasing",
+  "ph": 5,
+  "diff": 10,
+  "wu": ["chiste", "reírse", "broma", "vacilar", "cae bien", "gracioso", "burla", "tomar el pelo", "doble", "carcajada"],
+  "sn": [
+    { "s": "El humor nica es rápido y pícaro.", "e": "Nica humor is quick and cheeky." },
+    { "s": "Les encanta 'vacilar', o sea bromear.", "e": "They love to 'vacilar,' meaning to joke around." },
+    { "s": "Roberto siempre me toma el pelo.", "e": "Roberto always pulls my leg." },
+    { "s": "\"Maje, con ese español ya casi parecés humano,\" se ríe.", "e": "\"Dude, with that Spanish you almost seem human now,\" he laughs." },
+    { "s": "Antes me ofendía. Ahora lo entiendo.", "e": "Before I'd get offended. Now I get it." },
+    { "s": "Si te vacilan, es que te quieren.", "e": "If they tease you, it means they like you." },
+    { "s": "\"Y vos con esa panza ya parecés nica,\" le devuelvo.", "e": "\"And you with that belly already look like a Nica,\" I shoot back." },
+    { "s": "Todos sueltan la carcajada.", "e": "Everyone bursts out laughing." },
+    { "s": "\"¡Uy, el chele aprendió a vacilar!\" dice Roberto.", "e": "\"Whoa, the foreigner learned to joke!\" Roberto says." },
+    { "s": "Devolver una broma es ganarse el respeto.", "e": "Returning a joke earns you respect." },
+    { "s": "El humor es el último nivel de un idioma.", "e": "Humor is the final level of a language." },
+    { "s": "Reírte con ellos es ser uno de ellos.", "e": "Laughing with them is being one of them." },
+    { "s": "Ya no solo entiendo los chistes.", "e": "I don't just understand the jokes anymore." },
+    { "s": "Ahora los hago yo también.", "e": "Now I make them too." }
+  ]
+}

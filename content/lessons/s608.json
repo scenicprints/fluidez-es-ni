@@ -1,0 +1,24 @@
+{
+  "id": "s608",
+  "title": "Nica contra el resto",
+  "desc": "Nica words vs. other countries",
+  "ph": 6,
+  "diff": 12,
+  "wu": ["comparar", "diferencia", "bus", "camión", "frijol", "chavalo", "lapicero", "bicho", "guaro", "chinela"],
+  "sn": [
+    { "s": "Roberto y yo jugamos a comparar el español de cada país.", "e": "Roberto and I play at comparing each country's Spanish." },
+    { "s": "Lo que en México es 'camión', aquí es 'bus'.", "e": "What in Mexico is 'camión', here is 'bus'." },
+    { "s": "El 'autobús' de España aquí nadie lo dice así.", "e": "Nobody here says Spain's 'autobús'." },
+    { "s": "Un niño es 'chavalo' aquí, 'chamaco' en México, 'crío' en España.", "e": "A kid is 'chavalo' here, 'chamaco' in Mexico, 'crío' in Spain." },
+    { "s": "El licor fuerte aquí es 'guaro', no 'trago' ni 'chupito'.", "e": "Strong liquor here is 'guaro', not 'trago' or 'chupito'." },
+    { "s": "Las sandalias son 'chinelas', no 'chanclas'.", "e": "Sandals are 'chinelas', not 'chanclas'." },
+    { "s": "Para escribir, el nica pide un 'lapicero', no una 'pluma'.", "e": "To write, a Nica asks for a 'lapicero', not a 'pluma'." },
+    { "s": "\"Cada país tiene su propio diccionario,\" digo.", "e": "\"Each country has its own dictionary,\" I say." },
+    { "s": "\"Y vos ya tenés el nuestro en la cabeza,\" responde Roberto.", "e": "\"And you've already got ours in your head,\" Roberto responds." },
+    { "s": "Saber estas diferencias evita confusiones graciosas.", "e": "Knowing these differences avoids funny confusions." },
+    { "s": "Pero más que eso, me hace sonar de un lugar: de aquí.", "e": "But more than that, it makes me sound from one place: here." },
+    { "s": "No hablo 'español neutro'; hablo nicaragüense.", "e": "I don't speak 'neutral Spanish'; I speak Nicaraguan." },
+    { "s": "Y eso, en cualquier parte, dice de dónde es mi corazón.", "e": "And that, anywhere, says where my heart is from." },
+    { "s": "El acento es como una bandera que uno lleva al hablar.", "e": "An accent is like a flag you carry when you speak." }
+  ]
+}

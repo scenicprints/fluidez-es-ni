@@ -1,0 +1,24 @@
+{
+  "id": "s205",
+  "title": "¿Qué te gusta?",
+  "desc": "Likes, hobbies, and music",
+  "ph": 2,
+  "diff": 5,
+  "wu": ["gustar", "música", "bailar", "deporte", "leer", "cantar", "tiempo libre", "favorito", "aburrido", "encantar"],
+  "sn": [
+    { "s": "En la cena, hablamos de lo que nos gusta.", "e": "At dinner, we talk about what we like." },
+    { "s": "\"¿Qué hacés en tu tiempo libre?\" pregunta Roberto.", "e": "\"What do you do in your free time?\" Roberto asks." },
+    { "s": "\"Me gusta leer y caminar,\" digo.", "e": "\"I like to read and walk,\" I say." },
+    { "s": "\"¿Y la música? ¿Qué te gusta?\"", "e": "\"And music? What do you like?\"" },
+    { "s": "\"Me gusta todo tipo de música.\"", "e": "\"I like all kinds of music.\"" },
+    { "s": "\"¿Sabés bailar?\" pregunta su hermana.", "e": "\"Do you know how to dance?\" his sister asks." },
+    { "s": "\"Un poco, pero soy malo,\" digo riendo.", "e": "\"A little, but I'm bad,\" I say, laughing." },
+    { "s": "\"¡Aquí todos bailamos! Te enseñamos.\"", "e": "\"Here we all dance! We'll teach you.\"" },
+    { "s": "Ponen música y todos se levantan.", "e": "They put on music and everyone gets up." },
+    { "s": "\"¿Te gusta el baile?\" me pregunta ella.", "e": "\"Do you like dancing?\" she asks me." },
+    { "s": "\"Ahora sí me encanta,\" respondo.", "e": "\"Now I really love it,\" I answer." },
+    { "s": "Aprendo que 'me gusta' me abre muchas puertas.", "e": "I learn that 'I like' opens many doors for me." },
+    { "s": "Compartir lo que amás es hacer amigos.", "e": "Sharing what you love is making friends." },
+    { "s": "Esa noche bailo mal, pero río mucho.", "e": "That night I dance badly, but I laugh a lot." }
+  ]
+}

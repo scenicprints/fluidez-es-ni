@@ -1,0 +1,24 @@
+{
+  "id": "s304",
+  "title": "El malentendido",
+  "desc": "Clearing up a misunderstanding",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["malentendido", "confundir", "explicar", "disculpa", "aclarar", "entender", "equivocarse", "culpa", "perdón", "arreglar"],
+  "sn": [
+    { "s": "Roberto parece molesto conmigo hoy.", "e": "Roberto seems upset with me today." },
+    { "s": "\"¿Pasa algo?\" le pregunto.", "e": "\"Is something wrong?\" I ask him." },
+    { "s": "\"Dijiste que ibas a venir ayer y no llegaste.\"", "e": "\"You said you'd come yesterday and you didn't show up.\"" },
+    { "s": "\"Creo que hay un malentendido,\" digo.", "e": "\"I think there's a misunderstanding,\" I say." },
+    { "s": "\"Yo entendí que era hoy, no ayer.\"", "e": "\"I understood it was today, not yesterday.\"" },
+    { "s": "\"Ah, entonces me equivoqué yo,\" dice él.", "e": "\"Ah, then I was the one who was wrong,\" he says." },
+    { "s": "\"No, tal vez no me expliqué bien.\"", "e": "\"No, maybe I didn't explain myself well.\"" },
+    { "s": "\"Disculpá la confusión.\"", "e": "\"Sorry for the confusion.\"" },
+    { "s": "\"Tranquilo, fue culpa de los dos,\" dice riendo.", "e": "\"Relax, it was both our faults,\" he says, laughing." },
+    { "s": "\"Quería aclararlo para que no quedáramos mal.\"", "e": "\"I wanted to clear it up so we wouldn't be on bad terms.\"" },
+    { "s": "\"Todo bien, hermano. Ya quedó arreglado.\"", "e": "\"All good, brother. It's sorted now.\"" },
+    { "s": "Aclarar un malentendido salva una amistad.", "e": "Clearing up a misunderstanding saves a friendship." },
+    { "s": "Pedir perdón no es perder; es cuidar el vínculo.", "e": "Apologizing isn't losing; it's protecting the bond." },
+    { "s": "Hablar las cosas evita que crezcan.", "e": "Talking things out keeps them from growing." }
+  ]
+}

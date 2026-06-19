@@ -1,0 +1,57 @@
+{
+  "id": "s04",
+  "title": "El taxi",
+  "desc": "Getting around Managua",
+  "ph": 0,
+  "diff": 2,
+  "wu": [
+    "taxi",
+    "chofer",
+    "cuadras",
+    "norte",
+    "derecho",
+    "cuánto",
+    "córdobas",
+    "aquí",
+    "dale",
+    "rápido"
+  ],
+  "sn": [
+    {
+      "s": "Necesito ir al otro lado de Managua. Paro un taxi en la calle.",
+      "e": "I need to cross Managua. I flag a taxi."
+    },
+    {
+      "s": "\"¿Para dónde vas?\" me pregunta el chofer.",
+      "e": "\"Where are you going?\" asks the driver."
+    },
+    {
+      "s": "\"A la UCA, por favor.\" \"Dale. ¿Sabés cuánto es?\"",
+      "e": "\"To the UCA, please.\" \"Okay. Know how much?\""
+    },
+    {
+      "s": "\"Cien córdobas.\" \"¿No puede ser menos?\" El chofer se ríe. \"Ochenta.\"",
+      "e": "\"A hundred córdobas.\" \"Can't it be less?\" He laughs. \"Eighty.\""
+    },
+    {
+      "s": "Vamos rápido por las calles de Managua.",
+      "e": "We go fast through the streets."
+    },
+    {
+      "s": "\"Mirá, eso es el lago de Managua,\" me dice.",
+      "e": "\"Look, that's Lake Managua,\" he tells me."
+    },
+    {
+      "s": "\"Para llegar a tu casa desde la UCA: dos cuadras al norte, una cuadra arriba.\"",
+      "e": "\"To get home from UCA: two blocks north, one block east.\""
+    },
+    {
+      "s": "\"Aquí arriba es al este, donde sale el sol. Abajo es al oeste.\"",
+      "e": "\"Here 'arriba' is east, where the sun rises. 'Abajo' is west.\""
+    },
+    {
+      "s": "Le doy los ochenta córdobas. \"Gracias, que le vaya bien.\"",
+      "e": "I pay eighty córdobas. \"Thanks, take care.\""
+    }
+  ]
+}

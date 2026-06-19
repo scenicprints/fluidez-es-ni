@@ -1,0 +1,61 @@
+{
+  "id": "s06",
+  "title": "La fiesta del barrio",
+  "desc": "A neighborhood party",
+  "ph": 0,
+  "diff": 3,
+  "wu": [
+    "familia",
+    "música",
+    "contento",
+    "todos",
+    "conocer",
+    "amigos",
+    "noche",
+    "increíble",
+    "así",
+    "fiesta"
+  ],
+  "sn": [
+    {
+      "s": "Es sábado. Roberto me dice: \"Hoy hay fiesta en el barrio. Tenés que venir.\"",
+      "e": "It's Saturday. Roberto: \"There's a party tonight. You have to come.\""
+    },
+    {
+      "s": "Llego a la fiesta. Hay música, comida, cerveza. Todos están contentos.",
+      "e": "I arrive. Music, food, beer. Everyone's happy."
+    },
+    {
+      "s": "Roberto me presenta a su familia. \"Esta es mi madre, doña Rosa.\"",
+      "e": "Roberto introduces his family. \"This is my mother, doña Rosa.\""
+    },
+    {
+      "s": "\"Mucho gusto. Roberto es muy buen amigo,\" les digo.",
+      "e": "\"Nice to meet you. Roberto is a great friend,\" I say."
+    },
+    {
+      "s": "\"¡Ideay! Vos sos el chele del que habla Roberto,\" dice doña Rosa.",
+      "e": "\"So you're the foreigner Roberto talks about,\" says doña Rosa."
+    },
+    {
+      "s": "\"Bienvenido a nuestra casa. Aquí tenés tu casa también.\"",
+      "e": "\"Welcome. This is your home too.\""
+    },
+    {
+      "s": "La comida es increíble: nacatamales, vigorón, tajadas con queso.",
+      "e": "The food is incredible: nacatamales, vigorón, plantain chips with cheese."
+    },
+    {
+      "s": "Karla me dice: \"La mejor forma de aprender es así, con la gente.\"",
+      "e": "Karla tells me: \"The best way to learn is like this, with people.\""
+    },
+    {
+      "s": "Esta noche hablo más español que nunca. No es perfecto, pero la gente me entiende.",
+      "e": "Tonight I speak more Spanish than ever. Not perfect, but people understand me."
+    },
+    {
+      "s": "Eso es lo que importa.",
+      "e": "That's what matters."
+    }
+  ]
+}

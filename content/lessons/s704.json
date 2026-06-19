@@ -1,0 +1,24 @@
+{
+  "id": "s704",
+  "title": "Palabras que impresionan",
+  "desc": "Words that mark a refined speaker",
+  "ph": 7,
+  "diff": 13,
+  "wu": ["inherente", "sucinto", "meticuloso", "elocuente", "consabido", "pertinente", "ineludible", "loable", "soslayar", "imprescindible"],
+  "sn": [
+    { "s": "Hay palabras que, bien usadas, revelan un dominio profundo.", "e": "There are words that, used well, reveal deep command." },
+    { "s": "Algo propio de la esencia de una cosa es 'inherente'.", "e": "Something belonging to a thing's essence is 'inherent'." },
+    { "s": "\"El riesgo es inherente a todo cambio,\" digo.", "e": "\"Risk is inherent to all change,\" I say." },
+    { "s": "Un resumen breve y claro es 'sucinto'.", "e": "A brief, clear summary is 'succinct'." },
+    { "s": "\"Seré sucinto,\" anuncio antes de hablar poco y bien.", "e": "\"I'll be succinct,\" I announce before speaking briefly and well." },
+    { "s": "Algo necesario que no se puede evitar es 'ineludible'.", "e": "Something necessary that can't be avoided is 'unavoidable'." },
+    { "s": "Algo digno de elogio es 'loable'.", "e": "Something praiseworthy is 'loable' (laudable)." },
+    { "s": "\"Tu esfuerzo es loable,\" me dice la profesora.", "e": "\"Your effort is laudable,\" the professor tells me." },
+    { "s": "Algo apropiado al tema es 'pertinente'.", "e": "Something relevant to the topic is 'pertinent'." },
+    { "s": "'Soslayar' es evitar o esquivar un asunto.", "e": "'Soslayar' is to sidestep or dodge a matter." },
+    { "s": "\"No quiero soslayar el problema,\" aclaro.", "e": "\"I don't want to sidestep the problem,\" I clarify." },
+    { "s": "Lo absolutamente necesario es 'imprescindible'.", "e": "What's absolutely necessary is 'imprescindible' (indispensable)." },
+    { "s": "Estas palabras son el sello de quien domina el idioma.", "e": "These words are the hallmark of one who masters the language." },
+    { "s": "Y ahora forman parte de mi vocabulario natural.", "e": "And now they're part of my natural vocabulary." }
+  ]
+}

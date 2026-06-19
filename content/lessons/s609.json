@@ -1,0 +1,24 @@
+{
+  "id": "s609",
+  "title": "Modismos nicas",
+  "desc": "Nicaraguan idioms and sayings",
+  "ph": 6,
+  "diff": 12,
+  "wu": ["modismo", "goma", "tuanis", "echar", "pegar", "jodido", "vergueta", "chocho", "tranque", "zafarse"],
+  "sn": [
+    { "s": "Los modismos nicas tienen su propia lógica.", "e": "Nica idioms have their own logic." },
+    { "s": "'Andar de goma' es estar crudo después de tomar.", "e": "'Andar de goma' is being hungover after drinking." },
+    { "s": "\"Hoy ando de goma,\" se queja Roberto un domingo.", "e": "\"Today I'm hungover,\" Roberto complains one Sunday." },
+    { "s": "Si algo está 'jodido', está difícil o arruinado.", "e": "If something's 'jodido', it's hard or ruined." },
+    { "s": "'Echarse un pega' es tomar una siesta corta.", "e": "'Echarse un pega' is to take a short nap." },
+    { "s": "Un 'tranque' es un bloqueo o un atasco en la calle.", "e": "A 'tranque' is a roadblock or traffic jam." },
+    { "s": "\"Había un tranque tremendo,\" digo, llegando tarde.", "e": "\"There was a huge jam,\" I say, arriving late." },
+    { "s": "'¡Chocho!' es una exclamación de sorpresa muy nica.", "e": "'¡Chocho!' is a very Nica exclamation of surprise." },
+    { "s": "'Zafarse' de algo es librarse o escaparse de eso.", "e": "'Zafarse' from something is to get out of it." },
+    { "s": "Estos dichos no se traducen; se sienten.", "e": "These sayings aren't translated; they're felt." },
+    { "s": "Usar un modismo en el momento justo da mucha risa.", "e": "Using an idiom at the right moment gets big laughs." },
+    { "s": "\"¡Chocho, este chele habla puro nica!\" gritan.", "e": "\"Wow, this foreigner speaks pure Nica!\" they shout." },
+    { "s": "Los modismos son el último candado del idioma.", "e": "Idioms are the language's final lock." },
+    { "s": "Y siento que ya tengo casi todas las llaves.", "e": "And I feel I now have almost all the keys." }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "s09",
+  "title": "Perdido en Managua",
+  "desc": "Getting lost and finding your way",
+  "ph": 1,
+  "diff": 4,
+  "wu": [
+    "perdido",
+    "dónde",
+    "derecho",
+    "izquierda",
+    "esquina",
+    "norte",
+    "sur",
+    "preguntar",
+    "saber",
+    "llegar"
+  ],
+  "sn": [
+    {
+      "s": "Hoy voy a un lugar nuevo en Managua. Pero me pierdo.",
+      "e": "Today I go somewhere new in Managua. But I get lost."
+    },
+    {
+      "s": "No sé dónde estoy. Las calles no tienen nombre.",
+      "e": "I don't know where I am. The streets have no names."
+    },
+    {
+      "s": "Le pregunto a una señora: \"Disculpe, ¿sabe dónde está la Rotonda Santo Domingo?\"",
+      "e": "I ask a woman: \"Excuse me, do you know where the Santo Domingo roundabout is?\""
+    },
+    {
+      "s": "\"Sí, mirá. Vas derecho dos cuadras, después a la izquierda en la esquina.\"",
+      "e": "\"Yes, look. Go straight two blocks, then left at the corner.\""
+    },
+    {
+      "s": "\"Después seguís tres cuadras más al norte, y ahí la ves.\"",
+      "e": "\"Then continue three more blocks north, and you'll see it.\""
+    },
+    {
+      "s": "Sigo sus instrucciones. Derecho, izquierda, norte.",
+      "e": "I follow her directions. Straight, left, north."
+    },
+    {
+      "s": "Pero me pierdo otra vez. Le pregunto a un chavalo.",
+      "e": "But I get lost again. I ask a kid."
+    },
+    {
+      "s": "\"¿La Rotonda? Está cerquita. Mirá, yo voy para allá. Vení conmigo.\"",
+      "e": "\"The roundabout? It's close. Look, I'm going there. Come with me.\""
+    },
+    {
+      "s": "Caminamos juntos. Me cuenta sobre su escuela y su familia.",
+      "e": "We walk together. He tells me about his school and family."
+    },
+    {
+      "s": "Llego a la Rotonda. Perderme fue la mejor cosa del día.",
+      "e": "I reach the roundabout. Getting lost was the best thing today."
+    }
+  ]
+}

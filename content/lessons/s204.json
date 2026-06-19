@@ -1,0 +1,24 @@
+{
+  "id": "s204",
+  "title": "Mi pueblo",
+  "desc": "Describing where you come from",
+  "ph": 2,
+  "diff": 5,
+  "wu": ["pueblo", "grande", "pequeño", "frío", "diferente", "extrañar", "montaña", "tranquilo", "comparar", "allá"],
+  "sn": [
+    { "s": "La mamá de Roberto quiere saber de mi país.", "e": "Roberto's mom wants to know about my country." },
+    { "s": "\"¿Cómo es tu pueblo?\" me pregunta.", "e": "\"What's your town like?\" she asks me." },
+    { "s": "\"Es muy diferente de aquí,\" le digo.", "e": "\"It's very different from here,\" I tell her." },
+    { "s": "\"Allá hace frío en el invierno.\"", "e": "\"There it's cold in the winter.\"" },
+    { "s": "\"¿Frío de verdad? ¿Con nieve?\"", "e": "\"Real cold? With snow?\"" },
+    { "s": "\"Sí, a veces cae nieve.\"", "e": "\"Yes, sometimes snow falls.\"" },
+    { "s": "\"¡Ay, no! Yo me muero de frío,\" dice riendo.", "e": "\"Oh, no! I'd die of cold,\" she says, laughing." },
+    { "s": "\"Mi pueblo es pequeño y tranquilo.\"", "e": "\"My town is small and quiet.\"" },
+    { "s": "\"Hay montañas y muchos árboles.\"", "e": "\"There are mountains and many trees.\"" },
+    { "s": "\"¿Y no extrañás tu casa?\"", "e": "\"And don't you miss your home?\"" },
+    { "s": "\"A veces sí. Pero aquí encontré otra casa.\"", "e": "\"Sometimes yes. But here I found another home.\"" },
+    { "s": "\"Los dos lugares son parte de mí ahora.\"", "e": "\"Both places are part of me now.\"" },
+    { "s": "Comparar mi mundo con el de ellos nos acerca.", "e": "Comparing my world with theirs brings us closer." },
+    { "s": "Hablar de dónde venís es compartir quién sos.", "e": "Talking about where you're from is sharing who you are." }
+  ]
+}

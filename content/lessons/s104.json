@@ -1,0 +1,25 @@
+{
+  "id": "s104",
+  "title": "¿Dónde está?",
+  "desc": "Asking for directions, Nica-style",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["dónde", "cuadra", "arriba", "abajo", "esquina", "parque", "derecho", "preguntar", "buscar", "iglesia"],
+  "sn": [
+    { "s": "Busco la casa de un amigo.", "e": "I'm looking for a friend's house." },
+    { "s": "Pero en Managua las calles no tienen nombre.", "e": "But in Managua the streets have no names." },
+    { "s": "Le pregunto a una señora.", "e": "I ask a woman." },
+    { "s": "\"Disculpe, ¿dónde está la casa azul?\"", "e": "\"Excuse me, where is the blue house?\"" },
+    { "s": "\"¿Cuál casa, mi amor?\"", "e": "\"Which house, dear?\"" },
+    { "s": "\"La que está cerca del parque.\"", "e": "\"The one near the park.\"" },
+    { "s": "\"Ah, ya sé. Mirá: de la iglesia, dos cuadras arriba.\"", "e": "\"Ah, I know. Look: from the church, two blocks east.\"" },
+    { "s": "\"¿Arriba es para allá?\" pregunto.", "e": "\"Is 'arriba' that way?\" I ask." },
+    { "s": "\"Sí, arriba es donde sale el sol. El este.\"", "e": "\"Yes, 'arriba' is where the sun rises. The east.\"" },
+    { "s": "\"Después una cuadra al sur, en la esquina.\"", "e": "\"Then one block south, on the corner.\"" },
+    { "s": "Aquí no usan norte y sur como yo.", "e": "Here they don't use north and south like I do." },
+    { "s": "Usan el lago, el sol, y los lugares conocidos.", "e": "They use the lake, the sun, and known places." },
+    { "s": "\"Muchas gracias, señora.\"", "e": "\"Thank you very much, ma'am.\"" },
+    { "s": "\"De nada. Que Dios te acompañe.\"", "e": "\"You're welcome. May God go with you.\"" },
+    { "s": "Encuentro la casa azul. ¡Lo logré!", "e": "I find the blue house. I did it!" }
+  ]
+}

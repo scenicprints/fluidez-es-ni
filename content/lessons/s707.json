@@ -1,0 +1,24 @@
+{
+  "id": "s707",
+  "title": "Sustantivos cultos",
+  "desc": "Refined nouns a native grew up with",
+  "ph": 7,
+  "diff": 14,
+  "wu": ["sosiego", "anhelo", "recelo", "atisbo", "menester", "hincapié", "auge", "merma", "albedrío", "ímpetu"],
+  "sn": [
+    { "s": "Hay sustantivos que dan peso y belleza a una frase.", "e": "There are nouns that lend weight and beauty to a phrase." },
+    { "s": "El 'sosiego' es la calma profunda, la paz interior.", "e": "'Sosiego' is deep calm, inner peace." },
+    { "s": "\"Busco un poco de sosiego,\" digo tras un día largo.", "e": "\"I seek a bit of tranquility,\" I say after a long day." },
+    { "s": "Un 'anhelo' es un deseo profundo del corazón.", "e": "An 'anhelo' is a deep longing of the heart." },
+    { "s": "El 'recelo' es la desconfianza o sospecha.", "e": "'Recelo' is distrust or suspicion." },
+    { "s": "Un 'atisbo' es un indicio leve, un primer asomo.", "e": "An 'atisbo' is a faint hint, a first glimpse." },
+    { "s": "'Es menester' es una forma culta de 'es necesario'.", "e": "'Es menester' is a refined way of 'it's necessary'." },
+    { "s": "'Hacer hincapié' es insistir o enfatizar algo.", "e": "'Hacer hincapié' is to insist on or emphasize something." },
+    { "s": "\"Hago hincapié en la importancia de esto,\" recalco.", "e": "\"I stress the importance of this,\" I emphasize." },
+    { "s": "El 'auge' es el momento de mayor esplendor.", "e": "'Auge' is the moment of greatest splendor (peak)." },
+    { "s": "La 'merma' es la disminución o pérdida de algo.", "e": "'Merma' is the decrease or loss of something." },
+    { "s": "El 'libre albedrío' es la libertad de elegir.", "e": "'Libre albedrío' is free will." },
+    { "s": "Estas palabras vienen de leer, de escuchar, de vivir.", "e": "These words come from reading, listening, living." },
+    { "s": "Un nativo las absorbió de niño; yo, con amor y tiempo.", "e": "A native absorbed them as a child; I, with love and time." }
+  ]
+}

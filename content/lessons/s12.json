@@ -1,0 +1,61 @@
+{
+  "id": "s12",
+  "title": "Seis meses después",
+  "desc": "Reflecting on your journey",
+  "ph": 2,
+  "diff": 5,
+  "wu": [
+    "tiempo",
+    "pensar",
+    "sentir",
+    "saber",
+    "poder",
+    "mejor",
+    "todavía",
+    "siempre",
+    "vida",
+    "mundo"
+  ],
+  "sn": [
+    {
+      "s": "Hoy se cumplen seis meses desde que llegué a Nicaragua.",
+      "e": "Today marks six months since I arrived in Nicaragua."
+    },
+    {
+      "s": "Pienso en el primer día, cuando no sabía nada de español.",
+      "e": "I think about day one, when I knew no Spanish."
+    },
+    {
+      "s": "Ahora puedo ir al mercado y regatear. Puedo tomar un taxi sin problema.",
+      "e": "Now I can go to the market and haggle. Take a taxi, no problem."
+    },
+    {
+      "s": "Puedo hacer amigos, contar chistes, y hasta discutir en español.",
+      "e": "I can make friends, tell jokes, even argue in Spanish."
+    },
+    {
+      "s": "Todavía cometo errores. A veces busco una palabra y no la encuentro.",
+      "e": "I still make mistakes. Sometimes I search for a word and can't find it."
+    },
+    {
+      "s": "Pero ya no tengo miedo de hablar. Ese es el cambio más grande.",
+      "e": "But I'm no longer afraid to speak. That's the biggest change."
+    },
+    {
+      "s": "Roberto me dice: \"Hermano, ya hablás como nica.\"",
+      "e": "Roberto tells me: \"Bro, you already talk like a Nica.\""
+    },
+    {
+      "s": "No es verdad todavía. Pero cada día estoy más cerca.",
+      "e": "It's not true yet. But every day I'm closer."
+    },
+    {
+      "s": "La fluidez no es saber todas las palabras. Es poder vivir tu vida en otro idioma.",
+      "e": "Fluency isn't knowing every word. It's being able to live your life in another language."
+    },
+    {
+      "s": "Y eso es lo que estoy haciendo.",
+      "e": "And that's what I'm doing."
+    }
+  ]
+}

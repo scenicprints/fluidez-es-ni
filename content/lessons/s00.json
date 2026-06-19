@@ -1,0 +1,25 @@
+{
+  "id": "s00",
+  "title": "Buenas",
+  "desc": "Your very first words in Nicaragua",
+  "ph": 0,
+  "diff": 1,
+  "wu": ["hola", "buenas", "gracias", "sí", "no", "agua", "por favor", "señora", "bien", "adiós"],
+  "sn": [
+    { "s": "Llego a Nicaragua.", "e": "I arrive in Nicaragua." },
+    { "s": "Hace calor.", "e": "It's hot." },
+    { "s": "Una señora me ve.", "e": "A woman sees me." },
+    { "s": "\"¡Buenas!\" me dice.", "e": "\"Hello!\" she says to me." },
+    { "s": "\"Buenas,\" digo yo.", "e": "\"Hello,\" I say." },
+    { "s": "Yo tengo sed.", "e": "I'm thirsty. (lit: I have thirst.)" },
+    { "s": "\"¿Agua, por favor?\" digo.", "e": "\"Water, please?\" I say." },
+    { "s": "\"Sí, claro,\" dice la señora.", "e": "\"Yes, of course,\" the woman says." },
+    { "s": "Me da agua.", "e": "She gives me water." },
+    { "s": "\"Gracias,\" digo yo.", "e": "\"Thank you,\" I say." },
+    { "s": "\"De nada,\" dice ella.", "e": "\"You're welcome,\" she says." },
+    { "s": "El agua está bien fría.", "e": "The water is nice and cold." },
+    { "s": "Yo estoy bien.", "e": "I am good." },
+    { "s": "\"Adiós, señora. Gracias.\"", "e": "\"Goodbye, ma'am. Thank you.\"" },
+    { "s": "\"Adiós. Que le vaya bien,\" dice ella.", "e": "\"Goodbye. Take care,\" she says." }
+  ]
+}

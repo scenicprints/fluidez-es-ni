@@ -1,0 +1,25 @@
+{
+  "id": "s106",
+  "title": "La comida típica",
+  "desc": "Ordering a full Nicaraguan meal",
+  "ph": 1,
+  "diff": 3,
+  "wu": ["comedor", "almuerzo", "gallopinto", "maduro", "cuajada", "refresco", "rico", "probar", "lleno", "típico"],
+  "sn": [
+    { "s": "Es hora del almuerzo.", "e": "It's lunchtime." },
+    { "s": "Entro a un comedor pequeño.", "e": "I go into a small eatery." },
+    { "s": "\"Buenas. ¿Qué hay de almuerzo?\"", "e": "\"Hello. What's for lunch?\"" },
+    { "s": "\"Hay carne asada con gallo pinto, maduro y cuajada.\"", "e": "\"There's grilled meat with gallo pinto, fried plantain, and cuajada cheese.\"" },
+    { "s": "\"Suena rico. Quiero eso, por favor.\"", "e": "\"Sounds delicious. I want that, please.\"" },
+    { "s": "\"¿Y de tomar?\"", "e": "\"And to drink?\"" },
+    { "s": "\"¿Qué refrescos tienen?\"", "e": "\"What drinks do you have?\"" },
+    { "s": "\"De cacao, de tamarindo, de chía.\"", "e": "\"Cacao, tamarind, chia.\"" },
+    { "s": "\"Un refresco de cacao, por favor.\"", "e": "\"A cacao drink, please.\"" },
+    { "s": "La comida llega. Todo se ve increíble.", "e": "The food arrives. Everything looks incredible." },
+    { "s": "El gallo pinto es el alma de Nicaragua.", "e": "Gallo pinto is the soul of Nicaragua." },
+    { "s": "Arroz, frijoles, y mucho sabor.", "e": "Rice, beans, and lots of flavor." },
+    { "s": "Como hasta quedar lleno.", "e": "I eat until I'm full." },
+    { "s": "\"¿Le gustó?\" pregunta la señora.", "e": "\"Did you like it?\" the woman asks." },
+    { "s": "\"Me encantó. Estaba bien rico.\"", "e": "\"I loved it. It was really delicious.\"" }
+  ]
+}

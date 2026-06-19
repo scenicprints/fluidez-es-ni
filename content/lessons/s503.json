@@ -1,0 +1,24 @@
+{
+  "id": "s503",
+  "title": "Hablando rápido",
+  "desc": "Keeping up with fast speech",
+  "ph": 5,
+  "diff": 10,
+  "wu": ["rápido", "tragarse", "entender", "repetir", "despacio", "acostumbrarse", "oído", "captar", "perderse", "fluido"],
+  "sn": [
+    { "s": "El reto más grande es la velocidad.", "e": "The biggest challenge is the speed." },
+    { "s": "Los nicas hablan rápido y se comen letras.", "e": "Nicas talk fast and swallow letters." },
+    { "s": "Dicen 'pa' en vez de 'para'.", "e": "They say 'pa' instead of 'para'." },
+    { "s": "'Ta bien' en vez de 'está bien'.", "e": "'Ta bien' instead of 'está bien'." },
+    { "s": "Al principio me perdía todo el tiempo.", "e": "At first I got lost all the time." },
+    { "s": "\"Más despacio, por favor,\" pedía yo.", "e": "\"Slower, please,\" I'd ask." },
+    { "s": "Pero poco a poco, mi oído se acostumbra.", "e": "But little by little, my ear gets used to it." },
+    { "s": "Ahora capto más, aunque no todo.", "e": "Now I catch more, though not everything." },
+    { "s": "\"¿Vah pal centro?\" me pregunta alguien.", "e": "\"You headin' downtown?\" someone asks me." },
+    { "s": "Antes no entendía. Ahora sí.", "e": "Before I didn't understand. Now I do." },
+    { "s": "\"Sí, ahí voy,\" respondo sin pensar.", "e": "\"Yeah, on my way,\" I respond without thinking." },
+    { "s": "Entender el habla rápida es medio idioma.", "e": "Understanding fast speech is half the language." },
+    { "s": "Ya no pido que repitan tanto.", "e": "I don't ask them to repeat as much anymore." },
+    { "s": "El oído entrenado es la clave de la fluidez.", "e": "A trained ear is the key to fluency." }
+  ]
+}

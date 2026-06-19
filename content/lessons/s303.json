@@ -1,0 +1,24 @@
+{
+  "id": "s303",
+  "title": "En el banco",
+  "desc": "Handling formal paperwork",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["banco", "cuenta", "cédula", "firmar", "formulario", "trámite", "fila", "documento", "abrir", "requisito"],
+  "sn": [
+    { "s": "Necesito abrir una cuenta en el banco.", "e": "I need to open a bank account." },
+    { "s": "Hago una larga fila para esperar.", "e": "I wait in a long line." },
+    { "s": "\"Buenos días. Quiero abrir una cuenta,\" digo.", "e": "\"Good morning. I'd like to open an account,\" I say." },
+    { "s": "\"¿Trae su cédula o pasaporte?\" pregunta el cajero.", "e": "\"Do you have your ID or passport?\" the teller asks." },
+    { "s": "\"Sí, traigo mi pasaporte.\"", "e": "\"Yes, I have my passport.\"" },
+    { "s": "\"¿Cuáles son los otros requisitos?\" pregunto.", "e": "\"What are the other requirements?\" I ask." },
+    { "s": "\"Necesita llenar este formulario y firmar aquí.\"", "e": "\"You need to fill out this form and sign here.\"" },
+    { "s": "El trámite tiene muchos papeles.", "e": "The process has a lot of paperwork." },
+    { "s": "\"¿Dónde firmo exactamente?\" pregunto, con cuidado.", "e": "\"Where exactly do I sign?\" I ask, carefully." },
+    { "s": "\"Aquí abajo, y ponga la fecha.\"", "e": "\"Down here, and put the date.\"" },
+    { "s": "Firmo cada documento despacio.", "e": "I sign each document slowly." },
+    { "s": "\"Listo. Su cuenta estará activa mañana.\"", "e": "\"Done. Your account will be active tomorrow.\"" },
+    { "s": "Los trámites en español ya no me asustan.", "e": "Paperwork in Spanish no longer scares me." },
+    { "s": "Preguntar con calma resuelve casi todo.", "e": "Asking calmly solves almost everything." }
+  ]
+}

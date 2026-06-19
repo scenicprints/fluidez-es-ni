@@ -1,0 +1,24 @@
+{
+  "id": "s602",
+  "title": "Voseo a fondo",
+  "desc": "Deep voseo: how Nicas really conjugate",
+  "ph": 6,
+  "diff": 11,
+  "wu": ["voseo", "vos", "tené", "vení", "andá", "sabés", "decí", "mirá", "acordate", "fijate"],
+  "sn": [
+    { "s": "En Nicaragua nadie usa 'tú'. Todo es 'vos'.", "e": "In Nicaragua nobody uses 'tú'. Everything is 'vos'." },
+    { "s": "Pero el voseo cambia los verbos, no solo el pronombre.", "e": "But voseo changes the verbs, not just the pronoun." },
+    { "s": "No es 'tú tienes', sino 'vos tenés'.", "e": "It's not 'tú tienes', but 'vos tenés'." },
+    { "s": "No es 'ven', sino 'vení'. No es 'mira', sino 'mirá'.", "e": "It's not 'ven', but 'vení'. Not 'mira', but 'mirá'." },
+    { "s": "Los mandatos llevan el acento al final.", "e": "Commands carry the accent at the end." },
+    { "s": "\"Andá al mercado y traé pan,\" me pide Lucía.", "e": "\"Go to the market and bring bread,\" Lucía asks me." },
+    { "s": "\"Acordate de la leche también,\" agrega.", "e": "\"Remember the milk too,\" she adds." },
+    { "s": "'Acordate', 'fijate', 'tomate un café': puro voseo.", "e": "'Acordate', 'fijate', 'have a coffee': pure voseo." },
+    { "s": "\"¿Vos sabés dónde queda?\" me pregunta.", "e": "\"Do you know where it is?\" she asks me." },
+    { "s": "\"Sí, ya sé. Decime si necesitás algo más.\"", "e": "\"Yes, I know. Tell me if you need anything else.\"" },
+    { "s": "El voseo nica es distinto al de Argentina también.", "e": "Nica voseo is different from Argentina's too." },
+    { "s": "Cada país que vosea tiene su propio ritmo.", "e": "Each country that uses voseo has its own rhythm." },
+    { "s": "Dominar el voseo nica es clave para sonar de aquí.", "e": "Mastering Nica voseo is key to sounding local." },
+    { "s": "Ya no se me escapa ni un 'tú' por error.", "e": "Not a single 'tú' slips out by mistake anymore." }
+  ]
+}

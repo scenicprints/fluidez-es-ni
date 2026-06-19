@@ -1,0 +1,24 @@
+{
+  "id": "s408",
+  "title": "Quiero que sepas",
+  "desc": "Expressing your deepest feelings",
+  "ph": 4,
+  "diff": 9,
+  "wu": ["amar", "agradecer", "cambiar", "vida", "afortunado", "sincero", "siempre", "prometer", "ojalá", "esperar"],
+  "sn": [
+    { "s": "Es nuestro aniversario de un año juntos.", "e": "It's our anniversary of one year together." },
+    { "s": "Quiero decirle a Lucía lo que siento de verdad.", "e": "I want to tell Lucía what I truly feel." },
+    { "s": "\"Lucía, quiero que sepás algo importante.\"", "e": "\"Lucía, I want you to know something important.\"" },
+    { "s": "\"Desde que te conocí, mi vida cambió.\"", "e": "\"Since I met you, my life changed.\"" },
+    { "s": "\"Quiero que entendás cuánto te amo.\"", "e": "\"I want you to understand how much I love you.\"" },
+    { "s": "Esta vez digo 'te amo', no solo 'te quiero'.", "e": "This time I say 'te amo,' not just 'te quiero.'" },
+    { "s": "\"Me siento afortunado de tenerte,\" agrego.", "e": "\"I feel lucky to have you,\" I add." },
+    { "s": "A Lucía se le llenan los ojos de lágrimas.", "e": "Lucía's eyes fill with tears." },
+    { "s": "\"Yo también te amo, con toda mi alma.\"", "e": "\"I love you too, with all my soul.\"" },
+    { "s": "\"Ojalá pasemos muchos años más juntos.\"", "e": "\"I hope we spend many more years together.\"" },
+    { "s": "\"Te prometo cuidar de lo nuestro,\" le digo.", "e": "\"I promise to take care of what we have,\" I tell her." },
+    { "s": "Decir 'te amo' en español ya no me da miedo.", "e": "Saying 'I love you' in Spanish no longer scares me." },
+    { "s": "El subjuntivo: quiero que sepás, ojalá pasemos.", "e": "The subjunctive: I want you to know, I hope we spend." },
+    { "s": "Es el idioma del corazón que espera y desea.", "e": "It's the language of the heart that hopes and wishes." }
+  ]
+}

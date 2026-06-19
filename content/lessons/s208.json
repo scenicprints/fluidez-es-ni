@@ -1,0 +1,24 @@
+{
+  "id": "s208",
+  "title": "Haciendo planes",
+  "desc": "Suggesting ideas and disagreeing kindly",
+  "ph": 2,
+  "diff": 6,
+  "wu": ["proponer", "idea", "mejor", "preferir", "tal vez", "de acuerdo", "opinar", "cambiar", "decidir", "juntos"],
+  "sn": [
+    { "s": "Queremos hacer algo el sábado.", "e": "We want to do something on Saturday." },
+    { "s": "\"¿Qué te parece ir al lago?\" propone Roberto.", "e": "\"What do you think about going to the lake?\" Roberto suggests." },
+    { "s": "\"Buena idea, pero hace mucho calor allá.\"", "e": "\"Good idea, but it's very hot there.\"" },
+    { "s": "\"Tenés razón. ¿Qué preferís hacer?\"", "e": "\"You're right. What do you prefer to do?\"" },
+    { "s": "\"Tal vez podríamos ir a las montañas.\"", "e": "\"Maybe we could go to the mountains.\"" },
+    { "s": "\"Allá hace más fresco,\" agrego.", "e": "\"It's cooler there,\" I add." },
+    { "s": "\"Me gusta la idea. Pero está lejos.\"", "e": "\"I like the idea. But it's far.\"" },
+    { "s": "\"¿Y si vamos el domingo entonces?\"", "e": "\"What if we go on Sunday then?\"" },
+    { "s": "\"Perfecto. Así tenemos todo el día.\"", "e": "\"Perfect. That way we have the whole day.\"" },
+    { "s": "\"Estoy de acuerdo,\" digo contento.", "e": "\"I agree,\" I say happily." },
+    { "s": "No siempre pensamos igual, y está bien.", "e": "We don't always think alike, and that's okay." },
+    { "s": "Aprendí a decir 'no estoy de acuerdo' sin pelear.", "e": "I learned to say 'I disagree' without fighting." },
+    { "s": "Proponer, escuchar, decidir juntos.", "e": "Suggesting, listening, deciding together." },
+    { "s": "Así se construye una amistad de verdad.", "e": "That's how a real friendship is built." }
+  ]
+}

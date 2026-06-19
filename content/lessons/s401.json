@@ -1,0 +1,24 @@
+{
+  "id": "s401",
+  "title": "Algo especial",
+  "desc": "Meeting someone special",
+  "ph": 4,
+  "diff": 7,
+  "wu": ["especial", "sonrisa", "mirada", "nervioso", "conocer", "platicar", "gustar", "corazón", "tímido", "ojalá"],
+  "sn": [
+    { "s": "En la fiesta de Roberto, conozco a alguien.", "e": "At Roberto's party, I meet someone." },
+    { "s": "Se llama Lucía. Tiene una sonrisa linda.", "e": "Her name is Lucía. She has a lovely smile." },
+    { "s": "Platicamos toda la noche.", "e": "We chat all night." },
+    { "s": "Me pongo un poco nervioso con ella.", "e": "I get a little nervous around her." },
+    { "s": "\"¿De dónde sos?\" me pregunta con una mirada dulce.", "e": "\"Where are you from?\" she asks with a sweet look." },
+    { "s": "Le cuento de mí, y ella me escucha de verdad.", "e": "I tell her about myself, and she really listens." },
+    { "s": "Hay algo especial en su forma de ser.", "e": "There's something special about the way she is." },
+    { "s": "\"Me gusta hablar con vos,\" le digo, tímido.", "e": "\"I like talking with you,\" I say, shy." },
+    { "s": "\"A mí también,\" responde sonriendo.", "e": "\"Me too,\" she answers, smiling." },
+    { "s": "Siento algo en el corazón que no esperaba.", "e": "I feel something in my heart I wasn't expecting." },
+    { "s": "\"Ojalá nos veamos otra vez,\" me atrevo a decir.", "e": "\"I hope we see each other again,\" I dare to say." },
+    { "s": "\"Claro que sí,\" dice ella.", "e": "\"Of course,\" she says." },
+    { "s": "'Ojalá' — esa palabra para los deseos del corazón.", "e": "'Ojalá' — that word for the wishes of the heart." },
+    { "s": "Esa noche, algo nuevo empieza.", "e": "That night, something new begins." }
+  ]
+}

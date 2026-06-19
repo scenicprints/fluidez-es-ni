@@ -1,0 +1,24 @@
+{
+  "id": "s307",
+  "title": "El plan B",
+  "desc": "When plans fall apart",
+  "ph": 3,
+  "diff": 7,
+  "wu": ["cancelar", "cambiar", "improvisar", "futuro", "iremos", "tendremos", "buscar", "alternativa", "resolver", "tranquilo"],
+  "sn": [
+    { "s": "Teníamos planes para ir a la playa el sábado.", "e": "We had plans to go to the beach on Saturday." },
+    { "s": "Pero el carro de Roberto se dañó.", "e": "But Roberto's car broke down." },
+    { "s": "\"Se canceló el plan,\" dice, triste.", "e": "\"The plan's off,\" he says, sad." },
+    { "s": "\"Tranquilo, buscamos un plan B,\" respondo.", "e": "\"Relax, we'll find a plan B,\" I respond." },
+    { "s": "\"¿Qué hacemos entonces?\" pregunta.", "e": "\"What do we do then?\" he asks." },
+    { "s": "\"Podemos tomar el bus. Llegaremos un poco tarde.\"", "e": "\"We can take the bus. We'll arrive a little late.\"" },
+    { "s": "\"Pero igual tendremos toda la tarde,\" agrego.", "e": "\"But we'll still have the whole afternoon,\" I add." },
+    { "s": "\"Buena idea. No había pensado en eso.\"", "e": "\"Good idea. I hadn't thought of that.\"" },
+    { "s": "\"Mañana arreglás el carro y todo bien.\"", "e": "\"Tomorrow you fix the car and all's well.\"" },
+    { "s": "\"Tenés razón. Improvisar también es divertido.\"", "e": "\"You're right. Improvising is fun too.\"" },
+    { "s": "Cuando un plan falla, se busca otro.", "e": "When one plan fails, you find another." },
+    { "s": "Hablar del futuro: iremos, tendremos, llegaremos.", "e": "Talking about the future: we'll go, we'll have, we'll arrive." },
+    { "s": "La flexibilidad es parte de vivir aquí.", "e": "Flexibility is part of living here." },
+    { "s": "Al final, lo importante es estar juntos.", "e": "In the end, what matters is being together." }
+  ]
+}

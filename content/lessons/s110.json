@@ -1,0 +1,25 @@
+{
+  "id": "s110",
+  "title": "La lluvia",
+  "desc": "The rainy season arrives",
+  "ph": 1,
+  "diff": 4,
+  "wu": ["lluvia", "llover", "mojado", "paraguas", "esperar", "cielo", "nube", "fuerte", "rato", "pasar"],
+  "sn": [
+    { "s": "En Nicaragua hay dos estaciones.", "e": "In Nicaragua there are two seasons." },
+    { "s": "El verano seco y el invierno con lluvia.", "e": "The dry summer and the rainy winter." },
+    { "s": "Hoy el cielo está lleno de nubes.", "e": "Today the sky is full of clouds." },
+    { "s": "Camino por la calle sin paraguas.", "e": "I walk down the street without an umbrella." },
+    { "s": "De repente empieza a llover.", "e": "Suddenly it starts to rain." },
+    { "s": "La lluvia es muy fuerte.", "e": "The rain is very heavy." },
+    { "s": "Me meto en una pulpería.", "e": "I duck into a corner store." },
+    { "s": "\"Esta lluvia no avisa,\" dice la dueña riendo.", "e": "\"This rain gives no warning,\" the owner says, laughing." },
+    { "s": "\"¿Dura mucho?\" pregunto.", "e": "\"Does it last long?\" I ask." },
+    { "s": "\"No, un rato. Después sale el sol.\"", "e": "\"No, a while. Then the sun comes out.\"" },
+    { "s": "Espero adentro con un café.", "e": "I wait inside with a coffee." },
+    { "s": "En veinte minutos la lluvia para.", "e": "In twenty minutes the rain stops." },
+    { "s": "El sol sale otra vez.", "e": "The sun comes out again." },
+    { "s": "Todo huele a tierra mojada.", "e": "Everything smells of wet earth." },
+    { "s": "Así es el invierno nica: fuerte y rápido.", "e": "That's the Nica winter: strong and fast." }
+  ]
+}

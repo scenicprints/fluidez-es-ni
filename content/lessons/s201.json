@@ -1,0 +1,24 @@
+{
+  "id": "s201",
+  "title": "Hablando de mí",
+  "desc": "Talking about your life",
+  "ph": 2,
+  "diff": 4,
+  "wu": ["familia", "hermano", "trabajo", "vivir", "casado", "soltero", "hijo", "años", "ciudad", "contar"],
+  "sn": [
+    { "s": "Roberto quiere saber más de mí.", "e": "Roberto wants to know more about me." },
+    { "s": "\"Contame de tu vida,\" me dice.", "e": "\"Tell me about your life,\" he says." },
+    { "s": "\"Bueno, tengo treinta años.\"", "e": "\"Well, I'm thirty years old.\"" },
+    { "s": "\"Soy soltero, no tengo hijos.\"", "e": "\"I'm single, I have no kids.\"" },
+    { "s": "\"¿Y tu familia?\" pregunta él.", "e": "\"And your family?\" he asks." },
+    { "s": "\"Tengo dos hermanos y una hermana.\"", "e": "\"I have two brothers and one sister.\"" },
+    { "s": "\"Ellos viven en los Estados Unidos.\"", "e": "\"They live in the United States.\"" },
+    { "s": "\"¿En qué trabajás?\"", "e": "\"What do you do for work?\"" },
+    { "s": "\"Trabajo con computadoras. Soy programador.\"", "e": "\"I work with computers. I'm a programmer.\"" },
+    { "s": "\"¡Qué bueno! ¿Y te gusta vivir aquí?\"", "e": "\"How nice! And do you like living here?\"" },
+    { "s": "\"Me encanta. La gente es muy cálida.\"", "e": "\"I love it. The people are very warm.\"" },
+    { "s": "\"Aquí ya tenés familia también,\" dice Roberto.", "e": "\"Here you have family too now,\" says Roberto." },
+    { "s": "Sus palabras me llegan al corazón.", "e": "His words touch my heart." },
+    { "s": "Hablar de mi vida en español ya no me da miedo.", "e": "Talking about my life in Spanish no longer scares me." }
+  ]
+}

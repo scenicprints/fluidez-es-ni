@@ -1,0 +1,940 @@
+{
+  "dictionary": [
+    "dictionary/core.json"
+  ],
+  "patterns": [
+    "patterns/core.json"
+  ],
+  "scenarios": [
+    {
+      "id": "sc01",
+      "title": "Ordering at the fritanga",
+      "desc": "Order food from doña Carmen",
+      "phase": 0,
+      "path": "scenarios/sc01.json"
+    },
+    {
+      "id": "sc02",
+      "title": "Meeting Roberto",
+      "desc": "Introduce yourself to a new friend",
+      "phase": 0,
+      "path": "scenarios/sc02.json"
+    },
+    {
+      "id": "sc03",
+      "title": "At the pharmacy",
+      "desc": "You're not feeling well",
+      "phase": 0,
+      "path": "scenarios/sc03.json"
+    },
+    {
+      "id": "sc04",
+      "title": "Taking a taxi",
+      "desc": "Get across town and agree on a price",
+      "phase": 0,
+      "path": "scenarios/sc04.json"
+    },
+    {
+      "id": "sc05",
+      "title": "At the market",
+      "desc": "Buy fruit at the mercado",
+      "phase": 0,
+      "path": "scenarios/sc05.json"
+    },
+    {
+      "id": "sc06",
+      "title": "Haggling for a shirt",
+      "desc": "Negotiate a price at the market",
+      "phase": 1,
+      "path": "scenarios/sc06.json"
+    },
+    {
+      "id": "sc07",
+      "title": "Asking for directions",
+      "desc": "Find your way Nica-style",
+      "phase": 1,
+      "path": "scenarios/sc07.json"
+    },
+    {
+      "id": "sc08",
+      "title": "Catching the bus",
+      "desc": "Ride the urban bus and pay the fare",
+      "phase": 1,
+      "path": "scenarios/sc08.json"
+    },
+    {
+      "id": "sc09",
+      "title": "Ordering lunch",
+      "desc": "Order a full meal at a comedor",
+      "phase": 1,
+      "path": "scenarios/sc09.json"
+    },
+    {
+      "id": "sc10",
+      "title": "Making plans",
+      "desc": "Arrange to meet a friend",
+      "phase": 1,
+      "path": "scenarios/sc10.json"
+    },
+    {
+      "id": "sc11",
+      "title": "Talking about yourself",
+      "desc": "Share your life with a new friend",
+      "phase": 2,
+      "path": "scenarios/sc11.json"
+    },
+    {
+      "id": "sc12",
+      "title": "How was your weekend?",
+      "desc": "Talk about the past",
+      "phase": 2,
+      "path": "scenarios/sc12.json"
+    },
+    {
+      "id": "sc13",
+      "title": "Dinner at a friend's house",
+      "desc": "Be a gracious guest",
+      "phase": 2,
+      "path": "scenarios/sc13.json"
+    },
+    {
+      "id": "sc14",
+      "title": "What do you like?",
+      "desc": "Share hobbies and tastes",
+      "phase": 2,
+      "path": "scenarios/sc14.json"
+    },
+    {
+      "id": "sc15",
+      "title": "A heart-to-heart",
+      "desc": "Open up about a hard day",
+      "phase": 2,
+      "path": "scenarios/sc15.json"
+    },
+    {
+      "id": "sc16",
+      "title": "Making a complaint",
+      "desc": "Return a broken product",
+      "phase": 3,
+      "path": "scenarios/sc16.json"
+    },
+    {
+      "id": "sc17",
+      "title": "At the bank",
+      "desc": "Open an account",
+      "phase": 3,
+      "path": "scenarios/sc17.json"
+    },
+    {
+      "id": "sc18",
+      "title": "Clearing the air",
+      "desc": "Resolve a misunderstanding with a friend",
+      "phase": 3,
+      "path": "scenarios/sc18.json"
+    },
+    {
+      "id": "sc19",
+      "title": "Asking a big favor",
+      "desc": "Borrow something important",
+      "phase": 3,
+      "path": "scenarios/sc19.json"
+    },
+    {
+      "id": "sc20",
+      "title": "The job interview",
+      "desc": "Present yourself with confidence",
+      "phase": 3,
+      "path": "scenarios/sc20.json"
+    },
+    {
+      "id": "sc21",
+      "title": "Meeting someone special",
+      "desc": "Show genuine interest",
+      "phase": 4,
+      "path": "scenarios/sc21.json"
+    },
+    {
+      "id": "sc22",
+      "title": "Saying how you feel",
+      "desc": "Express affection to your partner",
+      "phase": 4,
+      "path": "scenarios/sc22.json"
+    },
+    {
+      "id": "sc23",
+      "title": "Meeting the family",
+      "desc": "Make a good impression",
+      "phase": 4,
+      "path": "scenarios/sc23.json"
+    },
+    {
+      "id": "sc24",
+      "title": "A vulnerable moment",
+      "desc": "Open up about something hard",
+      "phase": 4,
+      "path": "scenarios/sc24.json"
+    },
+    {
+      "id": "sc25",
+      "title": "Making up after a fight",
+      "desc": "Repair things with someone you love",
+      "phase": 4,
+      "path": "scenarios/sc25.json"
+    },
+    {
+      "id": "sc26",
+      "title": "Talking like a local",
+      "desc": "Keep up with casual slang",
+      "phase": 5,
+      "path": "scenarios/sc26.json"
+    },
+    {
+      "id": "sc27",
+      "title": "Getting teased",
+      "desc": "Give as good as you get",
+      "phase": 5,
+      "path": "scenarios/sc27.json"
+    },
+    {
+      "id": "sc28",
+      "title": "Reading between the lines",
+      "desc": "Catch what isn't said",
+      "phase": 5,
+      "path": "scenarios/sc28.json"
+    },
+    {
+      "id": "sc29",
+      "title": "At the juntada",
+      "desc": "Hang out, slang and all",
+      "phase": 5,
+      "path": "scenarios/sc29.json"
+    },
+    {
+      "id": "sc30",
+      "title": "You sound like a local",
+      "desc": "Receive the ultimate compliment",
+      "phase": 5,
+      "path": "scenarios/sc30.json"
+    },
+    {
+      "id": "sc31",
+      "title": "A deep conversation",
+      "desc": "Discuss an abstract idea",
+      "phase": 6,
+      "path": "scenarios/sc31.json"
+    },
+    {
+      "id": "sc32",
+      "title": "The hypothetical game",
+      "desc": "Play with 'what if'",
+      "phase": 6,
+      "path": "scenarios/sc32.json"
+    },
+    {
+      "id": "sc33",
+      "title": "Holding a debate",
+      "desc": "Argue a point with structure",
+      "phase": 6,
+      "path": "scenarios/sc33.json"
+    },
+    {
+      "id": "sc34",
+      "title": "Catching the irony",
+      "desc": "Read tone and respond in kind",
+      "phase": 6,
+      "path": "scenarios/sc34.json"
+    },
+    {
+      "id": "sc35",
+      "title": "Speaking for a cause",
+      "desc": "Persuade a group with conviction",
+      "phase": 6,
+      "path": "scenarios/sc35.json"
+    },
+    {
+      "id": "sc36",
+      "title": "Trading proverbs",
+      "desc": "Match wits with a grandmother",
+      "phase": 7,
+      "path": "scenarios/sc36.json"
+    },
+    {
+      "id": "sc37",
+      "title": "Discussing poetry",
+      "desc": "Talk about Darío with feeling",
+      "phase": 7,
+      "path": "scenarios/sc37.json"
+    },
+    {
+      "id": "sc38",
+      "title": "A battle of wits",
+      "desc": "Keep up with rapid wordplay",
+      "phase": 7,
+      "path": "scenarios/sc38.json"
+    },
+    {
+      "id": "sc39",
+      "title": "Speaking with eloquence",
+      "desc": "Give a toast worth remembering",
+      "phase": 7,
+      "path": "scenarios/sc39.json"
+    },
+    {
+      "id": "sc40",
+      "title": "They think you're a native",
+      "desc": "The journey comes full circle",
+      "phase": 7,
+      "path": "scenarios/sc40.json"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "s00",
+      "title": "Buenas",
+      "desc": "Your very first words in Nicaragua",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/s00.json"
+    },
+    {
+      "id": "s01",
+      "title": "La fritanga de doña Carmen",
+      "desc": "Your first meal in Managua",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/s01.json"
+    },
+    {
+      "id": "s02",
+      "title": "El mercado",
+      "desc": "Shopping at a Nicaraguan market",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/s02.json"
+    },
+    {
+      "id": "s03",
+      "title": "¿De dónde venís?",
+      "desc": "Making friends at a pulpería",
+      "phase": 0,
+      "diff": 2,
+      "path": "lessons/s03.json"
+    },
+    {
+      "id": "s04",
+      "title": "El taxi",
+      "desc": "Getting around Managua",
+      "phase": 0,
+      "diff": 2,
+      "path": "lessons/s04.json"
+    },
+    {
+      "id": "s05",
+      "title": "Estoy enfermo",
+      "desc": "Getting sick & finding medicine",
+      "phase": 0,
+      "diff": 2,
+      "path": "lessons/s05.json"
+    },
+    {
+      "id": "s06",
+      "title": "La fiesta del barrio",
+      "desc": "A neighborhood party",
+      "phase": 0,
+      "diff": 3,
+      "path": "lessons/s06.json"
+    },
+    {
+      "id": "s07",
+      "title": "Mi primer trabajo",
+      "desc": "Getting your first job in Nicaragua",
+      "phase": 1,
+      "diff": 3,
+      "path": "lessons/s07.json"
+    },
+    {
+      "id": "s08",
+      "title": "La llamada de teléfono",
+      "desc": "Your first phone call in Spanish",
+      "phase": 1,
+      "diff": 3,
+      "path": "lessons/s08.json"
+    },
+    {
+      "id": "s09",
+      "title": "Perdido en Managua",
+      "desc": "Getting lost and finding your way",
+      "phase": 1,
+      "diff": 4,
+      "path": "lessons/s09.json"
+    },
+    {
+      "id": "s10",
+      "title": "La tormenta",
+      "desc": "A tropical storm hits",
+      "phase": 1,
+      "diff": 4,
+      "path": "lessons/s10.json"
+    },
+    {
+      "id": "s11",
+      "title": "La discusión",
+      "desc": "Your first argument in Spanish",
+      "phase": 2,
+      "diff": 5,
+      "path": "lessons/s11.json"
+    },
+    {
+      "id": "s12",
+      "title": "Seis meses después",
+      "desc": "Reflecting on your journey",
+      "phase": 2,
+      "diff": 5,
+      "path": "lessons/s12.json"
+    },
+    {
+      "id": "s101",
+      "title": "Los números",
+      "desc": "Learning numbers by buying fruit",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/s101.json"
+    },
+    {
+      "id": "s102",
+      "title": "¿Cuánto cuesta?",
+      "desc": "Haggling at the market",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/s102.json"
+    },
+    {
+      "id": "s103",
+      "title": "En la pulpería",
+      "desc": "The corner store and daily ritual",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/s103.json"
+    },
+    {
+      "id": "s104",
+      "title": "¿Dónde está?",
+      "desc": "Asking for directions, Nica-style",
+      "phase": 1,
+      "diff": 3,
+      "path": "lessons/s104.json"
+    },
+    {
+      "id": "s105",
+      "title": "El bus",
+      "desc": "Taking the urban bus",
+      "phase": 1,
+      "diff": 3,
+      "path": "lessons/s105.json"
+    },
+    {
+      "id": "s106",
+      "title": "La comida típica",
+      "desc": "Ordering a full Nicaraguan meal",
+      "phase": 1,
+      "diff": 3,
+      "path": "lessons/s106.json"
+    },
+    {
+      "id": "s107",
+      "title": "El teléfono",
+      "desc": "Getting a SIM card and going online",
+      "phase": 1,
+      "diff": 3,
+      "path": "lessons/s107.json"
+    },
+    {
+      "id": "s108",
+      "title": "Una cita",
+      "desc": "Making plans and telling time",
+      "phase": 1,
+      "diff": 3,
+      "path": "lessons/s108.json"
+    },
+    {
+      "id": "s109",
+      "title": "Un problema pequeño",
+      "desc": "Dealing with a small daily problem",
+      "phase": 1,
+      "diff": 4,
+      "path": "lessons/s109.json"
+    },
+    {
+      "id": "s110",
+      "title": "La lluvia",
+      "desc": "The rainy season arrives",
+      "phase": 1,
+      "diff": 4,
+      "path": "lessons/s110.json"
+    },
+    {
+      "id": "s201",
+      "title": "Hablando de mí",
+      "desc": "Talking about your life",
+      "phase": 2,
+      "diff": 4,
+      "path": "lessons/s201.json"
+    },
+    {
+      "id": "s202",
+      "title": "El fin de semana",
+      "desc": "What you did over the weekend",
+      "phase": 2,
+      "diff": 5,
+      "path": "lessons/s202.json"
+    },
+    {
+      "id": "s203",
+      "title": "Una invitación",
+      "desc": "Invited to a friend's home",
+      "phase": 2,
+      "diff": 5,
+      "path": "lessons/s203.json"
+    },
+    {
+      "id": "s204",
+      "title": "Mi pueblo",
+      "desc": "Describing where you come from",
+      "phase": 2,
+      "diff": 5,
+      "path": "lessons/s204.json"
+    },
+    {
+      "id": "s205",
+      "title": "¿Qué te gusta?",
+      "desc": "Likes, hobbies, and music",
+      "phase": 2,
+      "diff": 5,
+      "path": "lessons/s205.json"
+    },
+    {
+      "id": "s206",
+      "title": "Cuando era niño",
+      "desc": "Talking about your childhood",
+      "phase": 2,
+      "diff": 6,
+      "path": "lessons/s206.json"
+    },
+    {
+      "id": "s207",
+      "title": "Un mal día",
+      "desc": "Expressing frustration and feelings",
+      "phase": 2,
+      "diff": 6,
+      "path": "lessons/s207.json"
+    },
+    {
+      "id": "s208",
+      "title": "Haciendo planes",
+      "desc": "Suggesting ideas and disagreeing kindly",
+      "phase": 2,
+      "diff": 6,
+      "path": "lessons/s208.json"
+    },
+    {
+      "id": "s301",
+      "title": "No estoy de acuerdo",
+      "desc": "Disagreeing with substance",
+      "phase": 3,
+      "diff": 6,
+      "path": "lessons/s301.json"
+    },
+    {
+      "id": "s302",
+      "title": "El reclamo",
+      "desc": "Making a complaint",
+      "phase": 3,
+      "diff": 6,
+      "path": "lessons/s302.json"
+    },
+    {
+      "id": "s303",
+      "title": "En el banco",
+      "desc": "Handling formal paperwork",
+      "phase": 3,
+      "diff": 7,
+      "path": "lessons/s303.json"
+    },
+    {
+      "id": "s304",
+      "title": "El malentendido",
+      "desc": "Clearing up a misunderstanding",
+      "phase": 3,
+      "diff": 7,
+      "path": "lessons/s304.json"
+    },
+    {
+      "id": "s305",
+      "title": "Mi opinión",
+      "desc": "Giving a real opinion",
+      "phase": 3,
+      "diff": 7,
+      "path": "lessons/s305.json"
+    },
+    {
+      "id": "s306",
+      "title": "Un favor grande",
+      "desc": "Asking for a bigger favor",
+      "phase": 3,
+      "diff": 7,
+      "path": "lessons/s306.json"
+    },
+    {
+      "id": "s307",
+      "title": "El plan B",
+      "desc": "When plans fall apart",
+      "phase": 3,
+      "diff": 7,
+      "path": "lessons/s307.json"
+    },
+    {
+      "id": "s308",
+      "title": "Poniendo límites",
+      "desc": "Setting a boundary kindly",
+      "phase": 3,
+      "diff": 8,
+      "path": "lessons/s308.json"
+    },
+    {
+      "id": "s309",
+      "title": "La entrevista",
+      "desc": "A job interview",
+      "phase": 3,
+      "diff": 8,
+      "path": "lessons/s309.json"
+    },
+    {
+      "id": "s310",
+      "title": "Defendiendo mi punto",
+      "desc": "Holding firm in a disagreement",
+      "phase": 3,
+      "diff": 8,
+      "path": "lessons/s310.json"
+    },
+    {
+      "id": "s401",
+      "title": "Algo especial",
+      "desc": "Meeting someone special",
+      "phase": 4,
+      "diff": 7,
+      "path": "lessons/s401.json"
+    },
+    {
+      "id": "s402",
+      "title": "Te quiero",
+      "desc": "Expressing affection",
+      "phase": 4,
+      "diff": 7,
+      "path": "lessons/s402.json"
+    },
+    {
+      "id": "s403",
+      "title": "Conociendo a la familia",
+      "desc": "Meeting your partner's family",
+      "phase": 4,
+      "diff": 8,
+      "path": "lessons/s403.json"
+    },
+    {
+      "id": "s404",
+      "title": "Una conversación difícil",
+      "desc": "Being vulnerable with someone you love",
+      "phase": 4,
+      "diff": 8,
+      "path": "lessons/s404.json"
+    },
+    {
+      "id": "s405",
+      "title": "Extrañándote",
+      "desc": "Missing someone you love",
+      "phase": 4,
+      "diff": 8,
+      "path": "lessons/s405.json"
+    },
+    {
+      "id": "s406",
+      "title": "Cuidando a los míos",
+      "desc": "Caring for family",
+      "phase": 4,
+      "diff": 8,
+      "path": "lessons/s406.json"
+    },
+    {
+      "id": "s407",
+      "title": "Un desacuerdo en pareja",
+      "desc": "Working through a disagreement",
+      "phase": 4,
+      "diff": 8,
+      "path": "lessons/s407.json"
+    },
+    {
+      "id": "s408",
+      "title": "Quiero que sepas",
+      "desc": "Expressing your deepest feelings",
+      "phase": 4,
+      "diff": 9,
+      "path": "lessons/s408.json"
+    },
+    {
+      "id": "s409",
+      "title": "Construyendo un futuro",
+      "desc": "Dreaming of a shared future",
+      "phase": 4,
+      "diff": 9,
+      "path": "lessons/s409.json"
+    },
+    {
+      "id": "s410",
+      "title": "Lo que importa",
+      "desc": "What really matters",
+      "phase": 4,
+      "diff": 9,
+      "path": "lessons/s410.json"
+    },
+    {
+      "id": "s501",
+      "title": "El maje",
+      "desc": "How friends really talk",
+      "phase": 5,
+      "diff": 9,
+      "path": "lessons/s501.json"
+    },
+    {
+      "id": "s502",
+      "title": "Ideay, pues",
+      "desc": "Nica filler words and reactions",
+      "phase": 5,
+      "diff": 9,
+      "path": "lessons/s502.json"
+    },
+    {
+      "id": "s503",
+      "title": "Hablando rápido",
+      "desc": "Keeping up with fast speech",
+      "phase": 5,
+      "diff": 10,
+      "path": "lessons/s503.json"
+    },
+    {
+      "id": "s504",
+      "title": "Chunches y cosas",
+      "desc": "Everyday Nica slang",
+      "phase": 5,
+      "diff": 10,
+      "path": "lessons/s504.json"
+    },
+    {
+      "id": "s505",
+      "title": "El chiste",
+      "desc": "Humor and teasing",
+      "phase": 5,
+      "diff": 10,
+      "path": "lessons/s505.json"
+    },
+    {
+      "id": "s506",
+      "title": "Ahorita",
+      "desc": "The world of diminutives",
+      "phase": 5,
+      "diff": 9,
+      "path": "lessons/s506.json"
+    },
+    {
+      "id": "s507",
+      "title": "Leyendo el ambiente",
+      "desc": "Reading between the lines",
+      "phase": 5,
+      "diff": 10,
+      "path": "lessons/s507.json"
+    },
+    {
+      "id": "s508",
+      "title": "La juntada",
+      "desc": "A slang-filled hangout",
+      "phase": 5,
+      "diff": 10,
+      "path": "lessons/s508.json"
+    },
+    {
+      "id": "s509",
+      "title": "Doble sentido",
+      "desc": "Playful double meanings",
+      "phase": 5,
+      "diff": 10,
+      "path": "lessons/s509.json"
+    },
+    {
+      "id": "s510",
+      "title": "Ya sos pinolero",
+      "desc": "Sounding like a local",
+      "phase": 5,
+      "diff": 10,
+      "path": "lessons/s510.json"
+    },
+    {
+      "id": "s601",
+      "title": "Comiéndose la ese",
+      "desc": "The Nicaraguan accent: dropping the 's'",
+      "phase": 6,
+      "diff": 11,
+      "path": "lessons/s601.json"
+    },
+    {
+      "id": "s602",
+      "title": "Voseo a fondo",
+      "desc": "Deep voseo: how Nicas really conjugate",
+      "phase": 6,
+      "diff": 11,
+      "path": "lessons/s602.json"
+    },
+    {
+      "id": "s603",
+      "title": "Palabras solo de aquí",
+      "desc": "Words you'll only hear in Nicaragua",
+      "phase": 6,
+      "diff": 11,
+      "path": "lessons/s603.json"
+    },
+    {
+      "id": "s604",
+      "title": "El nica no dice...",
+      "desc": "How Nicaraguans phrase things differently",
+      "phase": 6,
+      "diff": 11,
+      "path": "lessons/s604.json"
+    },
+    {
+      "id": "s605",
+      "title": "Diario en nica",
+      "desc": "Everyday Nicaraguan expressions",
+      "phase": 6,
+      "diff": 11,
+      "path": "lessons/s605.json"
+    },
+    {
+      "id": "s606",
+      "title": "El pinolero habla",
+      "desc": "Speech rooted in Nica identity",
+      "phase": 6,
+      "diff": 12,
+      "path": "lessons/s606.json"
+    },
+    {
+      "id": "s607",
+      "title": "Hablando con el campo",
+      "desc": "Rural Nicaraguan speech and warmth",
+      "phase": 6,
+      "diff": 12,
+      "path": "lessons/s607.json"
+    },
+    {
+      "id": "s608",
+      "title": "Nica contra el resto",
+      "desc": "Nica words vs. other countries",
+      "phase": 6,
+      "diff": 12,
+      "path": "lessons/s608.json"
+    },
+    {
+      "id": "s609",
+      "title": "Modismos nicas",
+      "desc": "Nicaraguan idioms and sayings",
+      "phase": 6,
+      "diff": 12,
+      "path": "lessons/s609.json"
+    },
+    {
+      "id": "s610",
+      "title": "Ya hablás como nica",
+      "desc": "Sounding unmistakably Nicaraguan",
+      "phase": 6,
+      "diff": 12,
+      "path": "lessons/s610.json"
+    },
+    {
+      "id": "s701",
+      "title": "Conectores cultos",
+      "desc": "Sophisticated connectors natives use",
+      "phase": 7,
+      "diff": 13,
+      "path": "lessons/s701.json"
+    },
+    {
+      "id": "s702",
+      "title": "Adjetivos precisos",
+      "desc": "Refined adjectives a native knows",
+      "phase": 7,
+      "diff": 13,
+      "path": "lessons/s702.json"
+    },
+    {
+      "id": "s703",
+      "title": "Verbos elegantes",
+      "desc": "Sophisticated verbs natives use",
+      "phase": 7,
+      "diff": 13,
+      "path": "lessons/s703.json"
+    },
+    {
+      "id": "s704",
+      "title": "Palabras que impresionan",
+      "desc": "Words that mark a refined speaker",
+      "phase": 7,
+      "diff": 13,
+      "path": "lessons/s704.json"
+    },
+    {
+      "id": "s705",
+      "title": "El registro formal",
+      "desc": "Elevated phrasing for writing and speeches",
+      "phase": 7,
+      "diff": 14,
+      "path": "lessons/s705.json"
+    },
+    {
+      "id": "s706",
+      "title": "Matices finos",
+      "desc": "Subtle distinctions natives feel",
+      "phase": 7,
+      "diff": 14,
+      "path": "lessons/s706.json"
+    },
+    {
+      "id": "s707",
+      "title": "Sustantivos cultos",
+      "desc": "Refined nouns a native grew up with",
+      "phase": 7,
+      "diff": 14,
+      "path": "lessons/s707.json"
+    },
+    {
+      "id": "s708",
+      "title": "Expresiones de nativo",
+      "desc": "Set phrases that mark a native",
+      "phase": 7,
+      "diff": 14,
+      "path": "lessons/s708.json"
+    },
+    {
+      "id": "s709",
+      "title": "Leyendo como nativo",
+      "desc": "Understanding sophisticated written Spanish",
+      "phase": 7,
+      "diff": 14,
+      "path": "lessons/s709.json"
+    },
+    {
+      "id": "s710",
+      "title": "El idioma del alma",
+      "desc": "The journey's end",
+      "phase": 7,
+      "diff": 14,
+      "path": "lessons/s710.json"
+    }
+  ]
+}

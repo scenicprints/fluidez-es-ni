@@ -1,0 +1,5476 @@
+{
+  "dale": {
+    "en": "go ahead/okay",
+    "pos": "intj",
+    "note": "Very Nicaraguan. 'Dale pues'=okay then"
+  },
+  "ideay": {
+    "en": "so?/well?/what?",
+    "pos": "intj",
+    "note": "Uniquely Nica. From '¿Y de ahí?' Surprise/curiosity"
+  },
+  "tuani": {
+    "en": "cool/awesome",
+    "pos": "adj",
+    "note": "Nica slang. '¡Qué tuani!'=How cool!"
+  },
+  "chele": {
+    "en": "foreigner/light-skinned",
+    "pos": "n",
+    "g": "m/f",
+    "note": "Nica slang. Not offensive. Fem: chela"
+  },
+  "chavalo": {
+    "en": "kid/young person",
+    "pos": "n",
+    "g": "m",
+    "note": "Nica for muchacho. Fem: chavala"
+  },
+  "chavalos": {
+    "en": "kids",
+    "pos": "n",
+    "g": "m"
+  },
+  "chavala": {
+    "en": "girl/young woman",
+    "pos": "n",
+    "g": "f"
+  },
+  "pinolero": {
+    "en": "Nicaraguan",
+    "pos": "n",
+    "g": "m",
+    "note": "From pinol (corn drink). Term of pride"
+  },
+  "fritanga": {
+    "en": "street food stand",
+    "pos": "n",
+    "g": "f",
+    "note": "Heart of Nica food culture"
+  },
+  "nica": {
+    "en": "Nicaraguan",
+    "pos": "adj",
+    "note": "Casual way to say Nicaraguan"
+  },
+  "plata": {
+    "en": "money/silver",
+    "pos": "n",
+    "g": "f",
+    "note": "Informal for money"
+  },
+  "reales": {
+    "en": "money (slang)",
+    "pos": "n",
+    "g": "m",
+    "note": "Old currency name, still used"
+  },
+  "pues": {
+    "en": "well/so/then",
+    "pos": "conj",
+    "note": "Constant filler. Dale pues=okay then"
+  },
+  "pulpería": {
+    "en": "corner shop",
+    "pos": "n",
+    "g": "f",
+    "note": "Small neighborhood store"
+  },
+  "barrio": {
+    "en": "neighborhood",
+    "pos": "n",
+    "g": "m"
+  },
+  "cuadra": {
+    "en": "block (street)",
+    "pos": "n",
+    "g": "f",
+    "note": "Distances given in cuadras in Nica"
+  },
+  "cuadras": {
+    "en": "blocks",
+    "pos": "n",
+    "g": "f"
+  },
+  "nacatamal": {
+    "en": "nacatamal",
+    "pos": "n",
+    "g": "m",
+    "note": "Nica tamale wrapped in banana leaf"
+  },
+  "nacatamales": {
+    "en": "nacatamales",
+    "pos": "n",
+    "g": "m"
+  },
+  "vigorón": {
+    "en": "vigorón",
+    "pos": "n",
+    "g": "m",
+    "note": "Yuca+chicharrón+cabbage salad"
+  },
+  "tajadas": {
+    "en": "plantain slices",
+    "pos": "n",
+    "g": "f",
+    "note": "Fried green or ripe plantain"
+  },
+  "córdoba": {
+    "en": "córdoba (currency)",
+    "pos": "n",
+    "g": "m",
+    "note": "Nica currency"
+  },
+  "córdobas": {
+    "en": "córdobas",
+    "pos": "n",
+    "g": "m"
+  },
+  "vos": {
+    "en": "you (informal)",
+    "pos": "pron",
+    "note": "Nica uses vos not tú. Changes conjugations"
+  },
+  "sos": {
+    "en": "you are (vos)",
+    "pos": "v",
+    "note": "Vos sos = Tú eres"
+  },
+  "tenés": {
+    "en": "you have (vos)",
+    "pos": "v",
+    "note": "Vos tenés = Tú tienes"
+  },
+  "querés": {
+    "en": "you want (vos)",
+    "pos": "v"
+  },
+  "sabés": {
+    "en": "you know (vos)",
+    "pos": "v"
+  },
+  "podés": {
+    "en": "you can (vos)",
+    "pos": "v"
+  },
+  "venís": {
+    "en": "you come (vos)",
+    "pos": "v"
+  },
+  "hacés": {
+    "en": "you do/make (vos)",
+    "pos": "v"
+  },
+  "decís": {
+    "en": "you say (vos)",
+    "pos": "v"
+  },
+  "mirá": {
+    "en": "look/hey (vos cmd)",
+    "pos": "v",
+    "note": "Common opener: 'Mirá, ...'"
+  },
+  "andá": {
+    "en": "go (vos cmd)",
+    "pos": "v"
+  },
+  "decime": {
+    "en": "tell me (vos cmd)",
+    "pos": "v"
+  },
+  "tomá": {
+    "en": "take/here (vos cmd)",
+    "pos": "v"
+  },
+  "pasá": {
+    "en": "pass/come (vos cmd)",
+    "pos": "v"
+  },
+  "esperá": {
+    "en": "wait (vos cmd)",
+    "pos": "v"
+  },
+  "sentate": {
+    "en": "sit down (vos cmd)",
+    "pos": "v"
+  },
+  "comé": {
+    "en": "eat (vos cmd)",
+    "pos": "v"
+  },
+  "vení": {
+    "en": "come (vos cmd)",
+    "pos": "v"
+  },
+  "yo": {
+    "en": "I/me",
+    "pos": "pron"
+  },
+  "él": {
+    "en": "he/him",
+    "pos": "pron"
+  },
+  "ella": {
+    "en": "she/her",
+    "pos": "pron"
+  },
+  "nosotros": {
+    "en": "we/us",
+    "pos": "pron"
+  },
+  "ellos": {
+    "en": "they/them",
+    "pos": "pron"
+  },
+  "ellas": {
+    "en": "they/them (f)",
+    "pos": "pron"
+  },
+  "me": {
+    "en": "me/myself",
+    "pos": "pron"
+  },
+  "te": {
+    "en": "you/yourself",
+    "pos": "pron"
+  },
+  "se": {
+    "en": "himself/herself",
+    "pos": "pron"
+  },
+  "le": {
+    "en": "to him/her",
+    "pos": "pron"
+  },
+  "les": {
+    "en": "to them",
+    "pos": "pron"
+  },
+  "lo": {
+    "en": "him/it",
+    "pos": "pron",
+    "g": "m"
+  },
+  "la": {
+    "en": "the",
+    "pos": "art",
+    "g": "f"
+  },
+  "los": {
+    "en": "the (pl)",
+    "pos": "art",
+    "g": "m"
+  },
+  "las": {
+    "en": "the (pl)",
+    "pos": "art",
+    "g": "f"
+  },
+  "nos": {
+    "en": "us/ourselves",
+    "pos": "pron"
+  },
+  "mi": {
+    "en": "my",
+    "pos": "adj"
+  },
+  "mis": {
+    "en": "my (pl)",
+    "pos": "adj"
+  },
+  "tu": {
+    "en": "your",
+    "pos": "adj"
+  },
+  "tus": {
+    "en": "your (pl)",
+    "pos": "adj"
+  },
+  "su": {
+    "en": "his/her/your/their",
+    "pos": "adj"
+  },
+  "sus": {
+    "en": "their (pl)",
+    "pos": "adj"
+  },
+  "nuestro": {
+    "en": "our",
+    "pos": "adj",
+    "g": "m"
+  },
+  "nuestra": {
+    "en": "our (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "el": {
+    "en": "the",
+    "pos": "art",
+    "g": "m"
+  },
+  "un": {
+    "en": "a/one",
+    "pos": "art",
+    "g": "m"
+  },
+  "una": {
+    "en": "a/one",
+    "pos": "art",
+    "g": "f"
+  },
+  "unos": {
+    "en": "some",
+    "pos": "art",
+    "g": "m"
+  },
+  "unas": {
+    "en": "some",
+    "pos": "art",
+    "g": "f"
+  },
+  "ser": {
+    "en": "to be (permanent)",
+    "pos": "v",
+    "note": "Identity/origin/profession"
+  },
+  "soy": {
+    "en": "I am",
+    "pos": "v"
+  },
+  "es": {
+    "en": "is",
+    "pos": "v"
+  },
+  "son": {
+    "en": "are (they)",
+    "pos": "v"
+  },
+  "somos": {
+    "en": "we are",
+    "pos": "v"
+  },
+  "era": {
+    "en": "was (ser)",
+    "pos": "v"
+  },
+  "fue": {
+    "en": "was/went",
+    "pos": "v"
+  },
+  "estar": {
+    "en": "to be (temp/location)",
+    "pos": "v",
+    "note": "Mood/state/location"
+  },
+  "estoy": {
+    "en": "I am (state)",
+    "pos": "v"
+  },
+  "está": {
+    "en": "is (state)",
+    "pos": "v"
+  },
+  "están": {
+    "en": "are (state)",
+    "pos": "v"
+  },
+  "estás": {
+    "en": "you are (state)",
+    "pos": "v"
+  },
+  "estamos": {
+    "en": "we are (state)",
+    "pos": "v"
+  },
+  "tener": {
+    "en": "to have",
+    "pos": "v",
+    "note": "Also: age (tengo 25 años)"
+  },
+  "tengo": {
+    "en": "I have",
+    "pos": "v"
+  },
+  "tiene": {
+    "en": "has",
+    "pos": "v"
+  },
+  "tienen": {
+    "en": "they have",
+    "pos": "v"
+  },
+  "tenemos": {
+    "en": "we have",
+    "pos": "v"
+  },
+  "tuve": {
+    "en": "I had",
+    "pos": "v"
+  },
+  "hacer": {
+    "en": "to do/make",
+    "pos": "v"
+  },
+  "hago": {
+    "en": "I do/make",
+    "pos": "v"
+  },
+  "hace": {
+    "en": "does/makes/ago",
+    "pos": "v",
+    "note": "'Hace 2 días'=2 days ago"
+  },
+  "hacemos": {
+    "en": "we do/make",
+    "pos": "v"
+  },
+  "hice": {
+    "en": "I did/made",
+    "pos": "v"
+  },
+  "ir": {
+    "en": "to go",
+    "pos": "v",
+    "note": "Irregular: voy,vas,va,vamos,van"
+  },
+  "voy": {
+    "en": "I go",
+    "pos": "v"
+  },
+  "va": {
+    "en": "goes",
+    "pos": "v"
+  },
+  "vamos": {
+    "en": "we go/let's go",
+    "pos": "v"
+  },
+  "van": {
+    "en": "they go",
+    "pos": "v"
+  },
+  "fui": {
+    "en": "I went",
+    "pos": "v"
+  },
+  "poder": {
+    "en": "to be able/can",
+    "pos": "v"
+  },
+  "puedo": {
+    "en": "I can",
+    "pos": "v"
+  },
+  "puede": {
+    "en": "can (he/she)",
+    "pos": "v"
+  },
+  "pueden": {
+    "en": "they can",
+    "pos": "v"
+  },
+  "podemos": {
+    "en": "we can",
+    "pos": "v"
+  },
+  "querer": {
+    "en": "to want/to love",
+    "pos": "v"
+  },
+  "quiero": {
+    "en": "I want",
+    "pos": "v"
+  },
+  "quiere": {
+    "en": "wants",
+    "pos": "v"
+  },
+  "queremos": {
+    "en": "we want",
+    "pos": "v"
+  },
+  "decir": {
+    "en": "to say/tell",
+    "pos": "v"
+  },
+  "digo": {
+    "en": "I say",
+    "pos": "v"
+  },
+  "dice": {
+    "en": "says",
+    "pos": "v"
+  },
+  "dicen": {
+    "en": "they say",
+    "pos": "v"
+  },
+  "dije": {
+    "en": "I said",
+    "pos": "v"
+  },
+  "dar": {
+    "en": "to give",
+    "pos": "v"
+  },
+  "doy": {
+    "en": "I give",
+    "pos": "v"
+  },
+  "da": {
+    "en": "gives",
+    "pos": "v"
+  },
+  "dan": {
+    "en": "they give",
+    "pos": "v"
+  },
+  "di": {
+    "en": "I gave",
+    "pos": "v"
+  },
+  "saber": {
+    "en": "to know (facts)",
+    "pos": "v",
+    "note": "Facts/skills. Conocer=people/places"
+  },
+  "sé": {
+    "en": "I know",
+    "pos": "v"
+  },
+  "sabe": {
+    "en": "knows",
+    "pos": "v"
+  },
+  "sabemos": {
+    "en": "we know",
+    "pos": "v"
+  },
+  "conocer": {
+    "en": "to know (person/place)",
+    "pos": "v"
+  },
+  "conozco": {
+    "en": "I know (someone)",
+    "pos": "v"
+  },
+  "conocen": {
+    "en": "they know",
+    "pos": "v"
+  },
+  "ver": {
+    "en": "to see",
+    "pos": "v"
+  },
+  "veo": {
+    "en": "I see",
+    "pos": "v"
+  },
+  "ve": {
+    "en": "sees",
+    "pos": "v"
+  },
+  "vi": {
+    "en": "I saw",
+    "pos": "v"
+  },
+  "hablar": {
+    "en": "to speak/talk",
+    "pos": "v"
+  },
+  "hablo": {
+    "en": "I speak",
+    "pos": "v"
+  },
+  "habla": {
+    "en": "speaks",
+    "pos": "v"
+  },
+  "hablamos": {
+    "en": "we speak",
+    "pos": "v"
+  },
+  "hablé": {
+    "en": "I spoke",
+    "pos": "v"
+  },
+  "comer": {
+    "en": "to eat",
+    "pos": "v"
+  },
+  "como": {
+    "en": "like/as",
+    "pos": "conj"
+  },
+  "come": {
+    "en": "eats",
+    "pos": "v"
+  },
+  "comemos": {
+    "en": "we eat",
+    "pos": "v"
+  },
+  "comí": {
+    "en": "I ate",
+    "pos": "v"
+  },
+  "vivir": {
+    "en": "to live",
+    "pos": "v"
+  },
+  "vivo": {
+    "en": "I live",
+    "pos": "v"
+  },
+  "vive": {
+    "en": "lives",
+    "pos": "v"
+  },
+  "vivimos": {
+    "en": "we live",
+    "pos": "v"
+  },
+  "viví": {
+    "en": "I lived",
+    "pos": "v"
+  },
+  "llegar": {
+    "en": "to arrive",
+    "pos": "v"
+  },
+  "llego": {
+    "en": "I arrive",
+    "pos": "v"
+  },
+  "llega": {
+    "en": "arrives",
+    "pos": "v"
+  },
+  "llegué": {
+    "en": "I arrived",
+    "pos": "v"
+  },
+  "salir": {
+    "en": "to leave/go out",
+    "pos": "v"
+  },
+  "salgo": {
+    "en": "I leave",
+    "pos": "v"
+  },
+  "sale": {
+    "en": "leaves",
+    "pos": "v"
+  },
+  "venir": {
+    "en": "to come",
+    "pos": "v"
+  },
+  "vengo": {
+    "en": "I come",
+    "pos": "v"
+  },
+  "viene": {
+    "en": "comes",
+    "pos": "v"
+  },
+  "vienen": {
+    "en": "they come",
+    "pos": "v"
+  },
+  "vine": {
+    "en": "I came",
+    "pos": "v"
+  },
+  "tomar": {
+    "en": "to take/drink",
+    "pos": "v",
+    "note": "In Nica: to drink"
+  },
+  "tomo": {
+    "en": "I take/drink",
+    "pos": "v"
+  },
+  "comprar": {
+    "en": "to buy",
+    "pos": "v"
+  },
+  "compro": {
+    "en": "I buy",
+    "pos": "v"
+  },
+  "vender": {
+    "en": "to sell",
+    "pos": "v"
+  },
+  "venden": {
+    "en": "they sell",
+    "pos": "v"
+  },
+  "pagar": {
+    "en": "to pay",
+    "pos": "v"
+  },
+  "pago": {
+    "en": "I pay",
+    "pos": "v"
+  },
+  "buscar": {
+    "en": "to look for",
+    "pos": "v"
+  },
+  "busco": {
+    "en": "I look for",
+    "pos": "v"
+  },
+  "encontrar": {
+    "en": "to find",
+    "pos": "v"
+  },
+  "encuentro": {
+    "en": "I find",
+    "pos": "v"
+  },
+  "encuentra": {
+    "en": "finds",
+    "pos": "v"
+  },
+  "necesitar": {
+    "en": "to need",
+    "pos": "v"
+  },
+  "necesito": {
+    "en": "I need",
+    "pos": "v"
+  },
+  "trabajar": {
+    "en": "to work",
+    "pos": "v"
+  },
+  "trabajo": {
+    "en": "work/job",
+    "pos": "n",
+    "g": "m"
+  },
+  "estudiar": {
+    "en": "to study",
+    "pos": "v"
+  },
+  "aprender": {
+    "en": "to learn",
+    "pos": "v"
+  },
+  "enseñar": {
+    "en": "to teach",
+    "pos": "v"
+  },
+  "entender": {
+    "en": "to understand",
+    "pos": "v"
+  },
+  "entiendo": {
+    "en": "I understand",
+    "pos": "v"
+  },
+  "entiende": {
+    "en": "understands",
+    "pos": "v"
+  },
+  "entendés": {
+    "en": "you understand (vos)",
+    "pos": "v"
+  },
+  "pensar": {
+    "en": "to think",
+    "pos": "v"
+  },
+  "pienso": {
+    "en": "I think",
+    "pos": "v"
+  },
+  "creer": {
+    "en": "to believe/think",
+    "pos": "v"
+  },
+  "creo": {
+    "en": "I believe/think",
+    "pos": "v"
+  },
+  "sentir": {
+    "en": "to feel",
+    "pos": "v"
+  },
+  "siento": {
+    "en": "I feel",
+    "pos": "v"
+  },
+  "llamar": {
+    "en": "to call",
+    "pos": "v"
+  },
+  "llamo": {
+    "en": "I call",
+    "pos": "v"
+  },
+  "llama": {
+    "en": "calls/is named",
+    "pos": "v"
+  },
+  "esperar": {
+    "en": "to wait/hope",
+    "pos": "v"
+  },
+  "ayudar": {
+    "en": "to help",
+    "pos": "v"
+  },
+  "ayuda": {
+    "en": "help/helps",
+    "pos": "v/n",
+    "g": "f"
+  },
+  "preguntar": {
+    "en": "to ask",
+    "pos": "v"
+  },
+  "pregunta": {
+    "en": "question",
+    "pos": "n",
+    "g": "f"
+  },
+  "responder": {
+    "en": "to answer",
+    "pos": "v"
+  },
+  "explicar": {
+    "en": "to explain",
+    "pos": "v"
+  },
+  "dormir": {
+    "en": "to sleep",
+    "pos": "v"
+  },
+  "duermo": {
+    "en": "I sleep",
+    "pos": "v"
+  },
+  "descansar": {
+    "en": "to rest",
+    "pos": "v"
+  },
+  "caminar": {
+    "en": "to walk",
+    "pos": "v"
+  },
+  "correr": {
+    "en": "to run",
+    "pos": "v"
+  },
+  "jugar": {
+    "en": "to play",
+    "pos": "v"
+  },
+  "leer": {
+    "en": "to read",
+    "pos": "v"
+  },
+  "escribir": {
+    "en": "to write",
+    "pos": "v"
+  },
+  "abrir": {
+    "en": "to open",
+    "pos": "v"
+  },
+  "cerrar": {
+    "en": "to close",
+    "pos": "v"
+  },
+  "poner": {
+    "en": "to put",
+    "pos": "v"
+  },
+  "pongo": {
+    "en": "I put",
+    "pos": "v"
+  },
+  "traer": {
+    "en": "to bring",
+    "pos": "v"
+  },
+  "trae": {
+    "en": "brings",
+    "pos": "v"
+  },
+  "llevar": {
+    "en": "to carry/wear",
+    "pos": "v"
+  },
+  "dejar": {
+    "en": "to leave/let",
+    "pos": "v"
+  },
+  "pasar": {
+    "en": "to pass/happen",
+    "pos": "v"
+  },
+  "pasa": {
+    "en": "happens/passes",
+    "pos": "v"
+  },
+  "quedar": {
+    "en": "to stay/remain",
+    "pos": "v"
+  },
+  "gustar": {
+    "en": "to like (please)",
+    "pos": "v",
+    "note": "Me gusta = I like (it pleases me)"
+  },
+  "gusta": {
+    "en": "pleases",
+    "pos": "v"
+  },
+  "gustan": {
+    "en": "please (pl)",
+    "pos": "v"
+  },
+  "parecer": {
+    "en": "to seem",
+    "pos": "v"
+  },
+  "parece": {
+    "en": "seems",
+    "pos": "v",
+    "note": "¿Qué te parece? = What do you think?"
+  },
+  "cambiar": {
+    "en": "to change",
+    "pos": "v"
+  },
+  "empezar": {
+    "en": "to begin/start",
+    "pos": "v"
+  },
+  "terminar": {
+    "en": "to finish",
+    "pos": "v"
+  },
+  "tratar": {
+    "en": "to try/treat",
+    "pos": "v"
+  },
+  "usar": {
+    "en": "to use",
+    "pos": "v"
+  },
+  "perder": {
+    "en": "to lose",
+    "pos": "v"
+  },
+  "ganar": {
+    "en": "to win/earn",
+    "pos": "v"
+  },
+  "recibir": {
+    "en": "to receive",
+    "pos": "v"
+  },
+  "mandar": {
+    "en": "to send",
+    "pos": "v"
+  },
+  "pedir": {
+    "en": "to ask for/order",
+    "pos": "v"
+  },
+  "pido": {
+    "en": "I ask for/order",
+    "pos": "v"
+  },
+  "seguir": {
+    "en": "to follow/continue",
+    "pos": "v"
+  },
+  "sigo": {
+    "en": "I follow",
+    "pos": "v"
+  },
+  "morir": {
+    "en": "to die",
+    "pos": "v"
+  },
+  "nacer": {
+    "en": "to be born",
+    "pos": "v"
+  },
+  "hombre": {
+    "en": "man",
+    "pos": "n",
+    "g": "m"
+  },
+  "mujer": {
+    "en": "woman",
+    "pos": "n",
+    "g": "f"
+  },
+  "niño": {
+    "en": "child/boy",
+    "pos": "n",
+    "g": "m"
+  },
+  "niña": {
+    "en": "girl",
+    "pos": "n",
+    "g": "f"
+  },
+  "niños": {
+    "en": "children",
+    "pos": "n",
+    "g": "m"
+  },
+  "persona": {
+    "en": "person",
+    "pos": "n",
+    "g": "f"
+  },
+  "personas": {
+    "en": "people",
+    "pos": "n",
+    "g": "f"
+  },
+  "gente": {
+    "en": "people",
+    "pos": "n",
+    "g": "f",
+    "note": "Always singular: la gente es..."
+  },
+  "amigo": {
+    "en": "friend",
+    "pos": "n",
+    "g": "m"
+  },
+  "amiga": {
+    "en": "friend (f)",
+    "pos": "n",
+    "g": "f"
+  },
+  "amigos": {
+    "en": "friends",
+    "pos": "n",
+    "g": "m"
+  },
+  "familia": {
+    "en": "family",
+    "pos": "n",
+    "g": "f"
+  },
+  "padre": {
+    "en": "father",
+    "pos": "n",
+    "g": "m"
+  },
+  "madre": {
+    "en": "mother",
+    "pos": "n",
+    "g": "f"
+  },
+  "hijo": {
+    "en": "son",
+    "pos": "n",
+    "g": "m"
+  },
+  "hija": {
+    "en": "daughter",
+    "pos": "n",
+    "g": "f"
+  },
+  "hermano": {
+    "en": "brother/bro",
+    "pos": "n",
+    "g": "m",
+    "note": "Also casual 'bro' in Nica"
+  },
+  "hermana": {
+    "en": "sister",
+    "pos": "n",
+    "g": "f"
+  },
+  "esposo": {
+    "en": "husband",
+    "pos": "n",
+    "g": "m"
+  },
+  "esposa": {
+    "en": "wife",
+    "pos": "n",
+    "g": "f"
+  },
+  "abuelo": {
+    "en": "grandfather",
+    "pos": "n",
+    "g": "m"
+  },
+  "abuela": {
+    "en": "grandmother",
+    "pos": "n",
+    "g": "f"
+  },
+  "tío": {
+    "en": "uncle",
+    "pos": "n",
+    "g": "m"
+  },
+  "tía": {
+    "en": "aunt",
+    "pos": "n",
+    "g": "f"
+  },
+  "primo": {
+    "en": "cousin",
+    "pos": "n",
+    "g": "m"
+  },
+  "prima": {
+    "en": "cousin (f)",
+    "pos": "n",
+    "g": "f"
+  },
+  "nombre": {
+    "en": "name",
+    "pos": "n",
+    "g": "m"
+  },
+  "casa": {
+    "en": "house/home",
+    "pos": "n",
+    "g": "f"
+  },
+  "calle": {
+    "en": "street",
+    "pos": "n",
+    "g": "f"
+  },
+  "calles": {
+    "en": "streets",
+    "pos": "n",
+    "g": "f"
+  },
+  "ciudad": {
+    "en": "city",
+    "pos": "n",
+    "g": "f"
+  },
+  "país": {
+    "en": "country",
+    "pos": "n",
+    "g": "m"
+  },
+  "lugar": {
+    "en": "place",
+    "pos": "n",
+    "g": "m"
+  },
+  "mundo": {
+    "en": "world",
+    "pos": "n",
+    "g": "m"
+  },
+  "tierra": {
+    "en": "earth/land",
+    "pos": "n",
+    "g": "f"
+  },
+  "agua": {
+    "en": "water",
+    "pos": "n",
+    "g": "f"
+  },
+  "comida": {
+    "en": "food/meal",
+    "pos": "n",
+    "g": "f"
+  },
+  "carne": {
+    "en": "meat",
+    "pos": "n",
+    "g": "f"
+  },
+  "pollo": {
+    "en": "chicken",
+    "pos": "n",
+    "g": "m"
+  },
+  "pescado": {
+    "en": "fish (food)",
+    "pos": "n",
+    "g": "m"
+  },
+  "arroz": {
+    "en": "rice",
+    "pos": "n",
+    "g": "m"
+  },
+  "frijoles": {
+    "en": "beans",
+    "pos": "n",
+    "g": "m"
+  },
+  "queso": {
+    "en": "cheese",
+    "pos": "n",
+    "g": "m"
+  },
+  "pan": {
+    "en": "bread",
+    "pos": "n",
+    "g": "m"
+  },
+  "leche": {
+    "en": "milk",
+    "pos": "n",
+    "g": "f"
+  },
+  "café": {
+    "en": "coffee",
+    "pos": "n",
+    "g": "m"
+  },
+  "cerveza": {
+    "en": "beer",
+    "pos": "n",
+    "g": "f"
+  },
+  "fruta": {
+    "en": "fruit",
+    "pos": "n",
+    "g": "f"
+  },
+  "verdura": {
+    "en": "vegetable",
+    "pos": "n",
+    "g": "f"
+  },
+  "plato": {
+    "en": "plate/dish",
+    "pos": "n",
+    "g": "m"
+  },
+  "vaso": {
+    "en": "glass/cup",
+    "pos": "n",
+    "g": "m"
+  },
+  "mesa": {
+    "en": "table",
+    "pos": "n",
+    "g": "f"
+  },
+  "silla": {
+    "en": "chair",
+    "pos": "n",
+    "g": "f"
+  },
+  "cama": {
+    "en": "bed",
+    "pos": "n",
+    "g": "f"
+  },
+  "puerta": {
+    "en": "door",
+    "pos": "n",
+    "g": "f"
+  },
+  "ventana": {
+    "en": "window",
+    "pos": "n",
+    "g": "f"
+  },
+  "cuarto": {
+    "en": "room",
+    "pos": "n",
+    "g": "m"
+  },
+  "baño": {
+    "en": "bathroom",
+    "pos": "n",
+    "g": "m"
+  },
+  "cocina": {
+    "en": "kitchen",
+    "pos": "n",
+    "g": "f"
+  },
+  "tienda": {
+    "en": "store/shop",
+    "pos": "n",
+    "g": "f"
+  },
+  "mercado": {
+    "en": "market",
+    "pos": "n",
+    "g": "m"
+  },
+  "escuela": {
+    "en": "school",
+    "pos": "n",
+    "g": "f"
+  },
+  "iglesia": {
+    "en": "church",
+    "pos": "n",
+    "g": "f"
+  },
+  "hospital": {
+    "en": "hospital",
+    "pos": "n",
+    "g": "m"
+  },
+  "farmacia": {
+    "en": "pharmacy",
+    "pos": "n",
+    "g": "f"
+  },
+  "banco": {
+    "en": "bank/bench",
+    "pos": "n",
+    "g": "m"
+  },
+  "dinero": {
+    "en": "money",
+    "pos": "n",
+    "g": "m"
+  },
+  "precio": {
+    "en": "price",
+    "pos": "n",
+    "g": "m"
+  },
+  "precios": {
+    "en": "prices",
+    "pos": "n",
+    "g": "m"
+  },
+  "bolsa": {
+    "en": "bag",
+    "pos": "n",
+    "g": "f"
+  },
+  "ropa": {
+    "en": "clothing",
+    "pos": "n",
+    "g": "f"
+  },
+  "zapatos": {
+    "en": "shoes",
+    "pos": "n",
+    "g": "m"
+  },
+  "camisa": {
+    "en": "shirt",
+    "pos": "n",
+    "g": "f"
+  },
+  "teléfono": {
+    "en": "phone",
+    "pos": "n",
+    "g": "m"
+  },
+  "carro": {
+    "en": "car",
+    "pos": "n",
+    "g": "m"
+  },
+  "bus": {
+    "en": "bus",
+    "pos": "n",
+    "g": "m"
+  },
+  "taxi": {
+    "en": "taxi",
+    "pos": "n",
+    "g": "m"
+  },
+  "chofer": {
+    "en": "driver",
+    "pos": "n",
+    "g": "m"
+  },
+  "problema": {
+    "en": "problem",
+    "pos": "n",
+    "g": "m",
+    "note": "Masculine despite -a ending"
+  },
+  "cosa": {
+    "en": "thing",
+    "pos": "n",
+    "g": "f"
+  },
+  "parte": {
+    "en": "part",
+    "pos": "n",
+    "g": "f"
+  },
+  "lado": {
+    "en": "side",
+    "pos": "n",
+    "g": "m"
+  },
+  "forma": {
+    "en": "way/form",
+    "pos": "n",
+    "g": "f"
+  },
+  "vida": {
+    "en": "life",
+    "pos": "n",
+    "g": "f"
+  },
+  "tiempo": {
+    "en": "time/weather",
+    "pos": "n",
+    "g": "m"
+  },
+  "hora": {
+    "en": "hour/time",
+    "pos": "n",
+    "g": "f"
+  },
+  "día": {
+    "en": "day",
+    "pos": "n",
+    "g": "m",
+    "note": "Masculine despite -a ending"
+  },
+  "días": {
+    "en": "days",
+    "pos": "n",
+    "g": "m"
+  },
+  "noche": {
+    "en": "night",
+    "pos": "n",
+    "g": "f"
+  },
+  "mañana": {
+    "en": "tomorrow",
+    "pos": "adv"
+  },
+  "tarde": {
+    "en": "afternoon/late",
+    "pos": "n/adj",
+    "g": "f"
+  },
+  "semana": {
+    "en": "week",
+    "pos": "n",
+    "g": "f"
+  },
+  "mes": {
+    "en": "month",
+    "pos": "n",
+    "g": "m"
+  },
+  "año": {
+    "en": "year",
+    "pos": "n",
+    "g": "m"
+  },
+  "años": {
+    "en": "years",
+    "pos": "n",
+    "g": "m"
+  },
+  "vez": {
+    "en": "time (occurrence)",
+    "pos": "n",
+    "g": "f",
+    "note": "Otra vez=again"
+  },
+  "veces": {
+    "en": "times",
+    "pos": "n",
+    "g": "f"
+  },
+  "libro": {
+    "en": "book",
+    "pos": "n",
+    "g": "m"
+  },
+  "palabra": {
+    "en": "word",
+    "pos": "n",
+    "g": "f"
+  },
+  "historia": {
+    "en": "story/history",
+    "pos": "n",
+    "g": "f"
+  },
+  "respuesta": {
+    "en": "answer",
+    "pos": "n",
+    "g": "f"
+  },
+  "idea": {
+    "en": "idea",
+    "pos": "n",
+    "g": "f"
+  },
+  "razón": {
+    "en": "reason",
+    "pos": "n",
+    "g": "f",
+    "note": "Tiene razón=is right"
+  },
+  "verdad": {
+    "en": "truth",
+    "pos": "n",
+    "g": "f",
+    "note": "¿Verdad?=right?"
+  },
+  "lengua": {
+    "en": "language/tongue",
+    "pos": "n",
+    "g": "f"
+  },
+  "español": {
+    "en": "Spanish",
+    "pos": "n",
+    "g": "m"
+  },
+  "inglés": {
+    "en": "English",
+    "pos": "n",
+    "g": "m"
+  },
+  "cabeza": {
+    "en": "head",
+    "pos": "n",
+    "g": "f"
+  },
+  "mano": {
+    "en": "hand",
+    "pos": "n",
+    "g": "f",
+    "note": "Feminine despite -o ending"
+  },
+  "ojo": {
+    "en": "eye",
+    "pos": "n",
+    "g": "m"
+  },
+  "ojos": {
+    "en": "eyes",
+    "pos": "n",
+    "g": "m"
+  },
+  "boca": {
+    "en": "mouth",
+    "pos": "n",
+    "g": "f"
+  },
+  "cuerpo": {
+    "en": "body",
+    "pos": "n",
+    "g": "m"
+  },
+  "estómago": {
+    "en": "stomach",
+    "pos": "n",
+    "g": "m"
+  },
+  "corazón": {
+    "en": "heart",
+    "pos": "n",
+    "g": "m"
+  },
+  "dolor": {
+    "en": "pain",
+    "pos": "n",
+    "g": "m",
+    "note": "Tengo dolor de...=I have a pain in..."
+  },
+  "fiebre": {
+    "en": "fever",
+    "pos": "n",
+    "g": "f"
+  },
+  "medicina": {
+    "en": "medicine",
+    "pos": "n",
+    "g": "f"
+  },
+  "pastilla": {
+    "en": "pill",
+    "pos": "n",
+    "g": "f"
+  },
+  "pastillas": {
+    "en": "pills",
+    "pos": "n",
+    "g": "f"
+  },
+  "médico": {
+    "en": "doctor",
+    "pos": "n",
+    "g": "m"
+  },
+  "sol": {
+    "en": "sun",
+    "pos": "n",
+    "g": "m"
+  },
+  "lluvia": {
+    "en": "rain",
+    "pos": "n",
+    "g": "f"
+  },
+  "lago": {
+    "en": "lake",
+    "pos": "n",
+    "g": "m"
+  },
+  "montaña": {
+    "en": "mountain",
+    "pos": "n",
+    "g": "f"
+  },
+  "playa": {
+    "en": "beach",
+    "pos": "n",
+    "g": "f"
+  },
+  "mar": {
+    "en": "sea",
+    "pos": "n",
+    "g": "m"
+  },
+  "río": {
+    "en": "river",
+    "pos": "n",
+    "g": "m"
+  },
+  "árbol": {
+    "en": "tree",
+    "pos": "n",
+    "g": "m"
+  },
+  "perro": {
+    "en": "dog",
+    "pos": "n",
+    "g": "m"
+  },
+  "gato": {
+    "en": "cat",
+    "pos": "n",
+    "g": "m"
+  },
+  "gallo": {
+    "en": "rooster",
+    "pos": "n",
+    "g": "m"
+  },
+  "pinto": {
+    "en": "painted/spotted",
+    "pos": "adj",
+    "g": "m"
+  },
+  "comedor": {
+    "en": "dining area",
+    "pos": "n",
+    "g": "m"
+  },
+  "cobrador": {
+    "en": "fare collector",
+    "pos": "n",
+    "g": "m"
+  },
+  "parada": {
+    "en": "bus stop",
+    "pos": "n",
+    "g": "f"
+  },
+  "esquina": {
+    "en": "corner",
+    "pos": "n",
+    "g": "f"
+  },
+  "gusto": {
+    "en": "pleasure",
+    "pos": "n",
+    "g": "m",
+    "note": "Mucho gusto=nice to meet you"
+  },
+  "sabor": {
+    "en": "flavor",
+    "pos": "n",
+    "g": "m"
+  },
+  "sonrisa": {
+    "en": "smile",
+    "pos": "n",
+    "g": "f"
+  },
+  "ruido": {
+    "en": "noise",
+    "pos": "n",
+    "g": "m"
+  },
+  "música": {
+    "en": "music",
+    "pos": "n",
+    "g": "f"
+  },
+  "fiesta": {
+    "en": "party",
+    "pos": "n",
+    "g": "f"
+  },
+  "juego": {
+    "en": "game",
+    "pos": "n",
+    "g": "m"
+  },
+  "doña": {
+    "en": "Doña (title)",
+    "pos": "n",
+    "g": "f",
+    "note": "Respectful title for older women"
+  },
+  "don": {
+    "en": "Don (title)",
+    "pos": "n",
+    "g": "m",
+    "note": "Respectful title for older men"
+  },
+  "señora": {
+    "en": "ma'am/Mrs.",
+    "pos": "n",
+    "g": "f"
+  },
+  "señor": {
+    "en": "sir/Mr.",
+    "pos": "n",
+    "g": "m"
+  },
+  "bueno": {
+    "en": "good",
+    "pos": "adj",
+    "g": "m"
+  },
+  "buena": {
+    "en": "good (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "buenos": {
+    "en": "good (pl)",
+    "pos": "adj",
+    "g": "m"
+  },
+  "malo": {
+    "en": "bad",
+    "pos": "adj",
+    "g": "m"
+  },
+  "mala": {
+    "en": "bad (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "grande": {
+    "en": "big/large",
+    "pos": "adj"
+  },
+  "gran": {
+    "en": "great/big",
+    "pos": "adj"
+  },
+  "pequeño": {
+    "en": "small",
+    "pos": "adj",
+    "g": "m"
+  },
+  "nuevo": {
+    "en": "new",
+    "pos": "adj",
+    "g": "m"
+  },
+  "nueva": {
+    "en": "new (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "viejo": {
+    "en": "old",
+    "pos": "adj",
+    "g": "m"
+  },
+  "vieja": {
+    "en": "old (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "joven": {
+    "en": "young",
+    "pos": "adj"
+  },
+  "bonito": {
+    "en": "pretty/nice",
+    "pos": "adj",
+    "g": "m"
+  },
+  "bonita": {
+    "en": "pretty (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "feo": {
+    "en": "ugly",
+    "pos": "adj",
+    "g": "m"
+  },
+  "largo": {
+    "en": "long",
+    "pos": "adj",
+    "g": "m"
+  },
+  "corto": {
+    "en": "short (length)",
+    "pos": "adj",
+    "g": "m"
+  },
+  "alto": {
+    "en": "tall/high",
+    "pos": "adj",
+    "g": "m"
+  },
+  "bajo": {
+    "en": "short/low",
+    "pos": "adj",
+    "g": "m"
+  },
+  "gordo": {
+    "en": "fat",
+    "pos": "adj",
+    "g": "m"
+  },
+  "flaco": {
+    "en": "thin/skinny",
+    "pos": "adj",
+    "g": "m"
+  },
+  "fuerte": {
+    "en": "strong",
+    "pos": "adj"
+  },
+  "débil": {
+    "en": "weak",
+    "pos": "adj"
+  },
+  "rápido": {
+    "en": "quickly",
+    "pos": "adv"
+  },
+  "lento": {
+    "en": "slow",
+    "pos": "adj"
+  },
+  "caliente": {
+    "en": "hot",
+    "pos": "adj"
+  },
+  "frío": {
+    "en": "cold",
+    "pos": "adj",
+    "g": "m"
+  },
+  "rico": {
+    "en": "rich/delicious",
+    "pos": "adj",
+    "g": "m",
+    "note": "Also means 'delicious' for food"
+  },
+  "pobre": {
+    "en": "poor",
+    "pos": "adj"
+  },
+  "barato": {
+    "en": "cheap",
+    "pos": "adj",
+    "g": "m"
+  },
+  "caro": {
+    "en": "expensive",
+    "pos": "adj",
+    "g": "m"
+  },
+  "fácil": {
+    "en": "easy",
+    "pos": "adj"
+  },
+  "difícil": {
+    "en": "difficult",
+    "pos": "adj"
+  },
+  "mismo": {
+    "en": "same/self",
+    "pos": "adj",
+    "g": "m"
+  },
+  "otro": {
+    "en": "other/another",
+    "pos": "adj",
+    "g": "m"
+  },
+  "otra": {
+    "en": "other (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "primero": {
+    "en": "first",
+    "pos": "adj",
+    "g": "m"
+  },
+  "primera": {
+    "en": "first (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "último": {
+    "en": "last",
+    "pos": "adj",
+    "g": "m"
+  },
+  "mejor": {
+    "en": "better/best",
+    "pos": "adj"
+  },
+  "peor": {
+    "en": "worse/worst",
+    "pos": "adj"
+  },
+  "favorito": {
+    "en": "favorite",
+    "pos": "adj",
+    "g": "m"
+  },
+  "increíble": {
+    "en": "incredible",
+    "pos": "adj"
+  },
+  "importante": {
+    "en": "important",
+    "pos": "adj"
+  },
+  "necesario": {
+    "en": "necessary",
+    "pos": "adj",
+    "g": "m"
+  },
+  "posible": {
+    "en": "possible",
+    "pos": "adj"
+  },
+  "seguro": {
+    "en": "safe/sure",
+    "pos": "adj",
+    "g": "m"
+  },
+  "listo": {
+    "en": "ready/smart",
+    "pos": "adj",
+    "g": "m"
+  },
+  "contento": {
+    "en": "happy/content",
+    "pos": "adj",
+    "g": "m"
+  },
+  "triste": {
+    "en": "sad",
+    "pos": "adj"
+  },
+  "enfermo": {
+    "en": "sick",
+    "pos": "adj",
+    "g": "m"
+  },
+  "enferma": {
+    "en": "sick (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "cansado": {
+    "en": "tired",
+    "pos": "adj",
+    "g": "m"
+  },
+  "ocupado": {
+    "en": "busy",
+    "pos": "adj",
+    "g": "m"
+  },
+  "solo": {
+    "en": "only",
+    "pos": "adv"
+  },
+  "lleno": {
+    "en": "full",
+    "pos": "adj",
+    "g": "m"
+  },
+  "vacío": {
+    "en": "empty",
+    "pos": "adj",
+    "g": "m"
+  },
+  "abierto": {
+    "en": "open",
+    "pos": "adj",
+    "g": "m"
+  },
+  "cerrado": {
+    "en": "closed",
+    "pos": "adj",
+    "g": "m"
+  },
+  "amable": {
+    "en": "kind/friendly",
+    "pos": "adj"
+  },
+  "simpático": {
+    "en": "nice/likable",
+    "pos": "adj",
+    "g": "m"
+  },
+  "frito": {
+    "en": "fried",
+    "pos": "adj",
+    "g": "m"
+  },
+  "muy": {
+    "en": "very",
+    "pos": "adv"
+  },
+  "bien": {
+    "en": "well/good",
+    "pos": "adv"
+  },
+  "mal": {
+    "en": "bad/badly",
+    "pos": "adv"
+  },
+  "mucho": {
+    "en": "much/a lot",
+    "pos": "adv"
+  },
+  "poco": {
+    "en": "little/few",
+    "pos": "adv"
+  },
+  "más": {
+    "en": "more/most",
+    "pos": "adv"
+  },
+  "menos": {
+    "en": "less/least",
+    "pos": "adv"
+  },
+  "ya": {
+    "en": "already/now",
+    "pos": "adv"
+  },
+  "todavía": {
+    "en": "still/yet",
+    "pos": "adv"
+  },
+  "también": {
+    "en": "also/too",
+    "pos": "adv"
+  },
+  "tampoco": {
+    "en": "neither/not either",
+    "pos": "adv"
+  },
+  "siempre": {
+    "en": "always",
+    "pos": "adv"
+  },
+  "nunca": {
+    "en": "never",
+    "pos": "adv"
+  },
+  "ahora": {
+    "en": "now",
+    "pos": "adv"
+  },
+  "hoy": {
+    "en": "today",
+    "pos": "adv"
+  },
+  "ayer": {
+    "en": "yesterday",
+    "pos": "adv"
+  },
+  "después": {
+    "en": "after/later",
+    "pos": "adv"
+  },
+  "antes": {
+    "en": "before",
+    "pos": "adv"
+  },
+  "entonces": {
+    "en": "then/so",
+    "pos": "adv"
+  },
+  "aquí": {
+    "en": "here",
+    "pos": "adv"
+  },
+  "ahí": {
+    "en": "there",
+    "pos": "adv"
+  },
+  "allá": {
+    "en": "over there",
+    "pos": "adv"
+  },
+  "cerca": {
+    "en": "near",
+    "pos": "adv"
+  },
+  "lejos": {
+    "en": "far",
+    "pos": "adv"
+  },
+  "arriba": {
+    "en": "up/above",
+    "pos": "adv",
+    "g": "In Nica: east"
+  },
+  "abajo": {
+    "en": "down/below",
+    "pos": "adv",
+    "g": "In Nica: west"
+  },
+  "dentro": {
+    "en": "inside",
+    "pos": "adv"
+  },
+  "fuera": {
+    "en": "outside",
+    "pos": "adv"
+  },
+  "despacio": {
+    "en": "slowly",
+    "pos": "adv"
+  },
+  "casi": {
+    "en": "almost",
+    "pos": "adv"
+  },
+  "claro": {
+    "en": "of course",
+    "pos": "adv"
+  },
+  "de": {
+    "en": "of/from",
+    "pos": "prep"
+  },
+  "en": {
+    "en": "in/on/at",
+    "pos": "prep"
+  },
+  "con": {
+    "en": "with",
+    "pos": "prep"
+  },
+  "sin": {
+    "en": "without",
+    "pos": "prep"
+  },
+  "por": {
+    "en": "for/by/through",
+    "pos": "prep"
+  },
+  "para": {
+    "en": "for/to",
+    "pos": "prep"
+  },
+  "a": {
+    "en": "to/at",
+    "pos": "prep"
+  },
+  "hasta": {
+    "en": "until/up to",
+    "pos": "prep"
+  },
+  "desde": {
+    "en": "from/since",
+    "pos": "prep"
+  },
+  "entre": {
+    "en": "between",
+    "pos": "prep"
+  },
+  "sobre": {
+    "en": "on/about",
+    "pos": "prep"
+  },
+  "durante": {
+    "en": "during",
+    "pos": "prep"
+  },
+  "hacia": {
+    "en": "toward",
+    "pos": "prep"
+  },
+  "y": {
+    "en": "and",
+    "pos": "conj"
+  },
+  "o": {
+    "en": "or",
+    "pos": "conj"
+  },
+  "pero": {
+    "en": "but",
+    "pos": "conj"
+  },
+  "porque": {
+    "en": "because",
+    "pos": "conj"
+  },
+  "que": {
+    "en": "that/which",
+    "pos": "conj"
+  },
+  "si": {
+    "en": "if",
+    "pos": "conj"
+  },
+  "cuando": {
+    "en": "when",
+    "pos": "conj"
+  },
+  "donde": {
+    "en": "where",
+    "pos": "conj"
+  },
+  "aunque": {
+    "en": "although",
+    "pos": "conj"
+  },
+  "mientras": {
+    "en": "while",
+    "pos": "conj"
+  },
+  "ni": {
+    "en": "neither/nor",
+    "pos": "conj"
+  },
+  "qué": {
+    "en": "what?",
+    "pos": "pron"
+  },
+  "quién": {
+    "en": "who?",
+    "pos": "pron"
+  },
+  "cómo": {
+    "en": "how?",
+    "pos": "adv"
+  },
+  "dónde": {
+    "en": "where?",
+    "pos": "adv"
+  },
+  "cuándo": {
+    "en": "when?",
+    "pos": "adv"
+  },
+  "cuánto": {
+    "en": "how much?",
+    "pos": "adv"
+  },
+  "cuál": {
+    "en": "which?",
+    "pos": "pron"
+  },
+  "por qué": {
+    "en": "why?",
+    "pos": "adv"
+  },
+  "uno": {
+    "en": "one",
+    "pos": "num"
+  },
+  "dos": {
+    "en": "two",
+    "pos": "num"
+  },
+  "tres": {
+    "en": "three",
+    "pos": "num"
+  },
+  "cuatro": {
+    "en": "four",
+    "pos": "num"
+  },
+  "cinco": {
+    "en": "five",
+    "pos": "num"
+  },
+  "seis": {
+    "en": "six",
+    "pos": "num"
+  },
+  "siete": {
+    "en": "seven",
+    "pos": "num"
+  },
+  "ocho": {
+    "en": "eight",
+    "pos": "num"
+  },
+  "nueve": {
+    "en": "nine",
+    "pos": "num"
+  },
+  "diez": {
+    "en": "ten",
+    "pos": "num"
+  },
+  "once": {
+    "en": "eleven",
+    "pos": "num"
+  },
+  "doce": {
+    "en": "twelve",
+    "pos": "num"
+  },
+  "veinte": {
+    "en": "twenty",
+    "pos": "num"
+  },
+  "cien": {
+    "en": "hundred",
+    "pos": "num"
+  },
+  "mil": {
+    "en": "thousand",
+    "pos": "num"
+  },
+  "hola": {
+    "en": "hello",
+    "pos": "intj"
+  },
+  "adiós": {
+    "en": "goodbye",
+    "pos": "intj"
+  },
+  "gracias": {
+    "en": "thank you",
+    "pos": "intj"
+  },
+  "perdón": {
+    "en": "sorry/pardon",
+    "pos": "intj"
+  },
+  "permiso": {
+    "en": "excuse me",
+    "pos": "n",
+    "g": "m",
+    "note": "'Con permiso'=Excuse me (passing)"
+  },
+  "disculpe": {
+    "en": "excuse me (formal)",
+    "pos": "v"
+  },
+  "salud": {
+    "en": "health/bless you",
+    "pos": "n",
+    "g": "f",
+    "note": "Said when sneezing or toasting"
+  },
+  "cuidado": {
+    "en": "careful/watch out",
+    "pos": "n",
+    "g": "m"
+  },
+  "sí": {
+    "en": "yes",
+    "pos": "adv"
+  },
+  "no": {
+    "en": "no/not",
+    "pos": "adv"
+  },
+  "nada": {
+    "en": "nothing/you're welcome",
+    "pos": "pron",
+    "g": "De nada=You're welcome"
+  },
+  "algo": {
+    "en": "something",
+    "pos": "pron"
+  },
+  "alguien": {
+    "en": "someone",
+    "pos": "pron"
+  },
+  "nadie": {
+    "en": "nobody",
+    "pos": "pron"
+  },
+  "cada": {
+    "en": "each/every",
+    "pos": "adj"
+  },
+  "todo": {
+    "en": "all/everything",
+    "pos": "pron",
+    "g": "m"
+  },
+  "todos": {
+    "en": "everyone",
+    "pos": "pron",
+    "g": "m"
+  },
+  "este": {
+    "en": "this",
+    "pos": "adj",
+    "g": "m"
+  },
+  "esta": {
+    "en": "this (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "ese": {
+    "en": "that",
+    "pos": "adj",
+    "g": "m"
+  },
+  "esa": {
+    "en": "that (f)",
+    "pos": "adj",
+    "g": "f"
+  },
+  "eso": {
+    "en": "that (thing)",
+    "pos": "pron"
+  },
+  "estos": {
+    "en": "these",
+    "pos": "adj",
+    "g": "m"
+  },
+  "esos": {
+    "en": "those",
+    "pos": "adj",
+    "g": "m"
+  },
+  "del": {
+    "en": "of the",
+    "pos": "contr"
+  },
+  "al": {
+    "en": "to the",
+    "pos": "contr"
+  },
+  "hay": {
+    "en": "there is/are",
+    "pos": "v"
+  },
+  "favor": {
+    "en": "favor",
+    "pos": "n",
+    "g": "m",
+    "note": "Por favor=please"
+  },
+  "norte": {
+    "en": "north",
+    "pos": "n",
+    "g": "m"
+  },
+  "sur": {
+    "en": "south",
+    "pos": "n",
+    "g": "m"
+  },
+  "derecho": {
+    "en": "straight",
+    "pos": "adv"
+  },
+  "izquierda": {
+    "en": "left",
+    "pos": "n",
+    "g": "f"
+  },
+  "derecha": {
+    "en": "right (dir)",
+    "pos": "n",
+    "g": "f"
+  },
+  "vaya": {
+    "en": "go (subj)",
+    "pos": "v",
+    "note": "Que le vaya bien=Take care"
+  },
+  "almuerzo": {
+    "en": "lunch",
+    "pos": "n",
+    "g": "m"
+  },
+  "arreglar": {
+    "en": "to fix/repair",
+    "pos": "v"
+  },
+  "asiento": {
+    "en": "seat",
+    "pos": "n",
+    "g": "m"
+  },
+  "bajar": {
+    "en": "to get off/go down",
+    "pos": "v"
+  },
+  "chip": {
+    "en": "SIM card",
+    "pos": "n",
+    "g": "m",
+    "note": "Nica word for a phone SIM card"
+  },
+  "cielo": {
+    "en": "sky/heaven",
+    "pos": "n",
+    "g": "m"
+  },
+  "cuajada": {
+    "en": "fresh cheese",
+    "pos": "n",
+    "g": "f",
+    "note": "Soft white Nica cheese, eaten with gallo pinto"
+  },
+  "diario": {
+    "en": "daily",
+    "pos": "adj",
+    "g": "m"
+  },
+  "fiado": {
+    "en": "on credit",
+    "pos": "adj",
+    "g": "m",
+    "note": "Buying now, paying later — common at pulperías"
+  },
+  "funcionar": {
+    "en": "to work/function",
+    "pos": "v",
+    "note": "For things, not jobs. 'No funciona' = it doesn't work"
+  },
+  "gallopinto": {
+    "en": "gallo pinto",
+    "pos": "n",
+    "g": "m",
+    "note": "Nica national dish: rice and beans fried together"
+  },
+  "huevo": {
+    "en": "egg",
+    "pos": "n",
+    "g": "m"
+  },
+  "internet": {
+    "en": "internet",
+    "pos": "n",
+    "g": "m"
+  },
+  "juntos": {
+    "en": "together",
+    "pos": "adj",
+    "g": "m"
+  },
+  "llave": {
+    "en": "key",
+    "pos": "n",
+    "g": "f"
+  },
+  "llover": {
+    "en": "to rain",
+    "pos": "v"
+  },
+  "maduro": {
+    "en": "ripe plantain",
+    "pos": "n",
+    "g": "m",
+    "note": "Fried sweet plantain. Also means 'ripe' or 'mature'"
+  },
+  "mensaje": {
+    "en": "message",
+    "pos": "n",
+    "g": "m"
+  },
+  "mojado": {
+    "en": "wet",
+    "pos": "adj",
+    "g": "m"
+  },
+  "naranja": {
+    "en": "orange",
+    "pos": "n",
+    "g": "f"
+  },
+  "nube": {
+    "en": "cloud",
+    "pos": "n",
+    "g": "f"
+  },
+  "número": {
+    "en": "number",
+    "pos": "n",
+    "g": "m"
+  },
+  "paraguas": {
+    "en": "umbrella",
+    "pos": "n",
+    "g": "m"
+  },
+  "parque": {
+    "en": "park",
+    "pos": "n",
+    "g": "m"
+  },
+  "pasaje": {
+    "en": "fare/ticket",
+    "pos": "n",
+    "g": "m"
+  },
+  "probar": {
+    "en": "to try/taste",
+    "pos": "v"
+  },
+  "rato": {
+    "en": "a while",
+    "pos": "n",
+    "g": "m",
+    "note": "'Un rato' = a little while"
+  },
+  "rebaja": {
+    "en": "discount",
+    "pos": "n",
+    "g": "f"
+  },
+  "recargar": {
+    "en": "to top up/recharge",
+    "pos": "v",
+    "note": "Adding phone credit (saldo)"
+  },
+  "refresco": {
+    "en": "drink/soft drink",
+    "pos": "n",
+    "g": "m",
+    "note": "In Nica, often fresh fruit drinks"
+  },
+  "regatear": {
+    "en": "to haggle",
+    "pos": "v",
+    "note": "Expected and welcomed at markets"
+  },
+  "resolver": {
+    "en": "to resolve/solve",
+    "pos": "v"
+  },
+  "roto": {
+    "en": "broken",
+    "pos": "adj",
+    "g": "m"
+  },
+  "saldo": {
+    "en": "phone credit/balance",
+    "pos": "n",
+    "g": "m"
+  },
+  "saludar": {
+    "en": "to greet",
+    "pos": "v"
+  },
+  "subir": {
+    "en": "to get on/go up",
+    "pos": "v"
+  },
+  "sábado": {
+    "en": "Saturday",
+    "pos": "n",
+    "g": "m"
+  },
+  "temprano": {
+    "en": "early",
+    "pos": "adv"
+  },
+  "típico": {
+    "en": "typical/traditional",
+    "pos": "adj",
+    "g": "m",
+    "note": "'Comida típica' = traditional food"
+  },
+  "vecino": {
+    "en": "neighbor",
+    "pos": "n",
+    "g": "m"
+  },
+  "buenas": {
+    "en": "hello/good day",
+    "pos": "intj",
+    "note": "Short for buenos días/buenas tardes. The everyday Nica greeting"
+  },
+  "ciento": {
+    "en": "hundred",
+    "pos": "num",
+    "note": "Used in compound numbers: ciento treinta = 130"
+  },
+  "doscientos": {
+    "en": "two hundred",
+    "pos": "num",
+    "g": "m"
+  },
+  "treinta": {
+    "en": "thirty",
+    "pos": "num"
+  },
+  "cincuenta": {
+    "en": "fifty",
+    "pos": "num"
+  },
+  "quince": {
+    "en": "fifteen",
+    "pos": "num"
+  },
+  "cerradura": {
+    "en": "lock",
+    "pos": "n",
+    "g": "f"
+  },
+  "cerrajero": {
+    "en": "locksmith",
+    "pos": "n",
+    "g": "m"
+  },
+  "dueña": {
+    "en": "owner (f)",
+    "pos": "n",
+    "g": "f",
+    "note": "Dueño for a man"
+  },
+  "azul": {
+    "en": "blue",
+    "pos": "adj"
+  },
+  "centro": {
+    "en": "downtown/center",
+    "pos": "n",
+    "g": "m"
+  },
+  "cacao": {
+    "en": "cacao",
+    "pos": "n",
+    "g": "m",
+    "note": "A popular Nica drink flavor"
+  },
+  "tamarindo": {
+    "en": "tamarind",
+    "pos": "n",
+    "g": "m",
+    "note": "Tart fruit used for refrescos"
+  },
+  "invierno": {
+    "en": "winter/rainy season",
+    "pos": "n",
+    "g": "m",
+    "note": "In Nica, 'invierno' means the rainy season, not cold"
+  },
+  "verano": {
+    "en": "summer/dry season",
+    "pos": "n",
+    "g": "m",
+    "note": "In Nica, the dry season"
+  },
+  "estación": {
+    "en": "season/station",
+    "pos": "n",
+    "g": "f"
+  },
+  "confianza": {
+    "en": "trust",
+    "pos": "n",
+    "g": "f"
+  },
+  "pie": {
+    "en": "foot",
+    "pos": "n",
+    "g": "m",
+    "note": "'De pie' = standing"
+  },
+  "alma": {
+    "en": "soul",
+    "pos": "n",
+    "g": "f"
+  },
+  "asada": {
+    "en": "grilled/roasted",
+    "pos": "adj",
+    "g": "f",
+    "note": "Carne asada = grilled meat"
+  },
+  "seco": {
+    "en": "dry",
+    "pos": "adj",
+    "g": "m"
+  },
+  "afuera": {
+    "en": "outside",
+    "pos": "adv"
+  },
+  "adentro": {
+    "en": "inside",
+    "pos": "adv"
+  },
+  "tranquilo": {
+    "en": "calm/relax",
+    "pos": "adj",
+    "g": "m",
+    "note": "'Tranquilo' = chill out, no worries"
+  },
+  "perfecto": {
+    "en": "perfect",
+    "pos": "adj",
+    "g": "m"
+  },
+  "plan": {
+    "en": "plan",
+    "pos": "n",
+    "g": "m"
+  },
+  "minuto": {
+    "en": "minute",
+    "pos": "n",
+    "g": "m"
+  },
+  "viernes": {
+    "en": "Friday",
+    "pos": "n",
+    "g": "m"
+  },
+  "calor": {
+    "en": "heat",
+    "pos": "n",
+    "g": "m",
+    "note": "'Hace calor' = it's hot. 'Tengo calor' = I'm hot"
+  },
+  "momento": {
+    "en": "moment",
+    "pos": "n",
+    "g": "m"
+  },
+  "huele": {
+    "en": "smells",
+    "pos": "v",
+    "note": "From oler, to smell. 'Huele a' = it smells like"
+  },
+  "total": {
+    "en": "total",
+    "pos": "n",
+    "g": "m",
+    "note": "'En total' = in total"
+  },
+  "mango": {
+    "en": "mango",
+    "pos": "n",
+    "g": "m"
+  },
+  "por favor": {
+    "en": "please",
+    "pos": "phrase",
+    "note": "Literally \"for favor\""
+  },
+  "cuarenta": {
+    "en": "forty",
+    "pos": "num"
+  },
+  "sesenta": {
+    "en": "sixty",
+    "pos": "num"
+  },
+  "setenta": {
+    "en": "seventy",
+    "pos": "num"
+  },
+  "ochenta": {
+    "en": "eighty",
+    "pos": "num"
+  },
+  "noventa": {
+    "en": "ninety",
+    "pos": "num"
+  },
+  "deme": {
+    "en": "give me",
+    "pos": "v",
+    "note": "From dar (to give) — polite command"
+  },
+  "perdido": {
+    "en": "lost",
+    "pos": "adj",
+    "g": "m"
+  },
+  "muchacho": {
+    "en": "young man/guy",
+    "pos": "n",
+    "g": "m",
+    "note": "Friendly way to address a young person"
+  },
+  "aburrido": {
+    "en": "bored/boring",
+    "pos": "adj",
+    "g": "m"
+  },
+  "bailar": {
+    "en": "to dance",
+    "pos": "v"
+  },
+  "cantar": {
+    "en": "to sing",
+    "pos": "v"
+  },
+  "casado": {
+    "en": "married",
+    "pos": "adj",
+    "g": "m"
+  },
+  "cena": {
+    "en": "dinner",
+    "pos": "n",
+    "g": "f"
+  },
+  "comparar": {
+    "en": "to compare",
+    "pos": "v"
+  },
+  "contar": {
+    "en": "to tell/count",
+    "pos": "v",
+    "note": "Both 'to tell a story' and 'to count'"
+  },
+  "de acuerdo": {
+    "en": "in agreement/okay",
+    "pos": "phrase",
+    "note": "'Estoy de acuerdo' = I agree"
+  },
+  "decidir": {
+    "en": "to decide",
+    "pos": "v"
+  },
+  "deporte": {
+    "en": "sport",
+    "pos": "n",
+    "g": "m"
+  },
+  "desahogarse": {
+    "en": "to vent/let it out",
+    "pos": "v",
+    "note": "To unburden yourself by talking"
+  },
+  "diferente": {
+    "en": "different",
+    "pos": "adj"
+  },
+  "divertido": {
+    "en": "fun/funny",
+    "pos": "adj",
+    "g": "m"
+  },
+  "encantar": {
+    "en": "to love/delight",
+    "pos": "v",
+    "note": "Stronger than gustar. 'Me encanta' = I love it"
+  },
+  "estuvo": {
+    "en": "was/it was",
+    "pos": "v",
+    "note": "Past of estar. '¿Cómo estuvo?' = how was it?"
+  },
+  "extrañar": {
+    "en": "to miss",
+    "pos": "v",
+    "note": "'Te extraño' = I miss you"
+  },
+  "feliz": {
+    "en": "happy",
+    "pos": "adj"
+  },
+  "fin de semana": {
+    "en": "weekend",
+    "pos": "phrase",
+    "g": "m"
+  },
+  "infancia": {
+    "en": "childhood",
+    "pos": "n",
+    "g": "f"
+  },
+  "invitar": {
+    "en": "to invite",
+    "pos": "v",
+    "note": "Often means the inviter pays"
+  },
+  "jugaba": {
+    "en": "used to play/was playing",
+    "pos": "v",
+    "note": "Imperfect past of jugar"
+  },
+  "mamá": {
+    "en": "mom",
+    "pos": "n",
+    "g": "f"
+  },
+  "molesto": {
+    "en": "annoyed/upset",
+    "pos": "adj",
+    "g": "m"
+  },
+  "olvidar": {
+    "en": "to forget",
+    "pos": "v"
+  },
+  "opinar": {
+    "en": "to give an opinion",
+    "pos": "v"
+  },
+  "papá": {
+    "en": "dad",
+    "pos": "n",
+    "g": "m"
+  },
+  "pasear": {
+    "en": "to stroll/go out",
+    "pos": "v"
+  },
+  "película": {
+    "en": "movie",
+    "pos": "n",
+    "g": "f"
+  },
+  "platica": {
+    "en": "chat/conversation",
+    "pos": "n",
+    "g": "f",
+    "note": "'Platicar' = to chat. Common in Central America"
+  },
+  "preferir": {
+    "en": "to prefer",
+    "pos": "v"
+  },
+  "preocupado": {
+    "en": "worried",
+    "pos": "adj",
+    "g": "m"
+  },
+  "proponer": {
+    "en": "to propose/suggest",
+    "pos": "v"
+  },
+  "pueblo": {
+    "en": "town/village",
+    "pos": "n",
+    "g": "m"
+  },
+  "recordar": {
+    "en": "to remember",
+    "pos": "v"
+  },
+  "salir mal": {
+    "en": "to go wrong",
+    "pos": "phrase"
+  },
+  "sentarse": {
+    "en": "to sit down",
+    "pos": "v",
+    "note": "'Siéntese' = sit down (formal)"
+  },
+  "sentirse": {
+    "en": "to feel",
+    "pos": "v",
+    "note": "'Me siento bien' = I feel good"
+  },
+  "soltero": {
+    "en": "single/unmarried",
+    "pos": "adj",
+    "g": "m"
+  },
+  "tal vez": {
+    "en": "maybe/perhaps",
+    "pos": "phrase"
+  },
+  "tiempo libre": {
+    "en": "free time",
+    "pos": "phrase",
+    "g": "m"
+  },
+  "ánimo": {
+    "en": "spirits/mood/cheer up",
+    "pos": "n",
+    "g": "m",
+    "note": "'¡Ánimo!' = cheer up!"
+  },
+  "aclarar": {
+    "en": "to clarify",
+    "pos": "v"
+  },
+  "acuerdo": {
+    "en": "agreement",
+    "pos": "n",
+    "g": "m",
+    "note": "'De acuerdo' = agreed; 'estar de acuerdo' = to agree"
+  },
+  "agradecer": {
+    "en": "to thank/appreciate",
+    "pos": "v",
+    "note": "'Te lo agradezco' = I appreciate it"
+  },
+  "alternativa": {
+    "en": "alternative",
+    "pos": "n",
+    "g": "f"
+  },
+  "aportar": {
+    "en": "to contribute",
+    "pos": "v"
+  },
+  "argumento": {
+    "en": "argument/reasoning",
+    "pos": "n",
+    "g": "m",
+    "note": "A point you make, not a fight"
+  },
+  "cambio": {
+    "en": "change/exchange",
+    "pos": "n",
+    "g": "m",
+    "note": "Also means 'change' (money returned)"
+  },
+  "cancelar": {
+    "en": "to cancel",
+    "pos": "v"
+  },
+  "ceder": {
+    "en": "to give in/yield",
+    "pos": "v"
+  },
+  "comprender": {
+    "en": "to understand",
+    "pos": "v",
+    "note": "A touch more formal than entender"
+  },
+  "comprometer": {
+    "en": "to commit/promise",
+    "pos": "v"
+  },
+  "confiar": {
+    "en": "to trust",
+    "pos": "v",
+    "note": "'Confío en vos' = I trust you"
+  },
+  "confundir": {
+    "en": "to confuse",
+    "pos": "v"
+  },
+  "contratar": {
+    "en": "to hire",
+    "pos": "v"
+  },
+  "convencer": {
+    "en": "to convince",
+    "pos": "v"
+  },
+  "convencido": {
+    "en": "convinced",
+    "pos": "adj",
+    "g": "m"
+  },
+  "cuenta": {
+    "en": "account/bill",
+    "pos": "n",
+    "g": "f",
+    "note": "Bank account, or the check at a restaurant"
+  },
+  "culpa": {
+    "en": "fault/blame",
+    "pos": "n",
+    "g": "f",
+    "note": "'Es mi culpa' = it's my fault"
+  },
+  "cédula": {
+    "en": "national ID card",
+    "pos": "n",
+    "g": "f",
+    "note": "The official Nicaraguan ID"
+  },
+  "deber": {
+    "en": "to owe/should",
+    "pos": "v",
+    "note": "'Te debo una' = I owe you one"
+  },
+  "decir que no": {
+    "en": "to say no",
+    "pos": "phrase"
+  },
+  "defender": {
+    "en": "to defend",
+    "pos": "v"
+  },
+  "devolver": {
+    "en": "to return/give back",
+    "pos": "v"
+  },
+  "diferir": {
+    "en": "to differ/disagree",
+    "pos": "v"
+  },
+  "disculpa": {
+    "en": "apology/excuse",
+    "pos": "n",
+    "g": "f",
+    "note": "'Mil disculpas' = a thousand apologies"
+  },
+  "disculparse": {
+    "en": "to apologize",
+    "pos": "v"
+  },
+  "disponible": {
+    "en": "available",
+    "pos": "adj"
+  },
+  "documento": {
+    "en": "document",
+    "pos": "n",
+    "g": "m"
+  },
+  "ejemplo": {
+    "en": "example",
+    "pos": "n",
+    "g": "m",
+    "note": "'Por ejemplo' = for example"
+  },
+  "empresa": {
+    "en": "company/business",
+    "pos": "n",
+    "g": "f"
+  },
+  "entrevista": {
+    "en": "interview",
+    "pos": "n",
+    "g": "f"
+  },
+  "equivocarse": {
+    "en": "to be wrong/make a mistake",
+    "pos": "v",
+    "note": "'Me equivoqué' = I was wrong"
+  },
+  "evidencia": {
+    "en": "evidence",
+    "pos": "n",
+    "g": "f"
+  },
+  "exigir": {
+    "en": "to demand",
+    "pos": "v"
+  },
+  "experiencia": {
+    "en": "experience",
+    "pos": "n",
+    "g": "f"
+  },
+  "fila": {
+    "en": "line/queue",
+    "pos": "n",
+    "g": "f",
+    "note": "'Hacer fila' = to wait in line"
+  },
+  "firmar": {
+    "en": "to sign",
+    "pos": "v"
+  },
+  "firme": {
+    "en": "firm",
+    "pos": "adj"
+  },
+  "formulario": {
+    "en": "form",
+    "pos": "n",
+    "g": "m",
+    "note": "A paper form to fill out"
+  },
+  "fortaleza": {
+    "en": "strength",
+    "pos": "n",
+    "g": "f",
+    "note": "A personal strength"
+  },
+  "futuro": {
+    "en": "future",
+    "pos": "n",
+    "g": "m"
+  },
+  "garantía": {
+    "en": "warranty/guarantee",
+    "pos": "n",
+    "g": "f"
+  },
+  "habilidad": {
+    "en": "skill/ability",
+    "pos": "n",
+    "g": "f"
+  },
+  "honesto": {
+    "en": "honest",
+    "pos": "adj",
+    "g": "m"
+  },
+  "improvisar": {
+    "en": "to improvise",
+    "pos": "v"
+  },
+  "insistir": {
+    "en": "to insist",
+    "pos": "v"
+  },
+  "iremos": {
+    "en": "we will go",
+    "pos": "v",
+    "note": "Future of ir"
+  },
+  "lamentablemente": {
+    "en": "unfortunately",
+    "pos": "adv"
+  },
+  "límite": {
+    "en": "limit/boundary",
+    "pos": "n",
+    "g": "m",
+    "note": "'Poner límites' = to set boundaries"
+  },
+  "malentendido": {
+    "en": "misunderstanding",
+    "pos": "n",
+    "g": "m"
+  },
+  "mantener": {
+    "en": "to maintain/hold",
+    "pos": "v",
+    "note": "'Mantener mi punto' = to hold my point"
+  },
+  "molestia": {
+    "en": "bother/trouble",
+    "pos": "n",
+    "g": "f",
+    "note": "'No es molestia' = it's no trouble"
+  },
+  "no poder": {
+    "en": "to not be able to",
+    "pos": "phrase"
+  },
+  "opinión": {
+    "en": "opinion",
+    "pos": "n",
+    "g": "f"
+  },
+  "podría": {
+    "en": "could/would be able to",
+    "pos": "v",
+    "note": "Conditional of poder — softens requests"
+  },
+  "postura": {
+    "en": "stance/position",
+    "pos": "n",
+    "g": "f"
+  },
+  "prestar": {
+    "en": "to lend",
+    "pos": "v",
+    "note": "'Prestar' = lend; 'pedir prestado' = borrow"
+  },
+  "puesto": {
+    "en": "position/job",
+    "pos": "n",
+    "g": "m"
+  },
+  "punto": {
+    "en": "point",
+    "pos": "n",
+    "g": "m",
+    "note": "'Tener un punto' = to have a point"
+  },
+  "queja": {
+    "en": "complaint",
+    "pos": "n",
+    "g": "f"
+  },
+  "razonable": {
+    "en": "reasonable",
+    "pos": "adj"
+  },
+  "razonar": {
+    "en": "to reason",
+    "pos": "v"
+  },
+  "reclamo": {
+    "en": "complaint/claim",
+    "pos": "n",
+    "g": "m",
+    "note": "'Hacer un reclamo' = to make a complaint"
+  },
+  "requisito": {
+    "en": "requirement",
+    "pos": "n",
+    "g": "m"
+  },
+  "respetar": {
+    "en": "to respect",
+    "pos": "v"
+  },
+  "respetuoso": {
+    "en": "respectful",
+    "pos": "adj",
+    "g": "m"
+  },
+  "salario": {
+    "en": "salary",
+    "pos": "n",
+    "g": "m"
+  },
+  "sin embargo": {
+    "en": "however",
+    "pos": "phrase"
+  },
+  "solución": {
+    "en": "solution",
+    "pos": "n",
+    "g": "f"
+  },
+  "tendremos": {
+    "en": "we will have",
+    "pos": "v",
+    "note": "Future of tener"
+  },
+  "trámite": {
+    "en": "procedure/paperwork",
+    "pos": "n",
+    "g": "m",
+    "note": "Bureaucratic process"
+  },
+  "abrazar": {
+    "en": "to hug",
+    "pos": "v"
+  },
+  "abrazo": {
+    "en": "hug",
+    "pos": "n",
+    "g": "m",
+    "note": "'Un abrazo' often closes letters/messages warmly"
+  },
+  "aceptar": {
+    "en": "to accept",
+    "pos": "v"
+  },
+  "acompañar": {
+    "en": "to accompany/be with",
+    "pos": "v"
+  },
+  "afortunado": {
+    "en": "lucky/fortunate",
+    "pos": "adj",
+    "g": "m"
+  },
+  "agradecido": {
+    "en": "grateful",
+    "pos": "adj",
+    "g": "m"
+  },
+  "amar": {
+    "en": "to love",
+    "pos": "v",
+    "note": "Deeper than querer. 'Te amo' = I love you (romantic, profound)"
+  },
+  "amor": {
+    "en": "love",
+    "pos": "n",
+    "g": "m",
+    "note": "'Mi amor' = my love, a common term of endearment"
+  },
+  "anciano": {
+    "en": "elderly person",
+    "pos": "n",
+    "g": "m"
+  },
+  "apoyar": {
+    "en": "to support",
+    "pos": "v",
+    "note": "Emotional support; 'te apoyo' = I support you"
+  },
+  "bendecido": {
+    "en": "blessed",
+    "pos": "adj",
+    "g": "m"
+  },
+  "bienvenido": {
+    "en": "welcome",
+    "pos": "adj",
+    "g": "m"
+  },
+  "callar": {
+    "en": "to be quiet/silent",
+    "pos": "v",
+    "note": "'Quedarse callado' = to stay quiet"
+  },
+  "calmarse": {
+    "en": "to calm down",
+    "pos": "v"
+  },
+  "cariño": {
+    "en": "affection/fondness",
+    "pos": "n",
+    "g": "m",
+    "note": "Also a term of endearment, like 'dear'"
+  },
+  "compartir": {
+    "en": "to share",
+    "pos": "v"
+  },
+  "comprensión": {
+    "en": "understanding",
+    "pos": "n",
+    "g": "f"
+  },
+  "compromiso": {
+    "en": "commitment",
+    "pos": "n",
+    "g": "m"
+  },
+  "confesar": {
+    "en": "to confess/admit",
+    "pos": "v"
+  },
+  "construir": {
+    "en": "to build",
+    "pos": "v"
+  },
+  "cuidar": {
+    "en": "to take care of",
+    "pos": "v",
+    "note": "'Cuidate' = take care of yourself"
+  },
+  "discutir": {
+    "en": "to argue/discuss",
+    "pos": "v",
+    "note": "Often means 'argue' more than 'discuss'"
+  },
+  "distancia": {
+    "en": "distance",
+    "pos": "n",
+    "g": "f"
+  },
+  "escuchar": {
+    "en": "to listen",
+    "pos": "v"
+  },
+  "espacio": {
+    "en": "space",
+    "pos": "n",
+    "g": "m",
+    "note": "'Dar espacio' = to give space"
+  },
+  "especial": {
+    "en": "special",
+    "pos": "adj"
+  },
+  "esperanza": {
+    "en": "hope",
+    "pos": "n",
+    "g": "f"
+  },
+  "fuerza": {
+    "en": "strength/force",
+    "pos": "n",
+    "g": "f"
+  },
+  "herir": {
+    "en": "to hurt/wound",
+    "pos": "v",
+    "note": "Emotional or physical hurt"
+  },
+  "hogar": {
+    "en": "home",
+    "pos": "n",
+    "g": "m",
+    "note": "Home as a feeling, warmer than 'casa'"
+  },
+  "importar": {
+    "en": "to matter",
+    "pos": "v",
+    "note": "'Me importás' = you matter to me"
+  },
+  "impresión": {
+    "en": "impression",
+    "pos": "n",
+    "g": "f"
+  },
+  "junto": {
+    "en": "together",
+    "pos": "adj",
+    "g": "m",
+    "note": "'Juntos' = together (plural)"
+  },
+  "llamada": {
+    "en": "call/phone call",
+    "pos": "n",
+    "g": "f"
+  },
+  "madurez": {
+    "en": "maturity",
+    "pos": "n",
+    "g": "f"
+  },
+  "miedo": {
+    "en": "fear",
+    "pos": "n",
+    "g": "m",
+    "note": "'Tener miedo' = to be afraid"
+  },
+  "mirada": {
+    "en": "look/gaze",
+    "pos": "n",
+    "g": "f"
+  },
+  "nervios": {
+    "en": "nerves",
+    "pos": "n",
+    "g": "m"
+  },
+  "nervioso": {
+    "en": "nervous",
+    "pos": "adj",
+    "g": "m"
+  },
+  "ojalá": {
+    "en": "hopefully/I hope",
+    "pos": "intj",
+    "note": "From Arabic. Takes the subjunctive: 'ojalá venga'"
+  },
+  "orgulloso": {
+    "en": "proud",
+    "pos": "adj",
+    "g": "m"
+  },
+  "paciencia": {
+    "en": "patience",
+    "pos": "n",
+    "g": "f"
+  },
+  "perdonar": {
+    "en": "to forgive",
+    "pos": "v"
+  },
+  "pertenecer": {
+    "en": "to belong",
+    "pos": "v"
+  },
+  "planear": {
+    "en": "to plan",
+    "pos": "v"
+  },
+  "platicar": {
+    "en": "to chat",
+    "pos": "v",
+    "note": "Common in Central America for casual talk"
+  },
+  "preocuparse": {
+    "en": "to worry",
+    "pos": "v"
+  },
+  "presentar": {
+    "en": "to introduce/present",
+    "pos": "v"
+  },
+  "prometer": {
+    "en": "to promise",
+    "pos": "v"
+  },
+  "pronto": {
+    "en": "soon",
+    "pos": "adv"
+  },
+  "raíz": {
+    "en": "root",
+    "pos": "n",
+    "g": "f",
+    "note": "'Raíces' = roots, often figurative (belonging)"
+  },
+  "reconciliarse": {
+    "en": "to make up/reconcile",
+    "pos": "v"
+  },
+  "recuerdo": {
+    "en": "memory",
+    "pos": "n",
+    "g": "m"
+  },
+  "regresar": {
+    "en": "to return/come back",
+    "pos": "v"
+  },
+  "respeto": {
+    "en": "respect",
+    "pos": "n",
+    "g": "m"
+  },
+  "responsabilidad": {
+    "en": "responsibility",
+    "pos": "n",
+    "g": "f"
+  },
+  "saudade": {
+    "en": "deep longing/missing",
+    "pos": "n",
+    "g": "f",
+    "note": "A bittersweet longing — borrowed feeling, deeply felt"
+  },
+  "sentimiento": {
+    "en": "feeling/emotion",
+    "pos": "n",
+    "g": "m"
+  },
+  "sincero": {
+    "en": "sincere/honest",
+    "pos": "adj",
+    "g": "m"
+  },
+  "suegra": {
+    "en": "mother-in-law",
+    "pos": "n",
+    "g": "f",
+    "note": "Suegro = father-in-law"
+  },
+  "sueño": {
+    "en": "dream",
+    "pos": "n",
+    "g": "m",
+    "note": "Both a dream and sleepiness ('tengo sueño')"
+  },
+  "tímido": {
+    "en": "shy",
+    "pos": "adj",
+    "g": "m"
+  },
+  "valorar": {
+    "en": "to value/appreciate",
+    "pos": "v"
+  },
+  "vulnerable": {
+    "en": "vulnerable",
+    "pos": "adj"
+  },
+  "acento": {
+    "en": "accent",
+    "pos": "n",
+    "g": "m"
+  },
+  "acostumbrarse": {
+    "en": "to get used to",
+    "pos": "v"
+  },
+  "ahorita": {
+    "en": "right now / in a bit",
+    "pos": "adv",
+    "note": "Famously flexible — can mean immediately OR in a while. Context decides"
+  },
+  "albur": {
+    "en": "wordplay/double-meaning joke",
+    "pos": "n",
+    "g": "m",
+    "note": "A pun with a hidden, often cheeky, second meaning"
+  },
+  "amanecer": {
+    "en": "to stay up till dawn / dawn",
+    "pos": "v",
+    "note": "'Amanecer' a party = stay till sunrise"
+  },
+  "ambiente": {
+    "en": "atmosphere/vibe",
+    "pos": "n",
+    "g": "m",
+    "note": "'Buen ambiente' = good vibe"
+  },
+  "birra": {
+    "en": "beer (slang)",
+    "pos": "n",
+    "g": "f"
+  },
+  "broma": {
+    "en": "joke/prank",
+    "pos": "n",
+    "g": "f"
+  },
+  "buena onda": {
+    "en": "good vibe / cool person",
+    "pos": "phrase",
+    "note": "'Es buena onda' = he's a cool/kind person"
+  },
+  "burla": {
+    "en": "mockery/teasing",
+    "pos": "n",
+    "g": "f"
+  },
+  "cae bien": {
+    "en": "likable / he likes (someone)",
+    "pos": "phrase",
+    "note": "'Me cae bien' = I like him/her (as a person)"
+  },
+  "cafecito": {
+    "en": "little coffee",
+    "pos": "n",
+    "g": "m",
+    "note": "Diminutive of café — warmth, not size"
+  },
+  "camino": {
+    "en": "road/path",
+    "pos": "n",
+    "g": "m"
+  },
+  "captar": {
+    "en": "to catch/grasp",
+    "pos": "v",
+    "note": "To catch a meaning or hint"
+  },
+  "carcajada": {
+    "en": "burst of laughter",
+    "pos": "n",
+    "g": "f",
+    "note": "'Soltar la carcajada' = to burst out laughing"
+  },
+  "cariñito": {
+    "en": "little affection",
+    "pos": "n",
+    "g": "m"
+  },
+  "cerquita": {
+    "en": "really close",
+    "pos": "adv",
+    "note": "Diminutive of cerca — cozily near"
+  },
+  "chiste": {
+    "en": "joke",
+    "pos": "n",
+    "g": "m"
+  },
+  "chivear": {
+    "en": "to party/have fun (Nica)",
+    "pos": "v"
+  },
+  "chunche": {
+    "en": "thingamajig",
+    "pos": "n",
+    "g": "m",
+    "note": "Nica word for any object whose name you forget"
+  },
+  "cipote": {
+    "en": "kid/child (Nica)",
+    "pos": "n",
+    "g": "m"
+  },
+  "compa": {
+    "en": "buddy/pal",
+    "pos": "n",
+    "g": "m",
+    "note": "Short for compañero — a friend"
+  },
+  "cususa": {
+    "en": "homemade liquor",
+    "pos": "n",
+    "g": "f",
+    "note": "Nica moonshine, strong cane liquor"
+  },
+  "dar largas": {
+    "en": "to stall / put off",
+    "pos": "phrase",
+    "note": "To delay without committing"
+  },
+  "deacachimba": {
+    "en": "awesome (strong slang)",
+    "pos": "adj",
+    "note": "Very Nica — means great/excellent. Casual"
+  },
+  "despacito": {
+    "en": "nice and slow",
+    "pos": "adv"
+  },
+  "desvelarse": {
+    "en": "to stay up late",
+    "pos": "v"
+  },
+  "diay": {
+    "en": "well / so / hey",
+    "pos": "intj",
+    "note": "Versatile filler, cousin of 'ideay'"
+  },
+  "doble": {
+    "en": "double",
+    "pos": "adj"
+  },
+  "doble sentido": {
+    "en": "double meaning",
+    "pos": "phrase",
+    "note": "A phrase with a hidden, often cheeky, second meaning"
+  },
+  "esfuerzo": {
+    "en": "effort",
+    "pos": "n",
+    "g": "m"
+  },
+  "fluido": {
+    "en": "fluent/flowing",
+    "pos": "adj",
+    "g": "m"
+  },
+  "fíjate": {
+    "en": "get this / notice",
+    "pos": "v",
+    "note": "'Fíjate que...' = a classic way to start telling news"
+  },
+  "goma": {
+    "en": "hangover (Nica)",
+    "pos": "n",
+    "g": "f",
+    "note": "'Andar de goma' = to be hungover"
+  },
+  "gracioso": {
+    "en": "funny",
+    "pos": "adj",
+    "g": "m"
+  },
+  "halago": {
+    "en": "compliment",
+    "pos": "n",
+    "g": "m"
+  },
+  "imaginate": {
+    "en": "imagine / can you believe it",
+    "pos": "v"
+  },
+  "indirecta": {
+    "en": "hint / indirect remark",
+    "pos": "n",
+    "g": "f"
+  },
+  "ingenio": {
+    "en": "wit/cleverness",
+    "pos": "n",
+    "g": "m"
+  },
+  "inocente": {
+    "en": "innocent",
+    "pos": "adj"
+  },
+  "jaña": {
+    "en": "girlfriend/girl (slang)",
+    "pos": "n",
+    "g": "f",
+    "note": "Casual Nica slang for a girl or girlfriend"
+  },
+  "juntada": {
+    "en": "get-together",
+    "pos": "n",
+    "g": "f",
+    "note": "An informal gathering of friends"
+  },
+  "lograr": {
+    "en": "to achieve/manage",
+    "pos": "v"
+  },
+  "maje": {
+    "en": "dude/guy",
+    "pos": "n",
+    "g": "m",
+    "note": "Like 'dude' — affectionate among friends, rude with strangers"
+  },
+  "malicia": {
+    "en": "mischief/cheekiness",
+    "pos": "n",
+    "g": "f"
+  },
+  "molestar": {
+    "en": "to bother/tease",
+    "pos": "v"
+  },
+  "momentito": {
+    "en": "just a moment",
+    "pos": "n",
+    "g": "m"
+  },
+  "natural": {
+    "en": "natural",
+    "pos": "adj"
+  },
+  "no me digás": {
+    "en": "you don't say!",
+    "pos": "phrase",
+    "note": "Expression of surprise (voseo form)"
+  },
+  "orgullo": {
+    "en": "pride",
+    "pos": "n",
+    "g": "m"
+  },
+  "oído": {
+    "en": "ear / hearing",
+    "pos": "n",
+    "g": "m",
+    "note": "The trained ear for understanding speech"
+  },
+  "pana": {
+    "en": "buddy/close friend",
+    "pos": "n",
+    "g": "m"
+  },
+  "parranda": {
+    "en": "party/night out",
+    "pos": "n",
+    "g": "f"
+  },
+  "pegue": {
+    "en": "appeal/charm",
+    "pos": "n",
+    "g": "m",
+    "note": "'Tener pegue' = to be attractive/popular"
+  },
+  "perderse": {
+    "en": "to get lost / miss out",
+    "pos": "v"
+  },
+  "pero qué": {
+    "en": "but what / how (exclamation)",
+    "pos": "phrase"
+  },
+  "picardía": {
+    "en": "cheekiness/mischief",
+    "pos": "n",
+    "g": "f"
+  },
+  "pillar": {
+    "en": "to catch/get it",
+    "pos": "v",
+    "note": "To catch on to a joke or meaning"
+  },
+  "pinche": {
+    "en": "stingy / cheap quality",
+    "pos": "adj",
+    "note": "In Nica: stingy or low-quality (milder than Mexican usage)"
+  },
+  "poquito": {
+    "en": "a little bit",
+    "pos": "n",
+    "g": "m"
+  },
+  "quizás": {
+    "en": "maybe/perhaps",
+    "pos": "adv",
+    "note": "Often a soft 'no' in social contexts"
+  },
+  "qué barbaridad": {
+    "en": "how outrageous!",
+    "pos": "phrase",
+    "note": "Expresses shock or amazement"
+  },
+  "rapidito": {
+    "en": "real quick",
+    "pos": "adv"
+  },
+  "ratito": {
+    "en": "little while",
+    "pos": "n",
+    "g": "m"
+  },
+  "reconocer": {
+    "en": "to recognize",
+    "pos": "v"
+  },
+  "relajo": {
+    "en": "fun/mess-around",
+    "pos": "n",
+    "g": "m",
+    "note": "'Echar relajo' = to goof around, have fun"
+  },
+  "repetir": {
+    "en": "to repeat",
+    "pos": "v"
+  },
+  "reírse": {
+    "en": "to laugh",
+    "pos": "v"
+  },
+  "sano": {
+    "en": "wholesome/healthy",
+    "pos": "adj",
+    "g": "m",
+    "note": "Humor that's 'sano' is good-natured, not crude"
+  },
+  "sonrojarse": {
+    "en": "to blush",
+    "pos": "v"
+  },
+  "suave": {
+    "en": "soft/smooth/easy",
+    "pos": "adj"
+  },
+  "sutil": {
+    "en": "subtle",
+    "pos": "adj"
+  },
+  "tantito": {
+    "en": "a tiny bit",
+    "pos": "adv"
+  },
+  "tomar el pelo": {
+    "en": "to pull someone's leg",
+    "pos": "phrase",
+    "note": "To tease or kid someone"
+  },
+  "tragarse": {
+    "en": "to swallow (letters/sounds)",
+    "pos": "v",
+    "note": "How fast speech drops sounds"
+  },
+  "tranqui": {
+    "en": "chill/relax",
+    "pos": "adj",
+    "note": "Short for tranquilo"
+  },
+  "vacil": {
+    "en": "fun/joking around",
+    "pos": "n",
+    "g": "m",
+    "note": "'Qué vacil' = what a laugh"
+  },
+  "vacilar": {
+    "en": "to joke/tease/have fun",
+    "pos": "v",
+    "note": "Central to Nica social life — playful joking"
+  },
+  "adaptarse": {
+    "en": "to adapt",
+    "pos": "v"
+  },
+  "afinar": {
+    "en": "to refine/fine-tune",
+    "pos": "v"
+  },
+  "agudo": {
+    "en": "sharp/keen",
+    "pos": "adj",
+    "g": "m",
+    "note": "'Oído agudo' = a sharp ear"
+  },
+  "ajustar": {
+    "en": "to adjust",
+    "pos": "v"
+  },
+  "alternativo": {
+    "en": "alternative",
+    "pos": "adj",
+    "g": "m"
+  },
+  "apropiado": {
+    "en": "appropriate",
+    "pos": "adj",
+    "g": "m"
+  },
+  "argumentar": {
+    "en": "to argue/make a case",
+    "pos": "v"
+  },
+  "arrepentirse": {
+    "en": "to regret",
+    "pos": "v"
+  },
+  "articular": {
+    "en": "to articulate",
+    "pos": "v"
+  },
+  "audiencia": {
+    "en": "audience",
+    "pos": "n",
+    "g": "f"
+  },
+  "causa": {
+    "en": "cause",
+    "pos": "n",
+    "g": "f",
+    "note": "A cause you fight for"
+  },
+  "claridad": {
+    "en": "clarity",
+    "pos": "n",
+    "g": "f"
+  },
+  "comunidad": {
+    "en": "community",
+    "pos": "n",
+    "g": "f"
+  },
+  "conceder": {
+    "en": "to concede/grant",
+    "pos": "v",
+    "note": "In debate, to grant a point"
+  },
+  "concepto": {
+    "en": "concept",
+    "pos": "n",
+    "g": "m"
+  },
+  "conciencia": {
+    "en": "conscience/awareness",
+    "pos": "n",
+    "g": "f"
+  },
+  "condicional": {
+    "en": "conditional",
+    "pos": "n",
+    "g": "m",
+    "note": "The 'would' tense: haría, sería"
+  },
+  "connotación": {
+    "en": "connotation",
+    "pos": "n",
+    "g": "f"
+  },
+  "contexto": {
+    "en": "context",
+    "pos": "n",
+    "g": "m"
+  },
+  "convertirse": {
+    "en": "to become",
+    "pos": "v"
+  },
+  "convicción": {
+    "en": "conviction",
+    "pos": "n",
+    "g": "f"
+  },
+  "convincente": {
+    "en": "convincing",
+    "pos": "adj"
+  },
+  "debate": {
+    "en": "debate",
+    "pos": "n",
+    "g": "m"
+  },
+  "decisión": {
+    "en": "decision",
+    "pos": "n",
+    "g": "f"
+  },
+  "delicado": {
+    "en": "delicate",
+    "pos": "adj",
+    "g": "m"
+  },
+  "desear": {
+    "en": "to wish/desire",
+    "pos": "v"
+  },
+  "destino": {
+    "en": "fate/destiny/destination",
+    "pos": "n",
+    "g": "m"
+  },
+  "discurso": {
+    "en": "speech",
+    "pos": "n",
+    "g": "m"
+  },
+  "distinguir": {
+    "en": "to distinguish",
+    "pos": "v"
+  },
+  "dominar": {
+    "en": "to master",
+    "pos": "v",
+    "note": "'Dominar un idioma' = to master a language"
+  },
+  "educado": {
+    "en": "polite/well-mannered",
+    "pos": "adj",
+    "g": "m"
+  },
+  "elocuente": {
+    "en": "eloquent",
+    "pos": "adj"
+  },
+  "escoger": {
+    "en": "to choose",
+    "pos": "v"
+  },
+  "exacto": {
+    "en": "exact",
+    "pos": "adj",
+    "g": "m"
+  },
+  "existir": {
+    "en": "to exist",
+    "pos": "v"
+  },
+  "expresar": {
+    "en": "to express",
+    "pos": "v"
+  },
+  "filosofía": {
+    "en": "philosophy",
+    "pos": "n",
+    "g": "f"
+  },
+  "fluir": {
+    "en": "to flow",
+    "pos": "v"
+  },
+  "formal": {
+    "en": "formal",
+    "pos": "adj"
+  },
+  "habría": {
+    "en": "would have",
+    "pos": "v",
+    "note": "Conditional perfect: 'habría hecho' = I would have done"
+  },
+  "hipotético": {
+    "en": "hypothetical",
+    "pos": "adj",
+    "g": "m"
+  },
+  "hubiera": {
+    "en": "had / would have (subj.)",
+    "pos": "v",
+    "note": "Past subjunctive: 'si hubiera sabido' = if I had known"
+  },
+  "identidad": {
+    "en": "identity",
+    "pos": "n",
+    "g": "f"
+  },
+  "imaginar": {
+    "en": "to imagine",
+    "pos": "v"
+  },
+  "implicar": {
+    "en": "to imply/involve",
+    "pos": "v"
+  },
+  "inconsciente": {
+    "en": "unconscious",
+    "pos": "n",
+    "g": "m"
+  },
+  "indirecto": {
+    "en": "indirect",
+    "pos": "adj",
+    "g": "m"
+  },
+  "informal": {
+    "en": "informal",
+    "pos": "adj"
+  },
+  "injusticia": {
+    "en": "injustice",
+    "pos": "n",
+    "g": "f"
+  },
+  "insinuar": {
+    "en": "to insinuate/hint",
+    "pos": "v"
+  },
+  "intención": {
+    "en": "intention",
+    "pos": "n",
+    "g": "f"
+  },
+  "interiorizar": {
+    "en": "to internalize",
+    "pos": "v"
+  },
+  "ironía": {
+    "en": "irony",
+    "pos": "n",
+    "g": "f"
+  },
+  "lamentar": {
+    "en": "to lament/regret",
+    "pos": "v"
+  },
+  "luchar": {
+    "en": "to fight/struggle",
+    "pos": "v"
+  },
+  "matiz": {
+    "en": "nuance/shade",
+    "pos": "n",
+    "g": "m"
+  },
+  "movilizar": {
+    "en": "to mobilize",
+    "pos": "v"
+  },
+  "perspectiva": {
+    "en": "perspective",
+    "pos": "n",
+    "g": "f"
+  },
+  "plantear": {
+    "en": "to pose/raise (an idea)",
+    "pos": "v"
+  },
+  "por lo tanto": {
+    "en": "therefore",
+    "pos": "phrase"
+  },
+  "preciso": {
+    "en": "precise",
+    "pos": "adj",
+    "g": "m"
+  },
+  "profundo": {
+    "en": "deep/profound",
+    "pos": "adj",
+    "g": "m"
+  },
+  "punto de vista": {
+    "en": "point of view",
+    "pos": "phrase",
+    "g": "m"
+  },
+  "público": {
+    "en": "public/audience",
+    "pos": "n",
+    "g": "m"
+  },
+  "reflexionar": {
+    "en": "to reflect/ponder",
+    "pos": "v"
+  },
+  "refutar": {
+    "en": "to refute",
+    "pos": "v"
+  },
+  "registro": {
+    "en": "register (of speech)",
+    "pos": "n",
+    "g": "m",
+    "note": "Formal vs informal level of language"
+  },
+  "sarcasmo": {
+    "en": "sarcasm",
+    "pos": "n",
+    "g": "m"
+  },
+  "sentido": {
+    "en": "sense/meaning",
+    "pos": "n",
+    "g": "m",
+    "note": "'En qué sentido' = in what sense"
+  },
+  "si pudiera": {
+    "en": "if I could",
+    "pos": "phrase",
+    "note": "Past subjunctive opener for hypotheticals"
+  },
+  "significado": {
+    "en": "meaning",
+    "pos": "n",
+    "g": "m"
+  },
+  "sobreentender": {
+    "en": "to infer/read implied meaning",
+    "pos": "v"
+  },
+  "soñar": {
+    "en": "to dream",
+    "pos": "v"
+  },
+  "tono": {
+    "en": "tone",
+    "pos": "n",
+    "g": "m"
+  },
+  "transformar": {
+    "en": "to transform",
+    "pos": "v"
+  },
+  "transmitir": {
+    "en": "to convey/transmit",
+    "pos": "v"
+  },
+  "tuviera": {
+    "en": "had (subjunctive)",
+    "pos": "v",
+    "note": "Past subjunctive of tener: 'si tuviera' = if I had"
+  },
+  "usted": {
+    "en": "you (formal)",
+    "pos": "pron",
+    "note": "Formal 'you' — for respect, strangers, elders"
+  },
+  "advertir": {
+    "en": "to warn/point out",
+    "pos": "v"
+  },
+  "agudeza": {
+    "en": "wit/sharpness",
+    "pos": "n",
+    "g": "f"
+  },
+  "aplicar": {
+    "en": "to apply",
+    "pos": "v"
+  },
+  "belleza": {
+    "en": "beauty",
+    "pos": "n",
+    "g": "f"
+  },
+  "bicultural": {
+    "en": "bicultural",
+    "pos": "adj"
+  },
+  "cautivar": {
+    "en": "to captivate",
+    "pos": "v"
+  },
+  "chispa": {
+    "en": "spark/wit",
+    "pos": "n",
+    "g": "f",
+    "note": "'Tener chispa' = to be quick-witted, lively"
+  },
+  "completo": {
+    "en": "complete/whole",
+    "pos": "adj",
+    "g": "m"
+  },
+  "consejo": {
+    "en": "advice",
+    "pos": "n",
+    "g": "m"
+  },
+  "creatividad": {
+    "en": "creativity",
+    "pos": "n",
+    "g": "f"
+  },
+  "culto": {
+    "en": "cultured/educated",
+    "pos": "adj",
+    "g": "m",
+    "note": "'Habla culta' = refined, educated speech"
+  },
+  "detalle": {
+    "en": "detail/gesture",
+    "pos": "n",
+    "g": "m",
+    "note": "Also 'a kind gesture': 'qué detalle'"
+  },
+  "dicho": {
+    "en": "saying",
+    "pos": "n",
+    "g": "m",
+    "note": "A folk saying or proverb"
+  },
+  "dominio": {
+    "en": "mastery/command",
+    "pos": "n",
+    "g": "m"
+  },
+  "elegante": {
+    "en": "elegant",
+    "pos": "adj"
+  },
+  "elocuencia": {
+    "en": "eloquence",
+    "pos": "n",
+    "g": "f"
+  },
+  "emoción": {
+    "en": "emotion",
+    "pos": "n",
+    "g": "f"
+  },
+  "enseñanza": {
+    "en": "teaching/lesson",
+    "pos": "n",
+    "g": "f"
+  },
+  "equilibrio": {
+    "en": "balance",
+    "pos": "n",
+    "g": "m"
+  },
+  "espontáneo": {
+    "en": "spontaneous",
+    "pos": "adj",
+    "g": "m"
+  },
+  "expresión": {
+    "en": "expression",
+    "pos": "n",
+    "g": "f"
+  },
+  "extranjero": {
+    "en": "foreigner/foreign",
+    "pos": "n",
+    "g": "m"
+  },
+  "fluidez": {
+    "en": "fluency",
+    "pos": "n",
+    "g": "f"
+  },
+  "generación": {
+    "en": "generation",
+    "pos": "n",
+    "g": "f"
+  },
+  "gesto": {
+    "en": "gesture",
+    "pos": "n",
+    "g": "m"
+  },
+  "heredar": {
+    "en": "to inherit",
+    "pos": "v"
+  },
+  "humilde": {
+    "en": "humble",
+    "pos": "adj"
+  },
+  "héroe": {
+    "en": "hero",
+    "pos": "n",
+    "g": "m"
+  },
+  "imperceptible": {
+    "en": "imperceptible",
+    "pos": "adj"
+  },
+  "inspirar": {
+    "en": "to inspire",
+    "pos": "v"
+  },
+  "instintivo": {
+    "en": "instinctive",
+    "pos": "adj",
+    "g": "m"
+  },
+  "juego de palabras": {
+    "en": "wordplay/pun",
+    "pos": "phrase",
+    "g": "m"
+  },
+  "legado": {
+    "en": "legacy",
+    "pos": "n",
+    "g": "m"
+  },
+  "literatura": {
+    "en": "literature",
+    "pos": "n",
+    "g": "f"
+  },
+  "memoria": {
+    "en": "memory",
+    "pos": "n",
+    "g": "f",
+    "note": "Collective memory, as well as personal"
+  },
+  "metáfora": {
+    "en": "metaphor",
+    "pos": "n",
+    "g": "f"
+  },
+  "modernismo": {
+    "en": "modernism",
+    "pos": "n",
+    "g": "m",
+    "note": "Literary movement Darío founded"
+  },
+  "moraleja": {
+    "en": "moral/lesson",
+    "pos": "n",
+    "g": "f",
+    "note": "The lesson of a story or fable"
+  },
+  "narrar": {
+    "en": "to narrate/tell",
+    "pos": "v"
+  },
+  "nativo": {
+    "en": "native",
+    "pos": "n",
+    "g": "m"
+  },
+  "pasado": {
+    "en": "past",
+    "pos": "n",
+    "g": "m"
+  },
+  "patrimonio": {
+    "en": "heritage",
+    "pos": "n",
+    "g": "m"
+  },
+  "poesía": {
+    "en": "poetry",
+    "pos": "n",
+    "g": "f"
+  },
+  "poeta": {
+    "en": "poet",
+    "pos": "n",
+    "g": "m"
+  },
+  "popular": {
+    "en": "popular/folk",
+    "pos": "adj",
+    "note": "'Sabiduría popular' = folk wisdom"
+  },
+  "principio": {
+    "en": "beginning/principle",
+    "pos": "n",
+    "g": "m"
+  },
+  "proverbio": {
+    "en": "proverb",
+    "pos": "n",
+    "g": "m"
+  },
+  "puente": {
+    "en": "bridge",
+    "pos": "n",
+    "g": "m",
+    "note": "Often figurative: a bridge between worlds"
+  },
+  "refinado": {
+    "en": "refined",
+    "pos": "adj",
+    "g": "m"
+  },
+  "refrán": {
+    "en": "proverb/saying",
+    "pos": "n",
+    "g": "m",
+    "note": "A traditional fixed saying — beloved in daily speech"
+  },
+  "retruécano": {
+    "en": "play on words",
+    "pos": "n",
+    "g": "m",
+    "note": "A clever reversal of words for effect"
+  },
+  "revolución": {
+    "en": "revolution",
+    "pos": "n",
+    "g": "f"
+  },
+  "rima": {
+    "en": "rhyme",
+    "pos": "n",
+    "g": "f"
+  },
+  "ritmo": {
+    "en": "rhythm",
+    "pos": "n",
+    "g": "m"
+  },
+  "sabiduría": {
+    "en": "wisdom",
+    "pos": "n",
+    "g": "f"
+  },
+  "sabio": {
+    "en": "wise / wise person",
+    "pos": "adj",
+    "g": "m"
+  },
+  "suspenso": {
+    "en": "suspense",
+    "pos": "n",
+    "g": "m"
+  },
+  "sutileza": {
+    "en": "subtlety",
+    "pos": "n",
+    "g": "f"
+  },
+  "tradición": {
+    "en": "tradition",
+    "pos": "n",
+    "g": "f"
+  },
+  "vejez": {
+    "en": "old age",
+    "pos": "n",
+    "g": "f"
+  },
+  "verso": {
+    "en": "verse/line of poetry",
+    "pos": "n",
+    "g": "m"
+  },
+  "viaje": {
+    "en": "journey/trip",
+    "pos": "n",
+    "g": "m"
+  },
+  "vocablo": {
+    "en": "word/term",
+    "pos": "n",
+    "g": "m",
+    "note": "A more literary word for 'word'"
+  },
+  "aspirar": {
+    "en": "to aspirate (a sound)",
+    "pos": "v",
+    "note": "In Nica speech, the 's' is aspirated or dropped"
+  },
+  "pronunciar": {
+    "en": "to pronounce",
+    "pos": "v"
+  },
+  "sonido": {
+    "en": "sound",
+    "pos": "n",
+    "g": "m"
+  },
+  "relajado": {
+    "en": "relaxed",
+    "pos": "adj",
+    "g": "m"
+  },
+  "final": {
+    "en": "end/final",
+    "pos": "n",
+    "g": "m"
+  },
+  "distinto": {
+    "en": "different/distinct",
+    "pos": "adj",
+    "g": "m"
+  },
+  "costa": {
+    "en": "coast",
+    "pos": "n",
+    "g": "f"
+  },
+  "voseo": {
+    "en": "use of 'vos'",
+    "pos": "n",
+    "g": "m",
+    "note": "The vos pronoun system, universal in Nicaragua"
+  },
+  "tené": {
+    "en": "have (vos command)",
+    "pos": "v",
+    "note": "Voseo command of tener: 'tené' not 'ten'"
+  },
+  "decí": {
+    "en": "say/tell (vos command)",
+    "pos": "v",
+    "note": "Voseo command of decir: 'decí' not 'di'"
+  },
+  "fijate": {
+    "en": "notice/look (vos)",
+    "pos": "v",
+    "note": "Voseo: 'fijate que...' = get this..."
+  },
+  "acordate": {
+    "en": "remember (vos)",
+    "pos": "v",
+    "note": "Voseo command of acordarse"
+  },
+  "andar": {
+    "en": "to go/walk/be",
+    "pos": "v",
+    "note": "'Ando' often = 'I'm' in Nica: 'ando cansado'"
+  },
+  "chereque": {
+    "en": "thing/belonging (Nica)",
+    "pos": "n",
+    "g": "m",
+    "note": "Your stuff: 'agarrá tus chereques'"
+  },
+  "bicha": {
+    "en": "thing/gadget (Nica slang)",
+    "pos": "n",
+    "g": "f"
+  },
+  "pinta": {
+    "en": "appearance/look (Nica)",
+    "pos": "n",
+    "g": "f",
+    "note": "'Buena pinta' = looking sharp"
+  },
+  "chochada": {
+    "en": "trivial thing (Nica)",
+    "pos": "n",
+    "g": "f"
+  },
+  "enturcarse": {
+    "en": "to get angry (Nica)",
+    "pos": "v"
+  },
+  "ocupar": {
+    "en": "to need (Nica usage)",
+    "pos": "v",
+    "note": "In Nicaragua 'ocupo' = 'I need', not 'I occupy'"
+  },
+  "regalar": {
+    "en": "to give (Nica: 'please give me')",
+    "pos": "v",
+    "note": "'Regaláme' = just 'please give me', not a gift"
+  },
+  "mandado": {
+    "en": "errand",
+    "pos": "n",
+    "g": "m",
+    "note": "'Hacer un mandado' = run an errand"
+  },
+  "ahuevo": {
+    "en": "hell yes! (Nica slang)",
+    "pos": "intj",
+    "note": "Emphatic yes — casual"
+  },
+  "diacachimba": {
+    "en": "awesome (Nica)",
+    "pos": "adj",
+    "note": "Variant of deacachimba"
+  },
+  "tuanis": {
+    "en": "cool/great (Nica)",
+    "pos": "adj",
+    "note": "Variant of tuani"
+  },
+  "chinear": {
+    "en": "to carry/pamper (Nica)",
+    "pos": "v",
+    "note": "To dote on or carry a child lovingly"
+  },
+  "amañarse": {
+    "en": "to settle in/get comfortable (Nica)",
+    "pos": "v",
+    "note": "To grow attached to a place"
+  },
+  "pinol": {
+    "en": "toasted corn drink",
+    "pos": "n",
+    "g": "m",
+    "note": "Ancestral corn beverage; root of 'pinolero'"
+  },
+  "campo": {
+    "en": "countryside",
+    "pos": "n",
+    "g": "m"
+  },
+  "campesino": {
+    "en": "peasant/country person",
+    "pos": "n",
+    "g": "m"
+  },
+  "finca": {
+    "en": "farm/estate",
+    "pos": "n",
+    "g": "f"
+  },
+  "madrugar": {
+    "en": "to rise early",
+    "pos": "v"
+  },
+  "cosecha": {
+    "en": "harvest",
+    "pos": "n",
+    "g": "f"
+  },
+  "buey": {
+    "en": "ox",
+    "pos": "n",
+    "g": "m"
+  },
+  "vecindad": {
+    "en": "neighborliness/vicinity",
+    "pos": "n",
+    "g": "f"
+  },
+  "hospitalidad": {
+    "en": "hospitality",
+    "pos": "n",
+    "g": "f"
+  },
+  "sencillo": {
+    "en": "simple/humble",
+    "pos": "adj",
+    "g": "m"
+  },
+  "diferencia": {
+    "en": "difference",
+    "pos": "n",
+    "g": "f"
+  },
+  "camión": {
+    "en": "truck (bus in Mexico)",
+    "pos": "n",
+    "g": "m",
+    "note": "In Mexico = bus; in Nicaragua a bus is 'bus'"
+  },
+  "frijol": {
+    "en": "bean",
+    "pos": "n",
+    "g": "m"
+  },
+  "lapicero": {
+    "en": "pen (Nica)",
+    "pos": "n",
+    "g": "m",
+    "note": "Nicas say 'lapicero', Spaniards 'bolígrafo'"
+  },
+  "guaro": {
+    "en": "strong liquor (Central America)",
+    "pos": "n",
+    "g": "m"
+  },
+  "chinela": {
+    "en": "sandal/flip-flop (Nica)",
+    "pos": "n",
+    "g": "f"
+  },
+  "modismo": {
+    "en": "idiom",
+    "pos": "n",
+    "g": "m"
+  },
+  "echar": {
+    "en": "to throw/toss/do",
+    "pos": "v",
+    "note": "'Echarse un pega' = take a nap"
+  },
+  "pega": {
+    "en": "nap (Nica)",
+    "pos": "n",
+    "g": "f",
+    "note": "'Echarse un pega' = take a short nap"
+  },
+  "pegar": {
+    "en": "to stick/hit",
+    "pos": "v"
+  },
+  "jodido": {
+    "en": "difficult/messed up",
+    "pos": "adj",
+    "g": "m",
+    "note": "Mildly crude; very common"
+  },
+  "vergueta": {
+    "en": "tough situation (Nica slang)",
+    "pos": "n",
+    "g": "f"
+  },
+  "chocho": {
+    "en": "wow! (Nica exclamation)",
+    "pos": "intj",
+    "note": "Expresses surprise"
+  },
+  "tranque": {
+    "en": "roadblock/traffic jam",
+    "pos": "n",
+    "g": "m"
+  },
+  "zafarse": {
+    "en": "to get out of/wriggle free",
+    "pos": "v"
+  },
+  "no obstante": {
+    "en": "nonetheless/however",
+    "pos": "phrase",
+    "note": "Cultured connector, more formal than 'pero'"
+  },
+  "por ende": {
+    "en": "therefore/hence",
+    "pos": "phrase",
+    "note": "Formal connector, more refined than 'por eso'"
+  },
+  "asimismo": {
+    "en": "likewise/also",
+    "pos": "adv",
+    "note": "Elegant way to add a point"
+  },
+  "dado que": {
+    "en": "given that",
+    "pos": "phrase"
+  },
+  "en cuanto a": {
+    "en": "as for/regarding",
+    "pos": "phrase"
+  },
+  "pese a": {
+    "en": "despite",
+    "pos": "phrase",
+    "note": "More cultured than 'a pesar de'"
+  },
+  "por consiguiente": {
+    "en": "consequently",
+    "pos": "phrase"
+  },
+  "cabe": {
+    "en": "it's worth (noting)",
+    "pos": "v",
+    "note": "'Cabe señalar' = it's worth pointing out"
+  },
+  "en efecto": {
+    "en": "indeed",
+    "pos": "phrase"
+  },
+  "de ahí que": {
+    "en": "hence/that's why",
+    "pos": "phrase",
+    "note": "Takes the subjunctive"
+  },
+  "atinado": {
+    "en": "apt/spot-on",
+    "pos": "adj",
+    "g": "m",
+    "note": "Well-judged, accurate"
+  },
+  "dichoso": {
+    "en": "blessed/fortunate",
+    "pos": "adj",
+    "g": "m"
+  },
+  "somero": {
+    "en": "cursory/superficial",
+    "pos": "adj",
+    "g": "m"
+  },
+  "acérrimo": {
+    "en": "staunch/diehard",
+    "pos": "adj",
+    "g": "m"
+  },
+  "minucioso": {
+    "en": "meticulous",
+    "pos": "adj",
+    "g": "m"
+  },
+  "meticuloso": {
+    "en": "meticulous",
+    "pos": "adj",
+    "g": "m"
+  },
+  "tajante": {
+    "en": "categorical/blunt",
+    "pos": "adj"
+  },
+  "ferviente": {
+    "en": "fervent",
+    "pos": "adj"
+  },
+  "ameno": {
+    "en": "pleasant/enjoyable",
+    "pos": "adj",
+    "g": "m"
+  },
+  "perspicaz": {
+    "en": "perceptive/sharp",
+    "pos": "adj"
+  },
+  "índole": {
+    "en": "nature/character",
+    "pos": "n",
+    "g": "f",
+    "note": "'De otra índole' = of another nature"
+  },
+  "esgrimir": {
+    "en": "to wield/put forth (an argument)",
+    "pos": "v"
+  },
+  "ponderar": {
+    "en": "to weigh/ponder",
+    "pos": "v"
+  },
+  "vislumbrar": {
+    "en": "to glimpse",
+    "pos": "v"
+  },
+  "suscitar": {
+    "en": "to provoke/stir up",
+    "pos": "v"
+  },
+  "acaecer": {
+    "en": "to happen (literary)",
+    "pos": "v",
+    "note": "Refined form of 'suceder'"
+  },
+  "ahondar": {
+    "en": "to delve deeper",
+    "pos": "v"
+  },
+  "recalcar": {
+    "en": "to stress/emphasize",
+    "pos": "v"
+  },
+  "entrañar": {
+    "en": "to entail/involve",
+    "pos": "v"
+  },
+  "sopesar": {
+    "en": "to weigh up",
+    "pos": "v"
+  },
+  "albergar": {
+    "en": "to harbor/shelter",
+    "pos": "v",
+    "note": "'Albergar una esperanza' = to harbor a hope"
+  },
+  "inherente": {
+    "en": "inherent",
+    "pos": "adj"
+  },
+  "sucinto": {
+    "en": "succinct",
+    "pos": "adj",
+    "g": "m"
+  },
+  "consabido": {
+    "en": "well-known/usual",
+    "pos": "adj",
+    "g": "m"
+  },
+  "pertinente": {
+    "en": "pertinent/relevant",
+    "pos": "adj"
+  },
+  "ineludible": {
+    "en": "unavoidable",
+    "pos": "adj"
+  },
+  "loable": {
+    "en": "praiseworthy",
+    "pos": "adj"
+  },
+  "soslayar": {
+    "en": "to sidestep/avoid",
+    "pos": "v"
+  },
+  "imprescindible": {
+    "en": "indispensable",
+    "pos": "adj"
+  },
+  "estimado": {
+    "en": "dear/esteemed",
+    "pos": "adj",
+    "g": "m",
+    "note": "Formal letter opener: 'Estimado señor'"
+  },
+  "disposición": {
+    "en": "disposal/willingness",
+    "pos": "n",
+    "g": "f",
+    "note": "'A su disposición' = at your service"
+  },
+  "cordial": {
+    "en": "cordial/warm",
+    "pos": "adj"
+  },
+  "remitir": {
+    "en": "to send/forward",
+    "pos": "v",
+    "note": "Formal: to send a document"
+  },
+  "acatar": {
+    "en": "to comply with/obey",
+    "pos": "v"
+  },
+  "conforme": {
+    "en": "in accordance/agreed",
+    "pos": "adj",
+    "note": "'Conforme a' = in accordance with"
+  },
+  "atentamente": {
+    "en": "sincerely",
+    "pos": "adv",
+    "note": "Formal letter closing"
+  },
+  "destacar": {
+    "en": "to highlight/stand out",
+    "pos": "v"
+  },
+  "apreciar": {
+    "en": "to appreciate/perceive",
+    "pos": "v"
+  },
+  "percibir": {
+    "en": "to perceive",
+    "pos": "v"
+  },
+  "diferenciar": {
+    "en": "to differentiate",
+    "pos": "v"
+  },
+  "leve": {
+    "en": "slight/light",
+    "pos": "adj"
+  },
+  "sosiego": {
+    "en": "calm/tranquility",
+    "pos": "n",
+    "g": "m"
+  },
+  "anhelo": {
+    "en": "longing/yearning",
+    "pos": "n",
+    "g": "m"
+  },
+  "recelo": {
+    "en": "distrust/suspicion",
+    "pos": "n",
+    "g": "m"
+  },
+  "atisbo": {
+    "en": "hint/glimpse",
+    "pos": "n",
+    "g": "m"
+  },
+  "menester": {
+    "en": "necessity",
+    "pos": "n",
+    "g": "m",
+    "note": "'Es menester' = it's necessary (refined)"
+  },
+  "hincapié": {
+    "en": "emphasis",
+    "pos": "n",
+    "g": "m",
+    "note": "'Hacer hincapié' = to emphasize"
+  },
+  "auge": {
+    "en": "peak/boom",
+    "pos": "n",
+    "g": "m"
+  },
+  "merma": {
+    "en": "decrease/loss",
+    "pos": "n",
+    "g": "f"
+  },
+  "albedrío": {
+    "en": "will",
+    "pos": "n",
+    "g": "m",
+    "note": "'Libre albedrío' = free will"
+  },
+  "ímpetu": {
+    "en": "impetus/drive",
+    "pos": "n",
+    "g": "m"
+  },
+  "a la postre": {
+    "en": "in the end",
+    "pos": "phrase"
+  },
+  "de buenas a primeras": {
+    "en": "suddenly/out of nowhere",
+    "pos": "phrase"
+  },
+  "a ciencia cierta": {
+    "en": "for certain",
+    "pos": "phrase"
+  },
+  "sin ton ni son": {
+    "en": "without rhyme or reason",
+    "pos": "phrase"
+  },
+  "a regañadientes": {
+    "en": "reluctantly",
+    "pos": "phrase"
+  },
+  "a sabiendas": {
+    "en": "knowingly",
+    "pos": "phrase"
+  },
+  "de buen grado": {
+    "en": "willingly",
+    "pos": "phrase"
+  },
+  "a duras penas": {
+    "en": "barely/with difficulty",
+    "pos": "phrase"
+  },
+  "por si fuera poco": {
+    "en": "as if that weren't enough",
+    "pos": "phrase"
+  },
+  "a fin de cuentas": {
+    "en": "when all's said and done",
+    "pos": "phrase"
+  },
+  "editorial": {
+    "en": "editorial",
+    "pos": "n",
+    "g": "m"
+  },
+  "prosa": {
+    "en": "prose",
+    "pos": "n",
+    "g": "f"
+  },
+  "interpretar": {
+    "en": "to interpret",
+    "pos": "v"
+  },
+  "trasfondo": {
+    "en": "background/subtext",
+    "pos": "n",
+    "g": "m"
+  },
+  "denso": {
+    "en": "dense",
+    "pos": "adj",
+    "g": "m"
+  },
+  "matizado": {
+    "en": "nuanced",
+    "pos": "adj",
+    "g": "m"
+  },
+  "soltura": {
+    "en": "ease/fluency",
+    "pos": "n",
+    "g": "f",
+    "note": "'Con soltura' = with ease"
+  },
+  "bicho": {
+    "en": "critter/bug; kid (Nica slang)",
+    "pos": "n",
+    "g": "m",
+    "note": "Informal — a bug, or affectionately a kid"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "s02",
+  "title": "El mercado",
+  "desc": "Shopping at a Nicaraguan market",
+  "ph": 0,
+  "diff": 1,
+  "wu": [
+    "mercado",
+    "gente",
+    "córdobas",
+    "querés",
+    "dale",
+    "chavalo",
+    "mirá",
+    "dinero",
+    "comprar",
+    "cuánto"
+  ],
+  "sn": [
+    {
+      "s": "El mercado es grande. Hay mucha gente y mucho ruido.",
+      "e": "The market is big. Lots of people and noise."
+    },
+    {
+      "s": "Yo necesito comprar comida para la casa.",
+      "e": "I need to buy food for the house."
+    },
+    {
+      "s": "\"Buenos días. ¿Cuánto por las naranjas?\"",
+      "e": "\"Good morning. How much for the oranges?\""
+    },
+    {
+      "s": "\"Diez córdobas la bolsa,\" me dice.",
+      "e": "\"Ten córdobas per bag,\" she tells me."
+    },
+    {
+      "s": "\"Pero si querés tres, te los dejo en doce.\"",
+      "e": "\"But if you want three, I'll let them go for twelve.\""
+    },
+    {
+      "s": "\"Dale pues, me llevo tres mangos y una bolsa de naranjas.\"",
+      "e": "\"Okay then, I'll take three mangos and a bag of oranges.\""
+    },
+    {
+      "s": "Un hombre me dice: \"Mirá, ahí donde ese chavalo está es donde venden el mejor arroz.\"",
+      "e": "\"Look, where that kid is — that's where they sell the best rice.\""
+    },
+    {
+      "s": "El chavalo es muy amable. \"Aquí tenés. ¿Algo más?\"",
+      "e": "The kid is very friendly. \"Here you go. Anything else?\""
+    },
+    {
+      "s": "Le doy el dinero. \"Gracias, que le vaya bien.\"",
+      "e": "I give him the money. \"Thanks, take care.\""
+    },
+    {
+      "s": "En el mercado siempre hay algo nuevo. Me gusta este lugar.",
+      "e": "At the market there's always something new. I like this place."
+    }
+  ]
+}

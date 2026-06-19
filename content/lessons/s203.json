@@ -1,0 +1,24 @@
+{
+  "id": "s203",
+  "title": "Una invitación",
+  "desc": "Invited to a friend's home",
+  "ph": 2,
+  "diff": 5,
+  "wu": ["invitar", "cena", "casa", "mamá", "papá", "pasar", "sentarse", "rico", "platica", "sentir"],
+  "sn": [
+    { "s": "Roberto me invita a cenar a su casa.", "e": "Roberto invites me to dinner at his house." },
+    { "s": "\"Mi mamá quiere conocerte,\" me dice.", "e": "\"My mom wants to meet you,\" he says." },
+    { "s": "Llego con un poco de nervios.", "e": "I arrive a little nervous." },
+    { "s": "\"¡Pase, pase! Bienvenido,\" dice su mamá.", "e": "\"Come in, come in! Welcome,\" says his mom." },
+    { "s": "\"Buenas noches, doña. Gracias por invitarme.\"", "e": "\"Good evening, ma'am. Thank you for inviting me.\"" },
+    { "s": "\"Siéntese. Está en su casa.\"", "e": "\"Sit down. Make yourself at home.\"" },
+    { "s": "La mesa está llena de comida.", "e": "The table is full of food." },
+    { "s": "\"Hice gallo pinto y pollo. Coma, coma.\"", "e": "\"I made gallo pinto and chicken. Eat, eat.\"" },
+    { "s": "\"Todo está riquísimo, doña. Gracias.\"", "e": "\"Everything is delicious, ma'am. Thank you.\"" },
+    { "s": "Platicamos toda la noche.", "e": "We chat all night." },
+    { "s": "Me preguntan de mi familia, de mi país.", "e": "They ask about my family, my country." },
+    { "s": "\"Aquí siempre tenés un plato en esta mesa,\" dice ella.", "e": "\"Here you always have a plate at this table,\" she says." },
+    { "s": "Me siento parte de algo.", "e": "I feel like part of something." },
+    { "s": "En Nicaragua, invitarte a comer es abrirte el corazón.", "e": "In Nicaragua, inviting you to eat is opening their heart to you." }
+  ]
+}

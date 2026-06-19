@@ -1,0 +1,24 @@
+{
+  "id": "s310",
+  "title": "Defendiendo mi punto",
+  "desc": "Holding firm in a disagreement",
+  "ph": 3,
+  "diff": 8,
+  "wu": ["defender", "insistir", "argumento", "convencido", "ceder", "razonar", "postura", "evidencia", "mantener", "respetuoso"],
+  "sn": [
+    { "s": "En una reunión, alguien no está de acuerdo conmigo.", "e": "In a meeting, someone disagrees with me." },
+    { "s": "\"Creo que su idea no va a funcionar,\" me dice.", "e": "\"I think your idea won't work,\" he tells me." },
+    { "s": "Antes me quedaba callado. Ahora no.", "e": "Before I'd stay quiet. Not anymore." },
+    { "s": "\"Respeto su opinión, pero no estoy convencido.\"", "e": "\"I respect your opinion, but I'm not convinced.\"" },
+    { "s": "\"Mi propuesta tiene varias ventajas,\" explico.", "e": "\"My proposal has several advantages,\" I explain." },
+    { "s": "\"Por ejemplo, ahorra tiempo y dinero.\"", "e": "\"For example, it saves time and money.\"" },
+    { "s": "\"Pero es arriesgado,\" insiste él.", "e": "\"But it's risky,\" he insists." },
+    { "s": "\"Entiendo el riesgo, y aun así lo mantengo.\"", "e": "\"I understand the risk, and I still stand by it.\"" },
+    { "s": "\"Tengo evidencia de que ya funcionó antes.\"", "e": "\"I have evidence that it worked before.\"" },
+    { "s": "Defiendo mi postura sin faltar al respeto.", "e": "I defend my position without being disrespectful." },
+    { "s": "\"Bueno, escuchemos a los demás,\" dice la jefa.", "e": "\"Well, let's hear the others,\" says the boss." },
+    { "s": "No cedí solo por miedo a hablar.", "e": "I didn't give in just out of fear of speaking." },
+    { "s": "Mantener mi punto, con respeto y razones.", "e": "Holding my point, with respect and reasons." },
+    { "s": "Esto es tener voz propia en otro idioma.", "e": "This is having your own voice in another language." }
+  ]
+}

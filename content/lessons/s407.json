@@ -1,0 +1,24 @@
+{
+  "id": "s407",
+  "title": "Un desacuerdo en pareja",
+  "desc": "Working through a disagreement",
+  "ph": 4,
+  "diff": 8,
+  "wu": ["discutir", "molesto", "disculparse", "entender", "espacio", "calmarse", "reconciliarse", "herir", "perdonar", "madurez"],
+  "sn": [
+    { "s": "Lucía y yo tuvimos nuestra primera pelea.", "e": "Lucía and I had our first fight." },
+    { "s": "Discutimos por algo pequeño que creció.", "e": "We argued over something small that grew." },
+    { "s": "Los dos dijimos cosas sin pensar.", "e": "We both said things without thinking." },
+    { "s": "Después de un rato, me calmo y pienso.", "e": "After a while, I calm down and think." },
+    { "s": "Voy a buscarla. \"Lucía, hablemos, por favor.\"", "e": "I go find her. \"Lucía, let's talk, please.\"" },
+    { "s": "\"Perdoná lo que dije. Estaba molesto.\"", "e": "\"Forgive what I said. I was upset.\"" },
+    { "s": "\"Yo también lo siento,\" dice ella, suave.", "e": "\"I'm sorry too,\" she says, softly." },
+    { "s": "\"No quiero herirte nunca,\" le digo.", "e": "\"I never want to hurt you,\" I tell her." },
+    { "s": "\"Quiero que entendás cómo me sentí.\"", "e": "\"I want you to understand how I felt.\"" },
+    { "s": "Nos escuchamos con calma, sin gritar.", "e": "We listen to each other calmly, without shouting." },
+    { "s": "\"Las parejas también discuten. Lo importante es reconciliarse.\"", "e": "\"Couples argue too. What matters is making up.\"" },
+    { "s": "Nos abrazamos y el enojo desaparece.", "e": "We hug and the anger disappears." },
+    { "s": "Pelear bien y perdonar es parte del amor.", "e": "Fighting fairly and forgiving is part of love." },
+    { "s": "Cada desacuerdo superado nos hace más fuertes.", "e": "Every disagreement overcome makes us stronger." }
+  ]
+}

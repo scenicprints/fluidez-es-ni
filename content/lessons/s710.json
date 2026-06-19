@@ -1,0 +1,24 @@
+{
+  "id": "s710",
+  "title": "El idioma del alma",
+  "desc": "The journey's end",
+  "ph": 7,
+  "diff": 14,
+  "wu": ["alma", "viaje", "transformar", "agradecer", "hogar", "completo", "raíz", "pertenecer", "principio", "siempre"],
+  "sn": [
+    { "s": "Han pasado años desde aquel primer 'buenas'.", "e": "Years have passed since that first 'hello'." },
+    { "s": "Aquel día llegué sin saber una sola palabra.", "e": "That day I arrived without knowing a single word." },
+    { "s": "Hoy pienso, sueño, amo y vivo en español.", "e": "Today I think, dream, love, and live in Spanish." },
+    { "s": "Lucía y yo caminamos por el mismo mercado de antes.", "e": "Lucía and I walk through the same market as before." },
+    { "s": "Saludo a doña Carmen, a Roberto, a los vecinos.", "e": "I greet doña Carmen, Roberto, the neighbors." },
+    { "s": "Cada rostro es parte de mi historia ahora.", "e": "Each face is part of my story now." },
+    { "s": "\"¿En qué pensás?\" me pregunta Lucía.", "e": "\"What are you thinking about?\" Lucía asks me." },
+    { "s": "\"En el viaje. En todo lo que este idioma me dio.\"", "e": "\"About the journey. About all this language gave me.\"" },
+    { "s": "Un idioma no son solo palabras y reglas.", "e": "A language isn't just words and rules." },
+    { "s": "Es una puerta a un pueblo, a un amor, a un hogar.", "e": "It's a door to a people, to a love, to a home." },
+    { "s": "Aprender español fue aprender a pertenecer.", "e": "Learning Spanish was learning to belong." },
+    { "s": "Empecé buscando palabras y encontré una vida.", "e": "I started searching for words and found a life." },
+    { "s": "Y aunque este es el final del camino, sé una cosa.", "e": "And though this is the end of the road, I know one thing." },
+    { "s": "Con un idioma en el alma, uno nunca deja de empezar.", "e": "With a language in your soul, you never stop beginning." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s301",
+  "title": "No estoy de acuerdo",
+  "desc": "Disagreeing with substance",
+  "ph": 3,
+  "diff": 6,
+  "wu": ["acuerdo", "pensar", "razón", "creer", "opinión", "punto", "aunque", "verdad", "respetar", "diferir"],
+  "sn": [
+    { "s": "Roberto y yo hablamos de política.", "e": "Roberto and I talk about politics." },
+    { "s": "\"Yo creo que la ciudad necesita más buses,\" dice él.", "e": "\"I think the city needs more buses,\" he says." },
+    { "s": "\"Entiendo tu punto, pero no estoy de acuerdo.\"", "e": "\"I understand your point, but I disagree.\"" },
+    { "s": "\"¿Por qué no?\" pregunta, curioso.", "e": "\"Why not?\" he asks, curious." },
+    { "s": "\"Creo que el problema no son los buses.\"", "e": "\"I think the problem isn't the buses.\"" },
+    { "s": "\"El problema son las calles, que están malas.\"", "e": "\"The problem is the streets, which are bad.\"" },
+    { "s": "\"Tenés razón en eso,\" admite Roberto.", "e": "\"You're right about that,\" Roberto admits." },
+    { "s": "\"Aunque pienso que las dos cosas importan.\"", "e": "\"Although I think both things matter.\"" },
+    { "s": "\"Es verdad. Tal vez los dos tenemos razón.\"", "e": "\"That's true. Maybe we're both right.\"" },
+    { "s": "Discutir sin pelear es un arte.", "e": "Arguing without fighting is an art." },
+    { "s": "Aprendí a decir 'no estoy de acuerdo' con respeto.", "e": "I learned to say 'I disagree' with respect." },
+    { "s": "Se puede diferir y seguir siendo amigos.", "e": "You can differ and still be friends." },
+    { "s": "Defender una idea en español me da confianza.", "e": "Defending an idea in Spanish gives me confidence." },
+    { "s": "Ya no solo escucho: ahora participo.", "e": "I no longer just listen: now I take part." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "s701",
+  "title": "Conectores cultos",
+  "desc": "Sophisticated connectors natives use",
+  "ph": 7,
+  "diff": 13,
+  "wu": ["no obstante", "por ende", "asimismo", "dado que", "en cuanto a", "pese a", "por consiguiente", "cabe", "en efecto", "de ahí que"],
+  "sn": [
+    { "s": "En una reunión seria, noto cómo hablan los profesionales.", "e": "In a serious meeting, I notice how professionals speak." },
+    { "s": "No usan 'pero'; usan 'no obstante'.", "e": "They don't use 'pero'; they use 'no obstante' (nonetheless)." },
+    { "s": "No dicen 'por eso'; dicen 'por ende' o 'por consiguiente'.", "e": "They don't say 'por eso'; they say 'por ende' or 'por consiguiente' (therefore)." },
+    { "s": "\"El plan es bueno; no obstante, tiene riesgos,\" digo.", "e": "\"The plan is good; nonetheless, it has risks,\" I say." },
+    { "s": "\"Dado que el tiempo apremia, debemos decidir hoy.\"", "e": "\"Given that time is pressing, we must decide today.\"" },
+    { "s": "'Asimismo' enlaza ideas con elegancia: 'y también'.", "e": "'Asimismo' (likewise) links ideas elegantly: 'and also'." },
+    { "s": "\"En cuanto a los costos, los analizaremos después.\"", "e": "\"As for the costs, we'll analyze them later.\"" },
+    { "s": "'Pese a' suena más culto que 'a pesar de'.", "e": "'Pese a' (despite) sounds more cultured than 'a pesar de'." },
+    { "s": "\"Pese a las dudas, en efecto, el proyecto avanza.\"", "e": "\"Despite the doubts, indeed, the project moves forward.\"" },
+    { "s": "Estos conectores son el andamiaje del habla culta.", "e": "These connectors are the scaffolding of cultured speech." },
+    { "s": "Un nativo los usa sin pensar; yo aprendí a hacerlo.", "e": "A native uses them without thinking; I learned to do it." },
+    { "s": "\"De ahí que su español suene tan pulido,\" dice la jefa.", "e": "\"Hence your Spanish sounds so polished,\" the boss says." },
+    { "s": "Cambiar 'pero' por 'no obstante' eleva todo el discurso.", "e": "Swapping 'pero' for 'no obstante' elevates the whole speech." },
+    { "s": "Ya no hablo solo correcto: hablo con altura.", "e": "I no longer speak just correctly: I speak with elevation." }
+  ]
+}

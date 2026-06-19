@@ -1,0 +1,24 @@
+{
+  "id": "s708",
+  "title": "Expresiones de nativo",
+  "desc": "Set phrases that mark a native",
+  "ph": 7,
+  "diff": 14,
+  "wu": ["a la postre", "de buenas a primeras", "a ciencia cierta", "sin ton ni son", "a regañadientes", "a sabiendas", "de buen grado", "a duras penas", "por si fuera poco", "a fin de cuentas"],
+  "sn": [
+    { "s": "Las expresiones fijas son la firma de un nativo.", "e": "Set expressions are a native's signature." },
+    { "s": "'A la postre' significa 'al final, al fin y al cabo'.", "e": "'A la postre' means 'in the end, after all'." },
+    { "s": "\"A la postre, todo salió bien,\" digo con calma.", "e": "\"In the end, everything turned out fine,\" I say calmly." },
+    { "s": "'De buenas a primeras' es 'de repente, sin aviso'.", "e": "'De buenas a primeras' is 'suddenly, without warning'." },
+    { "s": "'A ciencia cierta' es 'con total certeza'.", "e": "'A ciencia cierta' is 'with total certainty'." },
+    { "s": "\"No lo sé a ciencia cierta,\" admito con honestidad.", "e": "\"I don't know it for certain,\" I admit honestly." },
+    { "s": "Hacer algo 'a regañadientes' es hacerlo de mala gana.", "e": "Doing something 'a regañadientes' is doing it reluctantly." },
+    { "s": "Hacer algo 'de buen grado' es hacerlo con gusto.", "e": "Doing something 'de buen grado' is doing it willingly." },
+    { "s": "'A duras penas' es 'con mucha dificultad, apenas'.", "e": "'A duras penas' is 'barely, with great difficulty'." },
+    { "s": "'Por si fuera poco' añade algo más a una lista.", "e": "'Por si fuera poco' adds something more: 'as if that weren't enough'." },
+    { "s": "\"Llovió, y por si fuera poco, se fue la luz.\"", "e": "\"It rained, and as if that weren't enough, the power went out.\"" },
+    { "s": "'A fin de cuentas' es 'al final, considerándolo todo'.", "e": "'A fin de cuentas' is 'when all's said and done'." },
+    { "s": "Estas frases no se traducen palabra por palabra.", "e": "These phrases aren't translated word for word." },
+    { "s": "Se sueltan en el momento justo, como lo hace un nativo.", "e": "They drop at just the right moment, like a native does." }
+  ]
+}
