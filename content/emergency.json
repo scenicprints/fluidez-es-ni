@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Getting help",
+    "phrases": [
+      {
+        "es": "Necesito ayuda, por favor.",
+        "en": "I need help, please."
+      },
+      {
+        "es": "Es una emergencia.",
+        "en": "This is an emergency."
+      },
+      {
+        "es": "Llame a una ambulancia.",
+        "en": "Call an ambulance."
+      },
+      {
+        "es": "Llame a la policía.",
+        "en": "Call the police."
+      },
+      {
+        "es": "¿Dónde está el hospital más cercano?",
+        "en": "Where is the nearest hospital?"
+      },
+      {
+        "es": "No hablo mucho español.",
+        "en": "I don't speak much Spanish."
+      },
+      {
+        "es": "¿Habla inglés alguien aquí?",
+        "en": "Does anyone here speak English?"
+      }
+    ]
+  },
+  {
+    "title": "If you are hurt or ill",
+    "phrases": [
+      {
+        "es": "Me siento mal.",
+        "en": "I feel ill."
+      },
+      {
+        "es": "Me duele aquí.",
+        "en": "It hurts here."
+      },
+      {
+        "es": "No puedo respirar bien.",
+        "en": "I can't breathe properly."
+      },
+      {
+        "es": "Soy alérgico a la penicilina.",
+        "en": "I'm allergic to penicillin."
+      },
+      {
+        "es": "Necesito un médico.",
+        "en": "I need a doctor."
+      },
+      {
+        "es": "Necesito una farmacia.",
+        "en": "I need a pharmacy."
+      },
+      {
+        "es": "Tengo fiebre.",
+        "en": "I have a fever."
+      }
+    ]
+  },
+  {
+    "title": "Lost, robbed or stuck",
+    "phrases": [
+      {
+        "es": "Estoy perdido.",
+        "en": "I'm lost. (fem: perdida)"
+      },
+      {
+        "es": "Me robaron.",
+        "en": "I've been robbed."
+      },
+      {
+        "es": "Perdí mi pasaporte.",
+        "en": "I lost my passport."
+      },
+      {
+        "es": "¿Me puede ayudar a llamar a alguien?",
+        "en": "Can you help me call someone?"
+      },
+      {
+        "es": "No entiendo. Más despacio, por favor.",
+        "en": "I don't understand. Slower, please."
+      },
+      {
+        "es": "Lléveme a esta dirección, por favor.",
+        "en": "Take me to this address, please."
+      }
+    ]
+  },
+  {
+    "title": "Saying no, firmly",
+    "phrases": [
+      {
+        "es": "No, gracias. Déjeme en paz.",
+        "en": "No thank you. Leave me alone."
+      },
+      {
+        "es": "Voy a llamar a la policía.",
+        "en": "I'm going to call the police."
+      },
+      {
+        "es": "Estoy esperando a un amigo.",
+        "en": "I'm waiting for a friend."
+      },
+      {
+        "es": "No llevo dinero.",
+        "en": "I'm not carrying any money."
+      }
+    ]
+  }
+]

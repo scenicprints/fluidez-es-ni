@@ -936,5 +936,19 @@
       "diff": 14,
       "path": "lessons/s710.json"
     }
-  ]
+  ],
+  "name": "Nicaraguan Spanish",
+  "speech": "es-MX",
+  "features": [
+    "reader",
+    "scenes",
+    "review",
+    "verbs",
+    "order",
+    "words",
+    "patterns",
+    "audio"
+  ],
+  "verbs": "verbs.json",
+  "emergency": "emergency.json"
 }
