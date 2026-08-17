@@ -1,0 +1,71 @@
+{
+  "_comment": "What Momo is allowed to say, and when he has earned the right to say it. Each line is gated on words the learner has actually met — same trigger/min shape as patterns — so he never says something you would not understand, and he grows more idiomatic as you do. Every 'when' needs at least one ungated line or a brand new learner meets a silent bird. Keep lines SHORT: the speech bubble does not wrap.",
+
+  "lines": [
+    { "id": "w-hola",    "when": "welcome", "state": "happy", "say": "¡Hola!",           "en": "Hi!" },
+    { "id": "w-buenas",  "when": "welcome", "state": "happy", "say": "¡Buenas!",         "en": "Hey there",        "trigger": ["buenas"], "min": 1 },
+    { "id": "w-dale",    "when": "welcome", "state": "happy", "say": "Dale pues",        "en": "Go on then",       "trigger": ["dale", "pues"], "min": 2 },
+    { "id": "w-vamos",   "when": "welcome", "state": "cheer", "say": "¡Vamos!",          "en": "Let's go",         "trigger": ["vamos"], "min": 1 },
+    { "id": "w-vos",     "when": "welcome", "state": "happy", "say": "¿Qué hacés, vos?", "en": "What are you up to?", "trigger": ["hacés", "vos"], "min": 2 },
+    { "id": "w-ideay",   "when": "welcome", "state": "cheer", "say": "¡Ideay!",          "en": "Well hey!",        "trigger": ["ideay", "diay"], "min": 1 },
+    { "id": "w-compa",   "when": "welcome", "state": "cheer", "say": "¡Ey, compa!",      "en": "Hey, mate!",       "trigger": ["compa", "pana", "maje"], "min": 2 },
+
+    { "id": "p-hola",    "when": "poke", "state": "happy", "say": "¡Hola, hola!",     "en": "Hello hello" },
+    { "id": "p-gracias", "when": "poke", "state": "happy", "say": "¡Gracias!",        "en": "Thanks!",          "trigger": ["gracias"], "min": 1 },
+    { "id": "p-bien",    "when": "poke", "state": "happy", "say": "Todo bien",        "en": "All good",         "trigger": ["todo", "bien"], "min": 2 },
+    { "id": "p-agua",    "when": "poke", "state": "speak", "say": "Agua, por favor",  "en": "Water, please",    "trigger": ["agua", "por favor"], "min": 2 },
+    { "id": "p-escucha", "when": "poke", "state": "speak", "say": "Escuchá bien",     "en": "Listen closely",   "trigger": ["escuchar", "bien"], "min": 2 },
+    { "id": "p-cafe",    "when": "poke", "state": "happy", "say": "¿Un café?",        "en": "A coffee?",        "trigger": ["café"], "min": 1 },
+    { "id": "p-platica", "when": "poke", "state": "speak", "say": "Vamos a platicar", "en": "Let's chat",       "trigger": ["platicar", "vamos"], "min": 2 },
+    { "id": "p-tranqui", "when": "poke", "state": "happy", "say": "Tranqui, maje",    "en": "Easy there, mate", "trigger": ["tranqui", "maje"], "min": 2 },
+    { "id": "p-nica",    "when": "poke", "state": "cheer", "say": "¡Ya sos nica!",    "en": "You're Nicaraguan now!", "trigger": ["nica", "sos"], "min": 2 },
+
+    { "id": "g-wow",     "when": "great", "state": "cheer", "say": "¡Wow!",            "en": "Wow!" },
+    { "id": "g-bien",    "when": "great", "state": "cheer", "say": "¡Muy bien!",       "en": "Very good!",       "trigger": ["bien"], "min": 1 },
+    { "id": "g-mejor",   "when": "great", "state": "cheer", "say": "¡Cada vez mejor!", "en": "Better every time!", "trigger": ["mejor", "vez"], "min": 2 },
+    { "id": "g-fuerte",  "when": "great", "state": "cheer", "say": "¡Vas fuerte!",     "en": "You're going strong!", "trigger": ["fuerte"], "min": 1 },
+    { "id": "g-tuani",   "when": "great", "state": "cheer", "say": "¡Qué tuani!",      "en": "How cool!",        "trigger": ["tuani"], "min": 1 },
+    { "id": "g-pinol",   "when": "great", "state": "cheer", "say": "¡Ya sos pinolero!", "en": "You're a true Nicaraguan!", "trigger": ["pinolero", "sos"], "min": 2 },
+
+    { "id": "o-notbad",  "when": "ok", "state": "happy", "say": "Not bad",        "en": "Not bad" },
+    { "id": "o-bien",    "when": "ok", "state": "happy", "say": "Está bien",      "en": "That's alright",   "trigger": ["bien"], "min": 1 },
+    { "id": "o-casi",    "when": "ok", "state": "happy", "say": "Casi, casi",     "en": "Almost, almost",   "trigger": ["casi"], "min": 1 },
+    { "id": "o-segui",   "when": "ok", "state": "happy", "say": "Seguí así",      "en": "Keep at it",       "trigger": ["seguir"], "min": 1 },
+    { "id": "o-poco",    "when": "ok", "state": "happy", "say": "Un poco mejor",  "en": "A little better",  "trigger": ["poco", "mejor"], "min": 2 },
+    { "id": "o-tranqui", "when": "ok", "state": "happy", "say": "Tranqui, vas bien", "en": "Easy, you're doing fine", "trigger": ["tranqui", "bien"], "min": 2 },
+
+    { "id": "d-again",   "when": "poor", "state": "wrong", "say": "Again?",       "en": "Again?" },
+    { "id": "d-otra",    "when": "poor", "state": "wrong", "say": "Otra vez",     "en": "One more time",    "trigger": ["otra", "vez"], "min": 2 },
+    { "id": "d-despa",   "when": "poor", "state": "wrong", "say": "Despacio",     "en": "Slowly",           "trigger": ["despacio"], "min": 1 },
+    { "id": "d-mal",     "when": "poor", "state": "wrong", "say": "No está mal",  "en": "It's not bad",     "trigger": ["mal"], "min": 1 },
+    { "id": "d-tranqui", "when": "poor", "state": "wrong", "say": "Tranqui",      "en": "Take it easy",     "trigger": ["tranqui", "relajo"], "min": 1 },
+    { "id": "d-animo",   "when": "poor", "state": "happy", "say": "¡Ánimo!",      "en": "Chin up!",         "trigger": ["ánimo"], "min": 1 },
+    { "id": "d-ojala",   "when": "poor", "state": "wrong", "say": "Ojalá…",       "en": "Hopefully…",       "trigger": ["ojalá"], "min": 1 },
+
+    { "id": "goal-done", "when": "goal", "state": "cheer", "say": "Goal met!",     "en": "Goal met!" },
+    { "id": "goal-listo","when": "goal", "state": "cheer", "say": "¡Listo!",       "en": "Done!",            "trigger": ["listo"], "min": 1 },
+    { "id": "goal-dia",  "when": "goal", "state": "cheer", "say": "¡Listo el día!", "en": "The day is done!", "trigger": ["listo", "día"], "min": 2 },
+    { "id": "goal-fuer", "when": "goal", "state": "cheer", "say": "¡Otro día fuerte!", "en": "Another strong day!", "trigger": ["otro", "día", "fuerte"], "min": 2 },
+    { "id": "goal-tuani","when": "goal", "state": "cheer", "say": "¡Semana tuani!",    "en": "A cool week!",        "trigger": ["semana", "tuani"], "min": 2 },
+
+    { "id": "pat-new",   "when": "pattern", "state": "cheer", "say": "New pattern!",  "en": "New pattern!" },
+    { "id": "pat-claro", "when": "pattern", "state": "cheer", "say": "¡Claro!",       "en": "Clear!",        "trigger": ["claro"], "min": 1 },
+    { "id": "pat-ent",   "when": "pattern", "state": "cheer", "say": "¡Ya entendés!", "en": "Now you get it!", "trigger": ["entender", "vos"], "min": 2 },
+    { "id": "pat-pal",   "when": "pattern", "state": "cheer", "say": "Otra palabra",  "en": "Another word",  "trigger": ["palabra", "otra"], "min": 2 },
+    { "id": "pat-voseo", "when": "pattern", "state": "cheer", "say": "¡El voseo!",    "en": "The voseo!",    "trigger": ["voseo", "vos"], "min": 2 },
+
+    { "id": "b-back",    "when": "back", "state": "cheer", "say": "You're back!",     "en": "You're back!" },
+    { "id": "b-buenas",  "when": "back", "state": "happy", "say": "¡Buenas otra vez!", "en": "Hello again!",       "trigger": ["buenas", "otra"], "min": 2 },
+    { "id": "b-tiempo",  "when": "back", "state": "cheer", "say": "¡Cuánto tiempo!",   "en": "Long time no see!",  "trigger": ["cuánto", "tiempo"], "min": 2 },
+    { "id": "b-aqui",    "when": "back", "state": "happy", "say": "¡Ya estás aquí!",   "en": "There you are!",     "trigger": ["aquí"], "min": 1 },
+    { "id": "b-esperar", "when": "back", "state": "happy", "say": "Te esperaba",       "en": "I was waiting for you", "trigger": ["esperar"], "min": 1 },
+    { "id": "b-extra",   "when": "back", "state": "cheer", "say": "¡Te extrañaba!",    "en": "I missed you!",      "trigger": ["extrañar"], "min": 1 },
+    { "id": "b-donde",   "when": "back", "state": "happy", "say": "¿Dónde andabas?",   "en": "Where have you been?", "trigger": ["dónde", "vos"], "min": 2 },
+
+    { "id": "s-zzz",     "when": "sleep", "state": "sleep", "say": "Zzz… tap me",   "en": "Zzz… tap me" },
+    { "id": "s-noche",   "when": "sleep", "state": "sleep", "say": "Buenas noches", "en": "Good night",     "trigger": ["buenas", "noche"], "min": 2 },
+    { "id": "s-manana",  "when": "sleep", "state": "sleep", "say": "Mañana…",       "en": "Tomorrow…",      "trigger": ["mañana"], "min": 1 },
+    { "id": "s-tranqui", "when": "sleep", "state": "sleep", "say": "Tranqui… zzz",  "en": "Easy… zzz",      "trigger": ["tranqui"], "min": 1 },
+    { "id": "s-adios",   "when": "sleep", "state": "sleep", "say": "Adiós… zzz",    "en": "Bye… zzz",       "trigger": ["adiós"], "min": 1 }
+  ]
+}

@@ -20,6 +20,75 @@ def read(path):
     with io.open(path, encoding="utf-8") as f:
         return json.load(f)
 
+
+# When Momo opens his beak. Every one of these needs at least one line the
+# learner has already earned on day one, or a beginner meets a silent bird.
+MOMO_WHEN = ("welcome", "back", "poke", "great", "ok", "poor", "goal", "pattern", "sleep")
+MOMO_STATE = ("happy", "cheer", "speak", "wrong", "sleep")
+
+
+def check_momo(doc, problems):
+    """Validate content/momo.json and return the cleaned list of lines."""
+    lines = doc.get("lines") if isinstance(doc, dict) else doc
+    if not isinstance(lines, list) or not lines:
+        problems.append("momo: expected a non-empty 'lines' list")
+        return None
+
+    seen, starters, said = set(), set(), {}
+    for i, ln in enumerate(lines):
+        where = "momo line %d" % (i + 1)
+        if not isinstance(ln, dict):
+            problems.append("%s: should be an object" % where)
+            continue
+
+        lid = ln.get("id")
+        if not lid:
+            problems.append("%s: has no id" % where)
+        elif lid in seen:
+            problems.append("%s: duplicate id %s" % (where, lid))
+        else:
+            seen.add(lid)
+        where = "momo line %s" % (lid or i + 1)
+
+        when = ln.get("when")
+        if when not in MOMO_WHEN:
+            problems.append("%s: 'when' must be one of %s, got %r"
+                            % (where, ", ".join(MOMO_WHEN), when))
+        if ln.get("state") not in MOMO_STATE:
+            problems.append("%s: 'state' must be one of %s, got %r"
+                            % (where, ", ".join(MOMO_STATE), ln.get("state")))
+        say = (ln.get("say") or "").strip()
+        if not say:
+            problems.append("%s: 'say' is empty" % where)
+        elif say in said:
+            # Two moments sharing wording reads as a bug on screen: a bad score
+            # followed by the daily goal said "¡Qué tuani!" twice in a row and
+            # looked like he was praising the score he had just marked down.
+            problems.append("%s: says the same as %s — %r" % (where, said[say], say))
+        else:
+            said[say] = lid or i + 1
+
+        trigger = ln.get("trigger") or []
+        if not isinstance(trigger, list) or any(not isinstance(w, str) for w in trigger):
+            problems.append("%s: 'trigger' must be a list of words" % where)
+            trigger = []
+        mn = ln.get("min", 1 if trigger else 0)
+        if not isinstance(mn, int) or mn < 0:
+            problems.append("%s: 'min' must be a whole number" % where)
+        elif mn > len(trigger):
+            problems.append("%s: needs %d of %d trigger words — unreachable"
+                            % (where, mn, len(trigger)))
+
+        if not trigger:
+            starters.add(when)
+
+    missing = [w for w in MOMO_WHEN if w not in starters]
+    if missing:
+        problems.append("momo: no ungated line for %s — a brand new learner "
+                        "would get silence there" % ", ".join(missing))
+
+    return lines
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", default=".")
@@ -87,6 +156,14 @@ def main():
     verbs = load(manifest["verbs"], "verbs") if manifest.get("verbs") else None
     emergency = load(manifest["emergency"], "emergency") if manifest.get("emergency") else None
 
+    # What the mascot is allowed to say, and when he has earned the right to
+    # say it. Each line is gated on vocabulary the learner has actually met,
+    # using the same trigger/min shape as patterns, so he only ever speaks
+    # words you would understand — and he grows more idiomatic as you do.
+    momo = load(manifest["momo"], "momo") if manifest.get("momo") else None
+    if momo is not None:
+        momo = check_momo(momo, problems)
+
     # Sanity checks worth failing a push over — a broken pack breaks the app
     # for everyone at once, and it is far cheaper to catch it here.
     ids = {}
@@ -124,6 +201,7 @@ def main():
         "scenarios": scenarios,
         "verbs": verbs,
         "emergency": emergency,
+        "momo": momo,
     }
 
     if problems:
@@ -147,6 +225,8 @@ def main():
           (len(lessons), len(scenarios), len(dictionary), len(patterns),
            ", verbs" if verbs else ""))
     print("features   %s" % ", ".join(features))
+    if momo:
+        print("momo       %d lines" % len(momo))
     print("size       %.1f KB" % (size / 1024.0))
     print("version    %s" % args.version)
 

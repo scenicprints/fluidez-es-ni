@@ -950,5 +950,6 @@
     "audio"
   ],
   "verbs": "verbs.json",
-  "emergency": "emergency.json"
+  "emergency": "emergency.json",
+  "momo": "momo.json"
 }
