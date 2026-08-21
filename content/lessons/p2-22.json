@@ -1,0 +1,193 @@
+{
+ "id": "p2-22",
+ "title": "Salud",
+ "desc": "A first night out",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "cerveza",
+  "invitar"
+ ],
+ "sn": [
+  {
+   "s": "Un viernes don Beto me invita a tomar.",
+   "e": "One Friday don Beto invites me for a drink."
+  },
+  {
+   "s": "Vamos con Roberto y con dos vecinos.",
+   "e": "We go with Roberto and two neighbours."
+  },
+  {
+   "s": "Nos sentamos afuera de una pulpería.",
+   "e": "We sit outside a pulpería."
+  },
+  {
+   "s": "Sacan una mesa y cuatro sillas plásticas.",
+   "e": "They bring out a table and four plastic chairs."
+  },
+  {
+   "s": "Don Beto pide cinco cervezas.",
+   "e": "Don Beto asks for five beers."
+  },
+  {
+   "s": "Las cervezas vienen bien heladas.",
+   "e": "The beers come properly cold."
+  },
+  {
+   "s": "Aquí la cerveza tiene que estar helada.",
+   "e": "Here the beer has to be ice cold."
+  },
+  {
+   "s": "Con este calor, una cerveza tibia no sirve.",
+   "e": "In this heat, a warm beer is no use."
+  },
+  {
+   "s": "Antes de tomar, todos levantan la botella.",
+   "e": "Before drinking, everybody raises their bottle."
+  },
+  {
+   "s": "\"¡Salud!\", dicen todos.",
+   "e": "\"Salud!\" they all say."
+  },
+  {
+   "s": "\"¡Salud!\", digo yo también.",
+   "e": "\"Salud!\" I say too."
+  },
+  {
+   "s": "Se toca la botella con la de los demás.",
+   "e": "You touch your bottle against everybody else's."
+  },
+  {
+   "s": "Con todos, uno por uno.",
+   "e": "With everybody, one by one."
+  },
+  {
+   "s": "Y hay que mirar a la cara al brindar.",
+   "e": "And you have to look them in the face when you toast."
+  },
+  {
+   "s": "Después de la primera ronda pido yo.",
+   "e": "After the first round I order."
+  },
+  {
+   "s": "Levanto la mano y pido cinco más.",
+   "e": "I put up my hand and ask for five more."
+  },
+  {
+   "s": "Don Beto me para.",
+   "e": "Don Beto stops me."
+  },
+  {
+   "s": "\"Yo invité\", dice él.",
+   "e": "\"I invited you,\" he says."
+  },
+  {
+   "s": "\"Ya sé. Pero ahora invito yo.\"",
+   "e": "\"I know. But now I'm buying.\""
+  },
+  {
+   "s": "\"Después\", dice don Beto.",
+   "e": "\"Later,\" don Beto says."
+  },
+  {
+   "s": "Aquí el que invita paga toda la noche.",
+   "e": "Here whoever invites pays all night."
+  },
+  {
+   "s": "O hasta que otro tome el turno.",
+   "e": "Or until somebody else takes over."
+  },
+  {
+   "s": "Pero no se divide la cuenta.",
+   "e": "But you do not split the bill."
+  },
+  {
+   "s": "Dividir la cuenta aquí no se hace.",
+   "e": "Splitting the bill is not done here."
+  },
+  {
+   "s": "Yo lo intento a la tercera ronda.",
+   "e": "I try it on the third round."
+  },
+  {
+   "s": "Saco mi plata para pagar lo mío.",
+   "e": "I take out my money to pay for mine."
+  },
+  {
+   "s": "Los tres me miran raro.",
+   "e": "The three of them give me a strange look."
+  },
+  {
+   "s": "\"Guardá esa plata\", dice don Beto.",
+   "e": "\"Put that money away,\" don Beto says."
+  },
+  {
+   "s": "Lo dice serio, no en broma.",
+   "e": "He says it seriously, not as a joke."
+  },
+  {
+   "s": "Roberto me explica en voz baja.",
+   "e": "Roberto explains to me quietly."
+  },
+  {
+   "s": "\"Pagar lo tuyo es como no estar con nosotros.\"",
+   "e": "\"Paying just for yours is like not being with us.\""
+  },
+  {
+   "s": "Yo guardo la plata y no digo nada.",
+   "e": "I put the money away and say nothing."
+  },
+  {
+   "s": "En la cuarta ronda pago yo, entera.",
+   "e": "On the fourth round I pay, the whole thing."
+  },
+  {
+   "s": "Y ahí sí está bien.",
+   "e": "And that is fine."
+  },
+  {
+   "s": "Nadie cuenta cuánto puso cada uno.",
+   "e": "Nobody counts who put in what."
+  },
+  {
+   "s": "Al final del mes todo se empareja solo.",
+   "e": "By the end of the month it evens out on its own."
+  },
+  {
+   "s": "Y si alguien no tiene plata ese día, no importa.",
+   "e": "And if somebody has no money that day, it does not matter."
+  },
+  {
+   "s": "Se le invita y ya.",
+   "e": "You buy for them and that is it."
+  },
+  {
+   "s": "Él invita otro día.",
+   "e": "He buys another day."
+  },
+  {
+   "s": "Tomamos hasta las once.",
+   "e": "We drink until eleven."
+  },
+  {
+   "s": "Hablamos de béisbol y de la calle.",
+   "e": "We talk about baseball and about the street."
+  },
+  {
+   "s": "Yo entiendo la mitad de lo que dicen.",
+   "e": "I understand half of what they say."
+  },
+  {
+   "s": "Y a esa hora, con cerveza, hablan más rápido.",
+   "e": "And at that hour, with beer, they talk faster."
+  },
+  {
+   "s": "Pero me quedo hasta el final.",
+   "e": "But I stay to the end."
+  },
+  {
+   "s": "Porque irse temprano también es raro.",
+   "e": "Because leaving early is strange too."
+  }
+ ]
+}

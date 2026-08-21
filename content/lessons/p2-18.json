@@ -1,0 +1,209 @@
+{
+ "id": "p2-18",
+ "title": "El día de la madre",
+ "desc": "May 30, and it is not negotiable",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "mayo",
+  "mamá"
+ ],
+ "sn": [
+  {
+   "s": "En mayo Roberto me pregunta algo.",
+   "e": "In May Roberto asks me something."
+  },
+  {
+   "s": "\"¿Qué le vas a dar a tu mamá?\"",
+   "e": "\"What are you going to get your mum?\""
+  },
+  {
+   "s": "\"¿Por qué?\", pregunto yo.",
+   "e": "\"Why?\" I ask."
+  },
+  {
+   "s": "\"Es el día de la madre.\"",
+   "e": "\"It's Mother's Day.\""
+  },
+  {
+   "s": "\"El día de la madre es en mayo\", digo yo.",
+   "e": "\"Mother's Day is in May,\" I say."
+  },
+  {
+   "s": "\"Sí. El treinta de mayo.\"",
+   "e": "\"Yes. The thirtieth of May.\""
+  },
+  {
+   "s": "Yo me quedo callado.",
+   "e": "I stay quiet."
+  },
+  {
+   "s": "En mi país es otro día de mayo.",
+   "e": "In my country it is a different day in May."
+  },
+  {
+   "s": "Aquí es el treinta, siempre el treinta.",
+   "e": "Here it is the thirtieth, always the thirtieth."
+  },
+  {
+   "s": "No cambia de año en año.",
+   "e": "It does not move from year to year."
+  },
+  {
+   "s": "El treinta de mayo y punto.",
+   "e": "The thirtieth of May and that is that."
+  },
+  {
+   "s": "Roberto me explica lo grande que es.",
+   "e": "Roberto explains to me how big it is."
+  },
+  {
+   "s": "El día de la madre aquí es enorme.",
+   "e": "Mother's Day here is enormous."
+  },
+  {
+   "s": "Es más grande que un cumpleaños.",
+   "e": "It is bigger than a birthday."
+  },
+  {
+   "s": "Las escuelas hacen actos para las mamás.",
+   "e": "The schools put on shows for the mothers."
+  },
+  {
+   "s": "Los hijos que están afuera llaman ese día.",
+   "e": "The children who are abroad call that day."
+  },
+  {
+   "s": "Llaman aunque no llamen el resto del año.",
+   "e": "They call even if they do not call the rest of the year."
+  },
+  {
+   "s": "Y el que se olvida queda mal para siempre.",
+   "e": "And whoever forgets never lives it down."
+  },
+  {
+   "s": "\"¿Para siempre?\", pregunto yo.",
+   "e": "\"Forever?\" I ask."
+  },
+  {
+   "s": "\"Para siempre\", dice Roberto, muy serio.",
+   "e": "\"Forever,\" Roberto says, completely serious."
+  },
+  {
+   "s": "La noche del veintinueve hay serenata.",
+   "e": "On the night of the twenty-ninth there is a serenade."
+  },
+  {
+   "s": "Los hijos le llevan música a la mamá.",
+   "e": "The children bring music to their mother."
+  },
+  {
+   "s": "Contratan un grupo o ponen el celular.",
+   "e": "They hire a group or play it on a phone."
+  },
+  {
+   "s": "A las doce de la noche empieza.",
+   "e": "At twelve at night it starts."
+  },
+  {
+   "s": "Toda la calle se llena de música.",
+   "e": "The whole street fills with music."
+  },
+  {
+   "s": "Una casa canta y después la otra.",
+   "e": "One house sings and then the next."
+  },
+  {
+   "s": "Nadie duerme y a nadie le importa.",
+   "e": "Nobody sleeps and nobody minds."
+  },
+  {
+   "s": "El treinta las mujeres no cocinan.",
+   "e": "On the thirtieth the women do not cook."
+  },
+  {
+   "s": "Ese día cocinan los hombres.",
+   "e": "That day the men cook."
+  },
+  {
+   "s": "O compran la comida hecha.",
+   "e": "Or they buy the food ready made."
+  },
+  {
+   "s": "Doña Carmen se sienta y no hace nada.",
+   "e": "Doña Carmen sits down and does nothing."
+  },
+  {
+   "s": "Un día entero sin cocinar.",
+   "e": "A whole day without cooking."
+  },
+  {
+   "s": "Se le nota que no está cómoda.",
+   "e": "You can see she is not comfortable."
+  },
+  {
+   "s": "Se levanta tres veces a ayudar.",
+   "e": "She gets up three times to help."
+  },
+  {
+   "s": "Y tres veces la sientan otra vez.",
+   "e": "And three times they sit her back down."
+  },
+  {
+   "s": "Llega toda la familia a la casa.",
+   "e": "The whole family comes to the house."
+  },
+  {
+   "s": "Llegan con regalos y con flores.",
+   "e": "They arrive with presents and flowers."
+  },
+  {
+   "s": "Le llevan un pastel grande.",
+   "e": "They bring her a big cake."
+  },
+  {
+   "s": "Y le dicen cosas que no se dicen el resto del año.",
+   "e": "And they say things to her that are not said the rest of the year."
+  },
+  {
+   "s": "Cada hijo le dice algo a la mamá.",
+   "e": "Each child says something to their mother."
+  },
+  {
+   "s": "Yo también le llevo algo a doña Carmen.",
+   "e": "I take something to doña Carmen too."
+  },
+  {
+   "s": "Le llevo flores, porque no sé qué más.",
+   "e": "I take her flowers, because I do not know what else."
+  },
+  {
+   "s": "Ella se pone las manos en la cara.",
+   "e": "She puts her hands to her face."
+  },
+  {
+   "s": "\"Ay, mijo\", dice ella.",
+   "e": "\"Ay, mijo,\" she says."
+  },
+  {
+   "s": "Y no dice nada más.",
+   "e": "And she says nothing else."
+  },
+  {
+   "s": "Esa noche llamo a mi mamá.",
+   "e": "That night I call my mother."
+  },
+  {
+   "s": "No es el día de la madre en mi país.",
+   "e": "It is not Mother's Day in my country."
+  },
+  {
+   "s": "Pero la llamo igual.",
+   "e": "But I call her anyway."
+  },
+  {
+   "s": "Y hablo con ella una hora.",
+   "e": "And I talk to her for an hour."
+  }
+ ]
+}

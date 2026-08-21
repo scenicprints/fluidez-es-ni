@@ -1,0 +1,197 @@
+{
+ "id": "p2-21",
+ "title": "No seás malo",
+ "desc": "Teasing, and being teased",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "burlarse",
+  "enojarse"
+ ],
+ "sn": [
+  {
+   "s": "Aquí la gente se burla todo el tiempo.",
+   "e": "Here people take the mickey all the time."
+  },
+  {
+   "s": "Se burlan de la ropa, del pelo, de todo.",
+   "e": "They tease you about your clothes, your hair, everything."
+  },
+  {
+   "s": "Se burlan de cómo uno habla.",
+   "e": "They tease you about how you talk."
+  },
+  {
+   "s": "De mí se burlan mucho.",
+   "e": "They tease me a lot."
+  },
+  {
+   "s": "Se burlan de mi acento.",
+   "e": "They tease me about my accent."
+  },
+  {
+   "s": "Se burlan de las palabras que digo mal.",
+   "e": "They tease me about the words I say wrong."
+  },
+  {
+   "s": "Al principio yo me enojaba.",
+   "e": "At first I used to get annoyed."
+  },
+  {
+   "s": "Pensaba que se estaban burlando de verdad.",
+   "e": "I thought they were really laughing at me."
+  },
+  {
+   "s": "Un día me enojo de verdad.",
+   "e": "One day I really do get annoyed."
+  },
+  {
+   "s": "Digo algo mal y todos se ríen.",
+   "e": "I say something wrong and everybody laughs."
+  },
+  {
+   "s": "Yo me levanto y me voy.",
+   "e": "I get up and leave."
+  },
+  {
+   "s": "El patio se queda callado.",
+   "e": "The patio goes quiet."
+  },
+  {
+   "s": "Roberto viene a buscarme al rato.",
+   "e": "Roberto comes to find me a while later."
+  },
+  {
+   "s": "\"¿Qué te pasó?\", pregunta él.",
+   "e": "\"What happened to you?\" he asks."
+  },
+  {
+   "s": "\"Se estaban burlando de mí.\"",
+   "e": "\"They were laughing at me.\""
+  },
+  {
+   "s": "\"Sí\", dice Roberto. \"¿Y?\"",
+   "e": "\"Yes,\" Roberto says. \"And?\""
+  },
+  {
+   "s": "Ahí no nos entendemos.",
+   "e": "That is where we do not understand each other."
+  },
+  {
+   "s": "Para él burlarse no es malo.",
+   "e": "For him teasing is not a bad thing."
+  },
+  {
+   "s": "Roberto me explica con calma.",
+   "e": "Roberto explains it to me calmly."
+  },
+  {
+   "s": "\"Aquí se vacila al que se quiere.\"",
+   "e": "\"Here you tease the ones you like.\""
+  },
+  {
+   "s": "\"Al que no se quiere, no se le habla.\"",
+   "e": "\"The one you don't like, you don't talk to.\""
+  },
+  {
+   "s": "Eso me da vuelta la cabeza.",
+   "e": "That turns everything round for me."
+  },
+  {
+   "s": "Si se burlan de vos, sos del grupo.",
+   "e": "If they tease you, you are one of the group."
+  },
+  {
+   "s": "Si te tratan con cuidado, sos visita.",
+   "e": "If they treat you carefully, you are a visitor."
+  },
+  {
+   "s": "Ser visita para siempre es lo malo.",
+   "e": "Being a visitor forever is the bad thing."
+  },
+  {
+   "s": "\"¿Y qué hago cuando se burlan?\", pregunto.",
+   "e": "\"And what do I do when they tease me?\" I ask."
+  },
+  {
+   "s": "\"Seguíles el chiste\", dice él.",
+   "e": "\"Play along,\" he says."
+  },
+  {
+   "s": "\"O devolvéles otra.\"",
+   "e": "\"Or give them one back.\""
+  },
+  {
+   "s": "Al otro día vuelvo al patio.",
+   "e": "The next day I go back to the patio."
+  },
+  {
+   "s": "Un primo se burla de cómo digo una palabra.",
+   "e": "A cousin teases me about how I say a word."
+  },
+  {
+   "s": "Yo respiro y no me enojo.",
+   "e": "I breathe and I do not get annoyed."
+  },
+  {
+   "s": "Le digo que él tampoco habla inglés.",
+   "e": "I tell him he does not speak English either."
+  },
+  {
+   "s": "Y le digo una palabra en inglés muy difícil.",
+   "e": "And I say a very hard word to him in English."
+  },
+  {
+   "s": "El primo trata de repetirla y le sale horrible.",
+   "e": "The cousin tries to repeat it and it comes out terrible."
+  },
+  {
+   "s": "Todo el patio se ríe de él.",
+   "e": "The whole patio laughs at him."
+  },
+  {
+   "s": "Y él se ríe también.",
+   "e": "And he laughs too."
+  },
+  {
+   "s": "Roberto me mira y me hace una seña.",
+   "e": "Roberto looks at me and gives me a signal."
+  },
+  {
+   "s": "Esa noche entiendo la regla entera.",
+   "e": "That night I understand the whole rule."
+  },
+  {
+   "s": "Vacilar no es para lastimar.",
+   "e": "Teasing is not for hurting."
+  },
+  {
+   "s": "Vacilar es para decir que hay confianza.",
+   "e": "Teasing is a way of saying there is trust."
+  },
+  {
+   "s": "Y hay una sola manera de perder.",
+   "e": "And there is only one way to lose."
+  },
+  {
+   "s": "Enojarse es perder.",
+   "e": "Getting annoyed is losing."
+  },
+  {
+   "s": "El que se enoja queda afuera solo.",
+   "e": "Whoever gets annoyed is left outside on their own."
+  },
+  {
+   "s": "Ahora me burlo de Roberto todos los días.",
+   "e": "Now I tease Roberto every day."
+  },
+  {
+   "s": "Y él se burla de mí más todavía.",
+   "e": "And he teases me even more."
+  },
+  {
+   "s": "Y así sabemos que estamos bien.",
+   "e": "And that is how we know we are all right."
+  }
+ ]
+}

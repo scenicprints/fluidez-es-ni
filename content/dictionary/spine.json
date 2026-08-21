@@ -43,6 +43,11 @@
   "en": "to run out",
   "pos": "v"
  },
+ "acento": {
+  "en": "accent",
+  "g": "m",
+  "pos": "n"
+ },
  "aceptar": {
   "en": "to accept",
   "pos": "v"
@@ -75,6 +80,11 @@
  "acostumbrarse": {
   "en": "to get used to",
   "pos": "v"
+ },
+ "acto": {
+  "en": "school show/ceremony",
+  "g": "m",
+  "pos": "n"
  },
  "acuerdo": {
   "en": "agreement",
@@ -132,6 +142,12 @@
   "en": "to be enough/to reach",
   "pos": "v"
  },
+ "alegría": {
+  "en": "joy",
+  "g": "f",
+  "note": "'¿Quién causa tanta alegría?' - the Gritería call",
+  "pos": "n"
+ },
  "alma": {
   "en": "soul",
   "g": "f",
@@ -146,6 +162,12 @@
  "alrededor": {
   "en": "around",
   "pos": "adv"
+ },
+ "altar": {
+  "en": "altar",
+  "g": "m",
+  "note": "Built in the front room for La Purísima",
+  "pos": "n"
  },
  "alto": {
   "en": "tall/high",
@@ -188,6 +210,12 @@
   "en": "old/ancient",
   "pos": "adj"
  },
+ "antorcha": {
+  "en": "torch",
+  "g": "f",
+  "note": "Run from Guatemala hand to hand, arriving for the fifteenth",
+  "pos": "n"
+ },
  "apagar": {
   "en": "to turn off/to put out",
   "pos": "v"
@@ -202,6 +230,10 @@
   "en": "barely/only just",
   "pos": "adv"
  },
+ "aplaudir": {
+  "en": "to clap",
+  "pos": "v"
+ },
  "apodo": {
   "en": "nickname",
   "g": "m",
@@ -211,6 +243,10 @@
  "apretado": {
   "en": "cramped/packed",
   "pos": "adj"
+ },
+ "apretar": {
+  "en": "to squeeze/to press",
+  "pos": "v"
  },
  "apuntar": {
   "en": "to write down",
@@ -225,6 +261,10 @@
   "en": "sand",
   "g": "f",
   "pos": "n"
+ },
+ "armar": {
+  "en": "to build/to put up",
+  "pos": "v"
  },
  "arreglar": {
   "en": "to fix",
@@ -270,6 +310,10 @@
   "en": "behind/at the back",
   "pos": "adv"
  },
+ "avisar": {
+  "en": "to let somebody know",
+  "pos": "v"
+ },
  "avión": {
   "en": "plane/aeroplane",
   "g": "m",
@@ -289,6 +333,10 @@
   "g": "m",
   "note": "Shouts the route, takes the fare, never sits down",
   "pos": "n"
+ },
+ "azul": {
+  "en": "blue",
+  "pos": "adj"
  },
  "azúcar": {
   "en": "sugar",
@@ -319,6 +367,16 @@
   "g": "m",
   "pos": "n"
  },
+ "banda": {
+  "en": "band",
+  "g": "f",
+  "pos": "n"
+ },
+ "bandera": {
+  "en": "flag",
+  "g": "f",
+  "pos": "n"
+ },
  "barato": {
   "en": "cheap",
   "pos": "adj"
@@ -335,6 +393,11 @@
  "barrio": {
   "en": "neighbourhood",
   "g": "m",
+  "pos": "n"
+ },
+ "batalla": {
+  "en": "battle",
+  "g": "f",
   "pos": "n"
  },
  "bate": {
@@ -377,6 +440,11 @@
   "en": "blessing",
   "g": "f",
   "note": "Children ask elders for it as a greeting. 'Bendición' - 'Dios te bendiga'",
+  "pos": "n"
+ },
+ "beso": {
+  "en": "kiss",
+  "g": "m",
   "pos": "n"
  },
  "bicicleta": {
@@ -431,10 +499,29 @@
   "g": "m",
   "pos": "n"
  },
+ "brillante": {
+  "en": "shiny",
+  "pos": "adj"
+ },
+ "brindar": {
+  "en": "to toast",
+  "note": "Touch every bottle, and look them in the face",
+  "pos": "v"
+ },
  "broma": {
   "en": "joke",
   "g": "f",
   "pos": "n"
+ },
+ "bróder": {
+  "en": "mate",
+  "g": "m",
+  "note": "From English. Between young men",
+  "pos": "n"
+ },
+ "burlarse": {
+  "en": "to make fun of",
+  "pos": "v"
  },
  "buscar": {
   "en": "to look for",
@@ -476,6 +563,15 @@
  },
  "calala": {
   "en": "passionfruit",
+  "g": "f",
+  "pos": "n"
+ },
+ "caliente": {
+  "en": "hot",
+  "pos": "adj"
+ },
+ "calma": {
+  "en": "calm",
   "g": "f",
   "pos": "n"
  },
@@ -588,10 +684,23 @@
   "en": "Catholic",
   "pos": "adj"
  },
+ "causar": {
+  "en": "to cause",
+  "pos": "v"
+ },
+ "caña": {
+  "en": "sugar cane",
+  "g": "f",
+  "pos": "n"
+ },
  "cebolla": {
   "en": "onion",
   "g": "f",
   "pos": "n"
+ },
+ "celebrar": {
+  "en": "to celebrate",
+  "pos": "v"
  },
  "celular": {
   "en": "mobile phone",
@@ -625,6 +734,11 @@
   "en": "to close",
   "pos": "v"
  },
+ "cerveza": {
+  "en": "beer",
+  "g": "f",
+  "pos": "n"
+ },
  "chancho": {
   "en": "pig",
   "g": "m",
@@ -634,6 +748,11 @@
  "chereque": {
   "en": "old junk",
   "g": "m",
+  "pos": "n"
+ },
+ "chicha": {
+  "en": "fermented maize drink",
+  "g": "f",
   "pos": "n"
  },
  "chicharrón": {
@@ -659,6 +778,11 @@
  "chiquito": {
   "en": "tiny/little one",
   "pos": "adj"
+ },
+ "chiste": {
+  "en": "joke",
+  "g": "m",
+  "pos": "n"
  },
  "chocolate": {
   "en": "chocolate",
@@ -720,6 +844,15 @@
  "cocina": {
   "en": "kitchen",
   "g": "f",
+  "pos": "n"
+ },
+ "cocinar": {
+  "en": "to cook",
+  "pos": "v"
+ },
+ "cohete": {
+  "en": "firework",
+  "g": "m",
   "pos": "n"
  },
  "colonial": {
@@ -784,6 +917,10 @@
   "en": "opposite",
   "pos": "adj"
  },
+ "contratar": {
+  "en": "to hire",
+  "pos": "v"
+ },
  "convertirse": {
   "en": "to turn into",
   "pos": "v"
@@ -795,6 +932,11 @@
  "cortar": {
   "en": "to cut",
   "pos": "v"
+ },
+ "cortina": {
+  "en": "curtain",
+  "g": "f",
+  "pos": "n"
  },
  "corto": {
   "en": "short",
@@ -848,6 +990,16 @@
   "g": "f",
   "pos": "n"
  },
+ "cuchillo": {
+  "en": "knife",
+  "g": "m",
+  "pos": "n"
+ },
+ "cuenta": {
+  "en": "bill/account",
+  "g": "f",
+  "pos": "n"
+ },
  "cuerpo": {
   "en": "body",
   "g": "m",
@@ -892,6 +1044,11 @@
   "g": "f",
   "pos": "n"
  },
+ "círculo": {
+  "en": "circle",
+  "g": "m",
+  "pos": "n"
+ },
  "cómodo": {
   "en": "comfortable",
   "pos": "adj"
@@ -915,6 +1072,10 @@
   "en": "finger",
   "g": "m",
   "pos": "n"
+ },
+ "defenderse": {
+  "en": "to defend yourself",
+  "pos": "v"
  },
  "depender": {
   "en": "to depend",
@@ -942,6 +1103,11 @@
  "describir": {
   "en": "to describe",
   "pos": "v"
+ },
+ "desfile": {
+  "en": "parade",
+  "g": "m",
+  "pos": "n"
  },
  "detalle": {
   "en": "detail",
@@ -994,9 +1160,23 @@
   "en": "to dissolve",
   "pos": "v"
  },
+ "dividir": {
+  "en": "to divide/to split",
+  "pos": "v"
+ },
  "doblar": {
   "en": "to turn/to fold",
   "pos": "v"
+ },
+ "doler": {
+  "en": "to hurt",
+  "note": "The pain happens to you: 'me duele la cabeza', not 'I have a headache'",
+  "pos": "v"
+ },
+ "dolor": {
+  "en": "pain",
+  "g": "m",
+  "pos": "n"
  },
  "domingo": {
   "en": "Sunday",
@@ -1069,6 +1249,10 @@
   "g": "m",
   "pos": "n"
  },
+ "enfermo": {
+  "en": "ill",
+  "pos": "adj"
+ },
  "enfrente": {
   "en": "opposite/across",
   "pos": "adv"
@@ -1085,6 +1269,10 @@
   "en": "salad",
   "g": "f",
   "pos": "n"
+ },
+ "ensayar": {
+  "en": "to rehearse",
+  "pos": "v"
  },
  "entero": {
   "en": "whole/entire",
@@ -1147,6 +1335,16 @@
   "en": "thick",
   "pos": "adj"
  },
+ "esposa": {
+  "en": "wife",
+  "g": "f",
+  "pos": "n"
+ },
+ "esposo": {
+  "en": "husband",
+  "g": "m",
+  "pos": "n"
+ },
  "esquina": {
   "en": "corner",
   "g": "f",
@@ -1167,6 +1365,10 @@
   "g": "m",
   "pos": "n"
  },
+ "estirado": {
+  "en": "stretched out",
+  "pos": "adj"
+ },
  "esto": {
   "en": "this/this thing",
   "pos": "pron"
@@ -1174,6 +1376,15 @@
  "estrecho": {
   "en": "narrow",
   "pos": "adj"
+ },
+ "estudiar": {
+  "en": "to study",
+  "pos": "v"
+ },
+ "estómago": {
+  "en": "stomach",
+  "g": "m",
+  "pos": "n"
  },
  "evangélico": {
   "en": "evangelical",
@@ -1200,6 +1411,10 @@
   "g": "m",
   "pos": "n"
  },
+ "extrañar": {
+  "en": "to miss",
+  "pos": "v"
+ },
  "extraño": {
   "en": "stranger/strange",
   "g": "m",
@@ -1208,6 +1423,11 @@
  "faltar": {
   "en": "to be missing/to be left",
   "pos": "v"
+ },
+ "farmacia": {
+  "en": "pharmacy",
+  "g": "f",
+  "pos": "n"
  },
  "favor": {
   "en": "favour",
@@ -1219,6 +1439,11 @@
   "g": "f",
   "pos": "n"
  },
+ "fecha": {
+  "en": "date",
+  "g": "f",
+  "pos": "n"
+ },
  "felicidades": {
   "en": "congratulations",
   "g": "f",
@@ -1226,6 +1451,11 @@
  },
  "ferretería": {
   "en": "hardware shop",
+  "g": "f",
+  "pos": "n"
+ },
+ "fiebre": {
+  "en": "fever",
   "g": "f",
   "pos": "n"
  },
@@ -1253,6 +1483,11 @@
   "g": "m",
   "pos": "n"
  },
+ "foto": {
+  "en": "photo",
+  "g": "f",
+  "pos": "n"
+ },
  "frase": {
   "en": "sentence/phrase",
   "g": "f",
@@ -1261,6 +1496,11 @@
  "frenar": {
   "en": "to brake",
   "pos": "v"
+ },
+ "frente": {
+  "en": "forehead",
+  "g": "f",
+  "pos": "n"
  },
  "fresco": {
   "en": "cool/fresh",
@@ -1321,6 +1561,11 @@
   "en": "to win/to earn",
   "pos": "v"
  },
+ "garganta": {
+  "en": "throat",
+  "g": "f",
+  "pos": "n"
+ },
  "gaseosa": {
   "en": "fizzy drink",
   "g": "f",
@@ -1328,6 +1573,11 @@
  },
  "gato": {
   "en": "cat",
+  "g": "m",
+  "pos": "n"
+ },
+ "gofio": {
+  "en": "maize sweet",
   "g": "m",
   "pos": "n"
  },
@@ -1362,6 +1612,16 @@
   "en": "to shout",
   "pos": "v"
  },
+ "gritería": {
+  "en": "the shouting",
+  "g": "f",
+  "note": "December 7. The whole country goes door to door shouting the answer",
+  "pos": "n"
+ },
+ "grosero": {
+  "en": "rude",
+  "pos": "adj"
+ },
  "grueso": {
   "en": "thick",
   "pos": "adj"
@@ -1380,6 +1640,11 @@
   "g": "f",
   "pos": "n"
  },
+ "gusto": {
+  "en": "pleasure/taste",
+  "g": "m",
+  "pos": "n"
+ },
  "guía": {
   "en": "guide",
   "g": "m",
@@ -1391,9 +1656,18 @@
   "note": "'Tengo hambre' - I am hungry",
   "pos": "n"
  },
+ "helado": {
+  "en": "ice cold",
+  "pos": "adj"
+ },
  "hermana": {
   "en": "sister",
   "g": "f",
+  "pos": "n"
+ },
+ "hielo": {
+  "en": "ice",
+  "g": "m",
   "pos": "n"
  },
  "hija": {
@@ -1410,6 +1684,11 @@
   "en": "leaf/sheet",
   "g": "f",
   "note": "A plantain leaf is the plate at a fritanga",
+  "pos": "n"
+ },
+ "hombro": {
+  "en": "shoulder",
+  "g": "m",
   "pos": "n"
  },
  "hora": {
@@ -1478,6 +1757,15 @@
   "en": "unbelievable",
   "pos": "adj"
  },
+ "incómodo": {
+  "en": "awkward",
+  "pos": "adj"
+ },
+ "independencia": {
+  "en": "independence",
+  "g": "f",
+  "pos": "n"
+ },
  "indicar": {
   "en": "to point out",
   "pos": "v"
@@ -1542,6 +1830,15 @@
   "en": "to play",
   "pos": "v"
  },
+ "juguete": {
+  "en": "toy",
+  "g": "m",
+  "pos": "n"
+ },
+ "juntar": {
+  "en": "to collect/to gather",
+  "pos": "v"
+ },
  "jícara": {
   "en": "gourd cup",
   "g": "f",
@@ -1552,6 +1849,10 @@
   "g": "m",
   "note": "'Al lago' means north - the lake is north of Managua",
   "pos": "n"
+ },
+ "lastimar": {
+  "en": "to hurt",
+  "pos": "v"
  },
  "lavar": {
   "en": "to wash",
@@ -1601,6 +1902,11 @@
   "en": "clean",
   "pos": "adj"
  },
+ "limón": {
+  "en": "lime/lemon",
+  "g": "m",
+  "pos": "n"
+ },
  "listo": {
   "en": "ready/clever",
   "pos": "adj"
@@ -1617,6 +1923,10 @@
  "lleno": {
   "en": "full",
   "pos": "adj"
+ },
+ "llorar": {
+  "en": "to cry",
+  "pos": "v"
  },
  "llover": {
   "en": "to rain",
@@ -1647,8 +1957,18 @@
   "note": "'Se fue la luz' - the power went. Said with no drama at all",
   "pos": "n"
  },
+ "lámpara": {
+  "en": "lamp",
+  "g": "f",
+  "pos": "n"
+ },
  "madera": {
   "en": "wood",
+  "g": "f",
+  "pos": "n"
+ },
+ "madre": {
+  "en": "mother",
   "g": "f",
   "pos": "n"
  },
@@ -1723,6 +2043,11 @@
   "g": "m",
   "pos": "n"
  },
+ "mayo": {
+  "en": "May",
+  "g": "m",
+  "pos": "n"
+ },
  "mayor": {
   "en": "older/elder",
   "pos": "adj"
@@ -1736,6 +2061,15 @@
   "en": "midday",
   "g": "m",
   "pos": "n"
+ },
+ "mejilla": {
+  "en": "cheek",
+  "g": "f",
+  "pos": "n"
+ },
+ "mejorarse": {
+  "en": "to get better",
+  "pos": "v"
  },
  "memoria": {
   "en": "memory",
@@ -1843,6 +2177,10 @@
   "en": "dark-skinned",
   "pos": "adj"
  },
+ "morir": {
+  "en": "to die",
+  "pos": "v"
+ },
  "mostrador": {
   "en": "counter",
   "g": "m",
@@ -1901,6 +2239,11 @@
   "en": "to be born",
   "pos": "v"
  },
+ "naranja": {
+  "en": "orange",
+  "g": "f",
+  "pos": "n"
+ },
  "nariz": {
   "en": "nose",
   "g": "f",
@@ -1909,6 +2252,11 @@
  "narrar": {
   "en": "to commentate/to narrate",
   "pos": "v"
+ },
+ "navidad": {
+  "en": "Christmas",
+  "g": "f",
+  "pos": "n"
  },
  "negro": {
   "en": "black",
@@ -1956,6 +2304,21 @@
   "g": "f",
   "pos": "n"
  },
+ "novia": {
+  "en": "girlfriend",
+  "g": "f",
+  "pos": "n"
+ },
+ "noviembre": {
+  "en": "November",
+  "g": "m",
+  "pos": "n"
+ },
+ "novio": {
+  "en": "boyfriend",
+  "g": "m",
+  "pos": "n"
+ },
  "nube": {
   "en": "cloud",
   "g": "f",
@@ -1972,6 +2335,10 @@
  "obligar": {
   "en": "to force",
   "pos": "v"
+ },
+ "obvio": {
+  "en": "obvious",
+  "pos": "adj"
  },
  "oeste": {
   "en": "west",
@@ -2032,6 +2399,11 @@
  "oscuro": {
   "en": "dark",
   "pos": "adj"
+ },
+ "padre": {
+  "en": "father",
+  "g": "m",
+  "pos": "n"
  },
  "palo": {
   "en": "stick",
@@ -2099,10 +2471,21 @@
   "g": "m",
   "pos": "n"
  },
+ "pastilla": {
+  "en": "tablet",
+  "g": "f",
+  "pos": "n"
+ },
  "patio": {
   "en": "yard/patio",
   "g": "m",
   "note": "Often has no wall. The neighbours' patio is the same patio",
+  "pos": "n"
+ },
+ "patria": {
+  "en": "homeland",
+  "g": "f",
+  "note": "September is 'el mes de la patria'",
   "pos": "n"
  },
  "país": {
@@ -2128,8 +2511,18 @@
   "en": "to fight/to argue",
   "pos": "v"
  },
+ "pelo": {
+  "en": "hair",
+  "g": "m",
+  "pos": "n"
+ },
  "pelota": {
   "en": "ball",
+  "g": "f",
+  "pos": "n"
+ },
+ "pena": {
+  "en": "shame/embarrassment",
   "g": "f",
   "pos": "n"
  },
@@ -2161,6 +2554,10 @@
   "g": "f",
   "pos": "n"
  },
+ "pertenecer": {
+  "en": "to belong",
+  "pos": "v"
+ },
  "pesado": {
   "en": "heavy going/tiresome",
   "pos": "adj"
@@ -2178,6 +2575,11 @@
   "en": "peso",
   "g": "m",
   "note": "What everyone actually calls a córdoba out loud",
+  "pos": "n"
+ },
+ "pie": {
+  "en": "foot",
+  "g": "m",
   "pos": "n"
  },
  "piedra": {
@@ -2218,6 +2620,11 @@
   "g": "f",
   "pos": "n"
  },
+ "plan": {
+  "en": "plan",
+  "g": "m",
+  "pos": "n"
+ },
  "planchado": {
   "en": "ironed",
   "pos": "adj"
@@ -2230,6 +2637,11 @@
  "playa": {
   "en": "beach",
   "g": "f",
+  "pos": "n"
+ },
+ "plástico": {
+  "en": "plastic",
+  "g": "m",
   "pos": "n"
  },
  "plátano": {
@@ -2286,6 +2698,10 @@
  },
  "preocuparse": {
   "en": "to worry",
+  "pos": "v"
+ },
+ "presentar": {
+  "en": "to introduce",
   "pos": "v"
  },
  "prestar": {
@@ -2358,6 +2774,10 @@
   "en": "to complain",
   "pos": "v"
  },
+ "quemado": {
+  "en": "burnt",
+  "pos": "adj"
+ },
  "quemar": {
   "en": "to burn",
   "pos": "v"
@@ -2382,6 +2802,11 @@
  },
  "radio": {
   "en": "radio",
+  "g": "m",
+  "pos": "n"
+ },
+ "ramo": {
+  "en": "bunch of flowers",
   "g": "m",
   "pos": "n"
  },
@@ -2465,6 +2890,11 @@
   "en": "to tell off",
   "pos": "v"
  },
+ "regla": {
+  "en": "rule",
+  "g": "f",
+  "pos": "n"
+ },
  "reja": {
   "en": "grille/bars",
   "g": "f",
@@ -2474,6 +2904,15 @@
   "en": "religion",
   "g": "f",
   "pos": "n"
+ },
+ "remedio": {
+  "en": "remedy",
+  "g": "m",
+  "pos": "n"
+ },
+ "repartir": {
+  "en": "to hand out",
+  "pos": "v"
  },
  "repente": {
   "en": "suddenly",
@@ -2501,6 +2940,10 @@
   "g": "m",
   "pos": "n"
  },
+ "respirar": {
+  "en": "to breathe",
+  "pos": "v"
+ },
  "responder": {
   "en": "to answer",
   "pos": "v"
@@ -2509,6 +2952,15 @@
   "en": "answer",
   "g": "f",
   "pos": "n"
+ },
+ "resto": {
+  "en": "rest/remainder",
+  "g": "m",
+  "pos": "n"
+ },
+ "reunirse": {
+  "en": "to gather",
+  "pos": "v"
  },
  "revisar": {
   "en": "to check/to look over",
@@ -2521,6 +2973,11 @@
  "rojo": {
   "en": "red",
   "pos": "adj"
+ },
+ "ronda": {
+  "en": "round",
+  "g": "f",
+  "pos": "n"
  },
  "ropa": {
   "en": "clothes",
@@ -2585,6 +3042,11 @@
   "note": "Not greeting somebody you pass is the rudest thing you can do",
   "pos": "v"
  },
+ "saludo": {
+  "en": "greeting",
+  "g": "m",
+  "pos": "n"
+ },
  "santo": {
   "en": "saint",
   "g": "m",
@@ -2633,6 +3095,17 @@
   "en": "to feel",
   "pos": "v"
  },
+ "septiembre": {
+  "en": "September",
+  "g": "m",
+  "pos": "n"
+ },
+ "serenata": {
+  "en": "serenade",
+  "g": "f",
+  "note": "Sung to mothers at midnight on the twenty-ninth of May",
+  "pos": "n"
+ },
  "serio": {
   "en": "serious",
   "pos": "adj"
@@ -2640,6 +3113,11 @@
  "servir": {
   "en": "to serve/to be any use",
   "pos": "v"
+ },
+ "seña": {
+  "en": "sign/signal",
+  "g": "f",
+  "pos": "n"
  },
  "señal": {
   "en": "sign/signal",
@@ -2694,6 +3172,11 @@
   "en": "single/unmarried",
   "pos": "adj"
  },
+ "sombra": {
+  "en": "shade",
+  "g": "f",
+  "pos": "n"
+ },
  "sonreír": {
   "en": "to smile",
   "pos": "v"
@@ -2744,6 +3227,11 @@
   "g": "m",
   "pos": "n"
  },
+ "sábana": {
+  "en": "sheet",
+  "g": "f",
+  "pos": "n"
+ },
  "tajada": {
   "en": "green plantain crisp",
   "g": "f",
@@ -2759,6 +3247,11 @@
   "g": "m",
   "pos": "n"
  },
+ "tambor": {
+  "en": "drum",
+  "g": "m",
+  "pos": "n"
+ },
  "tarjeta": {
   "en": "card",
   "g": "f",
@@ -2771,6 +3264,11 @@
  },
  "techo": {
   "en": "roof",
+  "g": "m",
+  "pos": "n"
+ },
+ "teléfono": {
+  "en": "telephone",
   "g": "m",
   "pos": "n"
  },
@@ -2794,6 +3292,10 @@
   "note": "The 1972 earthquake flattened central Managua. The addresses outlived the buildings",
   "pos": "n"
  },
+ "tibio": {
+  "en": "lukewarm",
+  "pos": "adj"
+ },
  "tiburón": {
   "en": "shark",
   "g": "m",
@@ -2816,7 +3318,7 @@
   "pos": "n"
  },
  "tocar": {
-  "en": "to touch/to knock/to play",
+  "en": "to play/to touch/to knock",
   "pos": "v"
  },
  "tomate": {
@@ -2857,6 +3359,10 @@
   "g": "m",
   "pos": "n"
  },
+ "traducir": {
+  "en": "to translate",
+  "pos": "v"
+ },
  "traer": {
   "en": "to bring",
   "pos": "v"
@@ -2878,6 +3384,11 @@
   "en": "sad",
   "pos": "adj"
  },
+ "tristeza": {
+  "en": "sadness",
+  "g": "f",
+  "pos": "n"
+ },
  "trámite": {
   "en": "paperwork/official errand",
   "g": "m",
@@ -2890,6 +3401,11 @@
  },
  "turno": {
   "en": "turn",
+  "g": "m",
+  "pos": "n"
+ },
+ "té": {
+  "en": "tea",
   "g": "m",
   "pos": "n"
  },
@@ -2907,6 +3423,11 @@
   "en": "connected/close",
   "pos": "adj"
  },
+ "uniforme": {
+  "en": "uniform",
+  "g": "m",
+  "pos": "n"
+ },
  "usar": {
   "en": "to use",
   "pos": "v"
@@ -2915,6 +3436,11 @@
   "en": "cow",
   "g": "f",
   "pos": "n"
+ },
+ "vacilar": {
+  "en": "to tease",
+  "note": "Done to the people you like. Being spared it means you are still a guest",
+  "pos": "v"
  },
  "vacío": {
   "en": "empty",

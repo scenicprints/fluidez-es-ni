@@ -1,0 +1,269 @@
+{
+ "id": "p2-15",
+ "title": "La Gritería",
+ "desc": "December 7, and the whole country shouts",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "altar",
+  "gorra",
+  "gritar",
+  "comprar",
+  "armar",
+  "bolsa"
+ ],
+ "sn": [
+  {
+   "s": "El siete de diciembre pasa algo enorme.",
+   "e": "On the seventh of December something enormous happens."
+  },
+  {
+   "s": "Se llama la Gritería.",
+   "e": "It is called la Gritería."
+  },
+  {
+   "s": "Es la fiesta más grande del año.",
+   "e": "It is the biggest celebration of the year."
+  },
+  {
+   "s": "Más grande que la Navidad.",
+   "e": "Bigger than Christmas."
+  },
+  {
+   "s": "Empieza días antes.",
+   "e": "It starts days before."
+  },
+  {
+   "s": "Doña Carmen arma un altar en la sala.",
+   "e": "Doña Carmen builds an altar in the front room."
+  },
+  {
+   "s": "El altar es para la virgen.",
+   "e": "The altar is for the virgin."
+  },
+  {
+   "s": "Pone la virgen arriba con flores.",
+   "e": "She puts the virgin at the top with flowers."
+  },
+  {
+   "s": "Pone luces de colores alrededor.",
+   "e": "She puts coloured lights around it."
+  },
+  {
+   "s": "Pone papel brillante y cortinas.",
+   "e": "She puts up shiny paper and curtains."
+  },
+  {
+   "s": "El altar queda enorme para esa sala.",
+   "e": "The altar ends up enormous for that room."
+  },
+  {
+   "s": "Cada casa arma su altar.",
+   "e": "Every house builds its altar."
+  },
+  {
+   "s": "Doña Chepa arma el suyo en la pulpería.",
+   "e": "Doña Chepa builds hers in the pulpería."
+  },
+  {
+   "s": "Don Beto arma uno chiquito en su puerta.",
+   "e": "Don Beto builds a little one in his doorway."
+  },
+  {
+   "s": "Hasta la señora de la fritanga arma altar.",
+   "e": "Even the fritanga woman builds an altar."
+  },
+  {
+   "s": "Esa noche nadie vende comida en la calle.",
+   "e": "That night nobody sells food in the street."
+  },
+  {
+   "s": "Esa noche toda la calle regala.",
+   "e": "That night the whole street gives things away."
+  },
+  {
+   "s": "Toda la calle se llena de altares.",
+   "e": "The whole street fills with altars."
+  },
+  {
+   "s": "También compra las gorras.",
+   "e": "She also buys the gorras."
+  },
+  {
+   "s": "Las gorras no son gorras de la cabeza.",
+   "e": "The gorras are not caps for your head."
+  },
+  {
+   "s": "Las gorras son los regalitos que se reparten.",
+   "e": "The gorras are the little gifts that get handed out."
+  },
+  {
+   "s": "Compra caña, limones y naranjas.",
+   "e": "She buys sugar cane, limes and oranges."
+  },
+  {
+   "s": "Compra gofio, que es dulce de maíz.",
+   "e": "She buys gofio, a maize sweet."
+  },
+  {
+   "s": "Compra rosquillas y chicha.",
+   "e": "She buys rosquillas and chicha."
+  },
+  {
+   "s": "Compra juguetes chiquitos de plástico.",
+   "e": "She buys tiny plastic toys."
+  },
+  {
+   "s": "Todo eso se reparte a la gente que llega.",
+   "e": "All of that is handed out to the people who come."
+  },
+  {
+   "s": "El siete a las seis de la tarde suenan los cohetes.",
+   "e": "On the seventh at six in the evening the fireworks go off."
+  },
+  {
+   "s": "Suenan cohetes en toda la ciudad.",
+   "e": "Fireworks go off across the whole city."
+  },
+  {
+   "s": "Suenan como si fuera una guerra.",
+   "e": "They sound like a war."
+  },
+  {
+   "s": "Y entonces empieza la gente a caminar.",
+   "e": "And then the people start walking."
+  },
+  {
+   "s": "Van de casa en casa, en grupos.",
+   "e": "They go from house to house, in groups."
+  },
+  {
+   "s": "Llegan a una puerta con un altar.",
+   "e": "They arrive at a door with an altar."
+  },
+  {
+   "s": "Y gritan la pregunta.",
+   "e": "And they shout the question."
+  },
+  {
+   "s": "\"¿Quién causa tanta alegría?\"",
+   "e": "\"Who causes so much joy?\""
+  },
+  {
+   "s": "Y la casa contesta gritando.",
+   "e": "And the house answers, shouting."
+  },
+  {
+   "s": "\"¡La Concepción de María!\"",
+   "e": "\"The Conception of Mary!\""
+  },
+  {
+   "s": "Y después la casa reparte las gorras.",
+   "e": "And then the house hands out the gorras."
+  },
+  {
+   "s": "Los chavalos llevan bolsas grandes.",
+   "e": "The kids carry big bags."
+  },
+  {
+   "s": "Roberto lleva la bolsa más grande de todas.",
+   "e": "Roberto carries the biggest bag of all."
+  },
+  {
+   "s": "Los primos van juntos por la misma calle.",
+   "e": "The cousins go together down the same street."
+  },
+  {
+   "s": "Van corriendo de una puerta a la otra.",
+   "e": "They run from one door to the next."
+  },
+  {
+   "s": "Nadie camina despacio esa noche.",
+   "e": "Nobody walks slowly that night."
+  },
+  {
+   "s": "Van juntando caña, limones y juguetes.",
+   "e": "They collect sugar cane, limes and toys."
+  },
+  {
+   "s": "Vuelven a la casa con la bolsa llena.",
+   "e": "They come home with the bag full."
+  },
+  {
+   "s": "Y salen otra vez con la bolsa vacía.",
+   "e": "And go out again with an empty bag."
+  },
+  {
+   "s": "Roberto me lleva con su grupo.",
+   "e": "Roberto takes me with his group."
+  },
+  {
+   "s": "Llegamos a la primera puerta.",
+   "e": "We arrive at the first door."
+  },
+  {
+   "s": "Todos gritan y yo no grito.",
+   "e": "Everybody shouts and I do not."
+  },
+  {
+   "s": "No me sé la respuesta.",
+   "e": "I do not know the answer."
+  },
+  {
+   "s": "Roberto me empuja adelante.",
+   "e": "Roberto pushes me forward."
+  },
+  {
+   "s": "\"Gritá\", me dice. \"Es fácil.\"",
+   "e": "\"Shout,\" he says. \"It's easy.\""
+  },
+  {
+   "s": "En la siguiente casa grito con ellos.",
+   "e": "At the next house I shout with them."
+  },
+  {
+   "s": "\"¡La Concepción de María!\", grito yo.",
+   "e": "\"¡La Concepción de María!\" I shout."
+  },
+  {
+   "s": "Grito mal y grito tarde.",
+   "e": "I shout badly and I shout late."
+  },
+  {
+   "s": "Pero grito.",
+   "e": "But I shout."
+  },
+  {
+   "s": "La señora de la casa me da una caña.",
+   "e": "The woman of the house gives me a piece of cane."
+  },
+  {
+   "s": "Caminamos hasta las once de la noche.",
+   "e": "We walk until eleven at night."
+  },
+  {
+   "s": "Vamos a más de treinta casas.",
+   "e": "We go to more than thirty houses."
+  },
+  {
+   "s": "Vuelvo con la bolsa llena de cosas.",
+   "e": "I come back with a bag full of things."
+  },
+  {
+   "s": "Y con la garganta destrozada.",
+   "e": "And with my throat destroyed."
+  },
+  {
+   "s": "Doña Carmen me ve y se ríe.",
+   "e": "Doña Carmen sees me and laughs."
+  },
+  {
+   "s": "\"Ya gritaste\", dice ella.",
+   "e": "\"You've shouted now,\" she says."
+  },
+  {
+   "s": "Y eso es todo lo que hay que hacer.",
+   "e": "And that is all you have to do."
+  }
+ ]
+}

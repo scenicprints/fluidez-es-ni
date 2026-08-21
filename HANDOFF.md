@@ -110,9 +110,19 @@ nothing is known yet.
 1. Pick the next unwritten id from plan/spine.json (see plan/PROGRESS.md).
 2. Write content/lessons/<id>.json.
 3. python .github/scripts/stage.py --root .
-4. Fix what it reports. Repeat 3.
-5. Commit when it prints no PROBLEM lines.
+4. Add the missing dictionary entries it lists in plan/needs-entry.txt
+   to content/dictionary/spine.json. This clears most DENSITY failures,
+   because a word with no entry cannot be counted at all.
+5. python .github/scripts/reconcile.py  - rewrites every `wu` to the words
+   the story actually hammers AND that actually come back. The warm-up is
+   a claim; this makes the claim true.
+6. Repeat 3 until it prints no PROBLEM lines, then commit.
 ```
+
+A COVERAGE failure means the story introduces too much at once. Do not
+gut it - add a few lines built from words the course already taught. A
+festival story touching the pulpería and the pila you already know is
+better writing as well as better arithmetic.
 
 ### Story file shape
 

@@ -1,0 +1,212 @@
+{
+ "id": "p2-19",
+ "title": "Vamos a la playa",
+ "desc": "Making a plan with six people",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "llevar"
+ ],
+ "sn": [
+  {
+   "s": "El plan empieza un martes.",
+   "e": "The plan starts on a Tuesday."
+  },
+  {
+   "s": "Roberto dice que vamos a la playa el domingo.",
+   "e": "Roberto says we are going to the beach on Sunday."
+  },
+  {
+   "s": "\"¿Quiénes van?\", pregunto yo.",
+   "e": "\"Who's going?\" I ask."
+  },
+  {
+   "s": "\"Nosotros dos\", dice él.",
+   "e": "\"The two of us,\" he says."
+  },
+  {
+   "s": "El miércoles ya somos cuatro.",
+   "e": "By Wednesday we are four."
+  },
+  {
+   "s": "Se apuntaron dos primos de Roberto.",
+   "e": "Two of Roberto's cousins have joined."
+  },
+  {
+   "s": "El jueves somos siete.",
+   "e": "By Thursday we are seven."
+  },
+  {
+   "s": "Se apuntó doña Marta con sus hijos.",
+   "e": "Doña Marta has joined with her children."
+  },
+  {
+   "s": "El viernes somos once.",
+   "e": "By Friday we are eleven."
+  },
+  {
+   "s": "Nadie me avisó de los nuevos.",
+   "e": "Nobody told me about the new ones."
+  },
+  {
+   "s": "Nadie avisa de esas cosas.",
+   "e": "Nobody tells you about that kind of thing."
+  },
+  {
+   "s": "El sábado el plan cambia entero.",
+   "e": "On Saturday the plan changes completely."
+  },
+  {
+   "s": "Ya no vamos a Pochomil.",
+   "e": "We are not going to Pochomil any more."
+  },
+  {
+   "s": "Ahora vamos a Masachapa.",
+   "e": "Now we are going to Masachapa."
+  },
+  {
+   "s": "Nadie me explica por qué cambió.",
+   "e": "Nobody explains to me why it changed."
+  },
+  {
+   "s": "Yo pregunto y me dicen que es mejor.",
+   "e": "I ask and they tell me it is better."
+  },
+  {
+   "s": "El domingo quedamos de salir a las seis.",
+   "e": "On Sunday we arrange to leave at six."
+  },
+  {
+   "s": "A las seis no hay nadie listo.",
+   "e": "At six nobody is ready."
+  },
+  {
+   "s": "A las siete falta media familia.",
+   "e": "At seven half the family is missing."
+  },
+  {
+   "s": "A las ocho llega el último primo.",
+   "e": "At eight the last cousin arrives."
+  },
+  {
+   "s": "Salimos a las ocho y media.",
+   "e": "We leave at half past eight."
+  },
+  {
+   "s": "Y nadie dice nada de la hora.",
+   "e": "And nobody says anything about the time."
+  },
+  {
+   "s": "Llevamos ollas con comida hecha.",
+   "e": "We take pots with food already cooked."
+  },
+  {
+   "s": "Llevamos arroz, pollo y ensalada.",
+   "e": "We take rice, chicken and salad."
+  },
+  {
+   "s": "Llevamos un balde con hielo y gaseosas.",
+   "e": "We take a bucket with ice and fizzy drinks."
+  },
+  {
+   "s": "Llevamos sillas plásticas.",
+   "e": "We take plastic chairs."
+  },
+  {
+   "s": "Llevamos una sábana para hacer sombra.",
+   "e": "We take a sheet to make shade."
+  },
+  {
+   "s": "Nadie compra nada en la playa.",
+   "e": "Nobody buys anything at the beach."
+  },
+  {
+   "s": "Comprar en la playa es de turista.",
+   "e": "Buying at the beach is a tourist thing."
+  },
+  {
+   "s": "En el bus vamos apretados con todo.",
+   "e": "On the bus we are packed in with everything."
+  },
+  {
+   "s": "Las ollas van en las piernas de alguien.",
+   "e": "The pots go on somebody's lap."
+  },
+  {
+   "s": "El balde va entre los pies.",
+   "e": "The bucket goes between people's feet."
+  },
+  {
+   "s": "Y así una hora y media.",
+   "e": "And like that for an hour and a half."
+  },
+  {
+   "s": "La playa está llena de gente.",
+   "e": "The beach is full of people."
+  },
+  {
+   "s": "Todas las familias hicieron lo mismo.",
+   "e": "All the families have done the same."
+  },
+  {
+   "s": "Todos llegaron con ollas y con sillas.",
+   "e": "Everybody arrived with pots and chairs."
+  },
+  {
+   "s": "Buscamos un lugar con sombra.",
+   "e": "We look for a spot with shade."
+  },
+  {
+   "s": "Ponemos las sillas en un círculo.",
+   "e": "We put the chairs in a circle."
+  },
+  {
+   "s": "Las señoras se quedan con la comida.",
+   "e": "The women stay with the food."
+  },
+  {
+   "s": "Los chavalos van al agua enseguida.",
+   "e": "The kids go into the water straight away."
+  },
+  {
+   "s": "Yo también voy al agua.",
+   "e": "I go into the water too."
+  },
+  {
+   "s": "El mar aquí es fuerte y tiene olas grandes.",
+   "e": "The sea here is strong and has big waves."
+  },
+  {
+   "s": "Nadie se mete muy adentro.",
+   "e": "Nobody goes very far in."
+  },
+  {
+   "s": "Comemos a las doce en las sillas.",
+   "e": "We eat at twelve in the chairs."
+  },
+  {
+   "s": "El arroz tiene arena y no importa.",
+   "e": "The rice has sand in it and it does not matter."
+  },
+  {
+   "s": "En la tarde todos duermen en la sombra.",
+   "e": "In the afternoon everybody sleeps in the shade."
+  },
+  {
+   "s": "Volvemos a las cinco, quemados y cansados.",
+   "e": "We come back at five, burnt and tired."
+  },
+  {
+   "s": "El plan cambió cuatro veces.",
+   "e": "The plan changed four times."
+  },
+  {
+   "s": "Salimos dos horas y media tarde.",
+   "e": "We left two and a half hours late."
+  },
+  {
+   "s": "Y aun así el domingo salió perfecto.",
+   "e": "And even so the Sunday came out perfect."
+  }
+ ]
+}

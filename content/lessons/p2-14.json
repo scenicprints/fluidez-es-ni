@@ -1,0 +1,217 @@
+{
+ "id": "p2-14",
+ "title": "Cuando era chavalo",
+ "desc": "How people talk about the past that was ongoing",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "trabajar",
+  "era"
+ ],
+ "sn": [
+  {
+   "s": "Don Beto cuenta cómo era antes.",
+   "e": "Don Beto tells how things used to be."
+  },
+  {
+   "s": "Cuenta de cuando él era chavalo.",
+   "e": "He talks about when he was a kid."
+  },
+  {
+   "s": "Habla distinto cuando cuenta eso.",
+   "e": "He talks differently when he tells that."
+  },
+  {
+   "s": "No dice hice ni fui.",
+   "e": "He does not say I did or I went."
+  },
+  {
+   "s": "Dice hacía y iba y vivía.",
+   "e": "He says I used to do, I used to go, I used to live."
+  },
+  {
+   "s": "\"Yo vivía en el campo\", dice él.",
+   "e": "\"I used to live in the countryside,\" he says."
+  },
+  {
+   "s": "\"Nosotros éramos ocho hermanos.\"",
+   "e": "\"There were eight of us brothers and sisters.\""
+  },
+  {
+   "s": "\"Mi mamá cocinaba para todos.\"",
+   "e": "\"My mum used to cook for everybody.\""
+  },
+  {
+   "s": "\"Y siempre alcanzaba, no sé cómo.\"",
+   "e": "\"And there was always enough, I don't know how.\""
+  },
+  {
+   "s": "Ese pasado es distinto del otro.",
+   "e": "That past is different from the other one."
+  },
+  {
+   "s": "El otro pasado es para una cosa que pasó.",
+   "e": "The other past is for a thing that happened."
+  },
+  {
+   "s": "Ayer fui al mercado.",
+   "e": "Yesterday I went to the market."
+  },
+  {
+   "s": "Este pasado es para cómo eran las cosas.",
+   "e": "This past is for how things used to be."
+  },
+  {
+   "s": "Antes yo iba al mercado todos los días.",
+   "e": "I used to go to the market every day."
+  },
+  {
+   "s": "Uno es un momento y el otro es una época.",
+   "e": "One is a moment and the other is a period."
+  },
+  {
+   "s": "Don Beto sigue contando.",
+   "e": "Don Beto carries on."
+  },
+  {
+   "s": "\"No había luz en el campo.\"",
+   "e": "\"There was no electricity in the countryside.\""
+  },
+  {
+   "s": "\"Estudiábamos con una lámpara.\"",
+   "e": "\"We used to study by a lamp.\""
+  },
+  {
+   "s": "\"Yo caminaba una hora a la escuela.\"",
+   "e": "\"I used to walk an hour to school.\""
+  },
+  {
+   "s": "\"Y una hora de vuelta.\"",
+   "e": "\"And an hour back.\""
+  },
+  {
+   "s": "\"Y llegaba con hambre siempre.\"",
+   "e": "\"And I always arrived hungry.\""
+  },
+  {
+   "s": "Yo escucho sin decir nada.",
+   "e": "I listen without saying anything."
+  },
+  {
+   "s": "Escucho porque quiero oír los verbos.",
+   "e": "I listen because I want to hear the verbs."
+  },
+  {
+   "s": "Pero después escucho por la historia.",
+   "e": "But then I listen for the story."
+  },
+  {
+   "s": "Don Beto dejó la escuela a los once años.",
+   "e": "Don Beto left school at eleven."
+  },
+  {
+   "s": "Dejó la escuela para trabajar.",
+   "e": "He left school to work."
+  },
+  {
+   "s": "Trabajaba con su papá en el campo.",
+   "e": "He used to work with his father in the fields."
+  },
+  {
+   "s": "Trabajaba desde las cinco de la mañana.",
+   "e": "He used to work from five in the morning."
+  },
+  {
+   "s": "\"Éramos pobres\", dice él.",
+   "e": "\"We were poor,\" he says."
+  },
+  {
+   "s": "Lo dice sin pena y sin drama.",
+   "e": "He says it without shame and without drama."
+  },
+  {
+   "s": "Lo dice como quien dice que llovía.",
+   "e": "He says it like somebody saying it used to rain."
+  },
+  {
+   "s": "\"Ahora es distinto\", dice después.",
+   "e": "\"Now it's different,\" he says afterwards."
+  },
+  {
+   "s": "\"Mis hijos fueron a la escuela.\"",
+   "e": "\"My children went to school.\""
+  },
+  {
+   "s": "\"Uno terminó y trabaja en una oficina.\"",
+   "e": "\"One finished and works in an office.\""
+  },
+  {
+   "s": "Eso lo dice con orgullo.",
+   "e": "That he says with pride."
+  },
+  {
+   "s": "Doña Carmen cuenta lo suyo también.",
+   "e": "Doña Carmen tells hers too."
+  },
+  {
+   "s": "\"Cuando yo era joven todo era más barato.\"",
+   "e": "\"When I was young everything was cheaper.\""
+  },
+  {
+   "s": "\"Pero tampoco había plata.\"",
+   "e": "\"But there wasn't any money either.\""
+  },
+  {
+   "s": "\"Uno compraba lo del día y ya.\"",
+   "e": "\"You bought what you needed for the day and that was it.\""
+  },
+  {
+   "s": "\"Como ahora\", dice ella, y se ríe.",
+   "e": "\"Like now,\" she says, and laughs."
+  },
+  {
+   "s": "Yo trato de contar cómo era mi vida antes.",
+   "e": "I try to tell them what my life used to be like."
+  },
+  {
+   "s": "Es difícil porque los verbos cambian.",
+   "e": "It is hard because the verbs change."
+  },
+  {
+   "s": "Digo yo vivía en una ciudad grande.",
+   "e": "I say I used to live in a big city."
+  },
+  {
+   "s": "Digo yo trabajaba en una oficina.",
+   "e": "I say I used to work in an office."
+  },
+  {
+   "s": "Digo yo no conocía a mis vecinos.",
+   "e": "I say I did not know my neighbours."
+  },
+  {
+   "s": "Cuando digo eso, todos me miran.",
+   "e": "When I say that, everybody looks at me."
+  },
+  {
+   "s": "\"¿No conocía a sus vecinos?\", dice doña Carmen.",
+   "e": "\"You didn't know your neighbours?\" doña Carmen says."
+  },
+  {
+   "s": "\"No\", digo yo. \"A ninguno.\"",
+   "e": "\"No,\" I say. \"Not one.\""
+  },
+  {
+   "s": "Ella se queda callada un momento.",
+   "e": "She stays quiet for a moment."
+  },
+  {
+   "s": "\"Qué triste\", dice al final.",
+   "e": "\"How sad,\" she says at the end."
+  },
+  {
+   "s": "Y yo antes no lo veía así.",
+   "e": "And I never used to see it that way."
+  }
+ ]
+}

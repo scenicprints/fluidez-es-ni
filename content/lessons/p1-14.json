@@ -4,12 +4,7 @@
  "desc": "Lunch is the real meal",
  "ph": 1,
  "diff": 2,
- "wu": [
-  "almuerzo",
-  "señalar",
-  "sopa",
-  "refresco"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "El almuerzo aquí es a las doce.",

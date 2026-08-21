@@ -1,0 +1,208 @@
+{
+ "id": "p2-25",
+ "title": "Extraño mi casa",
+ "desc": "Missing a place you chose to leave",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "extraño"
+ ],
+ "sn": [
+  {
+   "s": "Un día me pega la tristeza sin aviso.",
+   "e": "One day the sadness hits me with no warning."
+  },
+  {
+   "s": "No pasó nada malo.",
+   "e": "Nothing bad happened."
+  },
+  {
+   "s": "Es un martes normal.",
+   "e": "It is an ordinary Tuesday."
+  },
+  {
+   "s": "Pero de repente extraño mi casa.",
+   "e": "But suddenly I miss home."
+  },
+  {
+   "s": "Extraño cosas tontas.",
+   "e": "I miss silly things."
+  },
+  {
+   "s": "Extraño una comida que no hay aquí.",
+   "e": "I miss a food that does not exist here."
+  },
+  {
+   "s": "Extraño el frío de noviembre.",
+   "e": "I miss the cold of November."
+  },
+  {
+   "s": "Extraño hablar sin pensar cada palabra.",
+   "e": "I miss talking without thinking about every word."
+  },
+  {
+   "s": "Eso es lo que más extraño.",
+   "e": "That is what I miss most."
+  },
+  {
+   "s": "Aquí todo el día pienso antes de hablar.",
+   "e": "Here I think all day before I speak."
+  },
+  {
+   "s": "Todo el día traduzco en la cabeza.",
+   "e": "All day I translate in my head."
+  },
+  {
+   "s": "Y eso cansa de una manera rara.",
+   "e": "And that tires you in a strange way."
+  },
+  {
+   "s": "Me quedo en el cuarto toda la tarde.",
+   "e": "I stay in my room all afternoon."
+  },
+  {
+   "s": "Miro fotos en el celular.",
+   "e": "I look at photos on my phone."
+  },
+  {
+   "s": "Miro fotos de gente que está lejos.",
+   "e": "I look at photos of people who are far away."
+  },
+  {
+   "s": "Doña Carmen toca la puerta.",
+   "e": "Doña Carmen knocks on the door."
+  },
+  {
+   "s": "\"¿Está enfermo, mijo?\"",
+   "e": "\"Are you ill, mijo?\""
+  },
+  {
+   "s": "\"No\", digo yo. \"Estoy bien.\"",
+   "e": "\"No,\" I say. \"I'm fine.\""
+  },
+  {
+   "s": "Ella se queda parada en la puerta.",
+   "e": "She stays standing in the doorway."
+  },
+  {
+   "s": "No se va y no dice nada.",
+   "e": "She does not leave and she says nothing."
+  },
+  {
+   "s": "Al final le digo la verdad.",
+   "e": "In the end I tell her the truth."
+  },
+  {
+   "s": "\"Extraño mi casa\", le digo.",
+   "e": "\"I miss home,\" I say."
+  },
+  {
+   "s": "Ella entra y se sienta en la cama.",
+   "e": "She comes in and sits on the bed."
+  },
+  {
+   "s": "Yo pensé que me iba a decir algo bonito.",
+   "e": "I thought she was going to say something nice."
+  },
+  {
+   "s": "Que me iba a decir que se me va a pasar.",
+   "e": "That she was going to tell me it will pass."
+  },
+  {
+   "s": "No dice eso.",
+   "e": "She does not say that."
+  },
+  {
+   "s": "\"Claro que la extraña\", dice ella.",
+   "e": "\"Of course you miss it,\" she says."
+  },
+  {
+   "s": "\"Yo extraño a mi mamá y hace veinte años que murió.\"",
+   "e": "\"I miss my mother and she died twenty years ago.\""
+  },
+  {
+   "s": "\"Extrañar no se quita. Se aprende.\"",
+   "e": "\"Missing doesn't go away. You learn it.\""
+  },
+  {
+   "s": "Y después me habla de sus hermanos.",
+   "e": "And then she talks to me about her brothers and sisters."
+  },
+  {
+   "s": "Tiene dos hermanos en Costa Rica.",
+   "e": "She has two in Costa Rica."
+  },
+  {
+   "s": "Tiene una hermana en Estados Unidos.",
+   "e": "She has a sister in the United States."
+  },
+  {
+   "s": "Hace catorce años que no ve a esa hermana.",
+   "e": "She has not seen that sister in fourteen years."
+  },
+  {
+   "s": "Catorce años.",
+   "e": "Fourteen years."
+  },
+  {
+   "s": "Hablan por teléfono los domingos.",
+   "e": "They talk on the phone on Sundays."
+  },
+  {
+   "s": "Y cada domingo lloran las dos.",
+   "e": "And every Sunday they both cry."
+  },
+  {
+   "s": "\"Y el otro domingo llaman otra vez\", dice ella.",
+   "e": "\"And the next Sunday they call again,\" she says."
+  },
+  {
+   "s": "Me doy cuenta de algo esa tarde.",
+   "e": "I realise something that afternoon."
+  },
+  {
+   "s": "Yo escogí venirme.",
+   "e": "I chose to come."
+  },
+  {
+   "s": "Puedo volver cuando quiera.",
+   "e": "I can go back whenever I want."
+  },
+  {
+   "s": "El papá de Roberto no escogió irse.",
+   "e": "Roberto's father did not choose to leave."
+  },
+  {
+   "s": "Se fue porque no había trabajo aquí.",
+   "e": "He left because there was no work here."
+  },
+  {
+   "s": "Y no puede volver cuando quiera.",
+   "e": "And he cannot come back whenever he wants."
+  },
+  {
+   "s": "Mi tristeza es de un tipo más fácil.",
+   "e": "My sadness is of an easier kind."
+  },
+  {
+   "s": "Eso no la quita, pero la pone en su lugar.",
+   "e": "That does not take it away, but it puts it in its place."
+  },
+  {
+   "s": "En la noche salgo a la calle otra vez.",
+   "e": "At night I go out into the street again."
+  },
+  {
+   "s": "Me siento afuera con don Beto.",
+   "e": "I sit outside with don Beto."
+  },
+  {
+   "s": "No le cuento nada de la tarde.",
+   "e": "I tell him nothing about the afternoon."
+  },
+  {
+   "s": "Sólo me siento ahí, y se me pasa un poco.",
+   "e": "I just sit there, and it eases a little."
+  }
+ ]
+}

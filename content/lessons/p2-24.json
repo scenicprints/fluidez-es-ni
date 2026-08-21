@@ -1,0 +1,195 @@
+{
+ "id": "p2-24",
+ "title": "Mi amigo",
+ "desc": "When somebody stops being an acquaintance",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "amigo",
+  "hermano",
+  "maje",
+  "después"
+ ],
+ "sn": [
+  {
+   "s": "Aquí hay muchas maneras de llamar a un amigo.",
+   "e": "Here there are many ways to call somebody a friend."
+  },
+  {
+   "s": "Cada una dice algo distinto.",
+   "e": "Each one says something different."
+  },
+  {
+   "s": "Al principio uno es sólo el muchacho.",
+   "e": "At first you are just the young man."
+  },
+  {
+   "s": "O el chele, o el que vive donde la Carmen.",
+   "e": "Or the chele, or the one who lives at Carmen's."
+  },
+  {
+   "s": "Después uno es un nombre.",
+   "e": "Then you are a name."
+  },
+  {
+   "s": "Después uno es un apodo.",
+   "e": "Then you are a nickname."
+  },
+  {
+   "s": "Y después vienen las otras palabras.",
+   "e": "And then the other words come."
+  },
+  {
+   "s": "Roberto me empezó diciendo usted.",
+   "e": "Roberto started off saying usted to me."
+  },
+  {
+   "s": "Los primeros días fue usted.",
+   "e": "The first few days it was usted."
+  },
+  {
+   "s": "Después pasó a vos, en la noche de la luz.",
+   "e": "Then he moved to vos, the night of the power cut."
+  },
+  {
+   "s": "Eso ya fue un cambio grande.",
+   "e": "That was already a big change."
+  },
+  {
+   "s": "Después empezó a decirme maje.",
+   "e": "Then he started calling me maje."
+  },
+  {
+   "s": "Maje no se le dice a cualquiera.",
+   "e": "You do not say maje to just anybody."
+  },
+  {
+   "s": "Maje es entre amigos de verdad.",
+   "e": "Maje is between real friends."
+  },
+  {
+   "s": "A un señor mayor nunca se le dice maje.",
+   "e": "You never say maje to an older man."
+  },
+  {
+   "s": "A la mamá de uno tampoco.",
+   "e": "Nor to your own mother."
+  },
+  {
+   "s": "Si uno le dice maje al que no debe, es grosero.",
+   "e": "If you say maje to the wrong person, it is rude."
+  },
+  {
+   "s": "Después está hermano.",
+   "e": "Then there is hermano."
+  },
+  {
+   "s": "Hermano es más serio que maje.",
+   "e": "Hermano is more serious than maje."
+  },
+  {
+   "s": "Maje es todos los días.",
+   "e": "Maje is every day."
+  },
+  {
+   "s": "Hermano es cuando pasa algo.",
+   "e": "Hermano is when something happens."
+  },
+  {
+   "s": "Cuando uno está mal, le dicen hermano.",
+   "e": "When you are in a bad way, they call you hermano."
+  },
+  {
+   "s": "El día que estuve enfermo, don Beto me dijo hermano.",
+   "e": "The day I was ill, don Beto called me hermano."
+  },
+  {
+   "s": "\"Cuidate, hermano\", me dijo.",
+   "e": "\"Look after yourself, hermano,\" he said."
+  },
+  {
+   "s": "Y esa palabra pesó más que las pastillas.",
+   "e": "And that word weighed more than the tablets."
+  },
+  {
+   "s": "Hay otra que se usa: bróder.",
+   "e": "There is another one they use: bróder."
+  },
+  {
+   "s": "Bróder viene del inglés y ya es de aquí.",
+   "e": "Bróder comes from English and is local now."
+  },
+  {
+   "s": "Bróder es entre hombres jóvenes.",
+   "e": "Bróder is between young men."
+  },
+  {
+   "s": "Y está primo, que a veces no es primo.",
+   "e": "And there is primo, which is sometimes not a cousin."
+  },
+  {
+   "s": "Un día pasa algo en la fritanga.",
+   "e": "One day something happens at the fritanga."
+  },
+  {
+   "s": "Doña Marta me presenta a una señora.",
+   "e": "Doña Marta introduces me to a woman."
+  },
+  {
+   "s": "Yo espero que diga el chele o el muchacho.",
+   "e": "I expect her to say the chele or the young man."
+  },
+  {
+   "s": "Pero dice otra cosa.",
+   "e": "But she says something else."
+  },
+  {
+   "s": "\"Este es amigo de la casa\", dice ella.",
+   "e": "\"This is a friend of the house,\" she says."
+  },
+  {
+   "s": "Amigo de la casa.",
+   "e": "A friend of the house."
+  },
+  {
+   "s": "No amigo de Roberto.",
+   "e": "Not a friend of Roberto's."
+  },
+  {
+   "s": "No el chele que vive ahí.",
+   "e": "Not the chele who lives there."
+  },
+  {
+   "s": "Amigo de la casa entera.",
+   "e": "A friend of the whole house."
+  },
+  {
+   "s": "Yo no digo nada en ese momento.",
+   "e": "I say nothing at the time."
+  },
+  {
+   "s": "Pero me quedo con esa frase.",
+   "e": "But I keep that phrase."
+  },
+  {
+   "s": "Esa noche se lo cuento a Roberto.",
+   "e": "That night I tell Roberto about it."
+  },
+  {
+   "s": "\"Ideay\", dice él. \"¿Y qué esperabas?\"",
+   "e": "\"Ideay,\" he says. \"What did you expect?\""
+  },
+  {
+   "s": "Para él ya era obvio desde hace meses.",
+   "e": "For him it had been obvious for months."
+  },
+  {
+   "s": "Yo fui el último en darme cuenta.",
+   "e": "I was the last to realise."
+  },
+  {
+   "s": "Eso también pasa siempre.",
+   "e": "That always happens too."
+  }
+ ]
+}

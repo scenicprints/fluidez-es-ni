@@ -1,0 +1,239 @@
+{
+ "id": "p2-16",
+ "title": "El mes de la patria",
+ "desc": "September belongs to the country",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "bandera",
+  "desfile",
+  "escuela",
+  "tambor"
+ ],
+ "sn": [
+  {
+   "s": "Septiembre aquí se llama el mes de la patria.",
+   "e": "September here is called the month of the homeland."
+  },
+  {
+   "s": "Todo el mes es del país.",
+   "e": "The whole month belongs to the country."
+  },
+  {
+   "s": "Desde el primer día se ven banderas.",
+   "e": "From the first day you see flags."
+  },
+  {
+   "s": "La bandera es azul y blanca.",
+   "e": "The flag is blue and white."
+  },
+  {
+   "s": "Azul, blanco y azul.",
+   "e": "Blue, white and blue."
+  },
+  {
+   "s": "Hay banderas en las casas.",
+   "e": "There are flags on the houses."
+  },
+  {
+   "s": "Hay banderas en los buses.",
+   "e": "There are flags on the buses."
+  },
+  {
+   "s": "Hay banderas chiquitas en las pulperías.",
+   "e": "There are little flags in the pulperías."
+  },
+  {
+   "s": "Los chavalos van de azul y blanco a la escuela.",
+   "e": "The kids go to school in blue and white."
+  },
+  {
+   "s": "Doña Carmen lava el uniforme cada noche.",
+   "e": "Doña Carmen washes the uniform every night."
+  },
+  {
+   "s": "Lo lava en la pila y lo seca en el patio.",
+   "e": "She washes it in the pila and dries it in the patio."
+  },
+  {
+   "s": "Con este calor la ropa se seca rápido.",
+   "e": "In this heat the clothes dry fast."
+  },
+  {
+   "s": "Roberto se pone el uniforme limpio en la mañana.",
+   "e": "Roberto puts on the clean uniform in the morning."
+  },
+  {
+   "s": "Y su mamá lo mira desde la puerta.",
+   "e": "And his mother watches him from the doorway."
+  },
+  {
+   "s": "Las escuelas ensayan todo el mes.",
+   "e": "The schools rehearse all month."
+  },
+  {
+   "s": "Ensayan para los desfiles.",
+   "e": "They rehearse for the parades."
+  },
+  {
+   "s": "Se oyen los tambores desde la calle.",
+   "e": "You can hear the drums from the street."
+  },
+  {
+   "s": "Los tambores suenan todas las tardes.",
+   "e": "The drums sound every afternoon."
+  },
+  {
+   "s": "Roberto está en la banda de su escuela.",
+   "e": "Roberto is in his school band."
+  },
+  {
+   "s": "Roberto toca el tambor.",
+   "e": "Roberto plays the drum."
+  },
+  {
+   "s": "Practica en el patio y me vuelve loco.",
+   "e": "He practises in the patio and drives me mad."
+  },
+  {
+   "s": "Doña Carmen no dice nada del ruido.",
+   "e": "Doña Carmen says nothing about the noise."
+  },
+  {
+   "s": "Para ella el tambor es orgullo.",
+   "e": "For her the drum is pride."
+  },
+  {
+   "s": "El catorce de septiembre es una fecha.",
+   "e": "The fourteenth of September is one date."
+  },
+  {
+   "s": "El quince de septiembre es la otra.",
+   "e": "The fifteenth of September is the other."
+  },
+  {
+   "s": "El catorce es la batalla de San Jacinto.",
+   "e": "The fourteenth is the battle of San Jacinto."
+  },
+  {
+   "s": "El quince es la independencia.",
+   "e": "The fifteenth is independence."
+  },
+  {
+   "s": "Roberto me cuenta lo de San Jacinto.",
+   "e": "Roberto tells me about San Jacinto."
+  },
+  {
+   "s": "Me lo cuenta como si hubiera estado ahí.",
+   "e": "He tells it as if he had been there."
+  },
+  {
+   "s": "Todos los chavalos saben esa historia.",
+   "e": "All the kids know that story."
+  },
+  {
+   "s": "La aprenden en la escuela cada año.",
+   "e": "They learn it at school every year."
+  },
+  {
+   "s": "Días antes llega la antorcha.",
+   "e": "Days before, the torch arrives."
+  },
+  {
+   "s": "La antorcha viene de Guatemala.",
+   "e": "The torch comes from Guatemala."
+  },
+  {
+   "s": "Viene corriendo, de mano en mano.",
+   "e": "It comes running, from hand to hand."
+  },
+  {
+   "s": "Pasa por Honduras, por El Salvador.",
+   "e": "It passes through Honduras, through El Salvador."
+  },
+  {
+   "s": "Y llega a Nicaragua para el quince.",
+   "e": "And it arrives in Nicaragua for the fifteenth."
+  },
+  {
+   "s": "Los chavalos corren con la antorcha por la calle.",
+   "e": "The kids run with the torch down the street."
+  },
+  {
+   "s": "El quince en la mañana es el desfile.",
+   "e": "On the morning of the fifteenth is the parade."
+  },
+  {
+   "s": "Cierran la calle desde temprano.",
+   "e": "They close the street early."
+  },
+  {
+   "s": "Toda la gente sale a ver el desfile.",
+   "e": "Everybody comes out to watch the parade."
+  },
+  {
+   "s": "Sacan sillas a la acera.",
+   "e": "They bring chairs out to the pavement."
+  },
+  {
+   "s": "Pasan las escuelas una por una.",
+   "e": "The schools go past one by one."
+  },
+  {
+   "s": "Pasan con banderas y con tambores.",
+   "e": "They go past with flags and with drums."
+  },
+  {
+   "s": "Cada escuela tiene su uniforme.",
+   "e": "Each school has its uniform."
+  },
+  {
+   "s": "Las muchachas van adelante con la bandera.",
+   "e": "The girls go in front with the flag."
+  },
+  {
+   "s": "El desfile dura tres horas.",
+   "e": "The parade lasts three hours."
+  },
+  {
+   "s": "Tres horas con el sol encima.",
+   "e": "Three hours with the sun overhead."
+  },
+  {
+   "s": "Nadie se queja del sol ni de la espera.",
+   "e": "Nobody complains about the sun or the wait."
+  },
+  {
+   "s": "Doña Carmen llora cuando pasa la escuela de Roberto.",
+   "e": "Doña Carmen cries when Roberto's school goes past."
+  },
+  {
+   "s": "No llora de tristeza.",
+   "e": "She does not cry from sadness."
+  },
+  {
+   "s": "Llora porque su hijo va tocando el tambor.",
+   "e": "She cries because her son goes past playing the drum."
+  },
+  {
+   "s": "Yo miro el desfile desde la acera.",
+   "e": "I watch the parade from the pavement."
+  },
+  {
+   "s": "No es mi patria y no es mi bandera.",
+   "e": "It is not my homeland and it is not my flag."
+  },
+  {
+   "s": "Pero es la calle donde vivo.",
+   "e": "But it is the street where I live."
+  },
+  {
+   "s": "Y ese chavalo del tambor es mi amigo.",
+   "e": "And that kid with the drum is my friend."
+  },
+  {
+   "s": "Así que aplaudo cuando pasa.",
+   "e": "So I clap when he goes past."
+  }
+ ]
+}

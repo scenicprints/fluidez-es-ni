@@ -1,0 +1,197 @@
+{
+ "id": "p2-20",
+ "title": "Te presento a",
+ "desc": "Introducing one person to another",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "mano",
+  "beso"
+ ],
+ "sn": [
+  {
+   "s": "Presentar gente aquí tiene reglas.",
+   "e": "Introducing people here has rules."
+  },
+  {
+   "s": "Yo no las sabía y me equivoqué mucho.",
+   "e": "I did not know them and got them wrong a lot."
+  },
+  {
+   "s": "Doña Carmen me presenta a una señora.",
+   "e": "Doña Carmen introduces me to a woman."
+  },
+  {
+   "s": "\"Le presento al muchacho que vive aquí.\"",
+   "e": "\"Let me introduce the young man who lives here.\""
+  },
+  {
+   "s": "Yo le doy la mano a la señora.",
+   "e": "I shake the woman's hand."
+  },
+  {
+   "s": "\"Mucho gusto\", digo yo.",
+   "e": "\"Pleased to meet you,\" I say."
+  },
+  {
+   "s": "\"El gusto es mío\", dice ella.",
+   "e": "\"The pleasure is mine,\" she says."
+  },
+  {
+   "s": "Eso lo hice bien.",
+   "e": "That I did right."
+  },
+  {
+   "s": "Después me presentan a una muchacha.",
+   "e": "Then they introduce me to a young woman."
+  },
+  {
+   "s": "Yo le doy la mano otra vez.",
+   "e": "I shake her hand as well."
+  },
+  {
+   "s": "Ella se acerca para darme un beso.",
+   "e": "She leans in to give me a kiss."
+  },
+  {
+   "s": "Y yo me quedo con la mano estirada.",
+   "e": "And I am left with my hand stuck out."
+  },
+  {
+   "s": "Queda incómodo para los dos.",
+   "e": "It is awkward for both of us."
+  },
+  {
+   "s": "Roberto me explica después.",
+   "e": "Roberto explains it to me afterwards."
+  },
+  {
+   "s": "Entre hombres se da la mano.",
+   "e": "Between men you shake hands."
+  },
+  {
+   "s": "Entre hombre y mujer se da un beso.",
+   "e": "Between a man and a woman you give a kiss."
+  },
+  {
+   "s": "Un beso en la mejilla, uno solo.",
+   "e": "A kiss on the cheek, only one."
+  },
+  {
+   "s": "No dos como en otros países.",
+   "e": "Not two like in other countries."
+  },
+  {
+   "s": "Entre mujeres también un beso.",
+   "e": "Between women also a kiss."
+  },
+  {
+   "s": "Pero con una señora mayor, la mano.",
+   "e": "But with an older woman, a handshake."
+  },
+  {
+   "s": "O un beso si ya hay confianza.",
+   "e": "Or a kiss if you already know each other."
+  },
+  {
+   "s": "\"¿Y cómo sé cuándo hay confianza?\", pregunto.",
+   "e": "\"And how do I know when there's that trust?\" I ask."
+  },
+  {
+   "s": "\"Ella se acerca o no se acerca\", dice él.",
+   "e": "\"She leans in or she doesn't,\" he says."
+  },
+  {
+   "s": "Entonces hay que esperar y leer.",
+   "e": "So you have to wait and read it."
+  },
+  {
+   "s": "Un segundo de esperar y ya se sabe.",
+   "e": "One second of waiting and you know."
+  },
+  {
+   "s": "También importa a quién se saluda primero.",
+   "e": "It also matters who you greet first."
+  },
+  {
+   "s": "Primero a los mayores, siempre.",
+   "e": "The older people first, always."
+  },
+  {
+   "s": "Primero a la abuela, después a los demás.",
+   "e": "The grandmother first, then everybody else."
+  },
+  {
+   "s": "Y hay que saludar a todos.",
+   "e": "And you have to greet everybody."
+  },
+  {
+   "s": "A todos, uno por uno.",
+   "e": "Everybody, one by one."
+  },
+  {
+   "s": "Si hay quince personas, son quince saludos.",
+   "e": "If there are fifteen people, that is fifteen greetings."
+  },
+  {
+   "s": "Eso toma cinco minutos y no importa.",
+   "e": "That takes five minutes and it does not matter."
+  },
+  {
+   "s": "Un día llego a una casa con mucha gente.",
+   "e": "One day I arrive at a house with a lot of people."
+  },
+  {
+   "s": "Digo buenas a todos desde la puerta.",
+   "e": "I say buenas to everybody from the door."
+  },
+  {
+   "s": "Un solo buenas para todo el grupo.",
+   "e": "One single buenas for the whole group."
+  },
+  {
+   "s": "Nadie me dice nada.",
+   "e": "Nobody says anything to me."
+  },
+  {
+   "s": "Pero doña Carmen me habla después.",
+   "e": "But doña Carmen speaks to me afterwards."
+  },
+  {
+   "s": "\"Hay que saludar de uno en uno, mijo.\"",
+   "e": "\"You have to greet them one by one, mijo.\""
+  },
+  {
+   "s": "\"Si no, parece que uno tiene prisa.\"",
+   "e": "\"Otherwise it looks like you're in a hurry.\""
+  },
+  {
+   "s": "Desde ese día saludo uno por uno.",
+   "e": "From that day on I greet them one by one."
+  },
+  {
+   "s": "Doy la mano o doy un beso.",
+   "e": "I shake hands or I give a kiss."
+  },
+  {
+   "s": "Digo mucho gusto si es la primera vez.",
+   "e": "I say mucho gusto if it is the first time."
+  },
+  {
+   "s": "Y digo el nombre de la persona si me lo sé.",
+   "e": "And I say the person's name if I know it."
+  },
+  {
+   "s": "Decir el nombre cambia todo.",
+   "e": "Saying the name changes everything."
+  },
+  {
+   "s": "\"Buenas, doña Marta\" no es igual que \"buenas\".",
+   "e": "\"Buenas, doña Marta\" is not the same as \"buenas\"."
+  },
+  {
+   "s": "Cuesta lo mismo y pesa mucho más.",
+   "e": "It costs the same and is worth much more."
+  }
+ ]
+}

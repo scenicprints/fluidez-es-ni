@@ -1,0 +1,205 @@
+{
+ "id": "p2-23",
+ "title": "Estoy enfermo",
+ "desc": "Being ill somewhere you do not know the words",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "doler",
+  "remedio"
+ ],
+ "sn": [
+  {
+   "s": "Un martes me despierto mal.",
+   "e": "One Tuesday I wake up feeling bad."
+  },
+  {
+   "s": "Me duele la cabeza.",
+   "e": "My head hurts."
+  },
+  {
+   "s": "Me duele el estómago.",
+   "e": "My stomach hurts."
+  },
+  {
+   "s": "Tengo el cuerpo caliente.",
+   "e": "My body is hot."
+  },
+  {
+   "s": "Creo que tengo fiebre.",
+   "e": "I think I have a fever."
+  },
+  {
+   "s": "No me levanto de la cama.",
+   "e": "I do not get out of bed."
+  },
+  {
+   "s": "En español el dolor se dice raro.",
+   "e": "In Spanish pain is said in a strange way."
+  },
+  {
+   "s": "Uno no tiene dolor de cabeza nada más.",
+   "e": "You do not just have a headache."
+  },
+  {
+   "s": "A uno le duele la cabeza.",
+   "e": "The head hurts you."
+  },
+  {
+   "s": "Me duele la cabeza.",
+   "e": "My head hurts me."
+  },
+  {
+   "s": "Me duele el estómago.",
+   "e": "My stomach hurts me."
+  },
+  {
+   "s": "Me duelen los ojos.",
+   "e": "My eyes hurt me."
+  },
+  {
+   "s": "El dolor le pasa a uno, uno no lo tiene.",
+   "e": "The pain happens to you, you do not have it."
+  },
+  {
+   "s": "Doña Carmen entra al cuarto.",
+   "e": "Doña Carmen comes into the room."
+  },
+  {
+   "s": "Me toca la frente con la mano.",
+   "e": "She touches my forehead with her hand."
+  },
+  {
+   "s": "\"Tiene fiebre\", dice ella.",
+   "e": "\"You've got a fever,\" she says."
+  },
+  {
+   "s": "Y ahí empieza todo.",
+   "e": "And that is when it all starts."
+  },
+  {
+   "s": "Doña Carmen hace un té de algo.",
+   "e": "Doña Carmen makes a tea of something."
+  },
+  {
+   "s": "No sé de qué es el té.",
+   "e": "I do not know what the tea is."
+  },
+  {
+   "s": "Sabe horrible y me lo tomo entero.",
+   "e": "It tastes horrible and I drink all of it."
+  },
+  {
+   "s": "Doña Marta llega a la media hora.",
+   "e": "Doña Marta arrives half an hour later."
+  },
+  {
+   "s": "Alguien le avisó que yo estaba enfermo.",
+   "e": "Somebody told her I was ill."
+  },
+  {
+   "s": "Trae otro remedio, distinto.",
+   "e": "She brings another remedy, a different one."
+  },
+  {
+   "s": "\"Eso es para la fiebre\", dice ella.",
+   "e": "\"That's for the fever,\" she says."
+  },
+  {
+   "s": "Doña Carmen la mira y no dice nada.",
+   "e": "Doña Carmen looks at her and says nothing."
+  },
+  {
+   "s": "Pero se le nota que no está de acuerdo.",
+   "e": "But you can see she does not agree."
+  },
+  {
+   "s": "Después llega don Beto con pastillas.",
+   "e": "Then don Beto arrives with tablets."
+  },
+  {
+   "s": "Las compró en la farmacia de la esquina.",
+   "e": "He bought them at the pharmacy on the corner."
+  },
+  {
+   "s": "Aquí uno compra pastillas sin receta.",
+   "e": "Here you buy tablets without a prescription."
+  },
+  {
+   "s": "Uno le dice al de la farmacia qué le duele.",
+   "e": "You tell the pharmacist what hurts."
+  },
+  {
+   "s": "Y él le da algo.",
+   "e": "And he gives you something."
+  },
+  {
+   "s": "Para la tarde tengo tres remedios distintos.",
+   "e": "By the afternoon I have three different remedies."
+  },
+  {
+   "s": "Un té, un remedio de doña Marta y pastillas.",
+   "e": "A tea, doña Marta's remedy and tablets."
+  },
+  {
+   "s": "Y tres personas esperando que me mejore.",
+   "e": "And three people waiting for me to get better."
+  },
+  {
+   "s": "Yo tomo todo, porque rechazar sería peor.",
+   "e": "I take everything, because refusing would be worse."
+  },
+  {
+   "s": "En la noche Roberto se sienta en el cuarto.",
+   "e": "At night Roberto sits in the room."
+  },
+  {
+   "s": "No hace nada, sólo se sienta ahí.",
+   "e": "He does nothing, he just sits there."
+  },
+  {
+   "s": "\"Andá a dormir\", le digo yo.",
+   "e": "\"Go to bed,\" I tell him."
+  },
+  {
+   "s": "\"Ahorita\", dice él, y no se va.",
+   "e": "\"Ahorita,\" he says, and does not go."
+  },
+  {
+   "s": "Se queda hasta que me duermo.",
+   "e": "He stays until I fall asleep."
+  },
+  {
+   "s": "Al otro día estoy mejor.",
+   "e": "The next day I am better."
+  },
+  {
+   "s": "No sé cuál de los tres remedios sirvió.",
+   "e": "I do not know which of the three remedies worked."
+  },
+  {
+   "s": "Doña Carmen dice que fue el té.",
+   "e": "Doña Carmen says it was the tea."
+  },
+  {
+   "s": "Doña Marta dice que fue lo suyo.",
+   "e": "Doña Marta says it was hers."
+  },
+  {
+   "s": "Don Beto dice que fueron las pastillas.",
+   "e": "Don Beto says it was the tablets."
+  },
+  {
+   "s": "Yo les doy la razón a los tres.",
+   "e": "I tell all three of them they are right."
+  },
+  {
+   "s": "Estar enfermo aquí no es estar solo.",
+   "e": "Being ill here is not being alone."
+  },
+  {
+   "s": "Ese es todo el remedio.",
+   "e": "That is the whole remedy."
+  }
+ ]
+}

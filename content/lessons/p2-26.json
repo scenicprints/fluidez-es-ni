@@ -1,0 +1,212 @@
+{
+ "id": "p2-26",
+ "title": "Ya sos de aquí",
+ "desc": "The first time somebody says you belong",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "ahora"
+ ],
+ "sn": [
+  {
+   "s": "Han pasado seis meses.",
+   "e": "Six months have gone by."
+  },
+  {
+   "s": "Yo no me di cuenta de cuándo cambió.",
+   "e": "I did not notice when it changed."
+  },
+  {
+   "s": "No hubo un día exacto.",
+   "e": "There was no exact day."
+  },
+  {
+   "s": "Pero un domingo pasa algo pequeño.",
+   "e": "But one Sunday something small happens."
+  },
+  {
+   "s": "Llega una visita nueva a la casa.",
+   "e": "A new visitor comes to the house."
+  },
+  {
+   "s": "Es un primo de doña Carmen del campo.",
+   "e": "He is a cousin of doña Carmen's from the countryside."
+  },
+  {
+   "s": "Nunca me ha visto.",
+   "e": "He has never seen me."
+  },
+  {
+   "s": "Yo estoy en la cocina ayudando.",
+   "e": "I am in the kitchen helping."
+  },
+  {
+   "s": "El primo me ve y pregunta quién soy.",
+   "e": "The cousin sees me and asks who I am."
+  },
+  {
+   "s": "Yo espero la respuesta de siempre.",
+   "e": "I wait for the usual answer."
+  },
+  {
+   "s": "Espero que digan que soy el muchacho que vive aquí.",
+   "e": "I expect them to say I am the young man who lives here."
+  },
+  {
+   "s": "Doña Carmen contesta sin pensarlo.",
+   "e": "Doña Carmen answers without thinking."
+  },
+  {
+   "s": "\"Es de la casa\", dice ella.",
+   "e": "\"He's family,\" she says."
+  },
+  {
+   "s": "Y sigue cocinando.",
+   "e": "And carries on cooking."
+  },
+  {
+   "s": "No explica nada más.",
+   "e": "She explains nothing more."
+  },
+  {
+   "s": "El primo dice buenas y ya está.",
+   "e": "The cousin says buenas and that is that."
+  },
+  {
+   "s": "Para él la respuesta alcanzó.",
+   "e": "For him the answer was enough."
+  },
+  {
+   "s": "Yo me quedo con el cuchillo en la mano.",
+   "e": "I stand there with the knife in my hand."
+  },
+  {
+   "s": "Es de la casa.",
+   "e": "He's family."
+  },
+  {
+   "s": "Cuatro palabras y ya.",
+   "e": "Four words and that is it."
+  },
+  {
+   "s": "Esa tarde pienso en todo lo que cambió.",
+   "e": "That afternoon I think about everything that changed."
+  },
+  {
+   "s": "Ahora saludo a todos en la calle.",
+   "e": "Now I greet everybody in the street."
+  },
+  {
+   "s": "Ahora tomo pinolillo en la mañana.",
+   "e": "Now I drink pinolillo in the morning."
+  },
+  {
+   "s": "Ahora digo ahorita y llego tarde.",
+   "e": "Now I say ahorita and arrive late."
+  },
+  {
+   "s": "Ahora pido favores sin pena.",
+   "e": "Now I ask favours without embarrassment."
+  },
+  {
+   "s": "Ahora acepto el café aunque diga que no.",
+   "e": "Now I accept the coffee even though I say no."
+  },
+  {
+   "s": "Ahora me burlo de Roberto y él de mí.",
+   "e": "Now I tease Roberto and he teases me."
+  },
+  {
+   "s": "Ahora sé qué ruta pasa por dónde.",
+   "e": "Now I know which ruta goes where."
+  },
+  {
+   "s": "Ahora regateo sin miedo.",
+   "e": "Now I haggle without fear."
+  },
+  {
+   "s": "Ahora grito parada en el bus.",
+   "e": "Now I shout parada on the bus."
+  },
+  {
+   "s": "Y ninguna de esas cosas la decidí.",
+   "e": "And not one of those things did I decide."
+  },
+  {
+   "s": "Todas se me pegaron solas.",
+   "e": "They all just stuck to me."
+  },
+  {
+   "s": "Roberto llega y me ve pensando.",
+   "e": "Roberto comes in and sees me thinking."
+  },
+  {
+   "s": "\"¿Qué te pasa?\", pregunta él.",
+   "e": "\"What's up with you?\" he asks."
+  },
+  {
+   "s": "Le cuento lo que dijo su mamá.",
+   "e": "I tell him what his mother said."
+  },
+  {
+   "s": "Roberto se encoge de hombros.",
+   "e": "Roberto shrugs."
+  },
+  {
+   "s": "\"Es que sos de la casa\", dice él.",
+   "e": "\"Well, you are family,\" he says."
+  },
+  {
+   "s": "\"Desde hace rato.\"",
+   "e": "\"For a while now.\""
+  },
+  {
+   "s": "\"¿Desde cuándo?\", pregunto yo.",
+   "e": "\"Since when?\" I ask."
+  },
+  {
+   "s": "Roberto piensa un segundo.",
+   "e": "Roberto thinks for a second."
+  },
+  {
+   "s": "\"Desde que te empezamos a mandar mandados.\"",
+   "e": "\"Since we started sending you on errands.\""
+  },
+  {
+   "s": "Y tiene razón.",
+   "e": "And he is right."
+  },
+  {
+   "s": "Fue ese día y yo no lo vi.",
+   "e": "It was that day and I did not see it."
+  },
+  {
+   "s": "En la noche doña Carmen me pregunta algo.",
+   "e": "At night doña Carmen asks me something."
+  },
+  {
+   "s": "\"¿Y hasta cuándo se queda, mijo?\"",
+   "e": "\"And how long are you staying, mijo?\""
+  },
+  {
+   "s": "Antes esa pregunta me daba miedo.",
+   "e": "That question used to frighten me."
+  },
+  {
+   "s": "Ahora ya no.",
+   "e": "Not any more."
+  },
+  {
+   "s": "\"No sé\", digo yo. \"Un buen rato.\"",
+   "e": "\"I don't know,\" I say. \"A good while.\""
+  },
+  {
+   "s": "\"Está bien\", dice ella.",
+   "e": "\"That's all right,\" she says."
+  },
+  {
+   "s": "Y no pregunta más.",
+   "e": "And she asks no more."
+  }
+ ]
+}
