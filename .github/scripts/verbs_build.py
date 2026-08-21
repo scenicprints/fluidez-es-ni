@@ -27,9 +27,11 @@ Everything generated here is checked against the 21 irregulars that were
 already in the file. If a single one of their present/past/future forms comes
 out different, the build refuses to write.
 """
-import io, json, os, re, sys, collections
-sys.path.insert(0, ".github/scripts")
+import io, json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import forms as M
+
+# Run from the repo root:  python .github/scripts/verbs_build.py
 
 SUBJ = 5  # yo, vos, él/ella, nosotros, ellos
 
@@ -133,6 +135,63 @@ HARD = {
             "conditional": [u"habría", u"habrías", u"habría", u"habríamos", u"habrían"],
             "subjunctive": [u"haya", u"hayás", u"haya", u"hayamos", u"hayan"],
             "imperative": [u"habé"]},
+}
+
+# The drill list, frozen. It was picked once from how often the course
+# actually uses each verb, and it is written down rather than recomputed
+# so that this script is a pure function of its own tables: running it
+# twice gives the same file. Reflexives are absent on purpose - engine.js
+# conjugate() does verb.slice(0, -2), so "enojarse" would come out
+# "enojarso". Add one only when the app knows how to strip the pronoun.
+DRILL = [
+ u"decir", u"ser", u"estar", u"ir", u"hacer", u"tener",
+ u"preguntar", u"saber", u"hablar", u"dar", u"querer", u"contar",
+ u"poder", u"salir", u"poner", u"llevar", u"pedir", u"ver",
+ u"pasar", u"venir", u"explicar", u"empezar", u"volver", u"esperar",
+ u"aprender", u"contestar", u"pensar", u"medir", u"seguir", u"dejar",
+ u"sonar", u"mirar", u"cambiar", u"llegar", u"servir", u"mandar",
+ u"entrar", u"gritar", u"usar", u"faltar", u"enseñar", u"pagar",
+ u"terminar", u"comprar", u"avisar", u"costar", u"sacar", u"entender",
+ u"caminar", u"tomar", u"cerrar", u"tocar", u"dormir", u"conocer",
+ u"trabajar", u"comer", u"escuchar", u"importar", u"saludar", u"discutir",
+ u"subir", u"repetir", u"caer", u"significar", u"abrir", u"vender",
+ u"perder", u"escribir", u"invitar", u"buscar", u"deber", u"lavar",
+ u"bailar", u"depender", u"arreglar", u"parar", u"tratar", u"meter",
+ u"llamar", u"corregir", u"llorar", u"leer", u"existir", u"aguantar",
+ u"devolver", u"sorprender", u"quitar", u"olvidar", u"ayudar", u"vivir",
+ u"jugar", u"creer", u"cocinar", u"nacer", u"reclamar", u"probar",
+ u"presentar", u"mencionar", u"recitar", u"funcionar", u"estudiar", u"doler",
+ u"guardar", u"alcanzar", u"insistir", u"aceptar", u"correr", u"escoger",
+ u"cantar", u"recibir", u"cargar", u"apuntar", u"cobrar", u"prender",
+ u"cuidar", u"cumplir", u"encontrar", u"armar", u"vacilar", u"pesar",
+ u"sentir", u"necesitar", u"ganar",
+]
+
+# The 21 irregulars this file inherited, exactly as they were. The build
+# refuses to write unless it reproduces every one of these. That check
+# caught real errors in decir, tener and venir; do not remove it.
+BASELINE = {
+ u"dar": {"present": [u"doy", u"das", u"da", u"damos", u"dan"], "past": [u"di", u"diste", u"dio", u"dimos", u"dieron"], "future": [u"daré", u"darás", u"dará", u"daremos", u"darán"]},
+ u"decir": {"present": [u"digo", u"decís", u"dice", u"decimos", u"dicen"], "past": [u"dije", u"dijiste", u"dijo", u"dijimos", u"dijeron"], "future": [u"diré", u"dirás", u"dirá", u"diremos", u"dirán"]},
+ u"dormir": {"present": [u"duermo", u"dormís", u"duerme", u"dormimos", u"duermen"], "past": [u"dormí", u"dormiste", u"durmió", u"dormimos", u"durmieron"], "future": [u"dormiré", u"dormirás", u"dormirá", u"dormiremos", u"dormirán"]},
+ u"empezar": {"present": [u"empiezo", u"empezás", u"empieza", u"empezamos", u"empiezan"], "past": [u"empecé", u"empezaste", u"empezó", u"empezamos", u"empezaron"], "future": [u"empezaré", u"empezarás", u"empezará", u"empezaremos", u"empezarán"]},
+ u"encontrar": {"present": [u"encuentro", u"encontrás", u"encuentra", u"encontramos", u"encuentran"], "past": [u"encontré", u"encontraste", u"encontró", u"encontramos", u"encontraron"], "future": [u"encontraré", u"encontrarás", u"encontrará", u"encontraremos", u"encontrarán"]},
+ u"estar": {"present": [u"estoy", u"estás", u"está", u"estamos", u"están"], "past": [u"estuve", u"estuviste", u"estuvo", u"estuvimos", u"estuvieron"], "future": [u"estaré", u"estarás", u"estará", u"estaremos", u"estarán"]},
+ u"hacer": {"present": [u"hago", u"hacés", u"hace", u"hacemos", u"hacen"], "past": [u"hice", u"hiciste", u"hizo", u"hicimos", u"hicieron"], "future": [u"haré", u"harás", u"hará", u"haremos", u"harán"]},
+ u"ir": {"present": [u"voy", u"vas", u"va", u"vamos", u"van"], "past": [u"fui", u"fuiste", u"fue", u"fuimos", u"fueron"], "future": [u"iré", u"irás", u"irá", u"iremos", u"irán"]},
+ u"pedir": {"present": [u"pido", u"pedís", u"pide", u"pedimos", u"piden"], "past": [u"pedí", u"pediste", u"pidió", u"pedimos", u"pidieron"], "future": [u"pediré", u"pedirás", u"pedirá", u"pediremos", u"pedirán"]},
+ u"pensar": {"present": [u"pienso", u"pensás", u"piensa", u"pensamos", u"piensan"], "past": [u"pensé", u"pensaste", u"pensó", u"pensamos", u"pensaron"], "future": [u"pensaré", u"pensarás", u"pensará", u"pensaremos", u"pensarán"]},
+ u"poder": {"present": [u"puedo", u"podés", u"puede", u"podemos", u"pueden"], "past": [u"pude", u"pudiste", u"pudo", u"pudimos", u"pudieron"], "future": [u"podré", u"podrás", u"podrá", u"podremos", u"podrán"]},
+ u"poner": {"present": [u"pongo", u"ponés", u"pone", u"ponemos", u"ponen"], "past": [u"puse", u"pusiste", u"puso", u"pusimos", u"pusieron"], "future": [u"pondré", u"pondrás", u"pondrá", u"pondremos", u"pondrán"]},
+ u"querer": {"present": [u"quiero", u"querés", u"quiere", u"queremos", u"quieren"], "past": [u"quise", u"quisiste", u"quiso", u"quisimos", u"quisieron"], "future": [u"querré", u"querrás", u"querrá", u"querremos", u"querrán"]},
+ u"saber": {"present": [u"sé", u"sabés", u"sabe", u"sabemos", u"saben"], "past": [u"supe", u"supiste", u"supo", u"supimos", u"supieron"], "future": [u"sabré", u"sabrás", u"sabrá", u"sabremos", u"sabrán"]},
+ u"salir": {"present": [u"salgo", u"salís", u"sale", u"salimos", u"salen"], "past": [u"salí", u"saliste", u"salió", u"salimos", u"salieron"], "future": [u"saldré", u"saldrás", u"saldrá", u"saldremos", u"saldrán"]},
+ u"seguir": {"present": [u"sigo", u"seguís", u"sigue", u"seguimos", u"siguen"], "past": [u"seguí", u"seguiste", u"siguió", u"seguimos", u"siguieron"], "future": [u"seguiré", u"seguirás", u"seguirá", u"seguiremos", u"seguirán"]},
+ u"sentir": {"present": [u"siento", u"sentís", u"siente", u"sentimos", u"sienten"], "past": [u"sentí", u"sentiste", u"sintió", u"sentimos", u"sintieron"], "future": [u"sentiré", u"sentirás", u"sentirá", u"sentiremos", u"sentirán"]},
+ u"ser": {"present": [u"soy", u"sos", u"es", u"somos", u"son"], "past": [u"fui", u"fuiste", u"fue", u"fuimos", u"fueron"], "future": [u"seré", u"serás", u"será", u"seremos", u"serán"]},
+ u"tener": {"present": [u"tengo", u"tenés", u"tiene", u"tenemos", u"tienen"], "past": [u"tuve", u"tuviste", u"tuvo", u"tuvimos", u"tuvieron"], "future": [u"tendré", u"tendrás", u"tendrá", u"tendremos", u"tendrán"]},
+ u"venir": {"present": [u"vengo", u"venís", u"viene", u"venimos", u"vienen"], "past": [u"vine", u"viniste", u"vino", u"vinimos", u"vinieron"], "future": [u"vendré", u"vendrás", u"vendrá", u"vendremos", u"vendrán"]},
+ u"ver": {"present": [u"veo", u"ves", u"ve", u"vemos", u"ven"], "past": [u"vi", u"viste", u"vio", u"vimos", u"vieron"], "future": [u"veré", u"verás", u"verá", u"veremos", u"verán"]},
 }
 
 REG = {
@@ -266,11 +325,9 @@ def build(verb):
 
 
 def main():
-    old = json.load(io.open("content/verbs.json", encoding="utf-8"))
-
-    # 1. does the generator reproduce every irregular already in the file?
+    # 1. does the generator still reproduce the table this file inherited?
     bad = []
-    for verb, tbl in sorted(old["irregular"].items()):
+    for verb, tbl in sorted(BASELINE.items()):
         made = build(verb)
         for tense in ("present", "past", "future"):
             if made[tense] != tbl[tense]:
@@ -282,36 +339,11 @@ def main():
         print("see ../verbdiff.txt")
         return 1
 
-    # 2. the drill list: the verbs the course actually uses, most-used first
-    d = {}
-    for p in ["content/dictionary/core.json", "content/dictionary/spine.json"]:
-        d.update(json.load(io.open(p, encoding="utf-8")))
-    corpus = []
-    for n in sorted(os.listdir("content/lessons")):
-        if re.match(r"^p[0-7]-\d\d[.]json$", n):
-            b = json.load(io.open("content/lessons/" + n, encoding="utf-8"))
-            corpus += [s["s"] for s in b["sn"]]
-    f, _, _ = M.build(d, corpus, old)
-    cnt = collections.Counter()
-    for line in corpus:
-        for w in M.tokens(line):
-            lem = w if w in d else f.get(w)
-            if lem and (d.get(lem, {}).get("pos") or "").split("/")[0] == "v":
-                cnt[lem] += 1
-    drill = []
-    for w, _n in cnt.most_common():
-        # engine.js conjugate() does verb.slice(0, -2), so a reflexive
-        # infinitive would come out as "enojarso". Those are left out until the
-        # app knows how to strip the pronoun.
-        if w.endswith(u"se") or kind_of(w) is None:
-            continue
-        if w not in drill:
-            drill.append(w)
-        if len(drill) >= 120:
-            break
-    for must in old["drill"]:
-        if must not in drill and kind_of(must):
-            drill.append(must)
+    # 2. the drill list is frozen data, not recomputed - see DRILL above
+    drill = [w for w in DRILL if kind_of(w) and not w.endswith(u"se")]
+    if len(drill) != len(DRILL):
+        print("dropped %d unconjugatable entries from DRILL"
+              % (len(DRILL) - len(drill)))
 
     # 3. everything that needs an irregular entry gets a complete one
     irregular = {}
@@ -324,12 +356,12 @@ def main():
                      and verb[:-2][-1] in u"aeo"))
         if needs:
             irregular[verb] = build(verb)
-    for verb in old["irregular"]:
+    for verb in BASELINE:
         if verb not in irregular:
             irregular[verb] = build(verb)
 
     out = {
-        "subjects": old["subjects"],
+        "subjects": [u"yo", u"vos", u"él/ella", u"nosotros", u"ellos"],
         "tenses": ["present", "past", "imperfect", "future", "conditional",
                    "subjunctive"],
         "regular": REG,

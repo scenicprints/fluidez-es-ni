@@ -107,8 +107,10 @@ before writing. **Do not hand-write a trigger list without running stage.py.**
 
 ### 3. ~~Verbs~~ — DONE. 45 → 123, and 3 tenses → 6
 
-`content/verbs.json` was rebuilt by `verbs_build.py` (kept in git history, not
-in the tree — recover it from the commit if you need to regenerate). 123 drill
+`content/verbs.json` is generated. Run
+`python .github/scripts/verbs_build.py` from the repo root to rebuild it — the
+rule tables live at the top of that file, so a missed stem-changer is a
+one-line fix there rather than a hand edit to 3,000 lines of JSON. 123 drill
 verbs, chosen by how often the course actually uses them, 51 of them with a
 full irregular table.
 
@@ -214,6 +216,26 @@ entry**, or you make things worse. Adding `tragar` beside `tragarse` cost
 `traga` its mapping until it was pulled back out.
 
 ---
+
+## What already goes live on every push
+
+Most of this work is invisible to Kevin until the manifest flip. **Two things
+are not**, because the manifest already lists them, and CI rebuilds
+`pack.json` on every push to main:
+
+- **`content/dictionary/*.json`** — every entry added while writing the course
+  is live now. That is fine and was always the design: more words become
+  tappable, no lesson changes.
+- **`content/verbs.json`** — the Verb Trainer. The rebuild is live: the
+  `cerro`/`perdo` fix, and the three new tenses. Of the 123 drill verbs, 20 are
+  not reachable from the 81 lessons he is actually reading, so he will
+  occasionally be asked to conjugate an infinitive he has not met. All 45 of
+  the original drill verbs are still there; nothing was taken away. If that
+  turns out to be unwelcome, reverting is one commit — but the two wrong forms
+  should not go back.
+
+Nothing else does. Lessons, scenes and `patterns/spine.json` are all sitting on
+disk unlisted.
 
 ## Publishing — DO NOT DO THIS YET
 
