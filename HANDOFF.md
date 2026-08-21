@@ -267,7 +267,13 @@ Three independent update lanes, all working:
 
 ## 7. Still to do
 
-- [ ] **Stories** — 1 of 185 written (`p0-01`). See `plan/PROGRESS.md`.
+- [x] **Stories** — 185 of 185 written. 77,288 running words, 1,714 words
+      taught, median seven encounters. See `plan/PROGRESS.md`. Two things
+      surfaced by finishing them are written up in `NEXT.md` and need Kevin's
+      decision before publishing: **95 of 185 warm-ups end up empty** because
+      `reconcile.py` will not let two stories claim the same word, and
+      **17 reflexive/plain dictionary pairs** (`quedar`/`quedarse` and the
+      rest) cost every shared inflection its tappability.
 - [ ] **Scenes** — 40 exist, grow to ~95, phase-gated, matching the story arc.
       Scene replies are Spanish-only (the English is blurred behind one
       "Show the English" control) — do not print translations on the buttons.
