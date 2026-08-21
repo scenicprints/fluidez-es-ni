@@ -293,10 +293,10 @@ Three independent update lanes, all working:
       *Vamos a conversar* (platicar is Mexican and on dialect.py's own ban
       list), and *¡Ánimo!* → *¡Seguí!* (nothing teaches ánimo, so that line was
       unreachable by construction). `stage.py` checks this now.
-- [ ] **Audio** — there is **no Nicaraguan TTS voice on any platform**. The
-      pack declares `es-MX`, which is the accent Kevin explicitly does not
-      want. Unresolved; his call between labelling it, dropping audio, or
-      recording a real Nicaraguan speaker for the scenes.
+- [x] **Audio** — **DECIDED 2026-08-21: leave it as `es-MX`.** There is no
+      Nicaraguan TTS voice on any platform. Kevin has seen the trade and chosen
+      to live with the Mexican voice rather than lose audio. Closed. Do not
+      reopen it, do not swap the voice, do not add a warning label.
 
 Derived drills need no authoring: **Review, Word Order, Listening and
 Shadowing all generate from lesson sentences** and grow automatically with

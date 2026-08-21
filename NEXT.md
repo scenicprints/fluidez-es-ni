@@ -1,8 +1,9 @@
 # START HERE — what to build next
 
-**Everything is written. The only job left is publishing it, and that needs
-Kevin's go-ahead.** Read `HANDOFF.md` in this same folder for the full context,
-the gates and the reasoning behind them. This file is the short version.
+**The course is written. Two jobs left, in this order: make the reader able to
+look every word up, then publish.** Both are approved — see *THE JOB* below.
+Read `HANDOFF.md` in this same folder for the full context, the gates and the
+reasoning behind them. This file is the short version.
 
 | | | |
 |---|---|---|
@@ -251,10 +252,21 @@ are not**, because the manifest already lists them, and CI rebuilds
 Nothing else does. Lessons, scenes and `patterns/spine.json` are all sitting on
 disk unlisted.
 
-## What is still open
+## THE JOB: fix the tappability, then publish
 
-Publishing is the big one, but it is not the only one. In rough order of how
-much they cost the learner:
+Kevin decided this on 2026-08-21, after being shown the list below:
+
+> *"We can leave 4 the way it is. For the rest, let's let the next claude agent
+> fix them and publish."*
+
+So: do 1, 2 and 3. Then publish. **Item 4 is settled — leave the audio alone.**
+Item 5 is in the app repo and is not yours unless you go there.
+
+Items 1, 2 and 3 are the same problem seen from three sides — the reader cannot
+look a word up — and they want one pass over `forms.py` and the dictionary, not
+three. Do them together and measure with the `lookups` line in `stage.py`,
+which is at **93.4%** today. Every point of that is roughly 780 words on the
+page that go from dead to tappable.
 
 1. **924 words on the page have no dictionary entry at all** — 6.6% of the
    reader. Not tappable, no exposure, no strength colour. `stage.py` lists them
@@ -283,25 +295,26 @@ much they cost the learner:
    imperatives the course genuinely teaches as words — `andá`, `mirá`, `vení`,
    `sentate`, `fijate`, `decime` — are NOT in this class and must stay.
 
-4. **Audio is declared `es-MX`** in the manifest, which is the accent Kevin
-   explicitly does not want. There is no Nicaraguan TTS voice on any platform.
-   His call between labelling it honestly, dropping audio, or recording a real
-   Nicaraguan speaker for the scenes. Unchanged since before the rewrite.
+4. ~~**Audio is `es-MX`**~~ — **DECIDED 2026-08-21: leave it.** There is no
+   Nicaraguan TTS voice on any platform and Kevin has looked at the trade and
+   chosen to live with it. Do not reopen this, do not "improve" it, do not swap
+   the voice.
 
-5. **The voseo imperative is not drillable** — an app-repo change, see the
-   Verbs section.
+5. **The voseo imperative is not drillable** — an **app-repo** change
+   (`scenicprints/fluidez`): teach `startVerbs()` that some tenses have one
+   form and no subject. Not part of this job.
 
-None of these block publishing. All of them are worth more than another
-hundred sentences of course.
+## Publishing — APPROVED, once 1–3 are done
 
-## Publishing — DO NOT DO THIS YET
+Kevin gave the go-ahead on 2026-08-21. The stories, scenes and
+`patterns/spine.json` have been sitting on disk unlisted the whole time so that
+a half-finished course never landed in the middle of the one he uses daily.
+That reason has expired: the course is finished.
 
-New stories are deliberately **not** in `content/manifest.json`. They stay out
-until the scenes, patterns and verbs jobs above are done, because dropping a
-half-finished course into the middle of the old one only confuses Kevin, who
-uses the app daily.
+Do the tappability pass FIRST — publishing locks in whatever the reader can and
+cannot look up, and fixing it afterwards means a second pack push.
 
-When those three jobs are done and the gates are clean, `manifest.json` needs
+`manifest.json` needs
 **four** edits, not one. Everything written since the rewrite began is sitting
 on disk unlisted, and `build-pack.py` only ever loads what the manifest names:
 
