@@ -56,11 +56,11 @@ content/
   dictionary/spine.json      words the NEW course adds  <- add here
   dictionary/forms-overrides.json   hand-pinned inflections
   dialect-allow.json         lines allowed to break the dialect rule
-  lessons/s*.json            the OLD 81 stories (being replaced)
-  lessons/p0-01.json …       the NEW 185 stories        <- write here
-  scenarios/sc*.json         40 scenes (to grow to ~95)
-  patterns/                  5 patterns (to grow to ~50)
-  verbs.json                 45 verbs, 3 tenses (to expand)
+  lessons/p0-01.json …       the 185 stories            <- write here
+  scenarios/sc*.json         95 scenes
+  patterns/core.json         the original 5
+  patterns/spine.json        the 47 the rewrite added
+  verbs.json                 123 verbs, 6 tenses (generated)
   momo.json                  the mascot's 59 lines
   plan/spine.json            THE PLAN — all 185 stories
   plan/PROGRESS.md           auto-written; what is done
@@ -205,28 +205,51 @@ learner with 187 words.
 ### `forms.py` — inflection mapping
 
 Generates form→lemma for forms that actually occur in the text, so `fría`
-opens `frío` and strengthens `frío`. Rules already paid for:
+opens `frío` and strengthens `frío`. **97.9% of the words on the page are
+tappable**; the rest is the cast, the place names, and a handful of words the
+course genuinely uses both ways. Three tiers decide who owns a form and each
+one was put there to fix a class rather than a word — the full account is in
+`NEXT.md` under *Making a word tappable*. Rules already paid for:
 
-- Irregular verbs are **never** rule-generated (the tables turn `estar` into
-  `esto` and `dar` into `do`, which are real words with other meanings).
-  They come from `verbs.json`.
-- A form two lemmas could both produce is **dropped, not guessed**.
+- **Stated beats ruled beats weak.** `verbs.json` is a fact and a rule is a
+  guess, so `dijo` is `decir` and not `dejar`'s speculative e→i stem change.
+  Tú forms, participles, and pronouns glued to an imperative are weak and lose
+  every argument: a voseo course contains no `casas`-the-verb, `mandados` is an
+  errand, and `ve` + `la` spells a candle.
+- Irregular verbs are **never** rule-generated for their finite tenses (the
+  tables turn `estar` into `esto` and `dar` into `do`, which are real words
+  with other meanings). Their gerund and participle are guessed weakly, and
+  the ones no rule can reach — `diciendo`, `visto`, `puesto`, `muerto` — are
+  written out in `IRREGULAR_NONFINITE`.
+- A form two lemmas could both produce is **dropped, not guessed** — with one
+  exception. A plain/reflexive pair (`quedar`/`quedarse`) is settled from the
+  text: the pronoun in front says which, **as long as it agrees with the
+  verb**. Without the agreement test "me parece" reads as a reflexive.
+- **Pronouns glue onto the end of a verb** and no table can spell that:
+  `acompañarla`, `decírmelo`, `contame`, `fíjese`, `hagámoslo`. The stress is
+  marked on the base before the pronoun goes on, which is what makes
+  `hablando` → `hablándome` and `fije` → `fíjese` come out right.
 - Spanish drops the written accent in the plural: `razón`→`razones`,
-  `inglés`→`ingleses`, and every `-ción` noun.
+  `inglés`→`ingleses`, and every `-ción` noun — and gains one going the other
+  way: `joven`→`jóvenes`, `examen`→`exámenes`.
 - Reflexive infinitives strip `-se` before generating, or `llamarse`,
-  `sentarse`, `irse` produce nothing at all.
+  `sentarse`, `irse` produce nothing at all. A `-se`-only entry also owns the
+  plain infinitive (`soltar` → `soltarse`) — do not add a second entry.
 - Anything ending in `-o` agrees like an adjective whatever its `pos` says
-  (`todo` is tagged `pron`, `mucho` is tagged `adv`).
+  (`todo` is tagged `pron`, `mucho` is tagged `adv`), and a noun that names a
+  person has a feminine (`maestro`/`maestra`, `vendedor`/`vendedora`).
 - **Stem changes are generated speculatively** (o→ue, e→ie, e→i):
   `costar`→`cuesta`, `pensar`→`piensa`, `volver`→`vuelve`. Over-generating
   is safe because anything not actually written is thrown away by the
   corpus filter. Voseo does not stem-change (`vos podés`), and those come
   from the plain stem, so both spellings are covered.
-- **Never let a plural be its own entry** when the singular exists.
-  `frijol` and `frijoles` were both entries, so every plural counted
-  towards a different memory. `dedupe` merged 28 of these; if you add a
-  word, add the lemma only.
-- Keys starting with `_` in override files are notes, not forms.
+- **Never let a plural or a conjugated form be its own entry** when the lemma
+  exists. `frijol` and `frijoles` were both entries, so every plural counted
+  towards a different memory; 62 conjugated forms were entries too and 42 have
+  been merged away. What is deliberately kept is listed in `reconcile.py`.
+- `forms-overrides.json` pins what no rule can settle and a `null` blocks a
+  form outright. **stage.py, reconcile.py and build-pack.py all apply it** —
+  they used to disagree. Keys starting with `_` are notes, not forms.
 
 ### Calibration learned from the first batch
 
@@ -249,14 +272,26 @@ opens `frío` and strengthens `frío`. Rules already paid for:
 
 ## 6. Publishing
 
-**New stories stay OUT of `manifest.json` until the whole course is done.**
-Dropping story three of the new course into the middle of the old one only
-confuses anyone using the app today. `stage.py` exists precisely so they can
-be validated without being published.
+**Published 2026-08-21.** `manifest.json` lists all 185 stories in spine order,
+all 95 scenes, both pattern files and both dictionary files; the old
+`lessons/s*.json` are gone. CI rebuilds `content/pack.json` on every push to
+main and every app picks it up with **no app release**.
 
-When the 185 are complete: replace the `lessons` list in `manifest.json` with
-the spine ids, delete `lessons/s*.json`, push. CI rebuilds `content/pack.json`
-and every app picks it up with **no app release**.
+Publishing was four edits, and it is worth knowing it was four in case a
+future language repo needs the same: the `lessons` list, the 95 `scenarios`
+rows (`{id, title, desc, phase, path}`), adding `patterns/spine.json`, and
+deleting the old story files. `build-pack.py` only ever loads what the
+manifest names, so a file on disk that nobody lists does not exist.
+
+The pack went from 420 KB to 1.5 MB. It still stores in `localStorage` — that
+was checked in the real app, not assumed — and `cacheWrite` already swallows a
+quota failure and refetches, so the worst case is slow, not broken.
+
+**The lesson ids changed**, from `s00`–`s710` to `p0-01`–`p7-18`. Vocabulary,
+streak and fluency are keyed on words and survive; "read" is keyed on lesson
+id and does not. Anybody using the old course starts the Path at zero with
+everything past phase 0 locked, because `openPhases()` opens a phase only once
+every story in the one before it is read.
 
 Three independent update lanes, all working:
 1. App code → push to `fluidez` main → CI stamps a version → Pages.
@@ -267,13 +302,16 @@ Three independent update lanes, all working:
 
 ## 7. Still to do
 
-- [x] **Stories** — 185 of 185 written. 77,288 running words, 1,714 words
-      taught, median seven encounters. See `plan/PROGRESS.md`. Two things
-      surfaced by finishing them are written up in `NEXT.md` and need Kevin's
-      decision before publishing: **95 of 185 warm-ups end up empty** because
-      `reconcile.py` will not let two stories claim the same word, and
-      **17 reflexive/plain dictionary pairs** (`quedar`/`quedarse` and the
-      rest) cost every shared inflection its tappability.
+- [x] **Stories** — 185 of 185 written and published. 77,544 running words,
+      1,963 words taught, median six encounters. See `plan/PROGRESS.md`.
+- [x] **Warm-ups** — 95 of 185 used to end up empty, because `reconcile.py`
+      would not let two stories claim the same word. Five changes and no gate
+      weakened: 5 empty, median 3, 609 warm-up words.
+- [x] **Tappability** — 93.4% → **97.9%**. 363 lemmas added, 42 conjugated
+      entries merged into their infinitives, pronouns-glued-to-a-verb
+      generated, and the sixteen `quedar`/`quedarse` pairs settled from the
+      text instead of dropped. Ambiguous forms went from 153 to 22. The
+      three tiers and the trade-offs are in `NEXT.md`.
 - [x] **Scenes** — 95, weighted 0:8 1:9 2:11 3:11 4:19 5:14 6:12 7:11. Replies
       are Spanish-only. NOTE: `screens.js` speaks `step.es` aloud, so a step
       prompt must be a line somebody says; options are only tapped.
