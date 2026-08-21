@@ -4,7 +4,9 @@
  "desc": "You can get anywhere now",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "conocer"
+ ],
  "sn": [
   {
    "s": "Hoy me pasa algo nuevo.",

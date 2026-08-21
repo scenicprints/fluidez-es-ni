@@ -4,7 +4,9 @@
  "desc": "Gratitude that means something",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "saber"
+ ],
  "sn": [
   {
    "s": "Cuando nació el niño, la calle nos dio todo.",

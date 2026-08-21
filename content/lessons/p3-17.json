@@ -4,7 +4,11 @@
  "desc": "A misunderstanding that becomes an argument",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "delante",
+  "pasar",
+  "saber"
+ ],
  "sn": [
   {
    "s": "Un día Roberto no me habla.",

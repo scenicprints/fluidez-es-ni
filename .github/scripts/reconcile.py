@@ -62,6 +62,19 @@ for n in sorted(os.listdir("content/lessons")):
         lessons[b["id"]] = b
 corpus = [sn["s"] for b in lessons.values() for sn in b["sn"]]
 forms, _, _ = M.build(dictionary, corpus, verbs)
+# The pack ships forms-overrides.json on top of the generated map, so counting
+# without it counts a course nobody reads: "sienta" is sentarse there and
+# sentir here, and that is the difference between a warm-up card being earned
+# and the DENSITY gate refusing it.
+_ov = "content/dictionary/forms-overrides.json"
+if os.path.exists(_ov):
+    for _f, _l in (json.load(io.open(_ov, encoding="utf-8")) or {}).items():
+        if _f.startswith("_"):
+            continue
+        if _l is None:
+            forms.pop(_f.lower(), None)
+        elif _l in dictionary:
+            forms[_f.lower()] = _l
 counts = {sid: SCH.story_words(b, dictionary, forms) for sid, b in lessons.items()}
 order = [s for s in spine if s in lessons]
 
@@ -72,19 +85,17 @@ BORING = set(u"su no ir venir poner ser estar haber tener hacer decir dar ver un
              u"que como cuando donde porque pero si mi tu nos les lo se".split())
 
 # Dictionary entries that are a conjugated form of a verb that is ALSO an
-# entry: "llega" beside "llegar", "entiendo" beside "entender". HANDOFF.md
-# says these should not exist and 164 of them have already been merged away;
-# these are what is left, and merging them is a data job nobody has done yet.
-# Until somebody does they must not be offered as vocabulary cards - a card
-# reading "llega: arrives" teaches nothing and costs the story a real word.
-# The vos imperatives the course genuinely teaches as words - anda, mira,
-# veni, sentate, fijate, decime - are deliberately NOT in here.
-NOT_A_LEMMA = set(
-    u"busco cabe come comemos compro comí conocen conozco creo entendés "
-    u"entiende entiendo era fue fui gusta gustan habla hablamos hablo hablé "
-    u"habría hubiera huele jugaba llama llamo llega llego llegué necesito pago "
-    u"parece pasa podría tomo trae tuviera vaya venden vive vivimos vivo viví"
-    .split())
+# entry. There used to be 62 of these and a card reading "llega: arrives"
+# taught nobody anything; 42 have now been merged into their infinitives and
+# the vos and usted imperatives the course genuinely teaches as words - anda,
+# mira, veni, sentate, fijate, decime, deme, disculpe - are lemmas in their own
+# right and belong on a card.
+#
+# Three are left on purpose. "hay" is the only form of haber anybody says.
+# "fue" and "fui" are ir AND ser at the same time and no map can pick one, so
+# the entry glossed "was/went" is the honest answer - but neither is a lemma,
+# so neither belongs on a vocabulary card.
+NOT_A_LEMMA = set(u"fue fui hay".split())
 
 # How much of everything the course ever says with a word is said in this one
 # story. Ordering the warm-up by this puts what the lesson is ABOUT first:

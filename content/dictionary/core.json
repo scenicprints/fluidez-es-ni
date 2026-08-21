@@ -576,15 +576,6 @@
   "en": "to look for",
   "pos": "v"
  },
- "busco": {
-  "en": "I look for",
-  "pos": "v"
- },
- "cabe": {
-  "en": "it's worth (noting)",
-  "note": "'Cabe señalar' = it's worth pointing out",
-  "pos": "v"
- },
  "cabeza": {
   "en": "head",
   "g": "f",
@@ -932,18 +923,10 @@
   "g": "f",
   "pos": "n"
  },
- "come": {
-  "en": "eats",
-  "pos": "v"
- },
  "comedor": {
   "en": "dining area",
   "g": "m",
   "pos": "n"
- },
- "comemos": {
-  "en": "we eat",
-  "pos": "v"
  },
  "comer": {
   "en": "to eat",
@@ -991,10 +974,6 @@
   "g": "f",
   "pos": "n"
  },
- "compro": {
-  "en": "I buy",
-  "pos": "v"
- },
  "comprometer": {
   "en": "to commit/promise",
   "pos": "v"
@@ -1011,10 +990,6 @@
  },
  "comé": {
   "en": "eat (vos cmd)",
-  "pos": "v"
- },
- "comí": {
-  "en": "I ate",
   "pos": "v"
  },
  "con": {
@@ -1070,16 +1045,8 @@
   "g": "f",
   "pos": "n"
  },
- "conocen": {
-  "en": "they know",
-  "pos": "v"
- },
  "conocer": {
   "en": "to know (person/place)",
-  "pos": "v"
- },
- "conozco": {
-  "en": "I know (someone)",
   "pos": "v"
  },
  "consabido": {
@@ -1177,10 +1144,6 @@
  },
  "creer": {
   "en": "to believe/think",
-  "pos": "v"
- },
- "creo": {
-  "en": "I believe/think",
   "pos": "v"
  },
  "cuadra": {
@@ -1762,18 +1725,6 @@
   "en": "to understand",
   "pos": "v"
  },
- "entendés": {
-  "en": "you understand (vos)",
-  "pos": "v"
- },
- "entiende": {
-  "en": "understands",
-  "pos": "v"
- },
- "entiendo": {
-  "en": "I understand",
-  "pos": "v"
- },
  "entonces": {
   "en": "then/so",
   "pos": "adv"
@@ -1803,10 +1754,6 @@
  "equivocarse": {
   "en": "to be wrong/make a mistake",
   "note": "'Me equivoqué' = I was wrong",
-  "pos": "v"
- },
- "era": {
-  "en": "was (ser)",
   "pos": "v"
  },
  "esa": {
@@ -2252,14 +2199,6 @@
   "g": "m",
   "pos": "n"
  },
- "gusta": {
-  "en": "pleases",
-  "pos": "v"
- },
- "gustan": {
-  "en": "please (pl)",
-  "pos": "v"
- },
  "gustar": {
   "en": "to like (please)",
   "note": "Me gusta = I like (it pleases me)",
@@ -2276,29 +2215,8 @@
   "g": "f",
   "pos": "n"
  },
- "habla": {
-  "en": "speaks",
-  "pos": "v"
- },
- "hablamos": {
-  "en": "we speak",
-  "pos": "v"
- },
  "hablar": {
   "en": "to speak/talk",
-  "pos": "v"
- },
- "hablo": {
-  "en": "I speak",
-  "pos": "v"
- },
- "hablé": {
-  "en": "I spoke",
-  "pos": "v"
- },
- "habría": {
-  "en": "would have",
-  "note": "Conditional perfect: 'habría hecho' = I would have done",
   "pos": "v"
  },
  "hacer": {
@@ -2406,16 +2324,6 @@
  "hoy": {
   "en": "today",
   "pos": "adv"
- },
- "hubiera": {
-  "en": "had / would have (subj.)",
-  "note": "Past subjunctive: 'si hubiera sabido' = if I had known",
-  "pos": "v"
- },
- "huele": {
-  "en": "smells",
-  "note": "From oler, to smell. 'Huele a' = it smells like",
-  "pos": "v"
  },
  "huevo": {
   "en": "egg",
@@ -2631,11 +2539,6 @@
   "g": "m",
   "pos": "phrase"
  },
- "jugaba": {
-  "en": "used to play/was playing",
-  "note": "Imperfect past of jugar",
-  "pos": "v"
- },
  "jugar": {
   "en": "to play",
   "pos": "v"
@@ -2745,10 +2648,6 @@
   "g": "f",
   "pos": "n"
  },
- "llama": {
-  "en": "calls/is named",
-  "pos": "v"
- },
  "llamada": {
   "en": "call/phone call",
   "g": "f",
@@ -2758,29 +2657,13 @@
   "en": "to call",
   "pos": "v"
  },
- "llamo": {
-  "en": "I call",
-  "pos": "v"
- },
  "llave": {
   "en": "key",
   "g": "f",
   "pos": "n"
  },
- "llega": {
-  "en": "arrives",
-  "pos": "v"
- },
  "llegar": {
   "en": "to arrive",
-  "pos": "v"
- },
- "llego": {
-  "en": "I arrive",
-  "pos": "v"
- },
- "llegué": {
-  "en": "I arrived",
   "pos": "v"
  },
  "lleno": {
@@ -3180,10 +3063,6 @@
   "en": "to need",
   "pos": "v"
  },
- "necesito": {
-  "en": "I need",
-  "pos": "v"
- },
  "nervios": {
   "en": "nerves",
   "g": "m",
@@ -3370,10 +3249,6 @@
   "en": "to pay",
   "pos": "v"
  },
- "pago": {
-  "en": "I pay",
-  "pos": "v"
- },
  "palabra": {
   "en": "word",
   "g": "f",
@@ -3408,11 +3283,6 @@
   "g": "m",
   "pos": "n"
  },
- "parece": {
-  "en": "seems",
-  "note": "¿Qué te parece? = What do you think?",
-  "pos": "v"
- },
  "parecer": {
   "en": "to seem",
   "pos": "v"
@@ -3431,10 +3301,6 @@
   "en": "part",
   "g": "f",
   "pos": "n"
- },
- "pasa": {
-  "en": "happens/passes",
-  "pos": "v"
  },
  "pasado": {
   "en": "past",
@@ -3691,11 +3557,6 @@
  },
  "poder": {
   "en": "to be able/can",
-  "pos": "v"
- },
- "podría": {
-  "en": "could/would be able to",
-  "note": "Conditional of poder — softens requests",
   "pos": "v"
  },
  "poesía": {
@@ -4657,10 +4518,6 @@
   "note": "To tease or kid someone",
   "pos": "phrase"
  },
- "tomo": {
-  "en": "I take/drink",
-  "pos": "v"
- },
  "tomá": {
   "en": "take/here (vos cmd)",
   "pos": "v"
@@ -4689,10 +4546,6 @@
   "en": "tradition",
   "g": "f",
   "pos": "n"
- },
- "trae": {
-  "en": "brings",
-  "pos": "v"
  },
  "traer": {
   "en": "to bring",
@@ -4762,11 +4615,6 @@
   "en": "cool/awesome",
   "note": "Nica slang. '¡Qué tuani!'=How cool!",
   "pos": "adj"
- },
- "tuviera": {
-  "en": "had (subjunctive)",
-  "note": "Past subjunctive of tener: 'si tuviera' = if I had",
-  "pos": "v"
  },
  "tía": {
   "en": "aunt",
@@ -4847,11 +4695,6 @@
   "g": "m",
   "pos": "n"
  },
- "vaya": {
-  "en": "go (subj)",
-  "note": "Que le vaya bien=Take care",
-  "pos": "v"
- },
  "veces": {
   "en": "times",
   "g": "f",
@@ -4875,10 +4718,6 @@
   "en": "old age",
   "g": "f",
   "pos": "n"
- },
- "venden": {
-  "en": "they sell",
-  "pos": "v"
  },
  "vender": {
   "en": "to sell",
@@ -4964,24 +4803,8 @@
   "en": "to glimpse",
   "pos": "v"
  },
- "vive": {
-  "en": "lives",
-  "pos": "v"
- },
- "vivimos": {
-  "en": "we live",
-  "pos": "v"
- },
  "vivir": {
   "en": "to live",
-  "pos": "v"
- },
- "vivo": {
-  "en": "I live",
-  "pos": "v"
- },
- "viví": {
-  "en": "I lived",
   "pos": "v"
  },
  "vocablo": {

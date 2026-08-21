@@ -119,6 +119,26 @@ def main():
                 corpus.append(o.get("es") or "")
 
     word_forms, ambiguous, seen = morphology.build(dictionary, corpus, verbs)
+
+    # build-pack.py lets forms-overrides.json pin or block a mapping by hand,
+    # so this has to apply them too or the lookup number below is measuring a
+    # pack nobody ships.
+    ov_path = os.path.join(content, "dictionary", "forms-overrides.json")
+    override_problems = []
+    if os.path.exists(ov_path):
+        for form, lemma in (read(ov_path) or {}).items():
+            if form.startswith("_"):
+                continue
+            form = form.lower()
+            if lemma is None:
+                word_forms.pop(form, None)
+            elif lemma in dictionary:
+                word_forms[form] = lemma
+            else:
+                override_problems.append(
+                    "forms-overrides: %r points at %r, which is not a dictionary "
+                    "entry" % (form, lemma))
+
     pack = {"dictionary": dictionary, "forms": word_forms,
             "lessons": lessons, "scenarios": scenes, "momo": []}
 
@@ -140,6 +160,8 @@ def main():
         1 for c in lesson_corpus for w in morphology.tokens(c)
         if w not in dictionary and w not in word_forms)
     print("lookups    %.1f%% of words on the page can be tapped" % (100.0 * tappable / max(1, words)))
+    for p_ in override_problems:
+        print("PROBLEM: %s" % p_)
 
     off, voseo = nica.check(pack, allow)
     print("dialect    %d voseo forms, %d off-dialect" % (voseo, len(off)))
@@ -304,7 +326,7 @@ def main():
               "(plan/needs-entry.txt)" % len(missing))
 
     return (len(off) + len(problems) + len(stray) + len(scene_problems)
-            + len(pattern_problems) + len(momo_problems))
+            + len(pattern_problems) + len(momo_problems) + len(override_problems))
 
 
 if __name__ == "__main__":
