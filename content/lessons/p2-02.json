@@ -1,0 +1,223 @@
+{
+ "id": "p2-02",
+ "title": "La familia de Roberto",
+ "desc": "Everyone is somebody's cousin",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "familia",
+  "hermana",
+  "abuela",
+  "papá"
+ ],
+ "sn": [
+  {
+   "s": "Un domingo conozco a la familia de Roberto.",
+   "e": "One Sunday I meet Roberto's family."
+  },
+  {
+   "s": "Llegan a la casa por la mañana.",
+   "e": "They arrive at the house in the morning."
+  },
+  {
+   "s": "Llegan y llegan y no paran de llegar.",
+   "e": "They arrive and arrive and do not stop arriving."
+  },
+  {
+   "s": "Doña Carmen me presenta a todos.",
+   "e": "Doña Carmen introduces me to everybody."
+  },
+  {
+   "s": "\"Esta es mi hermana\", dice ella.",
+   "e": "\"This is my sister,\" she says."
+  },
+  {
+   "s": "La hermana de doña Carmen se llama Marta.",
+   "e": "Doña Carmen's sister is called Marta."
+  },
+  {
+   "s": "Doña Marta tiene cuatro hijos.",
+   "e": "Doña Marta has four children."
+  },
+  {
+   "s": "Los hijos de doña Marta son primos de Roberto.",
+   "e": "Doña Marta's children are Roberto's cousins."
+  },
+  {
+   "s": "Después llega otra hermana.",
+   "e": "Then another sister arrives."
+  },
+  {
+   "s": "Y un hermano de doña Carmen.",
+   "e": "And a brother of doña Carmen's."
+  },
+  {
+   "s": "El hermano se llama don Chico.",
+   "e": "The brother is called don Chico."
+  },
+  {
+   "s": "Don Chico es el tío de Roberto.",
+   "e": "Don Chico is Roberto's uncle."
+  },
+  {
+   "s": "Marta es la tía de Roberto.",
+   "e": "Marta is Roberto's aunt."
+  },
+  {
+   "s": "Yo trato de seguir quién es quién.",
+   "e": "I try to keep track of who is who."
+  },
+  {
+   "s": "No puedo.",
+   "e": "I cannot."
+  },
+  {
+   "s": "Después llega la abuela.",
+   "e": "Then the grandmother arrives."
+  },
+  {
+   "s": "La abuela tiene ochenta y siete años.",
+   "e": "The grandmother is eighty-seven."
+  },
+  {
+   "s": "La abuela es la mamá de doña Carmen.",
+   "e": "The grandmother is doña Carmen's mother."
+  },
+  {
+   "s": "Cuando llega la abuela, todos se levantan.",
+   "e": "When the grandmother arrives, everybody stands up."
+  },
+  {
+   "s": "Todos la saludan uno por uno.",
+   "e": "Everybody greets her one by one."
+  },
+  {
+   "s": "Los chavalos le piden la bendición.",
+   "e": "The kids ask her for her blessing."
+  },
+  {
+   "s": "\"Bendición, abuela\", dicen ellos.",
+   "e": "\"Blessing, grandmother,\" they say."
+  },
+  {
+   "s": "\"Dios te bendiga\", contesta la abuela.",
+   "e": "\"God bless you,\" the grandmother answers."
+  },
+  {
+   "s": "Eso se hace con los abuelos y con los papás.",
+   "e": "That is done with grandparents and parents."
+  },
+  {
+   "s": "Roberto también le pide la bendición.",
+   "e": "Roberto asks for her blessing too."
+  },
+  {
+   "s": "Y Roberto tiene doce años y se cree grande.",
+   "e": "And Roberto is twelve and thinks he is grown up."
+  },
+  {
+   "s": "Le pregunto a Roberto por su papá.",
+   "e": "I ask Roberto about his father."
+  },
+  {
+   "s": "Roberto se queda callado un segundo.",
+   "e": "Roberto goes quiet for a second."
+  },
+  {
+   "s": "\"Mi papá está en Costa Rica\", dice.",
+   "e": "\"My dad is in Costa Rica,\" he says."
+  },
+  {
+   "s": "\"Trabaja allá desde hace cuatro años.\"",
+   "e": "\"He's worked there for four years.\""
+  },
+  {
+   "s": "\"¿Y viene a veces?\", pregunto yo.",
+   "e": "\"And does he come sometimes?\" I ask."
+  },
+  {
+   "s": "\"En diciembre, si puede.\"",
+   "e": "\"In December, if he can.\""
+  },
+  {
+   "s": "No pregunto más.",
+   "e": "I do not ask any more."
+  },
+  {
+   "s": "Después entiendo que es normal aquí.",
+   "e": "Later I understand that it is normal here."
+  },
+  {
+   "s": "En casi toda familia falta alguien.",
+   "e": "In nearly every family somebody is missing."
+  },
+  {
+   "s": "Un papá en Costa Rica.",
+   "e": "A father in Costa Rica."
+  },
+  {
+   "s": "Una hermana en España.",
+   "e": "A sister in Spain."
+  },
+  {
+   "s": "Un hijo en Estados Unidos.",
+   "e": "A son in the United States."
+  },
+  {
+   "s": "Doña Marta tiene dos hijos afuera.",
+   "e": "Doña Marta has two children abroad."
+  },
+  {
+   "s": "Ella habla de ellos todos los domingos.",
+   "e": "She talks about them every Sunday."
+  },
+  {
+   "s": "La familia aquí es muy grande.",
+   "e": "The family here is very big."
+  },
+  {
+   "s": "Los primos son casi hermanos.",
+   "e": "Cousins are almost brothers."
+  },
+  {
+   "s": "Los tíos mandan como si fueran papás.",
+   "e": "Uncles and aunts give orders as if they were parents."
+  },
+  {
+   "s": "Un chavalo come en cualquier casa de la familia.",
+   "e": "A kid eats in any house in the family."
+  },
+  {
+   "s": "Y duerme en cualquier casa también.",
+   "e": "And sleeps in any house too."
+  },
+  {
+   "s": "Al final del domingo doña Carmen me pregunta algo.",
+   "e": "At the end of Sunday doña Carmen asks me something."
+  },
+  {
+   "s": "\"¿Y su familia, mijo?\"",
+   "e": "\"And your family, mijo?\""
+  },
+  {
+   "s": "Le hablo de mis papás y de mi hermana.",
+   "e": "I tell her about my parents and my sister."
+  },
+  {
+   "s": "Ella me escucha con mucha atención.",
+   "e": "She listens very carefully."
+  },
+  {
+   "s": "\"Están lejos\", dice al final.",
+   "e": "\"They're far away,\" she says at the end."
+  },
+  {
+   "s": "\"Sí\", digo yo.",
+   "e": "\"Yes,\" I say."
+  },
+  {
+   "s": "\"Bueno\", dice ella. \"Aquí tiene otra.\"",
+   "e": "\"Well,\" she says. \"You've got another one here.\""
+  }
+ ]
+}

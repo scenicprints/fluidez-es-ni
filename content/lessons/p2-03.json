@@ -1,0 +1,217 @@
+{
+ "id": "p2-03",
+ "title": "Pase adelante",
+ "desc": "Being invited in, and not being able to refuse",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "pasar",
+  "café"
+ ],
+ "sn": [
+  {
+   "s": "Voy a la casa de don Beto por un mandado.",
+   "e": "I go to don Beto's house on an errand."
+  },
+  {
+   "s": "Toco la puerta.",
+   "e": "I knock on the door."
+  },
+  {
+   "s": "Don Beto abre y me ve.",
+   "e": "Don Beto opens and sees me."
+  },
+  {
+   "s": "\"¡Pase adelante!\", dice él.",
+   "e": "\"Come on in!\" he says."
+  },
+  {
+   "s": "\"No, don Beto, sólo vengo un momento.\"",
+   "e": "\"No, don Beto, I'm only here a second.\""
+  },
+  {
+   "s": "\"Pase, pase\", insiste él.",
+   "e": "\"Come in, come in,\" he insists."
+  },
+  {
+   "s": "Yo paso.",
+   "e": "I go in."
+  },
+  {
+   "s": "\"Siéntese\", dice don Beto.",
+   "e": "\"Sit down,\" don Beto says."
+  },
+  {
+   "s": "\"No me voy a quedar\", digo yo.",
+   "e": "\"I'm not going to stay,\" I say."
+  },
+  {
+   "s": "\"Siéntese\", dice él otra vez.",
+   "e": "\"Sit down,\" he says again."
+  },
+  {
+   "s": "Me siento.",
+   "e": "I sit down."
+  },
+  {
+   "s": "Doña Rosa sale de la cocina.",
+   "e": "Doña Rosa comes out of the kitchen."
+  },
+  {
+   "s": "\"¿Le sirvo un café?\", pregunta ella.",
+   "e": "\"Shall I get you a coffee?\" she asks."
+  },
+  {
+   "s": "\"No, gracias, doña Rosa.\"",
+   "e": "\"No, thank you, doña Rosa.\""
+  },
+  {
+   "s": "Ella va a la cocina y me sirve un café.",
+   "e": "She goes to the kitchen and gets me a coffee."
+  },
+  {
+   "s": "Yo dije que no y me sirvieron igual.",
+   "e": "I said no and they served me anyway."
+  },
+  {
+   "s": "Eso pasa siempre.",
+   "e": "That always happens."
+  },
+  {
+   "s": "Después me trae pan con el café.",
+   "e": "Then she brings me bread with the coffee."
+  },
+  {
+   "s": "Yo no pedí pan.",
+   "e": "I did not ask for bread."
+  },
+  {
+   "s": "Nadie aquí pide.",
+   "e": "Nobody asks here."
+  },
+  {
+   "s": "Aquí a uno le sirven.",
+   "e": "Here you are served."
+  },
+  {
+   "s": "Le pregunto a Roberto por qué es así.",
+   "e": "I ask Roberto why it is like that."
+  },
+  {
+   "s": "Él no entiende la pregunta.",
+   "e": "He does not understand the question."
+  },
+  {
+   "s": "\"¿Por qué te van a dejar sin comer?\", dice.",
+   "e": "\"Why would they leave you without eating?\" he says."
+  },
+  {
+   "s": "Para él la pregunta no tiene sentido.",
+   "e": "For him the question makes no sense."
+  },
+  {
+   "s": "Después Roberto me explica lo importante.",
+   "e": "Then Roberto explains the important part."
+  },
+  {
+   "s": "\"Decir que no una vez está bien.\"",
+   "e": "\"Saying no once is fine.\""
+  },
+  {
+   "s": "\"Decir que no dos veces está bien.\"",
+   "e": "\"Saying no twice is fine.\""
+  },
+  {
+   "s": "\"Decir que no tres veces ya ofende.\"",
+   "e": "\"Saying no three times is offensive.\""
+  },
+  {
+   "s": "Eso me cambia todo.",
+   "e": "That changes everything for me."
+  },
+  {
+   "s": "El primer no es educación.",
+   "e": "The first no is politeness."
+  },
+  {
+   "s": "El segundo no es costumbre.",
+   "e": "The second no is habit."
+  },
+  {
+   "s": "El tercer no es un rechazo de verdad.",
+   "e": "The third no is a real refusal."
+  },
+  {
+   "s": "Y rechazar la comida es rechazar a la persona.",
+   "e": "And refusing the food is refusing the person."
+  },
+  {
+   "s": "Aquí la comida no es comida nada más.",
+   "e": "Here food is not just food."
+  },
+  {
+   "s": "La comida es lo que la casa puede dar.",
+   "e": "Food is what the house is able to give."
+  },
+  {
+   "s": "A veces la casa no tiene mucho.",
+   "e": "Sometimes the house does not have much."
+  },
+  {
+   "s": "Y aun así saca café y pan para la visita.",
+   "e": "And even so it brings out coffee and bread for the visitor."
+  },
+  {
+   "s": "Si uno lo rechaza, es peor.",
+   "e": "If you refuse it, it is worse."
+  },
+  {
+   "s": "Desde ese día acepto siempre.",
+   "e": "From that day on I always accept."
+  },
+  {
+   "s": "Digo que no una vez, por educación.",
+   "e": "I say no once, for politeness."
+  },
+  {
+   "s": "Y después acepto.",
+   "e": "And then I accept."
+  },
+  {
+   "s": "Un día llega una visita a nuestra casa.",
+   "e": "One day a visitor comes to our house."
+  },
+  {
+   "s": "Doña Carmen está en el mercado.",
+   "e": "Doña Carmen is at the market."
+  },
+  {
+   "s": "Estoy solo con la visita.",
+   "e": "I am alone with the visitor."
+  },
+  {
+   "s": "Y sin pensarlo hago lo mismo.",
+   "e": "And without thinking I do the same."
+  },
+  {
+   "s": "\"Pase adelante\", digo yo.",
+   "e": "\"Come on in,\" I say."
+  },
+  {
+   "s": "\"Siéntese. ¿Le sirvo un café?\"",
+   "e": "\"Sit down. Shall I get you a coffee?\""
+  },
+  {
+   "s": "La señora dice que no.",
+   "e": "The woman says no."
+  },
+  {
+   "s": "Yo le sirvo el café igual.",
+   "e": "I get her the coffee anyway."
+  },
+  {
+   "s": "Ella se lo toma todo.",
+   "e": "She drinks all of it."
+  }
+ ]
+}

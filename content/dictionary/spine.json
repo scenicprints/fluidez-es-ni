@@ -1,4 +1,9 @@
 {
+ "Dios": {
+  "en": "God",
+  "g": "m",
+  "pos": "n"
+ },
  "abajo": {
   "en": "down/west",
   "note": "In an address, abajo means west - where the sun goes down",
@@ -16,8 +21,30 @@
   "note": "The hottest month in Nicaragua, at the end of the dry season",
   "pos": "n"
  },
+ "abuela": {
+  "en": "grandmother",
+  "g": "f",
+  "pos": "n"
+ },
+ "abuelo": {
+  "en": "grandfather",
+  "g": "m",
+  "pos": "n"
+ },
+ "aburrirse": {
+  "en": "to get bored",
+  "pos": "v"
+ },
+ "acabar": {
+  "en": "to finish/to run out",
+  "pos": "v"
+ },
  "acabarse": {
   "en": "to run out",
+  "pos": "v"
+ },
+ "aceptar": {
+  "en": "to accept",
   "pos": "v"
  },
  "acera": {
@@ -31,6 +58,10 @@
  },
  "acomodarse": {
   "en": "to settle in",
+  "pos": "v"
+ },
+ "acompañar": {
+  "en": "to go with",
   "pos": "v"
  },
  "acordarse": {
@@ -59,6 +90,11 @@
   "en": "to guess",
   "pos": "v"
  },
+ "adulto": {
+  "en": "adult",
+  "g": "m",
+  "pos": "n"
+ },
  "aeropuerto": {
   "en": "airport",
   "g": "m",
@@ -77,6 +113,11 @@
   "note": "Recognition, not surprise. 'Áh, sí' = oh, right",
   "pos": "intj"
  },
+ "ahorita": {
+  "en": "in a while/now/never",
+  "note": "Not a length of time. It states an intention, and the tone tells you which",
+  "pos": "adv"
+ },
  "ahorrar": {
   "en": "to save",
   "pos": "v"
@@ -91,6 +132,11 @@
   "en": "to be enough/to reach",
   "pos": "v"
  },
+ "alma": {
+  "en": "soul",
+  "g": "f",
+  "pos": "n"
+ },
  "almuerzo": {
   "en": "lunch",
   "g": "m",
@@ -103,6 +149,10 @@
  },
  "alto": {
   "en": "tall/high",
+  "pos": "adj"
+ },
+ "amable": {
+  "en": "kind",
   "pos": "adj"
  },
  "amarillo": {
@@ -122,8 +172,16 @@
   "en": "wide",
   "pos": "adj"
  },
+ "anoche": {
+  "en": "last night",
+  "pos": "adv"
+ },
  "antes": {
   "en": "before",
+  "pos": "adv"
+ },
+ "antier": {
+  "en": "the day before yesterday",
   "pos": "adv"
  },
  "antiguo": {
@@ -133,6 +191,12 @@
  "apagar": {
   "en": "to turn off/to put out",
   "pos": "v"
+ },
+ "apellido": {
+  "en": "surname",
+  "g": "m",
+  "note": "You have two: father's first, mother's second",
+  "pos": "n"
  },
  "apenas": {
   "en": "barely/only just",
@@ -148,6 +212,15 @@
   "en": "cramped/packed",
   "pos": "adj"
  },
+ "apuntar": {
+  "en": "to write down",
+  "pos": "v"
+ },
+ "apurar": {
+  "en": "to hurry somebody",
+  "note": "Does no good here",
+  "pos": "v"
+ },
  "arena": {
   "en": "sand",
   "g": "f",
@@ -162,6 +235,11 @@
   "note": "In an address, arriba means east - where the sun comes up",
   "pos": "adv"
  },
+ "arte": {
+  "en": "art",
+  "g": "m",
+  "pos": "n"
+ },
  "asiento": {
   "en": "seat",
   "g": "m",
@@ -173,6 +251,19 @@
  },
  "asustarse": {
   "en": "to get scared",
+  "pos": "v"
+ },
+ "atención": {
+  "en": "attention",
+  "g": "f",
+  "pos": "n"
+ },
+ "atragantarse": {
+  "en": "to choke",
+  "pos": "v"
+ },
+ "atreverse": {
+  "en": "to dare",
   "pos": "v"
  },
  "atrás": {
@@ -187,6 +278,11 @@
  "ay": {
   "en": "oh/ow",
   "pos": "intj"
+ },
+ "ayuda": {
+  "en": "help",
+  "g": "f",
+  "pos": "n"
  },
  "ayudante": {
   "en": "conductor",
@@ -241,8 +337,17 @@
   "g": "m",
   "pos": "n"
  },
+ "bate": {
+  "en": "bat",
+  "g": "m",
+  "pos": "n"
+ },
  "batir": {
   "en": "to stir/to beat",
+  "pos": "v"
+ },
+ "bautizar": {
+  "en": "to baptise",
   "pos": "v"
  },
  "bañarse": {
@@ -257,6 +362,21 @@
  "bebida": {
   "en": "drink",
   "g": "f",
+  "pos": "n"
+ },
+ "bebé": {
+  "en": "baby",
+  "g": "m",
+  "pos": "n"
+ },
+ "bendecir": {
+  "en": "to bless",
+  "pos": "v"
+ },
+ "bendición": {
+  "en": "blessing",
+  "g": "f",
+  "note": "Children ask elders for it as a greeting. 'Bendición' - 'Dios te bendiga'",
   "pos": "n"
  },
  "bicicleta": {
@@ -305,6 +425,11 @@
  "bravo": {
   "en": "rough/angry",
   "pos": "adj"
+ },
+ "brazo": {
+  "en": "arm",
+  "g": "m",
+  "pos": "n"
  },
  "broma": {
   "en": "joke",
@@ -426,6 +551,15 @@
   "g": "f",
   "pos": "n"
  },
+ "cargar": {
+  "en": "to carry",
+  "pos": "v"
+ },
+ "cariño": {
+  "en": "affection",
+  "g": "m",
+  "pos": "n"
+ },
  "carne": {
   "en": "meat",
   "g": "f",
@@ -449,6 +583,10 @@
   "en": "cathedral",
   "g": "f",
   "pos": "n"
+ },
+ "católico": {
+  "en": "Catholic",
+  "pos": "adj"
  },
  "cebolla": {
   "en": "onion",
@@ -508,10 +646,19 @@
   "g": "m",
   "pos": "n"
  },
+ "chinear": {
+  "en": "to carry and fuss over a child",
+  "note": "More than carrying. Carrying with affection",
+  "pos": "v"
+ },
  "chip": {
   "en": "SIM card",
   "g": "m",
   "pos": "n"
+ },
+ "chiquito": {
+  "en": "tiny/little one",
+  "pos": "adj"
  },
  "chocolate": {
   "en": "chocolate",
@@ -552,6 +699,10 @@
   "en": "city",
   "g": "f",
   "pos": "n"
+ },
+ "claro": {
+  "en": "light/clear",
+  "pos": "adj"
  },
  "clavo": {
   "en": "nail",
@@ -600,6 +751,18 @@
   "g": "f",
   "pos": "n"
  },
+ "confiar": {
+  "en": "to trust",
+  "pos": "v"
+ },
+ "congelado": {
+  "en": "frozen",
+  "pos": "adj"
+ },
+ "consentir": {
+  "en": "to spoil/to indulge",
+  "pos": "v"
+ },
  "contar": {
   "en": "to count/to tell",
   "pos": "v"
@@ -612,12 +775,25 @@
   "en": "to answer",
   "pos": "v"
  },
+ "contexto": {
+  "en": "context",
+  "g": "m",
+  "pos": "n"
+ },
  "contrario": {
   "en": "opposite",
   "pos": "adj"
  },
  "convertirse": {
   "en": "to turn into",
+  "pos": "v"
+ },
+ "corregir": {
+  "en": "to correct",
+  "pos": "v"
+ },
+ "cortar": {
+  "en": "to cut",
   "pos": "v"
  },
  "corto": {
@@ -637,6 +813,15 @@
   "en": "cream",
   "g": "f",
   "pos": "n"
+ },
+ "creyente": {
+  "en": "believer",
+  "g": "m",
+  "pos": "n"
+ },
+ "criar": {
+  "en": "to raise",
+  "pos": "v"
  },
  "cruzar": {
   "en": "to cross",
@@ -678,6 +863,25 @@
   "en": "to look after",
   "pos": "v"
  },
+ "culto": {
+  "en": "church service",
+  "g": "m",
+  "pos": "n"
+ },
+ "cumpleaños": {
+  "en": "birthday",
+  "g": "m",
+  "pos": "n"
+ },
+ "cumplido": {
+  "en": "compliment",
+  "g": "m",
+  "pos": "n"
+ },
+ "cumplir": {
+  "en": "to turn (an age)",
+  "pos": "v"
+ },
  "curtido": {
   "en": "pickled cabbage salad",
   "g": "m",
@@ -703,6 +907,10 @@
   "g": "m",
   "pos": "n"
  },
+ "deber": {
+  "en": "to owe/must",
+  "pos": "v"
+ },
  "dedo": {
   "en": "finger",
   "g": "m",
@@ -711,6 +919,11 @@
  "depender": {
   "en": "to depend",
   "pos": "v"
+ },
+ "deporte": {
+  "en": "sport",
+  "g": "m",
+  "pos": "n"
  },
  "derecha": {
   "en": "right",
@@ -730,6 +943,11 @@
   "en": "to describe",
   "pos": "v"
  },
+ "detalle": {
+  "en": "detail",
+  "g": "m",
+  "pos": "n"
+ },
  "detrás": {
   "en": "behind",
   "pos": "adv"
@@ -738,9 +956,19 @@
   "en": "to give back",
   "pos": "v"
  },
+ "diciembre": {
+  "en": "December",
+  "g": "m",
+  "pos": "n"
+ },
  "diente": {
   "en": "tooth",
   "g": "m",
+  "pos": "n"
+ },
+ "diferencia": {
+  "en": "difference",
+  "g": "f",
   "pos": "n"
  },
  "dirección": {
@@ -775,6 +1003,10 @@
   "g": "m",
   "pos": "n"
  },
+ "dormido": {
+  "en": "asleep",
+  "pos": "adj"
+ },
  "dudar": {
   "en": "to hesitate/to doubt",
   "pos": "v"
@@ -787,6 +1019,10 @@
  "dulce": {
   "en": "sweet",
   "pos": "adj"
+ },
+ "durar": {
+  "en": "to last",
+  "pos": "v"
  },
  "duro": {
   "en": "hard",
@@ -808,8 +1044,16 @@
   "note": "'Mala educación' means bad manners, not bad schooling",
   "pos": "n"
  },
+ "educado": {
+  "en": "polite",
+  "pos": "adj"
+ },
  "empezar": {
   "en": "to start",
+  "pos": "v"
+ },
+ "empujar": {
+  "en": "to push",
   "pos": "v"
  },
  "encima": {
@@ -854,6 +1098,11 @@
   "en": "to go in/to come in",
   "pos": "v"
  },
+ "equipo": {
+  "en": "team",
+  "g": "m",
+  "pos": "n"
+ },
  "equivocarse": {
   "en": "to get it wrong",
   "pos": "v"
@@ -885,6 +1134,11 @@
   "g": "m",
   "pos": "n"
  },
+ "esperanza": {
+  "en": "hope",
+  "g": "f",
+  "pos": "n"
+ },
  "esperar": {
   "en": "to wait/to hope",
   "pos": "v"
@@ -903,6 +1157,11 @@
   "g": "f",
   "pos": "n"
  },
+ "estadio": {
+  "en": "stadium",
+  "g": "m",
+  "pos": "n"
+ },
  "este": {
   "en": "east",
   "g": "m",
@@ -914,6 +1173,10 @@
  },
  "estrecho": {
   "en": "narrow",
+  "pos": "adj"
+ },
+ "evangélico": {
+  "en": "evangelical",
   "pos": "adj"
  },
  "exactamente": {
@@ -932,6 +1195,11 @@
   "en": "to explain",
   "pos": "v"
  },
+ "extranjero": {
+  "en": "foreigner/abroad",
+  "g": "m",
+  "pos": "n"
+ },
  "extraño": {
   "en": "stranger/strange",
   "g": "m",
@@ -946,8 +1214,23 @@
   "g": "m",
   "pos": "n"
  },
+ "fe": {
+  "en": "faith",
+  "g": "f",
+  "pos": "n"
+ },
+ "felicidades": {
+  "en": "congratulations",
+  "g": "f",
+  "pos": "n"
+ },
  "ferretería": {
   "en": "hardware shop",
+  "g": "f",
+  "pos": "n"
+ },
+ "fiesta": {
+  "en": "party",
   "g": "f",
   "pos": "n"
  },
@@ -959,6 +1242,11 @@
  "flaco": {
   "en": "thin/skinny",
   "pos": "adj"
+ },
+ "flor": {
+  "en": "flower",
+  "g": "f",
+  "pos": "n"
  },
  "fondo": {
   "en": "bottom",
@@ -998,6 +1286,11 @@
   "en": "to work/to function",
   "pos": "v"
  },
+ "futuro": {
+  "en": "future",
+  "g": "m",
+  "pos": "n"
+ },
  "fábrica": {
   "en": "factory",
   "g": "f",
@@ -1008,19 +1301,48 @@
   "g": "m",
   "pos": "n"
  },
+ "fútbol": {
+  "en": "football",
+  "g": "m",
+  "pos": "n"
+ },
  "gallo pinto": {
   "en": "rice and beans",
   "note": "The national breakfast. Eaten most mornings of most lives",
   "pos": "phrase"
+ },
+ "gana": {
+  "en": "desire/willingness",
+  "g": "f",
+  "note": "'Con ganas' - with heart",
+  "pos": "n"
+ },
+ "ganar": {
+  "en": "to win/to earn",
+  "pos": "v"
  },
  "gaseosa": {
   "en": "fizzy drink",
   "g": "f",
   "pos": "n"
  },
+ "gato": {
+  "en": "cat",
+  "g": "m",
+  "pos": "n"
+ },
  "gordo": {
   "en": "large/fat",
   "note": "Not an insult here. Also used as an endearment",
+  "pos": "adj"
+ },
+ "gorra": {
+  "en": "cap",
+  "g": "f",
+  "pos": "n"
+ },
+ "gracioso": {
+  "en": "funny",
   "pos": "adj"
  },
  "grasa": {
@@ -1124,6 +1446,11 @@
   "g": "m",
   "pos": "n"
  },
+ "humor": {
+  "en": "mood/humour",
+  "g": "m",
+  "pos": "n"
+ },
  "ideay": {
   "en": "hey/what?/no way",
   "note": "Uniquely Nicaraguan. Means whatever the tone means",
@@ -1143,6 +1470,10 @@
   "en": "the same/anyway",
   "pos": "adv"
  },
+ "imaginar": {
+  "en": "to imagine",
+  "pos": "v"
+ },
  "increíble": {
   "en": "unbelievable",
   "pos": "adj"
@@ -1154,6 +1485,15 @@
  "inglés": {
   "en": "English",
   "g": "m",
+  "pos": "n"
+ },
+ "insistir": {
+  "en": "to insist",
+  "pos": "v"
+ },
+ "intención": {
+  "en": "intention",
+  "g": "f",
   "pos": "n"
  },
  "interlocal": {
@@ -1188,10 +1528,19 @@
   "g": "m",
   "pos": "n"
  },
+ "juego": {
+  "en": "game",
+  "g": "m",
+  "pos": "n"
+ },
  "jueves": {
   "en": "Thursday",
   "g": "m",
   "pos": "n"
+ },
+ "jugar": {
+  "en": "to play",
+  "pos": "v"
  },
  "jícara": {
   "en": "gourd cup",
@@ -1212,6 +1561,10 @@
   "en": "milk",
   "g": "f",
   "pos": "n"
+ },
+ "lejano": {
+  "en": "distant",
+  "pos": "adj"
  },
  "lejos": {
   "en": "far",
@@ -1246,6 +1599,10 @@
  },
  "limpio": {
   "en": "clean",
+  "pos": "adj"
+ },
+ "listo": {
+  "en": "ready/clever",
   "pos": "adj"
  },
  "llamada": {
@@ -1302,6 +1659,11 @@
  },
  "maleta": {
   "en": "suitcase",
+  "g": "f",
+  "pos": "n"
+ },
+ "mamá": {
+  "en": "mum",
   "g": "f",
   "pos": "n"
  },
@@ -1404,6 +1766,11 @@
   "en": "to put in",
   "pos": "v"
  },
+ "metro": {
+  "en": "metre",
+  "g": "m",
+  "pos": "n"
+ },
  "mezclar": {
   "en": "to mix",
   "pos": "v"
@@ -1491,6 +1858,24 @@
   "g": "m",
   "pos": "n"
  },
+ "moverse": {
+  "en": "to move",
+  "pos": "v"
+ },
+ "muchacha": {
+  "en": "girl/young woman",
+  "g": "f",
+  "pos": "n"
+ },
+ "muchacho": {
+  "en": "boy/young man",
+  "g": "m",
+  "pos": "n"
+ },
+ "mudo": {
+  "en": "mute",
+  "pos": "adj"
+ },
  "mueble": {
   "en": "piece of furniture",
   "g": "m",
@@ -1512,13 +1897,45 @@
   "note": "Sunday food. Bought early or it is gone",
   "pos": "n"
  },
+ "nacer": {
+  "en": "to be born",
+  "pos": "v"
+ },
+ "nariz": {
+  "en": "nose",
+  "g": "f",
+  "pos": "n"
+ },
+ "narrar": {
+  "en": "to commentate/to narrate",
+  "pos": "v"
+ },
  "negro": {
   "en": "black",
+  "pos": "adj"
+ },
+ "nervioso": {
+  "en": "nervous",
   "pos": "adj"
  },
  "nicaragüense": {
   "en": "Nicaraguan",
   "pos": "adj"
+ },
+ "nieto": {
+  "en": "grandchild",
+  "g": "m",
+  "pos": "n"
+ },
+ "nieve": {
+  "en": "snow",
+  "g": "f",
+  "pos": "n"
+ },
+ "niño": {
+  "en": "child",
+  "g": "m",
+  "pos": "n"
  },
  "nombre": {
   "en": "name",
@@ -1548,6 +1965,10 @@
   "en": "cloudy",
   "pos": "adj"
  },
+ "obedecer": {
+  "en": "to obey",
+  "pos": "v"
+ },
  "obligar": {
   "en": "to force",
   "pos": "v"
@@ -1557,6 +1978,10 @@
   "g": "m",
   "pos": "n"
  },
+ "ofender": {
+  "en": "to offend",
+  "pos": "v"
+ },
  "oficina": {
   "en": "office",
   "g": "f",
@@ -1565,6 +1990,11 @@
  "ofrecer": {
   "en": "to offer",
   "pos": "v"
+ },
+ "ojo": {
+  "en": "eye",
+  "g": "m",
+  "pos": "n"
  },
  "ola": {
   "en": "wave",
@@ -1603,6 +2033,11 @@
   "en": "dark",
   "pos": "adj"
  },
+ "palo": {
+  "en": "stick",
+  "g": "m",
+  "pos": "n"
+ },
  "pan": {
   "en": "bread",
   "g": "m",
@@ -1615,6 +2050,11 @@
  },
  "papel": {
   "en": "paper/piece of paper",
+  "g": "m",
+  "pos": "n"
+ },
+ "papá": {
+  "en": "dad",
   "g": "m",
   "pos": "n"
  },
@@ -1654,10 +2094,25 @@
   "g": "m",
   "pos": "n"
  },
+ "pastel": {
+  "en": "cake",
+  "g": "m",
+  "pos": "n"
+ },
  "patio": {
   "en": "yard/patio",
   "g": "m",
   "note": "Often has no wall. The neighbours' patio is the same patio",
+  "pos": "n"
+ },
+ "país": {
+  "en": "country",
+  "g": "m",
+  "pos": "n"
+ },
+ "pedazo": {
+  "en": "piece",
+  "g": "m",
   "pos": "n"
  },
  "pegar": {
@@ -1671,6 +2126,15 @@
  },
  "pelear": {
   "en": "to fight/to argue",
+  "pos": "v"
+ },
+ "pelota": {
+  "en": "ball",
+  "g": "f",
+  "pos": "n"
+ },
+ "perder": {
+  "en": "to lose",
   "pos": "v"
  },
  "perderse": {
@@ -1696,6 +2160,10 @@
   "en": "person",
   "g": "f",
   "pos": "n"
+ },
+ "pesado": {
+  "en": "heavy going/tiresome",
+  "pos": "adj"
  },
  "pesar": {
   "en": "to weigh",
@@ -1793,12 +2261,21 @@
   "g": "f",
   "pos": "n"
  },
+ "portarse": {
+  "en": "to behave",
+  "pos": "v"
+ },
  "posible": {
   "en": "possible",
   "pos": "adj"
  },
  "precio": {
   "en": "price",
+  "g": "m",
+  "pos": "n"
+ },
+ "premio": {
+  "en": "prize",
   "g": "m",
   "pos": "n"
  },
@@ -1809,6 +2286,10 @@
  },
  "preocuparse": {
   "en": "to worry",
+  "pos": "v"
+ },
+ "prestar": {
+  "en": "to lend",
   "pos": "v"
  },
  "primo": {
@@ -1825,6 +2306,20 @@
  "probar": {
   "en": "to try/to taste",
   "pos": "v"
+ },
+ "promesa": {
+  "en": "promise",
+  "g": "f",
+  "pos": "n"
+ },
+ "pronto": {
+  "en": "soon",
+  "pos": "adv"
+ },
+ "práctica": {
+  "en": "practice",
+  "g": "f",
+  "pos": "n"
  },
  "pudrirse": {
   "en": "to rot",
@@ -1877,13 +2372,27 @@
   "g": "m",
   "pos": "n"
  },
+ "quieto": {
+  "en": "still",
+  "pos": "adj"
+ },
  "quitar": {
   "en": "to take away/to remove",
   "pos": "v"
  },
+ "radio": {
+  "en": "radio",
+  "g": "m",
+  "pos": "n"
+ },
  "raro": {
   "en": "strange/odd",
   "pos": "adj"
+ },
+ "rato": {
+  "en": "a while",
+  "g": "m",
+  "pos": "n"
  },
  "razón": {
   "en": "reason",
@@ -1901,9 +2410,19 @@
   "note": "Bought at any pulpería, by phone number",
   "pos": "n"
  },
+ "receta": {
+  "en": "recipe",
+  "g": "f",
+  "pos": "n"
+ },
  "rechazar": {
   "en": "to refuse",
   "pos": "v"
+ },
+ "rechazo": {
+  "en": "refusal",
+  "g": "m",
+  "pos": "n"
  },
  "recoger": {
   "en": "to pick up",
@@ -1932,9 +2451,18 @@
   "en": "to give as a gift",
   "pos": "v"
  },
+ "regalo": {
+  "en": "present",
+  "g": "m",
+  "pos": "n"
+ },
  "regatear": {
   "en": "to haggle",
   "note": "Clothes and taxis yes. Food, buses and the pulpería never",
+  "pos": "v"
+ },
+ "regañar": {
+  "en": "to tell off",
   "pos": "v"
  },
  "reja": {
@@ -1942,10 +2470,20 @@
   "g": "f",
   "pos": "n"
  },
+ "religión": {
+  "en": "religion",
+  "g": "f",
+  "pos": "n"
+ },
  "repente": {
   "en": "suddenly",
   "g": "m",
   "note": "Only ever heard as 'de repente'",
+  "pos": "n"
+ },
+ "repisa": {
+  "en": "shelf",
+  "g": "f",
   "pos": "n"
  },
  "repollo": {
@@ -1976,6 +2514,10 @@
   "en": "to check/to look over",
   "pos": "v"
  },
+ "rezar": {
+  "en": "to pray",
+  "pos": "v"
+ },
  "rojo": {
   "en": "red",
   "pos": "adj"
@@ -1989,6 +2531,10 @@
   "en": "baked maize ring",
   "g": "f",
   "pos": "n"
+ },
+ "roto": {
+  "en": "broken",
+  "pos": "adj"
  },
  "rueda": {
   "en": "wheel",
@@ -2020,6 +2566,11 @@
   "g": "f",
   "pos": "n"
  },
+ "sala": {
+  "en": "front room",
+  "g": "f",
+  "pos": "n"
+ },
  "salado": {
   "en": "salty",
   "pos": "adj"
@@ -2033,6 +2584,11 @@
   "en": "to greet/to say hello",
   "note": "Not greeting somebody you pass is the rudest thing you can do",
   "pos": "v"
+ },
+ "santo": {
+  "en": "saint",
+  "g": "m",
+  "pos": "n"
  },
  "secarse": {
   "en": "to dry",
@@ -2068,6 +2624,11 @@
   "en": "to sit down",
   "pos": "v"
  },
+ "sentido": {
+  "en": "sense/meaning",
+  "g": "m",
+  "pos": "n"
+ },
  "sentirse": {
   "en": "to feel",
   "pos": "v"
@@ -2101,6 +2662,10 @@
   "en": "chair",
   "g": "f",
   "pos": "n"
+ },
+ "simpático": {
+  "en": "pleasant/likeable",
+  "pos": "adj"
  },
  "sistema": {
   "en": "system",
@@ -2137,6 +2702,10 @@
   "en": "soup",
   "g": "f",
   "pos": "n"
+ },
+ "soplar": {
+  "en": "to blow",
+  "pos": "v"
  },
  "sorprender": {
   "en": "to surprise",
@@ -2215,6 +2784,10 @@
   "note": "Shortens to 'tercer' before a masculine noun",
   "pos": "adj"
  },
+ "terminar": {
+  "en": "to finish",
+  "pos": "v"
+ },
  "terremoto": {
   "en": "earthquake",
   "g": "m",
@@ -2225,6 +2798,16 @@
   "en": "shark",
   "g": "m",
   "note": "Lake Cocibolca had freshwater sharks. The old people still talk about them",
+  "pos": "n"
+ },
+ "tiempo": {
+  "en": "time/weather",
+  "g": "m",
+  "pos": "n"
+ },
+ "tierra": {
+  "en": "earth/ground",
+  "g": "f",
   "pos": "n"
  },
  "tipo": {
@@ -2238,6 +2821,11 @@
  },
  "tomate": {
   "en": "tomato",
+  "g": "m",
+  "pos": "n"
+ },
+ "tono": {
+  "en": "tone",
   "g": "m",
   "pos": "n"
  },
@@ -2305,6 +2893,20 @@
   "g": "m",
   "pos": "n"
  },
+ "tía": {
+  "en": "aunt",
+  "g": "f",
+  "pos": "n"
+ },
+ "tío": {
+  "en": "uncle",
+  "g": "m",
+  "pos": "n"
+ },
+ "unido": {
+  "en": "connected/close",
+  "pos": "adj"
+ },
  "usar": {
   "en": "to use",
   "pos": "v"
@@ -2361,9 +2963,19 @@
   "g": "f",
   "pos": "n"
  },
+ "vergüenza": {
+  "en": "embarrassment/shame",
+  "g": "f",
+  "pos": "n"
+ },
  "viaje": {
   "en": "journey",
   "g": "m",
+  "pos": "n"
+ },
+ "vida": {
+  "en": "life",
+  "g": "f",
   "pos": "n"
  },
  "vidrio": {
@@ -2394,6 +3006,11 @@
  "vinagre": {
   "en": "vinegar",
   "g": "m",
+  "pos": "n"
+ },
+ "virgen": {
+  "en": "virgin",
+  "g": "f",
   "pos": "n"
  },
  "visita": {

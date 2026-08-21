@@ -1,0 +1,205 @@
+{
+ "id": "p2-06",
+ "title": "Contame",
+ "desc": "Telling somebody what happened",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "contar",
+  "historia"
+ ],
+ "sn": [
+  {
+   "s": "Aquí contar una historia es un arte.",
+   "e": "Here telling a story is an art."
+  },
+  {
+   "s": "La gente cuenta todo con detalle.",
+   "e": "People tell everything in detail."
+  },
+  {
+   "s": "No cuentan sólo lo que pasó.",
+   "e": "They do not just tell what happened."
+  },
+  {
+   "s": "Cuentan la hora, el lugar, quién estaba.",
+   "e": "They tell the time, the place, who was there."
+  },
+  {
+   "s": "Y llegan al punto al final.",
+   "e": "And they get to the point at the end."
+  },
+  {
+   "s": "Doña Carmen cuenta una historia en la cocina.",
+   "e": "Doña Carmen tells a story in the kitchen."
+  },
+  {
+   "s": "\"Ayer salí temprano al mercado\", empieza.",
+   "e": "\"Yesterday I went out early to the market,\" she begins."
+  },
+  {
+   "s": "\"Salí a las seis, porque a esa hora está fresco.\"",
+   "e": "\"I went out at six, because it's cool at that hour.\""
+  },
+  {
+   "s": "\"Y ahí en la parada estaba la Chepa.\"",
+   "e": "\"And there at the bus stop was Chepa.\""
+  },
+  {
+   "s": "\"La Chepa iba para el centro.\"",
+   "e": "\"Chepa was going to the centre.\""
+  },
+  {
+   "s": "Y así sigue durante cinco minutos.",
+   "e": "And she goes on like that for five minutes."
+  },
+  {
+   "s": "Yo espero el final de la historia.",
+   "e": "I wait for the end of the story."
+  },
+  {
+   "s": "Roberto no espera nada.",
+   "e": "Roberto is not waiting for anything."
+  },
+  {
+   "s": "Roberto escucha cada parte con gusto.",
+   "e": "Roberto enjoys every part."
+  },
+  {
+   "s": "Para él la historia ya empezó.",
+   "e": "For him the story has already started."
+  },
+  {
+   "s": "Para mí la historia empieza al final.",
+   "e": "For me the story starts at the end."
+  },
+  {
+   "s": "Esa es la diferencia.",
+   "e": "That is the difference."
+  },
+  {
+   "s": "Yo trato de contar una historia mía.",
+   "e": "I try to tell a story of my own."
+  },
+  {
+   "s": "Cuento lo que pasó en el bus anoche.",
+   "e": "I tell what happened on the bus last night."
+  },
+  {
+   "s": "Lo cuento rápido, en tres frases.",
+   "e": "I tell it fast, in three sentences."
+  },
+  {
+   "s": "Termino y nadie dice nada.",
+   "e": "I finish and nobody says anything."
+  },
+  {
+   "s": "\"¿Y?\", dice Roberto.",
+   "e": "\"And?\" Roberto says."
+  },
+  {
+   "s": "\"Ya\", digo yo. \"Ya terminé.\"",
+   "e": "\"That's it,\" I say. \"I've finished.\""
+  },
+  {
+   "s": "\"Contá bien\", dice él.",
+   "e": "\"Tell it properly,\" he says."
+  },
+  {
+   "s": "Entonces lo cuento otra vez, despacio.",
+   "e": "So I tell it again, slowly."
+  },
+  {
+   "s": "Cuento a qué hora salí.",
+   "e": "I tell them what time I left."
+  },
+  {
+   "s": "Cuento qué ruta tomé.",
+   "e": "I tell them which ruta I took."
+  },
+  {
+   "s": "Cuento que el bus iba lleno.",
+   "e": "I tell them the bus was full."
+  },
+  {
+   "s": "Cuento quién estaba a mi lado.",
+   "e": "I tell them who was next to me."
+  },
+  {
+   "s": "Y después cuento lo que pasó.",
+   "e": "And then I tell them what happened."
+  },
+  {
+   "s": "Esta vez sí se ríen.",
+   "e": "This time they do laugh."
+  },
+  {
+   "s": "Se ríen en el momento correcto.",
+   "e": "They laugh at the right moment."
+  },
+  {
+   "s": "Y la historia es la misma historia.",
+   "e": "And the story is the same story."
+  },
+  {
+   "s": "Lo que cambió fue el camino.",
+   "e": "What changed was the road to it."
+  },
+  {
+   "s": "Doña Carmen me dice algo después.",
+   "e": "Doña Carmen says something to me afterwards."
+  },
+  {
+   "s": "\"Contar rápido es como comer parado.\"",
+   "e": "\"Telling it fast is like eating standing up.\""
+  },
+  {
+   "s": "\"Llena, pero no sabe a nada.\"",
+   "e": "\"It fills you, but it doesn't taste of anything.\""
+  },
+  {
+   "s": "Desde ese día cuento las cosas largo.",
+   "e": "From that day on I tell things at length."
+  },
+  {
+   "s": "Digo la hora y digo el lugar.",
+   "e": "I say the time and I say the place."
+  },
+  {
+   "s": "Digo quién estaba y qué dijo.",
+   "e": "I say who was there and what they said."
+  },
+  {
+   "s": "Y llego al punto cuando llego.",
+   "e": "And I get to the point when I get there."
+  },
+  {
+   "s": "Al principio me cuesta mucho.",
+   "e": "At first I find it very hard."
+  },
+  {
+   "s": "Hay que hablar mucho más.",
+   "e": "You have to talk much more."
+  },
+  {
+   "s": "Y hablar mucho en otro idioma cansa.",
+   "e": "And talking a lot in another language is tiring."
+  },
+  {
+   "s": "Pero es la mejor práctica que hay.",
+   "e": "But it is the best practice there is."
+  },
+  {
+   "s": "Contar una historia larga cada noche.",
+   "e": "Telling a long story every night."
+  },
+  {
+   "s": "Nadie me corrige y todos me escuchan.",
+   "e": "Nobody corrects me and everybody listens."
+  },
+  {
+   "s": "Y cada noche me sale un poco mejor.",
+   "e": "And every night it comes out a little better."
+  }
+ ]
+}

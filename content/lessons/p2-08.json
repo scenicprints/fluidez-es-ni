@@ -1,0 +1,208 @@
+{
+ "id": "p2-08",
+ "title": "El cumpleaños",
+ "desc": "A birthday, and you are expected",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "pastel"
+ ],
+ "sn": [
+  {
+   "s": "Roberto cumple trece años.",
+   "e": "Roberto turns thirteen."
+  },
+  {
+   "s": "Doña Carmen prepara una fiesta pequeña.",
+   "e": "Doña Carmen puts on a small party."
+  },
+  {
+   "s": "La fiesta es en el patio.",
+   "e": "The party is in the patio."
+  },
+  {
+   "s": "Llega la familia entera.",
+   "e": "The whole family arrives."
+  },
+  {
+   "s": "Llegan los vecinos también.",
+   "e": "The neighbours arrive too."
+  },
+  {
+   "s": "Nadie invitó a los vecinos.",
+   "e": "Nobody invited the neighbours."
+  },
+  {
+   "s": "Los vecinos llegan porque hay fiesta.",
+   "e": "The neighbours come because there is a party."
+  },
+  {
+   "s": "Y eso está bien.",
+   "e": "And that is fine."
+  },
+  {
+   "s": "Hay gaseosa en la mesa.",
+   "e": "There is fizzy drink on the table."
+  },
+  {
+   "s": "Hay gaseosa roja y gaseosa negra.",
+   "e": "There is red fizzy drink and black fizzy drink."
+  },
+  {
+   "s": "La gaseosa roja es la que más gusta.",
+   "e": "The red one is the favourite."
+  },
+  {
+   "s": "Hay pastel en el centro de la mesa.",
+   "e": "There is a cake in the middle of the table."
+  },
+  {
+   "s": "El pastel es blanco con letras de colores.",
+   "e": "The cake is white with coloured letters on it."
+  },
+  {
+   "s": "El pastel dice feliz cumpleaños Roberto.",
+   "e": "The cake says happy birthday Roberto."
+  },
+  {
+   "s": "Yo le llevo un regalo pequeño.",
+   "e": "I take him a small present."
+  },
+  {
+   "s": "Le regalo una gorra.",
+   "e": "I give him a cap."
+  },
+  {
+   "s": "Roberto se pone la gorra y no se la quita.",
+   "e": "Roberto puts the cap on and does not take it off."
+  },
+  {
+   "s": "No se la quita en toda la noche.",
+   "e": "He does not take it off all night."
+  },
+  {
+   "s": "A las siete cantan el cumpleaños.",
+   "e": "At seven they sing the birthday song."
+  },
+  {
+   "s": "Todos cantan al mismo tiempo.",
+   "e": "Everybody sings at the same time."
+  },
+  {
+   "s": "Cantan fuerte y desafinado.",
+   "e": "They sing loudly and out of tune."
+  },
+  {
+   "s": "Después cantan otra canción que no conozco.",
+   "e": "Then they sing another song I do not know."
+  },
+  {
+   "s": "Roberto sopla las velas del pastel.",
+   "e": "Roberto blows out the candles on the cake."
+  },
+  {
+   "s": "Y entonces pasa algo que no espero.",
+   "e": "And then something happens that I do not expect."
+  },
+  {
+   "s": "Le empujan la cara contra el pastel.",
+   "e": "They push his face into the cake."
+  },
+  {
+   "s": "Roberto sale con pastel en la nariz.",
+   "e": "Roberto comes up with cake on his nose."
+  },
+  {
+   "s": "Todos se ríen y él también.",
+   "e": "Everybody laughs and so does he."
+  },
+  {
+   "s": "\"Eso se hace siempre\", me dice doña Marta.",
+   "e": "\"That's always done,\" doña Marta tells me."
+  },
+  {
+   "s": "Doña Carmen corta el pastel.",
+   "e": "Doña Carmen cuts the cake."
+  },
+  {
+   "s": "Corta pedazos pequeños para que alcance.",
+   "e": "She cuts small pieces so it goes round."
+  },
+  {
+   "s": "El primer pedazo es para la abuela.",
+   "e": "The first piece is for the grandmother."
+  },
+  {
+   "s": "El segundo es para la visita más lejana.",
+   "e": "The second is for the visitor who came furthest."
+  },
+  {
+   "s": "Esa visita soy yo.",
+   "e": "That visitor is me."
+  },
+  {
+   "s": "Yo no sé qué decir.",
+   "e": "I do not know what to say."
+  },
+  {
+   "s": "\"Coma\", dice doña Carmen. \"Es su pedazo.\"",
+   "e": "\"Eat,\" doña Carmen says. \"It's your piece.\""
+  },
+  {
+   "s": "Todos le dan la mano a Roberto.",
+   "e": "Everybody shakes Roberto's hand."
+  },
+  {
+   "s": "\"Felicidades\", le dicen.",
+   "e": "\"Congratulations,\" they say."
+  },
+  {
+   "s": "\"Felicidades\", le digo yo también.",
+   "e": "\"Congratulations,\" I say too."
+  },
+  {
+   "s": "\"Que cumplás muchos más\", dice don Beto.",
+   "e": "\"May you have many more,\" don Beto says."
+  },
+  {
+   "s": "Esa frase la aprendo esa noche.",
+   "e": "I learn that phrase that night."
+  },
+  {
+   "s": "Es lo que se dice en un cumpleaños.",
+   "e": "It is what you say at a birthday."
+  },
+  {
+   "s": "La fiesta se acaba temprano.",
+   "e": "The party finishes early."
+  },
+  {
+   "s": "A las nueve ya no hay nadie.",
+   "e": "By nine there is nobody left."
+  },
+  {
+   "s": "Los chavalos tienen escuela mañana.",
+   "e": "The kids have school tomorrow."
+  },
+  {
+   "s": "Roberto se queda con su gorra puesta.",
+   "e": "Roberto keeps his cap on."
+  },
+  {
+   "s": "\"Gracias, Perdido\", me dice.",
+   "e": "\"Thanks, Perdido,\" he says to me."
+  },
+  {
+   "s": "Es la primera vez que me dice gracias.",
+   "e": "It is the first time he has said thank you to me."
+  },
+  {
+   "s": "Aquí entre amigos casi no se dan las gracias.",
+   "e": "Here between friends you hardly ever say thank you."
+  },
+  {
+   "s": "Por eso esa vez significa algo.",
+   "e": "That is why that time it means something."
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": "p2-13",
+ "title": "Qué hiciste ayer",
+ "desc": "Yesterday, and the day before",
+ "ph": 2,
+ "diff": 2,
+ "wu": [],
+ "sn": [
+  {
+   "s": "En la noche siempre me hacen la misma pregunta.",
+   "e": "At night they always ask me the same question."
+  },
+  {
+   "s": "\"¿Qué hiciste hoy?\"",
+   "e": "\"What did you do today?\""
+  },
+  {
+   "s": "Al principio yo contestaba poco.",
+   "e": "At first I used to answer very little."
+  },
+  {
+   "s": "\"Nada\", decía yo. \"Trabajé.\"",
+   "e": "\"Nothing,\" I would say. \"I worked.\""
+  },
+  {
+   "s": "Esa respuesta aquí no sirve.",
+   "e": "That answer is no use here."
+  },
+  {
+   "s": "Aquí uno cuenta el día entero.",
+   "e": "Here you tell the whole day."
+  },
+  {
+   "s": "Doña Carmen cuenta su día cada noche.",
+   "e": "Doña Carmen tells her day every night."
+  },
+  {
+   "s": "\"Hoy me levanté a las cinco.\"",
+   "e": "\"Today I got up at five.\""
+  },
+  {
+   "s": "\"Hice el gallo pinto y lavé la ropa.\"",
+   "e": "\"I made the gallo pinto and washed the clothes.\""
+  },
+  {
+   "s": "\"Después fui al mercado con la Marta.\"",
+   "e": "\"Then I went to the market with Marta.\""
+  },
+  {
+   "s": "\"Compré verduras y compré pollo.\"",
+   "e": "\"I bought vegetables and I bought chicken.\""
+  },
+  {
+   "s": "\"Vi a la Chepa en la parada.\"",
+   "e": "\"I saw Chepa at the bus stop.\""
+  },
+  {
+   "s": "\"Y en la tarde dormí un ratito.\"",
+   "e": "\"And in the afternoon I slept for a bit.\""
+  },
+  {
+   "s": "Todo el día, paso por paso.",
+   "e": "The whole day, step by step."
+  },
+  {
+   "s": "Nadie se aburre escuchando.",
+   "e": "Nobody gets bored listening."
+  },
+  {
+   "s": "Al contrario, hacen preguntas.",
+   "e": "On the contrary, they ask questions."
+  },
+  {
+   "s": "\"¿Y qué te dijo la Chepa?\"",
+   "e": "\"And what did Chepa say to you?\""
+  },
+  {
+   "s": "Y así la historia sigue.",
+   "e": "And so the story carries on."
+  },
+  {
+   "s": "Yo empiezo a contar mi día también.",
+   "e": "I start telling my day too."
+  },
+  {
+   "s": "Cuento a qué hora me levanté.",
+   "e": "I tell them what time I got up."
+  },
+  {
+   "s": "Cuento qué comí y dónde comí.",
+   "e": "I tell them what I ate and where."
+  },
+  {
+   "s": "Cuento a quién vi en la calle.",
+   "e": "I tell them who I saw in the street."
+  },
+  {
+   "s": "Cuento lo que hice en el trabajo.",
+   "e": "I tell them what I did at work."
+  },
+  {
+   "s": "Es difícil porque todo va en pasado.",
+   "e": "It is hard because it all goes in the past."
+  },
+  {
+   "s": "Hice, comí, fui, vi, trabajé, dormí.",
+   "e": "I did, I ate, I went, I saw, I worked, I slept."
+  },
+  {
+   "s": "Los verbos cambian y yo me equivoco.",
+   "e": "The verbs change and I get them wrong."
+  },
+  {
+   "s": "Digo hací en vez de hice.",
+   "e": "I say hací instead of hice."
+  },
+  {
+   "s": "Digo vi en vez de fui.",
+   "e": "I say vi instead of fui."
+  },
+  {
+   "s": "Nadie me corrige nunca.",
+   "e": "Nobody ever corrects me."
+  },
+  {
+   "s": "Sólo repiten la palabra bien dicha.",
+   "e": "They just repeat the word said properly."
+  },
+  {
+   "s": "\"¿Fuiste al centro?\", dice doña Carmen.",
+   "e": "\"You went to the centre?\" doña Carmen says."
+  },
+  {
+   "s": "Y yo oigo cómo se dice.",
+   "e": "And I hear how it is said."
+  },
+  {
+   "s": "Sin que nadie me haga sentir mal.",
+   "e": "Without anybody making me feel bad."
+  },
+  {
+   "s": "Hay tres palabras para el pasado cercano.",
+   "e": "There are three words for the recent past."
+  },
+  {
+   "s": "Hoy, para lo de hoy.",
+   "e": "Hoy, for today."
+  },
+  {
+   "s": "Ayer, para el día antes.",
+   "e": "Ayer, for the day before."
+  },
+  {
+   "s": "Y antier, para dos días antes.",
+   "e": "And antier, for two days before."
+  },
+  {
+   "s": "Antier no lo aprendí en ningún libro.",
+   "e": "I did not learn antier in any book."
+  },
+  {
+   "s": "Lo aprendí en esta cocina.",
+   "e": "I learned it in this kitchen."
+  },
+  {
+   "s": "Anoche es distinto de ayer.",
+   "e": "Anoche is different from ayer."
+  },
+  {
+   "s": "Anoche es la noche de ayer nada más.",
+   "e": "Anoche is just last night."
+  },
+  {
+   "s": "Después de un mes ya cuento mi día largo.",
+   "e": "After a month I tell my day at length."
+  },
+  {
+   "s": "Cuento cinco minutos sin parar.",
+   "e": "I talk for five minutes without stopping."
+  },
+  {
+   "s": "Me equivoco en muchos verbos.",
+   "e": "I get a lot of verbs wrong."
+  },
+  {
+   "s": "Pero la gente entiende y pregunta más.",
+   "e": "But people understand and ask for more."
+  },
+  {
+   "s": "Y contar el día es lo que más me enseñó.",
+   "e": "And telling the day is what taught me most."
+  },
+  {
+   "s": "Más que cualquier clase.",
+   "e": "More than any class."
+  }
+ ]
+}

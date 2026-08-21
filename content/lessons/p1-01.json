@@ -4,17 +4,7 @@
  "desc": "Directions with no street names",
  "ph": 1,
  "diff": 2,
- "wu": [
-  "cuadra",
-  "lago",
-  "sur",
-  "arriba",
-  "abajo",
-  "encontrar",
-  "cuadras",
-  "contar",
-  "sol"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "Tengo que buscar una casa.",

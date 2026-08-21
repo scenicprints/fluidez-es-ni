@@ -1,0 +1,213 @@
+{
+ "id": "p2-01",
+ "title": "Cómo te llamás de verdad",
+ "desc": "Names, and all the ones you get given",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "apodo",
+  "apellido"
+ ],
+ "sn": [
+  {
+   "s": "Aquí casi nadie usa su nombre.",
+   "e": "Here hardly anybody uses their own name."
+  },
+  {
+   "s": "Todo el mundo tiene un apodo.",
+   "e": "Everybody has a nickname."
+  },
+  {
+   "s": "El apodo se usa más que el nombre.",
+   "e": "The nickname is used more than the name."
+  },
+  {
+   "s": "A Roberto le dicen Beto a veces.",
+   "e": "They sometimes call Roberto Beto."
+  },
+  {
+   "s": "Pero don Beto también se llama Roberto.",
+   "e": "But don Beto is also called Roberto."
+  },
+  {
+   "s": "Entonces hay dos Robertos y un solo Beto.",
+   "e": "So there are two Robertos and only one Beto."
+  },
+  {
+   "s": "\"¿Y cómo sabe uno de quién hablan?\", pregunto.",
+   "e": "\"And how do you know who they're talking about?\" I ask."
+  },
+  {
+   "s": "\"Por el contexto\", dice Roberto.",
+   "e": "\"From the context,\" Roberto says."
+  },
+  {
+   "s": "El apodo casi siempre viene de algo.",
+   "e": "The nickname nearly always comes from something."
+  },
+  {
+   "s": "Viene de la cara, del cuerpo, de una broma.",
+   "e": "From your face, your body, a joke."
+  },
+  {
+   "s": "Hay un señor al que le dicen el Gato.",
+   "e": "There is a man they call el Gato."
+  },
+  {
+   "s": "Le dicen el Gato porque tiene los ojos claros.",
+   "e": "They call him el Gato because he has light eyes."
+  },
+  {
+   "s": "Hay una señora a la que le dicen la Muda.",
+   "e": "There is a woman they call la Muda."
+  },
+  {
+   "s": "Pero la Muda habla más que todos.",
+   "e": "But la Muda talks more than anybody."
+  },
+  {
+   "s": "El apodo era una broma y se quedó.",
+   "e": "The nickname was a joke and it stuck."
+  },
+  {
+   "s": "Los apodos se quedan para siempre.",
+   "e": "Nicknames stay forever."
+  },
+  {
+   "s": "Un apodo de niño dura toda la vida.",
+   "e": "A childhood nickname lasts a whole life."
+  },
+  {
+   "s": "Le pregunto a doña Carmen su apodo.",
+   "e": "I ask doña Carmen her nickname."
+  },
+  {
+   "s": "Ella se ríe y no me quiere decir.",
+   "e": "She laughs and does not want to tell me."
+  },
+  {
+   "s": "Roberto me lo dice después, bajito.",
+   "e": "Roberto tells me later, quietly."
+  },
+  {
+   "s": "\"A mi mamá le decían la Flaca.\"",
+   "e": "\"They used to call my mum la Flaca.\""
+  },
+  {
+   "s": "Doña Carmen no es flaca ahora.",
+   "e": "Doña Carmen is not thin now."
+  },
+  {
+   "s": "Por eso ya no le gusta el apodo.",
+   "e": "That is why she does not like the nickname any more."
+  },
+  {
+   "s": "El apellido también funciona distinto.",
+   "e": "The surname works differently too."
+  },
+  {
+   "s": "Aquí uno tiene dos apellidos.",
+   "e": "Here you have two surnames."
+  },
+  {
+   "s": "El apellido del papá va primero.",
+   "e": "The father's surname goes first."
+  },
+  {
+   "s": "El apellido de la mamá va después.",
+   "e": "The mother's surname goes second."
+  },
+  {
+   "s": "Los dos apellidos se usan en los papeles.",
+   "e": "Both surnames are used on documents."
+  },
+  {
+   "s": "En la calle no se usa ningún apellido.",
+   "e": "In the street no surname is used at all."
+  },
+  {
+   "s": "En la calle uno es su apodo y nada más.",
+   "e": "In the street you are your nickname and nothing else."
+  },
+  {
+   "s": "A mí me dicen chele, ya lo sé.",
+   "e": "They call me chele, I know that already."
+  },
+  {
+   "s": "Pero un día me dicen otra cosa.",
+   "e": "But one day they call me something else."
+  },
+  {
+   "s": "Estamos en el patio con el grupo.",
+   "e": "We are in the patio with the group."
+  },
+  {
+   "s": "Yo digo algo mal y todos se ríen.",
+   "e": "I say something wrong and everybody laughs."
+  },
+  {
+   "s": "Dije una palabra en vez de otra.",
+   "e": "I said one word instead of another."
+  },
+  {
+   "s": "Un chavalo me dice el Chele Perdido.",
+   "e": "A kid calls me el Chele Perdido."
+  },
+  {
+   "s": "El grupo se ríe con esa broma.",
+   "e": "The group laughs at the joke."
+  },
+  {
+   "s": "Y al otro día me dicen igual.",
+   "e": "And the next day they call me the same."
+  },
+  {
+   "s": "Y a la semana también.",
+   "e": "And a week later too."
+  },
+  {
+   "s": "Y ahí entiendo que ya me quedé con ese apodo.",
+   "e": "And that is when I understand the nickname has stuck."
+  },
+  {
+   "s": "Al principio no me gusta.",
+   "e": "At first I do not like it."
+  },
+  {
+   "s": "Después me gusta bastante.",
+   "e": "Later I like it quite a lot."
+  },
+  {
+   "s": "Porque un apodo no se pide.",
+   "e": "Because a nickname is not asked for."
+  },
+  {
+   "s": "Un apodo se recibe.",
+   "e": "A nickname is received."
+  },
+  {
+   "s": "Y el que recibe un apodo ya está adentro.",
+   "e": "And whoever receives one is already inside."
+  },
+  {
+   "s": "Le cuento a doña Carmen mi apodo nuevo.",
+   "e": "I tell doña Carmen my new nickname."
+  },
+  {
+   "s": "\"Ideay\", dice ella. \"Ya te bautizaron.\"",
+   "e": "\"Ideay,\" she says. \"They've baptised you now.\""
+  },
+  {
+   "s": "Después de un mes casi nadie me dice chele.",
+   "e": "After a month hardly anybody calls me chele."
+  },
+  {
+   "s": "Ahora me dicen el Perdido, o sólo Perdido.",
+   "e": "Now they call me el Perdido, or just Perdido."
+  },
+  {
+   "s": "Y yo contesto sin pensar.",
+   "e": "And I answer without thinking."
+  }
+ ]
+}

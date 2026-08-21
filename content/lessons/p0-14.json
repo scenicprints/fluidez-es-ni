@@ -4,17 +4,7 @@
  "desc": "Getting on is the hard part",
  "ph": 0,
  "diff": 1,
- "wu": [
-  "bus",
-  "ruta",
-  "parada",
-  "ayudante",
-  "subir",
-  "asiento",
-  "pasaje",
-  "gritar",
-  "centro"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "Necesito ir al centro.",

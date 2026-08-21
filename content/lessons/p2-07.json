@@ -1,0 +1,203 @@
+{
+ "id": "p2-07",
+ "title": "Ahorita",
+ "desc": "A word that means four different things",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "ahorita",
+  "esperar",
+  "hora",
+  "minuto"
+ ],
+ "sn": [
+  {
+   "s": "Ahorita es la palabra más difícil de todas.",
+   "e": "Ahorita is the hardest word of all."
+  },
+  {
+   "s": "Ahorita parece que significa ahora.",
+   "e": "Ahorita looks like it means now."
+  },
+  {
+   "s": "Ahorita casi nunca significa ahora.",
+   "e": "Ahorita almost never means now."
+  },
+  {
+   "s": "Le pregunto a doña Carmen si el almuerzo está listo.",
+   "e": "I ask doña Carmen if lunch is ready."
+  },
+  {
+   "s": "\"Ahorita\", dice ella.",
+   "e": "\"Ahorita,\" she says."
+  },
+  {
+   "s": "Yo me siento a la mesa a esperar.",
+   "e": "I sit down at the table to wait."
+  },
+  {
+   "s": "Espero diez minutos.",
+   "e": "I wait ten minutes."
+  },
+  {
+   "s": "Espero veinte minutos.",
+   "e": "I wait twenty minutes."
+  },
+  {
+   "s": "Espero cuarenta minutos.",
+   "e": "I wait forty minutes."
+  },
+  {
+   "s": "El almuerzo llega una hora después.",
+   "e": "Lunch comes an hour later."
+  },
+  {
+   "s": "Ese ahorita quería decir en una hora.",
+   "e": "That ahorita meant in an hour."
+  },
+  {
+   "s": "Otro día un señor me dice que viene ahorita.",
+   "e": "Another day a man tells me he is coming ahorita."
+  },
+  {
+   "s": "Ese señor no llegó nunca.",
+   "e": "That man never arrived."
+  },
+  {
+   "s": "Ese ahorita quería decir no.",
+   "e": "That ahorita meant no."
+  },
+  {
+   "s": "Otro día Roberto me dice ahorita.",
+   "e": "Another day Roberto says ahorita to me."
+  },
+  {
+   "s": "Y llega en dos minutos.",
+   "e": "And he arrives in two minutes."
+  },
+  {
+   "s": "Ese ahorita sí quería decir ahora.",
+   "e": "That ahorita did mean now."
+  },
+  {
+   "s": "Entonces ahorita no significa un tiempo.",
+   "e": "So ahorita does not mean an amount of time."
+  },
+  {
+   "s": "Ahorita significa una intención.",
+   "e": "Ahorita means an intention."
+  },
+  {
+   "s": "Y hay que leer la cara y el tono.",
+   "e": "And you have to read the face and the tone."
+  },
+  {
+   "s": "Roberto me ayuda con las diferencias.",
+   "e": "Roberto helps me with the differences."
+  },
+  {
+   "s": "\"Ahorita voy\" quiere decir que va a ir.",
+   "e": "\"Ahorita voy\" means they are going to go."
+  },
+  {
+   "s": "\"Ahoritita\" es más rápido que ahorita.",
+   "e": "\"Ahoritita\" is faster than ahorita."
+  },
+  {
+   "s": "\"Ya voy\" quiere decir que todavía no.",
+   "e": "\"Ya voy\" means not yet."
+  },
+  {
+   "s": "\"Al rato\" es más tarde, de verdad.",
+   "e": "\"Al rato\" is later, genuinely."
+  },
+  {
+   "s": "\"En un ratito\" es pronto.",
+   "e": "\"En un ratito\" is soon."
+  },
+  {
+   "s": "\"Ya casi\" quiere decir que falta.",
+   "e": "\"Ya casi\" means there is still a way to go."
+  },
+  {
+   "s": "Ninguna de esas palabras es una hora.",
+   "e": "None of those words is a time."
+  },
+  {
+   "s": "Al principio eso me pone nervioso.",
+   "e": "At first that makes me nervous."
+  },
+  {
+   "s": "Yo quiero saber a qué hora.",
+   "e": "I want to know what time."
+  },
+  {
+   "s": "Aquí a qué hora no es la pregunta.",
+   "e": "Here what time is not the question."
+  },
+  {
+   "s": "La pregunta es si va a pasar.",
+   "e": "The question is whether it is going to happen."
+  },
+  {
+   "s": "Y casi siempre pasa.",
+   "e": "And nearly always it happens."
+  },
+  {
+   "s": "Pasa tarde, pero pasa.",
+   "e": "It happens late, but it happens."
+  },
+  {
+   "s": "Yo dejo de apurar a la gente.",
+   "e": "I stop rushing people."
+  },
+  {
+   "s": "Apurar aquí no sirve de nada.",
+   "e": "Rushing here does no good at all."
+  },
+  {
+   "s": "Apurar sólo me pone de mal humor a mí.",
+   "e": "Rushing only puts me in a bad mood."
+  },
+  {
+   "s": "La gente llega cuando llega.",
+   "e": "People arrive when they arrive."
+  },
+  {
+   "s": "Y mientras tanto uno espera con alguien.",
+   "e": "And meanwhile you wait with somebody."
+  },
+  {
+   "s": "Esperar aquí no es estar solo.",
+   "e": "Waiting here is not being alone."
+  },
+  {
+   "s": "Un día un amigo me pregunta algo.",
+   "e": "One day a friend asks me something."
+  },
+  {
+   "s": "\"¿A qué hora nos vemos?\"",
+   "e": "\"What time shall we meet?\""
+  },
+  {
+   "s": "Y yo contesto sin pensarlo.",
+   "e": "And I answer without thinking."
+  },
+  {
+   "s": "\"Ahorita\", digo yo.",
+   "e": "\"Ahorita,\" I say."
+  },
+  {
+   "s": "Y llego cuarenta minutos tarde.",
+   "e": "And I arrive forty minutes late."
+  },
+  {
+   "s": "Y nadie se enoja.",
+   "e": "And nobody is annoyed."
+  },
+  {
+   "s": "Porque dije ahorita y ahorita fue.",
+   "e": "Because I said ahorita and ahorita it was."
+  }
+ ]
+}

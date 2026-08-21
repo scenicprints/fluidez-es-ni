@@ -1,0 +1,206 @@
+{
+ "id": "p2-04",
+ "title": "Me cae bien",
+ "desc": "Liking a person is a different verb",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "bueno",
+  "bien",
+  "patio"
+ ],
+ "sn": [
+  {
+   "s": "En español hay dos maneras de decir que alguien te gusta.",
+   "e": "In Spanish there are two ways of saying you like somebody."
+  },
+  {
+   "s": "Y no significan lo mismo.",
+   "e": "And they do not mean the same thing."
+  },
+  {
+   "s": "Eso lo aprendo de la peor manera.",
+   "e": "I learn that the worst way."
+  },
+  {
+   "s": "Estoy hablando con una prima de Roberto.",
+   "e": "I am talking to a cousin of Roberto's."
+  },
+  {
+   "s": "Es una muchacha amable y simpática.",
+   "e": "She is a kind and pleasant girl."
+  },
+  {
+   "s": "Quiero decir que me parece buena persona.",
+   "e": "I want to say she seems like a good person."
+  },
+  {
+   "s": "Y digo: \"Vos me gustás.\"",
+   "e": "And I say: \"I like you.\""
+  },
+  {
+   "s": "La muchacha se pone roja.",
+   "e": "The girl goes red."
+  },
+  {
+   "s": "Roberto se atraganta con el refresco.",
+   "e": "Roberto chokes on his drink."
+  },
+  {
+   "s": "Todo el patio se queda callado.",
+   "e": "The whole patio goes quiet."
+  },
+  {
+   "s": "Yo no sé qué hice.",
+   "e": "I do not know what I did."
+  },
+  {
+   "s": "Roberto me saca del patio.",
+   "e": "Roberto pulls me out of the patio."
+  },
+  {
+   "s": "\"Maje, le dijiste que te gusta\", me dice.",
+   "e": "\"Maje, you told her you fancy her,\" he says."
+  },
+  {
+   "s": "\"Eso quise decir\", digo yo.",
+   "e": "\"That's what I meant,\" I say."
+  },
+  {
+   "s": "\"No. Me gustás es para el amor.\"",
+   "e": "\"No. Me gustás is for love.\""
+  },
+  {
+   "s": "\"¿Y cómo se dice lo otro?\"",
+   "e": "\"And how do you say the other thing?\""
+  },
+  {
+   "s": "\"Me caés bien\", dice Roberto.",
+   "e": "\"Me caés bien,\" Roberto says."
+  },
+  {
+   "s": "Me cae bien es para las personas.",
+   "e": "Me cae bien is for people."
+  },
+  {
+   "s": "Me cae bien quiere decir que es buena gente.",
+   "e": "Me cae bien means they are good people."
+  },
+  {
+   "s": "Me gusta quiere decir otra cosa muy distinta.",
+   "e": "Me gusta means something very different."
+  },
+  {
+   "s": "Y yo se lo dije a una muchacha en el patio.",
+   "e": "And I said it to a girl in the patio."
+  },
+  {
+   "s": "Delante de toda su familia.",
+   "e": "In front of her whole family."
+  },
+  {
+   "s": "Vuelvo al patio muerto de vergüenza.",
+   "e": "I go back to the patio dying of embarrassment."
+  },
+  {
+   "s": "\"Perdón\", le digo a la muchacha.",
+   "e": "\"Sorry,\" I say to the girl."
+  },
+  {
+   "s": "\"Quise decir que me caés bien.\"",
+   "e": "\"I meant that I like you as a person.\""
+  },
+  {
+   "s": "Ella se ríe.",
+   "e": "She laughs."
+  },
+  {
+   "s": "\"Ya sabía\", dice ella. \"Pero fue gracioso.\"",
+   "e": "\"I knew,\" she says. \"But it was funny.\""
+  },
+  {
+   "s": "Toda la familia se ríe conmigo.",
+   "e": "The whole family laughs with me."
+  },
+  {
+   "s": "No se ríen de mí.",
+   "e": "They are not laughing at me."
+  },
+  {
+   "s": "Se ríen conmigo, que es distinto.",
+   "e": "They laugh with me, which is different."
+  },
+  {
+   "s": "Después aprendo las otras maneras.",
+   "e": "Later I learn the other ways."
+  },
+  {
+   "s": "Me cae bien: es buena persona.",
+   "e": "Me cae bien: they are a good person."
+  },
+  {
+   "s": "Me cae mal: no me gusta cómo es.",
+   "e": "Me cae mal: I do not like how they are."
+  },
+  {
+   "s": "Es pesado: molesta, cansa, habla mucho.",
+   "e": "Es pesado: they are heavy going."
+  },
+  {
+   "s": "Es amable: trata bien a la gente.",
+   "e": "Es amable: they treat people well."
+  },
+  {
+   "s": "Es buena gente: se puede confiar.",
+   "e": "Es buena gente: you can trust them."
+  },
+  {
+   "s": "Esa última es la más importante.",
+   "e": "That last one is the most important."
+  },
+  {
+   "s": "Buena gente aquí es un premio.",
+   "e": "Buena gente here is a prize."
+  },
+  {
+   "s": "Si dicen que sos buena gente, ya está.",
+   "e": "If they say you are buena gente, that is it."
+  },
+  {
+   "s": "No hace falta nada más.",
+   "e": "Nothing else is needed."
+  },
+  {
+   "s": "Un mes después oigo algo en el patio.",
+   "e": "A month later I hear something in the patio."
+  },
+  {
+   "s": "Doña Marta habla de mí con otra señora.",
+   "e": "Doña Marta is talking about me with another woman."
+  },
+  {
+   "s": "No sabe que yo la puedo oír.",
+   "e": "She does not know I can hear her."
+  },
+  {
+   "s": "\"El chele de la Carmen es buena gente\", dice.",
+   "e": "\"Carmen's chele is buena gente,\" she says."
+  },
+  {
+   "s": "Yo me quedo quieto y no digo nada.",
+   "e": "I stay still and say nothing."
+  },
+  {
+   "s": "Esas tres palabras valen más que un año de clases.",
+   "e": "Those three words are worth more than a year of classes."
+  },
+  {
+   "s": "Y no me equivoqué con el verbo esta vez.",
+   "e": "And I did not get the verb wrong that time."
+  },
+  {
+   "s": "Porque esa vez no tuve que decir nada.",
+   "e": "Because that time I did not have to say anything."
+  }
+ ]
+}

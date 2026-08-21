@@ -1,0 +1,201 @@
+{
+ "id": "p2-11",
+ "title": "El béisbol",
+ "desc": "Not football. Baseball.",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "béisbol",
+  "jugar"
+ ],
+ "sn": [
+  {
+   "s": "Yo pensaba que aquí se jugaba fútbol.",
+   "e": "I thought football was played here."
+  },
+  {
+   "s": "Como en todos los países de por aquí.",
+   "e": "Like in all the countries around here."
+  },
+  {
+   "s": "Estaba equivocado.",
+   "e": "I was wrong."
+  },
+  {
+   "s": "Aquí el deporte es el béisbol.",
+   "e": "Here the sport is baseball."
+  },
+  {
+   "s": "El béisbol y nada más.",
+   "e": "Baseball and nothing else."
+  },
+  {
+   "s": "En cada barrio hay un campo de béisbol.",
+   "e": "In every barrio there is a baseball field."
+  },
+  {
+   "s": "A veces el campo es sólo tierra.",
+   "e": "Sometimes the field is just dirt."
+  },
+  {
+   "s": "Los chavalos juegan con un bate de palo.",
+   "e": "The kids play with a stick for a bat."
+  },
+  {
+   "s": "Juegan con una pelota vieja y rota.",
+   "e": "They play with an old, split ball."
+  },
+  {
+   "s": "Y juegan igual de serio que en un estadio.",
+   "e": "And they play as seriously as in a stadium."
+  },
+  {
+   "s": "Roberto juega todas las tardes.",
+   "e": "Roberto plays every afternoon."
+  },
+  {
+   "s": "Roberto juega mal pero juega con ganas.",
+   "e": "Roberto plays badly but he plays with heart."
+  },
+  {
+   "s": "Su equipo pierde casi siempre.",
+   "e": "His team nearly always loses."
+  },
+  {
+   "s": "Y él sigue jugando igual.",
+   "e": "And he goes on playing just the same."
+  },
+  {
+   "s": "Un día me invitan a jugar.",
+   "e": "One day they invite me to play."
+  },
+  {
+   "s": "Yo no sé jugar béisbol.",
+   "e": "I do not know how to play baseball."
+  },
+  {
+   "s": "Nunca en mi vida agarré un bate.",
+   "e": "I have never held a bat in my life."
+  },
+  {
+   "s": "Me dan el bate y todos esperan.",
+   "e": "They give me the bat and everybody waits."
+  },
+  {
+   "s": "Tiran la pelota y yo no le pego.",
+   "e": "They throw the ball and I do not hit it."
+  },
+  {
+   "s": "Tiran otra vez y tampoco.",
+   "e": "They throw again and I miss again."
+  },
+  {
+   "s": "A la tercera le pego apenas.",
+   "e": "On the third I barely touch it."
+  },
+  {
+   "s": "La pelota va dos metros.",
+   "e": "The ball goes two metres."
+  },
+  {
+   "s": "Todo el campo se ríe.",
+   "e": "The whole field laughs."
+  },
+  {
+   "s": "Roberto se ríe más que nadie.",
+   "e": "Roberto laughs more than anybody."
+  },
+  {
+   "s": "Pero me dejan seguir jugando.",
+   "e": "But they let me keep playing."
+  },
+  {
+   "s": "Y en el barrio se cuenta esa historia por semanas.",
+   "e": "And in the barrio that story gets told for weeks."
+  },
+  {
+   "s": "Los domingos los hombres oyen el juego.",
+   "e": "On Sundays the men listen to the game."
+  },
+  {
+   "s": "Lo oyen en un radio viejo en el patio.",
+   "e": "They listen on an old radio in the patio."
+  },
+  {
+   "s": "El que narra habla rapidísimo.",
+   "e": "The commentator talks incredibly fast."
+  },
+  {
+   "s": "Yo no entiendo ni una palabra del radio.",
+   "e": "I do not understand a word of the radio."
+  },
+  {
+   "s": "Pero entiendo cuando el equipo gana.",
+   "e": "But I understand when the team wins."
+  },
+  {
+   "s": "Porque toda la calle grita al mismo tiempo.",
+   "e": "Because the whole street shouts at the same time."
+  },
+  {
+   "s": "Don Beto es del Bóer.",
+   "e": "Don Beto supports the Bóer."
+  },
+  {
+   "s": "Su vecino es del otro equipo.",
+   "e": "His neighbour supports the other team."
+  },
+  {
+   "s": "Los dos discuten cada domingo.",
+   "e": "The two of them argue every Sunday."
+  },
+  {
+   "s": "Discuten de béisbol y no de otra cosa.",
+   "e": "They argue about baseball and nothing else."
+  },
+  {
+   "s": "Y el lunes se hablan normal.",
+   "e": "And on Monday they talk normally."
+  },
+  {
+   "s": "Roberto me explica por qué es béisbol.",
+   "e": "Roberto explains to me why it is baseball."
+  },
+  {
+   "s": "\"Nos llegó de afuera hace mucho\", dice.",
+   "e": "\"It came from outside a long time ago,\" he says."
+  },
+  {
+   "s": "\"Y se quedó, y ya es de nosotros.\"",
+   "e": "\"And it stayed, and now it's ours.\""
+  },
+  {
+   "s": "Aprendo los nombres de los equipos.",
+   "e": "I learn the names of the teams."
+  },
+  {
+   "s": "Aprendo a decir que soy del Bóer.",
+   "e": "I learn to say I support the Bóer."
+  },
+  {
+   "s": "Lo digo porque don Beto es del Bóer.",
+   "e": "I say it because don Beto supports the Bóer."
+  },
+  {
+   "s": "No hay otra razón y no hace falta otra.",
+   "e": "There is no other reason and none is needed."
+  },
+  {
+   "s": "Ahora los domingos oigo el juego con ellos.",
+   "e": "Now on Sundays I listen to the game with them."
+  },
+  {
+   "s": "Sigo sin entender al del radio.",
+   "e": "I still do not understand the man on the radio."
+  },
+  {
+   "s": "Pero grito cuando ellos gritan.",
+   "e": "But I shout when they shout."
+  }
+ ]
+}

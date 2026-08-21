@@ -1,0 +1,208 @@
+{
+ "id": "p2-05",
+ "title": "De dónde sos",
+ "desc": "The question everyone asks",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "nieve"
+ ],
+ "sn": [
+  {
+   "s": "La primera pregunta siempre es la misma.",
+   "e": "The first question is always the same."
+  },
+  {
+   "s": "\"¿De dónde sos?\"",
+   "e": "\"Where are you from?\""
+  },
+  {
+   "s": "Contesto el nombre de mi país.",
+   "e": "I answer the name of my country."
+  },
+  {
+   "s": "Y después vienen las otras preguntas.",
+   "e": "And then the other questions come."
+  },
+  {
+   "s": "\"¿Y allá hace frío?\"",
+   "e": "\"And is it cold there?\""
+  },
+  {
+   "s": "\"Sí, en el invierno hace mucho frío.\"",
+   "e": "\"Yes, in winter it is very cold.\""
+  },
+  {
+   "s": "\"¿Y cae nieve?\"",
+   "e": "\"And does snow fall?\""
+  },
+  {
+   "s": "\"Sí, cae nieve.\"",
+   "e": "\"Yes, snow falls.\""
+  },
+  {
+   "s": "Y ahí se para todo.",
+   "e": "And that is where everything stops."
+  },
+  {
+   "s": "La nieve es lo que más les interesa.",
+   "e": "Snow is what interests them most."
+  },
+  {
+   "s": "Nadie en esta calle ha visto nieve.",
+   "e": "Nobody on this street has seen snow."
+  },
+  {
+   "s": "Los chavalos me hacen preguntas de la nieve.",
+   "e": "The kids ask me questions about snow."
+  },
+  {
+   "s": "\"¿La nieve es fría de verdad?\"",
+   "e": "\"Is snow really cold?\""
+  },
+  {
+   "s": "\"¿La nieve se come?\"",
+   "e": "\"Can you eat snow?\""
+  },
+  {
+   "s": "\"¿Y cómo camina uno en la nieve?\"",
+   "e": "\"And how do you walk in snow?\""
+  },
+  {
+   "s": "Trato de contar cómo es.",
+   "e": "I try to describe what it is like."
+  },
+  {
+   "s": "Digo que la nieve es agua congelada.",
+   "e": "I say that snow is frozen water."
+  },
+  {
+   "s": "Digo que cae despacio del cielo.",
+   "e": "I say it falls slowly from the sky."
+  },
+  {
+   "s": "Digo que se pone todo blanco.",
+   "e": "I say everything goes white."
+  },
+  {
+   "s": "Los chavalos no se lo pueden imaginar.",
+   "e": "The kids cannot imagine it."
+  },
+  {
+   "s": "Roberto lo intenta y no puede.",
+   "e": "Roberto tries and cannot."
+  },
+  {
+   "s": "\"¿Todo blanco? ¿Los árboles también?\"",
+   "e": "\"All white? The trees too?\""
+  },
+  {
+   "s": "\"Los árboles también.\"",
+   "e": "\"The trees too.\""
+  },
+  {
+   "s": "\"¿Y la gente sale a la calle?\"",
+   "e": "\"And do people go out into the street?\""
+  },
+  {
+   "s": "\"Sale, pero con mucha ropa.\"",
+   "e": "\"They do, but with a lot of clothes on.\""
+  },
+  {
+   "s": "Después me hacen la pregunta difícil.",
+   "e": "Then they ask me the hard question."
+  },
+  {
+   "s": "\"¿Y por qué te viniste para acá?\"",
+   "e": "\"And why did you come here?\""
+  },
+  {
+   "s": "Esa es la pregunta que no sé contestar.",
+   "e": "That is the question I cannot answer."
+  },
+  {
+   "s": "Digo cosas que suenan bien.",
+   "e": "I say things that sound good."
+  },
+  {
+   "s": "Digo que quería conocer otro país.",
+   "e": "I say I wanted to see another country."
+  },
+  {
+   "s": "Digo que quería aprender español.",
+   "e": "I say I wanted to learn Spanish."
+  },
+  {
+   "s": "Las dos cosas son verdad y son poco.",
+   "e": "Both are true and neither is enough."
+  },
+  {
+   "s": "Don Beto me hace otra pregunta.",
+   "e": "Don Beto asks me another question."
+  },
+  {
+   "s": "\"¿Y allá se vive mejor?\"",
+   "e": "\"And is life better there?\""
+  },
+  {
+   "s": "Yo dudo antes de contestar.",
+   "e": "I hesitate before answering."
+  },
+  {
+   "s": "Porque la respuesta fácil sería que sí.",
+   "e": "Because the easy answer would be yes."
+  },
+  {
+   "s": "Hay más plata allá.",
+   "e": "There is more money there."
+  },
+  {
+   "s": "Hay agua todos los días.",
+   "e": "There is water every day."
+  },
+  {
+   "s": "La luz no se va.",
+   "e": "The power does not go."
+  },
+  {
+   "s": "Pero eso no es toda la respuesta.",
+   "e": "But that is not the whole answer."
+  },
+  {
+   "s": "\"Se vive distinto\", digo al final.",
+   "e": "\"Life is different,\" I say in the end."
+  },
+  {
+   "s": "Don Beto me mira y no dice nada.",
+   "e": "Don Beto looks at me and says nothing."
+  },
+  {
+   "s": "Después dice una sola cosa.",
+   "e": "Then he says one thing."
+  },
+  {
+   "s": "\"Aquí uno no come solo\", dice él.",
+   "e": "\"Here a man doesn't eat alone,\" he says."
+  },
+  {
+   "s": "Y eso es toda la diferencia.",
+   "e": "And that is the whole difference."
+  },
+  {
+   "s": "Yo pienso en mi país esa noche.",
+   "e": "I think about my country that night."
+  },
+  {
+   "s": "Pienso en la gente que come sola.",
+   "e": "I think about the people who eat alone."
+  },
+  {
+   "s": "Aquí en tres meses no comí solo ni un día.",
+   "e": "Here in three months I have not eaten alone one single day."
+  },
+  {
+   "s": "Ni un día.",
+   "e": "Not one."
+  }
+ ]
+}

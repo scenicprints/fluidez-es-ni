@@ -1,0 +1,202 @@
+{
+ "id": "p2-12",
+ "title": "Un favor",
+ "desc": "Asking for something and owing something",
+ "ph": 2,
+ "diff": 2,
+ "wu": [
+  "favor",
+  "pedir",
+  "don"
+ ],
+ "sn": [
+  {
+   "s": "Necesito ayuda para mover un mueble.",
+   "e": "I need help moving a piece of furniture."
+  },
+  {
+   "s": "Le pido el favor a don Beto.",
+   "e": "I ask don Beto the favour."
+  },
+  {
+   "s": "\"Don Beto, ¿me hace un favor?\"",
+   "e": "\"Don Beto, would you do me a favour?\""
+  },
+  {
+   "s": "\"Diga\", dice él.",
+   "e": "\"Go on,\" he says."
+  },
+  {
+   "s": "Le explico lo del mueble.",
+   "e": "I explain about the furniture."
+  },
+  {
+   "s": "Don Beto deja lo que está haciendo.",
+   "e": "Don Beto leaves what he is doing."
+  },
+  {
+   "s": "Viene conmigo sin pensarlo.",
+   "e": "He comes with me without thinking about it."
+  },
+  {
+   "s": "Movemos el mueble en diez minutos.",
+   "e": "We move the furniture in ten minutes."
+  },
+  {
+   "s": "\"Muchas gracias, don Beto\", digo yo.",
+   "e": "\"Thank you very much, don Beto,\" I say."
+  },
+  {
+   "s": "\"No es nada\", dice él.",
+   "e": "\"It's nothing,\" he says."
+  },
+  {
+   "s": "Y se va a seguir con lo suyo.",
+   "e": "And he goes back to what he was doing."
+  },
+  {
+   "s": "Yo pienso que ahí terminó todo.",
+   "e": "I think that is the end of it."
+  },
+  {
+   "s": "No terminó nada.",
+   "e": "It is not the end of anything."
+  },
+  {
+   "s": "Dos semanas después don Beto me pide algo.",
+   "e": "Two weeks later don Beto asks me for something."
+  },
+  {
+   "s": "Me pide que le cuide la casa una tarde.",
+   "e": "He asks me to watch his house one afternoon."
+  },
+  {
+   "s": "Yo digo que sí, claro.",
+   "e": "I say yes, of course."
+  },
+  {
+   "s": "Y ahí entiendo cómo funciona.",
+   "e": "And that is when I understand how it works."
+  },
+  {
+   "s": "Aquí un favor no se paga con gracias.",
+   "e": "Here a favour is not paid for with thanks."
+  },
+  {
+   "s": "Un favor se paga con otro favor.",
+   "e": "A favour is paid for with another favour."
+  },
+  {
+   "s": "Pero no enseguida.",
+   "e": "But not immediately."
+  },
+  {
+   "s": "Devolver el favor enseguida sería feo.",
+   "e": "Returning the favour immediately would be ugly."
+  },
+  {
+   "s": "Sería como decir que no quiero deber nada.",
+   "e": "It would be like saying I do not want to owe anything."
+  },
+  {
+   "s": "Y aquí deber algo es estar unido.",
+   "e": "And here owing something is being connected."
+  },
+  {
+   "s": "Nadie apunta los favores en un papel.",
+   "e": "Nobody writes the favours down on paper."
+  },
+  {
+   "s": "Pero todos se acuerdan de todos.",
+   "e": "But everybody remembers everybody."
+  },
+  {
+   "s": "Doña Carmen se acuerda de quién la ayudó.",
+   "e": "Doña Carmen remembers who helped her."
+  },
+  {
+   "s": "Se acuerda de hace veinte años.",
+   "e": "She remembers from twenty years ago."
+  },
+  {
+   "s": "\"Esa señora me ayudó cuando nació Roberto.\"",
+   "e": "\"That woman helped me when Roberto was born.\""
+  },
+  {
+   "s": "Y por eso le hace favores hasta hoy.",
+   "e": "And that is why she does her favours to this day."
+  },
+  {
+   "s": "Roberto me dice una cosa importante.",
+   "e": "Roberto tells me something important."
+  },
+  {
+   "s": "\"Si nunca pedís un favor, es raro.\"",
+   "e": "\"If you never ask a favour, it's strange.\""
+  },
+  {
+   "s": "\"La gente piensa que no confiás.\"",
+   "e": "\"People think you don't trust them.\""
+  },
+  {
+   "s": "Eso me sorprende mucho.",
+   "e": "That surprises me a lot."
+  },
+  {
+   "s": "Yo pensaba que pedir era molestar.",
+   "e": "I thought asking was imposing."
+  },
+  {
+   "s": "Aquí pedir es lo contrario.",
+   "e": "Here asking is the opposite."
+  },
+  {
+   "s": "Pedir es decir que uno confía.",
+   "e": "Asking is saying that you trust."
+  },
+  {
+   "s": "El que no pide nada no da nada.",
+   "e": "The one who asks for nothing gives nothing."
+  },
+  {
+   "s": "Y el que no da nada está solo.",
+   "e": "And the one who gives nothing is alone."
+  },
+  {
+   "s": "Entonces empiezo a pedir favores.",
+   "e": "So I start asking for favours."
+  },
+  {
+   "s": "Le pido a Roberto que me acompañe al banco.",
+   "e": "I ask Roberto to come with me to the bank."
+  },
+  {
+   "s": "Le pido a doña Chepa que me guarde una bolsa.",
+   "e": "I ask doña Chepa to keep a bag for me."
+  },
+  {
+   "s": "Le pido a doña Marta una receta.",
+   "e": "I ask doña Marta for a recipe."
+  },
+  {
+   "s": "Todos dicen que sí sin dudar.",
+   "e": "They all say yes without hesitating."
+  },
+  {
+   "s": "Y todos me piden algo después.",
+   "e": "And they all ask me for something later."
+  },
+  {
+   "s": "Y así uno se va metiendo en la calle.",
+   "e": "And that is how you work your way into the street."
+  },
+  {
+   "s": "No por hablar bien.",
+   "e": "Not by speaking well."
+  },
+  {
+   "s": "Por deber y que le deban.",
+   "e": "By owing and being owed."
+  }
+ ]
+}

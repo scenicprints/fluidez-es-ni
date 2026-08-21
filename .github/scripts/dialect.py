@@ -48,7 +48,10 @@ llamais trabajais bebeis leeis creeis
 
 # Words that put the speaker in the wrong country.
 FOREIGN = {
-    "Spain": u"""vale coche movil ordenador tio tia guay zumo patata gilipollas
+    # No tio/tia here: they are uncle and aunt in every Spanish there is, and
+    # only Madrid slang uses them for "bloke". A word list cannot tell those
+    # apart, and banning them flags every family in the course.
+    "Spain": u"""vale coche movil ordenador guay zumo patata gilipollas
                  hostia currar piso melocoton cutre flipar majo""".split(),
     "Mexico": u"""orale guey wey chido padrisimo andale chamba lana popote antro
                   chavo chava alberca neta chingon chafa naco fresa mande

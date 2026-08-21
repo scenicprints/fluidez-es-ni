@@ -4,15 +4,7 @@
  "desc": "Saying what your body needs",
  "ph": 0,
  "diff": 1,
- "wu": [
-  "hambre",
-  "sed",
-  "sueño",
-  "miedo",
-  "prisa",
-  "razón",
-  "cansado"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "En español uno no está con hambre.",

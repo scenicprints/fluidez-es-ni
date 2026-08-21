@@ -4,11 +4,7 @@
  "desc": "Arguing about price without being rude",
  "ph": 1,
  "diff": 2,
- "wu": [
-  "precio",
-  "vendedor",
-  "regatear"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "En el mercado nada tiene precio escrito.",
