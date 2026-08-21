@@ -1,0 +1,205 @@
+{
+ "id": "p3-03",
+ "title": "Un trámite",
+ "desc": "Paperwork, and the whole day gone",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "papel",
+  "faltar"
+ ],
+ "sn": [
+  {
+   "s": "Tengo que hacer un trámite en migración.",
+   "e": "I have to do some paperwork at immigration."
+  },
+  {
+   "s": "Roberto me da un consejo antes de ir.",
+   "e": "Roberto gives me a piece of advice before I go."
+  },
+  {
+   "s": "\"Llevá copias de todo\", dice él.",
+   "e": "\"Take copies of everything,\" he says."
+  },
+  {
+   "s": "\"¿De todo?\", pregunto yo.",
+   "e": "\"Of everything?\" I ask."
+  },
+  {
+   "s": "\"De todo. Dos copias de cada papel.\"",
+   "e": "\"Of everything. Two copies of each paper.\""
+  },
+  {
+   "s": "Yo llevo el pasaporte y un papel.",
+   "e": "I take my passport and one paper."
+  },
+  {
+   "s": "Pienso que con eso alcanza.",
+   "e": "I think that will be enough."
+  },
+  {
+   "s": "Llego a las siete de la mañana.",
+   "e": "I arrive at seven in the morning."
+  },
+  {
+   "s": "La oficina abre a las ocho.",
+   "e": "The office opens at eight."
+  },
+  {
+   "s": "Ya hay cuarenta personas esperando.",
+   "e": "There are already forty people waiting."
+  },
+  {
+   "s": "Unos llegaron a las cinco.",
+   "e": "Some arrived at five."
+  },
+  {
+   "s": "Espero tres horas de pie.",
+   "e": "I wait three hours standing."
+  },
+  {
+   "s": "Cuando llego a la ventanilla, falta un papel.",
+   "e": "When I get to the window, one paper is missing."
+  },
+  {
+   "s": "Falta una copia de la cédula del dueño.",
+   "e": "A copy of the owner's ID is missing."
+  },
+  {
+   "s": "Nadie me dijo que hacía falta eso.",
+   "e": "Nobody told me that was needed."
+  },
+  {
+   "s": "No está escrito en ningún lado.",
+   "e": "It is not written down anywhere."
+  },
+  {
+   "s": "\"Tráigala mañana\", dice el señor.",
+   "e": "\"Bring it tomorrow,\" the man says."
+  },
+  {
+   "s": "Y ahí se acabó el día.",
+   "e": "And that is the day gone."
+  },
+  {
+   "s": "Vuelvo a la casa con rabia.",
+   "e": "I go home angry."
+  },
+  {
+   "s": "Don Beto me ve la cara y se ríe.",
+   "e": "Don Beto sees my face and laughs."
+  },
+  {
+   "s": "\"Bienvenido\", dice él.",
+   "e": "\"Welcome,\" he says."
+  },
+  {
+   "s": "Al otro día llevo la copia que falta.",
+   "e": "The next day I take the missing copy."
+  },
+  {
+   "s": "Y esta vez falta otra cosa.",
+   "e": "And this time something else is missing."
+  },
+  {
+   "s": "Falta un sello en un papel.",
+   "e": "A stamp is missing on one paper."
+  },
+  {
+   "s": "Ese sello se pone en otra oficina.",
+   "e": "That stamp is put on in another office."
+  },
+  {
+   "s": "La otra oficina está en el otro lado de la ciudad.",
+   "e": "The other office is on the other side of the city."
+  },
+  {
+   "s": "Y cierra a las tres de la tarde.",
+   "e": "And it closes at three in the afternoon."
+  },
+  {
+   "s": "Ya son las dos.",
+   "e": "It is already two."
+  },
+  {
+   "s": "Corro y no llego.",
+   "e": "I run and I do not make it."
+  },
+  {
+   "s": "Al tercer día llevo todo.",
+   "e": "On the third day I take everything."
+  },
+  {
+   "s": "Llevo el papel con el sello.",
+   "e": "I take the paper with the stamp."
+  },
+  {
+   "s": "Llevo dos copias de cada cosa.",
+   "e": "I take two copies of everything."
+  },
+  {
+   "s": "Llevo hasta copias que nadie me pidió.",
+   "e": "I even take copies nobody asked me for."
+  },
+  {
+   "s": "El señor de la ventanilla revisa todo.",
+   "e": "The man at the window checks everything."
+  },
+  {
+   "s": "\"Está completo\", dice él.",
+   "e": "\"It's complete,\" he says."
+  },
+  {
+   "s": "Y me da un papel para llenar.",
+   "e": "And he gives me a form to fill in."
+  },
+  {
+   "s": "Lo lleno ahí mismo, de pie.",
+   "e": "I fill it in right there, standing up."
+  },
+  {
+   "s": "Me pone un sello y me dice que vuelva.",
+   "e": "He stamps it and tells me to come back."
+  },
+  {
+   "s": "\"¿Cuándo vuelvo?\", pregunto yo.",
+   "e": "\"When do I come back?\" I ask."
+  },
+  {
+   "s": "\"En quince días\", dice él.",
+   "e": "\"In fifteen days,\" he says."
+  },
+  {
+   "s": "Tres días para entregar unos papeles.",
+   "e": "Three days to hand in some papers."
+  },
+  {
+   "s": "Y quince más de espera.",
+   "e": "And fifteen more of waiting."
+  },
+  {
+   "s": "Doña Carmen me lo explica en la noche.",
+   "e": "Doña Carmen explains it to me at night."
+  },
+  {
+   "s": "\"Aquí el trámite no es el papel.\"",
+   "e": "\"Here the paperwork isn't the paper.\""
+  },
+  {
+   "s": "\"El trámite es aguantar el trámite.\"",
+   "e": "\"The paperwork is putting up with the paperwork.\""
+  },
+  {
+   "s": "La gente aquí no se enoja con eso.",
+   "e": "People here do not get angry about it."
+  },
+  {
+   "s": "Se enojan una vez y después no.",
+   "e": "They get angry once and then they stop."
+  },
+  {
+   "s": "Porque enojarse no adelanta la fila.",
+   "e": "Because getting angry does not move the queue."
+  }
+ ]
+}

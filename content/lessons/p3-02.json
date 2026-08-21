@@ -1,0 +1,208 @@
+{
+ "id": "p3-02",
+ "title": "El recibo",
+ "desc": "A bill that is wrong",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "recibo"
+ ],
+ "sn": [
+  {
+   "s": "El primer recibo de la luz me asusta.",
+   "e": "The first electricity bill frightens me."
+  },
+  {
+   "s": "Dice que debo mil ochocientos córdobas.",
+   "e": "It says I owe one thousand eight hundred córdobas."
+  },
+  {
+   "s": "Yo vivo solo en una casa chiquita.",
+   "e": "I live alone in a small house."
+  },
+  {
+   "s": "Tengo un abanico y tres bombillos.",
+   "e": "I have one fan and three light bulbs."
+  },
+  {
+   "s": "No puede ser tanto consumo.",
+   "e": "It cannot be that much consumption."
+  },
+  {
+   "s": "Le enseño el recibo a don Beto.",
+   "e": "I show the bill to don Beto."
+  },
+  {
+   "s": "Don Beto lo revisa despacio.",
+   "e": "Don Beto looks it over slowly."
+  },
+  {
+   "s": "\"Aquí hay un error\", dice él.",
+   "e": "\"There's a mistake here,\" he says."
+  },
+  {
+   "s": "\"Le están cobrando el mes de antes.\"",
+   "e": "\"They're charging you the month before.\""
+  },
+  {
+   "s": "El mes de antes yo no vivía ahí.",
+   "e": "The month before I did not live there."
+  },
+  {
+   "s": "Vivía todavía donde doña Carmen.",
+   "e": "I was still living at doña Carmen's."
+  },
+  {
+   "s": "Entonces me están cobrando lo del dueño.",
+   "e": "So they are charging me the owner's bill."
+  },
+  {
+   "s": "\"Hay que reclamar\", dice don Beto.",
+   "e": "\"You have to complain,\" don Beto says."
+  },
+  {
+   "s": "Vamos juntos a la oficina.",
+   "e": "We go to the office together."
+  },
+  {
+   "s": "Llegamos a las siete de la mañana.",
+   "e": "We arrive at seven in the morning."
+  },
+  {
+   "s": "Ya hay una fila de treinta personas.",
+   "e": "There is already a queue of thirty people."
+  },
+  {
+   "s": "Todos van a reclamar algo.",
+   "e": "They are all going to complain about something."
+  },
+  {
+   "s": "Esperamos dos horas en la fila.",
+   "e": "We wait two hours in the queue."
+  },
+  {
+   "s": "Don Beto no se molesta por la espera.",
+   "e": "Don Beto is not bothered by the wait."
+  },
+  {
+   "s": "Habla con la gente de la fila.",
+   "e": "He talks to the people in the queue."
+  },
+  {
+   "s": "Al final llegamos a la ventanilla.",
+   "e": "Finally we get to the window."
+  },
+  {
+   "s": "Yo empiezo a hablar rápido y enojado.",
+   "e": "I start talking fast and annoyed."
+  },
+  {
+   "s": "\"Este recibo está mal. Yo no debo eso.\"",
+   "e": "\"This bill is wrong. I don't owe that.\""
+  },
+  {
+   "s": "La señora de la ventanilla se pone dura.",
+   "e": "The woman at the window goes hard."
+  },
+  {
+   "s": "\"El sistema dice lo que dice\", contesta.",
+   "e": "\"The system says what it says,\" she answers."
+  },
+  {
+   "s": "Y ahí ya no avanzo nada.",
+   "e": "And from there I get nowhere."
+  },
+  {
+   "s": "Don Beto me toca el brazo.",
+   "e": "Don Beto touches my arm."
+  },
+  {
+   "s": "Y empieza a hablar él.",
+   "e": "And he starts talking instead."
+  },
+  {
+   "s": "\"Buenas, seño. Disculpe la molestia.\"",
+   "e": "\"Buenas, señorita. Sorry to trouble you.\""
+  },
+  {
+   "s": "\"Fíjese que tenemos un problemita.\"",
+   "e": "\"The thing is, we've got a small problem.\""
+  },
+  {
+   "s": "Habla despacio y con calma.",
+   "e": "He talks slowly and calmly."
+  },
+  {
+   "s": "No dice que ella está mal.",
+   "e": "He does not say she is wrong."
+  },
+  {
+   "s": "Dice que hay un problema, de nadie.",
+   "e": "He says there is a problem, nobody's fault."
+  },
+  {
+   "s": "La señora se ablanda enseguida.",
+   "e": "The woman softens straight away."
+  },
+  {
+   "s": "Revisa el recibo otra vez.",
+   "e": "She checks the bill again."
+  },
+  {
+   "s": "Después revisa algo en la computadora.",
+   "e": "Then she checks something on the computer."
+  },
+  {
+   "s": "\"Ah, sí. Aquí está el problema\", dice ella.",
+   "e": "\"Ah, yes. Here's the problem,\" she says."
+  },
+  {
+   "s": "En diez minutos lo arregla.",
+   "e": "In ten minutes she sorts it out."
+  },
+  {
+   "s": "Me hace un recibo nuevo por doscientos.",
+   "e": "She makes me a new bill for two hundred."
+  },
+  {
+   "s": "Doscientos, no mil ochocientos.",
+   "e": "Two hundred, not one thousand eight hundred."
+  },
+  {
+   "s": "Salimos y yo no entiendo qué pasó.",
+   "e": "We come out and I do not understand what happened."
+  },
+  {
+   "s": "\"Yo dije lo mismo que usted\", digo yo.",
+   "e": "\"I said the same thing you did,\" I say."
+  },
+  {
+   "s": "\"No\", dice don Beto. \"Usted la culpó.\"",
+   "e": "\"No,\" don Beto says. \"You blamed her.\""
+  },
+  {
+   "s": "\"Yo le pedí ayuda.\"",
+   "e": "\"I asked her for help.\""
+  },
+  {
+   "s": "Esa es toda la diferencia.",
+   "e": "That is the whole difference."
+  },
+  {
+   "s": "Aquí uno no reclama contra la persona.",
+   "e": "Here you do not complain against the person."
+  },
+  {
+   "s": "Uno le pide a la persona que le ayude.",
+   "e": "You ask the person to help you."
+  },
+  {
+   "s": "Aunque la persona sea la del error.",
+   "e": "Even if that person is the one who made the mistake."
+  },
+  {
+   "s": "Esa es la puerta y hay que tocarla bien.",
+   "e": "That is the door and you have to knock properly."
+  }
+ ]
+}

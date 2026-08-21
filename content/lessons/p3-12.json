@@ -1,0 +1,209 @@
+{
+ "id": "p3-12",
+ "title": "Tuve un problema",
+ "desc": "Explaining what went wrong",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "bus",
+  "perdón"
+ ],
+ "sn": [
+  {
+   "s": "Un jueves llego tarde al trabajo.",
+   "e": "One Thursday I arrive late at work."
+  },
+  {
+   "s": "Llego una hora y media tarde.",
+   "e": "I arrive an hour and a half late."
+  },
+  {
+   "s": "Tuve un problema en el camino.",
+   "e": "I had a problem on the way."
+  },
+  {
+   "s": "El bus se descompuso a mitad de camino.",
+   "e": "The bus broke down halfway."
+  },
+  {
+   "s": "Yo llego y empiezo a explicar rápido.",
+   "e": "I arrive and start explaining fast."
+  },
+  {
+   "s": "\"Perdón, el bus se descompuso.\"",
+   "e": "\"Sorry, the bus broke down.\""
+  },
+  {
+   "s": "Y me pongo a trabajar enseguida.",
+   "e": "And I get straight to work."
+  },
+  {
+   "s": "Marcos me para.",
+   "e": "Marcos stops me."
+  },
+  {
+   "s": "\"Contá bien\", dice él.",
+   "e": "\"Tell it properly,\" he says."
+  },
+  {
+   "s": "Yo pienso que no hay tiempo para contar.",
+   "e": "I think there is no time to tell it."
+  },
+  {
+   "s": "Marcos piensa lo contrario.",
+   "e": "Marcos thinks the opposite."
+  },
+  {
+   "s": "Entonces cuento la historia entera.",
+   "e": "So I tell the whole story."
+  },
+  {
+   "s": "Cuento que salí a las seis y cuarto.",
+   "e": "I tell them I left at quarter past six."
+  },
+  {
+   "s": "Cuento que tomé la ruta de siempre.",
+   "e": "I tell them I took the usual ruta."
+  },
+  {
+   "s": "Cuento que el bus iba lleno.",
+   "e": "I tell them the bus was full."
+  },
+  {
+   "s": "Cuento que a mitad de camino sonó feo.",
+   "e": "I tell them halfway it made an ugly noise."
+  },
+  {
+   "s": "Cuento que salió humo del motor.",
+   "e": "I tell them smoke came out of the engine."
+  },
+  {
+   "s": "Cuento que nos bajaron a todos.",
+   "e": "I tell them they made us all get off."
+  },
+  {
+   "s": "Cuento que esperamos otro bus media hora.",
+   "e": "I tell them we waited half an hour for another bus."
+  },
+  {
+   "s": "Cuento que ese bus también iba lleno.",
+   "e": "I tell them that bus was full too."
+  },
+  {
+   "s": "Y cuento que al final vine a pie diez cuadras.",
+   "e": "And I tell them that in the end I walked ten blocks."
+  },
+  {
+   "s": "Marcos escucha todo.",
+   "e": "Marcos listens to all of it."
+  },
+  {
+   "s": "El jefe también, desde la puerta.",
+   "e": "So does the boss, from the doorway."
+  },
+  {
+   "s": "Cuando termino, el jefe dice una cosa.",
+   "e": "When I finish, the boss says one thing."
+  },
+  {
+   "s": "\"Qué jodido\", dice él.",
+   "e": "\"What a pain,\" he says."
+  },
+  {
+   "s": "Y se va.",
+   "e": "And he leaves."
+  },
+  {
+   "s": "Y ya está, no pasó nada más.",
+   "e": "And that is it, nothing else happened."
+  },
+  {
+   "s": "Marcos me explica después.",
+   "e": "Marcos explains it to me afterwards."
+  },
+  {
+   "s": "\"Si contás corto, parece excusa.\"",
+   "e": "\"If you tell it short, it sounds like an excuse.\""
+  },
+  {
+   "s": "\"Si contás todo, es una historia.\"",
+   "e": "\"If you tell it all, it's a story.\""
+  },
+  {
+   "s": "Y una historia se cree.",
+   "e": "And a story gets believed."
+  },
+  {
+   "s": "Una excusa no se cree nunca.",
+   "e": "An excuse is never believed."
+  },
+  {
+   "s": "La diferencia no es la verdad.",
+   "e": "The difference is not the truth."
+  },
+  {
+   "s": "Las dos veces fue verdad.",
+   "e": "Both times it was true."
+  },
+  {
+   "s": "La diferencia es el tiempo que uno da.",
+   "e": "The difference is the time you give it."
+  },
+  {
+   "s": "Contar largo es tratar bien al otro.",
+   "e": "Telling it at length is treating the other person well."
+  },
+  {
+   "s": "Contar corto es como decir no importa.",
+   "e": "Telling it short is like saying it does not matter."
+  },
+  {
+   "s": "Aquí también importa de quién es la culpa.",
+   "e": "Here whose fault it is matters too."
+  },
+  {
+   "s": "Yo dije perdón, como si fuera mi culpa.",
+   "e": "I said sorry, as if it were my fault."
+  },
+  {
+   "s": "El bus no es culpa mía.",
+   "e": "The bus is not my fault."
+  },
+  {
+   "s": "Pedir perdón por eso confunde.",
+   "e": "Apologising for that confuses things."
+  },
+  {
+   "s": "Se pide perdón por lo que uno hizo.",
+   "e": "You apologise for what you did."
+  },
+  {
+   "s": "Por lo otro se cuenta lo que pasó.",
+   "e": "For the rest you tell what happened."
+  },
+  {
+   "s": "El mes siguiente vuelvo a llegar tarde.",
+   "e": "The next month I am late again."
+  },
+  {
+   "s": "Esta vez me quedé dormido.",
+   "e": "This time I overslept."
+  },
+  {
+   "s": "Esa vez sí fue culpa mía.",
+   "e": "That time it really was my fault."
+  },
+  {
+   "s": "Y esa vez sí pido perdón, sin historia.",
+   "e": "And that time I do apologise, with no story."
+  },
+  {
+   "s": "El jefe me mira y dice que está bien.",
+   "e": "The boss looks at me and says all right."
+  },
+  {
+   "s": "Las dos cosas se dicen distinto.",
+   "e": "The two things are said differently."
+  }
+ ]
+}

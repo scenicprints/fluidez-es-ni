@@ -1,0 +1,201 @@
+{
+ "id": "p3-09",
+ "title": "La quincena",
+ "desc": "Money arrives twice a month and leaves faster",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "quincena",
+  "semana"
+ ],
+ "sn": [
+  {
+   "s": "El quince y el treinta son días distintos.",
+   "e": "The fifteenth and the thirtieth are different days."
+  },
+  {
+   "s": "Esos días se paga la quincena.",
+   "e": "On those days the fortnightly wage is paid."
+  },
+  {
+   "s": "Y toda la ciudad cambia esos días.",
+   "e": "And the whole city changes on those days."
+  },
+  {
+   "s": "El mercado se llena.",
+   "e": "The market fills up."
+  },
+  {
+   "s": "Las pulperías venden el doble.",
+   "e": "The pulperías sell twice as much."
+  },
+  {
+   "s": "Las fritangas tienen fila hasta la esquina.",
+   "e": "The fritangas have queues to the corner."
+  },
+  {
+   "s": "Los buses van más llenos.",
+   "e": "The buses are fuller."
+  },
+  {
+   "s": "Todo el mundo tiene plata el mismo día.",
+   "e": "Everybody has money on the same day."
+  },
+  {
+   "s": "Yo recibo mi sobre a las cinco.",
+   "e": "I get my envelope at five."
+  },
+  {
+   "s": "Adentro está el efectivo, contado.",
+   "e": "Inside is the cash, counted."
+  },
+  {
+   "s": "Lo cuento otra vez delante del jefe.",
+   "e": "I count it again in front of the boss."
+  },
+  {
+   "s": "Eso no ofende, eso se hace.",
+   "e": "That is not offensive, it is what you do."
+  },
+  {
+   "s": "El primer día de quincena gasto rápido.",
+   "e": "On the first day of the quincena I spend fast."
+  },
+  {
+   "s": "Pago el alquiler.",
+   "e": "I pay the rent."
+  },
+  {
+   "s": "Pago la luz y el agua.",
+   "e": "I pay the electricity and the water."
+  },
+  {
+   "s": "Compro lo del mes en el mercado.",
+   "e": "I buy the month's food at the market."
+  },
+  {
+   "s": "Y me queda menos de lo que pensaba.",
+   "e": "And I have less left than I thought."
+  },
+  {
+   "s": "Marcos me ve contando en el trabajo.",
+   "e": "Marcos sees me counting at work."
+  },
+  {
+   "s": "\"¿Ya se te acabó?\", pregunta él.",
+   "e": "\"Run out already?\" he asks."
+  },
+  {
+   "s": "\"Casi\", digo yo.",
+   "e": "\"Nearly,\" I say."
+  },
+  {
+   "s": "\"Bienvenido a la quincena\", dice él.",
+   "e": "\"Welcome to the quincena,\" he says."
+  },
+  {
+   "s": "Marcos tiene cuatro hijos.",
+   "e": "Marcos has four children."
+  },
+  {
+   "s": "Marcos gana lo mismo que yo.",
+   "e": "Marcos earns the same as me."
+  },
+  {
+   "s": "Con eso comen seis personas.",
+   "e": "Six people eat on that."
+  },
+  {
+   "s": "Yo no sé cómo lo hace.",
+   "e": "I do not know how he does it."
+  },
+  {
+   "s": "Se lo pregunto un día.",
+   "e": "I ask him one day."
+  },
+  {
+   "s": "\"Uno se aprieta\", dice él.",
+   "e": "\"You tighten up,\" he says."
+  },
+  {
+   "s": "\"Y la última semana se come frijoles.\"",
+   "e": "\"And the last week you eat beans.\""
+  },
+  {
+   "s": "Lo dice sin drama, como un dato.",
+   "e": "He says it without drama, like a fact."
+  },
+  {
+   "s": "La última semana antes de la quincena es dura.",
+   "e": "The last week before the quincena is hard."
+  },
+  {
+   "s": "En esa semana nadie invita a nada.",
+   "e": "That week nobody invites anybody to anything."
+  },
+  {
+   "s": "En esa semana no hay fritanga.",
+   "e": "That week there is no fritanga."
+  },
+  {
+   "s": "En esa semana se fía en la pulpería.",
+   "e": "That week you buy on tick at the pulpería."
+  },
+  {
+   "s": "Doña Chepa apunta lo que uno debe.",
+   "e": "Doña Chepa writes down what you owe."
+  },
+  {
+   "s": "Lo apunta en un cuaderno viejo.",
+   "e": "She writes it in an old notebook."
+  },
+  {
+   "s": "Y uno paga el día de la quincena.",
+   "e": "And you pay on the day of the quincena."
+  },
+  {
+   "s": "Ese cuaderno tiene media calle adentro.",
+   "e": "That notebook has half the street inside it."
+  },
+  {
+   "s": "Yo también me hago apuntar un día.",
+   "e": "I get myself written down one day too."
+  },
+  {
+   "s": "Me da pena la primera vez.",
+   "e": "I am embarrassed the first time."
+  },
+  {
+   "s": "Doña Chepa ni levanta la cabeza.",
+   "e": "Doña Chepa does not even look up."
+  },
+  {
+   "s": "Para ella es lo más normal del mundo.",
+   "e": "For her it is the most normal thing in the world."
+  },
+  {
+   "s": "Y ahí entiendo algo del dinero aquí.",
+   "e": "And that is when I understand something about money here."
+  },
+  {
+   "s": "Aquí la plata no se guarda.",
+   "e": "Here money is not saved."
+  },
+  {
+   "s": "Aquí la plata se mueve.",
+   "e": "Here money moves."
+  },
+  {
+   "s": "Entra el quince y sale el diecisiete.",
+   "e": "It comes in on the fifteenth and goes out on the seventeenth."
+  },
+  {
+   "s": "Y lo que la sostiene no es el banco.",
+   "e": "And what holds it up is not the bank."
+  },
+  {
+   "s": "Es el cuaderno de doña Chepa.",
+   "e": "It is doña Chepa's notebook."
+  }
+ ]
+}

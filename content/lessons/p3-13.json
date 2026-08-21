@@ -1,0 +1,198 @@
+{
+ "id": "p3-13",
+ "title": "Cuidado",
+ "desc": "Safety, and how people talk about it",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "caminar",
+  "noche",
+  "ahí"
+ ],
+ "sn": [
+  {
+   "s": "Nadie me habla de peligro con miedo.",
+   "e": "Nobody talks to me about danger fearfully."
+  },
+  {
+   "s": "Me hablan con instrucciones.",
+   "e": "They talk to me with instructions."
+  },
+  {
+   "s": "Doña Carmen me dio la primera lista.",
+   "e": "Doña Carmen gave me the first list."
+  },
+  {
+   "s": "\"No saque el celular en la calle.\"",
+   "e": "\"Don't get your phone out in the street.\""
+  },
+  {
+   "s": "\"No camine solo por ahí de noche.\"",
+   "e": "\"Don't walk alone round there at night.\""
+  },
+  {
+   "s": "\"No cargue mucha plata.\"",
+   "e": "\"Don't carry a lot of money.\""
+  },
+  {
+   "s": "Son reglas, no advertencias.",
+   "e": "They are rules, not warnings."
+  },
+  {
+   "s": "Reglas que todo el mundo sigue.",
+   "e": "Rules everybody follows."
+  },
+  {
+   "s": "Roberto guarda el celular en el calcetín.",
+   "e": "Roberto keeps his phone in his sock."
+  },
+  {
+   "s": "Doña Carmen guarda la plata en el sostén.",
+   "e": "Doña Carmen keeps her money in her bra."
+  },
+  {
+   "s": "Don Beto no sale con el reloj bueno.",
+   "e": "Don Beto does not go out with the good watch."
+  },
+  {
+   "s": "Nadie hace drama de nada de eso.",
+   "e": "Nobody makes a drama of any of it."
+  },
+  {
+   "s": "Es como ponerse el cinturón.",
+   "e": "It is like putting on a seatbelt."
+  },
+  {
+   "s": "Hay zonas donde uno no camina de noche.",
+   "e": "There are areas where you do not walk at night."
+  },
+  {
+   "s": "Y hay zonas donde uno camina tranquilo.",
+   "e": "And there are areas where you walk calmly."
+  },
+  {
+   "s": "La diferencia son dos cuadras a veces.",
+   "e": "The difference is two blocks sometimes."
+  },
+  {
+   "s": "Yo no las sé leer todavía.",
+   "e": "I still cannot read them."
+  },
+  {
+   "s": "Entonces pregunto siempre antes de ir.",
+   "e": "So I always ask before going."
+  },
+  {
+   "s": "\"¿Se puede caminar por ahí de noche?\"",
+   "e": "\"Can you walk round there at night?\""
+  },
+  {
+   "s": "Y la gente contesta directo.",
+   "e": "And people answer straight."
+  },
+  {
+   "s": "\"Ahí sí.\" \"Ahí no.\" \"Ahí en taxi.\"",
+   "e": "\"There yes.\" \"There no.\" \"There by taxi.\""
+  },
+  {
+   "s": "Nadie se ofende por la pregunta.",
+   "e": "Nobody is offended by the question."
+  },
+  {
+   "s": "Todos prefieren que uno pregunte.",
+   "e": "Everybody would rather you asked."
+  },
+  {
+   "s": "Una noche vuelvo tarde del trabajo.",
+   "e": "One night I come back late from work."
+  },
+  {
+   "s": "Son las nueve y voy caminando.",
+   "e": "It is nine and I am walking."
+  },
+  {
+   "s": "Voy por una calle que no conozco bien.",
+   "e": "I go down a street I do not know well."
+  },
+  {
+   "s": "Un señor me habla desde una puerta.",
+   "e": "A man calls to me from a doorway."
+  },
+  {
+   "s": "\"Joven\", me dice. \"Por ahí no.\"",
+   "e": "\"Young man,\" he says. \"Not that way.\""
+  },
+  {
+   "s": "Yo me paro.",
+   "e": "I stop."
+  },
+  {
+   "s": "\"Dese la vuelta y vaya por la otra.\"",
+   "e": "\"Turn round and go the other way.\""
+  },
+  {
+   "s": "Yo no lo conozco de nada.",
+   "e": "I do not know him at all."
+  },
+  {
+   "s": "Le hago caso igual.",
+   "e": "I do what he says anyway."
+  },
+  {
+   "s": "Doy la vuelta y voy por la otra calle.",
+   "e": "I turn round and go the other way."
+  },
+  {
+   "s": "Nunca supe qué había en esa calle.",
+   "e": "I never found out what was on that street."
+  },
+  {
+   "s": "Y no hace falta saberlo.",
+   "e": "And I do not need to know."
+  },
+  {
+   "s": "Le cuento a don Beto al otro día.",
+   "e": "I tell don Beto the next day."
+  },
+  {
+   "s": "\"Hizo bien\", dice él.",
+   "e": "\"You did right,\" he says."
+  },
+  {
+   "s": "\"Aquí uno se cuida entre todos.\"",
+   "e": "\"Here people look out for each other.\""
+  },
+  {
+   "s": "Eso también es la calle.",
+   "e": "That is the street too."
+  },
+  {
+   "s": "La calle mira y la calle avisa.",
+   "e": "The street watches and the street warns."
+  },
+  {
+   "s": "Los que están sentados afuera ven todo.",
+   "e": "The ones sitting outside see everything."
+  },
+  {
+   "s": "Y por eso mismo la calle es más segura.",
+   "e": "And for that very reason the street is safer."
+  },
+  {
+   "s": "Una calle con gente afuera es una calle buena.",
+   "e": "A street with people outside is a good street."
+  },
+  {
+   "s": "Una calle vacía en la noche no lo es.",
+   "e": "An empty street at night is not."
+  },
+  {
+   "s": "Ahora yo también me siento afuera.",
+   "e": "Now I sit outside too."
+  },
+  {
+   "s": "Y ahora yo también aviso a la gente.",
+   "e": "And now I warn people too."
+  }
+ ]
+}

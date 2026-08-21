@@ -1,0 +1,196 @@
+{
+ "id": "p3-11",
+ "title": "El mecánico",
+ "desc": "Something is broken and you cannot name it",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "abanico"
+ ],
+ "sn": [
+  {
+   "s": "Se me descompuso el abanico.",
+   "e": "My fan broke."
+  },
+  {
+   "s": "Hace un ruido feo y da vueltas despacio.",
+   "e": "It makes an ugly noise and turns slowly."
+  },
+  {
+   "s": "En mi país yo compraba otro.",
+   "e": "In my country I would have bought another."
+  },
+  {
+   "s": "Aquí eso no se hace.",
+   "e": "Here that is not done."
+  },
+  {
+   "s": "Aquí las cosas se componen.",
+   "e": "Here things get fixed."
+  },
+  {
+   "s": "Don Beto me manda donde un señor.",
+   "e": "Don Beto sends me to a man."
+  },
+  {
+   "s": "El taller del señor es su patio.",
+   "e": "The man's workshop is his patio."
+  },
+  {
+   "s": "En el patio hay cosas viejas por todos lados.",
+   "e": "In the patio there are old things everywhere."
+  },
+  {
+   "s": "Hay radios, abanicos, licuadoras.",
+   "e": "There are radios, fans, blenders."
+  },
+  {
+   "s": "Todo está descompuesto y todo va a servir.",
+   "e": "Everything is broken and everything is going to be useful."
+  },
+  {
+   "s": "Le enseño el abanico al señor.",
+   "e": "I show the fan to the man."
+  },
+  {
+   "s": "\"¿Qué le hace?\", pregunta él.",
+   "e": "\"What's it doing?\" he asks."
+  },
+  {
+   "s": "Yo no sé la palabra técnica.",
+   "e": "I do not know the technical word."
+  },
+  {
+   "s": "Entonces hago el ruido con la boca.",
+   "e": "So I make the noise with my mouth."
+  },
+  {
+   "s": "El señor asiente enseguida.",
+   "e": "The man nods straight away."
+  },
+  {
+   "s": "\"Ya sé qué es\", dice él.",
+   "e": "\"I know what that is,\" he says."
+  },
+  {
+   "s": "Abre el abanico en la mesa.",
+   "e": "He opens the fan up on the table."
+  },
+  {
+   "s": "Saca una pieza chiquita.",
+   "e": "He takes out a small part."
+  },
+  {
+   "s": "La pieza está quebrada por la mitad.",
+   "e": "The part is broken in half."
+  },
+  {
+   "s": "\"¿Tiene repuesto?\", pregunto yo.",
+   "e": "\"Do you have a spare?\" I ask."
+  },
+  {
+   "s": "El señor se ríe.",
+   "e": "The man laughs."
+  },
+  {
+   "s": "\"¿Repuesto de esto? No hay.\"",
+   "e": "\"A spare for this? There isn't one.\""
+  },
+  {
+   "s": "\"Pero se suelda\", dice él.",
+   "e": "\"But it can be welded,\" he says."
+  },
+  {
+   "s": "Y la suelda con un fierro caliente.",
+   "e": "And he welds it with a hot iron."
+  },
+  {
+   "s": "Tarda veinte minutos.",
+   "e": "It takes him twenty minutes."
+  },
+  {
+   "s": "Prueba el abanico y funciona.",
+   "e": "He tests the fan and it works."
+  },
+  {
+   "s": "Funciona mejor que antes.",
+   "e": "It works better than before."
+  },
+  {
+   "s": "\"¿Cuánto le debo?\", pregunto.",
+   "e": "\"How much do I owe you?\" I ask."
+  },
+  {
+   "s": "\"Cincuenta\", dice él.",
+   "e": "\"Fifty,\" he says."
+  },
+  {
+   "s": "Cincuenta córdobas.",
+   "e": "Fifty córdobas."
+  },
+  {
+   "s": "Un abanico nuevo cuesta mil doscientos.",
+   "e": "A new fan costs one thousand two hundred."
+  },
+  {
+   "s": "Le pago cincuenta y le doy las gracias.",
+   "e": "I pay him fifty and thank him."
+  },
+  {
+   "s": "Camino a la casa pensando en eso.",
+   "e": "I walk home thinking about it."
+  },
+  {
+   "s": "En mi país esa pieza no se puede comprar.",
+   "e": "In my country that part cannot be bought."
+  },
+  {
+   "s": "Y sin esa pieza el abanico es basura.",
+   "e": "And without that part the fan is rubbish."
+  },
+  {
+   "s": "Aquí no hay repuesto tampoco.",
+   "e": "Here there is no spare either."
+  },
+  {
+   "s": "Pero hay un señor que suelda.",
+   "e": "But there is a man who welds."
+  },
+  {
+   "s": "Después le llevo otras cosas.",
+   "e": "Later I take him other things."
+  },
+  {
+   "s": "Le llevo un radio que no prende.",
+   "e": "I take him a radio that will not turn on."
+  },
+  {
+   "s": "Le llevo una plancha quemada.",
+   "e": "I take him a burnt iron."
+  },
+  {
+   "s": "Compone las dos cosas.",
+   "e": "He fixes both."
+  },
+  {
+   "s": "Un día le pregunto dónde aprendió.",
+   "e": "One day I ask him where he learned."
+  },
+  {
+   "s": "\"Aquí uno aprende porque no queda de otra.\"",
+   "e": "\"Here you learn because there's no other way.\""
+  },
+  {
+   "s": "Esa frase la oigo mucho después.",
+   "e": "I hear that phrase a lot afterwards."
+  },
+  {
+   "s": "No queda de otra.",
+   "e": "There is no other way."
+  },
+  {
+   "s": "Y de ahí sale la mitad de lo que se hace aquí.",
+   "e": "And half of what gets done here comes from that."
+  }
+ ]
+}

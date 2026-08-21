@@ -1,0 +1,198 @@
+{
+ "id": "p3-10",
+ "title": "Me prestás",
+ "desc": "Being asked for money",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "prestar",
+  "plata",
+  "esa"
+ ],
+ "sn": [
+  {
+   "s": "Un compañero del trabajo me pide plata.",
+   "e": "A workmate asks me for money."
+  },
+  {
+   "s": "Me pide quinientos córdobas prestados.",
+   "e": "He asks me to lend him five hundred córdobas."
+  },
+  {
+   "s": "Dice que se los devuelve la quincena.",
+   "e": "He says he will pay me back on payday."
+  },
+  {
+   "s": "Yo no sé qué hacer.",
+   "e": "I do not know what to do."
+  },
+  {
+   "s": "En mi país prestar plata a un compañero es raro.",
+   "e": "In my country lending money to a workmate is odd."
+  },
+  {
+   "s": "Aquí no es raro.",
+   "e": "Here it is not odd."
+  },
+  {
+   "s": "Aquí es lo normal cuando hay un apuro.",
+   "e": "Here it is normal when somebody is in a tight spot."
+  },
+  {
+   "s": "Le presto los quinientos.",
+   "e": "I lend him the five hundred."
+  },
+  {
+   "s": "La quincena llega y no me dice nada.",
+   "e": "Payday comes and he says nothing to me."
+  },
+  {
+   "s": "Pasa una semana más.",
+   "e": "Another week goes by."
+  },
+  {
+   "s": "Yo no sé si preguntar o esperar.",
+   "e": "I do not know whether to ask or wait."
+  },
+  {
+   "s": "Le pregunto a Marcos qué se hace.",
+   "e": "I ask Marcos what you do."
+  },
+  {
+   "s": "Marcos piensa antes de contestar.",
+   "e": "Marcos thinks before answering."
+  },
+  {
+   "s": "\"¿Cuánto fue?\", pregunta él.",
+   "e": "\"How much was it?\" he asks."
+  },
+  {
+   "s": "\"Quinientos.\"",
+   "e": "\"Five hundred.\""
+  },
+  {
+   "s": "\"¿Y él cómo anda?\"",
+   "e": "\"And how's he doing?\""
+  },
+  {
+   "s": "Esa es la pregunta que importa.",
+   "e": "That is the question that matters."
+  },
+  {
+   "s": "No cuánto, sino cómo anda el otro.",
+   "e": "Not how much, but how the other person is doing."
+  },
+  {
+   "s": "Ese compañero tiene la mamá enferma.",
+   "e": "That workmate has a sick mother."
+  },
+  {
+   "s": "Está pagando medicina cada semana.",
+   "e": "He is paying for medicine every week."
+  },
+  {
+   "s": "Marcos me dice lo que se hace.",
+   "e": "Marcos tells me what you do."
+  },
+  {
+   "s": "\"No le pidás la plata.\"",
+   "e": "\"Don't ask him for the money.\""
+  },
+  {
+   "s": "\"Preguntale por su mamá.\"",
+   "e": "\"Ask him about his mother.\""
+  },
+  {
+   "s": "\"Él va a sacar el tema solo.\"",
+   "e": "\"He'll bring it up himself.\""
+  },
+  {
+   "s": "Lo hago así al otro día.",
+   "e": "I do it that way the next day."
+  },
+  {
+   "s": "Le pregunto por su mamá.",
+   "e": "I ask him about his mother."
+  },
+  {
+   "s": "Él me cuenta cómo va todo.",
+   "e": "He tells me how it is all going."
+  },
+  {
+   "s": "Y después saca el tema de la plata.",
+   "e": "And then he brings up the money."
+  },
+  {
+   "s": "\"Fíjese que todavía no puedo\", dice él.",
+   "e": "\"The thing is, I still can't,\" he says."
+  },
+  {
+   "s": "\"No hay problema\", digo yo.",
+   "e": "\"No problem,\" I say."
+  },
+  {
+   "s": "Y para mí no lo hay.",
+   "e": "And for me there is not."
+  },
+  {
+   "s": "Me devuelve los quinientos tres meses después.",
+   "e": "He pays me back the five hundred three months later."
+  },
+  {
+   "s": "Me los devuelve completos, un viernes.",
+   "e": "He pays it all back, on a Friday."
+  },
+  {
+   "s": "Y me invita una cerveza además.",
+   "e": "And he buys me a beer as well."
+  },
+  {
+   "s": "Esa cerveza cuesta más que el favor.",
+   "e": "That beer costs more than the favour."
+  },
+  {
+   "s": "Pero esa cerveza no es plata.",
+   "e": "But that beer is not money."
+  },
+  {
+   "s": "Esa cerveza es cerrar bien la cosa.",
+   "e": "That beer is closing it properly."
+  },
+  {
+   "s": "Después aprendo la otra regla.",
+   "e": "Later I learn the other rule."
+  },
+  {
+   "s": "No se presta lo que uno no puede perder.",
+   "e": "You do not lend what you cannot afford to lose."
+  },
+  {
+   "s": "Porque a veces no vuelve.",
+   "e": "Because sometimes it does not come back."
+  },
+  {
+   "s": "Y si no vuelve, no se puede reclamar mucho.",
+   "e": "And if it does not come back, you cannot make much of a fuss."
+  },
+  {
+   "s": "Reclamar plata rompe una amistad para siempre.",
+   "e": "Demanding money back breaks a friendship for good."
+  },
+  {
+   "s": "Entonces uno decide antes, no después.",
+   "e": "So you decide before, not after."
+  },
+  {
+   "s": "Uno decide cuánto puede regalar.",
+   "e": "You decide how much you could give away."
+  },
+  {
+   "s": "Y presta esa cantidad, no más.",
+   "e": "And you lend that amount, no more."
+  },
+  {
+   "s": "Así nadie pierde un amigo por plata.",
+   "e": "That way nobody loses a friend over money."
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "id": "p3-06",
+ "title": "No estoy de acuerdo",
+ "desc": "Disagreeing without wrecking the room",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "pensar"
+ ],
+ "sn": [
+  {
+   "s": "Un domingo se habla de política en el patio.",
+   "e": "One Sunday politics comes up in the patio."
+  },
+  {
+   "s": "Yo digo lo que pienso, directo.",
+   "e": "I say what I think, straight out."
+  },
+  {
+   "s": "Digo que no estoy de acuerdo.",
+   "e": "I say I do not agree."
+  },
+  {
+   "s": "Lo digo como se dice en mi país.",
+   "e": "I say it the way you say it in my country."
+  },
+  {
+   "s": "\"Eso no es cierto\", digo yo.",
+   "e": "\"That's not true,\" I say."
+  },
+  {
+   "s": "El patio se pone raro.",
+   "e": "The patio goes strange."
+  },
+  {
+   "s": "Nadie me contesta.",
+   "e": "Nobody answers me."
+  },
+  {
+   "s": "Cambian de tema en diez segundos.",
+   "e": "They change the subject in ten seconds."
+  },
+  {
+   "s": "Yo pensé que estaba discutiendo normal.",
+   "e": "I thought I was having a normal argument."
+  },
+  {
+   "s": "Para ellos yo dije algo feo.",
+   "e": "For them I said something ugly."
+  },
+  {
+   "s": "Roberto me explica después, afuera.",
+   "e": "Roberto explains it to me afterwards, outside."
+  },
+  {
+   "s": "\"No es lo que dijiste. Es cómo.\"",
+   "e": "\"It's not what you said. It's how.\""
+  },
+  {
+   "s": "Aquí no se dice eso no es cierto.",
+   "e": "Here you do not say that is not true."
+  },
+  {
+   "s": "Decir eso es decir que el otro miente.",
+   "e": "Saying that is saying the other person is lying."
+  },
+  {
+   "s": "Hay que llegar por otro lado.",
+   "e": "You have to come at it from another side."
+  },
+  {
+   "s": "Roberto me enseña las frases suaves.",
+   "e": "Roberto teaches me the soft phrases."
+  },
+  {
+   "s": "\"A mí me parece que...\"",
+   "e": "\"It seems to me that...\""
+  },
+  {
+   "s": "\"Yo lo veo distinto, fíjese.\"",
+   "e": "\"I see it differently, you know.\""
+  },
+  {
+   "s": "\"Puede ser, pero también...\"",
+   "e": "\"Could be, but also...\""
+  },
+  {
+   "s": "\"Sí, sí. Aunque yo pienso que...\"",
+   "e": "\"Yes, yes. Although I think that...\""
+  },
+  {
+   "s": "Todas empiezan dándole algo al otro.",
+   "e": "They all start by giving the other person something."
+  },
+  {
+   "s": "Primero se acepta un poco.",
+   "e": "First you accept a little."
+  },
+  {
+   "s": "Después se dice lo propio.",
+   "e": "Then you say your own thing."
+  },
+  {
+   "s": "El desacuerdo va al final y va suave.",
+   "e": "The disagreement goes at the end and goes gently."
+  },
+  {
+   "s": "En mi país eso parece débil.",
+   "e": "In my country that seems weak."
+  },
+  {
+   "s": "Aquí eso es hablar bien.",
+   "e": "Here that is speaking properly."
+  },
+  {
+   "s": "Al domingo siguiente lo intento.",
+   "e": "The next Sunday I try it."
+  },
+  {
+   "s": "Don Beto dice algo con lo que no estoy de acuerdo.",
+   "e": "Don Beto says something I do not agree with."
+  },
+  {
+   "s": "Yo espero a que termine.",
+   "e": "I wait for him to finish."
+  },
+  {
+   "s": "\"Puede ser\", digo yo.",
+   "e": "\"Could be,\" I say."
+  },
+  {
+   "s": "\"Aunque a mí me parece otra cosa.\"",
+   "e": "\"Although it seems different to me.\""
+  },
+  {
+   "s": "Y digo lo que pienso, entero.",
+   "e": "And I say what I think, in full."
+  },
+  {
+   "s": "Don Beto me escucha hasta el final.",
+   "e": "Don Beto listens to me right to the end."
+  },
+  {
+   "s": "Después dice que no está de acuerdo.",
+   "e": "Then he says he does not agree."
+  },
+  {
+   "s": "Y seguimos hablando media hora.",
+   "e": "And we go on talking for half an hour."
+  },
+  {
+   "s": "Nadie se enoja y nadie cambia de tema.",
+   "e": "Nobody gets annoyed and nobody changes the subject."
+  },
+  {
+   "s": "Al final no llegamos a nada.",
+   "e": "In the end we get nowhere."
+  },
+  {
+   "s": "Pero don Beto me da la mano.",
+   "e": "But don Beto shakes my hand."
+  },
+  {
+   "s": "\"Buena conversación\", dice él.",
+   "e": "\"Good conversation,\" he says."
+  },
+  {
+   "s": "Yo dije exactamente lo mismo que el otro domingo.",
+   "e": "I said exactly the same as the other Sunday."
+  },
+  {
+   "s": "Lo mismo, con otras cuatro palabras adelante.",
+   "e": "The same, with four other words in front of it."
+  },
+  {
+   "s": "Esas cuatro palabras son todo.",
+   "e": "Those four words are everything."
+  },
+  {
+   "s": "No son para esconder lo que uno piensa.",
+   "e": "They are not for hiding what you think."
+  },
+  {
+   "s": "Son para que el otro pueda oírlo.",
+   "e": "They are so the other person can hear it."
+  },
+  {
+   "s": "Un desacuerdo dicho de golpe no se oye.",
+   "e": "A disagreement said bluntly does not get heard."
+  },
+  {
+   "s": "Se siente, y se cierra la puerta.",
+   "e": "It gets felt, and the door closes."
+  }
+ ]
+}

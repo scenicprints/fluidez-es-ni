@@ -1,0 +1,218 @@
+{
+ "id": "p3-01",
+ "title": "Alquilando una casa",
+ "desc": "Your own place, and a contract you half understand",
+ "ph": 3,
+ "diff": 3,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Después de un año quiero mi propia casa.",
+   "e": "After a year I want my own place."
+  },
+  {
+   "s": "Doña Carmen no se pone contenta.",
+   "e": "Doña Carmen is not happy about it."
+  },
+  {
+   "s": "Pero entiende.",
+   "e": "But she understands."
+  },
+  {
+   "s": "\"Está bien, mijo. Pero cerca\", dice ella.",
+   "e": "\"That's all right, mijo. But close by,\" she says."
+  },
+  {
+   "s": "Don Beto conoce a un señor que alquila.",
+   "e": "Don Beto knows a man who rents places out."
+  },
+  {
+   "s": "El señor tiene una casa a tres cuadras.",
+   "e": "The man has a house three blocks away."
+  },
+  {
+   "s": "Vamos a verla un sábado.",
+   "e": "We go to see it on a Saturday."
+  },
+  {
+   "s": "La casa es chiquita.",
+   "e": "The house is small."
+  },
+  {
+   "s": "Tiene dos cuartos y una cocina.",
+   "e": "It has two rooms and a kitchen."
+  },
+  {
+   "s": "Tiene un patio atrás con una pila.",
+   "e": "It has a patio at the back with a pila."
+  },
+  {
+   "s": "El techo es de zinc.",
+   "e": "The roof is corrugated iron."
+  },
+  {
+   "s": "Con lluvia va a hacer un ruido tremendo.",
+   "e": "In the rain it is going to make a tremendous noise."
+  },
+  {
+   "s": "\"¿Cuánto es el alquiler?\", pregunto yo.",
+   "e": "\"How much is the rent?\" I ask."
+  },
+  {
+   "s": "\"Cuatro mil al mes\", dice el dueño.",
+   "e": "\"Four thousand a month,\" the owner says."
+  },
+  {
+   "s": "Don Beto hace una cara.",
+   "e": "Don Beto pulls a face."
+  },
+  {
+   "s": "\"Está caro para este barrio\", dice él.",
+   "e": "\"That's dear for this barrio,\" he says."
+  },
+  {
+   "s": "El dueño y don Beto hablan un rato.",
+   "e": "The owner and don Beto talk for a while."
+  },
+  {
+   "s": "Yo no digo nada, porque no me toca.",
+   "e": "I say nothing, because it is not my place."
+  },
+  {
+   "s": "Al final acuerdan tres mil quinientos.",
+   "e": "In the end they agree on three and a half thousand."
+  },
+  {
+   "s": "Después viene lo del depósito.",
+   "e": "Then comes the deposit."
+  },
+  {
+   "s": "El dueño quiere dos meses de depósito.",
+   "e": "The owner wants two months as a deposit."
+  },
+  {
+   "s": "Don Beto dice que uno.",
+   "e": "Don Beto says one."
+  },
+  {
+   "s": "Acuerdan uno y medio.",
+   "e": "They agree on one and a half."
+  },
+  {
+   "s": "\"¿Y el contrato?\", pregunto yo.",
+   "e": "\"And the contract?\" I ask."
+  },
+  {
+   "s": "El dueño me mira sin entender.",
+   "e": "The owner looks at me without understanding."
+  },
+  {
+   "s": "\"¿Cuál contrato?\", dice él.",
+   "e": "\"What contract?\" he says."
+  },
+  {
+   "s": "No hay papel y no hay que firmar nada.",
+   "e": "There is no paper and nothing to sign."
+  },
+  {
+   "s": "El acuerdo es lo que dijimos aquí.",
+   "e": "The agreement is what we said here."
+  },
+  {
+   "s": "Con don Beto de testigo.",
+   "e": "With don Beto as witness."
+  },
+  {
+   "s": "Eso me pone nervioso.",
+   "e": "That makes me nervous."
+  },
+  {
+   "s": "Yo quiero algo escrito.",
+   "e": "I want something in writing."
+  },
+  {
+   "s": "Don Beto me habla afuera.",
+   "e": "Don Beto talks to me outside."
+  },
+  {
+   "s": "\"Si pide papel, él va a pensar mal.\"",
+   "e": "\"If you ask for paper, he's going to think badly of you.\""
+  },
+  {
+   "s": "\"Va a pensar que usted no confía.\"",
+   "e": "\"He'll think you don't trust him.\""
+  },
+  {
+   "s": "\"¿Y si después dice otra cosa?\", pregunto.",
+   "e": "\"And if he says something different later?\" I ask."
+  },
+  {
+   "s": "\"Yo estuve aquí\", dice don Beto.",
+   "e": "\"I was here,\" don Beto says."
+  },
+  {
+   "s": "Y eso, aquí, es el contrato.",
+   "e": "And that, here, is the contract."
+  },
+  {
+   "s": "Le pago el depósito y me da las llaves.",
+   "e": "I pay him the deposit and he gives me the keys."
+  },
+  {
+   "s": "Son dos llaves en un alambre.",
+   "e": "It is two keys on a piece of wire."
+  },
+  {
+   "s": "Me mudo el domingo.",
+   "e": "I move in on the Sunday."
+  },
+  {
+   "s": "Roberto y dos primos me ayudan.",
+   "e": "Roberto and two cousins help me."
+  },
+  {
+   "s": "No tengo casi nada que mudar.",
+   "e": "I have almost nothing to move."
+  },
+  {
+   "s": "Una maleta, unos libros, un abanico.",
+   "e": "A suitcase, some books, a fan."
+  },
+  {
+   "s": "Doña Carmen me manda una olla y dos platos.",
+   "e": "Doña Carmen sends me a pot and two plates."
+  },
+  {
+   "s": "Me manda una silla y un balde.",
+   "e": "She sends me a chair and a bucket."
+  },
+  {
+   "s": "Y me manda comida hecha para tres días.",
+   "e": "And she sends me food cooked for three days."
+  },
+  {
+   "s": "La primera noche la casa suena rara.",
+   "e": "The first night the house sounds strange."
+  },
+  {
+   "s": "Es la primera vez que duermo solo aquí.",
+   "e": "It is the first time I sleep alone here."
+  },
+  {
+   "s": "Al otro día doña Carmen llega a las siete.",
+   "e": "The next day doña Carmen arrives at seven."
+  },
+  {
+   "s": "Llega con gallo pinto y con café.",
+   "e": "She arrives with gallo pinto and coffee."
+  },
+  {
+   "s": "\"Es que le queda cerca\", dice ella.",
+   "e": "\"It's just that it's close by,\" she says."
+  },
+  {
+   "s": "Y son tres cuadras.",
+   "e": "And it is three blocks."
+  }
+ ]
+}

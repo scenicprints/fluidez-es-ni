@@ -1,0 +1,208 @@
+{
+ "id": "p3-04",
+ "title": "Otra vez mañana",
+ "desc": "Being told to come back",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "volver"
+ ],
+ "sn": [
+  {
+   "s": "En la ventanilla la gente habla distinto.",
+   "e": "At the window people talk differently."
+  },
+  {
+   "s": "Yo oigo una manera de hablar que no conozco.",
+   "e": "I hear a way of talking that I do not know."
+  },
+  {
+   "s": "\"Necesito que me traiga otro papel.\"",
+   "e": "\"I need you to bring me another paper.\""
+  },
+  {
+   "s": "\"Quiere que vuelva mañana.\"",
+   "e": "\"He wants you to come back tomorrow.\""
+  },
+  {
+   "s": "\"Le pido que espere afuera.\"",
+   "e": "\"I'm asking you to wait outside.\""
+  },
+  {
+   "s": "Todos esos verbos suenan raros.",
+   "e": "All those verbs sound strange."
+  },
+  {
+   "s": "Traiga, no trae.",
+   "e": "Traiga, not trae."
+  },
+  {
+   "s": "Vuelva, no vuelve.",
+   "e": "Vuelva, not vuelve."
+  },
+  {
+   "s": "Espere, no espera.",
+   "e": "Espere, not espera."
+  },
+  {
+   "s": "Le pregunto a Roberto por eso.",
+   "e": "I ask Roberto about it."
+  },
+  {
+   "s": "Roberto no me sabe explicar.",
+   "e": "Roberto cannot explain it to me."
+  },
+  {
+   "s": "\"Así se dice\", dice él.",
+   "e": "\"That's how you say it,\" he says."
+  },
+  {
+   "s": "Después me doy cuenta del patrón.",
+   "e": "Later I notice the pattern."
+  },
+  {
+   "s": "El verbo cambia cuando uno quiere algo de otro.",
+   "e": "The verb changes when you want something from somebody else."
+  },
+  {
+   "s": "Yo vuelvo mañana: yo, seguro.",
+   "e": "Yo vuelvo mañana: me, certain."
+  },
+  {
+   "s": "Quiere que vuelva: él quiere, yo no sé.",
+   "e": "Quiere que vuelva: he wants it, I don't know."
+  },
+  {
+   "s": "Uno es un hecho.",
+   "e": "One is a fact."
+  },
+  {
+   "s": "El otro es algo que alguien quiere.",
+   "e": "The other is something somebody wants."
+  },
+  {
+   "s": "Y lo que alguien quiere puede no pasar.",
+   "e": "And what somebody wants may not happen."
+  },
+  {
+   "s": "Por eso el verbo se pone distinto.",
+   "e": "That is why the verb goes different."
+  },
+  {
+   "s": "Al principio yo lo digo todo mal.",
+   "e": "At first I say it all wrong."
+  },
+  {
+   "s": "\"Necesito que usted me ayuda.\"",
+   "e": "\"Necesito que usted me ayuda.\""
+  },
+  {
+   "s": "La señora me entiende igual.",
+   "e": "The woman understands me anyway."
+  },
+  {
+   "s": "Nadie me corrige.",
+   "e": "Nobody corrects me."
+  },
+  {
+   "s": "Pero yo oigo cómo lo dicen ellos.",
+   "e": "But I hear how they say it."
+  },
+  {
+   "s": "\"Necesito que me ayude.\"",
+   "e": "\"Necesito que me ayude.\""
+  },
+  {
+   "s": "Ayude, no ayuda.",
+   "e": "Ayude, not ayuda."
+  },
+  {
+   "s": "Empiezo a copiar sin entender.",
+   "e": "I start copying without understanding."
+  },
+  {
+   "s": "Copiar primero, entender después.",
+   "e": "Copy first, understand later."
+  },
+  {
+   "s": "Eso me sirve más que cualquier regla.",
+   "e": "That serves me better than any rule."
+  },
+  {
+   "s": "En la oficina lo uso por primera vez.",
+   "e": "At the office I use it for the first time."
+  },
+  {
+   "s": "\"Necesito que me diga qué falta.\"",
+   "e": "\"I need you to tell me what's missing.\""
+  },
+  {
+   "s": "Me sale bien y no lo pensé.",
+   "e": "It comes out right and I did not think about it."
+  },
+  {
+   "s": "El señor me contesta normal.",
+   "e": "The man answers me normally."
+  },
+  {
+   "s": "No se dio cuenta de nada.",
+   "e": "He did not notice anything."
+  },
+  {
+   "s": "Y eso es lo bueno.",
+   "e": "And that is the good part."
+  },
+  {
+   "s": "Cuando nadie nota cómo hablás, ya hablás.",
+   "e": "When nobody notices how you talk, you can talk."
+  },
+  {
+   "s": "Después empiezo a oírlo en todos lados.",
+   "e": "Then I start hearing it everywhere."
+  },
+  {
+   "s": "Doña Carmen lo usa todo el día.",
+   "e": "Doña Carmen uses it all day."
+  },
+  {
+   "s": "\"Quiero que coma antes de irse.\"",
+   "e": "\"I want you to eat before you go.\""
+  },
+  {
+   "s": "\"Ojalá que llueva esta semana.\"",
+   "e": "\"I hope it rains this week.\""
+  },
+  {
+   "s": "\"Espero que le vaya bien, mijo.\"",
+   "e": "\"I hope it goes well for you, mijo.\""
+  },
+  {
+   "s": "Todo lo que uno quiere y no controla.",
+   "e": "Everything you want and do not control."
+  },
+  {
+   "s": "Todo lo que uno espera.",
+   "e": "Everything you hope for."
+  },
+  {
+   "s": "Y en un país así, eso es mucho.",
+   "e": "And in a country like this, that is a lot."
+  },
+  {
+   "s": "Por eso se oye tanto.",
+   "e": "That is why you hear it so much."
+  },
+  {
+   "s": "Ojalá que sí.",
+   "e": "Ojalá que sí."
+  },
+  {
+   "s": "Ojalá que no.",
+   "e": "Ojalá que no."
+  },
+  {
+   "s": "Ojalá que Dios quiera.",
+   "e": "Ojalá que God wills it."
+  }
+ ]
+}
