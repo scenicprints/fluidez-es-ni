@@ -1,0 +1,109 @@
+{
+ "id": "sc55",
+ "title": "Otra vez mañana",
+ "desc": "Being told to come back, and coming back",
+ "setting": "Third day at the same office. The same woman, the same folder, a new missing paper.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Empleada",
+   "es": "Le falta la copia de la cédula.",
+   "en": "You are missing the copy of your ID card.",
+   "options": [
+    {
+     "es": "Ideay, si eso me lo pidieron ayer y aquí lo traje.",
+     "en": "Ideay, but they asked me for that yesterday and I brought it.",
+     "verdict": "good",
+     "feedback": "Ideay carries the frustration without an accusation in it. She can look again without losing face."
+    },
+    {
+     "es": "Yo la entregué ayer.",
+     "en": "I handed that in yesterday.",
+     "verdict": "ok",
+     "feedback": "True, and flat. It sounds like her word against yours, which is a fight you cannot win at a window."
+    },
+    {
+     "es": "Esta es la tercera vez que vengo.",
+     "en": "This is the third time I have come.",
+     "verdict": "bad",
+     "feedback": "She knows. Counting the trips out loud makes you the problem in the room."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleada",
+   "es": "Déjeme ver otra vez. ¿Cómo se llama usted?",
+   "en": "Let me look again. What is your name?",
+   "options": [
+    {
+     "es": "Con mucho gusto. Se lo deletreo.",
+     "en": "Gladly. I will spell it for you.",
+     "verdict": "good",
+     "feedback": "Foreign surnames get written wrong at every window in this country. Offering to spell it saves the fourth trip."
+    },
+    {
+     "es": "Me llamo como dice ahí.",
+     "en": "My name is what it says there.",
+     "verdict": "ok",
+     "feedback": "Unhelpful. If it is spelled wrong there, that is exactly the problem."
+    },
+    {
+     "es": "Ya se lo dije dos veces.",
+     "en": "I have already told you twice.",
+     "verdict": "bad",
+     "feedback": "You have, and saying so buys you nothing but a slower search."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleada",
+   "es": "Ah, aquí está. Estaba en otro expediente.",
+   "en": "Ah, here it is. It was in another file.",
+   "options": [
+    {
+     "es": "Qué bueno. Gracias por buscarlo.",
+     "en": "That is good. Thank you for looking.",
+     "verdict": "good",
+     "feedback": "She found her own office's mistake. Thanking her is cheap and it will be remembered."
+    },
+    {
+     "es": "Menos mal.",
+     "en": "Just as well.",
+     "verdict": "ok",
+     "feedback": "Honest relief. It also lands a little like an accusation."
+    },
+    {
+     "es": "Ya me lo imaginaba.",
+     "en": "I thought as much.",
+     "verdict": "bad",
+     "feedback": "Smug, and she is the person who has to stamp it."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleada",
+   "es": "Se lo entrego el viernes. Aquí a las nueve.",
+   "en": "I will hand it to you on Friday. Here at nine.",
+   "options": [
+    {
+     "es": "El viernes a las nueve. Aquí estaré.",
+     "en": "Friday at nine. I will be here.",
+     "verdict": "good",
+     "feedback": "Repeating the day and the time back is how an appointment becomes real. It also puts it on the record."
+    },
+    {
+     "es": "Bueno, gracias.",
+     "en": "All right, thank you.",
+     "verdict": "ok",
+     "feedback": "Accepted. Without repeating it back, Friday can quietly become the following week."
+    },
+    {
+     "es": "¿Y si no está listo?",
+     "en": "And what if it is not ready?",
+     "verdict": "bad",
+     "feedback": "You have just told her you expect her to fail. She will remember it on Friday."
+    }
+   ]
+  }
+ ]
+}

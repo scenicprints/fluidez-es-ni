@@ -1,0 +1,109 @@
+{
+ "id": "sc94",
+ "title": "Otro chele",
+ "desc": "Somebody arrives with the notebook you used to have",
+ "setting": "Tom has been in the country three months, speaks careful Spanish, and has just said tú to don Emilio.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Tom",
+   "es": "Le dije tú y él se dio la vuelta. ¿Hice algo mal?",
+   "en": "I said tú to him and he turned away. Did I do something wrong?",
+   "options": [
+    {
+     "es": "Aquí es vos, o usted. El tú suena a telenovela.",
+     "en": "Here it is vos, or usted. Tú sounds like a soap opera.",
+     "verdict": "good",
+     "feedback": "The rule and the reason it matters, in one line he will remember."
+    },
+    {
+     "es": "Sí, aquí se dice vos.",
+     "en": "Yes, here you say vos.",
+     "verdict": "ok",
+     "feedback": "Correct and thin. He will use vos with the boss tomorrow."
+    },
+    {
+     "es": "No te preocupés, ya se le pasa.",
+     "en": "Do not worry, he will get over it.",
+     "verdict": "bad",
+     "feedback": "He will. Tom will also do it again on Thursday."
+    }
+   ]
+  },
+  {
+   "speaker": "Tom",
+   "es": "¿Y cuál es la regla de cuándo va cada uno?",
+   "en": "And what is the rule for when each one goes?",
+   "options": [
+    {
+     "es": "No hay una regla. Hay como veinte y se aprenden oyendo.",
+     "en": "There is no rule. There are about twenty and you learn them by listening.",
+     "verdict": "good",
+     "feedback": "Honest, and it is the answer you were given. Inventing a rule would send him in the wrong direction for a year."
+    },
+    {
+     "es": "A los viejos usted, a los del taller vos.",
+     "en": "Usted to old people, vos to the workshop men.",
+     "verdict": "ok",
+     "feedback": "A useful first approximation that will fail him in about six places."
+    },
+    {
+     "es": "Con el tiempo te sale solo.",
+     "en": "With time it comes out on its own.",
+     "verdict": "bad",
+     "feedback": "True and useless today. Give him the two he needs this week."
+    }
+   ]
+  },
+  {
+   "speaker": "Tom",
+   "es": "Entonces el cuaderno no me sirve de nada.",
+   "en": "So the notebook is no use to me at all.",
+   "options": [
+    {
+     "es": "Sirve. A mí me sirvió. Pero lo otro se agarra estando.",
+     "en": "It is of use. It was to me. But the rest is picked up by being here.",
+     "verdict": "good",
+     "feedback": "You did not take his method away from him. You put it in its place, which is what somebody did for you."
+    },
+    {
+     "es": "No mucho, la verdad.",
+     "en": "Not much, honestly.",
+     "verdict": "ok",
+     "feedback": "Blunt. He has three months invested in that notebook."
+    },
+    {
+     "es": "Botalo. Eso no sirve.",
+     "en": "Throw it away. That is no use.",
+     "verdict": "bad",
+     "feedback": "You wrote refranes in one for a month. Do not tell him that."
+    }
+   ]
+  },
+  {
+   "speaker": "Tom",
+   "es": "(en diciembre, en tu portón) Gracias.",
+   "en": "(in December, at your gate) Thank you.",
+   "options": [
+    {
+     "es": "(quedarse hablando en el portón veinte minutos)",
+     "en": "(stay talking at the gate for twenty minutes)",
+     "verdict": "good",
+     "feedback": "He said thank you and did not leave, which means he is waiting for the goodbye to take its proper length. You are teaching him without saying a word."
+    },
+    {
+     "es": "De nada. Nos vemos el lunes.",
+     "en": "You are welcome. See you Monday.",
+     "verdict": "ok",
+     "feedback": "Kind and quick. Quick is the one thing a Nicaraguan goodbye is not."
+    },
+    {
+     "es": "Dale pues, cuidate.",
+     "en": "Right then, take care.",
+     "verdict": "bad",
+     "feedback": "The right words, thirty minutes early. He will learn to leave like a foreigner."
+    }
+   ]
+  }
+ ]
+}

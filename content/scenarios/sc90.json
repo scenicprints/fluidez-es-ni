@@ -1,0 +1,109 @@
+{
+ "id": "sc90",
+ "title": "El chiste que no explicaron",
+ "desc": "Laughing in real time, or not at all",
+ "setting": "A birthday, thirty people, and Chino is three minutes into a joke you are following completely.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Chino",
+   "es": "...y el cura le dice que ese pescado no era de él.",
+   "en": "...and the priest tells him that fish was not his.",
+   "options": [
+    {
+     "es": "(reírse medio segundo antes que los demás)",
+     "en": "(laugh half a second before the others)",
+     "verdict": "good",
+     "feedback": "That half second is the whole thing. It cannot be faked and everybody at that table knows it."
+    },
+    {
+     "es": "(reírse con los demás)",
+     "en": "(laugh with the others)",
+     "verdict": "ok",
+     "feedback": "Nobody will notice tonight. Over a year, laughing on the crowd is what marks somebody out."
+    },
+    {
+     "es": "¿Y por qué era gracioso lo del pescado?",
+     "en": "And why was the fish part funny?",
+     "verdict": "bad",
+     "feedback": "Explaining a joke kills it in front of everybody, including the man who told it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Salud, vos.",
+   "en": "Cheers.",
+   "options": [
+    {
+     "es": "Salud.",
+     "en": "Cheers.",
+     "verdict": "good",
+     "feedback": "He raised his bottle and said one word. Answering with one word is the whole exchange; anything longer would spoil it."
+    },
+    {
+     "es": "(sonreír)",
+     "en": "(smile)",
+     "verdict": "ok",
+     "feedback": "Fine. The bottle was worth a bottle back."
+    },
+    {
+     "es": "Sí, esta vez sí lo agarré.",
+     "en": "Yes, this time I did get it.",
+     "verdict": "bad",
+     "feedback": "Announcing that you understood is the same as admitting you usually do not."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Este ya se ríe a tiempo. ¿Qué le pasó?",
+   "en": "This one laughs on time now. What happened to him?",
+   "options": [
+    {
+     "es": "Cinco años oyéndote a vos. Ya era hora.",
+     "en": "Five years listening to you. It was about time.",
+     "verdict": "good",
+     "feedback": "The credit goes to him and the joke goes back at him. Both halves right."
+    },
+    {
+     "es": "Ya voy aprendiendo.",
+     "en": "I am learning.",
+     "verdict": "ok",
+     "feedback": "True, and it accepts a compliment where a return was available."
+    },
+    {
+     "es": "Siempre me he reído a tiempo.",
+     "en": "I have always laughed on time.",
+     "verdict": "bad",
+     "feedback": "Everybody at that table remembers the two years when you did not."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Bueno, y otro: ¿saben por qué el gallo cruzó la cancha?",
+   "en": "Right, another one: do you know why the rooster crossed the pitch?",
+   "options": [
+    {
+     "es": "Ese estuvo malo, vos.",
+     "en": "That one was bad.",
+     "verdict": "good",
+     "feedback": "Telling a Nicaraguan his joke was bad, to his face, at his own table, is the compliment. It says you are inside."
+    },
+    {
+     "es": "(reírse igual)",
+     "en": "(laugh anyway)",
+     "verdict": "ok",
+     "feedback": "Kind. It is also the last thing anybody at that table needed."
+    },
+    {
+     "es": "(no reírse y quedarse serio)",
+     "en": "(not laugh and stay serious)",
+     "verdict": "bad",
+     "feedback": "Silence in the joking register reads as something being wrong, not as a verdict on the joke."
+    }
+   ]
+  }
+ ]
+}

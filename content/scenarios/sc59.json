@@ -1,0 +1,109 @@
+{
+ "id": "sc59",
+ "title": "Perdón",
+ "desc": "Apologising so that it lands",
+ "setting": "You said something in front of five people that you should not have. It is the next morning.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "¿Y vos qué andás haciendo aquí tan temprano?",
+   "en": "And what are you doing here so early?",
+   "options": [
+    {
+     "es": "Vine a hablar con vos. Sobre lo de ayer.",
+     "en": "I came to talk to you. About yesterday.",
+     "verdict": "good",
+     "feedback": "Naming why you came, straight away, before the coffee. That is the shape an apology takes here."
+    },
+    {
+     "es": "Pasaba por aquí.",
+     "en": "I was passing by.",
+     "verdict": "ok",
+     "feedback": "Nobody passes by at seven. He knows why you are here and now you both have to pretend."
+    },
+    {
+     "es": "Nada, vine a saludar.",
+     "en": "Nothing, I came to say hello.",
+     "verdict": "bad",
+     "feedback": "The one thing that makes an apology worse is arriving without it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Ah. Ya.",
+   "en": "Ah. Right.",
+   "options": [
+    {
+     "es": "Me pasé. Lo siento, de verdad.",
+     "en": "I went too far. I am sorry, honestly.",
+     "verdict": "good",
+     "feedback": "Short, no explanation attached. A long apology turns into an excuse and both of you know it."
+    },
+    {
+     "es": "Perdón si te ofendí.",
+     "en": "Sorry if I offended you.",
+     "verdict": "ok",
+     "feedback": "The si makes it conditional, as though it might not have happened. It did."
+    },
+    {
+     "es": "Es que yo no sabía nada de eso.",
+     "en": "The thing is I did not know anything about that.",
+     "verdict": "bad",
+     "feedback": "That is a defence, not an apology. Do the apology first, if at all."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Está bien, hombre. Ya pasó.",
+   "en": "It is all right, man. It is over.",
+   "options": [
+    {
+     "es": "Gracias. No lo vuelvo a hacer.",
+     "en": "Thank you. I will not do it again.",
+     "verdict": "good",
+     "feedback": "Accepted without arguing that it was nothing. The promise is short enough to be believed."
+    },
+    {
+     "es": "Sí, ya pasó.",
+     "en": "Yes, it is over.",
+     "verdict": "ok",
+     "feedback": "Agreed. He offered you the door and you walked out without saying anything."
+    },
+    {
+     "es": "Entonces no estabas enojado.",
+     "en": "So you were not angry then.",
+     "verdict": "bad",
+     "feedback": "Making him say it again is asking him to do the hard part twice."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "¿Querés café?",
+   "en": "Do you want coffee?",
+   "options": [
+    {
+     "es": "Dale. ¿Cómo va lo de la casa?",
+     "en": "Right. How is the house thing going?",
+     "verdict": "good",
+     "feedback": "He offered coffee instead of forgiveness, which is how it is done, and you moved to something ordinary. That is the repair finished."
+    },
+    {
+     "es": "Sí, gracias.",
+     "en": "Yes, thank you.",
+     "verdict": "ok",
+     "feedback": "Accepted. Leaving the silence there means one of you has to fill it with the same subject again."
+    },
+    {
+     "es": "Entonces ya estamos bien, ¿verdad?",
+     "en": "So we are all right now, are we not?",
+     "verdict": "bad",
+     "feedback": "The coffee was the answer. Asking for it in words takes it back apart."
+    }
+   ]
+  }
+ ]
+}

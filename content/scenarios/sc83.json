@@ -1,0 +1,109 @@
+{
+ "id": "sc83",
+ "title": "Depende",
+ "desc": "A yes-or-no question, and twenty minutes",
+ "setting": "You need to know whether the workshop opens on Saturday. That is the entire question.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Jefe",
+   "es": "Depende.",
+   "en": "It depends.",
+   "options": [
+    {
+     "es": "¿De qué depende, jefe?",
+     "en": "What does it depend on, boss?",
+     "verdict": "good",
+     "feedback": "The follow-up that gets you the real answer. Depende is an opening, not a refusal."
+    },
+    {
+     "es": "Ah, bueno.",
+     "en": "Ah, all right.",
+     "verdict": "ok",
+     "feedback": "You accepted a non-answer. Now you still do not know and you cannot ask again."
+    },
+    {
+     "es": "Es sí o no, jefe.",
+     "en": "It is yes or no, boss.",
+     "verdict": "bad",
+     "feedback": "It is not, here, and pushing for a flat answer makes him give you the flattest one available."
+    }
+   ]
+  },
+  {
+   "speaker": "Jefe",
+   "es": "De si llega el material. Y eso depende de la rastra.",
+   "en": "On whether the material arrives. And that depends on the lorry.",
+   "options": [
+    {
+     "es": "Entonces, ¿usted qué cree, más probable que sí?",
+     "en": "So, what do you think, more likely yes?",
+     "verdict": "good",
+     "feedback": "Asking for his estimate rather than his commitment. That is a question he can actually answer."
+    },
+    {
+     "es": "Ya veo, gracias.",
+     "en": "I see, thank you.",
+     "verdict": "ok",
+     "feedback": "Polite. You have collected the chain of reasons and none of the answer."
+    },
+    {
+     "es": "¿Y quién sabe eso entonces?",
+     "en": "And who knows that, then?",
+     "verdict": "bad",
+     "feedback": "It sounds like you are saying nobody in the building knows anything."
+    }
+   ]
+  },
+  {
+   "speaker": "Jefe",
+   "es": "Yo diría que sí. Casi seguro.",
+   "en": "I would say yes. Almost certain.",
+   "options": [
+    {
+     "es": "Va pues. Entonces aquí estoy a las siete.",
+     "en": "Right then. So I will be here at seven.",
+     "verdict": "good",
+     "feedback": "You converted an almost into a plan, out loud, so he can correct it if it is wrong. Nobody has been pinned down."
+    },
+    {
+     "es": "Perfecto, entonces abren.",
+     "en": "Perfect, so you are opening.",
+     "verdict": "ok",
+     "feedback": "He said almost. Repeating it back as certain is putting words in his mouth."
+    },
+    {
+     "es": "Entonces es sí. Ya lo dijo.",
+     "en": "So it is a yes. You said it.",
+     "verdict": "bad",
+     "feedback": "Quoting a man's hedge back at him as a promise is how you get a firm no next time."
+    }
+   ]
+  },
+  {
+   "speaker": "Jefe",
+   "es": "Si acaso no, yo le aviso el viernes.",
+   "en": "If not, I will let you know on Friday.",
+   "options": [
+    {
+     "es": "Dale. Y si no me avisa, yo llego.",
+     "en": "Right. And if you do not tell me, I will come in.",
+     "verdict": "good",
+     "feedback": "You named what silence means, which is the one thing depende never says on its own."
+    },
+    {
+     "es": "Está bien, espero su aviso.",
+     "en": "All right, I will wait for your message.",
+     "verdict": "ok",
+     "feedback": "Fine, and if the message never comes you will not know which way it went."
+    },
+    {
+     "es": "Ojalá esta vez sí avise.",
+     "en": "Hopefully this time you will actually tell me.",
+     "verdict": "bad",
+     "feedback": "A complaint about the past dressed as a hope. He heard it."
+    }
+   ]
+  }
+ ]
+}

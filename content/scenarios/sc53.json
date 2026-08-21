@@ -1,0 +1,109 @@
+{
+ "id": "sc53",
+ "title": "No seás malo",
+ "desc": "The first time you are teased, and the first time you answer",
+ "setting": "Chino has been going at you all afternoon about the way you say one word.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Chino",
+   "es": "¡Ideay! Repetilo otra vez, decilo.",
+   "en": "Ideay! Say it again, go on.",
+   "options": [
+    {
+     "es": "Ya, ya. Vos tampoco hablás tan bonito.",
+     "en": "All right, all right. You do not talk so beautifully either.",
+     "verdict": "good",
+     "feedback": "Given back at the same size, and vos and hablás are exactly right with him."
+    },
+    {
+     "es": "No lo digo mal.",
+     "en": "I do not say it wrong.",
+     "verdict": "ok",
+     "feedback": "A defence. Defending is what makes the teasing last another hour."
+    },
+    {
+     "es": "Ya basta, en serio.",
+     "en": "That is enough, seriously.",
+     "verdict": "bad",
+     "feedback": "En serio changes the tone, and the table will change with it. Only use that when you mean it."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Jaja, ¡miren al chele contestando!",
+   "en": "Ha, look at the chele answering back!",
+   "options": [
+    {
+     "es": "Aprendí de vos, ¿o no?",
+     "en": "I learned it from you, did I not?",
+     "verdict": "good",
+     "feedback": "You handed the joke back with his own name on it. That is the whole game."
+    },
+    {
+     "es": "Ya voy aprendiendo.",
+     "en": "I am learning.",
+     "verdict": "ok",
+     "feedback": "True and pleasant. It does not land, but nothing is lost."
+    },
+    {
+     "es": "No me digás chele.",
+     "en": "Do not call me chele.",
+     "verdict": "bad",
+     "feedback": "Chele is not an insult here, and objecting to it makes it your nickname forever."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Este ya no se deja. ¿Quién te enseñó?",
+   "en": "This one does not take it any more. Who taught you?",
+   "options": [
+    {
+     "es": "Tu hermana, que es peor que vos.",
+     "en": "Your sister, who is worse than you are.",
+     "verdict": "good",
+     "feedback": "Sharp, funny, and inside the line - family is fair game, mothers are not."
+    },
+    {
+     "es": "Nadie, me salió solo.",
+     "en": "Nobody, it just came out.",
+     "verdict": "ok",
+     "feedback": "A fine answer that leaves the ball on the ground."
+    },
+    {
+     "es": "Tu mamá.",
+     "en": "Your mother.",
+     "verdict": "bad",
+     "feedback": "The one place nobody goes. That stops being a joke instantly."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "¡Uuuh! Ese estuvo bueno.",
+   "en": "Ooh! That was a good one.",
+   "options": [
+    {
+     "es": "Dale pues, ahora vos.",
+     "en": "Right then, now you.",
+     "verdict": "good",
+     "feedback": "You kept the round going instead of standing on your win. That is how you get invited back."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thanks.",
+     "verdict": "ok",
+     "feedback": "It accepts the compliment and quietly ends the game."
+    },
+    {
+     "es": "Ya gané.",
+     "en": "I won.",
+     "verdict": "bad",
+     "feedback": "Nobody wins these. Saying it out loud is how you get taken apart next Sunday."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc62",
+ "title": "Los cuñados",
+ "desc": "Her brothers, and the test that is not called one",
+ "setting": "Julio and Chino have put a beer in your hand and pulled up a third chair.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Julio",
+   "es": "Sentate pues. Vos jugás béisbol, ¿o no?",
+   "en": "Sit down then. You play baseball, right?",
+   "options": [
+    {
+     "es": "Malísimo, pero juego.",
+     "en": "Terribly, but I play.",
+     "verdict": "good",
+     "feedback": "Getting in first with your own weakness leaves them nothing to open with. It is the strongest move at that table."
+    },
+    {
+     "es": "Sí, un poco.",
+     "en": "Yes, a little.",
+     "verdict": "ok",
+     "feedback": "Fine. It hands them the next line and they will use it."
+    },
+    {
+     "es": "Bastante bien, la verdad.",
+     "en": "Quite well, actually.",
+     "verdict": "bad",
+     "feedback": "You have just written the whole afternoon for them."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Uy, ¿malísimo? Peor que Julio no creo.",
+   "en": "Ooh, terrible? Worse than Julio I doubt.",
+   "options": [
+    {
+     "es": "Eso lo vemos el domingo pues.",
+     "en": "We will see about that on Sunday then.",
+     "verdict": "good",
+     "feedback": "You took the joke and turned it into a plan. Now there is a Sunday."
+    },
+    {
+     "es": "Puede ser.",
+     "en": "Maybe.",
+     "verdict": "ok",
+     "feedback": "Safe. It lets the joke fall on the floor between the three of you."
+    },
+    {
+     "es": "Yo no dije eso.",
+     "en": "I did not say that.",
+     "verdict": "bad",
+     "feedback": "Correcting the record in a vacilón is how you tell everybody you cannot take one."
+    }
+   ]
+  },
+  {
+   "speaker": "Julio",
+   "es": "¿Y qué son tus planes con nuestra hermana?",
+   "en": "And what are your plans with our sister?",
+   "options": [
+    {
+     "es": "Serias. Se lo dije a ella y se lo digo a ustedes.",
+     "en": "Serious ones. I told her and I am telling you.",
+     "verdict": "good",
+     "feedback": "One word, then the reason it is credible. They were not looking for a speech."
+    },
+    {
+     "es": "Todavía es temprano para eso.",
+     "en": "It is still early for that.",
+     "verdict": "ok",
+     "feedback": "Honest, and it is the answer that keeps this conversation going another twenty minutes."
+    },
+    {
+     "es": "Eso es entre ella y yo.",
+     "en": "That is between her and me.",
+     "verdict": "bad",
+     "feedback": "In this family it is not, and you have just told two men that they do not count."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Ideay, respondió sin temblar.",
+   "en": "Ideay, he answered without shaking.",
+   "options": [
+    {
+     "es": "Ustedes preguntaron derecho, yo contesté derecho.",
+     "en": "You asked straight, I answered straight.",
+     "verdict": "good",
+     "feedback": "It names what just happened and gives them the credit for it. That is the end of the test."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thanks.",
+     "verdict": "ok",
+     "feedback": "Fine, and it treats a verdict like a compliment."
+    },
+    {
+     "es": "No tenía por qué temblar.",
+     "en": "I had no reason to shake.",
+     "verdict": "bad",
+     "feedback": "True and hard. The moment was warm until you made it a competition."
+    }
+   ]
+  }
+ ]
+}

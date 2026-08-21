@@ -1,0 +1,109 @@
+{
+ "id": "sc91",
+ "title": "Como decía mi abuela",
+ "desc": "Quoting the dead to end an argument",
+ "setting": "Two months of argument about the old house, and doña Elena has just started telling a story instead.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Mi mamá crió cinco hijos en esa casa.",
+   "en": "My mother raised five children in that house.",
+   "options": [
+    {
+     "es": "(escuchar hasta el final)",
+     "en": "(listen to the end)",
+     "verdict": "good",
+     "feedback": "She has stopped arguing and started telling. The story is the argument now, and interrupting it loses it."
+    },
+    {
+     "es": "Sí, eso ya lo sabíamos.",
+     "en": "Yes, we knew that.",
+     "verdict": "ok",
+     "feedback": "True, and it hurries a woman who has waited two months to say it."
+    },
+    {
+     "es": "Pero eso no cambia los números.",
+     "en": "But that does not change the numbers.",
+     "verdict": "bad",
+     "feedback": "It is about to change everything. You have just told the room you cannot hear it coming."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Como decía mi mamá, una casa no se vende.",
+   "en": "As my mother used to say, a house is not sold.",
+   "options": [
+    {
+     "es": "(no contestar nada)",
+     "en": "(say nothing at all)",
+     "verdict": "good",
+     "feedback": "Nobody argues with a dead grandmother. Silence here is agreement and everybody in the room understands it."
+    },
+    {
+     "es": "Bueno, eso es cierto.",
+     "en": "Well, that is true.",
+     "verdict": "ok",
+     "feedback": "Agreement out loud. Slightly more than the moment needs, but harmless."
+    },
+    {
+     "es": "¿Y ella dijo eso de verdad?",
+     "en": "And did she really say that?",
+     "verdict": "bad",
+     "feedback": "Asking whether the quote is real is the one question that cannot be asked."
+    }
+   ]
+  },
+  {
+   "speaker": "Julio",
+   "es": "Bueno, ¿y quién quiere más arroz?",
+   "en": "Anyway, who wants more rice?",
+   "options": [
+    {
+     "es": "Yo quiero, doña Elena.",
+     "en": "I do, doña Elena.",
+     "verdict": "good",
+     "feedback": "The argument is over and Julio said so by asking about the rice. Taking the plate is how you agree."
+    },
+    {
+     "es": "(quedarse callado en la mesa)",
+     "en": "(stay quiet at the table)",
+     "verdict": "ok",
+     "feedback": "Fine. Somebody has to make the new subject work and it is easier with two."
+    },
+    {
+     "es": "¿Entonces qué decidimos?",
+     "en": "So what did we decide?",
+     "verdict": "bad",
+     "feedback": "It was decided. Asking makes her say it a second time."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "(en el carro) ¿Vos creés que la abuela dijo eso?",
+   "en": "(in the car) Do you think her grandmother said that?",
+   "options": [
+    {
+     "es": "Puede que sí o puede que no. Igual era lo que pensaba.",
+     "en": "She may have or she may not. It was what she thought either way.",
+     "verdict": "good",
+     "feedback": "You understood that the quote finishes an idea the dead woman never put into a sentence. That is exactly how it works here."
+    },
+    {
+     "es": "Ni idea.",
+     "en": "No idea.",
+     "verdict": "ok",
+     "feedback": "Honest. It sidesteps a question she was actually asking you."
+    },
+    {
+     "es": "Se lo inventó, seguro.",
+     "en": "She made it up, definitely.",
+     "verdict": "bad",
+     "feedback": "Perhaps. Saying it out loud makes what happened smaller than it was."
+    }
+   ]
+  }
+ ]
+}

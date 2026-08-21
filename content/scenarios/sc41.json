@@ -1,0 +1,109 @@
+{
+ "id": "sc41",
+ "title": "Se fue la luz",
+ "desc": "The power goes out and the pulpería is dark",
+ "setting": "It is eight at night and the whole block goes dark at once. You walk to doña Chepa's pulpería with your phone in your hand.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Doña Chepa",
+   "es": "Ideay, se fue la luz otra vez. ¿Qué andás buscando?",
+   "en": "Ideay, the power has gone again. What are you after?",
+   "options": [
+    {
+     "es": "Buenas, doña. ¿Vende candelas?",
+     "en": "Evening, doña. Do you sell candles?",
+     "verdict": "good",
+     "feedback": "Right on both counts - you greeted her first, and candela is the word here for a candle."
+    },
+    {
+     "es": "Hola. Quiero luz.",
+     "en": "Hello. I want light.",
+     "verdict": "ok",
+     "feedback": "She will work it out, but you have asked her for light rather than for a candle."
+    },
+    {
+     "es": "¿Dónde está el hotel?",
+     "en": "Where is the hotel?",
+     "verdict": "bad",
+     "feedback": "Nothing to do with the blackout. Read the moment."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Sí tengo. ¿Cuántas querés?",
+   "en": "I have some. How many do you want?",
+   "options": [
+    {
+     "es": "Deme dos, por favor.",
+     "en": "Give me two, please.",
+     "verdict": "good",
+     "feedback": "Deme is exactly how you ask for something across a counter here."
+    },
+    {
+     "es": "Dos.",
+     "en": "Two.",
+     "verdict": "ok",
+     "feedback": "Understood, but bare. One word to a neighbour sounds short."
+    },
+    {
+     "es": "No sé.",
+     "en": "I do not know.",
+     "verdict": "bad",
+     "feedback": "She cannot help you decide. Pick a number."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Aquí tenés. Son veinte córdobas.",
+   "en": "Here you go. That is twenty córdobas.",
+   "options": [
+    {
+     "es": "Gracias, doña. ¿Sabe hasta qué hora?",
+     "en": "Thank you, doña. Do you know until what time?",
+     "verdict": "good",
+     "feedback": "Thanks first, then the one question the whole block wants answered. That is what a counter is for."
+    },
+    {
+     "es": "Está bien. Gracias.",
+     "en": "That is fine. Thank you.",
+     "verdict": "ok",
+     "feedback": "Polite and correct. You just missed a chance to keep her talking."
+    },
+    {
+     "es": "Muy caro para dos candelas.",
+     "en": "Very expensive for two candles.",
+     "verdict": "bad",
+     "feedback": "Twenty córdobas for two is normal, and complaining to a neighbour costs you more than the money."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Dicen que como a las once. Cuidado con el fuego, mijo.",
+   "en": "They say about eleven. Careful with the fire, son.",
+   "options": [
+    {
+     "es": "Va pues, doña. Que pase buena noche.",
+     "en": "Right then, doña. Have a good night.",
+     "verdict": "good",
+     "feedback": "Va pues is the Nicaraguan sign-off, and you wished her the night back."
+    },
+    {
+     "es": "Bueno. Adiós.",
+     "en": "All right. Goodbye.",
+     "verdict": "ok",
+     "feedback": "Adiós sounds like forever here. Save it for somebody leaving the country."
+    },
+    {
+     "es": "No hay problema, yo sé de fuego.",
+     "en": "No problem, I know about fire.",
+     "verdict": "bad",
+     "feedback": "She was looking after you. Brushing it off is not the way to take it."
+    }
+   ]
+  }
+ ]
+}

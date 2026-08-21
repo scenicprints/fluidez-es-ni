@@ -1,0 +1,109 @@
+{
+ "id": "sc61",
+ "title": "Conocé a mi mamá",
+ "desc": "Meeting doña Elena for the first time",
+ "setting": "You are at the door with your hands empty and Lucía half a step ahead of you.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Con que vos sos el famoso.",
+   "en": "So you are the famous one.",
+   "options": [
+    {
+     "es": "Mucho gusto, doña Elena. Gracias por recibirme.",
+     "en": "Pleased to meet you, doña Elena. Thank you for having me.",
+     "verdict": "good",
+     "feedback": "Her name, the doña, and thanks for the invitation. All three land in one sentence."
+    },
+    {
+     "es": "Mucho gusto.",
+     "en": "Pleased to meet you.",
+     "verdict": "ok",
+     "feedback": "Correct and small. This is a doorway you only walk through once."
+    },
+    {
+     "es": "Hola, ¿cómo estás?",
+     "en": "Hello, how are you?",
+     "verdict": "bad",
+     "feedback": "The vos-level greeting to a suegra you have never met. She will not say anything, and she will notice."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Pase. Siéntese ahí. ¿Ya comió?",
+   "en": "Come in. Sit there. Have you eaten?",
+   "options": [
+    {
+     "es": "Todavía no, doña. Huele muy bien.",
+     "en": "Not yet, doña. It smells very good.",
+     "verdict": "good",
+     "feedback": "The right answer is no, whatever the truth is, and you complimented the kitchen without being asked."
+    },
+    {
+     "es": "Sí, ya comí, gracias.",
+     "en": "Yes, I have eaten, thank you.",
+     "verdict": "ok",
+     "feedback": "Refusing the plate at a first meeting is refusing more than the plate."
+    },
+    {
+     "es": "No tengo hambre.",
+     "en": "I am not hungry.",
+     "verdict": "bad",
+     "feedback": "The one sentence that cannot be said at that table."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "¿Y usted qué hace? ¿En qué trabaja?",
+   "en": "And what do you do? What is your work?",
+   "options": [
+    {
+     "es": "Trabajo en un taller, doña. Soldadura.",
+     "en": "I work in a workshop, doña. Welding.",
+     "verdict": "good",
+     "feedback": "Plain, exact, no decoration. She is not testing your job, she is testing whether you dress it up."
+    },
+    {
+     "es": "Trabajo aquí cerca.",
+     "en": "I work near here.",
+     "verdict": "ok",
+     "feedback": "Vague where she asked for specific. She will ask again in a month."
+    },
+    {
+     "es": "Es un poco complicado de explicar.",
+     "en": "It is a bit complicated to explain.",
+     "verdict": "bad",
+     "feedback": "That answer means one of two things and neither of them is good."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Ajá. ¿Y sus papás saben de mi hija?",
+   "en": "I see. And do your parents know about my daughter?",
+   "options": [
+    {
+     "es": "Todavía no, doña, pero se lo voy a decir.",
+     "en": "Not yet, doña, but I am going to tell them.",
+     "verdict": "good",
+     "feedback": "Honest about where things stand and clear about the intention. That is the whole question she asked."
+    },
+    {
+     "es": "Sí, algo saben.",
+     "en": "Yes, they know something.",
+     "verdict": "ok",
+     "feedback": "Softening it will not help. She will ask Lucía afterwards and find out anyway."
+    },
+    {
+     "es": "Eso es asunto mío.",
+     "en": "That is my business.",
+     "verdict": "bad",
+     "feedback": "In this house, from today, it is not."
+    }
+   ]
+  }
+ ]
+}

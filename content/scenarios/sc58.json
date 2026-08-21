@@ -1,0 +1,109 @@
+{
+ "id": "sc58",
+ "title": "Fijate que no",
+ "desc": "Saying no without ever saying it",
+ "setting": "A workmate you barely know invites you to something you have no intention of going to.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Compañero",
+   "es": "Vaya, ¿venís el domingo al culto con nosotros?",
+   "en": "So, are you coming to the service with us on Sunday?",
+   "options": [
+    {
+     "es": "Qué bueno que me tomás en cuenta.",
+     "en": "How good of you to think of me.",
+     "verdict": "good",
+     "feedback": "Every no here starts with the thanks. It buys you the whole rest of the sentence."
+    },
+    {
+     "es": "No, gracias.",
+     "en": "No, thank you.",
+     "verdict": "ok",
+     "feedback": "Clear, and clean, and about twice as cold as you mean it."
+    },
+    {
+     "es": "Yo no creo en eso.",
+     "en": "I do not believe in that.",
+     "verdict": "bad",
+     "feedback": "He invited you somewhere, not to a debate. This one will get around the workshop."
+    }
+   ]
+  },
+  {
+   "speaker": "Compañero",
+   "es": "Es a las diez. Va a estar bueno.",
+   "en": "It is at ten. It is going to be good.",
+   "options": [
+    {
+     "es": "Fijate que ese domingo andamos donde la familia de ella.",
+     "en": "The thing is, that Sunday we are at her family's.",
+     "verdict": "good",
+     "feedback": "Fijate plus a reason that is not about him. Nobody loses anything."
+    },
+    {
+     "es": "Es que estoy ocupado ese día.",
+     "en": "The thing is I am busy that day.",
+     "verdict": "ok",
+     "feedback": "The right shape. Busy with nothing named sounds like what it is."
+    },
+    {
+     "es": "Los domingos no hago nada.",
+     "en": "On Sundays I do not do anything.",
+     "verdict": "bad",
+     "feedback": "You have just told him you are free. Now the no has to be a real one."
+    }
+   ]
+  },
+  {
+   "speaker": "Compañero",
+   "es": "Ah, va. ¿Y otro domingo?",
+   "en": "Ah, right. And another Sunday?",
+   "options": [
+    {
+     "es": "Avisame cuando sea, y vemos.",
+     "en": "Let me know when it is, and we will see.",
+     "verdict": "good",
+     "feedback": "The door stays open without a promise in it. Everybody here reads that correctly."
+    },
+    {
+     "es": "Tal vez después.",
+     "en": "Maybe later.",
+     "verdict": "ok",
+     "feedback": "The polite no, and he will hear it as one. That is fine if you meant it."
+    },
+    {
+     "es": "Sí, el otro domingo voy.",
+     "en": "Yes, next Sunday I will come.",
+     "verdict": "bad",
+     "feedback": "A yes you do not mean costs more than a no. Next Sunday will arrive."
+    }
+   ]
+  },
+  {
+   "speaker": "Compañero",
+   "es": "Dale pues. Ahí te aviso.",
+   "en": "Right then. I will let you know.",
+   "options": [
+    {
+     "es": "Va pues. Gracias, de verdad.",
+     "en": "Right then. Thanks, honestly.",
+     "verdict": "good",
+     "feedback": "Closed warmly, and the de verdad makes the thanks real rather than a formula."
+    },
+    {
+     "es": "Bueno.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "It ends it. He put himself out and got one word."
+    },
+    {
+     "es": "No te preocupés, no voy a ir.",
+     "en": "Do not worry, I am not going to go.",
+     "verdict": "bad",
+     "feedback": "You just said the no out loud after both of you had carefully avoided it."
+    }
+   ]
+  }
+ ]
+}

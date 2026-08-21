@@ -1,0 +1,109 @@
+{
+ "id": "sc78",
+ "title": "El año viejo",
+ "desc": "Burning the year on the pavement at midnight",
+ "setting": "Roberto arrives at seven in the morning on the thirty-first with an armful of old clothes and a plan.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Roberto",
+   "es": "Hay que hacer el muñeco. ¿Tenés ropa vieja?",
+   "en": "We have to make the dummy. Have you got old clothes?",
+   "options": [
+    {
+     "es": "Debo tener algo. ¿De qué lo vamos a hacer?",
+     "en": "I must have something. What are we going to make it out of?",
+     "verdict": "good",
+     "feedback": "You did not ask what a muñeco is, you asked what it is made of. That is somebody joining in rather than being told about it."
+    },
+    {
+     "es": "¿Muñeco de qué?",
+     "en": "A dummy of what?",
+     "verdict": "ok",
+     "feedback": "Fair question. He is going to look at you as though you were born yesterday, which he will anyway."
+    },
+    {
+     "es": "No tengo nada que botar.",
+     "en": "I have nothing to throw out.",
+     "verdict": "bad",
+     "feedback": "You do. Lucía is already holding the shirt she has hated for two years."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Del año viejo. Se quema a medianoche.",
+   "en": "Of the old year. It gets burned at midnight.",
+   "options": [
+    {
+     "es": "¿Y por qué se quema? Contame.",
+     "en": "And why is it burned? Tell me.",
+     "verdict": "good",
+     "feedback": "Asking for the reason instead of the instructions. He is seventeen and delighted to be the one who knows."
+    },
+    {
+     "es": "Ah, ya entendí.",
+     "en": "Ah, I understand now.",
+     "verdict": "ok",
+     "feedback": "You do not, quite, and there is a good answer available for free."
+    },
+    {
+     "es": "Eso suena peligroso.",
+     "en": "That sounds dangerous.",
+     "verdict": "bad",
+     "feedback": "Twenty fires on one dirt street. It is, and that is not the interesting part."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Todo lo malo del año se le mete adentro.",
+   "en": "Everything bad from the year gets stuffed inside it.",
+   "options": [
+    {
+     "es": "Entonces este año le vamos a meter bastante.",
+     "en": "Then this year we are going to stuff plenty in.",
+     "verdict": "good",
+     "feedback": "You took the idea and made a joke of it that is also true. That is exactly the register of the thirty-first."
+    },
+    {
+     "es": "Qué buena idea.",
+     "en": "What a good idea.",
+     "verdict": "ok",
+     "feedback": "Warm, and it treats a custom like a suggestion."
+    },
+    {
+     "es": "Yo no creo en esas cosas.",
+     "en": "I do not believe in those things.",
+     "verdict": "bad",
+     "feedback": "Nobody asked you to believe. They asked you to help stuff a shirt with newspaper."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "A las doce lo quemamos todos juntos.",
+   "en": "At twelve we all burn them together.",
+   "options": [
+    {
+     "es": "Ahí voy a estar. ¿Necesitamos fósforos?",
+     "en": "I will be there. Do we need matches?",
+     "verdict": "good",
+     "feedback": "Committed and thought one step ahead. That is somebody who is in it rather than watching it."
+    },
+    {
+     "es": "Está bien, ahí nos vemos.",
+     "en": "All right, see you there.",
+     "verdict": "ok",
+     "feedback": "Accepted. Bringing something is what turns watching into taking part."
+    },
+    {
+     "es": "Yo lo miro desde adentro.",
+     "en": "I will watch from inside.",
+     "verdict": "bad",
+     "feedback": "From inside the house, on the one night when the whole street is outside."
+    }
+   ]
+  }
+ ]
+}

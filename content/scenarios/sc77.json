@@ -1,0 +1,109 @@
+{
+ "id": "sc77",
+ "title": "Delroy",
+ "desc": "Half the country you had not accounted for",
+ "setting": "A new man on the afternoon shift takes a phone call in a language that sounds like English and is not.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Delroy",
+   "es": "Sorry, that was my mother. She no speak Spanish.",
+   "en": "Sorry, that was my mother. She does not speak Spanish.",
+   "options": [
+    {
+     "es": "¿De dónde sos vos? Nunca había oído eso.",
+     "en": "Where are you from? I had never heard that.",
+     "verdict": "good",
+     "feedback": "Curious, direct, and vos. It treats him as a workmate rather than a curiosity."
+    },
+    {
+     "es": "¿Eso es inglés?",
+     "en": "Is that English?",
+     "verdict": "ok",
+     "feedback": "Close, and a bit off. It sounds like English and it is not, and he gets asked that daily."
+    },
+    {
+     "es": "¿Sos de Jamaica?",
+     "en": "Are you from Jamaica?",
+     "verdict": "bad",
+     "feedback": "He is Nicaraguan. That guess is the one he has been correcting since he arrived in Managua."
+    }
+   ]
+  },
+  {
+   "speaker": "Delroy",
+   "es": "De Bluefields. Es criollo, no inglés.",
+   "en": "From Bluefields. It is Creole, not English.",
+   "options": [
+    {
+     "es": "¿Y allá el español es la segunda lengua?",
+     "en": "And over there Spanish is the second language?",
+     "verdict": "good",
+     "feedback": "You got straight to the thing that actually surprises people from this side of the country."
+    },
+    {
+     "es": "Ah, qué interesante.",
+     "en": "Ah, how interesting.",
+     "verdict": "ok",
+     "feedback": "Polite and finished. He would have kept going if you had asked anything."
+    },
+    {
+     "es": "Pero eso es Nicaragua igual, ¿no?",
+     "en": "But that is Nicaragua all the same, is it not?",
+     "verdict": "bad",
+     "feedback": "It is, and phrased like that it sounds like you are correcting him about his own coast."
+    }
+   ]
+  },
+  {
+   "speaker": "Delroy",
+   "es": "La cuarta, a veces. Primero criollo, inglés y miskito.",
+   "en": "The fourth, sometimes. First Creole, English and Miskito.",
+   "options": [
+    {
+     "es": "Chocho, y yo pensaba que aquí era un solo idioma.",
+     "en": "Chocho, and I thought there was one language here.",
+     "verdict": "good",
+     "feedback": "Admitting what you assumed, out loud, is the fastest way to be told the rest."
+    },
+    {
+     "es": "No sabía nada de eso.",
+     "en": "I did not know any of that.",
+     "verdict": "ok",
+     "feedback": "True and fine. It stops just short of asking him for more."
+    },
+    {
+     "es": "Yo pensé que todos hablaban español.",
+     "en": "I thought everybody spoke Spanish.",
+     "verdict": "bad",
+     "feedback": "Almost the same sentence, said as a fact about the country rather than about you."
+    }
+   ]
+  },
+  {
+   "speaker": "Delroy",
+   "es": "Casi nadie de aquí ha ido para allá.",
+   "en": "Almost nobody from here has been over there.",
+   "options": [
+    {
+     "es": "Yo tampoco. Pero algún día quiero ir.",
+     "en": "Nor have I. But some day I want to go.",
+     "verdict": "good",
+     "feedback": "You put yourself in the same sentence as everybody else and left a door open. Honest, and he will hold you to it."
+    },
+    {
+     "es": "Debe ser bonito.",
+     "en": "It must be nice.",
+     "verdict": "ok",
+     "feedback": "Warm and empty. He was telling you something about the country, not about scenery."
+    },
+    {
+     "es": "Es que está muy lejos.",
+     "en": "The thing is it is very far.",
+     "verdict": "bad",
+     "feedback": "That is the excuse everybody here gives him. You have just become one more."
+    }
+   ]
+  }
+ ]
+}

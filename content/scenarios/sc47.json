@@ -1,0 +1,109 @@
+{
+ "id": "sc47",
+ "title": "Los mangos",
+ "desc": "Fruit falls on the roof for a month",
+ "setting": "A mango hits your roof at six in the morning. Don Beto is on the pavement laughing at you.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Don Beto",
+   "es": "Ideay, chele, ¿te despertó el mango?",
+   "en": "Ideay, chele, did the mango wake you up?",
+   "options": [
+    {
+     "es": "Me despertó, don Beto. Pensé que era un ladrón.",
+     "en": "It woke me up, don Beto. I thought it was a thief.",
+     "verdict": "good",
+     "feedback": "You took the joke and added to it. He will be telling that one for a week."
+    },
+    {
+     "es": "Sí, me despertó.",
+     "en": "Yes, it woke me up.",
+     "verdict": "ok",
+     "feedback": "True and clear. You let a joke go by without giving anything back."
+    },
+    {
+     "es": "Ese árbol es un problema.",
+     "en": "That tree is a problem.",
+     "verdict": "bad",
+     "feedback": "To him that tree is fruit for free. You have complained about a gift."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Ya vas a ver. Todo abril es así.",
+   "en": "You will see. All April is like that.",
+   "options": [
+    {
+     "es": "¿Y qué hace uno con tanto mango?",
+     "en": "And what does one do with so many mangos?",
+     "verdict": "good",
+     "feedback": "The useful question. April gives you more mango than anybody can eat and everyone has an answer."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "You have taken the news and dropped the conversation."
+    },
+    {
+     "es": "Voy a cortar el árbol.",
+     "en": "I am going to cut down the tree.",
+     "verdict": "bad",
+     "feedback": "Say that on this street and you will be remembered for it."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Se come verde con sal. Probá.",
+   "en": "You eat it green with salt. Try it.",
+   "options": [
+    {
+     "es": "¿Verde? Nunca lo he comido así.",
+     "en": "Green? I have never eaten it like that.",
+     "verdict": "good",
+     "feedback": "Surprise, honestly said, which invites him to teach you. That is what he was after."
+    },
+    {
+     "es": "Bueno, voy a probar.",
+     "en": "All right, I will try it.",
+     "verdict": "ok",
+     "feedback": "Willing, which is the main thing. A little flat."
+    },
+    {
+     "es": "El mango se come maduro.",
+     "en": "Mango is eaten ripe.",
+     "verdict": "bad",
+     "feedback": "Where you come from. Here green with salt is half the point of April."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Con sal y limón. Vas a ver que te gusta.",
+   "en": "With salt and lemon. You will see that you like it.",
+   "options": [
+    {
+     "es": "Si usted lo dice, don Beto, yo le creo.",
+     "en": "If you say so, don Beto, I believe you.",
+     "verdict": "good",
+     "feedback": "Warm, respectful, and it hands him the last word, which is his by age."
+    },
+    {
+     "es": "Voy a probar mañana.",
+     "en": "I will try it tomorrow.",
+     "verdict": "ok",
+     "feedback": "Fine. He was offering now."
+    },
+    {
+     "es": "No me gusta el limón.",
+     "en": "I do not like lemon.",
+     "verdict": "bad",
+     "feedback": "You have closed off the whole thing over one ingredient."
+    }
+   ]
+  }
+ ]
+}

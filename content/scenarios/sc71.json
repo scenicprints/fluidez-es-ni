@@ -1,0 +1,109 @@
+{
+ "id": "sc71",
+ "title": "El bautizo",
+ "desc": "Being asked to be a godparent",
+ "setting": "Marcos has been circling something for twenty minutes and has now put down his cup.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "Fíjate que te quería preguntar algo.",
+   "en": "The thing is, I wanted to ask you something.",
+   "options": [
+    {
+     "es": "Decime pues.",
+     "en": "Go on then.",
+     "verdict": "good",
+     "feedback": "Two words that open the door without rushing him. That is all he needed."
+    },
+    {
+     "es": "Claro, ¿qué pasó?",
+     "en": "Of course, what is it?",
+     "verdict": "ok",
+     "feedback": "Fine. Qué pasó suggests something has gone wrong, which is not the tone."
+    },
+    {
+     "es": "¿Ocupás plata?",
+     "en": "Do you need money?",
+     "verdict": "bad",
+     "feedback": "Guessing wrong at the wrong moment, and it says what you assume of him."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Queremos que seás el padrino del chavalito.",
+   "en": "We want you to be the boy's godfather.",
+   "options": [
+    {
+     "es": "Sí. Sí, claro que sí.",
+     "en": "Yes. Yes, of course.",
+     "verdict": "good",
+     "feedback": "No hesitation and no questions first. Anything else in that gap would have been heard."
+    },
+    {
+     "es": "¿Estás seguro?",
+     "en": "Are you sure?",
+     "verdict": "ok",
+     "feedback": "He has been working up to it for twenty minutes. He is sure."
+    },
+    {
+     "es": "Déjame pensarlo.",
+     "en": "Let me think about it.",
+     "verdict": "bad",
+     "feedback": "An honest answer that will land as a no, and he will never ask again."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Es un compromiso, vos. No es solo la fiesta.",
+   "en": "It is a commitment. It is not just the party.",
+   "options": [
+    {
+     "es": "Ya sé lo que es. Por eso dije que sí.",
+     "en": "I know what it is. That is why I said yes.",
+     "verdict": "good",
+     "feedback": "You told him you understood the weight and had already accepted it. That is the whole conversation done."
+    },
+    {
+     "es": "Sí, entiendo.",
+     "en": "Yes, I understand.",
+     "verdict": "ok",
+     "feedback": "Correct. He was checking, and the check deserved more than agreement."
+    },
+    {
+     "es": "¿Y qué es lo que tengo que hacer?",
+     "en": "And what is it I have to do?",
+     "verdict": "bad",
+     "feedback": "Asked after saying yes, it is fine. Asked here it sounds like you are looking for the size of the bill."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Entonces ya somos compadres.",
+   "en": "Then we are compadres now.",
+   "options": [
+    {
+     "es": "Compadre, entonces. Se oye raro todavía.",
+     "en": "Compadre, then. It still sounds strange.",
+     "verdict": "good",
+     "feedback": "You used the word for the first time and admitted it is new. Both things are true and he will like both."
+    },
+    {
+     "es": "Sí, compadres.",
+     "en": "Yes, compadres.",
+     "verdict": "ok",
+     "feedback": "Correct and warm. It says the word without noticing that it changed."
+    },
+    {
+     "es": "Igual que antes, pues.",
+     "en": "Same as before, then.",
+     "verdict": "bad",
+     "feedback": "It is not the same as before, and saying so takes something away from him."
+    }
+   ]
+  }
+ ]
+}

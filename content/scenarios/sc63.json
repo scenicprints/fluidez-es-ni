@@ -1,0 +1,109 @@
+{
+ "id": "sc63",
+ "title": "Estoy celoso",
+ "desc": "Jealousy, out loud, before it goes bad",
+ "setting": "Somebody put an arm around her at a party and you have not spoken for an hour.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "¿Qué te pasa? Andás raro desde la fiesta.",
+   "en": "What is wrong with you? You have been odd since the party.",
+   "options": [
+    {
+     "es": "Sí, ando raro. Me puse celoso y no sé qué hacer con eso.",
+     "en": "Yes, I have. I got jealous and I do not know what to do with it.",
+     "verdict": "good",
+     "feedback": "Named, owned, and handed to her without an accusation. That is the version of this that ends well."
+    },
+    {
+     "es": "No es nada.",
+     "en": "It is nothing.",
+     "verdict": "ok",
+     "feedback": "She can see that it is something. Now she has to drag it out of you, and that is its own argument."
+    },
+    {
+     "es": "Vos sabés muy bien qué me pasa.",
+     "en": "You know perfectly well what is wrong with me.",
+     "verdict": "bad",
+     "feedback": "That sentence starts a fight about whether she knows, which is not the subject."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "¿Celoso de quién? ¿De Erick?",
+   "en": "Jealous of who? Of Erick?",
+   "options": [
+    {
+     "es": "De él y de no saber quién es.",
+     "en": "Of him, and of not knowing who he is.",
+     "verdict": "good",
+     "feedback": "Honest about the real thing, which is not him. Very hard to argue with."
+    },
+    {
+     "es": "Sí, de él.",
+     "en": "Yes, of him.",
+     "verdict": "ok",
+     "feedback": "True as far as it goes. It puts a man in the middle of something that is not about him."
+    },
+    {
+     "es": "De todos los que te tocan.",
+     "en": "Of everybody who touches you.",
+     "verdict": "bad",
+     "feedback": "Todos turns one moment into an accusation about her whole life."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Erick es mi primo. Crecimos juntos.",
+   "en": "Erick is my cousin. We grew up together.",
+   "options": [
+    {
+     "es": "Ah, puchica. Ya me siento tonto.",
+     "en": "Ah, damn. Now I feel stupid.",
+     "verdict": "good",
+     "feedback": "Taking the hit lightly and out loud is what stops it from becoming a week."
+    },
+    {
+     "es": "Está bien, ya entendí.",
+     "en": "All right, I understand now.",
+     "verdict": "ok",
+     "feedback": "Accepted. It is a little short for how much you just put her through."
+    },
+    {
+     "es": "Y por qué no me lo dijiste.",
+     "en": "And why did you not tell me.",
+     "verdict": "bad",
+     "feedback": "You are now blaming her for not answering a question you never asked."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Tonto no. Pero preguntame la próxima vez.",
+   "en": "Not stupid. But ask me next time.",
+   "options": [
+    {
+     "es": "Te lo prometo. Prefiero preguntar que andar así.",
+     "en": "I promise. I would rather ask than go around like this.",
+     "verdict": "good",
+     "feedback": "A promise, and a reason for it that is about you and not about her."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "Accepted. She said something worth answering properly."
+    },
+    {
+     "es": "Si no me das motivos, no pregunto.",
+     "en": "If you do not give me reasons, I will not ask.",
+     "verdict": "bad",
+     "feedback": "That puts the condition on her. It undoes the whole conversation."
+    }
+   ]
+  }
+ ]
+}

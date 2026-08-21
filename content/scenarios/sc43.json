@@ -1,0 +1,109 @@
+{
+ "id": "sc43",
+ "title": "¿Dónde está el baño?",
+ "desc": "Asking for the bathroom in somebody else’s house",
+ "setting": "You are at doña Carmen's house for the first time and you need the bathroom.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "Pase adelante, mijo. Siéntese.",
+   "en": "Come in, son. Sit down.",
+   "options": [
+    {
+     "es": "Gracias, doña. Con permiso.",
+     "en": "Thank you, doña. Excuse me.",
+     "verdict": "good",
+     "feedback": "Con permiso is what you say stepping into somebody's house. Faultless."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "Fine, but con permiso is the piece that is missing."
+    },
+    {
+     "es": "Ya voy a entrar.",
+     "en": "I am going to come in now.",
+     "verdict": "bad",
+     "feedback": "True but strange. Announcing it is not the same as asking leave."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "¿Querés un fresco?",
+   "en": "Would you like a cold drink?",
+   "options": [
+    {
+     "es": "Sí, gracias. Y disculpe, ¿dónde está el baño?",
+     "en": "Yes, thank you. And excuse me, where is the bathroom?",
+     "verdict": "good",
+     "feedback": "You took the drink and put a disculpe in front of the question. Both halves right."
+    },
+    {
+     "es": "¿Dónde está el baño?",
+     "en": "Where is the bathroom?",
+     "verdict": "ok",
+     "feedback": "You will get there, but you skipped both the drink and the disculpe."
+    },
+    {
+     "es": "No quiero nada.",
+     "en": "I do not want anything.",
+     "verdict": "bad",
+     "feedback": "Refusing a drink outright is colder than you mean it. Take the fresco."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Al fondo, a la derecha. Cuidado con el escalón.",
+   "en": "At the back, on the right. Watch the step.",
+   "options": [
+    {
+     "es": "Gracias, doña. Ya vengo.",
+     "en": "Thank you, doña. I will be right back.",
+     "verdict": "good",
+     "feedback": "Ya vengo is what people say leaving the room for a minute. Very natural."
+    },
+    {
+     "es": "Bueno.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "It answers her but leaves the room without a word."
+    },
+    {
+     "es": "Adiós.",
+     "en": "Goodbye.",
+     "verdict": "bad",
+     "feedback": "You are going four metres, not leaving the country."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Aquí te dejo el fresco en la mesa.",
+   "en": "I will leave the drink here on the table for you.",
+   "options": [
+    {
+     "es": "Muy amable, doña. Se lo agradezco.",
+     "en": "That is very kind, doña. I appreciate it.",
+     "verdict": "good",
+     "feedback": "Se lo agradezco is warm and correct with a señora you have just met."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thanks.",
+     "verdict": "ok",
+     "feedback": "Perfectly fine. A little thin for the trouble she went to."
+    },
+    {
+     "es": "No hacía falta.",
+     "en": "There was no need.",
+     "verdict": "bad",
+     "feedback": "It sounds like you are refusing after the fact. Take it and thank her."
+    }
+   ]
+  }
+ ]
+}

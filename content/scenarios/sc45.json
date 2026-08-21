@@ -1,0 +1,109 @@
+{
+ "id": "sc45",
+ "title": "El interlocal a Masaya",
+ "desc": "Leaving Managua for the first time",
+ "setting": "You are at the interlocal terminal and everybody seems to know something you do not.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Ayudante",
+   "es": "¡Masaya, Masaya! ¿Va para Masaya?",
+   "en": "Masaya, Masaya! Are you going to Masaya?",
+   "options": [
+    {
+     "es": "Sí, voy. ¿Cuánto es el pasaje?",
+     "en": "Yes, I am. How much is the fare?",
+     "verdict": "good",
+     "feedback": "You are on the right bus and you asked the price. Both of those are yours to ask."
+    },
+    {
+     "es": "Sí.",
+     "en": "Yes.",
+     "verdict": "ok",
+     "feedback": "Enough to get you on board, but you have not asked the price and it is your right to."
+    },
+    {
+     "es": "¿Este es el bus a León?",
+     "en": "Is this the bus to León?",
+     "verdict": "bad",
+     "feedback": "He has shouted Masaya four times. Listen before you ask."
+    }
+   ]
+  },
+  {
+   "speaker": "Ayudante",
+   "es": "Treinta y cinco. Súbase adelante.",
+   "en": "Thirty-five. Get in at the front.",
+   "options": [
+    {
+     "es": "Aquí tiene. ¿Me avisa cuando lleguemos?",
+     "en": "Here you go. Will you let me know when we arrive?",
+     "verdict": "good",
+     "feedback": "Paid, and asked the man who knows. That is exactly what an ayudante is there for."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "You have paid and boarded. Asking him to tell you is what a first-timer should do."
+    },
+    {
+     "es": "¿Y el vuelto?",
+     "en": "And my change?",
+     "verdict": "bad",
+     "feedback": "You have not handed him anything yet."
+    }
+   ]
+  },
+  {
+   "speaker": "Ayudante",
+   "es": "Tranquilo, yo le aviso. ¿Primera vez que va?",
+   "en": "Relax, I will tell you. First time going?",
+   "options": [
+    {
+     "es": "Sí, primera vez. Voy al mercado de artesanía.",
+     "en": "Yes, first time. I am going to the craft market.",
+     "verdict": "good",
+     "feedback": "Saying it is your first time costs nothing and buys you somebody watching out for your stop."
+    },
+    {
+     "es": "Sí.",
+     "en": "Yes.",
+     "verdict": "ok",
+     "feedback": "True, and it closes a conversation he opened to help you."
+    },
+    {
+     "es": "No, yo voy siempre.",
+     "en": "No, I go all the time.",
+     "verdict": "bad",
+     "feedback": "A small lie that costs you the help he was about to give."
+    }
+   ]
+  },
+  {
+   "speaker": "Ayudante",
+   "es": "Ah, entonces se baja conmigo. Yo también voy allá.",
+   "en": "Ah, then you get off with me. I am going there too.",
+   "options": [
+    {
+     "es": "Qué bueno. Muchas gracias, vos.",
+     "en": "That is good. Thank you very much.",
+     "verdict": "good",
+     "feedback": "Warm and easy, and vos is right with somebody your own age."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "It accepts, but flatly, and he just did you a favour."
+    },
+    {
+     "es": "No hace falta, yo miro.",
+     "en": "No need, I will watch out.",
+     "verdict": "bad",
+     "feedback": "You have just turned down a guide on your first trip out of the city."
+    }
+   ]
+  }
+ ]
+}

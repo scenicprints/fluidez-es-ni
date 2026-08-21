@@ -1,0 +1,109 @@
+{
+ "id": "sc70",
+ "title": "Se puso malo",
+ "desc": "A hospital corridor at eleven at night",
+ "setting": "Chino's father-in-law was brought in at nine. There are eleven people in the corridor and nobody is leaving.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Chino",
+   "es": "Ideay, vos. No tenías que venir.",
+   "en": "Ideay, you. You did not have to come.",
+   "options": [
+    {
+     "es": "Ya sé. Aquí estoy pues.",
+     "en": "I know. Here I am, then.",
+     "verdict": "good",
+     "feedback": "The exact answer. It refuses the excuse without making a speech out of showing up."
+    },
+    {
+     "es": "Quería ver cómo estaban.",
+     "en": "I wanted to see how you all were.",
+     "verdict": "ok",
+     "feedback": "Warm and true. Slightly more explanation than the moment wants."
+    },
+    {
+     "es": "Vine por si necesitaban algo.",
+     "en": "I came in case you needed anything.",
+     "verdict": "bad",
+     "feedback": "Well meant, and it makes your being here conditional. It is not."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Está en cirugía. No sabemos nada todavía.",
+   "en": "He is in surgery. We do not know anything yet.",
+   "options": [
+    {
+     "es": "Yo me quedo. ¿Ya comieron algo?",
+     "en": "I will stay. Have you all eaten anything?",
+     "verdict": "good",
+     "feedback": "The two useful sentences in a corridor: I am staying, and food. Nobody in that hallway has eaten."
+    },
+    {
+     "es": "Ojalá salga todo bien.",
+     "en": "I hope it all goes well.",
+     "verdict": "ok",
+     "feedback": "Kind, and it is what everyone else has already said four times."
+    },
+    {
+     "es": "Todo va a estar bien, ya vas a ver.",
+     "en": "Everything is going to be fine, you will see.",
+     "verdict": "bad",
+     "feedback": "You cannot know that, and he knows you cannot. It closes him down."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "No, nadie ha comido.",
+   "en": "No, nobody has eaten.",
+   "options": [
+    {
+     "es": "Voy a la esquina y traigo café para todos.",
+     "en": "I will go to the corner and bring coffee for everybody.",
+     "verdict": "good",
+     "feedback": "Small, concrete, immediate. In a hospital corridor that is worth more than anything you could say."
+    },
+    {
+     "es": "Deberían comer algo.",
+     "en": "You should all eat something.",
+     "verdict": "ok",
+     "feedback": "True. Advice in a corridor is a job you have handed to somebody else."
+    },
+    {
+     "es": "Yo tampoco tengo hambre.",
+     "en": "I am not hungry either.",
+     "verdict": "bad",
+     "feedback": "Now nobody eats. You were the one person free to fix it."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Vos sos el único que no es de la familia aquí.",
+   "en": "You are the only one here who is not family.",
+   "options": [
+    {
+     "es": "Puede ser. Pero aquí estoy igual.",
+     "en": "Maybe. But I am here all the same.",
+     "verdict": "good",
+     "feedback": "You did not argue with him and you did not leave. Both halves matter."
+    },
+    {
+     "es": "Bueno, casi.",
+     "en": "Well, almost.",
+     "verdict": "ok",
+     "feedback": "Light. He was not making conversation."
+    },
+    {
+     "es": "Yo también soy familia.",
+     "en": "I am family too.",
+     "verdict": "bad",
+     "feedback": "Claiming it out loud in that corridor is the one way to not be."
+    }
+   ]
+  }
+ ]
+}

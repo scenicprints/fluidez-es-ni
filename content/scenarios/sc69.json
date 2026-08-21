@@ -1,0 +1,109 @@
+{
+ "id": "sc69",
+ "title": "Los difuntos",
+ "desc": "November 2, and a grave that is not yours",
+ "setting": "You are at the cemetery with doña Elena, carrying a bucket, a brush and a bag of yellow flowers.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Aquí está. Este es el papá de Lucía.",
+   "en": "Here it is. This is Lucía's father.",
+   "options": [
+    {
+     "es": "Mucho gusto, don Rafael.",
+     "en": "Pleased to meet you, don Rafael.",
+     "verdict": "good",
+     "feedback": "Greeting the grave is exactly what people do here, and it is the warmest thing you could have said."
+    },
+    {
+     "es": "Está bonita la tumba.",
+     "en": "The grave looks nice.",
+     "verdict": "ok",
+     "feedback": "Kind, and it comments on the stone rather than on the man."
+    },
+    {
+     "es": "¿Cuánto tiempo lleva aquí?",
+     "en": "How long has he been here?",
+     "verdict": "bad",
+     "feedback": "A fact question at the wrong moment. She will answer it and something will close."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Ayúdeme a limpiar, mijo. Ahí está el cepillo.",
+   "en": "Help me clean it, son. The brush is there.",
+   "options": [
+    {
+     "es": "Deme el balde, doña. Yo lo lleno.",
+     "en": "Give me the bucket, doña. I will fill it.",
+     "verdict": "good",
+     "feedback": "You took the heavier half without being asked. That is the entire job description of a yerno today."
+    },
+    {
+     "es": "Sí, ahorita le ayudo.",
+     "en": "Yes, I will help you in a bit.",
+     "verdict": "ok",
+     "feedback": "Ahorita on your knees in a cemetery is a strange thing to say. Start now."
+    },
+    {
+     "es": "Usted dígame qué hago.",
+     "en": "You tell me what to do.",
+     "verdict": "bad",
+     "feedback": "She has just told you. Waiting to be directed twice is not helping."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Él nunca lo conoció a usted.",
+   "en": "He never met you.",
+   "options": [
+    {
+     "es": "No, pero usted me habla de él. Con eso algo lo conozco.",
+     "en": "No, but you talk to me about him. That way I know him a little.",
+     "verdict": "good",
+     "feedback": "It gives her the credit for keeping him alive and it is true. She will remember that sentence."
+    },
+    {
+     "es": "Es una lástima.",
+     "en": "That is a shame.",
+     "verdict": "ok",
+     "feedback": "Kind, and it closes the subject she just opened."
+    },
+    {
+     "es": "Sí, qué se le va a hacer.",
+     "en": "Yes, what can you do.",
+     "verdict": "bad",
+     "feedback": "Ni modo is for a broken drain. Not here, not to her, not today."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Bueno. Ya está. Vámonos antes del sol.",
+   "en": "Right. That is done. Let us go before the sun.",
+   "options": [
+    {
+     "es": "Vámonos. ¿Volvemos el otro año?",
+     "en": "Let us go. Shall we come back next year?",
+     "verdict": "good",
+     "feedback": "Asking to be included next year is asking to keep the place you have just been given."
+    },
+    {
+     "es": "Sí, ya está bonito.",
+     "en": "Yes, it looks nice now.",
+     "verdict": "ok",
+     "feedback": "Fine. It ends the morning on the stone rather than on the two of you."
+    },
+    {
+     "es": "Al fin, ya me estaba asando.",
+     "en": "At last, I was roasting.",
+     "verdict": "bad",
+     "feedback": "True, and there are three hours of her morning in that grave."
+    }
+   ]
+  }
+ ]
+}

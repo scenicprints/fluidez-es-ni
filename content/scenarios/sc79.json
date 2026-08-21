@@ -1,0 +1,109 @@
+{
+ "id": "sc79",
+ "title": "Padrino de las sillas",
+ "desc": "Being asked to pay for part of somebody’s quince",
+ "setting": "Marcos has been talking about his daughter's fifteenth for three months and has finally stopped talking.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "Vos sabés que los quince salen caros.",
+   "en": "You know a quince works out expensive.",
+   "options": [
+    {
+     "es": "Me imagino. ¿Cómo lo están armando?",
+     "en": "I can imagine. How are you putting it together?",
+     "verdict": "good",
+     "feedback": "You showed you understood and asked how, which is the opening he needs to name the padrinos."
+    },
+    {
+     "es": "Sí, deben ser caros.",
+     "en": "Yes, they must be expensive.",
+     "verdict": "ok",
+     "feedback": "Agreement. He is trying to get somewhere and you have not helped him."
+    },
+    {
+     "es": "¿Y por qué gastan tanto?",
+     "en": "And why do you all spend so much?",
+     "verdict": "bad",
+     "feedback": "Judging the whole thing thirty seconds before he asks you to be part of it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Con padrinos. Uno del pastel, otro de la música.",
+   "en": "With godparents. One of the cake, another of the music.",
+   "options": [
+    {
+     "es": "Ah, va. ¿Y falta alguno?",
+     "en": "Ah, right. And is one still missing?",
+     "verdict": "good",
+     "feedback": "You opened the door for him instead of making him push it. That is a kindness he will remember."
+    },
+    {
+     "es": "Qué buena manera de hacerlo.",
+     "en": "What a good way of doing it.",
+     "verdict": "ok",
+     "feedback": "True. It appreciates the system and steps back from it."
+    },
+    {
+     "es": "Nosotros no hacemos eso allá.",
+     "en": "We do not do that where I come from.",
+     "verdict": "bad",
+     "feedback": "Possibly the least useful sentence available at that moment."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Faltan las sillas. Doscientas, alquiladas.",
+   "en": "The chairs are missing. Two hundred, rented.",
+   "options": [
+    {
+     "es": "Yo se las pongo. Contá con eso.",
+     "en": "I will cover them. Count on it.",
+     "verdict": "good",
+     "feedback": "Said before he finished asking, and with a number in it. That is how a padrino answers."
+    },
+    {
+     "es": "¿Y cuánto sale eso?",
+     "en": "And how much does that come to?",
+     "verdict": "ok",
+     "feedback": "Fair, and asking the price first turns a padrinazgo into a quote."
+    },
+    {
+     "es": "Déjame ver cómo ando de plata.",
+     "en": "Let me see how I am for money.",
+     "verdict": "bad",
+     "feedback": "Honest. It will be heard as a no, and the chairs will fall to somebody else."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "De verdad, vos. Gracias.",
+   "en": "Honestly. Thank you.",
+   "options": [
+    {
+     "es": "Ideay, no es nada. Es tu hija.",
+     "en": "Ideay, it is nothing. It is your daughter.",
+     "verdict": "good",
+     "feedback": "Waves off the thanks and names the reason. Between compadres that is the whole exchange."
+    },
+    {
+     "es": "No hay problema.",
+     "en": "No problem.",
+     "verdict": "ok",
+     "feedback": "Fine. It answers the words and not the fact that he asked you and not his brother."
+    },
+    {
+     "es": "Después vemos lo del pago.",
+     "en": "We will sort out the payment later.",
+     "verdict": "bad",
+     "feedback": "There is no payment. You have just turned a gift into an invoice."
+    }
+   ]
+  }
+ ]
+}

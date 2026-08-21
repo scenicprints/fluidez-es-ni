@@ -1,0 +1,109 @@
+{
+ "id": "sc75",
+ "title": "El tope",
+ "desc": "August 1, and the whole city moves at once",
+ "setting": "Seven in the morning, thousands of people, and Marcos has told you twice not to let go of him.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "No te me soltés, vos. Aquí se pierde uno.",
+   "en": "Do not let go of me. People get lost here.",
+   "options": [
+    {
+     "es": "Dale. Si me pierdo, ¿dónde nos vemos?",
+     "en": "Right. If I get lost, where do we meet?",
+     "verdict": "good",
+     "feedback": "Accepted and planned for the thing he just warned you about. Sensible without being nervous."
+    },
+    {
+     "es": "Está bien, ahí voy detrás.",
+     "en": "All right, I am right behind you.",
+     "verdict": "ok",
+     "feedback": "Fine, and in that crowd behind lasts about forty seconds."
+    },
+    {
+     "es": "No te preocupés, yo conozco.",
+     "en": "Do not worry, I know my way.",
+     "verdict": "bad",
+     "feedback": "You have been to this city for four years and never to this. He has been coming since he was six."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Mirá aquel. Ese va pagando una promesa.",
+   "en": "Look at that one. He is paying a promise.",
+   "options": [
+    {
+     "es": "¿Por eso anda untado de aceite?",
+     "en": "Is that why he is smeared in oil?",
+     "verdict": "good",
+     "feedback": "You noticed the thing that matters and asked. He has been waiting all morning for somebody to ask."
+    },
+    {
+     "es": "Ah, ya veo.",
+     "en": "Ah, I see.",
+     "verdict": "ok",
+     "feedback": "You do not see, and he knows it. Ask."
+    },
+    {
+     "es": "Qué cosa más rara.",
+     "en": "What a strange thing.",
+     "verdict": "bad",
+     "feedback": "Said out loud in that crowd about a man paying for his child's health."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Se lo untan y caminan los diez días.",
+   "en": "They smear it on and walk the ten days.",
+   "options": [
+    {
+     "es": "Chocho. Diez días con eso encima.",
+     "en": "Chocho. Ten days with that on.",
+     "verdict": "good",
+     "feedback": "The right word and the right amount of respect in it. That is somebody reacting, not observing."
+    },
+    {
+     "es": "Es mucho tiempo.",
+     "en": "That is a long time.",
+     "verdict": "ok",
+     "feedback": "True. Flat where a reaction was called for."
+    },
+    {
+     "es": "Eso no puede ser bueno para la piel.",
+     "en": "That cannot be good for the skin.",
+     "verdict": "bad",
+     "feedback": "A health note in the middle of somebody's faith."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "¿Y vos, tenés alguna promesa?",
+   "en": "And you, do you have a promise?",
+   "options": [
+    {
+     "es": "No, ninguna. ¿Vos sí?",
+     "en": "No, none. Do you?",
+     "verdict": "good",
+     "feedback": "Answered honestly and turned it back. In that crowd it is a real question and he may answer it."
+    },
+    {
+     "es": "No, yo no soy de eso.",
+     "en": "No, I am not one for that.",
+     "verdict": "ok",
+     "feedback": "Honest. It also closes the door he was opening."
+    },
+    {
+     "es": "Yo no creo en promesas.",
+     "en": "I do not believe in promises.",
+     "verdict": "bad",
+     "feedback": "Half the people around you are paying one. Save the position for another day."
+    }
+   ]
+  }
+ ]
+}

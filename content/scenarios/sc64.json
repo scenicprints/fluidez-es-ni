@@ -1,0 +1,109 @@
+{
+ "id": "sc64",
+ "title": "La plata",
+ "desc": "An argument about money that is not about money",
+ "setting": "There is not enough this fortnight and you have both known it since Tuesday.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "No alcanza. Otra vez no alcanza.",
+   "en": "It is not enough. Again it is not enough.",
+   "options": [
+    {
+     "es": "Ya sé. Sentémonos a ver los números juntos.",
+     "en": "I know. Let us sit down and look at the numbers together.",
+     "verdict": "good",
+     "feedback": "You agreed and made it a thing the two of you do. That takes the accusation out of the room before it forms."
+    },
+    {
+     "es": "Sí, está difícil el mes.",
+     "en": "Yes, it is a hard month.",
+     "verdict": "ok",
+     "feedback": "True, and it agrees without doing anything. She was not reporting the weather."
+    },
+    {
+     "es": "Yo trabajo todos los días.",
+     "en": "I work every day.",
+     "verdict": "bad",
+     "feedback": "A defence to something that was not a charge. That is how this becomes the other argument."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Es que se nos fue en cosas que no eran.",
+   "en": "The thing is it went on things that were not necessary.",
+   "options": [
+    {
+     "es": "¿Cuáles? Decímelo sin rodeo.",
+     "en": "Which ones? Say it straight.",
+     "verdict": "good",
+     "feedback": "You asked her to drop the indirect. Between the two of you that is the right moment to ask for it."
+    },
+    {
+     "es": "Bueno, hay que cuidar más.",
+     "en": "All right, we have to be more careful.",
+     "verdict": "ok",
+     "feedback": "Agreeing with the general is how the specific never gets said."
+    },
+    {
+     "es": "Ah, ya sé para dónde va esto.",
+     "en": "Ah, I know where this is going.",
+     "verdict": "bad",
+     "feedback": "You just told her that whatever she says next will not be heard."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "La bomba de la moto. Eso podía esperar.",
+   "en": "The pump for the motorbike. That could have waited.",
+   "options": [
+    {
+     "es": "Tenés razón. Eso lo compré sin preguntarte.",
+     "en": "You are right. I bought that without asking you.",
+     "verdict": "good",
+     "feedback": "Conceded the point and named the real problem, which was the asking and not the money."
+    },
+    {
+     "es": "Era barata, la verdad.",
+     "en": "It was cheap, honestly.",
+     "verdict": "ok",
+     "feedback": "Arguing the price argues the wrong half. She said it could have waited."
+    },
+    {
+     "es": "Y las cosas de tu mamá qué.",
+     "en": "And what about your mother's things.",
+     "verdict": "bad",
+     "feedback": "Bringing the suegra into a money argument is lighting the second fire while the first one is going."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Solo quiero que hablemos antes.",
+   "en": "I only want us to talk about it first.",
+   "options": [
+    {
+     "es": "De acuerdo. Nada de cien pesos para arriba sin decirnos.",
+     "en": "Agreed. Nothing over a hundred without telling each other.",
+     "verdict": "good",
+     "feedback": "You turned it into a rule that applies to both of you. That is a fix instead of an apology."
+    },
+    {
+     "es": "Está bien, te aviso.",
+     "en": "All right, I will tell you.",
+     "verdict": "ok",
+     "feedback": "Accepted. Only one of you is bound by it, which she will notice in a month."
+    },
+    {
+     "es": "Vos tampoco me decís todo.",
+     "en": "You do not tell me everything either.",
+     "verdict": "bad",
+     "feedback": "Perhaps true. Said now, it is only there to stop the sentence she was finishing."
+    }
+   ]
+  }
+ ]
+}

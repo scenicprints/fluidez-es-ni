@@ -1,0 +1,109 @@
+{
+ "id": "sc88",
+ "title": "La indirecta",
+ "desc": "A leaking roof, mentioned like the weather",
+ "setting": "Doña Elena has been in your yard for an hour talking about the heat, the gas and her leg.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Y ahí el techo de la cocina goteando desde mayo.",
+   "en": "And there is the kitchen roof, leaking since May.",
+   "options": [
+    {
+     "es": "(oírlo y no contestar todavía)",
+     "en": "(hear it and not answer yet)",
+     "verdict": "good",
+     "feedback": "She has thrown it and changed the subject. Answering inside the same minute would tell her you heard a request, which is what she is avoiding."
+    },
+    {
+     "es": "Qué lástima, doña.",
+     "en": "What a shame, doña.",
+     "verdict": "ok",
+     "feedback": "Sympathy, which is not what she came for. It leaves the hint on the floor."
+    },
+    {
+     "es": "¿Quiere que se lo arregle?",
+     "en": "Do you want me to fix it for you?",
+     "verdict": "bad",
+     "feedback": "Naming it as a request forces her to admit she asked, which is the whole thing she was protecting."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Pero bueno. ¿Y el chavalito, cómo va?",
+   "en": "Anyway. And the boy, how is he?",
+   "options": [
+    {
+     "es": "Bien, ya camina. (y seguir con eso)",
+     "en": "Well, he is walking now. (and go on with that)",
+     "verdict": "good",
+     "feedback": "You followed her off the subject. The roof stays where she left it, which is where it is supposed to stay."
+    },
+    {
+     "es": "Bien. Volviendo a lo del techo...",
+     "en": "Well. Going back to the roof...",
+     "verdict": "ok",
+     "feedback": "Dragging it back turns her hint into a negotiation."
+    },
+    {
+     "es": "Bien. ¿Y desde cuándo gotea?",
+     "en": "Well. And how long has it been leaking?",
+     "verdict": "bad",
+     "feedback": "Investigating the hint is the same as answering it out loud."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "(una hora después) Bueno, ya me voy.",
+   "en": "(an hour later) Right, I am off.",
+   "options": [
+    {
+     "es": "Doña, el domingo ando por allá. Llevo la escalera.",
+     "en": "Doña, I am over your way on Sunday. I will bring the ladder.",
+     "verdict": "good",
+     "feedback": "Offered as your own idea, at the gate, an hour later. That is the answer to an indirecta and it is word-perfect."
+    },
+    {
+     "es": "Yo le puedo ayudar con el techo.",
+     "en": "I can help you with the roof.",
+     "verdict": "ok",
+     "feedback": "The right offer, said too plainly. It tells her the hint was received as a request."
+    },
+    {
+     "es": "Entonces el domingo le arreglo lo que me pidió.",
+     "en": "So on Sunday I will fix what you asked me for.",
+     "verdict": "bad",
+     "feedback": "She asked for nothing. Saying she did takes the whole thing apart."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Ay, no se moleste, mijo. Después.",
+   "en": "Oh, do not trouble yourself, son. Another time.",
+   "options": [
+    {
+     "es": "Si ya voy para allá, doña. Ahí le doy un vistazo.",
+     "en": "I am going that way anyway, doña. I will take a look.",
+     "verdict": "good",
+     "feedback": "She refused once, which is obligatory. You insisted once, which is also obligatory. Now it is agreed."
+    },
+    {
+     "es": "Bueno, si quiere después.",
+     "en": "All right, another time if you like.",
+     "verdict": "ok",
+     "feedback": "You took the ritual refusal as a real one. The roof will still be leaking in October."
+    },
+    {
+     "es": "Como usted diga.",
+     "en": "Whatever you say.",
+     "verdict": "bad",
+     "feedback": "Same thing, with the door shut behind it."
+    }
+   ]
+  }
+ ]
+}

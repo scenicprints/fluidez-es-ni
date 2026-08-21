@@ -1,0 +1,109 @@
+{
+ "id": "sc50",
+ "title": "La Gritería",
+ "desc": "December 7, and the shouting arrives at your door",
+ "setting": "It is six in the evening on the seventh and fifteen children are already at your gate.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Niños",
+   "es": "¿Quién causa tanta alegría?",
+   "en": "Who causes such joy?",
+   "options": [
+    {
+     "es": "¡La Concepción de María!",
+     "en": "The Conception of Mary!",
+     "verdict": "good",
+     "feedback": "The one answer there is, and you had it ready. Nobody here will forget that you did."
+    },
+    {
+     "es": "¡La virgen!",
+     "en": "The virgin!",
+     "verdict": "ok",
+     "feedback": "You know what it is about, but the call has a fixed answer and this is not it."
+    },
+    {
+     "es": "¡Buenas noches!",
+     "en": "Good evening!",
+     "verdict": "bad",
+     "feedback": "A greeting where a response goes. The whole street will hear the gap."
+    }
+   ]
+  },
+  {
+   "speaker": "Niños",
+   "es": "¡Feliz día! ¿Y el brindis?",
+   "en": "Happy day! And the brindis?",
+   "options": [
+    {
+     "es": "Ya voy, ya voy. Traigo caramelos y cajeta.",
+     "en": "Coming, coming. I have sweets and cajeta.",
+     "verdict": "good",
+     "feedback": "Naming the brindis is half the fun, and coming straight away is the other half."
+    },
+    {
+     "es": "Sí, esperen un momento.",
+     "en": "Yes, wait a moment.",
+     "verdict": "ok",
+     "feedback": "Fine, and they will wait. Naming what you are bringing is half the fun."
+    },
+    {
+     "es": "No tengo nada.",
+     "en": "I do not have anything.",
+     "verdict": "bad",
+     "feedback": "On the seventh of December this is the one sentence you cannot say at your own door."
+    }
+   ]
+  },
+  {
+   "speaker": "Niños",
+   "es": "¡Chocho, hay chischiles también!",
+   "en": "Chocho, there are rattles too!",
+   "options": [
+    {
+     "es": "Uno para cada uno, no peleen.",
+     "en": "One each, do not fight.",
+     "verdict": "good",
+     "feedback": "Said like somebody who has done this before, which is the impression you want."
+    },
+    {
+     "es": "Sí, agarren.",
+     "en": "Yes, take them.",
+     "verdict": "ok",
+     "feedback": "It works. Twelve children and no rule is how the rattles end up with four of them."
+    },
+    {
+     "es": "Los chischiles son para después.",
+     "en": "The rattles are for later.",
+     "verdict": "bad",
+     "feedback": "There is no later. The next house is waiting for them."
+    }
+   ]
+  },
+  {
+   "speaker": "Niños",
+   "es": "¡Gracias! ¡Feliz Purísima!",
+   "en": "Thank you! Happy Purísima!",
+   "options": [
+    {
+     "es": "¡Feliz Purísima! Vayan con cuidado.",
+     "en": "Happy Purísima! Go carefully.",
+     "verdict": "good",
+     "feedback": "You returned the greeting and sent them off like a neighbour, not a stranger."
+    },
+    {
+     "es": "De nada.",
+     "en": "You are welcome.",
+     "verdict": "ok",
+     "feedback": "Correct Spanish, wrong night. The greeting is what comes back."
+    },
+    {
+     "es": "Ya no queda más.",
+     "en": "There is nothing left.",
+     "verdict": "bad",
+     "feedback": "They were saying goodbye, not asking for more."
+    }
+   ]
+  }
+ ]
+}

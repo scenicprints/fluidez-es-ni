@@ -1,0 +1,109 @@
+{
+ "id": "sc48",
+ "title": "Pase adelante",
+ "desc": "Being invited in and not being able to refuse",
+ "setting": "You knock to return a borrowed tool. Doña Carmen opens the door and the tool is suddenly beside the point.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "¡Chele! Pase adelante, pase.",
+   "en": "Chele! Come in, come in.",
+   "options": [
+    {
+     "es": "Solo vine a dejarle esto, doña.",
+     "en": "I only came to drop this off for you, doña.",
+     "verdict": "good",
+     "feedback": "Says why you came without refusing her. It leaves her room to insist, which she will."
+    },
+    {
+     "es": "Gracias, paso un momento.",
+     "en": "Thank you, I will come in for a moment.",
+     "verdict": "ok",
+     "feedback": "Accepting is right. The moment will not be a moment."
+    },
+    {
+     "es": "No puedo, ando ocupado.",
+     "en": "I cannot, I am busy.",
+     "verdict": "bad",
+     "feedback": "A flat no at the door is heard as a refusal of her, not of the time."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Ay, no, entre un ratito. Ya hice café.",
+   "en": "Oh no, come in for a little while. I have just made coffee.",
+   "options": [
+    {
+     "es": "Bueno, un ratito entonces. Gracias.",
+     "en": "All right, a little while then. Thank you.",
+     "verdict": "good",
+     "feedback": "She insisted once, which is the signal. You accepted at exactly the right point."
+    },
+    {
+     "es": "Está bien, un café.",
+     "en": "All right, one coffee.",
+     "verdict": "ok",
+     "feedback": "Accepted, if a little transactional. It is not really about the coffee."
+    },
+    {
+     "es": "De verdad no puedo.",
+     "en": "I really cannot.",
+     "verdict": "bad",
+     "feedback": "Turning down a second offer needs a reason she can carry to somebody else."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Siéntese pues. ¿Cómo va el trabajo?",
+   "en": "Sit down then. How is work going?",
+   "options": [
+    {
+     "es": "Ahí va, doña. Con calor pero ahí va.",
+     "en": "It is going, doña. Hot, but it is going.",
+     "verdict": "good",
+     "feedback": "Ahí va is the answer people here actually give, and you kept the heat in it."
+    },
+    {
+     "es": "Bien, gracias.",
+     "en": "Well, thank you.",
+     "verdict": "ok",
+     "feedback": "Correct. Ahí va is what people here actually answer."
+    },
+    {
+     "es": "Muy mal, todo está mal.",
+     "en": "Very bad, everything is bad.",
+     "verdict": "bad",
+     "feedback": "Too much for the first minute. Save that for the gate on the way out."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Aquí siempre tiene su casa, mijo.",
+   "en": "You always have a home here, son.",
+   "options": [
+    {
+     "es": "Gracias, doña. Eso lo tomo en serio.",
+     "en": "Thank you, doña. I take that seriously.",
+     "verdict": "good",
+     "feedback": "You heard that it was not a formula, and you said so."
+    },
+    {
+     "es": "Muy amable.",
+     "en": "Very kind.",
+     "verdict": "ok",
+     "feedback": "Polite, but it answers a courtesy rather than what she actually said."
+    },
+    {
+     "es": "Bueno, ya me voy.",
+     "en": "All right, I am leaving now.",
+     "verdict": "bad",
+     "feedback": "She said something large. Leaving on top of it is the one wrong move."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc67",
+ "title": "La boda",
+ "desc": "Your own wedding, and forty people with opinions",
+ "setting": "Two weeks out. Doña Elena has the list, Lucía has the dress, and somebody has to say something about the money.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Van a ser como ciento veinte personas.",
+   "en": "It is going to be about a hundred and twenty people.",
+   "options": [
+    {
+     "es": "Ciento veinte. ¿Y quiénes son los padrinos?",
+     "en": "A hundred and twenty. And who are the godparents?",
+     "verdict": "good",
+     "feedback": "You did not flinch at the number and you went straight to who is paying for what. That is the real question."
+    },
+    {
+     "es": "¿Ciento veinte? Es bastante.",
+     "en": "A hundred and twenty? That is a lot.",
+     "verdict": "ok",
+     "feedback": "Honest. It also sounds like the first move in an argument about cutting the list."
+    },
+    {
+     "es": "Nosotros no conocemos a tanta gente.",
+     "en": "We do not know that many people.",
+     "verdict": "bad",
+     "feedback": "You do not. Her family does, and the wedding belongs to more people than the two of you."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Hay padrino de pastel, de música y de las sillas.",
+   "en": "There is a godparent of the cake, of the music and of the chairs.",
+   "options": [
+    {
+     "es": "Ah, entonces no lo paga una sola familia.",
+     "en": "Ah, so one family does not pay for it all.",
+     "verdict": "good",
+     "feedback": "You understood the whole system in one sentence. That is the answer she was waiting to hear."
+    },
+    {
+     "es": "Está bien, eso ayuda.",
+     "en": "All right, that helps.",
+     "verdict": "ok",
+     "feedback": "True, and it treats the padrinos as a discount rather than as people."
+    },
+    {
+     "es": "Yo prefiero pagarlo todo yo.",
+     "en": "I would rather pay for it all myself.",
+     "verdict": "bad",
+     "feedback": "It sounds generous and it is an insult. You would be shutting her family out of their own wedding."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "A usted le toca hablar con el padre.",
+   "en": "It falls to you to talk to the priest.",
+   "options": [
+    {
+     "es": "Va. ¿Qué es lo que tengo que llevar?",
+     "en": "Right. What do I need to take?",
+     "verdict": "good",
+     "feedback": "Accepted the job and asked for the list. Nothing else was needed."
+    },
+    {
+     "es": "¿Y por qué yo?",
+     "en": "And why me?",
+     "verdict": "ok",
+     "feedback": "Because it is yours. Asking why turns a task into a negotiation."
+    },
+    {
+     "es": "Que vaya Lucía, ella lo conoce.",
+     "en": "Let Lucía go, she knows him.",
+     "verdict": "bad",
+     "feedback": "She does. The point is that the priest meets the man."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Y no se me ponga nervioso el día.",
+   "en": "And do not go getting nervous on me on the day.",
+   "options": [
+    {
+     "es": "Nervioso voy a estar, doña. Pero ahí voy a estar.",
+     "en": "I will be nervous, doña. But I will be there.",
+     "verdict": "good",
+     "feedback": "Admitted the first half and promised the second. That is exactly the right size of answer."
+    },
+    {
+     "es": "No se preocupe.",
+     "en": "Do not worry.",
+     "verdict": "ok",
+     "feedback": "Reassuring and empty. She was not really asking about nerves."
+    },
+    {
+     "es": "Yo nunca me pongo nervioso.",
+     "en": "I never get nervous.",
+     "verdict": "bad",
+     "feedback": "In two weeks, in front of a hundred and twenty people, that will not survive contact."
+    }
+   ]
+  }
+ ]
+}

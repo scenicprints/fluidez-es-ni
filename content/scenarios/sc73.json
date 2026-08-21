@@ -1,0 +1,109 @@
+{
+ "id": "sc73",
+ "title": "Le tocaba a alguien",
+ "desc": "The suegra asks you, and not her own sons",
+ "setting": "Doña Elena phones the house at nine on a Tuesday. Lucía is bathing the baby and you answer.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Ah, es usted. Fíjese que tengo un problema con un papel del banco.",
+   "en": "Ah, it is you. The thing is I have a problem with a bank document.",
+   "options": [
+    {
+     "es": "Cuénteme, doña. ¿Qué dice el papel?",
+     "en": "Tell me, doña. What does the paper say?",
+     "verdict": "good",
+     "feedback": "You took it as yours before asking whether it was. That is the whole test and it is over in one line."
+    },
+    {
+     "es": "¿Quiere que le diga a Lucía?",
+     "en": "Do you want me to tell Lucía?",
+     "verdict": "ok",
+     "feedback": "Helpful, and it hands the call back. She rang the house and got you, which is not an accident."
+    },
+    {
+     "es": "Ella ya viene, espere.",
+     "en": "She is coming, hold on.",
+     "verdict": "bad",
+     "feedback": "You have just passed your mother-in-law to somebody else in her own phone call."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Es un trámite que no entiendo. ¿Usted podría acompañarme?",
+   "en": "It is paperwork I do not understand. Could you go with me?",
+   "options": [
+    {
+     "es": "Claro que sí. ¿Qué día le queda bien?",
+     "en": "Of course. What day suits you?",
+     "verdict": "good",
+     "feedback": "Yes first, logistics second. Any gap between those two would have been the answer."
+    },
+    {
+     "es": "Sí, cuando pueda voy.",
+     "en": "Yes, I will go when I can.",
+     "verdict": "ok",
+     "feedback": "A yes with no day in it. Here that reads as a maybe."
+    },
+    {
+     "es": "¿Y Julio no puede?",
+     "en": "And can Julio not?",
+     "verdict": "bad",
+     "feedback": "He can. She did not ask him."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "El jueves, si se puede.",
+   "en": "Thursday, if possible.",
+   "options": [
+    {
+     "es": "El jueves entonces. Yo paso por usted.",
+     "en": "Thursday then. I will come by for you.",
+     "verdict": "good",
+     "feedback": "Fixed the day and took the travel off her. A woman of sixty-two should not be finding the bank on her own."
+    },
+    {
+     "es": "El jueves está bien.",
+     "en": "Thursday is fine.",
+     "verdict": "ok",
+     "feedback": "Agreed. She still has to get herself there."
+    },
+    {
+     "es": "Nos vemos allá a las ocho.",
+     "en": "See you there at eight.",
+     "verdict": "bad",
+     "feedback": "Meeting her at the door of a bank she does not understand is half a favour."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Bueno pues. Hasta el jueves.",
+   "en": "All right then. Until Thursday.",
+   "options": [
+    {
+     "es": "Hasta el jueves, doña. Que descanse.",
+     "en": "Until Thursday, doña. Sleep well.",
+     "verdict": "good",
+     "feedback": "Closed it the way you would close it with your own mother. That is what she rang to find out."
+    },
+    {
+     "es": "Adiós, doña.",
+     "en": "Goodbye, doña.",
+     "verdict": "ok",
+     "feedback": "Adiós still sounds like forever. Hasta el jueves was right there."
+    },
+    {
+     "es": "Ahí le aviso.",
+     "en": "I will let you know.",
+     "verdict": "bad",
+     "feedback": "You just agreed on Thursday. Now it is uncertain again."
+    }
+   ]
+  }
+ ]
+}

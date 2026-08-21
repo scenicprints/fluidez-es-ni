@@ -1,0 +1,109 @@
+{
+ "id": "sc49",
+ "title": "Ahorita",
+ "desc": "One word, four meanings, and a whole afternoon",
+ "setting": "Marcos said he would come by ahorita. That was two hours ago.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "¿Aló? Ideay, ya voy saliendo.",
+   "en": "Hello? Ideay, I am on my way out now.",
+   "options": [
+    {
+     "es": "Dale. ¿Como en cuánto llegás?",
+     "en": "Right. About how long will you be?",
+     "verdict": "good",
+     "feedback": "You accepted and asked for a number. That is the only way ahorita ever becomes a time."
+    },
+    {
+     "es": "Bueno, aquí te espero.",
+     "en": "All right, I will wait here.",
+     "verdict": "ok",
+     "feedback": "Patient and pleasant. You have also agreed to wait an unknown amount of time."
+    },
+    {
+     "es": "Dijiste ahorita hace dos horas.",
+     "en": "You said ahorita two hours ago.",
+     "verdict": "bad",
+     "feedback": "True, and it lands as a complaint about something nobody here counts as broken."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Como en veinte minutos, pues.",
+   "en": "About twenty minutes, then.",
+   "options": [
+    {
+     "es": "¿Veinte minutos tuyos o veinte de verdad?",
+     "en": "Twenty of your minutes or twenty real ones?",
+     "verdict": "good",
+     "feedback": "The joke Nicaraguans make about their own word. Making it yourself is the move."
+    },
+    {
+     "es": "Está bien, te espero.",
+     "en": "All right, I will wait for you.",
+     "verdict": "ok",
+     "feedback": "Fine. You have missed the joke that was sitting right there."
+    },
+    {
+     "es": "Entonces llegás a las cinco.",
+     "en": "So you will arrive at five.",
+     "verdict": "bad",
+     "feedback": "Sharp rather than funny. It reads as a telling-off."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Jaja, vos ya aprendiste. Veinte de verdad.",
+   "en": "Ha, you have learned. Twenty real ones.",
+   "options": [
+    {
+     "es": "Ya voy agarrando la onda.",
+     "en": "I am getting the hang of it.",
+     "verdict": "good",
+     "feedback": "Light, self-deprecating, and it accepts the compliment without making a thing of it."
+    },
+    {
+     "es": "Sí, ya sé cómo es.",
+     "en": "Yes, I know how it is.",
+     "verdict": "ok",
+     "feedback": "True. A shade smug where the other one was warm."
+    },
+    {
+     "es": "Es que ustedes nunca llegan a la hora.",
+     "en": "The thing is you people never arrive on time.",
+     "verdict": "bad",
+     "feedback": "Ustedes turns a joke between two friends into a verdict on a country."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Ahorita nos vemos pues.",
+   "en": "See you in a bit, then.",
+   "options": [
+    {
+     "es": "Ahorita pues.",
+     "en": "In a bit, then.",
+     "verdict": "good",
+     "feedback": "You gave him his own word back. That is exactly how the call should end."
+    },
+    {
+     "es": "Nos vemos.",
+     "en": "See you.",
+     "verdict": "ok",
+     "feedback": "Correct and normal. It just leaves his joke unanswered."
+    },
+    {
+     "es": "Ahorita de verdad, por favor.",
+     "en": "Really in a bit, please.",
+     "verdict": "bad",
+     "feedback": "The please turns it into a request, and now it is a small argument."
+    }
+   ]
+  }
+ ]
+}

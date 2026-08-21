@@ -1,0 +1,109 @@
+{
+ "id": "sc42",
+ "title": "La pila",
+ "desc": "Water comes twice a week and you have to catch it",
+ "setting": "Roberto finds you standing in the yard with an empty bucket and no idea what to do.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Roberto",
+   "es": "Chele, el agua viene hoy. ¿Ya llenaste la pila?",
+   "en": "Chele, the water comes today. Have you filled the tank?",
+   "options": [
+    {
+     "es": "Todavía no. ¿A qué hora viene?",
+     "en": "Not yet. What time does it come?",
+     "verdict": "good",
+     "feedback": "Admits you have not, and asks the one thing you need to know. Nothing wasted."
+    },
+    {
+     "es": "¿Qué es la pila?",
+     "en": "What is the pila?",
+     "verdict": "ok",
+     "feedback": "Fair question on day one, but you have one in your own yard and he can see it."
+    },
+    {
+     "es": "Yo tengo agua en la llave.",
+     "en": "I have water in the tap.",
+     "verdict": "bad",
+     "feedback": "That is the point - today you do, tomorrow you will not."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Como a las seis. Después se va y no vuelve hasta el jueves.",
+   "en": "About six. Then it goes and does not come back until Thursday.",
+   "options": [
+    {
+     "es": "Entonces lleno todo lo que pueda.",
+     "en": "Then I will fill everything I can.",
+     "verdict": "good",
+     "feedback": "Exactly the right instinct, and said in one clean sentence."
+    },
+    {
+     "es": "Está bien, gracias.",
+     "en": "All right, thanks.",
+     "verdict": "ok",
+     "feedback": "You have understood but not acted. Here the answer is what you are going to do."
+    },
+    {
+     "es": "El jueves está lejos.",
+     "en": "Thursday is far away.",
+     "verdict": "bad",
+     "feedback": "True, and there is nothing to be done about it. Fill the tank."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Agarrá el balde. Yo te ayudo.",
+   "en": "Grab the bucket. I will help you.",
+   "options": [
+    {
+     "es": "Dale pues. Gracias, Roberto.",
+     "en": "Right then. Thanks, Roberto.",
+     "verdict": "good",
+     "feedback": "Dale pues accepts the offer the way a neighbour would."
+    },
+    {
+     "es": "No, yo puedo solo.",
+     "en": "No, I can do it alone.",
+     "verdict": "ok",
+     "feedback": "You can, but turning down help from a neighbour here is turning down more than help."
+    },
+    {
+     "es": "¿Cuánto me cobrás?",
+     "en": "How much will you charge me?",
+     "verdict": "bad",
+     "feedback": "He is not selling you anything. That question would sting."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Listo. Con esto aguantás hasta el jueves.",
+   "en": "Done. This will see you through to Thursday.",
+   "options": [
+    {
+     "es": "Te debo una, vos.",
+     "en": "I owe you one.",
+     "verdict": "good",
+     "feedback": "Perfect. The debt is the point, and vos is exactly right with him."
+    },
+    {
+     "es": "Muchas gracias.",
+     "en": "Thank you very much.",
+     "verdict": "ok",
+     "feedback": "Correct and warm, just a shade formal for a chavalo you see every day."
+    },
+    {
+     "es": "Ya no me falta nada.",
+     "en": "I do not need anything else now.",
+     "verdict": "bad",
+     "feedback": "It closes the door on him. He was not asking whether you needed more."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc92",
+ "title": "Ya en serio",
+ "desc": "The tone changes and you have to change with it",
+ "setting": "Friday, the corner, eleven o'clock, and something in Chino's face has just moved.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Chino",
+   "es": "Bueno... la verdad es que las cosas en la casa están difíciles.",
+   "en": "Right... the truth is things at home are difficult.",
+   "options": [
+    {
+     "es": "(dejar de reírse y voltear a verlo)",
+     "en": "(stop laughing and turn to look at him)",
+     "verdict": "good",
+     "feedback": "La verdad is the signal. Turning your body is how the table answers it, and you were not a beat behind."
+    },
+    {
+     "es": "Contame pues.",
+     "en": "Go on then.",
+     "verdict": "ok",
+     "feedback": "Warm, and it asks him to perform it. He will get there without being asked."
+    },
+    {
+     "es": "Jaja, ¿y ahora qué hiciste?",
+     "en": "Ha, and what have you done now?",
+     "verdict": "bad",
+     "feedback": "Answering the serious register with the joking one. The table will go quiet and it will be your fault."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Mi mujer se quiere ir donde su mamá.",
+   "en": "My wife wants to go to her mother's.",
+   "options": [
+    {
+     "es": "(no decir nada y esperar)",
+     "en": "(say nothing and wait)",
+     "verdict": "good",
+     "feedback": "Nobody interrupts in this register. The silence is what lets him finish."
+    },
+    {
+     "es": "Puchica, vos. Qué duro.",
+     "en": "Damn. That is hard.",
+     "verdict": "ok",
+     "feedback": "Human and correct. It is also a small interruption in a place where none is needed."
+    },
+    {
+     "es": "Eso lo arreglan hablando.",
+     "en": "You can sort that out by talking.",
+     "verdict": "bad",
+     "feedback": "Advice in the first thirty seconds. He is not asking for a solution."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "(termina) Bueno. Ya. Eso era.",
+   "en": "(finishing) Right. That is it. That was it.",
+   "options": [
+    {
+     "es": "Gracias por contarlo, vos.",
+     "en": "Thank you for telling it.",
+     "verdict": "good",
+     "feedback": "He gave you something. Saying so once, plainly, is the whole answer."
+    },
+    {
+     "es": "Aquí estamos.",
+     "en": "We are here.",
+     "verdict": "ok",
+     "feedback": "Warm and true. It is what everybody says, which is fine."
+    },
+    {
+     "es": "¿Y qué vas a hacer?",
+     "en": "And what are you going to do?",
+     "verdict": "bad",
+     "feedback": "He has finished. That question puts him back in it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Otra birra, vos. ¿Cómo estuvo la semana?",
+   "en": "Another beer. How was your week?",
+   "options": [
+    {
+     "es": "(preguntarle a Chino aparte, en la puerta)",
+     "en": "(ask Chino about it separately, at the door)",
+     "verdict": "good",
+     "feedback": "Serious things are said once at the table and looked after away from it. That is the rule and you have it."
+    },
+    {
+     "es": "(no mencionarlo nunca más)",
+     "en": "(never mention it again)",
+     "verdict": "ok",
+     "feedback": "Safe, and correct on the surface. Asking once, alone, is what makes the difference."
+    },
+    {
+     "es": "Chino, ¿cómo va lo de tu mujer?",
+     "en": "Chino, how is the thing with your wife going?",
+     "verdict": "bad",
+     "feedback": "Said at the table, in front of four people, in the joking register. That undoes the whole of last Friday."
+    }
+   ]
+  }
+ ]
+}

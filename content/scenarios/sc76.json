@@ -1,0 +1,109 @@
+{
+ "id": "sc76",
+ "title": "El enano en tu puerta",
+ "desc": "A giant woman, a big-headed boy and forty verses",
+ "setting": "December, seven at night, a drum coming down your street, and doña Carmen has just elbowed you.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "Ahí viene la Gigantona. Salí a verla.",
+   "en": "Here comes the Gigantona. Come out and see her.",
+   "options": [
+    {
+     "es": "¡Chocho, qué grande! ¿Quién va adentro?",
+     "en": "Chocho, how big! Who is inside?",
+     "verdict": "good",
+     "feedback": "Reacted first and asked second, which is the right way round when something arrives at your door."
+    },
+    {
+     "es": "Ah, sí, ya la había visto.",
+     "en": "Ah, yes, I had seen it before.",
+     "verdict": "ok",
+     "feedback": "Perhaps. Saying so takes the moment away from the person showing you."
+    },
+    {
+     "es": "¿Y eso qué es?",
+     "en": "And what is that?",
+     "verdict": "bad",
+     "feedback": "Fair on the first December. Doña Carmen just told you what it is."
+    }
+   ]
+  },
+  {
+   "speaker": "Enano",
+   "es": "Aquí está el Enano Cabezón, que viene de León...",
+   "en": "Here is the Big-Headed Dwarf, who comes from León...",
+   "options": [
+    {
+     "es": "(Escuchar sin interrumpir)",
+     "en": "(Listen without interrupting)",
+     "verdict": "good",
+     "feedback": "Nothing to say. He is eight and he has forty of these by heart. Let him finish."
+    },
+    {
+     "es": "(Sacar el teléfono para grabarlo)",
+     "en": "(Take out the phone to film it)",
+     "verdict": "ok",
+     "feedback": "Everybody does. It also puts a screen between you and the one boy performing at your gate."
+    },
+    {
+     "es": "No le entiendo nada.",
+     "en": "I do not understand a word.",
+     "verdict": "bad",
+     "feedback": "Said in the middle of the recital, to the reciter's face."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Ya terminó. Ahora le toca a usted.",
+   "en": "He has finished. Now it is your turn.",
+   "options": [
+    {
+     "es": "Aquí tenés, chavalo. Estuvo bueno.",
+     "en": "Here you go, kid. That was good.",
+     "verdict": "good",
+     "feedback": "The coin and a word about the performance. He will remember the second part longer."
+    },
+    {
+     "es": "Tome, muchacho.",
+     "en": "Take this, boy.",
+     "verdict": "ok",
+     "feedback": "The coin goes across. He recited forty lines and got a transaction."
+    },
+    {
+     "es": "¿Cuánto se le da normalmente?",
+     "en": "How much does one usually give?",
+     "verdict": "bad",
+     "feedback": "Asking the price out loud in front of him."
+    }
+   ]
+  },
+  {
+   "speaker": "Enano",
+   "es": "Gracias, y hasta el otro año.",
+   "en": "Thank you, and until next year.",
+   "options": [
+    {
+     "es": "Hasta el otro año pues. Aquí lo espero.",
+     "en": "Until next year then. I will be waiting here.",
+     "verdict": "good",
+     "feedback": "You have just told a boy he has a door to come back to. That is how the December round survives."
+    },
+    {
+     "es": "Adiós.",
+     "en": "Goodbye.",
+     "verdict": "ok",
+     "feedback": "Small, and after all that it lands smaller than you mean it."
+    },
+    {
+     "es": "Ya está bueno por hoy.",
+     "en": "That is enough for today.",
+     "verdict": "bad",
+     "feedback": "He is leaving anyway. Now it sounds like you were waiting for him to go."
+    }
+   ]
+  }
+ ]
+}

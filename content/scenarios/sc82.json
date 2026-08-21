@@ -1,0 +1,109 @@
+{
+ "id": "sc82",
+ "title": "Andate ya",
+ "desc": "Leaving a house, which takes forty minutes",
+ "setting": "Nine at night at doña Carmen's. You have work at six and you have just said the word bueno.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "¿Ya se van? Pero si acaban de llegar.",
+   "en": "Are you going already? But you have only just got here.",
+   "options": [
+    {
+     "es": "Ya va siendo hora, doña. Mañana entro temprano.",
+     "en": "It is getting to be time, doña. I start early tomorrow.",
+     "verdict": "good",
+     "feedback": "A reason that is not about her, said after the bueno rather than instead of it. The first stage, done properly."
+    },
+    {
+     "es": "Sí, ya nos vamos.",
+     "en": "Yes, we are going now.",
+     "verdict": "ok",
+     "feedback": "Correct, and about thirty minutes early. Standing up now would be abrupt."
+    },
+    {
+     "es": "Estoy cansado.",
+     "en": "I am tired.",
+     "verdict": "bad",
+     "feedback": "Honest and blunt. In her front room it lands as though the evening wore you out."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Quédense otro ratito. Ahorita hago más café.",
+   "en": "Stay a little longer. I will make more coffee in a minute.",
+   "options": [
+    {
+     "es": "Un ratito más entonces, pero sin café.",
+     "en": "A little longer then, but no coffee.",
+     "verdict": "good",
+     "feedback": "She insisted once, which is obligatory, and you gave her half. Now you can leave in ten minutes without anybody losing."
+    },
+    {
+     "es": "Bueno, un café más.",
+     "en": "All right, one more coffee.",
+     "verdict": "ok",
+     "feedback": "Accepted the whole offer. That is another forty minutes and you have work at six."
+    },
+    {
+     "es": "No, de verdad ya nos vamos.",
+     "en": "No, really, we are going now.",
+     "verdict": "bad",
+     "feedback": "Refusing the first insistence flatly is the one move that stings."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "(en el portón) Y dígale a Lucía que me llame.",
+   "en": "(at the gate) And tell Lucía to call me.",
+   "options": [
+    {
+     "es": "Yo le digo, doña. ¿Todo bien con usted?",
+     "en": "I will tell her, doña. Is everything all right with you?",
+     "verdict": "good",
+     "feedback": "The gate is where the real thing gets said. You noticed and you asked."
+    },
+    {
+     "es": "Sí, yo le aviso.",
+     "en": "Yes, I will let her know.",
+     "verdict": "ok",
+     "feedback": "A message taken. The gate is where she would have told you why."
+    },
+    {
+     "es": "Ella tiene su teléfono, doña.",
+     "en": "She has her own phone, doña.",
+     "verdict": "bad",
+     "feedback": "True and cold, and it ends the one part of the evening that had something in it."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Cuidate en el camino, mijo.",
+   "en": "Take care on the way, son.",
+   "options": [
+    {
+     "es": "Gracias, doña. Que pase buena noche.",
+     "en": "Thank you, doña. Have a good night.",
+     "verdict": "good",
+     "feedback": "Warm, correct, and it lets both of you stop. Adiós was never an option."
+    },
+    {
+     "es": "Sí, adiós.",
+     "en": "Yes, goodbye.",
+     "verdict": "ok",
+     "feedback": "Adiós from a gate you will be back at on Sunday is too big a word."
+    },
+    {
+     "es": "Nos vemos, ya me voy.",
+     "en": "See you, I am off.",
+     "verdict": "bad",
+     "feedback": "Ya me voy was thirty minutes ago. Saying it at the gate reopens the whole sequence."
+    }
+   ]
+  }
+ ]
+}

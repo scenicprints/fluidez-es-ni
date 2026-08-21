@@ -1,0 +1,109 @@
+{
+ "id": "sc85",
+ "title": "Con todo respeto",
+ "desc": "Correcting a man of sixty-eight",
+ "setting": "Don Emilio's measurement is wrong. You are certain, and he has worked here since before you were born.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Don Emilio",
+   "es": "¿Sí?",
+   "en": "Yes?",
+   "options": [
+    {
+     "es": "Con todo respeto, don Emilio, ¿tiene un minuto?",
+     "en": "With all respect, don Emilio, do you have a minute?",
+     "verdict": "good",
+     "feedback": "The permission comes before the problem. That phrase is what makes everything after it possible."
+    },
+    {
+     "es": "Don Emilio, encontré un error.",
+     "en": "Don Emilio, I found a mistake.",
+     "verdict": "ok",
+     "feedback": "The word error, in the first sentence, in a workshop where four people can hear."
+    },
+    {
+     "es": "Esta medida está mala.",
+     "en": "This measurement is wrong.",
+     "verdict": "bad",
+     "feedback": "No greeting, no permission, and the fault named out loud. He will not look at it now."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Emilio",
+   "es": "Diga pues.",
+   "en": "Go ahead.",
+   "options": [
+    {
+     "es": "Yo debo estar equivocado, pero esta medida no me da.",
+     "en": "I must be mistaken, but this measurement does not work out for me.",
+     "verdict": "good",
+     "feedback": "The mistake stays on your side of the bench until he chooses to pick it up. That is the whole technique."
+    },
+    {
+     "es": "Creo que hay un error en el número.",
+     "en": "I think there is a mistake in the number.",
+     "verdict": "ok",
+     "feedback": "Softened with creo, which helps. It still puts the error on his paper."
+    },
+    {
+     "es": "Usted puso ciento veinte y son ciento diez.",
+     "en": "You put a hundred and twenty and it is a hundred and ten.",
+     "verdict": "bad",
+     "feedback": "Correct, and it is a verdict delivered in front of the shop."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Emilio",
+   "es": "(mira el papel treinta segundos) Ah.",
+   "en": "(looks at the paper for thirty seconds) Ah.",
+   "options": [
+    {
+     "es": "(esperar sin decir nada)",
+     "en": "(wait without saying anything)",
+     "verdict": "good",
+     "feedback": "He is deciding whether to pick up the pencil. Anything you say in that gap takes the decision away from him."
+    },
+    {
+     "es": "¿Ve lo que le digo?",
+     "en": "Do you see what I mean?",
+     "verdict": "ok",
+     "feedback": "Almost harmless. It also asks him to agree out loud that he was wrong."
+    },
+    {
+     "es": "Sí, yo sabía que estaba mal.",
+     "en": "Yes, I knew it was wrong.",
+     "verdict": "bad",
+     "feedback": "Everything you built with the first three sentences, undone in one."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Emilio",
+   "es": "(cambia el número él mismo) Así sí le da.",
+   "en": "(changes the number himself) That way it works out.",
+   "options": [
+    {
+     "es": "Gracias, don Emilio.",
+     "en": "Thank you, don Emilio.",
+     "verdict": "good",
+     "feedback": "Two words and back to work. Nobody mentions it again, which is the point."
+    },
+    {
+     "es": "Perfecto, gracias.",
+     "en": "Perfect, thank you.",
+     "verdict": "ok",
+     "feedback": "Fine. Perfecto puts a small spotlight on the correction."
+    },
+    {
+     "es": "Ya quedó bien entonces.",
+     "en": "It is right now, then.",
+     "verdict": "bad",
+     "feedback": "Summarising it out loud is the one thing that turns a private fix into a public one."
+    }
+   ]
+  }
+ ]
+}

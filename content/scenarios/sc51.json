@@ -1,0 +1,109 @@
+{
+ "id": "sc51",
+ "title": "El mes de la patria",
+ "desc": "September, and the flags go up on everything",
+ "setting": "Blue and white is on every pole and every bus. Roberto is painting a paper flag at your table.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Roberto",
+   "es": "¿En tu país también hacen esto en septiembre?",
+   "en": "Do they do this in your country in September too?",
+   "options": [
+    {
+     "es": "No así. Aquí se ve en todas partes.",
+     "en": "Not like this. Here you see it everywhere.",
+     "verdict": "good",
+     "feedback": "An honest comparison with no verdict attached. He can carry that anywhere."
+    },
+    {
+     "es": "No.",
+     "en": "No.",
+     "verdict": "ok",
+     "feedback": "True, and it stops a conversation he opened to include you."
+    },
+    {
+     "es": "Es demasiado.",
+     "en": "It is too much.",
+     "verdict": "bad",
+     "feedback": "Said out loud in September that is not an opinion, it is an insult."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Es que ganamos la independencia en septiembre.",
+   "en": "It is because we won independence in September.",
+   "options": [
+    {
+     "es": "¿Y qué hacen en la escuela ese día?",
+     "en": "And what do you do at school that day?",
+     "verdict": "good",
+     "feedback": "You turned his fact into his story. That is how a conversation stays open."
+    },
+    {
+     "es": "Ah, qué interesante.",
+     "en": "Ah, how interesting.",
+     "verdict": "ok",
+     "feedback": "Polite, and it lands like a tourist. Ask him something."
+    },
+    {
+     "es": "Eso lo sé, lo leí.",
+     "en": "I know that, I read it.",
+     "verdict": "bad",
+     "feedback": "You have taken the story out of his mouth."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Desfile. Todo el colegio, con tambores.",
+   "en": "A parade. The whole school, with drums.",
+   "options": [
+    {
+     "es": "¿Vos vas a desfilar? Yo quiero ver eso.",
+     "en": "Are you going to march? I want to see that.",
+     "verdict": "good",
+     "feedback": "You asked whether he is in it and said you want to see it. That is an acceptance before the invitation."
+    },
+    {
+     "es": "Debe ser bonito.",
+     "en": "It must be nice.",
+     "verdict": "ok",
+     "feedback": "Warm enough. You have still not said you will come."
+    },
+    {
+     "es": "Los desfiles son largos.",
+     "en": "Parades are long.",
+     "verdict": "bad",
+     "feedback": "They are, and it is his parade. Keep that one to yourself."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Vení pues. Es a las ocho, en la calle grande.",
+   "en": "Come then. It is at eight, on the main street.",
+   "options": [
+    {
+     "es": "Ahí nos vemos. No me lo pierdo.",
+     "en": "See you there. I will not miss it.",
+     "verdict": "good",
+     "feedback": "A time, a place, and a promise. That is how an invitation is answered here."
+    },
+    {
+     "es": "Voy a tratar de ir.",
+     "en": "I will try to go.",
+     "verdict": "ok",
+     "feedback": "Trying is what people say when they mean no. He will hear it that way."
+    },
+    {
+     "es": "Tal vez después.",
+     "en": "Maybe later.",
+     "verdict": "bad",
+     "feedback": "That is the polite no, and he will understand it perfectly."
+    }
+   ]
+  }
+ ]
+}

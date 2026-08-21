@@ -1,0 +1,109 @@
+{
+ "id": "sc74",
+ "title": "Qué tuani",
+ "desc": "A word you learned from a teenager, said to a grandmother",
+ "setting": "Doña Chepa's shop, Saturday morning, and there is an eighty-year-old woman buying bread beside you.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Señora",
+   "es": "¿Y cómo le va aquí en Managua, mijo?",
+   "en": "And how are you getting on here in Managua, son?",
+   "options": [
+    {
+     "es": "Muy bien, señora. Aquí muy contento.",
+     "en": "Very well, señora. Very happy here.",
+     "verdict": "good",
+     "feedback": "Plain, warm, and pitched at her age. That is all this question ever wanted."
+    },
+    {
+     "es": "Todo bien, gracias.",
+     "en": "All good, thanks.",
+     "verdict": "ok",
+     "feedback": "Correct. Señora would have cost you nothing and bought a lot."
+    },
+    {
+     "es": "Todo deacachimba.",
+     "en": "Everything is deacachimba.",
+     "verdict": "bad",
+     "feedback": "The word is not wrong. In front of a woman of eighty, out of a married man's mouth, it is the wrong word."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Bueno... aquí tiene su pan, doña Julia.",
+   "en": "Well... here is your bread, doña Julia.",
+   "options": [
+    {
+     "es": "Que le vaya bien, doña Julia.",
+     "en": "All the best, doña Julia.",
+     "verdict": "good",
+     "feedback": "You caught the name and used it. The room was awkward and you made it ordinary again."
+    },
+    {
+     "es": "Adiós.",
+     "en": "Goodbye.",
+     "verdict": "ok",
+     "feedback": "Adiós to somebody walking out of a shop still sounds bigger than it is."
+    },
+    {
+     "es": "Nada, no le hagan caso.",
+     "en": "Never mind, ignore that.",
+     "verdict": "bad",
+     "feedback": "Drawing attention to it in front of her is worse than the word was."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Mijo. Esa palabra es de chavalos.",
+   "en": "Son. That word is for kids.",
+   "options": [
+    {
+     "es": "Puchica. ¿Y con quién sí se puede decir?",
+     "en": "Damn. And who can it be said with, then?",
+     "verdict": "good",
+     "feedback": "Took the correction and asked the useful follow-up. That is how the rest of the slang gets learned safely."
+    },
+    {
+     "es": "Ah, perdón.",
+     "en": "Ah, sorry.",
+     "verdict": "ok",
+     "feedback": "Fine, and it ends the lesson she was about to give you for free."
+    },
+    {
+     "es": "Roberto la dice todo el tiempo.",
+     "en": "Roberto says it all the time.",
+     "verdict": "bad",
+     "feedback": "He is seventeen. That is the entire point she is making."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Entre amigos sí. Con una señora mayor no.",
+   "en": "Among friends yes. With an older lady no.",
+   "options": [
+    {
+     "es": "Entendido. Tuani sí puedo, ¿verdad?",
+     "en": "Understood. Tuani I can use, right?",
+     "verdict": "good",
+     "feedback": "You checked the neighbouring word instead of guessing. That is exactly the habit to build."
+    },
+    {
+     "es": "Ya no la voy a decir.",
+     "en": "I am not going to say it any more.",
+     "verdict": "ok",
+     "feedback": "Safe, and it throws away a good word instead of learning where it lives."
+    },
+    {
+     "es": "Es que ustedes son muy delicados.",
+     "en": "You people are very sensitive.",
+     "verdict": "bad",
+     "feedback": "Ustedes, and a verdict, thirty seconds after being helped."
+    }
+   ]
+  }
+ ]
+}

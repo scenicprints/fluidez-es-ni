@@ -1,0 +1,109 @@
+{
+ "id": "sc84",
+ "title": "Tal vez después",
+ "desc": "A no you were given in March",
+ "setting": "You have invited Julio to the lake three times since March. It is August.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Julio",
+   "es": "Tal vez después, vos. Ahorita está complicado.",
+   "en": "Maybe later. Right now it is complicated.",
+   "options": [
+    {
+     "es": "Va pues. Cuando querrás, avisame vos.",
+     "en": "Right then. Whenever you like, you let me know.",
+     "verdict": "good",
+     "feedback": "You heard the no and handed him the next move. Nothing is broken and nobody had to say it."
+    },
+    {
+     "es": "Bueno, otro día entonces.",
+     "en": "All right, another day then.",
+     "verdict": "ok",
+     "feedback": "Fine. Otro día from you keeps the invitation alive slightly longer than it should be."
+    },
+    {
+     "es": "¿Y el otro domingo? ¿Y el siguiente?",
+     "en": "And next Sunday? And the one after?",
+     "verdict": "bad",
+     "feedback": "Pushing past a soft no is the one thing it is designed to prevent."
+    }
+   ]
+  },
+  {
+   "speaker": "Julio",
+   "es": "Es que en estos meses ando corto.",
+   "en": "The thing is these months I am short.",
+   "options": [
+    {
+     "es": "Ah, va. Si es por eso, yo pongo la gasolina.",
+     "en": "Ah, right. If that is it, I will put in the petrol.",
+     "verdict": "good",
+     "feedback": "He gave you the real reason, indirectly. Answering it without naming it is exactly right."
+    },
+    {
+     "es": "No te preocupés por eso.",
+     "en": "Do not worry about that.",
+     "verdict": "ok",
+     "feedback": "Kind and vague. He needs to know who is paying before he can say yes."
+    },
+    {
+     "es": "Pero si no cuesta casi nada.",
+     "en": "But it hardly costs anything.",
+     "verdict": "bad",
+     "feedback": "To him it does. That sentence tells him you have not understood the last four months."
+    }
+   ]
+  },
+  {
+   "speaker": "Julio",
+   "es": "No, hombre, no es solo eso.",
+   "en": "No, man, it is not just that.",
+   "options": [
+    {
+     "es": "Está bien. No te estoy sacando nada.",
+     "en": "All right. I am not trying to get anything out of you.",
+     "verdict": "good",
+     "feedback": "You let go of it cleanly. That sentence is what tells him the door stays open."
+    },
+    {
+     "es": "Bueno, cuando puedas.",
+     "en": "All right, when you can.",
+     "verdict": "ok",
+     "feedback": "Fine. It leaves a small pull on him that he did not need."
+    },
+    {
+     "es": "Entonces decime qué es.",
+     "en": "Then tell me what it is.",
+     "verdict": "bad",
+     "feedback": "He has now told you twice that he does not want to say. Asking a third time is the ofensa."
+    }
+   ]
+  },
+  {
+   "speaker": "Julio",
+   "es": "Para el veintitrés sí puedo. Ese domingo sí.",
+   "en": "On the twenty-third I can. That Sunday, yes.",
+   "options": [
+    {
+     "es": "El veintitrés entonces. Ahí queda.",
+     "en": "The twenty-third then. That is settled.",
+     "verdict": "good",
+     "feedback": "He named a date, which is the only signal that ever meant yes. You closed it immediately."
+    },
+    {
+     "es": "Perfecto, ahí vemos.",
+     "en": "Perfect, we will see.",
+     "verdict": "ok",
+     "feedback": "Ahí vemos on a date he finally named puts the vagueness back in."
+    },
+    {
+     "es": "¿Seguro esta vez?",
+     "en": "Sure this time?",
+     "verdict": "bad",
+     "feedback": "He gave you a date after five months. That is not the moment to doubt him out loud."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc86",
+ "title": "Es que fíjese",
+ "desc": "A job that is not ready, and the man who talks first",
+ "setting": "You come back on Friday at four for welding that was promised for Friday at four.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Dueño",
+   "es": "Es que fíjese, don, que se me enfermó el hijo.",
+   "en": "The thing is, sir, my son fell ill.",
+   "options": [
+    {
+     "es": "Ay, qué pena. ¿Y ya está mejor el chavalo?",
+     "en": "Oh, I am sorry. And is the boy better now?",
+     "verdict": "good",
+     "feedback": "You went to the reason before the job. That is what the reason was offered for."
+    },
+    {
+     "es": "Ah, ya veo.",
+     "en": "Ah, I see.",
+     "verdict": "ok",
+     "feedback": "You received it. Asking after the boy is what turns it from an excuse into a relationship."
+    },
+    {
+     "es": "¿Y mi trabajo?",
+     "en": "And my job?",
+     "verdict": "bad",
+     "feedback": "He is telling you why. Cutting to the work makes the reason worthless and both of you smaller."
+    }
+   ]
+  },
+  {
+   "speaker": "Dueño",
+   "es": "Ya está mejor, gracias a Dios. Pero no avancé nada.",
+   "en": "He is better now, thank God. But I made no progress.",
+   "options": [
+    {
+     "es": "Se entiende. ¿Para cuándo me lo puede tener?",
+     "en": "That is understandable. When can you have it for me?",
+     "verdict": "good",
+     "feedback": "Accepted, then asked for the new date. That date is the real commitment and it is yours to ask for."
+    },
+    {
+     "es": "Está bien, no hay problema.",
+     "en": "All right, no problem.",
+     "verdict": "ok",
+     "feedback": "Generous, and it walks out without a date. Now it is nobody's job."
+    },
+    {
+     "es": "Yo lo necesitaba hoy.",
+     "en": "I needed it today.",
+     "verdict": "bad",
+     "feedback": "True. It also puts a sick child and your bracket on the same scale."
+    }
+   ]
+  },
+  {
+   "speaker": "Dueño",
+   "es": "El lunes sin falta. A las cuatro.",
+   "en": "Monday without fail. At four.",
+   "options": [
+    {
+     "es": "El lunes a las cuatro. Aquí estoy.",
+     "en": "Monday at four. I will be here.",
+     "verdict": "good",
+     "feedback": "Repeated back, so it exists. That is how a new date stops being another maybe."
+    },
+    {
+     "es": "Bueno, el lunes.",
+     "en": "All right, Monday.",
+     "verdict": "ok",
+     "feedback": "Accepted. Without the hour it can become Monday evening."
+    },
+    {
+     "es": "Espero que sí esta vez.",
+     "en": "I hope so this time.",
+     "verdict": "bad",
+     "feedback": "One line, and the whole thing you both just did carefully is undone."
+    }
+   ]
+  },
+  {
+   "speaker": "Dueño",
+   "es": "Y disculpe la molestia, de verdad.",
+   "en": "And I am sorry for the trouble, honestly.",
+   "options": [
+    {
+     "es": "No se preocupe. A cualquiera le pasa.",
+     "en": "Do not worry about it. It happens to anybody.",
+     "verdict": "good",
+     "feedback": "Given back cleanly. He will remember that you did not make him pay for it twice."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "Accepted. Slightly flat for a man who apologised properly."
+    },
+    {
+     "es": "Sí, es que me atrasó bastante.",
+     "en": "Yes, it did set me back quite a bit.",
+     "verdict": "bad",
+     "feedback": "He apologised and you invoiced him for it."
+    }
+   ]
+  }
+ ]
+}

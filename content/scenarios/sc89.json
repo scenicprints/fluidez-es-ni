@@ -1,0 +1,109 @@
+{
+ "id": "sc89",
+ "title": "Ni modo",
+ "desc": "The drain is still blocked and the water is in the house",
+ "setting": "August, the second flood this year, and Lucía is sweeping water out of the back room.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "Se mojó el colchón otra vez.",
+   "en": "The mattress got soaked again.",
+   "options": [
+    {
+     "es": "Ya lo saqué al patio. ¿Qué más agarro?",
+     "en": "I have already taken it out to the yard. What else shall I grab?",
+     "verdict": "good",
+     "feedback": "Doing before saying. In the first ten minutes of a flood nobody wants an opinion."
+    },
+    {
+     "es": "Qué barbaridad, otra vez.",
+     "en": "How awful, again.",
+     "verdict": "ok",
+     "feedback": "Agreement while she sweeps. Pick something up."
+    },
+    {
+     "es": "Es que la alcaldía no hace nada.",
+     "en": "The thing is the town hall does nothing.",
+     "verdict": "bad",
+     "feedback": "True, and there is water in the room. That conversation is for tomorrow."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "(sigue barriendo) Ni modo.",
+   "en": "(goes on sweeping) Ni modo.",
+   "options": [
+    {
+     "es": "Ni modo pues. Pasame la escoba grande.",
+     "en": "Ni modo then. Pass me the big broom.",
+     "verdict": "good",
+     "feedback": "You took the word and got back to work with it. That is exactly what ni modo is for."
+    },
+    {
+     "es": "(seguir sacando cosas en silencio)",
+     "en": "(go on carrying things out in silence)",
+     "verdict": "ok",
+     "feedback": "Fine, and the word was an invitation to be in it together."
+    },
+    {
+     "es": "¿Cómo que ni modo? Hay que reclamar.",
+     "en": "What do you mean, ni modo? We have to complain.",
+     "verdict": "bad",
+     "feedback": "Marcos went eleven times in six years. Ni modo is answer number twelve, not the first."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "(al día siguiente, con café) ¿Vamos el lunes a la alcaldía?",
+   "en": "(the next day, with coffee) Shall we go to the town hall on Monday?",
+   "options": [
+    {
+     "es": "Vamos los dos. Llevo las fotos del desagüe.",
+     "en": "Let us both go. I will take the photos of the drain.",
+     "verdict": "good",
+     "feedback": "The anger has slept a night and now it has a plan and a piece of evidence. That is the other half of ni modo."
+    },
+    {
+     "es": "Sí, vamos.",
+     "en": "Yes, let us go.",
+     "verdict": "ok",
+     "feedback": "Agreed. Turning up with nothing in your hand is the eleven trips Marcos already made."
+    },
+    {
+     "es": "¿Para qué? No van a hacer nada.",
+     "en": "What for? They will not do anything.",
+     "verdict": "bad",
+     "feedback": "Yesterday you wanted to complain. Ni modo is not supposed to arrive the day after."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Puso música ayer con la casa mojada. ¿Te fijaste?",
+   "en": "You noticed I put music on yesterday with the house wet?",
+   "options": [
+    {
+     "es": "Me fijé. Creo que esa era la otra mitad.",
+     "en": "I noticed. I think that was the other half of it.",
+     "verdict": "good",
+     "feedback": "You worked out that the song and the ni modo were the same thing. Almost nobody from outside gets that."
+    },
+    {
+     "es": "Sí, me pareció raro.",
+     "en": "Yes, I thought it was odd.",
+     "verdict": "ok",
+     "feedback": "Honest. It leaves her to explain something you nearly understood."
+    },
+    {
+     "es": "Sí, no era el momento.",
+     "en": "Yes, it was not the moment.",
+     "verdict": "bad",
+     "feedback": "It was exactly the moment, and telling her so takes something from her."
+    }
+   ]
+  }
+ ]
+}

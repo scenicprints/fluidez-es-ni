@@ -1,0 +1,109 @@
+{
+ "id": "sc56",
+ "title": "Me prestás",
+ "desc": "Somebody asks you for money",
+ "setting": "Chino catches you on the pavement on the fifteenth. He has never asked you for anything before.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Chino",
+   "es": "Ideay, vos. ¿Andás con algo suelto?",
+   "en": "Ideay, you. Have you got any spare cash?",
+   "options": [
+    {
+     "es": "Depende para qué, contame.",
+     "en": "Depends what for, tell me.",
+     "verdict": "good",
+     "feedback": "Depende buys you the time to hear it, and contame says you are willing to listen."
+    },
+    {
+     "es": "¿Cuánto ocupás?",
+     "en": "How much do you need?",
+     "verdict": "ok",
+     "feedback": "Straight to the number. It works, but you have skipped the part where he explains."
+    },
+    {
+     "es": "No ando con nada.",
+     "en": "I have not got anything.",
+     "verdict": "bad",
+     "feedback": "A door closed before he even said what for. He will not ask twice, about anything."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Es para la medicina de mi mamá. Te lo pago el treinta.",
+   "en": "It is for my mother's medicine. I will pay you back on the thirtieth.",
+   "options": [
+    {
+     "es": "Está bien. ¿Cuánto es lo que falta?",
+     "en": "All right. How much is missing?",
+     "verdict": "good",
+     "feedback": "You accepted before asking the amount. That order matters more here than the number does."
+    },
+    {
+     "es": "¿Y me lo pagás seguro?",
+     "en": "And you will definitely pay me back?",
+     "verdict": "ok",
+     "feedback": "Fair to ask, and it tells him you are counting. That is not how it is done between two of you."
+    },
+    {
+     "es": "Yo no presto plata.",
+     "en": "I do not lend money.",
+     "verdict": "bad",
+     "feedback": "A rule where a person was standing. He will hear the rule and remember the person."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Quinientos. Ya tengo el resto.",
+   "en": "Five hundred. I have the rest.",
+   "options": [
+    {
+     "es": "Aquí están. Y no andés apurado con eso.",
+     "en": "Here they are. And do not be in a rush about it.",
+     "verdict": "good",
+     "feedback": "Handed over and the pressure taken off in the same breath. That is what makes it a favour and not a loan."
+    },
+    {
+     "es": "Aquí tenés. El treinta entonces.",
+     "en": "Here you are. The thirtieth then.",
+     "verdict": "ok",
+     "feedback": "Fine, and it names the date. A shade more like a contract than it needs to be."
+    },
+    {
+     "es": "Te doy trescientos nada más.",
+     "en": "I will give you three hundred only.",
+     "verdict": "bad",
+     "feedback": "Half a favour reads as half trust. Either do it or say you cannot."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Vos sos gente, de verdad.",
+   "en": "You are all right, you really are.",
+   "options": [
+    {
+     "es": "Para eso estamos, vos.",
+     "en": "That is what we are here for.",
+     "verdict": "good",
+     "feedback": "The exact answer. It refuses the thanks and keeps the two of you level."
+    },
+    {
+     "es": "No hay problema.",
+     "en": "No problem.",
+     "verdict": "ok",
+     "feedback": "Correct and warm enough. It answers the words rather than what he meant."
+    },
+    {
+     "es": "Ya sabés que me lo tenés que pagar.",
+     "en": "You know you have to pay me back.",
+     "verdict": "bad",
+     "feedback": "He just said something large. Answering it with the debt is the coldest thing available."
+    }
+   ]
+  }
+ ]
+}

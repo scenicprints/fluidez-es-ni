@@ -1,0 +1,109 @@
+{
+ "id": "sc65",
+ "title": "Tu familia o la mía",
+ "desc": "Whose house you go to, and what it stands for",
+ "setting": "It is the twenty-third of December and both mothers are expecting you.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "Mi mamá ya contó con nosotros para el veinticuatro.",
+   "en": "My mother has already counted on us for the twenty-fourth.",
+   "options": [
+    {
+     "es": "Va. ¿Y qué hacemos con doña Carmen entonces?",
+     "en": "Right. And what do we do about doña Carmen then?",
+     "verdict": "good",
+     "feedback": "Accepted her mother, then asked about yours in the same breath. Nobody has been chosen over anybody."
+    },
+    {
+     "es": "¿Y ya le dijiste que sí?",
+     "en": "And you already told her yes?",
+     "verdict": "ok",
+     "feedback": "The question underneath is fair. Asked like that, it is about permission rather than the plan."
+    },
+    {
+     "es": "Siempre es tu mamá primero.",
+     "en": "It is always your mother first.",
+     "verdict": "bad",
+     "feedback": "Siempre turns one December into every December. Now you are arguing about the last four years."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Podemos pasar por donde ella temprano.",
+   "en": "We can go by hers early.",
+   "options": [
+    {
+     "es": "Eso me parece bien. Yo le aviso hoy mismo.",
+     "en": "That sounds good to me. I will tell her today.",
+     "verdict": "good",
+     "feedback": "Accepted and you took the job of telling her. That half is yours and doing it fast is what keeps it small."
+    },
+    {
+     "es": "Bueno, si da tiempo.",
+     "en": "All right, if there is time.",
+     "verdict": "ok",
+     "feedback": "A yes with a way out already in it. She will hear the way out."
+    },
+    {
+     "es": "Temprano no le sirve a ella.",
+     "en": "Early is no good for her.",
+     "verdict": "bad",
+     "feedback": "Perhaps not. Now there is no plan at all and it is your turn to make one."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "¿Vos creés que se va a poner brava?",
+   "en": "Do you think she will get upset?",
+   "options": [
+    {
+     "es": "Un poco, pero se le pasa. Prefiero decírselo yo.",
+     "en": "A little, but she will get over it. I would rather tell her myself.",
+     "verdict": "good",
+     "feedback": "Honest about the cost and you take it on yourself. That is the whole answer."
+    },
+    {
+     "es": "No creo.",
+     "en": "I do not think so.",
+     "verdict": "ok",
+     "feedback": "Comfortable, and probably wrong. She asked because she thinks so."
+    },
+    {
+     "es": "Ella siempre se pone brava.",
+     "en": "She always gets upset.",
+     "verdict": "bad",
+     "feedback": "Said about your own mother to your wife, it will be remembered by both of them."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Gracias. Yo sé que no es fácil.",
+   "en": "Thank you. I know it is not easy.",
+   "options": [
+    {
+     "es": "Ninguno de los dos tiene familia de sobra.",
+     "en": "Neither of us has family to spare.",
+     "verdict": "good",
+     "feedback": "It puts the two of you on the same side of a thing that has no clean answer. Nothing else needed saying."
+    },
+    {
+     "es": "No es tan difícil.",
+     "en": "It is not that hard.",
+     "verdict": "ok",
+     "feedback": "It waves away something she just acknowledged. She was being kind."
+    },
+    {
+     "es": "Vos nunca tenés que escoger.",
+     "en": "You never have to choose.",
+     "verdict": "bad",
+     "feedback": "That is the argument you avoided all afternoon, arriving at the end anyway."
+    }
+   ]
+  }
+ ]
+}

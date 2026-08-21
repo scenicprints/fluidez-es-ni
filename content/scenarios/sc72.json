@@ -1,0 +1,109 @@
+{
+ "id": "sc72",
+ "title": "Te lo agradezco",
+ "desc": "Thanking somebody so that it counts",
+ "setting": "Don Beto sat up two nights in the corridor with you and has never mentioned it since.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Don Beto",
+   "es": "¿Y cómo salió el chavalo?",
+   "en": "And how did the boy come out?",
+   "options": [
+    {
+     "es": "Bien, don Beto. Gracias a Dios y gracias a usted.",
+     "en": "Well, don Beto. Thank God and thank you.",
+     "verdict": "good",
+     "feedback": "The two thanks in the order they are said here, and yours is the second one on purpose."
+    },
+    {
+     "es": "Salió bien, gracias.",
+     "en": "He came out fine, thank you.",
+     "verdict": "ok",
+     "feedback": "True and pleasant. It thanks him for asking rather than for the two nights."
+    },
+    {
+     "es": "Bien. ¿Y usted cómo está?",
+     "en": "Well. And how are you?",
+     "verdict": "bad",
+     "feedback": "Turning it back so fast is a way of not saying it at all."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Qué bueno. Eso era lo que había que saber.",
+   "en": "That is good. That was the thing that needed knowing.",
+   "options": [
+    {
+     "es": "Usted estuvo dos noches ahí conmigo. Eso no se me olvida.",
+     "en": "You were there two nights with me. I will not forget that.",
+     "verdict": "good",
+     "feedback": "Named the thing plainly. Around here that is said once, out loud, and then never again."
+    },
+    {
+     "es": "Le agradezco lo del hospital.",
+     "en": "I am grateful for the hospital business.",
+     "verdict": "ok",
+     "feedback": "The right idea, wrapped in a phrase. Say what he actually did."
+    },
+    {
+     "es": "Perdón por haberlo molestado tanto.",
+     "en": "Sorry for bothering you so much.",
+     "verdict": "bad",
+     "feedback": "Apologising for it takes the gift back off him."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Ideay, no diga nada. Uno hace lo que tiene que hacer.",
+   "en": "Ideay, do not say anything. One does what one has to do.",
+   "options": [
+    {
+     "es": "Igual se lo digo, don Beto.",
+     "en": "I am telling you anyway, don Beto.",
+     "verdict": "good",
+     "feedback": "He deflected, as he had to, and you said it anyway once. That is the correct number of times."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "You let him wave it away. He will assume it did not weigh much."
+    },
+    {
+     "es": "Sí, cualquiera lo hubiera hecho.",
+     "en": "Yes, anybody would have done it.",
+     "verdict": "bad",
+     "feedback": "Nobody else did."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Cuando le toque a usted, hágalo y ya.",
+   "en": "When it is your turn, do it and that is all.",
+   "options": [
+    {
+     "es": "Así va a ser. Se lo prometo.",
+     "en": "That is how it will be. I promise you.",
+     "verdict": "good",
+     "feedback": "He turned the thanks into an instruction, which is the local exchange rate, and you accepted it."
+    },
+    {
+     "es": "Ojalá pueda.",
+     "en": "Hopefully I will be able to.",
+     "verdict": "ok",
+     "feedback": "Softer than the moment. He did not say ojalá when it was his turn."
+    },
+    {
+     "es": "Espero no tener que hacerlo.",
+     "en": "I hope I do not have to.",
+     "verdict": "bad",
+     "feedback": "True, and it dodges the one thing he asked for."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc93",
+ "title": "Béisbol o fútbol",
+ "desc": "An argument nobody wants to win",
+ "setting": "Four young men from the workshop, one bench, and don Emilio sitting behind not saying anything.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Muchacho",
+   "es": "El béisbol ya pasó de moda. Eso es de viejos.",
+   "en": "Baseball is out of fashion. That is for old people.",
+   "options": [
+    {
+     "es": "Ah, de viejos. Decile eso a don Emilio, ahí está.",
+     "en": "Ah, for old people. Say that to don Emilio, he is right there.",
+     "verdict": "good",
+     "feedback": "You hooked his own word and turned it round in one line. That is how you enter without pushing."
+    },
+    {
+     "es": "No es cierto, mucha gente juega.",
+     "en": "That is not true, lots of people play.",
+     "verdict": "ok",
+     "feedback": "A flat contradiction. It answers with facts, which is where this argument goes to die."
+    },
+    {
+     "es": "Según las estadísticas, el béisbol...",
+     "en": "According to the statistics, baseball...",
+     "verdict": "bad",
+     "feedback": "Numbers end the night. Nobody at that bench came for numbers."
+    }
+   ]
+  },
+  {
+   "speaker": "Muchacho",
+   "es": "Es que en el mundo entero se ve fútbol.",
+   "en": "The thing is the whole world watches football.",
+   "options": [
+    {
+     "es": "En el mundo entero, sí. Aquí no, aquí es otra cosa.",
+     "en": "In the whole world, yes. Not here, here it is another thing.",
+     "verdict": "good",
+     "feedback": "You conceded the big half and kept the half that matters. Very hard to argue with."
+    },
+    {
+     "es": "Bueno, cada quien.",
+     "en": "Well, to each their own.",
+     "verdict": "ok",
+     "feedback": "Agreement, which is the same as leaving the bench."
+    },
+    {
+     "es": "El fútbol es aburrido.",
+     "en": "Football is boring.",
+     "verdict": "bad",
+     "feedback": "A verdict where a story was called for. Now it is opinions against opinions."
+    }
+   ]
+  },
+  {
+   "speaker": "Muchacho",
+   "es": "¿Y vos qué sabés? Si no sos de aquí.",
+   "en": "And what do you know? You are not even from here.",
+   "options": [
+    {
+     "es": "Fui al estadio con Marcos hace cuatro años. Contame vos.",
+     "en": "I went to the stadium with Marcos four years ago. You tell me.",
+     "verdict": "good",
+     "feedback": "A memory beats a credential. It also invites him to keep going instead of shutting him down."
+    },
+    {
+     "es": "Llevo cinco años aquí.",
+     "en": "I have been here five years.",
+     "verdict": "ok",
+     "feedback": "True, and it argues about your right to be in the conversation rather than about baseball."
+    },
+    {
+     "es": "Sé más que vos, seguro.",
+     "en": "More than you, certainly.",
+     "verdict": "bad",
+     "feedback": "Now the argument is about the two of you, which is the one thing it was never about."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Emilio",
+   "es": "(al pasar, le pone la mano en el hombro) Buen juego el domingo.",
+   "en": "(passing, he puts a hand on your shoulder) A good game on Sunday.",
+   "options": [
+    {
+     "es": "Ahí estaré, don Emilio.",
+     "en": "I will be there, don Emilio.",
+     "verdict": "good",
+     "feedback": "He ended the argument with a hand and a half-sentence. You answered the half-sentence and left the hand alone."
+    },
+    {
+     "es": "Gracias, don Emilio.",
+     "en": "Thank you, don Emilio.",
+     "verdict": "ok",
+     "feedback": "Warm. It is also a shade louder than the gesture."
+    },
+    {
+     "es": "¿Verdad que sí, don Emilio?",
+     "en": "I am right, am I not, don Emilio?",
+     "verdict": "bad",
+     "feedback": "Recruiting him into the argument after he had ended it with one hand."
+    }
+   ]
+  }
+ ]
+}

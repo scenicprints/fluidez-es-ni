@@ -1,0 +1,109 @@
+{
+ "id": "sc52",
+ "title": "El día de la madre",
+ "desc": "May 30, and it is not negotiable",
+ "setting": "It is the twenty-ninth. Marcos finds out you have made no plan at all.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "¿Y vos qué vas a hacer mañana?",
+   "en": "And what are you doing tomorrow?",
+   "options": [
+    {
+     "es": "¿Mañana? No tenía nada pensado.",
+     "en": "Tomorrow? I had nothing planned.",
+     "verdict": "good",
+     "feedback": "Honest, and it hands him the opening to tell you. Better than pretending you knew."
+    },
+    {
+     "es": "Nada, voy a descansar.",
+     "en": "Nothing, I am going to rest.",
+     "verdict": "ok",
+     "feedback": "Honest. Tomorrow is the thirtieth and resting is not one of the options."
+    },
+    {
+     "es": "Trabajar como siempre.",
+     "en": "Work, like always.",
+     "verdict": "bad",
+     "feedback": "Nobody is at work on the thirtieth. Ask him why he is asking."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Es treinta de mayo, hombre. Día de la madre.",
+   "en": "It is the thirtieth of May, man. Mother's day.",
+   "options": [
+    {
+     "es": "Puchica, se me pasó. ¿Qué se hace?",
+     "en": "Damn, it slipped past me. What does one do?",
+     "verdict": "good",
+     "feedback": "Puchica is the right size of oh-no, and the useful question comes straight after it."
+    },
+    {
+     "es": "Ah, cierto.",
+     "en": "Ah, right.",
+     "verdict": "ok",
+     "feedback": "You have caught up. Now ask what is expected of you."
+    },
+    {
+     "es": "Yo no tengo mamá aquí.",
+     "en": "My mother is not here.",
+     "verdict": "bad",
+     "feedback": "True, and beside the point. There are three mothers in this street who count you as theirs."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Se le lleva algo a la suegra. Aunque sea una flor.",
+   "en": "You take something to your mother-in-law. Even just a flower.",
+   "options": [
+    {
+     "es": "¿Y a doña Carmen también? Ella me ha cuidado mucho.",
+     "en": "And to doña Carmen as well? She has looked after me a lot.",
+     "verdict": "good",
+     "feedback": "You thought past the obligation to the person. That is the answer that gets remembered."
+    },
+    {
+     "es": "Bueno, le llevo flores.",
+     "en": "All right, I will take her flowers.",
+     "verdict": "ok",
+     "feedback": "Correct and enough. You thought of one of the two."
+    },
+    {
+     "es": "Ella no es mi mamá.",
+     "en": "She is not my mother.",
+     "verdict": "bad",
+     "feedback": "Say that tomorrow and you will spend a year repairing it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Ideay, ya estás pensando como de aquí.",
+   "en": "Ideay, you are thinking like somebody from here now.",
+   "options": [
+    {
+     "es": "Voy aprendiendo, con ayuda.",
+     "en": "I am learning, with help.",
+     "verdict": "good",
+     "feedback": "Takes the compliment, credits him, and closes it without a fuss."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "Fine. It answers the words rather than what he meant by them."
+    },
+    {
+     "es": "Es lógico, ¿no?",
+     "en": "It is logical, is it not?",
+     "verdict": "bad",
+     "feedback": "It was not logical to you thirty seconds ago."
+    }
+   ]
+  }
+ ]
+}

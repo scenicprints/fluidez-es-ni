@@ -1,0 +1,109 @@
+{
+ "id": "sc54",
+ "title": "El recibo está malo",
+ "desc": "A bill that is wrong, and the man who cannot fix it",
+ "setting": "The water bill says four times what you used. You are at the window with the paper in your hand.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Empleado",
+   "es": "Buenos días. ¿En qué le ayudo?",
+   "en": "Good morning. How can I help you?",
+   "options": [
+    {
+     "es": "Buenos días. Fíjese que este recibo me llegó muy alto.",
+     "en": "Good morning. The thing is, this bill came to me very high.",
+     "verdict": "good",
+     "feedback": "Fíjese warns him a problem is coming without making him the problem. That is how a counter complaint opens here."
+    },
+    {
+     "es": "Este recibo está malo.",
+     "en": "This bill is wrong.",
+     "verdict": "ok",
+     "feedback": "Clear, and it puts the fault on the paper straight away. He will get defensive before you finish."
+    },
+    {
+     "es": "Ustedes me cobraron de más.",
+     "en": "You people overcharged me.",
+     "verdict": "bad",
+     "feedback": "Ustedes makes him the company. Now he is defending it instead of helping you."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleado",
+   "es": "A ver. ¿Cuánto pagó el mes pasado?",
+   "en": "Let us see. How much did you pay last month?",
+   "options": [
+    {
+     "es": "Trescientos. Aquí traigo el recibo anterior.",
+     "en": "Three hundred. I have the previous bill here.",
+     "verdict": "good",
+     "feedback": "A number and the proof. That is the whole argument won in one sentence."
+    },
+    {
+     "es": "Como trescientos, creo.",
+     "en": "About three hundred, I think.",
+     "verdict": "ok",
+     "feedback": "Close enough to be believed, weak enough to be argued with. Bring the paper next time."
+    },
+    {
+     "es": "No me acuerdo.",
+     "en": "I do not remember.",
+     "verdict": "bad",
+     "feedback": "Now there is nothing to compare it with and no case to make."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleado",
+   "es": "Ah, sí. Aquí hay un error. Pero yo no lo puedo cambiar.",
+   "en": "Ah, yes. There is a mistake here. But I cannot change it.",
+   "options": [
+    {
+     "es": "Entiendo. ¿Y con quién tengo que hablar?",
+     "en": "I understand. And who do I have to talk to?",
+     "verdict": "good",
+     "feedback": "You took the no and asked for the next door. He will open it for you now."
+    },
+    {
+     "es": "¿Y entonces qué hago?",
+     "en": "And so what do I do?",
+     "verdict": "ok",
+     "feedback": "Fair, and it hands him a problem instead of a question he can answer."
+    },
+    {
+     "es": "Entonces para qué está usted ahí.",
+     "en": "Then what are you sitting there for.",
+     "verdict": "bad",
+     "feedback": "One sentence and you have lost the only person in the building who was on your side."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleado",
+   "es": "Tiene que ir a la oficina central. Lleve los dos recibos.",
+   "en": "You have to go to the head office. Take both bills.",
+   "options": [
+    {
+     "es": "Va pues. Muchas gracias por la ayuda.",
+     "en": "Right then. Thank you very much for the help.",
+     "verdict": "good",
+     "feedback": "He did help, and thanking him is what makes the next window easier."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "It accepts. He went and found the error for you and got nothing for it."
+    },
+    {
+     "es": "Otro viaje más.",
+     "en": "Another trip.",
+     "verdict": "bad",
+     "feedback": "True, and he heard it. That trip was going to happen either way."
+    }
+   ]
+  }
+ ]
+}

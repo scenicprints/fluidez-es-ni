@@ -1,0 +1,109 @@
+{
+ "id": "sc46",
+ "title": "En la ferretería",
+ "desc": "Buying a thing whose name you do not know",
+ "setting": "You need a specific bolt and you do not have the word for it in any language.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Vendedor",
+   "es": "Buenas. ¿En qué le ayudo?",
+   "en": "Afternoon. How can I help you?",
+   "options": [
+    {
+     "es": "Buenas. Ando buscando una cosa, pero no sé cómo se llama.",
+     "en": "Afternoon. I am looking for something, but I do not know what it is called.",
+     "verdict": "good",
+     "feedback": "The honest opening. Half of what a ferretería sells is the name of the thing."
+    },
+    {
+     "es": "Necesito un tornillo.",
+     "en": "I need a screw.",
+     "verdict": "ok",
+     "feedback": "If it really is a screw, good. If not, you have sent him to the wrong drawer."
+    },
+    {
+     "es": "Nada, solo miro.",
+     "en": "Nothing, I am just looking.",
+     "verdict": "bad",
+     "feedback": "You came in for something. Now you have to start again."
+    }
+   ]
+  },
+  {
+   "speaker": "Vendedor",
+   "es": "Dígame cómo es y yo se lo busco.",
+   "en": "Tell me what it is like and I will find it for you.",
+   "options": [
+    {
+     "es": "Es de metal, redondo, y va en la pila para el agua.",
+     "en": "It is metal, round, and goes on the tank for the water.",
+     "verdict": "good",
+     "feedback": "Material, shape, and where it goes. That is enough for anybody behind that counter."
+    },
+    {
+     "es": "Es pequeño y de metal.",
+     "en": "It is small and metal.",
+     "verdict": "ok",
+     "feedback": "Half the shop is small and metal. Say where it goes."
+    },
+    {
+     "es": "Es como el otro.",
+     "en": "It is like the other one.",
+     "verdict": "bad",
+     "feedback": "He has not seen the other one. Describe this one."
+    }
+   ]
+  },
+  {
+   "speaker": "Vendedor",
+   "es": "Ah, ya sé cuál es. ¿De media pulgada o de una?",
+   "en": "Ah, I know which one. Half an inch or one inch?",
+   "options": [
+    {
+     "es": "No sé, fíjese. ¿Me puede enseñar los dos?",
+     "en": "I do not know, look. Can you show me both?",
+     "verdict": "good",
+     "feedback": "Fíjese buys you a second and admits what you do not know. He offered - take the offer."
+    },
+    {
+     "es": "La más grande.",
+     "en": "The bigger one.",
+     "verdict": "ok",
+     "feedback": "A guess. He offered to show you and you turned it down."
+    },
+    {
+     "es": "Sí.",
+     "en": "Yes.",
+     "verdict": "bad",
+     "feedback": "He asked you to choose between two, not a yes or no."
+    }
+   ]
+  },
+  {
+   "speaker": "Vendedor",
+   "es": "Este es el que le sirve. Lleve dos por si acaso.",
+   "en": "This is the one you want. Take two just in case.",
+   "options": [
+    {
+     "es": "Buena idea. Deme dos entonces.",
+     "en": "Good idea. Give me two then.",
+     "verdict": "good",
+     "feedback": "You took the advice of the man who knows, which is the whole point of the shop."
+    },
+    {
+     "es": "Solo uno está bien.",
+     "en": "Just one is fine.",
+     "verdict": "ok",
+     "feedback": "It might be. Around here the second one saves the second trip."
+    },
+    {
+     "es": "Yo sé lo que necesito.",
+     "en": "I know what I need.",
+     "verdict": "bad",
+     "feedback": "You came in without the word for it. He was helping."
+    }
+   ]
+  }
+ ]
+}

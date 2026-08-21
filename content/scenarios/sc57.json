@@ -1,0 +1,109 @@
+{
+ "id": "sc57",
+ "title": "Con el mecánico",
+ "desc": "Something is broken and you cannot name it",
+ "setting": "The bike has been making a noise for a week. You are standing over it with a man who is waiting for you to explain.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Mecánico",
+   "es": "A ver, ¿qué le pasa?",
+   "en": "Let us see, what is wrong with it?",
+   "options": [
+    {
+     "es": "Hace un ruido cuando voy despacio. No sé de dónde sale.",
+     "en": "It makes a noise when I go slowly. I do not know where it comes from.",
+     "verdict": "good",
+     "feedback": "What it does, when it does it, and an honest gap. That is everything he needs."
+    },
+    {
+     "es": "Está haciendo un ruido raro.",
+     "en": "It is making a strange noise.",
+     "verdict": "ok",
+     "feedback": "A start. Without the when, he has to guess twice."
+    },
+    {
+     "es": "Creo que es el motor.",
+     "en": "I think it is the engine.",
+     "verdict": "bad",
+     "feedback": "Guessing at a part you cannot name sends him to the wrong place and costs you an hour."
+    }
+   ]
+  },
+  {
+   "speaker": "Mecánico",
+   "es": "¿Y cuándo empezó?",
+   "en": "And when did it start?",
+   "options": [
+    {
+     "es": "Como hace una semana, después de la lluvia grande.",
+     "en": "About a week ago, after the big rain.",
+     "verdict": "good",
+     "feedback": "You gave him a time and an event. Half of what he knows comes from what happened just before."
+    },
+    {
+     "es": "Hace poco.",
+     "en": "A little while ago.",
+     "verdict": "ok",
+     "feedback": "Vague. A week and a month send him looking in different places."
+    },
+    {
+     "es": "Siempre ha sido así.",
+     "en": "It has always been like that.",
+     "verdict": "bad",
+     "feedback": "If that were true you would not be here. He will believe you and stop looking."
+    }
+   ]
+  },
+  {
+   "speaker": "Mecánico",
+   "es": "Déjemela media hora y le digo.",
+   "en": "Leave it with me half an hour and I will tell you.",
+   "options": [
+    {
+     "es": "Va pues. Aquí en la esquina lo espero.",
+     "en": "Right then. I will wait for you on the corner here.",
+     "verdict": "good",
+     "feedback": "Accepted and you stayed nearby, which is what everybody does. Leaving entirely is how a half hour becomes Thursday."
+    },
+    {
+     "es": "Está bien, ahorita vuelvo.",
+     "en": "All right, I will be back in a bit.",
+     "verdict": "ok",
+     "feedback": "Fine. Ahorita from you is now the same word it is from him."
+    },
+    {
+     "es": "¿Y cuánto me va a costar?",
+     "en": "And how much is it going to cost me?",
+     "verdict": "bad",
+     "feedback": "He has not looked at it yet. That question now says you expect to be cheated."
+    }
+   ]
+  },
+  {
+   "speaker": "Mecánico",
+   "es": "Era un tornillo suelto nada más. No le cobro.",
+   "en": "It was just a loose screw. I am not charging you.",
+   "options": [
+    {
+     "es": "Ideay, deje al menos le doy para un fresco.",
+     "en": "Ideay, at least let me get you a cold drink.",
+     "verdict": "good",
+     "feedback": "Refusing to be given something free, once, is the polite move. He will take it or he will not."
+    },
+    {
+     "es": "Muchas gracias.",
+     "en": "Thank you very much.",
+     "verdict": "ok",
+     "feedback": "Correct and enough. Offering something back is what turns him into your mechanic."
+    },
+    {
+     "es": "Perfecto, entonces nada.",
+     "en": "Perfect, so nothing then.",
+     "verdict": "bad",
+     "feedback": "You took the free work and closed the door. He will remember the next time it is a real repair."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc44",
+ "title": "La caponera",
+ "desc": "Three wheels, no doors, and a price to agree first",
+ "setting": "You are on a corner in the rain and a caponera pulls up beside you.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Conductor",
+   "es": "¿Para dónde, jefe?",
+   "en": "Where to, boss?",
+   "options": [
+    {
+     "es": "A la parada de buses. ¿Cuánto me cobra?",
+     "en": "To the bus stop. How much will you charge me?",
+     "verdict": "good",
+     "feedback": "Destination and price in one breath. Settling the fare before you get in is the whole rule."
+    },
+    {
+     "es": "A la parada.",
+     "en": "To the bus stop.",
+     "verdict": "ok",
+     "feedback": "The destination is right. You have left the price for afterwards, which is where it goes wrong."
+    },
+    {
+     "es": "No sé, usted dígame.",
+     "en": "I do not know, you tell me.",
+     "verdict": "bad",
+     "feedback": "Handing him the whole decision is how you end up paying double."
+    }
+   ]
+  },
+  {
+   "speaker": "Conductor",
+   "es": "Cien pesos.",
+   "en": "A hundred.",
+   "options": [
+    {
+     "es": "Ideay, está caro. ¿En ochenta me lleva?",
+     "en": "Ideay, that is expensive. Will you take me for eighty?",
+     "verdict": "good",
+     "feedback": "Ideay takes the sting out and you named a counter-price. That is haggling as it is expected here."
+    },
+    {
+     "es": "Bueno, está bien.",
+     "en": "All right, that is fine.",
+     "verdict": "ok",
+     "feedback": "He expected you to try. Taking the first number marks you out."
+    },
+    {
+     "es": "Eso es un robo.",
+     "en": "That is robbery.",
+     "verdict": "bad",
+     "feedback": "Too hard. Haggling here is a game, not an accusation."
+    }
+   ]
+  },
+  {
+   "speaker": "Conductor",
+   "es": "Noventa y nos vamos.",
+   "en": "Ninety and off we go.",
+   "options": [
+    {
+     "es": "Dale pues, noventa.",
+     "en": "Right then, ninety.",
+     "verdict": "good",
+     "feedback": "You met in the middle, which is exactly how it is supposed to end."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "Agreed, and fine. Dale pues would have closed it warmer."
+    },
+    {
+     "es": "No. Cien o nada.",
+     "en": "No. A hundred or nothing.",
+     "verdict": "bad",
+     "feedback": "You have just argued yourself up to his price."
+    }
+   ]
+  },
+  {
+   "speaker": "Conductor",
+   "es": "Súbase pues. Agárrese que va mojado.",
+   "en": "Get in then. Hold on, it is wet.",
+   "options": [
+    {
+     "es": "Va pues. Gracias.",
+     "en": "Right then. Thanks.",
+     "verdict": "good",
+     "feedback": "Short, local, and gets you into the caponera."
+    },
+    {
+     "es": "Sí, gracias.",
+     "en": "Yes, thank you.",
+     "verdict": "ok",
+     "feedback": "Correct. Slightly stiff for a man who calls you jefe."
+    },
+    {
+     "es": "Maneje despacio.",
+     "en": "Drive slowly.",
+     "verdict": "bad",
+     "feedback": "He will hear it as an instruction from somebody who does not trust him."
+    }
+   ]
+  }
+ ]
+}

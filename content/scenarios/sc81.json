@@ -1,0 +1,109 @@
+{
+ "id": "sc81",
+ "title": "El chisme vuelve",
+ "desc": "Something you said in confidence comes back improved",
+ "setting": "Doña Chepa leans over the counter with news about you that you have not heard yet.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Doña Chepa",
+   "es": "Ideay, ¿y es cierto que se van del barrio?",
+   "en": "Ideay, is it true that you are leaving the barrio?",
+   "options": [
+    {
+     "es": "¿Quién le dijo eso? Nosotros buscamos casa aquí cerca.",
+     "en": "Who told you that? We are looking for a house near here.",
+     "verdict": "good",
+     "feedback": "Correcting it at the counter is the fastest way to correct it everywhere. This is where the barrio reads its news."
+    },
+    {
+     "es": "No, eso no es cierto.",
+     "en": "No, that is not true.",
+     "verdict": "ok",
+     "feedback": "A denial with no replacement. The old version will keep travelling."
+    },
+    {
+     "es": "Eso no es asunto de nadie.",
+     "en": "That is nobody's business.",
+     "verdict": "bad",
+     "feedback": "In this barrio it already is, and now you have made an enemy of the printing press."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Ah, entonces no se van lejos.",
+   "en": "Ah, so you are not going far.",
+   "options": [
+    {
+     "es": "Tres cuadras. Ni salimos del barrio.",
+     "en": "Three blocks. We are not even leaving the barrio.",
+     "verdict": "good",
+     "feedback": "A number and a boundary. That is the version that will be repeated tonight, word for word."
+    },
+    {
+     "es": "No, cerca nada más.",
+     "en": "No, just nearby.",
+     "verdict": "ok",
+     "feedback": "Vague, and vague is what gossip fills in."
+    },
+    {
+     "es": "Todavía no sabemos.",
+     "en": "We do not know yet.",
+     "verdict": "bad",
+     "feedback": "Uncertainty is the raw material. You have just given her more of it."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Es que me contaron que se iban para afuera.",
+   "en": "The thing is I was told you were going abroad.",
+   "options": [
+    {
+     "es": "Fijese que a doña Elena le llegó así y se puso a llorar.",
+     "en": "The thing is, it reached doña Elena like that and she started crying.",
+     "verdict": "good",
+     "feedback": "Showing the cost, without blaming her, is the one thing that makes a barrio careful about a story."
+    },
+    {
+     "es": "Pues no, aquí nos quedamos.",
+     "en": "Well, no, we are staying here.",
+     "verdict": "ok",
+     "feedback": "Clear and correct. It corrects the fact without fixing the harm."
+    },
+    {
+     "es": "Usted misma lo anda diciendo.",
+     "en": "You are the one going around saying it.",
+     "verdict": "bad",
+     "feedback": "Probably true. Saying it to her face ends a four-year relationship over a rumour."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Ay, no. Yo le aviso a la gente entonces.",
+   "en": "Oh no. I will let people know, then.",
+   "options": [
+    {
+     "es": "Gracias, doña. Usted es la que sabe.",
+     "en": "Thank you, doña. You are the one who knows.",
+     "verdict": "good",
+     "feedback": "You just turned the biggest gossip on the block into your correction service. That is the whole strategy."
+    },
+    {
+     "es": "Sí, por favor.",
+     "en": "Yes, please.",
+     "verdict": "ok",
+     "feedback": "Fine. It accepts the offer without making her want to do it well."
+    },
+    {
+     "es": "Ojalá esta vez salga bien la historia.",
+     "en": "Hopefully the story comes out right this time.",
+     "verdict": "bad",
+     "feedback": "One small barb, and now the correction travels slower than the rumour did."
+    }
+   ]
+  }
+ ]
+}

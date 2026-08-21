@@ -1,0 +1,109 @@
+{
+ "id": "sc68",
+ "title": "El novenario",
+ "desc": "Nine nights in somebody else’s house",
+ "setting": "A neighbour has died. Lucía tells you the rosary is at seven and that you are going every night.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "¿Vas a venir todas las noches?",
+   "en": "Are you going to come every night?",
+   "options": [
+    {
+     "es": "Sí. ¿Qué se hace, solo estar ahí?",
+     "en": "Yes. What does one do, just be there?",
+     "verdict": "good",
+     "feedback": "The yes came first and the question second. That order is the whole thing."
+    },
+    {
+     "es": "Voy a ir hoy por lo menos.",
+     "en": "I will go today at least.",
+     "verdict": "ok",
+     "feedback": "Going once is better than not going. Everybody counts the nights."
+    },
+    {
+     "es": "Yo casi no lo conocía.",
+     "en": "I hardly knew him.",
+     "verdict": "bad",
+     "feedback": "Nobody is there because they knew him. They are there because the family is."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Estar ahí. Y llevá algo para el café.",
+   "en": "Be there. And take something for the coffee.",
+   "options": [
+    {
+     "es": "Va. Llevo azúcar y pan, ¿está bien?",
+     "en": "Right. I will take sugar and bread, is that all right?",
+     "verdict": "good",
+     "feedback": "Named the thing and checked. Nine nights of coffee is a real cost to that house and this is how it gets shared."
+    },
+    {
+     "es": "Bueno, llevo algo.",
+     "en": "All right, I will take something.",
+     "verdict": "ok",
+     "feedback": "Fine. Naming it means nobody ends up with four bags of sugar."
+    },
+    {
+     "es": "¿Hay que llevar algo?",
+     "en": "Do you have to take something?",
+     "verdict": "bad",
+     "feedback": "She has just said so. Asking again sounds like looking for a way out."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Y no hablés mucho. Ahí se está callado.",
+   "en": "And do not talk much. There you stay quiet.",
+   "options": [
+    {
+     "es": "Entendido. Yo saludo y me quedo atrás.",
+     "en": "Understood. I will greet people and stay at the back.",
+     "verdict": "good",
+     "feedback": "You took the instruction and turned it into a plan. That is somebody who has understood what a wake is for."
+    },
+    {
+     "es": "Está bien, voy a estar callado.",
+     "en": "All right, I will be quiet.",
+     "verdict": "ok",
+     "feedback": "Correct. Quiet is not the same as absent, and the greeting matters."
+    },
+    {
+     "es": "¿Y de qué se habla entonces?",
+     "en": "And what does one talk about then?",
+     "verdict": "bad",
+     "feedback": "Nothing. That is the answer, and asking makes the silence sound like a problem."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "La novena noche es distinta. Esa es más grande.",
+   "en": "The ninth night is different. That one is bigger.",
+   "options": [
+    {
+     "es": "Entonces esa noche pido permiso en el trabajo.",
+     "en": "Then that night I will ask for time off work.",
+     "verdict": "good",
+     "feedback": "Nobody asked you to. Doing it without being asked is what gets remembered in that family for years."
+    },
+    {
+     "es": "Ahí voy a estar también.",
+     "en": "I will be there for that one too.",
+     "verdict": "ok",
+     "feedback": "A promise, and a good one. Saying how you will manage it makes it real."
+    },
+    {
+     "es": "Nueve noches es mucho.",
+     "en": "Nine nights is a lot.",
+     "verdict": "bad",
+     "feedback": "It is. Everybody in that house knows exactly how many it is."
+    }
+   ]
+  }
+ ]
+}

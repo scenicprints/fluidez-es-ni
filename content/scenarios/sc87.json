@@ -1,0 +1,109 @@
+{
+ "id": "sc87",
+ "title": "De eso mejor no",
+ "desc": "A subject that closes without anybody refusing",
+ "setting": "Six people in the yard, beer, music, and you have just asked something that landed wrong.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Julio",
+   "es": "(contesta corto) Sí, está caro el arroz.",
+   "en": "(answers shortly) Yes, rice is expensive.",
+   "options": [
+    {
+     "es": "(dejar el tema ir)",
+     "en": "(let the subject go)",
+     "verdict": "good",
+     "feedback": "The short answer was the whole message. In this yard that is how a no is given."
+    },
+    {
+     "es": "Sí, pero yo preguntaba por otra cosa.",
+     "en": "Yes, but I was asking about something else.",
+     "verdict": "ok",
+     "feedback": "He knows what you were asking. Repeating it makes him refuse out loud."
+    },
+    {
+     "es": "No, en serio, ¿ustedes qué piensan?",
+     "en": "No, seriously, what do you all think?",
+     "verdict": "bad",
+     "feedback": "Now four people have to find a way out of a room you have closed the door of."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Ideay, subile a esa canción.",
+   "en": "Ideay, turn that song up.",
+   "options": [
+    {
+     "es": "Ideay, esa canción está buena.",
+     "en": "Ideay, that song is good.",
+     "verdict": "good",
+     "feedback": "You took the exit he built and used it. That is the whole skill, and nobody will ever mention it."
+    },
+    {
+     "es": "(quedarse callado)",
+     "en": "(stay quiet)",
+     "verdict": "ok",
+     "feedback": "Safe. Somebody still has to start the next subject and it might as well be you."
+    },
+    {
+     "es": "Bajale, que estamos hablando.",
+     "en": "Turn it down, we are talking.",
+     "verdict": "bad",
+     "feedback": "You have just dismantled the escape route in front of everybody."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Bueno, y de lo del primo de Chino, ¿qué pasó?",
+   "en": "Anyway, what happened with Chino's cousin?",
+   "options": [
+    {
+     "es": "Sí, contame, ¿al final se fue?",
+     "en": "Yes, tell me, did he end up going?",
+     "verdict": "good",
+     "feedback": "You joined the new subject immediately and with interest. The old one is now gone for good."
+    },
+    {
+     "es": "Ah, sí, eso.",
+     "en": "Ah, yes, that.",
+     "verdict": "ok",
+     "feedback": "Joined, but limply. Somebody else has to carry it now."
+    },
+    {
+     "es": "Ahorita vuelvo a lo otro.",
+     "en": "I will come back to the other thing in a bit.",
+     "verdict": "bad",
+     "feedback": "Announcing that you intend to reopen it is worse than reopening it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "(después, en el portón) De eso no se habla en grupo, vos.",
+   "en": "(later, at the gate) That is not talked about in a group.",
+   "options": [
+    {
+     "es": "Ya lo entendí. Gracias por decírmelo.",
+     "en": "I understand now. Thank you for telling me.",
+     "verdict": "good",
+     "feedback": "He waited for the gate to tell you, which is a kindness, and you took it as one."
+    },
+    {
+     "es": "Sí, ya me di cuenta.",
+     "en": "Yes, I realised.",
+     "verdict": "ok",
+     "feedback": "Fine. It is a shade defensive for somebody doing you a favour."
+    },
+    {
+     "es": "Pero nadie me dijo nada.",
+     "en": "But nobody said anything to me.",
+     "verdict": "bad",
+     "feedback": "Nobody says anything. That is the thing he is explaining to you."
+    }
+   ]
+  }
+ ]
+}

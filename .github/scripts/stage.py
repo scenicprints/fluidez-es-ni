@@ -65,9 +65,62 @@ def main():
         for sn in l.get("sn") or []:
             corpus.append(sn.get("s") or "")
 
+    # Scenes are checked here too, and for the same reason the lessons are:
+    # they are written a batch at a time and stay out of the manifest until the
+    # whole set is ready, so nothing else would ever look at them. Everything
+    # in scenarios/ is read straight off disk, published or not.
+    scene_dir = os.path.join(content, "scenarios")
+    scenes, scene_problems = [], []
+    if os.path.isdir(scene_dir):
+        for name in sorted(os.listdir(scene_dir)):
+            if not name.endswith(".json"):
+                continue
+            sc = read(os.path.join(scene_dir, name))
+            scenes.append(sc)
+            if not sc.get("id"):
+                scene_problems.append("%s has no id" % name)
+            if sc.get("ph") is None:
+                scene_problems.append("scene %s has no phase" % sc.get("id", name))
+            steps = sc.get("steps") or []
+            if not steps:
+                scene_problems.append("scene %s has no steps" % sc.get("id", name))
+            for k, st in enumerate(steps, 1):
+                opts = st.get("options") or []
+                if not st.get("es"):
+                    scene_problems.append("scene %s step %d says nothing" % (sc.get("id"), k))
+                if len(opts) < 2:
+                    scene_problems.append("scene %s step %d has %d option(s)"
+                                          % (sc.get("id"), k, len(opts)))
+                verdicts = [o.get("verdict") for o in opts]
+                if "good" not in verdicts:
+                    scene_problems.append("scene %s step %d has no good answer"
+                                          % (sc.get("id"), k))
+                for o in opts:
+                    if not (o.get("es") and o.get("en") and o.get("feedback")):
+                        scene_problems.append("scene %s step %d has a half-written option"
+                                              % (sc.get("id"), k))
+                    if o.get("verdict") not in ("good", "ok", "bad"):
+                        scene_problems.append("scene %s step %d verdict %r"
+                                              % (sc.get("id"), k, o.get("verdict")))
+    dup = set()
+    for sc in scenes:
+        i = sc.get("id")
+        if i in dup:
+            scene_problems.append("duplicate scene id: %s" % i)
+        dup.add(i)
+    # Scene text joins the corpus so the inflection map covers it, but the
+    # volume and lookup numbers below are about the COURSE, so they keep
+    # counting lessons only.
+    lesson_corpus = list(corpus)
+    for sc in scenes:
+        for st in sc.get("steps") or []:
+            corpus.append(st.get("es") or "")
+            for o in st.get("options") or []:
+                corpus.append(o.get("es") or "")
+
     word_forms, ambiguous, seen = morphology.build(dictionary, corpus, verbs)
     pack = {"dictionary": dictionary, "forms": word_forms,
-            "lessons": lessons, "scenarios": [], "momo": []}
+            "lessons": lessons, "scenarios": scenes, "momo": []}
 
     allow = {}
     allow_path = os.path.join(content, "dialect-allow.json")
@@ -78,13 +131,13 @@ def main():
     if not lessons:
         return 0
 
-    words = sum(len(morphology.tokens(c)) for c in corpus)
+    words = sum(len(morphology.tokens(c)) for c in lesson_corpus)
     print("volume     %s running words so far (target ~148,000)" % format(words, ","))
 
     # Words with no entry at all cannot be tapped, so they teach nothing.
     missing = sorted(w for w in seen if w not in dictionary and w not in word_forms)
     tappable = words - sum(
-        1 for c in corpus for w in morphology.tokens(c)
+        1 for c in lesson_corpus for w in morphology.tokens(c)
         if w not in dictionary and w not in word_forms)
     print("lookups    %.1f%% of words on the page can be tapped" % (100.0 * tappable / max(1, words)))
 
@@ -99,6 +152,17 @@ def main():
              stats.get("reach_ten", 0)))
     print("one-scene  %d word(s) exempt from RETURN, taught hard in one story"
           % stats.get("one_scene", 0))
+    by_phase = {}
+    for sc in scenes:
+        by_phase[sc.get("ph")] = by_phase.get(sc.get("ph"), 0) + 1
+    published = set()
+    for row in read(os.path.join(content, "manifest.json")).get("scenarios", []):
+        published.add(row.get("id"))
+    print("scenes     %d written (%d published), by phase %s"
+          % (len(scenes), sum(1 for sc in scenes if sc.get("id") in published),
+             " ".join("%s:%d" % (k, by_phase[k]) for k in sorted(by_phase))))
+    for p_ in scene_problems[:25]:
+        print("PROBLEM: %s" % p_)
     for p in problems[:25]:
         print("PROBLEM: %s" % p)
     if len(problems) > 25:
@@ -137,7 +201,7 @@ def main():
         print("entries    %d words used but not in the dictionary "
               "(plan/needs-entry.txt)" % len(missing))
 
-    return len(off) + len(problems) + len(stray)
+    return len(off) + len(problems) + len(stray) + len(scene_problems)
 
 
 if __name__ == "__main__":

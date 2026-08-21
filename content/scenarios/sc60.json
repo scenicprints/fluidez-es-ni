@@ -1,0 +1,109 @@
+{
+ "id": "sc60",
+ "title": "Una seña",
+ "desc": "Reading a signal you are not sure is one",
+ "setting": "Lucía has laughed at three things that were not funny. Marcos is watching you miss it.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "¿Y vos siempre venís los jueves?",
+   "en": "And do you always come on Thursdays?",
+   "options": [
+    {
+     "es": "Casi siempre. ¿Por qué, vas a estar?",
+     "en": "Almost always. Why, are you going to be here?",
+     "verdict": "good",
+     "feedback": "You answered and handed the question back. That is exactly the size of step this moment takes."
+    },
+    {
+     "es": "Sí, casi siempre.",
+     "en": "Yes, almost always.",
+     "verdict": "ok",
+     "feedback": "True. It closes a door she opened, and she opened it on purpose."
+    },
+    {
+     "es": "No sé, depende del trabajo.",
+     "en": "I do not know, it depends on work.",
+     "verdict": "bad",
+     "feedback": "Depende is a fine word and a terrible answer to this particular question."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Puede ser. Depende.",
+   "en": "Maybe. It depends.",
+   "options": [
+    {
+     "es": "Ah, entonces ahí nos vemos, si Dios quiere.",
+     "en": "Ah, then see you there, God willing.",
+     "verdict": "good",
+     "feedback": "You gave her back her own hedge with a smile in it. Nobody has committed to anything and everybody knows what is happening."
+    },
+    {
+     "es": "Bueno, ojalá.",
+     "en": "All right, hopefully.",
+     "verdict": "ok",
+     "feedback": "Warm and correct. It does not quite play the game she just started."
+    },
+    {
+     "es": "Depende de qué?",
+     "en": "Depends on what?",
+     "verdict": "bad",
+     "feedback": "Asking a hedge to explain itself is asking somebody to say the thing out loud. Not yet."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "¿Y vos por qué preguntás tanto?",
+   "en": "And why do you ask so much?",
+   "options": [
+    {
+     "es": "Porque me gusta hablar con vos.",
+     "en": "Because I like talking to you.",
+     "verdict": "good",
+     "feedback": "Said plainly, once, without a joke to hide behind. That is the moment and you took it."
+    },
+    {
+     "es": "Es que soy curioso.",
+     "en": "The thing is I am curious.",
+     "verdict": "ok",
+     "feedback": "A safe answer. She will accept it, and nothing will happen."
+    },
+    {
+     "es": "No pregunto tanto.",
+     "en": "I do not ask that much.",
+     "verdict": "bad",
+     "feedback": "Arguing with the observation loses the thing the observation was for."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Ideay. Qué directo el chele.",
+   "en": "Ideay. Very direct, the chele.",
+   "options": [
+    {
+     "es": "Aquí me enseñaron a dar la vuelta. Esta vez no quise.",
+     "en": "Here they taught me to go the long way round. This time I did not want to.",
+     "verdict": "good",
+     "feedback": "It shows you understand how the country talks and that you chose otherwise. That is the best possible answer."
+    },
+    {
+     "es": "Perdón, ¿fue mucho?",
+     "en": "Sorry, was that too much?",
+     "verdict": "ok",
+     "feedback": "Backing away from something that landed well. Do not apologise for it."
+    },
+    {
+     "es": "Así soy yo.",
+     "en": "That is how I am.",
+     "verdict": "bad",
+     "feedback": "A shrug where the moment wanted an answer."
+    }
+   ]
+  }
+ ]
+}

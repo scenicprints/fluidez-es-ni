@@ -58,13 +58,28 @@ Nothing is published. New stories are still out of `manifest.json`.
 
 ## The next three jobs, in this order
 
-### 1. Scenes — 40 exist, grow to ~95
+### 1. ~~Scenes~~ — DONE. 40 became 95
 
-`content/scenarios/`. Phase-gated, matching the story arc, heavily weighted to
-phase 4 material (arguments, the suegra, apology) and now also to phases 5–7
-(the vacilón, the indirecta, the long goodbye, ni modo). Replies are **Spanish
-only** — the English is blurred behind one reveal control. Never print
-translations on the option buttons.
+`content/scenarios/`, `sc41`–`sc95`. Phase-gated and weighted the way the
+spine is: 0:8 1:9 2:11 3:11 **4:19** 5:14 6:12 7:11. Four steps, three options,
+one `good` per step. They track the stories — the caponera, the Purísima door,
+the cuñados' test, the tope, the indirecta about the roof, ni modo, the bus
+stop where nobody asks where you are from.
+
+Two things learned while writing them, worth keeping:
+
+- **`screens.js` speaks `step.es` aloud.** A step prompt has to be something a
+  person actually says. A bare stage direction gets read out by the voice.
+  Where an action matters, put it in a parenthesis in FRONT of a real line.
+  Options are only rendered and tapped, never spoken, so a parenthetical
+  option (`(no decir nada y esperar)`) is fine and is sometimes the only right
+  answer a phase-7 scene has. `sc39` still has one bare direction from the
+  original 40; left alone.
+- The dialect gate reads scenes as well as lessons, and `stage.py` now loads
+  everything in `scenarios/` off disk whether it is in the manifest or not, so
+  unpublished scenes are checked exactly like unpublished stories.
+
+**Still out of `manifest.json`**, same as the lessons.
 
 ### 2. Patterns — 5 exist, grow to ~50
 

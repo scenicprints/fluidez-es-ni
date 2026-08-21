@@ -1,0 +1,109 @@
+{
+ "id": "sc95",
+ "title": "Nadie preguntó",
+ "desc": "Ten minutes at a bus stop",
+ "setting": "A stop in the centre, Tuesday afternoon, savage heat, and a man of about fifty starts talking to you.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Señor",
+   "es": "Está bravo el calor este año, ¿verdad?",
+   "en": "The heat is fierce this year, is it not?",
+   "options": [
+    {
+     "es": "Peor que el año pasado. Y todavía falta agosto.",
+     "en": "Worse than last year. And August is still to come.",
+     "verdict": "good",
+     "feedback": "You agreed and added to it. That is a conversation starting rather than a question being answered."
+    },
+    {
+     "es": "Sí, mucho calor.",
+     "en": "Yes, very hot.",
+     "verdict": "ok",
+     "feedback": "Correct, and it stops. He opened a door and you stood in it."
+    },
+    {
+     "es": "Yes, very hot here.",
+     "en": "Yes, very hot here.",
+     "verdict": "bad",
+     "feedback": "One word of the other language and the next ten minutes are about where you are from."
+    }
+   ]
+  },
+  {
+   "speaker": "Señor",
+   "es": "A mí se me metió el agua en agosto pasado.",
+   "en": "The water got into my place last August.",
+   "options": [
+    {
+     "es": "A mí también, y el desagüe de mi cuadra sigue tapado.",
+     "en": "Mine too, and the drain on my block is still blocked.",
+     "verdict": "good",
+     "feedback": "Your own story, in the same register, with a complaint everybody in this city shares. Nothing about you is foreign in that sentence."
+    },
+    {
+     "es": "Qué feo. Lo siento.",
+     "en": "How awful. I am sorry.",
+     "verdict": "ok",
+     "feedback": "Sympathy from outside. It is the register of a visitor."
+    },
+    {
+     "es": "¿Y no reclamó a la alcaldía?",
+     "en": "And did you not complain to the town hall?",
+     "verdict": "bad",
+     "feedback": "Advice. He has lived here fifty years and knows what the town hall does."
+    }
+   ]
+  },
+  {
+   "speaker": "Señor",
+   "es": "Uno reclama y nada. Ni modo.",
+   "en": "One complains and nothing. Ni modo.",
+   "options": [
+    {
+     "es": "Ni modo, pues.",
+     "en": "Ni modo, then.",
+     "verdict": "good",
+     "feedback": "Two words, and they are the two words a stranger at a bus stop expects back. Nothing at all remarkable happened."
+    },
+    {
+     "es": "Sí, así es.",
+     "en": "Yes, that is how it is.",
+     "verdict": "ok",
+     "feedback": "True. It agrees without joining him."
+    },
+    {
+     "es": "Hay que insistir más.",
+     "en": "One has to insist more.",
+     "verdict": "bad",
+     "feedback": "Advice again, and it is the sentence somebody who has not lived it says."
+    }
+   ]
+  },
+  {
+   "speaker": "Señor",
+   "es": "(subiendo al bus) Que le vaya bien, joven.",
+   "en": "(getting on the bus) All the best, young man.",
+   "options": [
+    {
+     "es": "Igualmente, señor. Buenas tardes.",
+     "en": "Likewise, sir. Good afternoon.",
+     "verdict": "good",
+     "feedback": "Ordinary, warm and finished. He never asked where you are from, and it only counts because you did not notice while it was happening."
+    },
+    {
+     "es": "Gracias, igualmente.",
+     "en": "Thanks, likewise.",
+     "verdict": "ok",
+     "feedback": "Correct, and a shade clipped for ten minutes of company."
+    },
+    {
+     "es": "Gracias. Y disculpe el acento.",
+     "en": "Thanks. And sorry about the accent.",
+     "verdict": "bad",
+     "feedback": "He did not mention it once in ten minutes. Bringing it up throws away the only thing that happened."
+    }
+   ]
+  }
+ ]
+}

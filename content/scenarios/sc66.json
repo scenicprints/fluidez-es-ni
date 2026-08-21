@@ -1,0 +1,109 @@
+{
+ "id": "sc66",
+ "title": "Pedir la mano",
+ "desc": "Asking her family, in a room with everybody in it",
+ "setting": "Sunday afternoon, doña Elena's front room, and the television is off for the first time in years.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Bueno. Aquí estamos. Usted dirá.",
+   "en": "Right. Here we are. Go ahead.",
+   "options": [
+    {
+     "es": "Doña Elena, vine a pedirle la mano de Lucía.",
+     "en": "Doña Elena, I came to ask you for Lucía's hand.",
+     "verdict": "good",
+     "feedback": "The whole sentence, her name in front, no run-up. This is the one moment where the long way round is wrong."
+    },
+    {
+     "es": "Vine a hablarles de algo importante.",
+     "en": "I came to talk to you about something important.",
+     "verdict": "ok",
+     "feedback": "Everybody in the room knows what it is. Making them wait is making them work."
+    },
+    {
+     "es": "Bueno, ustedes ya saben para qué vine.",
+     "en": "Well, you all know what I came for.",
+     "verdict": "bad",
+     "feedback": "They do. It has to be said out loud by you, and that is the point of the afternoon."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "¿Y usted con qué la va a mantener?",
+   "en": "And what are you going to keep her on?",
+   "options": [
+    {
+     "es": "Con lo que gano en el taller. No es mucho, pero es seguro.",
+     "en": "On what I earn at the workshop. It is not much, but it is steady.",
+     "verdict": "good",
+     "feedback": "Honest and unpolished. Steady is the word that matters in that room, not the amount."
+    },
+    {
+     "es": "Nos vamos a arreglar.",
+     "en": "We will manage.",
+     "verdict": "ok",
+     "feedback": "A phrase with nothing in it. She asked a real question and deserves a number or a name."
+    },
+    {
+     "es": "Ella también trabaja.",
+     "en": "She works too.",
+     "verdict": "bad",
+     "feedback": "True, and it answers a question about you with a fact about her."
+    }
+   ]
+  },
+  {
+   "speaker": "Julio",
+   "es": "¿Y si un día se quiere ir para su país?",
+   "en": "And what if one day you want to go back to your country?",
+   "options": [
+    {
+     "es": "Si nos vamos, nos vamos los dos, y sería decisión de ella también.",
+     "en": "If we go, we both go, and it would be her decision too.",
+     "verdict": "good",
+     "feedback": "The fear is that you will take her away. You answered the fear rather than the words."
+    },
+    {
+     "es": "No tengo planes de irme.",
+     "en": "I have no plans to leave.",
+     "verdict": "ok",
+     "feedback": "True today. It leaves the fear exactly where it was."
+    },
+    {
+     "es": "Eso no lo puedo saber.",
+     "en": "I cannot know that.",
+     "verdict": "bad",
+     "feedback": "Honest, and in this room it is heard as a maybe. That is the wrong answer to that question."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Está bien. Pero aquí la boda se hace como Dios manda.",
+   "en": "All right. But here the wedding is done properly.",
+   "options": [
+    {
+     "es": "Como usted diga, doña. Yo aprendo lo que haya que aprender.",
+     "en": "As you say, doña. I will learn whatever needs learning.",
+     "verdict": "good",
+     "feedback": "You gave her the yes and the authority in one sentence, which is what the sentence was asking for."
+    },
+    {
+     "es": "Sí, claro.",
+     "en": "Yes, of course.",
+     "verdict": "ok",
+     "feedback": "Agreement without the deference. It is the deference she was checking for."
+    },
+    {
+     "es": "Nosotros queremos algo sencillo.",
+     "en": "We want something simple.",
+     "verdict": "bad",
+     "feedback": "Perhaps you do. Five minutes after a yes is not when that gets said."
+    }
+   ]
+  }
+ ]
+}

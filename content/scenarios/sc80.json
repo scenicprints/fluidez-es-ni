@@ -1,0 +1,109 @@
+{
+ "id": "sc80",
+ "title": "Una birra",
+ "desc": "One beer, and the door that opens after eleven",
+ "setting": "Friday, plastic chairs on a corner, a cooler on the floor, and Marcos holding up one finger.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "Una birra y nos vamos, vos.",
+   "en": "One beer and we are off.",
+   "options": [
+    {
+     "es": "Ajá. Como cuando decís ahorita.",
+     "en": "Sure. Like when you say ahorita.",
+     "verdict": "good",
+     "feedback": "You caught the joke inside his promise. Nobody who has been here two years still believes the one beer."
+    },
+    {
+     "es": "Está bien, una nada más.",
+     "en": "All right, just one.",
+     "verdict": "ok",
+     "feedback": "Agreed. He will order the second round and you will still be there at midnight."
+    },
+    {
+     "es": "Yo no puedo quedarme mucho.",
+     "en": "I cannot stay long.",
+     "verdict": "bad",
+     "feedback": "Announcing the exit before the first bottle is opened is a strange way to arrive."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "¡Doña! Dos birras bien heladas.",
+   "en": "Doña! Two beers, good and cold.",
+   "options": [
+    {
+     "es": "Esta tanda la pago yo.",
+     "en": "This round is on me.",
+     "verdict": "good",
+     "feedback": "Getting in early on the rounds is how you stop being the one who never orders."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thanks.",
+     "verdict": "ok",
+     "feedback": "Fine tonight. Over a year, the man who only says gracias gets a name."
+    },
+    {
+     "es": "Yo pago la mía nada más.",
+     "en": "I will pay for just mine.",
+     "verdict": "bad",
+     "feedback": "Splitting it bottle by bottle is not how that cooler works."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "(llegando sin avisar) Ideay, ¿y no me llamaron?",
+   "en": "(arriving unannounced) Ideay, and nobody called me?",
+   "options": [
+    {
+     "es": "Vos siempre caés solo, no hay que llamarte.",
+     "en": "You always turn up on your own, nobody needs to call you.",
+     "verdict": "good",
+     "feedback": "Given back with a smile. Nobody called him and everybody knew he was coming."
+    },
+    {
+     "es": "Sentate pues.",
+     "en": "Sit down then.",
+     "verdict": "ok",
+     "feedback": "Warm and correct. The joke was sitting there unclaimed."
+    },
+    {
+     "es": "No sabíamos que querías venir.",
+     "en": "We did not know you wanted to come.",
+     "verdict": "bad",
+     "feedback": "Too careful. It sounds like he was left out, which now he half was."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "(a las once) Mi papá tenía una moto igualita.",
+   "en": "(at eleven) My father had a motorbike just like that.",
+   "options": [
+    {
+     "es": "(escuchar y no hacer chiste)",
+     "en": "(listen, and make no joke)",
+     "verdict": "good",
+     "feedback": "The tone changed. He has not talked about his father in nine years and the whole table just went quiet with him."
+    },
+    {
+     "es": "Contame de él.",
+     "en": "Tell me about him.",
+     "verdict": "ok",
+     "feedback": "Kind, and it asks him to perform it. He will get there on his own."
+    },
+    {
+     "es": "Jaja, ¿y qué le pasó a la moto?",
+     "en": "Ha, and what happened to the bike?",
+     "verdict": "bad",
+     "feedback": "You answered the serious register with the joking one. Everybody heard it."
+    }
+   ]
+  }
+ ]
+}
