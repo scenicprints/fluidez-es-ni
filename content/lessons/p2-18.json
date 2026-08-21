@@ -4,7 +4,11 @@
  "desc": "May 30, and it is not negotiable",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "mamá",
+  "llevar",
+  "día"
+ ],
  "sn": [
   {
    "s": "En mayo Roberto me pregunta algo.",
@@ -177,6 +181,10 @@
   {
    "s": "Ella se pone las manos en la cara.",
    "e": "She puts her hands to her face."
+  },
+  {
+   "s": "Le llevamos una nieve a doña Carmen en la tarde.",
+   "e": "We take doña Carmen an ice cream in the afternoon."
   },
   {
    "s": "\"Ay, mijo\", dice ella.",

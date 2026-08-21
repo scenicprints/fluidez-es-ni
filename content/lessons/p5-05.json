@@ -4,7 +4,16 @@
  "desc": "The whole country goes to the beach",
  "ph": 5,
  "diff": 5,
- "wu": [],
+ "wu": [
+  "alfombra",
+  "aserrín",
+  "feriado",
+  "morado",
+  "procesión",
+  "pasar",
+  "calle",
+  "gente"
+ ],
  "sn": [
   {
    "s": "En marzo empieza a cambiar todo en el barrio.",

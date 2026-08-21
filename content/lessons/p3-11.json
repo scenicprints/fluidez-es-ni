@@ -4,7 +4,10 @@
  "desc": "Something is broken and you cannot name it",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "señor",
+  "aquí"
+ ],
  "sn": [
   {
    "s": "Se me descompuso el abanico.",

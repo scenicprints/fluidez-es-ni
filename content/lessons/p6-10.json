@@ -4,7 +4,10 @@
  "desc": "Impersonal uno, and hiding behind it",
  "ph": 6,
  "diff": 6,
- "wu": [],
+ "wu": [
+  "poder",
+  "cosa"
+ ],
  "sn": [
   {
    "s": "Don Beto me cuenta una cosa suya un domingo.",

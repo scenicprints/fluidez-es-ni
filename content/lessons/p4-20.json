@@ -4,7 +4,9 @@
  "desc": "Heartbreak",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "día"
+ ],
  "sn": [
   {
    "s": "Al otro día no me levanto temprano.",
@@ -165,6 +167,10 @@
   {
    "s": "La aprendo de doña Carmen, en la cocina.",
    "e": "I learn it from doña Carmen, in the kitchen."
+  },
+  {
+   "s": "Extraño cosas que ni sabía que me gustaban.",
+   "e": "I miss things I did not even know I liked."
   },
   {
    "s": "\"Eso se aguanta\", dice ella.",

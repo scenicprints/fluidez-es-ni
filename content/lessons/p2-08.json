@@ -4,7 +4,9 @@
  "desc": "A birthday, and you are expected",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "pastel"
+ ],
  "sn": [
   {
    "s": "Roberto cumple trece años.",
@@ -177,6 +179,10 @@
   {
    "s": "A las nueve ya no hay nadie.",
    "e": "By nine there is nobody left."
+  },
+  {
+   "s": "En el cumpleaños hay nieve para todos los chavalos.",
+   "e": "At the birthday there is ice cream for all the children."
   },
   {
    "s": "Los chavalos tienen escuela mañana.",

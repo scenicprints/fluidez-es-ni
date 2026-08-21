@@ -5,8 +5,10 @@
  "ph": 7,
  "diff": 7,
  "wu": [
+  "pausa",
   "silencio",
-  "pausa"
+  "bien",
+  "preguntar"
  ],
  "sn": [
   {

@@ -4,7 +4,9 @@
  "desc": "Being angry out loud",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "arrecho"
+ ],
  "sn": [
   {
    "s": "Hay una palabra que oigo desde el primer día.",

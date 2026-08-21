@@ -4,7 +4,13 @@
  "desc": "A giant woman and a big-headed dwarf",
  "ph": 5,
  "diff": 5,
- "wu": [],
+ "wu": [
+  "gigantona",
+  "copla",
+  "moneda",
+  "enano",
+  "niño"
+ ],
  "sn": [
   {
    "s": "En diciembre aparece algo raro en la calle.",

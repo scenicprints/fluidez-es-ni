@@ -97,6 +97,8 @@ def main():
     print("recycling  %d words taught, median %d encounters, %d reach ten"
           % (stats.get("vocabulary", 0), stats.get("median_encounters", 0),
              stats.get("reach_ten", 0)))
+    print("one-scene  %d word(s) exempt from RETURN, taught hard in one story"
+          % stats.get("one_scene", 0))
     for p in problems[:25]:
         print("PROBLEM: %s" % p)
     if len(problems) > 25:

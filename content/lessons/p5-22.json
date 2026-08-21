@@ -4,7 +4,11 @@
  "desc": "Where you live means something",
  "ph": 5,
  "diff": 5,
- "wu": [],
+ "wu": [
+  "fama",
+  "peligroso",
+  "zona"
+ ],
  "sn": [
   {
    "s": "En el trabajo llenamos un papel con la dirección.",

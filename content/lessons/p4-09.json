@@ -5,7 +5,8 @@
  "ph": 4,
  "diff": 4,
  "wu": [
-  "año"
+  "año",
+  "doña"
  ],
  "sn": [
   {
@@ -167,6 +168,10 @@
   {
    "s": "Me lo cuenta mientras pela una yuca.",
    "e": "She tells me while peeling a yuca."
+  },
+  {
+   "s": "El primer consejo de doña Elena me lo dio en la cocina.",
+   "e": "Doña Elena gave me her first piece of advice in the kitchen."
   },
   {
    "s": "Sin mirarme, con las manos ocupadas.",

@@ -4,7 +4,9 @@
  "desc": "A bill that is wrong",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "recibo"
+ ],
  "sn": [
   {
    "s": "El primer recibo de la luz me asusta.",

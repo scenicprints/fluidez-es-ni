@@ -4,7 +4,11 @@
  "desc": "Fruit falls on the roof for a month",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "mango",
+  "regalar",
+  "caer"
+ ],
  "sn": [
   {
    "s": "En abril empiezan a caer los mangos.",

@@ -4,7 +4,13 @@
  "desc": "Everyone is somebody's cousin",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "hermana",
+  "abuela",
+  "papá",
+  "familia",
+  "doña"
+ ],
  "sn": [
   {
    "s": "Un domingo conozco a la familia de Roberto.",
@@ -189,6 +195,10 @@
   {
    "s": "Al final del domingo doña Carmen me pregunta algo.",
    "e": "At the end of Sunday doña Carmen asks me something."
+  },
+  {
+   "s": "Todos los primos de Roberto llevan el mismo apellido.",
+   "e": "All Roberto's cousins carry the same surname."
   },
   {
    "s": "\"¿Y su familia, mijo?\"",

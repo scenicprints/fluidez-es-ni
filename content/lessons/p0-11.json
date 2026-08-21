@@ -4,7 +4,14 @@
  "desc": "Dinner comes off a grill on the sidewalk",
  "ph": 0,
  "diff": 1,
- "wu": [],
+ "wu": [
+  "tajadas",
+  "maduro",
+  "carne",
+  "fila",
+  "hoja",
+  "fritanga"
+ ],
  "sn": [
   {
    "s": "En la noche hay humo en la calle.",

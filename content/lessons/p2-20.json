@@ -4,7 +4,11 @@
  "desc": "Introducing one person to another",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "beso",
+  "presentar",
+  "mano"
+ ],
  "sn": [
   {
    "s": "Presentar gente aquí tiene reglas.",
@@ -165,6 +169,10 @@
   {
    "s": "Desde ese día saludo uno por uno.",
    "e": "From that day on I greet them one by one."
+  },
+  {
+   "s": "Al presentar a alguien se dice el nombre y el apellido.",
+   "e": "When introducing somebody you say the first name and the surname."
   },
   {
    "s": "Doy la mano o doy un beso.",

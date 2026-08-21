@@ -4,7 +4,11 @@
  "desc": "A joke that goes too far",
  "ph": 5,
  "diff": 5,
- "wu": [],
+ "wu": [
+  "límite",
+  "moto",
+  "ofensa"
+ ],
  "sn": [
   {
    "s": "Un sábado estamos en el patio de Marcos.",

@@ -4,7 +4,12 @@
  "desc": "Wordplay",
  "ph": 7,
  "diff": 7,
- "wu": [],
+ "wu": [
+  "verso",
+  "palabra",
+  "don",
+  "después"
+ ],
  "sn": [
   {
    "s": "Roberto vuelve de Costa Rica en diciembre, por fin.",

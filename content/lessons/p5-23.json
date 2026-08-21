@@ -5,8 +5,11 @@
  "ph": 5,
  "diff": 5,
  "wu": [
+  "puntual",
+  "atraso",
   "llegar",
-  "llega"
+  "hora",
+  "después"
  ],
  "sn": [
   {

@@ -4,7 +4,13 @@
  "desc": "A freshwater sea",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "isla",
+  "orilla",
+  "barco",
+  "ola",
+  "agua"
+ ],
  "sn": [
   {
    "s": "El lago Cocibolca es enorme.",

@@ -5,8 +5,8 @@
  "ph": 4,
  "diff": 4,
  "wu": [
-  "cambiar",
   "cuñado",
+  "cambiar",
   "ahora"
  ],
  "sn": [
@@ -169,6 +169,10 @@
   {
    "s": "Doña Elena manda a Chino a hacer un turno.",
    "e": "Doña Elena sends Chino to do a shift."
+  },
+  {
+   "s": "En esta familia el perdón se pide en la cocina.",
+   "e": "In this family forgiveness is asked for in the kitchen."
   },
   {
    "s": "Chino no es nada de doña Carmen.",

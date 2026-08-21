@@ -4,7 +4,9 @@
  "desc": "An argument about money",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "más"
+ ],
  "sn": [
   {
    "s": "El primer problema serio es por plata.",
@@ -165,6 +167,10 @@
   {
    "s": "Y no dice nada más.",
    "e": "And says nothing more."
+  },
+  {
+   "s": "Ella se puso arrecha y tenía toda la razón.",
+   "e": "She got furious and she was completely right."
   },
   {
    "s": "Nada más hace falta.",

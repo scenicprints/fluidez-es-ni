@@ -4,7 +4,9 @@
  "desc": "An argument about family",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "doña"
+ ],
  "sn": [
   {
    "s": "En diciembre pasa lo que tenía que pasar.",
@@ -169,6 +171,10 @@
   {
    "s": "Y la respuesta era ir a la de ella.",
    "e": "And the answer was to go to hers."
+  },
+  {
+   "s": "Los dos estábamos arrechos por cosas viejas.",
+   "e": "The two of us were furious about old things."
   },
   {
    "s": "Voy el siete de diciembre a las seis.",

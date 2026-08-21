@@ -4,7 +4,15 @@
  "desc": "A room with a fan and no hot water",
  "ph": 0,
  "diff": 1,
- "wu": [],
+ "wu": [
+  "jabón",
+  "cama",
+  "pila",
+  "balde",
+  "ropa",
+  "lavar",
+  "cuarto"
+ ],
  "sn": [
   {
    "s": "Mi cuarto es pequeño.",

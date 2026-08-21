@@ -4,7 +4,9 @@
  "desc": "Making a plan with six people",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "llevar"
+ ],
  "sn": [
   {
    "s": "El plan empieza un martes.",
@@ -181,6 +183,10 @@
   {
    "s": "Comemos a las doce en las sillas.",
    "e": "We eat at twelve in the chairs."
+  },
+  {
+   "s": "En la playa venden nieve de coco en un carrito.",
+   "e": "On the beach they sell coconut ice cream from a cart."
   },
   {
    "s": "El arroz tiene arena y no importa.",

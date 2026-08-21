@@ -5,7 +5,11 @@
  "ph": 2,
  "diff": 2,
  "wu": [
-  "comprar"
+  "armar",
+  "gritar",
+  "bolsa",
+  "comprar",
+  "casa"
  ],
  "sn": [
   {
@@ -235,6 +239,10 @@
   {
    "s": "Caminamos hasta las once de la noche.",
    "e": "We walk until eleven at night."
+  },
+  {
+   "s": "Después de la gritería nos comemos una nieve en la esquina.",
+   "e": "After the gritería we eat an ice cream on the corner."
   },
   {
    "s": "Vamos a más de treinta casas.",

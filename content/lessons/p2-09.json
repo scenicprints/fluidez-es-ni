@@ -4,7 +4,10 @@
  "desc": "Children are everywhere and they are everyone's",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "cargar",
+  "chavalo"
+ ],
  "sn": [
   {
    "s": "En esta calle hay chavalos por todos lados.",
@@ -177,6 +180,10 @@
   {
    "s": "Me deja con dos chavalos chiquitos.",
    "e": "She leaves me with two small kids."
+  },
+  {
+   "s": "Los chavalos corren detrás del carrito de la nieve.",
+   "e": "The children run after the ice cream cart."
   },
   {
    "s": "No me pregunta si puedo.",

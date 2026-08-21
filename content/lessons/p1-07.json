@@ -4,7 +4,9 @@
  "desc": "The biggest market in Central America",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "puesto"
+ ],
  "sn": [
   {
    "s": "El mercado Oriental es enorme.",

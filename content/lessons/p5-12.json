@@ -4,7 +4,14 @@
  "desc": "Sayings, and why they end arguments",
  "ph": 5,
  "diff": 5,
- "wu": [],
+ "wu": [
+  "corriente",
+  "mosca",
+  "sabio",
+  "camarón",
+  "refrán",
+  "más"
+ ],
  "sn": [
   {
    "s": "En el trabajo hay una discusión desde el lunes.",

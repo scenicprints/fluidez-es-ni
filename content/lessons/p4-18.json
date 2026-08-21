@@ -4,7 +4,9 @@
  "desc": "The conversation about what this is",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "año"
+ ],
  "sn": [
   {
    "s": "Llevamos un año y medio.",

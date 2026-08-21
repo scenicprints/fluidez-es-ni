@@ -4,7 +4,11 @@
  "desc": "Names carry history",
  "ph": 6,
  "diff": 6,
- "wu": [],
+ "wu": [
+  "tocayo",
+  "apellido",
+  "saber"
+ ],
  "sn": [
   {
    "s": "Voy a sacar una cédula de residencia en marzo.",

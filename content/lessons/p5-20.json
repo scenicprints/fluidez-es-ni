@@ -4,7 +4,13 @@
  "desc": "Sunday morning, and the whole street smells the same",
  "ph": 5,
  "diff": 5,
- "wu": [],
+ "wu": [
+  "masa",
+  "manteca",
+  "envolver",
+  "nacatamal",
+  "encargar"
+ ],
  "sn": [
   {
    "s": "Los domingos Managua huele a lo mismo en todas partes.",

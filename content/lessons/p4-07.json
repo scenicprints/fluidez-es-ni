@@ -4,7 +4,10 @@
  "desc": "Querer and amar are not the same size",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "amar",
+  "querer"
+ ],
  "sn": [
   {
    "s": "En español hay dos palabras para eso.",

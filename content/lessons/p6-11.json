@@ -4,7 +4,10 @@
  "desc": "Subjects that get closed",
  "ph": 6,
  "diff": 6,
- "wu": [],
+ "wu": [
+  "hablar",
+  "después"
+ ],
  "sn": [
   {
    "s": "Una noche estamos seis en el patio de doña Elena.",

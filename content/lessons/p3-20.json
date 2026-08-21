@@ -4,7 +4,10 @@
  "desc": "Choosing to have the conversation",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "día",
+  "hablar"
+ ],
  "sn": [
   {
    "s": "Hay una cosa que aquí se hace tarde.",

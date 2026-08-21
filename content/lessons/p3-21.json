@@ -4,7 +4,9 @@
  "desc": "A promise not kept",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "sábado"
+ ],
  "sn": [
   {
    "s": "Un amigo me falla con algo importante.",
@@ -173,6 +175,10 @@
   {
    "s": "Y si tenía, uno se salvó de quedar mal.",
    "e": "And if he did, you have saved yourself from looking bad."
+  },
+  {
+   "s": "Yo estaba arrecho pero no lo dije de una vez.",
+   "e": "I was furious but I did not say so straight away."
   },
   {
    "s": "Le pregunto por su hermana.",

@@ -4,7 +4,10 @@
  "desc": "Being sent to do errands",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "arroz",
+  "mandar"
+ ],
  "sn": [
   {
    "s": "Doña Carmen me manda a la pulpería.",
@@ -189,6 +192,10 @@
   {
    "s": "\"¿Se le olvidó algo?\", pregunta.",
    "e": "\"Did you forget something?\" she asks."
+  },
+  {
+   "s": "Doña Carmen me manda a un puesto que ella conoce.",
+   "e": "Doña Carmen sends me to a stall she knows."
   },
   {
    "s": "\"Los fósforos\", digo yo.",

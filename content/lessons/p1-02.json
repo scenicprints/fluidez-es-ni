@@ -4,7 +4,10 @@
  "desc": "Places that no longer exist are still directions",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "preguntar",
+  "aquí"
+ ],
  "sn": [
   {
    "s": "Necesito ir a una ferretería.",

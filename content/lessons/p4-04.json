@@ -4,7 +4,9 @@
  "desc": "A first evening alone",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "preguntar"
+ ],
  "sn": [
   {
    "s": "Le pido que salgamos un sábado.",

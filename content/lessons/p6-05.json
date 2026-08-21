@@ -4,7 +4,10 @@
  "desc": "Saying a hard thing gently",
  "ph": 6,
  "diff": 6,
- "wu": [],
+ "wu": [
+  "pedir",
+  "cosa"
+ ],
  "sn": [
   {
    "s": "Doña Carmen viene a mi casa un miércoles en la tarde.",

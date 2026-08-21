@@ -4,7 +4,10 @@
  "desc": "Three wheels and no doors",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "caponera",
+  "mototaxi"
+ ],
  "sn": [
   {
    "s": "En Granada casi no hay taxis normales.",

@@ -4,7 +4,9 @@
  "desc": "Yesterday, and the day before",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "contar"
+ ],
  "sn": [
   {
    "s": "En la noche siempre me hacen la misma pregunta.",
@@ -169,6 +171,10 @@
   {
    "s": "Anoche es la noche de ayer nada más.",
    "e": "Anoche is just last night."
+  },
+  {
+   "s": "Ayer comimos pastel en la casa de la vecina.",
+   "e": "Yesterday we ate cake at the neighbour's house."
   },
   {
    "s": "Después de un mes ya cuento mi día largo.",

@@ -4,7 +4,11 @@
  "desc": "Refusing something you were never going to do",
  "ph": 6,
  "diff": 6,
- "wu": [],
+ "wu": [
+  "quizás",
+  "domingo",
+  "vez"
+ ],
  "sn": [
   {
    "s": "En marzo invito a Julio a ir al lago un domingo.",

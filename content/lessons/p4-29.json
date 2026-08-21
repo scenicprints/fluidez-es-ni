@@ -4,7 +4,9 @@
  "desc": "Nine nights",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "noche"
+ ],
  "sn": [
   {
    "s": "La abuela muere en febrero, dormida.",

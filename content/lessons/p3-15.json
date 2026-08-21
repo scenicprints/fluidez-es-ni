@@ -4,7 +4,9 @@
  "desc": "Serious this time",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "hospital"
+ ],
  "sn": [
   {
    "s": "Un martes en la noche llaman a doña Carmen.",

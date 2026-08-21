@@ -4,7 +4,9 @@
  "desc": "A misunderstanding between two people",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "gritar"
+ ],
  "sn": [
   {
    "s": "La primera pelea de verdad es por nada.",

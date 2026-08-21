@@ -4,7 +4,9 @@
  "desc": "Not football. Baseball.",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "béisbol"
+ ],
  "sn": [
   {
    "s": "Yo pensaba que aquí se jugaba fútbol.",
@@ -169,6 +171,10 @@
   {
    "s": "Aprendo los nombres de los equipos.",
    "e": "I learn the names of the teams."
+  },
+  {
+   "s": "En el estadio venden nieve en vasitos de plástico.",
+   "e": "At the stadium they sell ice cream in little plastic cups."
   },
   {
    "s": "Aprendo a decir que soy del Bóer.",

@@ -6,7 +6,9 @@
  "diff": 4,
  "wu": [
   "mujer",
-  "sonar"
+  "sonar",
+  "palabra",
+  "pregunta"
  ],
  "sn": [
   {
@@ -164,6 +166,10 @@
   {
    "s": "Uno las escoge.",
    "e": "You choose them."
+  },
+  {
+   "s": "Ella me corrige el español cuando nadie más lo hace.",
+   "e": "She corrects my Spanish when nobody else does."
   },
   {
    "s": "Las otras le tocaron.",

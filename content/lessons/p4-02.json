@@ -4,7 +4,9 @@
  "desc": "Saying you like somebody, and getting it right",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "pregunta"
+ ],
  "sn": [
   {
    "s": "Yo no le cuento nada a nadie.",

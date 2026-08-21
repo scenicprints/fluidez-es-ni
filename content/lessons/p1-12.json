@@ -5,9 +5,10 @@
  "ph": 1,
  "diff": 2,
  "wu": [
+  "clavo",
+  "servir",
   "cosa",
-  "saber",
-  "palabra"
+  "saber"
  ],
  "sn": [
   {
@@ -197,6 +198,10 @@
   {
    "s": "La gente aquí adivina rápido.",
    "e": "People here guess fast."
+  },
+  {
+   "s": "En el mercado hay un puesto que vende solo tornillos.",
+   "e": "In the market there is a stall that sells nothing but screws."
   },
   {
    "s": "Están acostumbrados a explicar cosas.",

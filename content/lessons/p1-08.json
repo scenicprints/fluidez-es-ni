@@ -4,7 +4,12 @@
  "desc": "Granada on a banana leaf",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "chicharrón",
+  "vigorón",
+  "curtido",
+  "probar"
+ ],
  "sn": [
   {
    "s": "En el parque de Granada hay muchas señoras.",
@@ -189,6 +194,10 @@
   {
    "s": "Roberto dice que sí.",
    "e": "Roberto says yes."
+  },
+  {
+   "s": "El puesto de vigorón es el mismo desde hace treinta años.",
+   "e": "The vigorón stall has been the same one for thirty years."
   },
   {
    "s": "Yo también digo que sí.",

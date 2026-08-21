@@ -4,7 +4,12 @@
  "desc": "Small words that carry a lot",
  "ph": 0,
  "diff": 1,
- "wu": [],
+ "wu": [
+  "maje",
+  "ideay",
+  "significar",
+  "palabra"
+ ],
  "sn": [
   {
    "s": "Hay palabras que no están en mi libro.",

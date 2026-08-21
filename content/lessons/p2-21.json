@@ -4,7 +4,10 @@
  "desc": "Teasing, and being teased",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "burlarse",
+  "enojarse"
+ ],
  "sn": [
   {
    "s": "Aquí la gente se burla todo el tiempo.",

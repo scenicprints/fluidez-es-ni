@@ -2,7 +2,7 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**185 of 185 stories written** - 77,288 of ~148,000 running words.
+**185 of 185 stories written** - 77,544 of ~148,000 running words.
 
 | Phase | Written | Total |
 |---|---|---|

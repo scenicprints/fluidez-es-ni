@@ -5,7 +5,7 @@
  "ph": 3,
  "diff": 3,
  "wu": [
-  "fue"
+  "saber"
  ],
  "sn": [
   {
@@ -175,6 +175,10 @@
   {
    "s": "Después me pasa la pelota.",
    "e": "Then he passes me the ball."
+  },
+  {
+   "s": "Un mensaje de celular no dice el tono de la voz.",
+   "e": "A phone message does not carry the tone of the voice."
   },
   {
    "s": "Y eso fue todo.",

@@ -4,7 +4,10 @@
  "desc": "A first night out",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "cerveza",
+  "invitar"
+ ],
  "sn": [
   {
    "s": "Un viernes don Beto me invita a tomar.",

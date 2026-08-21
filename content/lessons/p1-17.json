@@ -4,7 +4,10 @@
  "desc": "The drink the country is named after",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "pinolillo",
+  "tomar"
+ ],
  "sn": [
   {
    "s": "Doña Carmen me da un vaso raro.",

@@ -4,7 +4,9 @@
  "desc": "Being asked directly",
  "ph": 4,
  "diff": 4,
- "wu": [],
+ "wu": [
+  "preguntar"
+ ],
  "sn": [
   {
    "s": "La pregunta llega un domingo, sin aviso.",

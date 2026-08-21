@@ -4,7 +4,10 @@
  "desc": "September 21, and you had better not forget",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "amarillo",
+  "flor"
+ ],
  "sn": [
   {
    "s": "El veintiuno de septiembre pasa algo raro.",

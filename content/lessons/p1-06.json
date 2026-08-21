@@ -4,7 +4,13 @@
  "desc": "Getting a phone that works",
  "ph": 1,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "chip",
+  "saldo",
+  "número",
+  "celular",
+  "voz"
+ ],
  "sn": [
   {
    "s": "Mi celular no funciona aquí.",

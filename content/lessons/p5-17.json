@@ -4,7 +4,15 @@
  "desc": "Feeling out of place, in their words",
  "ph": 5,
  "diff": 5,
- "wu": [],
+ "wu": [
+  "pertenecer",
+  "sentirse",
+  "ajeno",
+  "hallarse",
+  "lugar",
+  "raro",
+  "bien"
+ ],
  "sn": [
   {
    "s": "Hay una cosa que me pasa desde el primer año.",

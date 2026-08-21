@@ -4,7 +4,9 @@
  "desc": "Names, and all the ones you get given",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "apellido"
+ ],
  "sn": [
   {
    "s": "Aquí casi nadie usa su nombre.",

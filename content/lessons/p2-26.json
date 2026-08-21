@@ -4,7 +4,10 @@
  "desc": "The first time somebody says you belong",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "ahora",
+  "pregunta"
+ ],
  "sn": [
   {
    "s": "Han pasado seis meses.",

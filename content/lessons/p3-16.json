@@ -4,7 +4,9 @@
  "desc": "Asking for advice",
  "ph": 3,
  "diff": 3,
- "wu": [],
+ "wu": [
+  "consejo"
+ ],
  "sn": [
   {
    "s": "Tengo una decisión difícil que tomar.",

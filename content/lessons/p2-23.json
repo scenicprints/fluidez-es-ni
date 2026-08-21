@@ -4,7 +4,10 @@
  "desc": "Being ill somewhere you do not know the words",
  "ph": 2,
  "diff": 2,
- "wu": [],
+ "wu": [
+  "remedio",
+  "doler"
+ ],
  "sn": [
   {
    "s": "Un martes me despierto mal.",
