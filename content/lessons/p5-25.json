@@ -4,14 +4,7 @@
  "desc": "They stop slowing down for you",
  "ph": 5,
  "diff": 5,
- "wu": [
-  "esfuerzo",
-  "notar",
-  "traducir",
-  "cansancio",
-  "normal",
-  "costumbre"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "Hay una cosa que pasa y uno no la nota el día que pasa.",

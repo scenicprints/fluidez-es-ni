@@ -1,0 +1,285 @@
+{
+ "id": "p7-06",
+ "title": "En la radio",
+ "desc": "Listening to something not aimed at you",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "radio",
+  "locutor"
+ ],
+ "sn": [
+  {
+   "s": "El taller tiene una radio prendida todo el día.",
+   "e": "The workshop has a radio on all day."
+  },
+  {
+   "s": "La prende don Emilio a las siete y la apaga a las cinco.",
+   "e": "Don Emilio turns it on at seven and off at five."
+  },
+  {
+   "s": "Nadie discute la emisora porque es la de él.",
+   "e": "Nobody argues about the station because it is his."
+  },
+  {
+   "s": "Durante tres años esa radio fue un ruido para mí.",
+   "e": "For three years that radio was a noise to me."
+  },
+  {
+   "s": "Un ruido de fondo, como el compresor o el tráfico.",
+   "e": "A background noise, like the compressor or the traffic."
+  },
+  {
+   "s": "Yo sabía que era español y no entendía nada.",
+   "e": "I knew it was Spanish and I understood nothing."
+  },
+  {
+   "s": "Un locutor de radio habla más rápido que cualquiera.",
+   "e": "A radio announcer talks faster than anybody."
+  },
+  {
+   "s": "Habla rápido y no se le ve la cara.",
+   "e": "He talks fast and you cannot see his face."
+  },
+  {
+   "s": "Y sin la cara se pierde la mitad de la ayuda.",
+   "e": "And without the face you lose half the help."
+  },
+  {
+   "s": "En la calle uno adivina por la cara del otro.",
+   "e": "In the street you guess from the other person's face."
+  },
+  {
+   "s": "En la radio no hay cara ni hay repetición.",
+   "e": "On the radio there is no face and no repetition."
+  },
+  {
+   "s": "Por eso la radio fue lo último que se me abrió.",
+   "e": "That is why the radio was the last thing that opened up to me."
+  },
+  {
+   "s": "Un martes cualquiera me doy cuenta de que la estoy oyendo.",
+   "e": "One ordinary Tuesday I realise I am listening to it."
+  },
+  {
+   "s": "No la puse a oír, la estaba oyendo desde hacía rato.",
+   "e": "I did not set out to listen, I had been listening for a while."
+  },
+  {
+   "s": "Es un locutor hablando del tráfico y de una calle cerrada.",
+   "e": "It is an announcer talking about traffic and a closed street."
+  },
+  {
+   "s": "Y yo sé qué calle es y por qué está cerrada.",
+   "e": "And I know which street it is and why it is closed."
+  },
+  {
+   "s": "Sigo el segmento entero sin proponérmelo.",
+   "e": "I follow the whole segment without meaning to."
+  },
+  {
+   "s": "Como cinco minutos de noticias, completos.",
+   "e": "About five minutes of news, complete."
+  },
+  {
+   "s": "Y cuando termina me quedo esperando la siguiente.",
+   "e": "And when it ends I sit there waiting for the next one."
+  },
+  {
+   "s": "La radio de aquí tiene sus partes fijas.",
+   "e": "The radio here has its fixed parts."
+  },
+  {
+   "s": "La noticia va primero y es la más difícil.",
+   "e": "The news comes first and it is the hardest."
+  },
+  {
+   "s": "El locutor lee y por eso habla como escrito.",
+   "e": "The announcer reads and so he talks the way things are written."
+  },
+  {
+   "s": "Usa palabras que nadie usa en una acera.",
+   "e": "He uses words nobody uses on a pavement."
+  },
+  {
+   "s": "Es el mismo idioma de la carta al gerente.",
+   "e": "It is the same language as the letter to the manager."
+  },
+  {
+   "s": "Por eso yo entiendo la noticia mejor que el anuncio.",
+   "e": "That is why I understand the news better than the advert."
+  },
+  {
+   "s": "El anuncio es lo contrario y es lo más difícil.",
+   "e": "The advert is the opposite and it is the hardest."
+  },
+  {
+   "s": "El anuncio habla como habla la gente pero más rápido.",
+   "e": "The advert talks the way people talk but faster."
+  },
+  {
+   "s": "Y usa fórmulas que uno tiene que conocer de antes.",
+   "e": "And it uses formulas you have to know beforehand."
+  },
+  {
+   "s": "Hay un anuncio de una fritanga que pasa cada hora.",
+   "e": "There is an advert for a fritanga that goes out every hour."
+  },
+  {
+   "s": "Una señora grita el nombre y la dirección tres veces.",
+   "e": "A lady shouts the name and the address three times."
+  },
+  {
+   "s": "Y termina diciendo lo que dicen todas las señoras.",
+   "e": "And ends by saying what all the ladies say."
+  },
+  {
+   "s": "Dice que la esperamos, mi amor, con la misma voz.",
+   "e": "She says we will be waiting for you, mi amor, with the same voice."
+  },
+  {
+   "s": "La primera vez que agarré esa fórmula me reí solo.",
+   "e": "The first time I caught that formula I laughed on my own."
+  },
+  {
+   "s": "Me reí en el taller sin que nadie supiera por qué.",
+   "e": "I laughed in the workshop without anybody knowing why."
+  },
+  {
+   "s": "Después están las canciones, que son la mitad del día.",
+   "e": "Then there are the songs, which are half the day."
+  },
+  {
+   "s": "Una canción es más fácil que un locutor.",
+   "e": "A song is easier than an announcer."
+  },
+  {
+   "s": "Va más lenta y repite el mismo pedazo cuatro veces.",
+   "e": "It goes slower and repeats the same bit four times."
+  },
+  {
+   "s": "Yo aprendí como veinte canciones sin querer aprenderlas.",
+   "e": "I learned about twenty songs without meaning to learn them."
+  },
+  {
+   "s": "Me las sé enteras y no sé qué dicen la mitad.",
+   "e": "I know them all through and I do not know what half of them say."
+  },
+  {
+   "s": "Igual que el sobrino con los versos de Darío.",
+   "e": "The same as the nephew with Darío's lines."
+  },
+  {
+   "s": "Y después está la parte que a mí me gusta más.",
+   "e": "And then there is the part I like best."
+  },
+  {
+   "s": "Hay un programa en la tarde donde la gente llama.",
+   "e": "There is a programme in the afternoon where people call in."
+  },
+  {
+   "s": "Llaman y hablan de cualquier cosa con el locutor.",
+   "e": "They call and talk about anything with the announcer."
+  },
+  {
+   "s": "Llaman por un perro perdido o por un techo que gotea.",
+   "e": "They call about a lost dog or a leaking roof."
+  },
+  {
+   "s": "Llaman para saludar a una hija que está en Costa Rica.",
+   "e": "They call to say hello to a daughter who is in Costa Rica."
+  },
+  {
+   "s": "Eso último es lo que más se oye en diciembre.",
+   "e": "That last one is what you hear most in December."
+  },
+  {
+   "s": "Toda la tarde señoras saludando a hijos que no están.",
+   "e": "All afternoon ladies greeting children who are not there."
+  },
+  {
+   "s": "Y el locutor las trata a todas con el mismo cariño.",
+   "e": "And the announcer treats them all with the same warmth."
+  },
+  {
+   "s": "Les dice doña, les pregunta el barrio, las deja hablar.",
+   "e": "He calls them doña, asks them their barrio, lets them talk."
+  },
+  {
+   "s": "Ahí la radio deja de ser radio y es otra cosa.",
+   "e": "There the radio stops being radio and is something else."
+  },
+  {
+   "s": "Don Emilio oye ese programa todos los días.",
+   "e": "Don Emilio listens to that programme every day."
+  },
+  {
+   "s": "Y no dice una palabra mientras está puesto.",
+   "e": "And he does not say a word while it is on."
+  },
+  {
+   "s": "Un día le pregunto si él conoce al locutor.",
+   "e": "One day I ask him if he knows the announcer."
+  },
+  {
+   "s": "Me dice que lo oye desde hace veintidós años.",
+   "e": "He tells me he has been listening to him for twenty-two years."
+  },
+  {
+   "s": "Que oyó a ese mismo hombre cuando tenía otra voz.",
+   "e": "That he heard that same man when he had another voice."
+  },
+  {
+   "s": "Y que un día se va a morir y va a ser raro.",
+   "e": "And that one day he is going to die and it is going to be strange."
+  },
+  {
+   "s": "Lo dice y sigue trabajando, sin mirarme.",
+   "e": "He says it and goes on working, without looking at me."
+  },
+  {
+   "s": "En julio el locutor no sale una semana entera.",
+   "e": "In July the announcer is off for a whole week."
+  },
+  {
+   "s": "Sale otro en su lugar y no dice por qué.",
+   "e": "Another one comes on in his place and does not say why."
+  },
+  {
+   "s": "Don Emilio no comenta nada pero baja el volumen.",
+   "e": "Don Emilio makes no comment but turns the volume down."
+  },
+  {
+   "s": "Toda la semana la radio suena más bajo que nunca.",
+   "e": "All week the radio plays quieter than ever."
+  },
+  {
+   "s": "El lunes siguiente vuelve el de siempre.",
+   "e": "The following Monday the usual one comes back."
+  },
+  {
+   "s": "Empieza el programa con la misma fórmula de siempre.",
+   "e": "He starts the programme with the same formula as always."
+  },
+  {
+   "s": "Y don Emilio le sube el volumen sin decir nada.",
+   "e": "And don Emilio turns the volume up without saying anything."
+  },
+  {
+   "s": "Yo estoy soldando y me río solo otra vez.",
+   "e": "I am welding and I laugh on my own again."
+  },
+  {
+   "s": "Porque entendí las dos cosas sin que nadie me explicara.",
+   "e": "Because I understood both things without anybody explaining."
+  },
+  {
+   "s": "La fórmula del locutor y la del viejo con el volumen.",
+   "e": "The announcer's formula and the old man's with the volume."
+  },
+  {
+   "s": "Ninguna de las dos está en un libro tampoco.",
+   "e": "Neither of the two is in a book either."
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "id": "p7-07",
+ "title": "Discutiendo de fútbol y béisbol",
+ "desc": "Arguing about nothing, at length",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "servir",
+  "dato",
+  "número"
+ ],
+ "sn": [
+  {
+   "s": "La discusión más larga del barrio no es política.",
+   "e": "The longest argument in the barrio is not politics."
+  },
+  {
+   "s": "Es cuál es el deporte de Nicaragua.",
+   "e": "It is which is Nicaragua's sport."
+  },
+  {
+   "s": "Los viejos dicen que el béisbol, sin discusión.",
+   "e": "The old men say baseball, without argument."
+  },
+  {
+   "s": "Los muchachos dicen que el fútbol, y cada año más.",
+   "e": "The young men say football, and more every year."
+  },
+  {
+   "s": "Y eso da para cuatro horas cualquier viernes.",
+   "e": "And that is good for four hours any Friday."
+  },
+  {
+   "s": "Yo llevo cinco años oyendo la misma discusión.",
+   "e": "I have spent five years listening to the same argument."
+  },
+  {
+   "s": "Nunca la gana nadie y nunca se acaba.",
+   "e": "Nobody ever wins it and it never ends."
+  },
+  {
+   "s": "Y esa es exactamente la gracia del asunto.",
+   "e": "And that is exactly the point of the thing."
+  },
+  {
+   "s": "Marcos me dice que una discusión que se gana se acaba.",
+   "e": "Marcos tells me an argument that gets won is over."
+  },
+  {
+   "s": "Y que a nadie le sirve una discusión acabada.",
+   "e": "And that a finished argument is no use to anybody."
+  },
+  {
+   "s": "Por eso se discute de deporte y no de lo otro.",
+   "e": "That is why people argue about sport and not about the other thing."
+  },
+  {
+   "s": "Lo otro se cierra en veinte segundos, como aprendí.",
+   "e": "The other thing gets closed in twenty seconds, as I learned."
+  },
+  {
+   "s": "Y el béisbol da para cuatro horas y otra birra.",
+   "e": "And baseball is good for four hours and another beer."
+  },
+  {
+   "s": "Lo difícil de estas discusiones no son las razones.",
+   "e": "The hard part of these arguments is not the reasons."
+  },
+  {
+   "s": "Es aguantar en la conversación sin que lo saquen a uno.",
+   "e": "It is holding on in the conversation without being pushed out."
+  },
+  {
+   "s": "Porque aquí todos hablan al mismo tiempo, siempre.",
+   "e": "Because here everybody talks at the same time, always."
+  },
+  {
+   "s": "Y el que espera su turno no habla nunca.",
+   "e": "And the one who waits his turn never talks."
+  },
+  {
+   "s": "Los primeros años yo esperaba mi turno educadamente.",
+   "e": "The first years I waited my turn politely."
+  },
+  {
+   "s": "Y pasaba una noche entera sin decir una frase.",
+   "e": "And a whole night went by without my saying a sentence."
+  },
+  {
+   "s": "Yo creía que era porque no me dejaban entrar.",
+   "e": "I believed it was because they would not let me in."
+  },
+  {
+   "s": "Y no era eso, era que yo esperaba una puerta.",
+   "e": "And it was not that, it was that I was waiting for a door."
+  },
+  {
+   "s": "Aquí no hay puerta, uno entra por la pared.",
+   "e": "Here there is no door, you come in through the wall."
+  },
+  {
+   "s": "Interrumpir aquí no es una grosería, es la manera.",
+   "e": "Interrupting here is not rude, it is the way."
+  },
+  {
+   "s": "Pero hay una forma de interrumpir que sí ofende.",
+   "e": "But there is one way of interrupting that does offend."
+  },
+  {
+   "s": "Marcos me enseñó las dos, que son distintas.",
+   "e": "Marcos taught me both, which are different."
+  },
+  {
+   "s": "La buena se hace enganchando lo que dijo el otro.",
+   "e": "The good one is done by hooking onto what the other one said."
+  },
+  {
+   "s": "Uno repite las últimas dos palabras del otro y sigue.",
+   "e": "You repeat the other one's last two words and go on."
+  },
+  {
+   "s": "Ah, el pitcher, y ahí uno ya está adentro.",
+   "e": "Ah, the pitcher, and there you are already in."
+  },
+  {
+   "s": "El otro no se ofende porque uno lo citó.",
+   "e": "The other is not offended because you quoted him."
+  },
+  {
+   "s": "La mala es hablar encima sin agarrar nada.",
+   "e": "The bad one is talking over him without taking anything."
+  },
+  {
+   "s": "Eso es no haber escuchado, y eso sí ofende.",
+   "e": "That is not having listened, and that does offend."
+  },
+  {
+   "s": "La diferencia son dos palabras y todos la oyen.",
+   "e": "The difference is two words and everybody hears it."
+  },
+  {
+   "s": "Después está el asunto de tener la razón.",
+   "e": "Then there is the matter of being right."
+  },
+  {
+   "s": "Yo llegué de un lugar donde discutir es probar algo.",
+   "e": "I came from a place where arguing is proving something."
+  },
+  {
+   "s": "Uno pone datos, el otro pone datos, y gana el mejor.",
+   "e": "You put facts, the other puts facts, and the best wins."
+  },
+  {
+   "s": "Aquí eso no funciona y a nadie le importa.",
+   "e": "Here that does not work and nobody cares."
+  },
+  {
+   "s": "Un domingo yo llegué con números de un equipo.",
+   "e": "One Sunday I arrived with numbers about a team."
+  },
+  {
+   "s": "Números de verdad, que había buscado en la semana.",
+   "e": "Real numbers, that I had looked up during the week."
+  },
+  {
+   "s": "Los dije y la mesa se quedó callada un segundo.",
+   "e": "I said them and the table went quiet for a second."
+  },
+  {
+   "s": "Y después Chino siguió hablando de otra cosa.",
+   "e": "And then Chino went on talking about something else."
+  },
+  {
+   "s": "Nadie me discutió los números ni los aceptó.",
+   "e": "Nobody argued with my numbers or accepted them."
+  },
+  {
+   "s": "Los números mataron la conversación y ya.",
+   "e": "The numbers killed the conversation and that was that."
+  },
+  {
+   "s": "Marcos me dijo después qué fue lo que hice mal.",
+   "e": "Marcos told me afterwards what I did wrong."
+  },
+  {
+   "s": "Me dijo que yo quise ganar, y ahí se acabó el juego.",
+   "e": "He told me I tried to win, and there the game was over."
+  },
+  {
+   "s": "Que la discusión no es para ganarla, es para durar.",
+   "e": "That the argument is not to be won, it is to last."
+  },
+  {
+   "s": "Y que el que llega con datos está cortando la noche.",
+   "e": "And that the one who arrives with facts is cutting the night short."
+  },
+  {
+   "s": "Después me enseñó lo que sí sirve en esa mesa.",
+   "e": "Then he taught me what does work at that table."
+  },
+  {
+   "s": "Sirve una historia, no un dato.",
+   "e": "A story works, not a fact."
+  },
+  {
+   "s": "Sirve algo que le pasó a uno o a un primo de uno.",
+   "e": "Something that happened to you or a cousin of yours works."
+  },
+  {
+   "s": "Sirve exagerar un poco, como el pescado de don Beto.",
+   "e": "Exaggerating a little works, like don Beto's fish."
+  },
+  {
+   "s": "Y sirve un refrán, que cierra sin cerrar.",
+   "e": "And a saying works, which closes without closing."
+  },
+  {
+   "s": "Nada de eso se puede contestar con un número.",
+   "e": "None of that can be answered with a number."
+  },
+  {
+   "s": "Y por eso la discusión sigue viva otra semana.",
+   "e": "And that is why the argument stays alive another week."
+  },
+  {
+   "s": "En mayo me toca defender el béisbol contra cuatro.",
+   "e": "In May it falls to me to defend baseball against four."
+  },
+  {
+   "s": "Cuatro muchachos del taller, todos del fútbol.",
+   "e": "Four boys from the workshop, all football."
+  },
+  {
+   "s": "Don Emilio está sentado atrás y no dice nada.",
+   "e": "Don Emilio is sitting behind and says nothing."
+  },
+  {
+   "s": "Yo aguanto cuarenta minutos sin un solo dato.",
+   "e": "I hold out for forty minutes without a single fact."
+  },
+  {
+   "s": "Cuento lo del estadio con Marcos hace tres años.",
+   "e": "I tell about the stadium with Marcos three years ago."
+  },
+  {
+   "s": "Cuento lo que decía don Beto de los años sesenta.",
+   "e": "I tell what don Beto used to say about the sixties."
+  },
+  {
+   "s": "Interrumpo tres veces enganchando lo que dijeron.",
+   "e": "I interrupt three times hooking onto what they said."
+  },
+  {
+   "s": "Y no gano nada, porque no había nada que ganar.",
+   "e": "And I win nothing, because there was nothing to win."
+  },
+  {
+   "s": "Cuando se acaba, don Emilio se levanta de la silla.",
+   "e": "When it is over, don Emilio gets up from his chair."
+  },
+  {
+   "s": "Pasa por atrás de mí y me pone la mano en el hombro.",
+   "e": "He passes behind me and puts his hand on my shoulder."
+  },
+  {
+   "s": "No dice una palabra y se va a su mesa.",
+   "e": "He does not say a word and goes to his bench."
+  },
+  {
+   "s": "Marcos me dice que eso pesa más que el aplauso de la banca.",
+   "e": "Marcos tells me that weighs more than the applause on the bench."
+  },
+  {
+   "s": "Yo creo que tiene razón, aunque no lo voy a discutir.",
+   "e": "I think he is right, though I am not going to argue about it."
+  }
+ ]
+}

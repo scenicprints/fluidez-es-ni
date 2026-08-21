@@ -166,6 +166,10 @@
   "pos": "adj",
   "note": "Nica adoptivo - said about you, never to you"
  },
+ "adornar": {
+  "en": "to dress up, to embellish",
+  "pos": "v"
+ },
  "adulto": {
   "en": "adult",
   "g": "m",
@@ -207,6 +211,11 @@
  "agradecer": {
   "en": "to thank",
   "pos": "v"
+ },
+ "agradecimiento": {
+  "en": "thanks",
+  "pos": "n",
+  "g": "m"
  },
  "agregar": {
   "en": "to add",
@@ -408,6 +417,11 @@
   "en": "to announce",
   "pos": "v"
  },
+ "anuncio": {
+  "en": "advertisement",
+  "pos": "n",
+  "g": "m"
+ },
  "anónimo": {
   "en": "anonymous",
   "pos": "adj"
@@ -536,6 +550,11 @@
   "pos": "n",
   "g": "m"
  },
+ "asfalto": {
+  "en": "tarmac",
+  "pos": "n",
+  "g": "m"
+ },
  "asiento": {
   "en": "seat",
   "g": "m",
@@ -598,6 +617,11 @@
   "pos": "n",
   "g": "f",
   "note": "The Caribbean regions have had their own government since 1987"
+ },
+ "autoridad": {
+  "en": "authority",
+  "pos": "n",
+  "g": "f"
  },
  "avisar": {
   "en": "to let somebody know",
@@ -1123,6 +1147,11 @@
   "g": "m",
   "pos": "n"
  },
+ "carta": {
+  "en": "letter",
+  "pos": "n",
+  "g": "f"
+ },
  "cartera": {
   "en": "wallet/handbag",
   "g": "f",
@@ -1383,6 +1412,11 @@
   "pos": "n",
   "g": "f"
  },
+ "citar": {
+  "en": "to quote",
+  "pos": "v",
+  "note": "A dead grandmother cannot be argued with. That is what makes the quote work"
+ },
  "ciudad": {
   "en": "city",
   "g": "f",
@@ -1542,6 +1576,11 @@
   "en": "to buy",
   "pos": "v"
  },
+ "compresor": {
+  "en": "compressor",
+  "pos": "n",
+  "g": "m"
+ },
  "compromiso": {
   "en": "commitment",
   "g": "m",
@@ -1555,6 +1594,11 @@
  "concreto": {
   "en": "concrete/specific",
   "pos": "adj"
+ },
+ "concurso": {
+  "en": "competition",
+  "pos": "n",
+  "g": "m"
  },
  "confianza": {
   "en": "trust",
@@ -1585,6 +1629,11 @@
  "consolar": {
   "en": "to comfort",
   "pos": "v"
+ },
+ "constancia": {
+  "en": "certificate, letter of proof",
+  "pos": "n",
+  "g": "f"
  },
  "construcción": {
   "en": "construction",
@@ -1673,6 +1722,11 @@
   "en": "crown",
   "pos": "n",
   "g": "f"
+ },
+ "corral": {
+  "en": "pen, corral",
+  "pos": "n",
+  "g": "m"
  },
  "corrección": {
   "en": "correction",
@@ -1854,6 +1908,16 @@
   "en": "cot",
   "g": "f",
   "pos": "n"
+ },
+ "cupo": {
+  "en": "a place, a slot",
+  "pos": "n",
+  "g": "m"
+ },
+ "cura": {
+  "en": "priest",
+  "pos": "n",
+  "g": "m"
  },
  "curar": {
   "en": "to cure",
@@ -2282,6 +2346,11 @@
   "g": "f",
   "pos": "n"
  },
+ "emisora": {
+  "en": "radio station",
+  "pos": "n",
+  "g": "f"
+ },
  "emocionarse": {
   "en": "to get emotional",
   "pos": "v"
@@ -2347,6 +2416,11 @@
  "enfrente": {
   "en": "opposite/across",
   "pos": "adv"
+ },
+ "enganchar": {
+  "en": "to hook onto",
+  "pos": "v",
+  "note": "How you interrupt without offending: repeat his last two words"
  },
  "enojado": {
   "en": "angry",
@@ -2688,6 +2762,10 @@
   "pos": "n",
   "g": "m"
  },
+ "fingir": {
+  "en": "to pretend",
+  "pos": "v"
+ },
  "firma": {
   "en": "signature",
   "g": "f",
@@ -2837,6 +2915,11 @@
   "note": "'Con ganas' - with heart",
   "pos": "n"
  },
+ "ganado": {
+  "en": "cattle",
+  "pos": "n",
+  "g": "m"
+ },
  "ganar": {
   "en": "to win/to earn",
   "pos": "v"
@@ -2874,6 +2957,11 @@
   "pos": "n",
   "g": "m",
   "note": "Mal genio - a bad mood"
+ },
+ "gerente": {
+  "en": "manager",
+  "pos": "n",
+  "g": "m"
  },
  "gesto": {
   "en": "gesture",
@@ -2999,6 +3087,11 @@
   "en": "to feel at home in a place",
   "pos": "v",
   "note": "No me hallo - you do not fit here, and nobody asks you to explain why"
+ },
+ "hamaca": {
+  "en": "hammock",
+  "pos": "n",
+  "g": "f"
  },
  "hambre": {
   "en": "hunger",
@@ -3430,6 +3523,10 @@
   "en": "ready/clever",
   "pos": "adj"
  },
+ "liviano": {
+  "en": "light",
+  "pos": "adj"
+ },
  "llamada": {
   "en": "call",
   "g": "f",
@@ -3469,6 +3566,11 @@
  "loco": {
   "en": "mad",
   "pos": "adj"
+ },
+ "locutor": {
+  "en": "radio announcer",
+  "pos": "n",
+  "g": "m"
  },
  "logística": {
   "en": "logistics",
@@ -4326,6 +4428,12 @@
   "pos": "n",
   "g": "m"
  },
+ "panza": {
+  "en": "belly",
+  "pos": "n",
+  "g": "f",
+  "note": "Understanding a joke with the panza and not the head is the last thing to arrive"
+ },
  "papa": {
   "en": "potato",
   "g": "f",
@@ -4573,6 +4681,11 @@
   "en": "fish",
   "g": "m",
   "pos": "n"
+ },
+ "pescador": {
+  "en": "fisherman",
+  "pos": "n",
+  "g": "m"
  },
  "peso": {
   "en": "peso",
@@ -4991,6 +5104,11 @@
   "en": "radio",
   "g": "m",
   "pos": "n"
+ },
+ "rama": {
+  "en": "branch",
+  "pos": "n",
+  "g": "f"
  },
  "ramo": {
   "en": "bunch of flowers",
@@ -5444,6 +5562,11 @@
   "note": "'Tengo sed' - I am thirsty",
   "pos": "n"
  },
+ "segmento": {
+  "en": "segment",
+  "pos": "n",
+  "g": "m"
+ },
  "seguir": {
   "en": "to carry on/to follow",
   "pos": "v"
@@ -5493,6 +5616,11 @@
   "g": "f",
   "note": "Sung to mothers at midnight on the twenty-ninth of May",
   "pos": "n"
+ },
+ "seriedad": {
+  "en": "seriousness",
+  "pos": "n",
+  "g": "f"
  },
  "serio": {
   "en": "serious",
@@ -5599,6 +5727,16 @@
   "en": "loneliness",
   "g": "f",
   "pos": "n"
+ },
+ "solicitar": {
+  "en": "to request (in writing)",
+  "pos": "v",
+  "note": "On paper you say solicito, unsoftened. In speech you would never"
+ },
+ "solicitud": {
+  "en": "application, request",
+  "pos": "n",
+  "g": "f"
  },
  "soltarse": {
   "en": "to let go",
@@ -5912,6 +6050,10 @@
   "g": "m",
   "note": "Managua, August 1: Santo Domingo comes down from Las Sierritas into the city"
  },
+ "torcer": {
+  "en": "to twist",
+  "pos": "v"
+ },
  "torcido": {
   "en": "crooked",
   "pos": "adj"
@@ -5948,6 +6090,11 @@
   "en": "tradition",
   "g": "f",
   "pos": "n"
+ },
+ "traducción": {
+  "en": "translation",
+  "pos": "n",
+  "g": "f"
  },
  "traducir": {
   "en": "to translate",

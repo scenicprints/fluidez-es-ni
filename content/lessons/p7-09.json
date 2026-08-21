@@ -1,0 +1,282 @@
+{
+ "id": "p7-09",
+ "title": "Palabras que no existen afuera",
+ "desc": "Words with no translation",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "chunche",
+  "idioma",
+  "confianza"
+ ],
+ "sn": [
+  {
+   "s": "Mi hermana me llama por teléfono un domingo.",
+   "e": "My sister phones me one Sunday."
+  },
+  {
+   "s": "Hablamos como una hora, en mi idioma de siempre.",
+   "e": "We talk for about an hour, in my old language."
+  },
+  {
+   "s": "Y en esa hora me pasa una cosa cuatro veces.",
+   "e": "And in that hour something happens to me four times."
+  },
+  {
+   "s": "Le quiero contar algo y no encuentro la palabra.",
+   "e": "I want to tell her something and I cannot find the word."
+  },
+  {
+   "s": "No la palabra en español, la palabra en el mío.",
+   "e": "Not the word in Spanish, the word in mine."
+  },
+  {
+   "s": "La palabra en español la tengo y no sirve.",
+   "e": "I have the word in Spanish and it is no use."
+  },
+  {
+   "s": "Porque no hay dónde ponerla del otro lado.",
+   "e": "Because there is nowhere to put it on the other side."
+  },
+  {
+   "s": "La primera es cuando le hablo de doña Chepa.",
+   "e": "The first is when I talk to her about doña Chepa."
+  },
+  {
+   "s": "Le quiero decir que doña Chepa es de confianza.",
+   "e": "I want to tell her that doña Chepa is de confianza."
+  },
+  {
+   "s": "Y le digo que es de confianza y me quedo ahí.",
+   "e": "And I tell her she is de confianza and I stop there."
+  },
+  {
+   "s": "Confianza no es confianza en mi idioma.",
+   "e": "Confianza is not trust in my language."
+  },
+  {
+   "s": "Confianza aquí es un permiso que se gana con años.",
+   "e": "Confianza here is a permission earned over years."
+  },
+  {
+   "s": "Es poder entrar sin tocar y agarrar un vaso.",
+   "e": "It is being able to come in without knocking and take a glass."
+  },
+  {
+   "s": "Es poder pedir plata y poder decir que no.",
+   "e": "It is being able to ask for money and being able to say no."
+  },
+  {
+   "s": "En mi idioma tengo que decir tres frases para eso.",
+   "e": "In my language I have to say three sentences for that."
+  },
+  {
+   "s": "Y las tres juntas no dicen lo que dice la palabra.",
+   "e": "And all three together do not say what the word says."
+  },
+  {
+   "s": "La segunda es cuando le cuento del año pasado.",
+   "e": "The second is when I tell her about last year."
+  },
+  {
+   "s": "Le quiero decir que hubo meses en que no me hallaba.",
+   "e": "I want to tell her there were months when no me hallaba."
+  },
+  {
+   "s": "Y en mi idioma no existe hallarse de esa manera.",
+   "e": "And in my language hallarse does not exist that way."
+  },
+  {
+   "s": "Tengo que decir que no me sentía en mi lugar.",
+   "e": "I have to say I did not feel in my place."
+  },
+  {
+   "s": "Y eso suena a tristeza, y no era tristeza.",
+   "e": "And that sounds like sadness, and it was not sadness."
+  },
+  {
+   "s": "No hallarse no es estar triste ni estar solo.",
+   "e": "No hallarse is not being sad or being alone."
+  },
+  {
+   "s": "Es estar bien y estar afuera al mismo tiempo.",
+   "e": "It is being fine and being outside at the same time."
+  },
+  {
+   "s": "Mi hermana me pregunta si estaba deprimido.",
+   "e": "My sister asks me if I was depressed."
+  },
+  {
+   "s": "Y yo le digo que no y no puedo explicarle qué era.",
+   "e": "And I tell her no and I cannot explain to her what it was."
+  },
+  {
+   "s": "Cuelgo el teléfono con esa conversación a medias.",
+   "e": "I hang up the phone with that conversation half done."
+  },
+  {
+   "s": "La tercera palabra es la más tonta de todas.",
+   "e": "The third word is the silliest of them all."
+  },
+  {
+   "s": "Es chunche, que quiere decir cosa y no quiere decir cosa.",
+   "e": "It is chunche, which means thing and does not mean thing."
+  },
+  {
+   "s": "Un chunche es una cosa cuyo nombre uno no dice.",
+   "e": "A chunche is a thing whose name you do not say."
+  },
+  {
+   "s": "Porque no lo sabe, o porque no importa, o porque da igual.",
+   "e": "Because you do not know it, or it does not matter, or it makes no difference."
+  },
+  {
+   "s": "Pasame ese chunche, y el otro sabe cuál es.",
+   "e": "Pass me that chunche, and the other one knows which it is."
+  },
+  {
+   "s": "En mi idioma hay una palabra para cosa.",
+   "e": "In my language there is a word for thing."
+  },
+  {
+   "s": "Pero cosa es neutro y chunche tiene cariño.",
+   "e": "But cosa is neutral and chunche has affection in it."
+  },
+  {
+   "s": "Uno le dice chunche a lo suyo, no a lo ajeno.",
+   "e": "You call your own things chunche, not somebody else's."
+  },
+  {
+   "s": "Eso no se lo pude explicar a mi hermana tampoco.",
+   "e": "I could not explain that to my sister either."
+  },
+  {
+   "s": "La cuarta es tuani y esa ni la intenté.",
+   "e": "The fourth is tuani and I did not even try that one."
+  },
+  {
+   "s": "Después de colgar me quedo pensando en el asunto.",
+   "e": "After hanging up I am left thinking about the matter."
+  },
+  {
+   "s": "Lucía me pregunta qué me pasa y se lo cuento.",
+   "e": "Lucía asks me what is wrong and I tell her."
+  },
+  {
+   "s": "Le digo que hay palabras que no puedo llevar allá.",
+   "e": "I tell her there are words I cannot take over there."
+  },
+  {
+   "s": "Ella me dice que a ella le pasa al revés.",
+   "e": "She tells me it happens to her the other way round."
+  },
+  {
+   "s": "Que hay cosas de su casa que no le puede decir a nadie.",
+   "e": "That there are things from her house she cannot tell anybody."
+  },
+  {
+   "s": "Y que se le quedaron sin decir hace años.",
+   "e": "And that they were left unsaid years ago."
+  },
+  {
+   "s": "Ella tuvo una compañera de trabajo de Costa Rica.",
+   "e": "She had a workmate from Costa Rica."
+  },
+  {
+   "s": "Y no le pudo explicar nunca lo que es la gritería.",
+   "e": "And she could never explain to her what the gritería is."
+  },
+  {
+   "s": "Se lo explicó tres veces y la otra entendía otra cosa.",
+   "e": "She explained it three times and the other one understood something else."
+  },
+  {
+   "s": "Entendía una fiesta religiosa, y no es una fiesta.",
+   "e": "She understood a religious festival, and it is not a festival."
+  },
+  {
+   "s": "Es una noche en que el país entero grita a la misma hora.",
+   "e": "It is a night when the whole country shouts at the same hour."
+  },
+  {
+   "s": "Y eso no se explica, se está ahí o no se está.",
+   "e": "And that is not explained, you are there or you are not."
+  },
+  {
+   "s": "Después Lucía me dice la cosa que me deja pensando.",
+   "e": "Then Lucía tells me the thing that leaves me thinking."
+  },
+  {
+   "s": "Me dice que una palabra así no es una palabra.",
+   "e": "She tells me a word like that is not a word."
+  },
+  {
+   "s": "Que es un pedazo de vida con un nombre encima.",
+   "e": "That it is a piece of life with a name on it."
+  },
+  {
+   "s": "Y que la vida no se traduce, se vive o no.",
+   "e": "And that life is not translated, it is lived or not."
+  },
+  {
+   "s": "Por eso una palabra se muere cuando se va del país.",
+   "e": "That is why a word dies when it leaves the country."
+  },
+  {
+   "s": "Y por eso hay palabras que solo existen aquí.",
+   "e": "And that is why there are words that only exist here."
+  },
+  {
+   "s": "En junio hago la prueba al revés, por curiosidad.",
+   "e": "In June I do the test the other way round, out of curiosity."
+  },
+  {
+   "s": "Trato de explicarle a Marcos una palabra de mi idioma.",
+   "e": "I try to explain to Marcos a word from my language."
+  },
+  {
+   "s": "Una palabra que no tiene traducción al español.",
+   "e": "A word that has no translation into Spanish."
+  },
+  {
+   "s": "Se la explico como diez minutos, con ejemplos.",
+   "e": "I explain it to him for about ten minutes, with examples."
+  },
+  {
+   "s": "Marcos me escucha entero, con paciencia, hasta el final.",
+   "e": "Marcos listens to me all the way through, patiently, to the end."
+  },
+  {
+   "s": "Y al final me dice que eso aquí se dice de otra manera.",
+   "e": "And at the end he tells me that here that is said another way."
+  },
+  {
+   "s": "Me dice tres palabras que no son la traducción.",
+   "e": "He tells me three words that are not the translation."
+  },
+  {
+   "s": "Pero que dicen lo mismo, desde otro lado.",
+   "e": "But that say the same thing, from another side."
+  },
+  {
+   "s": "Yo me quedo callado, porque tiene razón.",
+   "e": "I stay quiet, because he is right."
+  },
+  {
+   "s": "Un idioma no traduce al otro, lo rodea.",
+   "e": "One language does not translate the other, it goes around it."
+  },
+  {
+   "s": "Llega al mismo lugar por otra calle.",
+   "e": "It arrives at the same place by another street."
+  },
+  {
+   "s": "Esa noche apunto las palabras que no puedo llevar.",
+   "e": "That night I write down the words I cannot take with me."
+  },
+  {
+   "s": "Son once, y una de ellas es el nombre de mi calle.",
+   "e": "There are eleven, and one of them is the name of my street."
+  }
+ ]
+}

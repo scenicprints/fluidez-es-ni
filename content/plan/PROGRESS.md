@@ -2,7 +2,7 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**167 of 185 stories written** - 65,312 of ~148,000 running words.
+**176 of 185 stories written** - 71,146 of ~148,000 running words.
 
 | Phase | Written | Total |
 |---|---|---|
@@ -13,19 +13,10 @@ Written by `stage.py`. Do not edit by hand.
 | 4 | 35 | 35 |
 | 5 | 26 | 26 |
 | 6 | 20 | 20 |
-| 7 | 0 | 18 |
+| 7 | 9 | 18 |
 
 ## Next to write
 
-- `p7-01` **El chiste que no explicaron** - Getting a joke in real time
-- `p7-02` **Juego de palabras** - Wordplay
-- `p7-03` **Como decia mi abuela** - Quoting the dead as an argument
-- `p7-04` **Hablando en serio** - Switching from joking to real
-- `p7-05` **Una carta** - Writing something formal
-- `p7-06` **En la radio** - Listening to something not aimed at you
-- `p7-07` **Discutiendo de futbol y beisbol** - Arguing about nothing, at length
-- `p7-08` **El campo** - Rural Spanish is older
-- `p7-09` **Palabras que no existen afuera** - Words with no translation
 - `p7-10` **Lo que no se dice** - Silence as content
 - `p7-11` **La bulla** - Noise, and living inside it
 - `p7-12` **Ideay, y vos que** - Being asked what you think, and meaning it

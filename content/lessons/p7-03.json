@@ -1,0 +1,294 @@
+{
+ "id": "p7-03",
+ "title": "Como decía mi abuela",
+ "desc": "Quoting the dead as an argument",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "abuela",
+  "discusión",
+  "mamá"
+ ],
+ "sn": [
+  {
+   "s": "Hay una discusión en la familia por una casa.",
+   "e": "There is an argument in the family about a house."
+  },
+  {
+   "s": "Es la casa vieja de la mamá de doña Elena.",
+   "e": "It is the old house of doña Elena's mother."
+  },
+  {
+   "s": "La casa está vacía hace tres años y se está cayendo.",
+   "e": "The house has been empty three years and it is falling down."
+  },
+  {
+   "s": "Julio quiere venderla y repartir la plata.",
+   "e": "Julio wants to sell it and share out the money."
+  },
+  {
+   "s": "Chino quiere arreglarla y alquilarla a alguien.",
+   "e": "Chino wants to fix it up and rent it to somebody."
+  },
+  {
+   "s": "Doña Elena no dice qué quiere y ahí está el problema.",
+   "e": "Doña Elena does not say what she wants and that is the problem."
+  },
+  {
+   "s": "La discusión lleva dos meses y ya se puso fea.",
+   "e": "The argument has been going two months and it has turned ugly."
+  },
+  {
+   "s": "Un domingo se juntan los tres en el patio a hablarlo.",
+   "e": "One Sunday the three of them meet in the yard to talk it out."
+  },
+  {
+   "s": "Lucía y yo estamos ahí porque nos tocó estar.",
+   "e": "Lucía and I are there because it fell to us to be there."
+  },
+  {
+   "s": "Julio habla primero y habla veinte minutos.",
+   "e": "Julio speaks first and speaks for twenty minutes."
+  },
+  {
+   "s": "Tiene números, tiene precios, tiene todo pensado.",
+   "e": "He has numbers, he has prices, he has it all worked out."
+  },
+  {
+   "s": "Chino contesta y también tiene sus razones.",
+   "e": "Chino answers and he also has his reasons."
+  },
+  {
+   "s": "Los dos tienen razón en la mitad de lo que dicen.",
+   "e": "They are both right about half of what they say."
+  },
+  {
+   "s": "Y por eso la discusión no se puede ganar.",
+   "e": "And that is why the argument cannot be won."
+  },
+  {
+   "s": "Doña Elena escucha una hora sin decir una palabra.",
+   "e": "Doña Elena listens for an hour without saying a word."
+  },
+  {
+   "s": "Cuando los dos se callan, ella habla por fin.",
+   "e": "When the two of them stop, she finally speaks."
+  },
+  {
+   "s": "Y no habla de la casa ni de la plata.",
+   "e": "And she does not talk about the house or the money."
+  },
+  {
+   "s": "Empieza a contar una historia de su mamá.",
+   "e": "She starts telling a story about her mother."
+  },
+  {
+   "s": "Cuenta que su mamá crió cinco hijos en esa casa.",
+   "e": "She tells that her mother raised five children in that house."
+  },
+  {
+   "s": "Cuenta que en el ochenta la casa se llenó de gente.",
+   "e": "She tells that in eighty the house filled up with people."
+  },
+  {
+   "s": "Cuenta que dormían nueve en dos cuartos.",
+   "e": "She tells that nine of them slept in two rooms."
+  },
+  {
+   "s": "Y después dice la frase que cierra todo.",
+   "e": "And then she says the sentence that closes everything."
+  },
+  {
+   "s": "Dice que como decía su mamá, una casa no se vende.",
+   "e": "She says that as her mother used to say, a house is not sold."
+  },
+  {
+   "s": "Que una casa se hereda o se pierde, pero no se vende.",
+   "e": "That a house is inherited or lost, but not sold."
+  },
+  {
+   "s": "Y ahí se acabó la discusión de dos meses.",
+   "e": "And there the two-month argument ended."
+  },
+  {
+   "s": "Julio no contestó nada y Chino tampoco.",
+   "e": "Julio said nothing in reply and neither did Chino."
+  },
+  {
+   "s": "Yo me quedo esperando que alguien siga discutiendo.",
+   "e": "I sit there waiting for somebody to go on arguing."
+  },
+  {
+   "s": "Y nadie sigue, y hablan del almuerzo.",
+   "e": "And nobody does, and they talk about lunch."
+  },
+  {
+   "s": "En el carro le pregunto a Lucía qué pasó.",
+   "e": "In the car I ask Lucía what happened."
+  },
+  {
+   "s": "Ella me dice que su abuela cerró la discusión.",
+   "e": "She tells me her grandmother closed the argument."
+  },
+  {
+   "s": "Yo le digo que su abuela lleva doce años muerta.",
+   "e": "I tell her that her grandmother has been dead twelve years."
+  },
+  {
+   "s": "Y ella me dice que por eso mismo funcionó.",
+   "e": "And she tells me that is exactly why it worked."
+  },
+  {
+   "s": "Después me explica cómo funciona citar a un muerto.",
+   "e": "Then she explains to me how quoting a dead person works."
+  },
+  {
+   "s": "Me dice que a un vivo se le puede contestar.",
+   "e": "She tells me that a living person can be answered."
+  },
+  {
+   "s": "Que si Julio dice algo, Chino le discute.",
+   "e": "That if Julio says something, Chino argues with him."
+  },
+  {
+   "s": "Pero que a una abuela muerta no se le discute.",
+   "e": "But that a dead grandmother is not argued with."
+  },
+  {
+   "s": "No porque tenga razón, sino porque no está.",
+   "e": "Not because she is right, but because she is not there."
+  },
+  {
+   "s": "Y contradecir a una muerta es una grosería grande.",
+   "e": "And contradicting a dead woman is a big rudeness."
+  },
+  {
+   "s": "Es lo mismo que un refrán, dice Lucía.",
+   "e": "It is the same as a refrán, says Lucía."
+  },
+  {
+   "s": "Un refrán es lo que dijo alguien que ya no está.",
+   "e": "A refrán is what somebody said who is no longer here."
+  },
+  {
+   "s": "Y una abuela es un refrán con nombre y apellido.",
+   "e": "And a grandmother is a refrán with a name and a surname."
+  },
+  {
+   "s": "Le pregunto si la abuela dijo eso de verdad.",
+   "e": "I ask her if the grandmother really said that."
+  },
+  {
+   "s": "Lucía se queda callada un rato en el carro.",
+   "e": "Lucía is quiet for a while in the car."
+  },
+  {
+   "s": "Después dice que ella nunca se lo oyó decir.",
+   "e": "Then she says she never heard her say it."
+  },
+  {
+   "s": "Que puede ser que sí lo dijo y ella no estaba.",
+   "e": "That it may be that she did say it and she was not there."
+  },
+  {
+   "s": "O que puede ser que doña Elena lo necesitaba hoy.",
+   "e": "Or it may be that doña Elena needed it today."
+  },
+  {
+   "s": "Y que en las dos maneras es igual de válido.",
+   "e": "And that either way it is just as valid."
+  },
+  {
+   "s": "Eso yo no lo entiendo del todo, y se lo digo.",
+   "e": "I do not entirely understand that, and I tell her so."
+  },
+  {
+   "s": "Le digo que si nadie lo dijo, es una mentira.",
+   "e": "I tell her that if nobody said it, it is a lie."
+  },
+  {
+   "s": "Ella me dice que no, que es otra cosa.",
+   "e": "She tells me no, that it is another thing."
+  },
+  {
+   "s": "Que lo que dijo doña Elena es lo que su mamá pensaba.",
+   "e": "That what doña Elena said is what her mother thought."
+  },
+  {
+   "s": "Que lo pensó toda la vida sin ponerlo en una frase.",
+   "e": "That she thought it all her life without putting it in a sentence."
+  },
+  {
+   "s": "Y que la hija le puso la frase, cuarenta años después.",
+   "e": "And that the daughter gave her the sentence, forty years later."
+  },
+  {
+   "s": "Eso no es citar mal, dice ella, es terminarle la idea.",
+   "e": "That is not misquoting, she says, it is finishing her idea for her."
+  },
+  {
+   "s": "Después empiezo a oír a los muertos en todas partes.",
+   "e": "Afterwards I start hearing the dead everywhere."
+  },
+  {
+   "s": "Don Beto cita a su papá cuando habla del trabajo.",
+   "e": "Don Beto quotes his father when he talks about work."
+  },
+  {
+   "s": "Doña Chepa cita a una tía suya cuando da consejos.",
+   "e": "Doña Chepa quotes an aunt of hers when she gives advice."
+  },
+  {
+   "s": "Marcos cita a un abuelo que él ni conoció.",
+   "e": "Marcos quotes a grandfather he never even knew."
+  },
+  {
+   "s": "Todos tienen un muerto que dice lo que ellos piensan.",
+   "e": "They all have a dead person who says what they think."
+  },
+  {
+   "s": "Y ese muerto gana todas las discusiones.",
+   "e": "And that dead person wins every argument."
+  },
+  {
+   "s": "Un año después yo hago lo mismo, sin planearlo.",
+   "e": "A year later I do the same thing, without planning it."
+  },
+  {
+   "s": "Estamos discutiendo algo de la escuela del niño.",
+   "e": "We are arguing about something to do with the boy's school."
+  },
+  {
+   "s": "Yo insisto en una cosa y Lucía insiste en otra.",
+   "e": "I insist on one thing and Lucía insists on another."
+  },
+  {
+   "s": "Y me sale decir que como decía mi abuela.",
+   "e": "And it comes out of me to say that as my grandmother used to say."
+  },
+  {
+   "s": "Y digo una cosa que mi abuela sí decía, en otro idioma.",
+   "e": "And I say something my grandmother really did say, in another language."
+  },
+  {
+   "s": "La traduzco ahí mismo, mal, en la cocina.",
+   "e": "I translate it right there, badly, in the kitchen."
+  },
+  {
+   "s": "Lucía se queda callada y después dice que está bien.",
+   "e": "Lucía goes quiet and then says all right."
+  },
+  {
+   "s": "No porque yo tuviera razón, sino porque cité a una muerta.",
+   "e": "Not because I was right, but because I quoted a dead woman."
+  },
+  {
+   "s": "Mi abuela no conoció Nicaragua ni supo que existía.",
+   "e": "My grandmother never knew Nicaragua or knew it existed."
+  },
+  {
+   "s": "Y ganó una discusión en una cocina de Managua.",
+   "e": "And she won an argument in a Managua kitchen."
+  }
+ ]
+}

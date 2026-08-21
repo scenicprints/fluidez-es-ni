@@ -1,0 +1,289 @@
+{
+ "id": "p7-08",
+ "title": "El campo",
+ "desc": "Rural Spanish is older",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "campo",
+  "nombre"
+ ],
+ "sn": [
+  {
+   "s": "En marzo vamos al campo por un entierro de la familia.",
+   "e": "In March we go to the countryside for a family burial."
+  },
+  {
+   "s": "Es un primo lejano de doña Elena, cerca de Boaco.",
+   "e": "It is a distant cousin of doña Elena's, near Boaco."
+  },
+  {
+   "s": "Salimos a las cuatro de la mañana en un bus.",
+   "e": "We leave at four in the morning on a bus."
+  },
+  {
+   "s": "Tres horas de bus y después una hora de camino.",
+   "e": "Three hours of bus and then an hour of track."
+  },
+  {
+   "s": "Ahí se acaba el asfalto y empieza otra cosa.",
+   "e": "That is where the tarmac ends and something else begins."
+  },
+  {
+   "s": "Yo llevo cinco años en este país y nunca había salido así.",
+   "e": "I have been five years in this country and had never come out like this."
+  },
+  {
+   "s": "Managua, Masaya, el lago, el mar y nada más.",
+   "e": "Managua, Masaya, the lake, the sea and nothing more."
+  },
+  {
+   "s": "La finca es de la familia desde hace cien años.",
+   "e": "The farm has been the family's for a hundred years."
+  },
+  {
+   "s": "Hay ganado, hay maíz y hay una casa de madera.",
+   "e": "There is cattle, there is maize and there is a wooden house."
+  },
+  {
+   "s": "La casa tiene el corredor por delante y hamacas.",
+   "e": "The house has the porch in front and hammocks."
+  },
+  {
+   "s": "Y ahí es donde se hace todo lo que se hace.",
+   "e": "And that is where everything that gets done is done."
+  },
+  {
+   "s": "Nos reciben como veinte personas que no conozco.",
+   "e": "About twenty people I do not know receive us."
+  },
+  {
+   "s": "Y en los primeros diez minutos noto lo del idioma.",
+   "e": "And in the first ten minutes I notice the language thing."
+  },
+  {
+   "s": "Hablan más lento que en Managua, mucho más lento.",
+   "e": "They talk more slowly than in Managua, much more slowly."
+  },
+  {
+   "s": "Y usan palabras que yo no había oído nunca.",
+   "e": "And they use words I had never heard."
+  },
+  {
+   "s": "Palabras que Wilmer me había dicho del norte.",
+   "e": "Words Wilmer had told me from the north."
+  },
+  {
+   "s": "Y otras que ni Wilmer conocía tampoco.",
+   "e": "And others that even Wilmer did not know."
+  },
+  {
+   "s": "Marcos me dijo una vez que el campo guarda el idioma.",
+   "e": "Marcos told me once that the countryside keeps the language."
+  },
+  {
+   "s": "Que la ciudad cambia las palabras cada diez años.",
+   "e": "That the city changes its words every ten years."
+  },
+  {
+   "s": "Y que en el campo se sigue hablando como antes.",
+   "e": "And that in the countryside they go on talking as before."
+  },
+  {
+   "s": "Aquí lo veo y es cierto, palabra por palabra.",
+   "e": "Here I see it and it is true, word for word."
+  },
+  {
+   "s": "Un anciano me dice una frase entera de otro siglo.",
+   "e": "An old man says a whole sentence from another century to me."
+  },
+  {
+   "s": "Y yo la entiendo porque leí a Darío en el cuarto.",
+   "e": "And I understand it because I read Darío in the bedroom."
+  },
+  {
+   "s": "Nunca pensé que ese libro me iba a servir de algo.",
+   "e": "I never thought that book was going to be any use to me."
+  },
+  {
+   "s": "Pero lo que más me marca no es una palabra.",
+   "e": "But what marks me most is not a word."
+  },
+  {
+   "s": "Es cómo se hablan entre ellos los dos viejos de la casa.",
+   "e": "It is how the two old people of the house talk to each other."
+  },
+  {
+   "s": "Son marido y mujer desde hace cincuenta y un años.",
+   "e": "They are husband and wife of fifty-one years."
+  },
+  {
+   "s": "Y se hablan de usted, los dos, todo el tiempo.",
+   "e": "And they call each other usted, both of them, all the time."
+  },
+  {
+   "s": "Ella le dice a él usted no se moje, don Chico.",
+   "e": "She tells him usted do not get wet, don Chico."
+  },
+  {
+   "s": "Y él le contesta que no se preocupe, doña Lila.",
+   "e": "And he answers her not to worry, doña Lila."
+  },
+  {
+   "s": "Cincuenta y un años, siete hijos, y usted.",
+   "e": "Fifty-one years, seven children, and usted."
+  },
+  {
+   "s": "Yo pensaba que usted era distancia y frialdad.",
+   "e": "I thought usted was distance and coldness."
+  },
+  {
+   "s": "Y aquí es lo contrario exactamente.",
+   "e": "And here it is exactly the opposite."
+  },
+  {
+   "s": "Le pregunto a Lucía si eso es normal.",
+   "e": "I ask Lucía if that is normal."
+  },
+  {
+   "s": "Ella me dice que en el campo se ve todavía.",
+   "e": "She tells me that in the countryside it is still seen."
+  },
+  {
+   "s": "Que su abuela le hablaba así al abuelo también.",
+   "e": "That her grandmother talked to her grandfather like that too."
+  },
+  {
+   "s": "Que no es frialdad, es el respeto de toda una vida.",
+   "e": "That it is not coldness, it is the respect of a whole lifetime."
+  },
+  {
+   "s": "Y que ella no sabría explicarlo mejor que eso.",
+   "e": "And that she would not know how to explain it better than that."
+  },
+  {
+   "s": "Yo miro a don Chico ayudando a doña Lila con el fuego.",
+   "e": "I watch don Chico helping doña Lila with the fire."
+  },
+  {
+   "s": "Le sostiene la olla y le habla de usted.",
+   "e": "He holds the pot for her and calls her usted."
+  },
+  {
+   "s": "Y no hay nada frío en esa cocina, nada.",
+   "e": "And there is nothing cold in that kitchen, nothing."
+  },
+  {
+   "s": "En el entierro me pasa otra cosa con los nombres.",
+   "e": "At the burial another thing happens to me with the names."
+  },
+  {
+   "s": "La gente se presenta con los dos apellidos completos.",
+   "e": "People introduce themselves with both surnames in full."
+  },
+  {
+   "s": "Nadie dice solo el nombre, nunca, ni los niños.",
+   "e": "Nobody says just the first name, ever, not even the children."
+  },
+  {
+   "s": "Porque aquí el apellido dice de qué rama uno viene.",
+   "e": "Because here the surname says which branch you come from."
+  },
+  {
+   "s": "Y hay cuatro apellidos en ese cementerio, nada más.",
+   "e": "And there are four surnames in that cemetery, no more."
+  },
+  {
+   "s": "Todos los de la finca están en cuatro apellidos.",
+   "e": "Everybody from the farm is in four surnames."
+  },
+  {
+   "s": "Un anciano me pregunta el mío y yo se lo digo.",
+   "e": "An old man asks me mine and I tell him."
+  },
+  {
+   "s": "Se lo digo despacio, deletreado, como siempre.",
+   "e": "I say it slowly, spelled out, as always."
+  },
+  {
+   "s": "Él me dice que no lo va a recordar y se ríe.",
+   "e": "He tells me he is not going to remember it and laughs."
+  },
+  {
+   "s": "Y me dice que él me va a decir el marido de la Lucía.",
+   "e": "And he tells me he is going to call me Lucía's husband."
+  },
+  {
+   "s": "Y así me dicen los cuatro días que estamos ahí.",
+   "e": "And that is what they call me the four days we are there."
+  },
+  {
+   "s": "El marido de la Lucía, que es un nombre entero.",
+   "e": "Lucía's husband, which is a whole name."
+  },
+  {
+   "s": "Lucía me explica que ese la delante del nombre es del campo.",
+   "e": "Lucía explains to me that that la in front of the name is a country thing."
+  },
+  {
+   "s": "Que en Managua suena feo y allá suena normal.",
+   "e": "That in Managua it sounds ugly and there it sounds normal."
+  },
+  {
+   "s": "La Lucía, la María, el Chico, la Lila.",
+   "e": "La Lucía, la María, el Chico, la Lila."
+  },
+  {
+   "s": "En la ciudad eso es de gente sin educación.",
+   "e": "In the city that is for people without education."
+  },
+  {
+   "s": "En el campo es como se le habla a la familia.",
+   "e": "In the countryside it is how you talk to family."
+  },
+  {
+   "s": "La misma palabra, dos países, cuatro horas de bus.",
+   "e": "The same word, two countries, four hours by bus."
+  },
+  {
+   "s": "El último día don Chico me lleva a ver el ganado.",
+   "e": "The last day don Chico takes me to see the cattle."
+  },
+  {
+   "s": "Caminamos como una hora y hablamos poco.",
+   "e": "We walk for about an hour and we talk little."
+  },
+  {
+   "s": "Él me va nombrando las cosas del camino.",
+   "e": "He names the things along the way for me."
+  },
+  {
+   "s": "Cada árbol, cada cerro, cada pedazo de tierra.",
+   "e": "Every tree, every hill, every piece of land."
+  },
+  {
+   "s": "Todo tiene su nombre y él se los sabe todos.",
+   "e": "Everything has its name and he knows them all."
+  },
+  {
+   "s": "Yo no me voy a acordar de la mitad y él lo sabe.",
+   "e": "I am not going to remember half and he knows it."
+  },
+  {
+   "s": "Me los dice igual, uno por uno, hasta el corral.",
+   "e": "He tells me them anyway, one by one, as far as the pen."
+  },
+  {
+   "s": "Cuando volvemos me dice una sola cosa mía.",
+   "e": "When we get back he says one thing about me."
+  },
+  {
+   "s": "Me dice que hablo bien para ser de tan lejos.",
+   "e": "He tells me I speak well for somebody from so far away."
+  },
+  {
+   "s": "Es lo único que me dijo de mí en cuatro días.",
+   "e": "It is the only thing he said about me in four days."
+  }
+ ]
+}

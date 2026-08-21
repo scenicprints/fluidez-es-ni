@@ -1,0 +1,281 @@
+{
+ "id": "p7-04",
+ "title": "Hablando en serio",
+ "desc": "Switching from joking to real",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "tono",
+  "mismo"
+ ],
+ "sn": [
+  {
+   "s": "Los viernes seguimos yendo a la esquina de las birras.",
+   "e": "On Fridays we still go to the corner with the beers."
+  },
+  {
+   "s": "Ya son cinco años de viernes en la misma silla.",
+   "e": "It is five years of Fridays in the same chair now."
+  },
+  {
+   "s": "La noche es siempre igual y tiene sus partes.",
+   "e": "The night is always the same and it has its parts."
+  },
+  {
+   "s": "Primero el trabajo, después el béisbol, después el vacilón.",
+   "e": "First work, then baseball, then the joking."
+  },
+  {
+   "s": "Y a las once, si la noche va larga, viene lo otro.",
+   "e": "And at eleven, if the night runs long, comes the other thing."
+  },
+  {
+   "s": "Lo otro no tiene nombre pero tiene una señal.",
+   "e": "The other thing has no name but it has a signal."
+  },
+  {
+   "s": "La señal son dos palabras y siempre las mismas.",
+   "e": "The signal is two words and always the same ones."
+  },
+  {
+   "s": "Alguien dice ya en serio, o dice la verdad.",
+   "e": "Somebody says ya en serio, or says la verdad."
+  },
+  {
+   "s": "Y de ahí en adelante nadie hace un chiste.",
+   "e": "And from there on nobody makes a joke."
+  },
+  {
+   "s": "La primera vez que lo oí no lo noté.",
+   "e": "The first time I heard it I did not notice it."
+  },
+  {
+   "s": "Chino dijo la verdad y siguió hablando igual.",
+   "e": "Chino said la verdad and went on talking the same."
+  },
+  {
+   "s": "Yo pensé que era una muletilla más de las suyas.",
+   "e": "I thought it was another of his fillers."
+  },
+  {
+   "s": "Y le contesté con una broma, como toda la noche.",
+   "e": "And I answered him with a joke, as I had all night."
+  },
+  {
+   "s": "La mesa se puso rara medio segundo.",
+   "e": "The table went strange for half a second."
+  },
+  {
+   "s": "Marcos me tocó la pierna por debajo de la mesa.",
+   "e": "Marcos touched my leg under the table."
+  },
+  {
+   "s": "Y Chino siguió hablando como si yo no hubiera dicho nada.",
+   "e": "And Chino went on talking as if I had said nothing."
+  },
+  {
+   "s": "Después Marcos me lo explicó en el camino.",
+   "e": "Afterwards Marcos explained it to me on the way."
+  },
+  {
+   "s": "Me dijo que Chino había cambiado el tono.",
+   "e": "He told me Chino had changed the tone."
+  },
+  {
+   "s": "Y que yo le contesté en el tono viejo.",
+   "e": "And that I answered him in the old tone."
+  },
+  {
+   "s": "Que eso es lo mismo que reírse en un velorio.",
+   "e": "That that is the same as laughing at a wake."
+  },
+  {
+   "s": "No es que uno diga algo malo, es que llegó tarde.",
+   "e": "It is not that you say something bad, it is that you arrived late."
+  },
+  {
+   "s": "Toda la mesa cambió de tono menos yo.",
+   "e": "The whole table changed tone except me."
+  },
+  {
+   "s": "Después me enseñó las señales, que son pocas.",
+   "e": "Then he taught me the signals, which are few."
+  },
+  {
+   "s": "Ya en serio es la más clara y la más común.",
+   "e": "Ya en serio is the clearest and the commonest."
+  },
+  {
+   "s": "La verdad es la segunda y suena a confesión.",
+   "e": "La verdad is the second and it sounds like a confession."
+  },
+  {
+   "s": "Te voy a decir una cosa, es la tercera.",
+   "e": "Te voy a decir una cosa, is the third."
+  },
+  {
+   "s": "Y hay una cuarta que no es una frase.",
+   "e": "And there is a fourth that is not a phrase."
+  },
+  {
+   "s": "Es cuando alguien deja de reírse antes que los demás.",
+   "e": "It is when somebody stops laughing before the others."
+  },
+  {
+   "s": "Esa es la más difícil de ver y la más importante.",
+   "e": "That is the hardest to see and the most important."
+  },
+  {
+   "s": "Marcos me dijo que la mesa entera la ve.",
+   "e": "Marcos told me the whole table sees it."
+  },
+  {
+   "s": "Que nadie mira, pero todos la ven.",
+   "e": "That nobody looks, but everybody sees it."
+  },
+  {
+   "s": "Y que yo no la veía porque estaba traduciendo.",
+   "e": "And that I did not see it because I was translating."
+  },
+  {
+   "s": "El que traduce no tiene ojos para la cara del otro.",
+   "e": "The one translating has no eyes for the other one's face."
+  },
+  {
+   "s": "Eso me lo dijo hace años y era cierto.",
+   "e": "He told me that years ago and it was true."
+  },
+  {
+   "s": "Ahora las veo sin buscarlas, como todo lo demás.",
+   "e": "Now I see them without looking for them, like everything else."
+  },
+  {
+   "s": "Un viernes de julio la señal la doy yo.",
+   "e": "One Friday in July I give the signal myself."
+  },
+  {
+   "s": "Estamos en el vacilón normal, con Chino y dos más.",
+   "e": "We are in the normal joking, with Chino and two others."
+  },
+  {
+   "s": "Y yo necesito decir algo que traía desde el martes.",
+   "e": "And I need to say something I had been carrying since Tuesday."
+  },
+  {
+   "s": "Es una cosa del niño y del doctor y de una prueba.",
+   "e": "It is something about the boy and the doctor and a test."
+  },
+  {
+   "s": "Espero a que se acabe el chiste que están contando.",
+   "e": "I wait for the joke they are telling to finish."
+  },
+  {
+   "s": "No lo corto, eso también es parte de la costumbre.",
+   "e": "I do not cut it off, that is part of the habit too."
+  },
+  {
+   "s": "Cuando se ríen todos, yo no me río.",
+   "e": "When they all laugh, I do not laugh."
+  },
+  {
+   "s": "Y me quedo callado tres segundos, nada más.",
+   "e": "And I stay quiet for three seconds, no more."
+  },
+  {
+   "s": "Marcos deja la birra en la mesa sin hacer ruido.",
+   "e": "Marcos puts his beer on the table without making a sound."
+  },
+  {
+   "s": "Chino se voltea entero hacia mí en la silla.",
+   "e": "Chino turns his whole body towards me in the chair."
+  },
+  {
+   "s": "Y los otros dos dejan de hablar entre ellos.",
+   "e": "And the other two stop talking between themselves."
+  },
+  {
+   "s": "Yo no dije ni en serio ni la verdad ni nada.",
+   "e": "I did not say ya en serio or la verdad or anything."
+  },
+  {
+   "s": "Solo dejé de reírme, que es la cuarta señal.",
+   "e": "I just stopped laughing, which is the fourth signal."
+  },
+  {
+   "s": "Y funcionó igual que si la hubiera dicho.",
+   "e": "And it worked just as if I had said it."
+  },
+  {
+   "s": "Cuento lo del niño y lo que dijo el doctor.",
+   "e": "I tell them about the boy and what the doctor said."
+  },
+  {
+   "s": "Hablo como tres minutos y nadie me interrumpe.",
+   "e": "I talk for about three minutes and nobody interrupts me."
+  },
+  {
+   "s": "Aquí en el vacilón todos se interrumpen siempre.",
+   "e": "Here in the joking everybody always interrupts."
+  },
+  {
+   "s": "Y en el otro tono nadie interrumpe a nadie.",
+   "e": "And in the other tone nobody interrupts anybody."
+  },
+  {
+   "s": "Es la misma mesa y son otras dos reglas.",
+   "e": "It is the same table and two different rules."
+  },
+  {
+   "s": "Cuando termino, Chino dice una sola cosa.",
+   "e": "When I finish, Chino says one thing only."
+  },
+  {
+   "s": "Me dice que su hijo pasó por lo mismo hace tres años.",
+   "e": "He tells me his son went through the same thing three years ago."
+  },
+  {
+   "s": "Y me cuenta cómo salió, sin adornar nada.",
+   "e": "And he tells me how it turned out, without dressing it up."
+  },
+  {
+   "s": "Después de eso no volvemos al vacilón esa noche.",
+   "e": "After that we do not go back to the joking that night."
+  },
+  {
+   "s": "Una vez que se cambia el tono, no se regresa.",
+   "e": "Once the tone is changed, you do not go back."
+  },
+  {
+   "s": "La noche se termina en el tono nuevo y ya.",
+   "e": "The night ends in the new tone and that is that."
+  },
+  {
+   "s": "Y al viernes siguiente nadie menciona nada.",
+   "e": "And the following Friday nobody mentions anything."
+  },
+  {
+   "s": "Chino me pregunta por el niño en la puerta, a solas.",
+   "e": "Chino asks me about the boy at the door, alone."
+  },
+  {
+   "s": "En la mesa no lo menciona ni una vez.",
+   "e": "At the table he does not mention it once."
+  },
+  {
+   "s": "Eso también es la costumbre, y me costó verla.",
+   "e": "That is the habit too, and it took me a while to see it."
+  },
+  {
+   "s": "Lo serio se dice una vez y después se cuida.",
+   "e": "The serious thing is said once and afterwards it is looked after."
+  },
+  {
+   "s": "Repetirlo sería obligar al otro a hablar de eso.",
+   "e": "Repeating it would be forcing the other one to talk about it."
+  },
+  {
+   "s": "Y aquí a nadie se le obliga a hablar de nada.",
+   "e": "And here nobody is forced to talk about anything."
+  }
+ ]
+}

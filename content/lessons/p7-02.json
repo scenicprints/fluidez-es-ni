@@ -1,0 +1,286 @@
+{
+ "id": "p7-02",
+ "title": "Juego de palabras",
+ "desc": "Wordplay",
+ "ph": 7,
+ "diff": 7,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Roberto vuelve de Costa Rica en diciembre, por fin.",
+   "e": "Roberto comes back from Costa Rica in December, at last."
+  },
+  {
+   "s": "Llega el veinte y se queda hasta el ocho de enero.",
+   "e": "He arrives on the twentieth and stays until the eighth of January."
+  },
+  {
+   "s": "Viene distinto, más grande y más callado.",
+   "e": "He comes back different, bigger and quieter."
+  },
+  {
+   "s": "Pero en el vacilón sigue siendo el mismo.",
+   "e": "But in the joking he is still the same."
+  },
+  {
+   "s": "La primera noche estamos en la acera con don Beto.",
+   "e": "The first night we are on the pavement with don Beto."
+  },
+  {
+   "s": "Y Roberto empieza con los juegos de palabras.",
+   "e": "And Roberto starts with the wordplay."
+  },
+  {
+   "s": "Aquí eso es un deporte y tiene su nombre.",
+   "e": "Here that is a sport and it has its name."
+  },
+  {
+   "s": "Se le dice jugar con la palabra, o torcerla.",
+   "e": "It is called playing with the word, or twisting it."
+  },
+  {
+   "s": "Consiste en agarrar lo que dijo el otro.",
+   "e": "It consists of taking what the other one said."
+  },
+  {
+   "s": "Y entenderlo de la manera que no era.",
+   "e": "And understanding it the way it was not meant."
+  },
+  {
+   "s": "A propósito, y rápido, y con cara seria.",
+   "e": "On purpose, and fast, and with a straight face."
+  },
+  {
+   "s": "Don Beto dice que hay que medir el agua del tanque.",
+   "e": "Don Beto says the water in the tank has to be measured."
+  },
+  {
+   "s": "Roberto le pregunta con qué la va a medir.",
+   "e": "Roberto asks him what he is going to measure it with."
+  },
+  {
+   "s": "Don Beto dice que con una vara, como siempre.",
+   "e": "Don Beto says with a stick, as always."
+  },
+  {
+   "s": "Y Roberto le dice que ni de vara.",
+   "e": "And Roberto tells him ni de vara."
+  },
+  {
+   "s": "La misma palabra en dos sentidos en un segundo.",
+   "e": "The same word in two senses in one second."
+  },
+  {
+   "s": "Don Beto se ríe con la boca cerrada, que es su risa.",
+   "e": "Don Beto laughs with his mouth closed, which is his laugh."
+  },
+  {
+   "s": "Y me mira a mí para ver si lo agarré.",
+   "e": "And he looks at me to see if I caught it."
+  },
+  {
+   "s": "Yo lo agarré, y no me costó nada.",
+   "e": "I caught it, and it cost me nothing."
+  },
+  {
+   "s": "Después Roberto me tira uno a mí.",
+   "e": "Then Roberto throws one at me."
+  },
+  {
+   "s": "Yo estoy contando algo del taller y digo la palabra pesado.",
+   "e": "I am telling something about the workshop and I say the word pesado."
+  },
+  {
+   "s": "Digo que el tubo estaba pesado y que me costó.",
+   "e": "I say the pipe was heavy and it was hard work."
+  },
+  {
+   "s": "Y Roberto dice que igual que mis chistes.",
+   "e": "And Roberto says just like my jokes."
+  },
+  {
+   "s": "Y ahí me sale a mí, sin pensarlo ni medio segundo.",
+   "e": "And there it comes out of me, without half a second of thought."
+  },
+  {
+   "s": "Le digo que mis chistes son livianos, que él es el pesado.",
+   "e": "I tell him my jokes are light, that he is the heavy one."
+  },
+  {
+   "s": "La acera entera se ríe y don Beto aplaude una vez.",
+   "e": "The whole pavement laughs and don Beto claps once."
+  },
+  {
+   "s": "Un aplauso solo, con las dos manos, y ya.",
+   "e": "One clap, with both hands, and that is it."
+  },
+  {
+   "s": "Roberto me dice que en Costa Rica no hacen esto.",
+   "e": "Roberto tells me that in Costa Rica they do not do this."
+  },
+  {
+   "s": "Dice que allá también juegan, pero de otra manera.",
+   "e": "He says over there they play too, but in another way."
+  },
+  {
+   "s": "Y que a él le costó un año hallarles la gracia.",
+   "e": "And that it took him a year to find their humour."
+  },
+  {
+   "s": "Un nica en Costa Rica y un chele en Nicaragua.",
+   "e": "A Nicaraguan in Costa Rica and a chele in Nicaragua."
+  },
+  {
+   "s": "Los dos aprendiendo dónde está el chiste ajeno.",
+   "e": "Both learning where somebody else's joke is."
+  },
+  {
+   "s": "Lucía me explica después de dónde sale esto.",
+   "e": "Lucía explains to me afterwards where this comes from."
+  },
+  {
+   "s": "Me dice que aquí la palabra siempre fue un juego.",
+   "e": "She tells me that here the word was always a game."
+  },
+  {
+   "s": "Que por eso hay tantos poetas en un país chiquito.",
+   "e": "That that is why there are so many poets in a small country."
+  },
+  {
+   "s": "Que un poeta es alguien que juega con la palabra en serio.",
+   "e": "That a poet is somebody who plays with the word seriously."
+  },
+  {
+   "s": "Y que el que tuerce una frase en la acera hace lo mismo.",
+   "e": "And that the one who twists a sentence on the pavement is doing the same."
+  },
+  {
+   "s": "Con menos tiempo y sin escribirlo, nada más.",
+   "e": "With less time and without writing it down, that is all."
+  },
+  {
+   "s": "Después me dice una cosa de Darío que no sabía.",
+   "e": "Then she tells me something about Darío I did not know."
+  },
+  {
+   "s": "Me dice que Darío medía los versos con los dedos.",
+   "e": "She tells me Darío measured his lines with his fingers."
+  },
+  {
+   "s": "Que un verso tiene su cuenta de sílabas y hay que medirla.",
+   "e": "That a line has its count of syllables and it has to be measured."
+  },
+  {
+   "s": "Y que por eso los versos suenan como suenan.",
+   "e": "And that that is why the lines sound the way they do."
+  },
+  {
+   "s": "Yo pienso en las sílabas que se traga la gente al hablar.",
+   "e": "I think about the syllables people swallow when they talk."
+  },
+  {
+   "s": "Un país que se come sílabas al hablar y las cuenta al escribir.",
+   "e": "A country that eats syllables when it talks and counts them when it writes."
+  },
+  {
+   "s": "En la escuela del barrio hay concurso en febrero.",
+   "e": "At the barrio school there is a competition in February."
+  },
+  {
+   "s": "Los niños recitan versos de Darío en el patio.",
+   "e": "The children recite Darío's lines in the yard."
+  },
+  {
+   "s": "Este año va un sobrino de Lucía, de nueve años.",
+   "e": "This year a nephew of Lucía's is in it, nine years old."
+  },
+  {
+   "s": "Recita ocho versos y no se equivoca en ninguno.",
+   "e": "He recites eight lines and does not get one wrong."
+  },
+  {
+   "s": "Después de recitar se sienta y le pregunta a la mamá.",
+   "e": "After reciting he sits down and asks his mother."
+  },
+  {
+   "s": "Le pregunta qué quiere decir uno de los versos.",
+   "e": "He asks her what one of the lines means."
+  },
+  {
+   "s": "Se sabe los ocho de memoria y no entiende dos.",
+   "e": "He knows all eight by heart and does not understand two."
+  },
+  {
+   "s": "Y a nadie en el patio le parece raro eso.",
+   "e": "And nobody in the yard finds that strange."
+  },
+  {
+   "s": "Primero se aprende el sonido y después el sentido.",
+   "e": "First you learn the sound and then the sense."
+  },
+  {
+   "s": "Igual que yo con la mitad de lo que digo.",
+   "e": "The same as me with half of what I say."
+  },
+  {
+   "s": "La noche antes de que Roberto se vaya otra vez.",
+   "e": "The night before Roberto leaves again."
+  },
+  {
+   "s": "Estamos en la acera y él está callado.",
+   "e": "We are on the pavement and he is quiet."
+  },
+  {
+   "s": "No hay juego de palabras ni vacilón esa noche.",
+   "e": "There is no wordplay or joking that night."
+  },
+  {
+   "s": "Dice que en Costa Rica no tiene con quién hacerlo.",
+   "e": "He says that in Costa Rica he has nobody to do it with."
+  },
+  {
+   "s": "Que allá habla bien, trabaja y le va bien.",
+   "e": "That over there he speaks well, works and does all right."
+  },
+  {
+   "s": "Pero que nadie le tuerce una frase en la calle.",
+   "e": "But that nobody twists a sentence for him in the street."
+  },
+  {
+   "s": "Yo le digo que eso yo lo entiendo perfectamente.",
+   "e": "I tell him that I understand that perfectly."
+  },
+  {
+   "s": "Él me dice que sí, que yo soy el único que puede.",
+   "e": "He tells me yes, that I am the only one who can."
+  },
+  {
+   "s": "Y después me tira uno, para no quedarse serio.",
+   "e": "And then he throws me one, so as not to stay serious."
+  },
+  {
+   "s": "Me dice que yo llegué de afuera y me quedé.",
+   "e": "He tells me I came from outside and stayed."
+  },
+  {
+   "s": "Y que él nació aquí y se fue.",
+   "e": "And that he was born here and left."
+  },
+  {
+   "s": "Que entre los dos hacemos un nica completo.",
+   "e": "That between the two of us we make one complete Nicaraguan."
+  },
+  {
+   "s": "Nos reímos los dos y ninguno dice nada más.",
+   "e": "We both laugh and neither of us says anything else."
+  },
+  {
+   "s": "Al día siguiente lo llevamos a la terminal.",
+   "e": "The next day we take him to the terminal."
+  },
+  {
+   "s": "Y esta vez sí voltea a ver desde la ventana.",
+   "e": "And this time he does look back from the window."
+  }
+ ]
+}

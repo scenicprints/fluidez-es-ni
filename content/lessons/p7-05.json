@@ -1,0 +1,299 @@
+{
+ "id": "p7-05",
+ "title": "Una carta",
+ "desc": "Writing something formal",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "carta",
+  "papel",
+  "escribir",
+  "constancia"
+ ],
+ "sn": [
+  {
+   "s": "Necesito una constancia de trabajo para un trámite.",
+   "e": "I need a work certificate for some paperwork."
+  },
+  {
+   "s": "Voy a la oficina y pido la constancia de palabra.",
+   "e": "I go to the office and ask for the certificate in person."
+  },
+  {
+   "s": "La señora me dice que tengo que mandar una carta.",
+   "e": "The lady tells me I have to send a letter."
+  },
+  {
+   "s": "Yo le digo que se la estoy pidiendo ahorita.",
+   "e": "I tell her I am asking her for it right now."
+  },
+  {
+   "s": "Ella me dice que sí, pero que necesita el papel.",
+   "e": "She tells me yes, but that she needs the paper."
+  },
+  {
+   "s": "Aquí un trámite sin papel no existió nunca.",
+   "e": "Here a piece of business with no paper never existed."
+  },
+  {
+   "s": "Aunque los dos estemos parados frente a frente.",
+   "e": "Even though the two of us are standing face to face."
+  },
+  {
+   "s": "Le pregunto qué tiene que decir la carta.",
+   "e": "I ask her what the letter has to say."
+  },
+  {
+   "s": "Y ella me da una hoja con un modelo escrito.",
+   "e": "And she gives me a sheet with a written model."
+  },
+  {
+   "s": "Ese modelo es lo que me abre un idioma nuevo.",
+   "e": "That model is what opens a new language to me."
+  },
+  {
+   "s": "Porque la carta no se parece a nada que yo hable.",
+   "e": "Because the letter does not resemble anything I speak."
+  },
+  {
+   "s": "Empieza con la fecha y el lugar, arriba a la derecha.",
+   "e": "It starts with the date and the place, top right."
+  },
+  {
+   "s": "Managua, quince de agosto del año en curso.",
+   "e": "Managua, the fifteenth of August of the current year."
+  },
+  {
+   "s": "Nadie dice año en curso en la vida real.",
+   "e": "Nobody says año en curso in real life."
+  },
+  {
+   "s": "Después va a quién va dirigida, con el cargo completo.",
+   "e": "Then comes who it is addressed to, with the full job title."
+  },
+  {
+   "s": "Y el cargo se escribe entero aunque uno lo conozca.",
+   "e": "And the title is written out in full even if you know the person."
+  },
+  {
+   "s": "Al jefe que veo todos los días le escribo señor gerente.",
+   "e": "To the boss I see every day I write señor gerente."
+  },
+  {
+   "s": "Después viene la línea que me deja frío.",
+   "e": "Then comes the line that leaves me cold."
+  },
+  {
+   "s": "Por medio de la presente me dirijo a usted.",
+   "e": "Por medio de la presente me dirijo a usted."
+  },
+  {
+   "s": "Ocho palabras para decir le escribo esto.",
+   "e": "Eight words to say I am writing this to you."
+  },
+  {
+   "s": "Marcos me dice que esa línea no se puede quitar.",
+   "e": "Marcos tells me that line cannot be left out."
+  },
+  {
+   "s": "Que una carta sin esa línea parece un mensaje de celular.",
+   "e": "That a letter without that line looks like a phone message."
+  },
+  {
+   "s": "Y que un mensaje de celular no es un trámite.",
+   "e": "And that a phone message is not a piece of business."
+  },
+  {
+   "s": "Después va el motivo, y ahí sí es una sola frase.",
+   "e": "Then comes the reason, and there it is a single sentence."
+  },
+  {
+   "s": "Solicito una constancia laboral para fines personales.",
+   "e": "I request a work certificate for personal purposes."
+  },
+  {
+   "s": "Para fines personales quiere decir que no le importa.",
+   "e": "Para fines personales means it is none of your business."
+  },
+  {
+   "s": "Y eso se acepta y nadie pregunta más.",
+   "e": "And that is accepted and nobody asks more."
+  },
+  {
+   "s": "Después va el agradecimiento, que va antes del final.",
+   "e": "Then comes the thanks, which goes before the ending."
+  },
+  {
+   "s": "Agradeciendo de antemano la atención a la presente.",
+   "e": "Thanking you in advance for your attention to this."
+  },
+  {
+   "s": "Uno agradece antes de que le den nada.",
+   "e": "You give thanks before being given anything."
+  },
+  {
+   "s": "Y al final va la despedida, que es de una palabra.",
+   "e": "And at the end comes the sign-off, which is one word."
+  },
+  {
+   "s": "Atentamente, y debajo el nombre y la firma.",
+   "e": "Atentamente, and underneath the name and the signature."
+  },
+  {
+   "s": "La firma tiene que ser a mano, con lapicero azul.",
+   "e": "The signature has to be by hand, with a blue pen."
+  },
+  {
+   "s": "Y el nombre completo con los dos apellidos.",
+   "e": "And the full name with both surnames."
+  },
+  {
+   "s": "El mío con el apellido repetido, como en la cédula.",
+   "e": "Mine with the surname repeated, as on my ID card."
+  },
+  {
+   "s": "Escribo la carta y me toma cuarenta minutos.",
+   "e": "I write the letter and it takes me forty minutes."
+  },
+  {
+   "s": "Cuarenta minutos para siete líneas que ya estaban escritas.",
+   "e": "Forty minutes for seven lines that were already written."
+  },
+  {
+   "s": "Se la doy a la señora de la oficina.",
+   "e": "I give it to the lady in the office."
+  },
+  {
+   "s": "Ella la lee entera, de arriba abajo, delante de mí.",
+   "e": "She reads it all, top to bottom, in front of me."
+  },
+  {
+   "s": "Y me dice que está bien y me da la constancia.",
+   "e": "And she tells me it is fine and gives me the certificate."
+  },
+  {
+   "s": "La constancia estaba hecha desde antes, yo la vi en la mesa.",
+   "e": "The certificate was already done, I saw it on the desk."
+  },
+  {
+   "s": "Se la dieron cuando el papel entró por la puerta.",
+   "e": "They gave it to me when the paper came through the door."
+  },
+  {
+   "s": "Yo pensaba que la carta era una pérdida de tiempo.",
+   "e": "I thought the letter was a waste of time."
+  },
+  {
+   "s": "Marcos me explica que no, que la carta es la prueba.",
+   "e": "Marcos explains to me that no, the letter is the proof."
+  },
+  {
+   "s": "Que si mañana hay un problema, existe un papel.",
+   "e": "That if there is a problem tomorrow, a paper exists."
+  },
+  {
+   "s": "Y que en este país el papel es lo único que aguanta.",
+   "e": "And that in this country the paper is the only thing that holds."
+  },
+  {
+   "s": "Una palabra dicha no se puede enseñar después.",
+   "e": "A spoken word cannot be shown afterwards."
+  },
+  {
+   "s": "Un papel firmado sí, y por eso todo lleva papel.",
+   "e": "A signed paper can, and that is why everything involves paper."
+  },
+  {
+   "s": "Después me quedo pensando en lo raro del asunto.",
+   "e": "Afterwards I am left thinking about the strange part."
+  },
+  {
+   "s": "Hablando, aquí todo se suaviza y se da vuelta.",
+   "e": "In speech, here everything is softened and goes round."
+  },
+  {
+   "s": "Nadie dice quiero, todos dicen quería.",
+   "e": "Nobody says I want, everybody says I wanted."
+  },
+  {
+   "s": "Nadie dice no, todos dicen tal vez después.",
+   "e": "Nobody says no, everybody says tal vez después."
+  },
+  {
+   "s": "Y en el papel es exactamente lo contrario.",
+   "e": "And on paper it is exactly the opposite."
+  },
+  {
+   "s": "En el papel se dice solicito, así, sin suavizar.",
+   "e": "On paper you say solicito, just like that, unsoftened."
+  },
+  {
+   "s": "Se pone la fecha exacta y el motivo exacto.",
+   "e": "You put the exact date and the exact reason."
+  },
+  {
+   "s": "Un idioma para la boca y otro para la mano.",
+   "e": "One language for the mouth and another for the hand."
+  },
+  {
+   "s": "Lucía me dice que eso ella lo aprendió en la escuela.",
+   "e": "Lucía tells me she learned that at school."
+  },
+  {
+   "s": "Que le enseñaron a escribir cartas a los doce años.",
+   "e": "That she was taught to write letters at twelve."
+  },
+  {
+   "s": "Que hicieron cartas de solicitud como tarea, muchas.",
+   "e": "That they did request letters as homework, a lot of them."
+  },
+  {
+   "s": "Y que ella todavía las escribe igual, sin pensar.",
+   "e": "And that she still writes them the same way, without thinking."
+  },
+  {
+   "s": "En noviembre escribo otra carta, pero de otra clase.",
+   "e": "In November I write another letter, but of another kind."
+  },
+  {
+   "s": "Es para pedir un cupo en la escuela para el niño.",
+   "e": "It is to ask for a place at the school for the boy."
+  },
+  {
+   "s": "Esa la escribo yo solo, sin modelo ni nada.",
+   "e": "That one I write on my own, with no model or anything."
+  },
+  {
+   "s": "La escribo en veinte minutos y me sale sola.",
+   "e": "I write it in twenty minutes and it comes out on its own."
+  },
+  {
+   "s": "Por medio de la presente, solicito, agradeciendo de antemano.",
+   "e": "Por medio de la presente, solicito, agradeciendo de antemano."
+  },
+  {
+   "s": "Todo en su lugar, como una fórmula de fritanga.",
+   "e": "Everything in its place, like a fritanga formula."
+  },
+  {
+   "s": "Se la enseño a Lucía antes de mandarla.",
+   "e": "I show it to Lucía before sending it."
+  },
+  {
+   "s": "Ella la lee y me dice una sola cosa.",
+   "e": "She reads it and says one thing to me."
+  },
+  {
+   "s": "Me dice que la firme con los dos apellidos del niño.",
+   "e": "She tells me to sign it with the boy's two surnames."
+  },
+  {
+   "s": "No con los míos, con los de él.",
+   "e": "Not with mine, with his."
+  },
+  {
+   "s": "Porque el que pide el cupo es el papá de un nicaragüense.",
+   "e": "Because the one asking for the place is the father of a Nicaraguan."
+  }
+ ]
+}

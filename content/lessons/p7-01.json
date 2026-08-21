@@ -1,0 +1,294 @@
+{
+ "id": "p7-01",
+ "title": "El chiste que no explicaron",
+ "desc": "Getting a joke in real time",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "chiste",
+  "reírse",
+  "explicar"
+ ],
+ "sn": [
+  {
+   "s": "El sábado hay cumpleaños en la casa de Marcos.",
+   "e": "On Saturday there is a birthday at Marcos's house."
+  },
+  {
+   "s": "Somos como treinta personas entre el patio y la sala.",
+   "e": "There are about thirty of us between the yard and the front room."
+  },
+  {
+   "s": "En la mesa de los hombres el vacilón empezó temprano.",
+   "e": "At the men's table the joking started early."
+  },
+  {
+   "s": "A las nueve de la noche ya nadie habla en serio.",
+   "e": "By nine at night nobody is talking seriously any more."
+  },
+  {
+   "s": "Chino cuenta un chiste largo de un cura y un pescador.",
+   "e": "Chino tells a long joke about a priest and a fisherman."
+  },
+  {
+   "s": "El chiste dura como tres minutos y tiene tres partes.",
+   "e": "The joke lasts about three minutes and has three parts."
+  },
+  {
+   "s": "Yo lo sigo entero sin perder ni una frase.",
+   "e": "I follow the whole thing without losing a sentence."
+  },
+  {
+   "s": "Y cuando llega el final me río antes que los demás.",
+   "e": "And when the ending comes I laugh before the others."
+  },
+  {
+   "s": "Me río medio segundo antes, no después.",
+   "e": "I laugh half a second early, not late."
+  },
+  {
+   "s": "Y ese medio segundo es todo lo que hay.",
+   "e": "And that half second is everything there is."
+  },
+  {
+   "s": "Marcos me mira desde el otro lado de la mesa.",
+   "e": "Marcos looks at me from the other side of the table."
+  },
+  {
+   "s": "No dice nada, pero levanta la birra un poco.",
+   "e": "He says nothing, but he raises his beer a little."
+  },
+  {
+   "s": "Los primeros dos años yo me reía tarde siempre.",
+   "e": "The first two years I always laughed late."
+  },
+  {
+   "s": "Me reía cuando veía reírse a los demás.",
+   "e": "I laughed when I saw the others laugh."
+  },
+  {
+   "s": "Y una risa tarde se nota más que no reírse.",
+   "e": "And a late laugh shows more than not laughing."
+  },
+  {
+   "s": "Todos saben que uno se rió por acompañar.",
+   "e": "Everybody knows you laughed to keep them company."
+  },
+  {
+   "s": "Y eso da lástima, aunque nadie lo diga.",
+   "e": "And that is pitiful, though nobody says so."
+  },
+  {
+   "s": "Después empecé a reírme a tiempo pero sin gracia.",
+   "e": "Then I started laughing on time but without finding it funny."
+  },
+  {
+   "s": "Entendía el chiste con la cabeza, no con la panza.",
+   "e": "I understood the joke with my head, not my belly."
+  },
+  {
+   "s": "Traducía el final y decía ah, es gracioso.",
+   "e": "I translated the ending and said ah, that is funny."
+  },
+  {
+   "s": "Y esa risa es peor todavía, porque es actuada.",
+   "e": "And that laugh is worse still, because it is acted."
+  },
+  {
+   "s": "Esta noche fue distinta y no supe por qué.",
+   "e": "Tonight was different and I did not know why."
+  },
+  {
+   "s": "Después Marcos me lo explica en el portón.",
+   "e": "Afterwards Marcos explains it to me at the gate."
+  },
+  {
+   "s": "Me dice que el chiste de Chino no tenía nada especial.",
+   "e": "He tells me Chino's joke had nothing special about it."
+  },
+  {
+   "s": "Que lo que tenía era una palabra al final.",
+   "e": "That what it had was one word at the end."
+  },
+  {
+   "s": "Una palabra que suena parecida a otra palabra.",
+   "e": "A word that sounds like another word."
+  },
+  {
+   "s": "Y que si uno no conoce las dos, no hay chiste.",
+   "e": "And that if you do not know both, there is no joke."
+  },
+  {
+   "s": "Yo conocía las dos sin haberlas estudiado nunca.",
+   "e": "I knew both without ever having studied them."
+  },
+  {
+   "s": "Una la aprendí de Chino y la otra de doña Chepa.",
+   "e": "One I learned from Chino and the other from doña Chepa."
+  },
+  {
+   "s": "Ninguna de las dos está en un libro de español.",
+   "e": "Neither of the two is in a Spanish book."
+  },
+  {
+   "s": "Marcos me dice la regla de los chistes de aquí.",
+   "e": "Marcos tells me the rule about jokes here."
+  },
+  {
+   "s": "Me dice que un chiste no se explica nunca.",
+   "e": "He tells me a joke is never explained."
+  },
+  {
+   "s": "Que explicar un chiste es matarlo delante de todos.",
+   "e": "That explaining a joke is killing it in front of everybody."
+  },
+  {
+   "s": "Y que si alguien pregunta, se cambia de tema.",
+   "e": "And that if somebody asks, you change the subject."
+  },
+  {
+   "s": "No por maldad, sino porque ya no tiene arreglo.",
+   "e": "Not out of malice, but because it cannot be saved."
+  },
+  {
+   "s": "El primer año me explicaron muchos chistes.",
+   "e": "The first year they explained a lot of jokes to me."
+  },
+  {
+   "s": "Marcos me los explicaba a la salida, en voz baja.",
+   "e": "Marcos explained them to me on the way out, quietly."
+  },
+  {
+   "s": "Nunca delante de la mesa, siempre después.",
+   "e": "Never in front of the table, always afterwards."
+  },
+  {
+   "s": "Eso también era una manera de cuidarme.",
+   "e": "That was a way of looking after me as well."
+  },
+  {
+   "s": "Después me habla de lo que no tiene gracia aquí.",
+   "e": "Then he talks to me about what is not funny here."
+  },
+  {
+   "s": "Porque hay chistes que en mi país se cuentan y aquí no.",
+   "e": "Because there are jokes that in my country are told and here are not."
+  },
+  {
+   "s": "Aquí no se hace chiste de una madre, nunca.",
+   "e": "Here you do not joke about a mother, ever."
+  },
+  {
+   "s": "Ni de un muerto reciente, ni de una enfermedad grave.",
+   "e": "Nor about somebody recently dead, nor about a serious illness."
+  },
+  {
+   "s": "Ni del hambre de otro, aunque el otro se ría.",
+   "e": "Nor about somebody else's hunger, even if he laughs."
+  },
+  {
+   "s": "Y no se hace chiste de la plata que uno tiene.",
+   "e": "And you do not joke about the money you have."
+  },
+  {
+   "s": "El límite se aprende quedando mal una vez.",
+   "e": "The limit is learned by getting it wrong once."
+  },
+  {
+   "s": "Yo lo aprendí con Chino y su trabajo perdido.",
+   "e": "I learned it with Chino and his lost job."
+  },
+  {
+   "s": "Marcos dice que esa broma la recuerda todavía.",
+   "e": "Marcos says he still remembers that joke."
+  },
+  {
+   "s": "Cuatro años después y todavía se acuerda.",
+   "e": "Four years later and he still remembers."
+  },
+  {
+   "s": "Una broma pesada dura más que un chiste bueno.",
+   "e": "A heavy joke lasts longer than a good one."
+  },
+  {
+   "s": "Después de eso me quedo pensando en la panza.",
+   "e": "After that I am left thinking about the belly."
+  },
+  {
+   "s": "Reírse de verdad no se puede fingir ni un poco.",
+   "e": "Really laughing cannot be faked, not even a little."
+  },
+  {
+   "s": "Y no se puede aprender de una lista de palabras.",
+   "e": "And it cannot be learned from a list of words."
+  },
+  {
+   "s": "La carcajada le sale a uno cuando entiende de una vez.",
+   "e": "The roar comes out of you when you understand at once."
+  },
+  {
+   "s": "Sin traducir, sin pensar, sin buscar el final.",
+   "e": "Without translating, without thinking, without hunting for the ending."
+  },
+  {
+   "s": "Por eso reírse a tiempo es la última cosa que llega.",
+   "e": "That is why laughing on time is the last thing to arrive."
+  },
+  {
+   "s": "Llega después de hablar bien, mucho después.",
+   "e": "It arrives after speaking well, long after."
+  },
+  {
+   "s": "Yo hablaba bien hacía dos años y me reía tarde.",
+   "e": "I had been speaking well for two years and laughing late."
+  },
+  {
+   "s": "Esa noche Chino cuenta otro chiste, más corto.",
+   "e": "That night Chino tells another joke, a shorter one."
+  },
+  {
+   "s": "Este lo entiendo pero no me da gracia ninguna.",
+   "e": "This one I understand but I do not find it funny at all."
+  },
+  {
+   "s": "Y no me río, porque ya no tengo que fingir.",
+   "e": "And I do not laugh, because I do not have to pretend any more."
+  },
+  {
+   "s": "Chino me pregunta si no lo entendí.",
+   "e": "Chino asks me if I did not get it."
+  },
+  {
+   "s": "Yo le digo que sí lo entendí y que es malo.",
+   "e": "I tell him I did get it and that it is a bad one."
+  },
+  {
+   "s": "La mesa entera se cae de la risa con eso.",
+   "e": "The whole table falls about laughing at that."
+  },
+  {
+   "s": "Y el chiste de Chino se murió ahí mismo.",
+   "e": "And Chino's joke died right there."
+  },
+  {
+   "s": "Marcos me dice después que eso fue lo mejor de la noche.",
+   "e": "Marcos tells me afterwards that that was the best part of the night."
+  },
+  {
+   "s": "Que decirle a un nica que su chiste es malo es el vacilón.",
+   "e": "That telling a Nicaraguan his joke is bad is the joking."
+  },
+  {
+   "s": "Y que yo acerté el momento sin pensarlo.",
+   "e": "And that I got the timing right without thinking."
+  },
+  {
+   "s": "Chino me sirve otra birra y no me habla del chiste.",
+   "e": "Chino pours me another beer and does not mention the joke."
+  },
+  {
+   "s": "Pero me sirve a mí antes que a los otros dos.",
+   "e": "But he pours for me before the other two."
+  }
+ ]
+}
