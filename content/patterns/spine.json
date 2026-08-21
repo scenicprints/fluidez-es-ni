@@ -1,0 +1,611 @@
+[
+ {
+  "id": "saludos",
+  "title": "Buenas — The Greeting You Always Use",
+  "min": 3,
+  "trigger": [
+   "buenas",
+   "saludar",
+   "vecino",
+   "señora",
+   "señor",
+   "gracias"
+  ],
+  "text": "'Buenas' on its own works all day and with anybody.\n\n• Buenas (morning, noon or night)\n• Buenos días until about eleven\n• Buenas tardes, buenas noches\n\nYou greet BEFORE you ask for anything. Walking into a pulpería and saying what you want is what badly brought up people do.\n\nPassing somebody on the pavement? Buenas. That is the whole exchange."
+ },
+ {
+  "id": "usted_vos",
+  "title": "Usted or Vos — Who Gets Which",
+  "min": 4,
+  "trigger": [
+   "usted",
+   "vos",
+   "doña",
+   "don",
+   "jefe",
+   "señora"
+  ],
+  "text": "Two ways of saying 'you', and picking wrong is louder than a mistake.\n\nVOS — friends, workmates, anybody your own age, children.\nUSTED — older people, a boss, a stranger, an official, a customer.\n\n• Vos tenés / Usted tiene\n• Vení / Venga\n• ¿Cómo estás vos? / ¿Cómo está usted?\n\nWhen in doubt use usted. Being too respectful costs nothing; being too familiar with a doña costs a lot.\n\nThe other person will drop you to vos when they are ready. Follow them."
+ },
+ {
+  "id": "diminutivos",
+  "title": "-ito — Small, Soft, or Sooner",
+  "min": 3,
+  "trigger": [
+   "ratito",
+   "ahorita",
+   "cafecito",
+   "chiquito",
+   "tantito"
+  ],
+  "text": "The -ito ending does far more than 'small'.\n\n• un ratito — a little while (softens a long wait)\n• ahorita — from 'ahora', but vaguer, not sharper\n• un cafecito — a coffee, offered warmly\n• despacito — nice and slowly\n\nIt takes the edge off a request: 'Espereme un ratito' is gentler than 'Espere'.\n\nNicaraguans put it on almost anything. You will hear ahoritita — the diminutive of the diminutive."
+ },
+ {
+  "id": "plata",
+  "title": "Pesos, Reales, Córdobas",
+  "min": 3,
+  "trigger": [
+   "peso",
+   "córdoba",
+   "plata",
+   "caro",
+   "barato"
+  ],
+  "text": "The currency is the córdoba. Almost nobody says córdoba.\n\n• 'Cien pesos' means a hundred córdobas\n• 'reales' is money in general — ¿andás con reales?\n• 'plata' is the everyday word for money\n\nPrices are said fast and without the unit: 'Son cuarenta.'\n\nNobody asks what you earn. Money is talked around, never at: 'está difícil la cosa', 'ando corto', 'no alcanza'."
+ },
+ {
+  "id": "hay",
+  "title": "Hay — There Is, There Isn't",
+  "min": 3,
+  "trigger": [
+   "agua",
+   "luz",
+   "problema",
+   "gente"
+  ],
+  "text": "'Hay' never changes. One form for singular and plural.\n\n• Hay agua hoy — there is water today\n• No hay luz — the power is out\n• ¿Hay pan? — do you have bread?\n\nHalf of daily life here is a 'hay' question: hay agua, hay luz, hay pasaje, hay cupo.\n\n'No hay' is a complete answer and you will get it a lot. It is not rudeness, it is a fact about the day."
+ },
+ {
+  "id": "andar_gerundio",
+  "title": "Ando buscando — Andar Instead of Estar",
+  "min": 3,
+  "trigger": [
+   "andar",
+   "buscar",
+   "trabajar",
+   "hacer"
+  ],
+  "text": "Nicaraguans use 'andar' where a textbook uses 'estar'.\n\n• Ando buscando trabajo — I'm looking for work\n• Anda enfermo — he's ill (at the moment)\n• ¿Andás con plata? — have you got money on you?\n\nAndar carries 'going about', so it fits an ongoing state better than estar does.\n\nYou will hear it constantly. Using it is one of the fastest ways to stop sounding like a course."
+ },
+ {
+  "id": "voy_a",
+  "title": "Voy a — The Future Nobody Bothers Conjugating",
+  "min": 3,
+  "trigger": [
+   "ir",
+   "hacer",
+   "comprar",
+   "venir",
+   "mañana"
+  ],
+  "text": "The proper future tense exists. Almost nobody uses it in speech.\n\n• Voy a comprar — I'm going to buy\n• Vamos a ver — we'll see (and often: no)\n• ¿Qué vas a hacer? — what are you going to do?\n\nIR + A + infinitive covers nearly everything.\n\nThe real future turns up mostly in guesses: '¿Será?' — I wonder. 'Serán las tres' — it must be about three."
+ },
+ {
+  "id": "regaleme",
+  "title": "Regáleme — Give Me, Politely",
+  "min": 3,
+  "trigger": [
+   "regalar",
+   "dar",
+   "pulpería",
+   "favor",
+   "bolsa"
+  ],
+  "text": "'Regalar' means to give as a present. In a shop it means something else entirely.\n\n• Regáleme dos panes — could I have two rolls\n• Regáleme un vaso de agua\n\nNobody thinks you are asking for a gift. It is simply the softest way to ask across a counter.\n\nThe scale, from blunt to soft:\n• Deme dos — give me two\n• Me da dos, por favor\n• Regáleme dos"
+ },
+ {
+  "id": "preguntas",
+  "title": "Question Words, Nica Order",
+  "min": 3,
+  "trigger": [
+   "qué",
+   "dónde",
+   "cuánto",
+   "cómo",
+   "quién",
+   "cuándo"
+  ],
+  "text": "The words are ordinary. The habits are not.\n\n• ¿Y vos qué? — and you? (asks for your opinion, seriously)\n• ¿Qué te doy? — what can I get you (in a fritanga)\n• ¿Para dónde? — where to (in a taxi)\n• ¿Cuánto me cobra? — how much will you charge me\n\n'¿Mande?' is Mexican. Here you say '¿Cómo?' or just '¿Ah?'\n\nNote that price is asked as what you will be CHARGED, not what it costs."
+ },
+ {
+  "id": "preterito",
+  "title": "Ayer — Talking About Yesterday",
+  "min": 4,
+  "trigger": [
+   "ayer",
+   "anoche",
+   "comer",
+   "hablar",
+   "llegar",
+   "ir"
+  ],
+  "text": "The preterite is what happened and finished.\n\n• -AR: hablé, hablaste, habló, hablamos, hablaron\n• -ER/-IR: comí, comiste, comió, comimos, comieron\n\nThe ones you will actually need are irregular:\n• fui (ser AND ir — same forms)\n• tuve, estuve, hice, dije, vine\n\nNote 'hablamos' is both present and preterite. Context decides, and nobody minds."
+ },
+ {
+  "id": "imperfecto",
+  "title": "Cuando era chavalo — The Past That Was Ongoing",
+  "min": 3,
+  "trigger": [
+   "chavalo",
+   "antes",
+   "siempre",
+   "niño",
+   "escuela"
+  ],
+  "text": "The imperfect is what USED to happen, or was happening.\n\n• -AR: hablaba, hablabas, hablaba, hablábamos, hablaban\n• -ER/-IR: comía, comías, comía, comíamos, comían\n\nOnly three irregulars in the whole language: era, iba, veía.\n\n• Cuando era chavalo jugaba en la calle\n• Mi abuela cocinaba todos los domingos\n\nPreterite = it happened. Imperfect = that is how things were."
+ },
+ {
+  "id": "reflexivos",
+  "title": "Me levanto — Doing It To Yourself",
+  "min": 3,
+  "trigger": [
+   "levantarse",
+   "bañarse",
+   "sentarse",
+   "acostarse"
+  ],
+  "text": "A pronoun in front turns the verb back on the doer.\n\n• Me levanto a las cinco\n• Se baña en la pila\n• Sentate — sit yourself down\n\nSome verbs change meaning entirely:\n• ir = to go / irse = to leave\n• quedar = to be left / quedarse = to stay\n• acordar = to agree / acordarse = to remember\n\nWith vos commands the pronoun sticks on the end and the stress stays put: sentate, fijate, acordate."
+ },
+ {
+  "id": "se_lo",
+  "title": "Se lo — Two Pronouns in a Row",
+  "min": 3,
+  "trigger": [
+   "dar",
+   "decir",
+   "traer",
+   "papel",
+   "cosa"
+  ],
+  "text": "When both pronouns turn up, the person comes first.\n\n• Se lo doy — I'll give it to him\n• Me lo dijo ayer — he told me it yesterday\n• Te la traigo mañana — I'll bring it to you tomorrow\n\n'Le lo' is never said. It becomes 'se lo'.\n\nThey stack onto an infinitive or a gerund:\n• Voy a dárselo / Se lo voy a dar — both fine"
+ },
+ {
+  "id": "saber_conocer",
+  "title": "Saber and Conocer — Two Kinds of Knowing",
+  "min": 3,
+  "trigger": [
+   "saber",
+   "conocer",
+   "nombre",
+   "lugar",
+   "persona"
+  ],
+  "text": "SABER — facts, information, how to do something.\n• Sé que viene el jueves\n• ¿Sabés manejar?\n\nCONOCER — being acquainted with a person or a place.\n• ¿Conocés a Marcos?\n• No conozco León\n\n'Ya sé llegar' — I know how to get there.\n'Ya conozco el barrio' — I know the barrio now.\n\nIn the preterite conocer means MET: 'La conocí en una fiesta.'"
+ },
+ {
+  "id": "por_para",
+  "title": "Por and Para",
+  "min": 3,
+  "trigger": [
+   "por",
+   "para",
+   "trabajo",
+   "favor",
+   "gracias"
+  ],
+  "text": "PARA — where it is going, who it is for, what it is for.\n• Para dónde va (destination)\n• Es para mi mamá (recipient)\n• Para el jueves (deadline)\n\nPOR — the reason, the route, the exchange.\n• Gracias por venir (cause)\n• Pasé por el mercado (through)\n• Lo compré por cien (in exchange for)\n\nUseful pair: 'trabajo para él' (I work for him, he is my boss) versus 'trabajo por él' (I am covering his shift)."
+ },
+ {
+  "id": "comparar",
+  "title": "Más que — Comparing Things",
+  "min": 3,
+  "trigger": [
+   "más",
+   "menos",
+   "mejor",
+   "peor",
+   "grande"
+  ],
+  "text": "• más ... que — more than\n• menos ... que — less than\n• tan ... como — as ... as\n\nFour have their own word: mejor, peor, mayor, menor.\n\nNicaraguan comparisons are usually jokes:\n• Sos más lento que un domingo\n• Está más perdido que yo\n\nBuilding one of those is how you answer being teased."
+ },
+ {
+  "id": "intensificar",
+  "title": "Bien caro — Saying How Much",
+  "min": 3,
+  "trigger": [
+   "bien",
+   "muy",
+   "caro",
+   "fuerte"
+  ],
+  "text": "'Bien' is used where a textbook would use 'muy'.\n\n• Está bien caro — it's really expensive\n• Bien bueno, bien lejos, bien temprano\n\nStronger still:\n• un montón — loads (safe with anybody)\n• un cachimbo de — loads (friends only)\n• -ísimo — rapidísimo, buenísimo\n\n'Muy' is not wrong. It is just what a foreigner says."
+ },
+ {
+  "id": "mandatos_vos",
+  "title": "Hablá, comé, vení — Vos Commands",
+  "min": 4,
+  "trigger": [
+   "mirá",
+   "andá",
+   "vení",
+   "fijate",
+   "sentate",
+   "esperá"
+  ],
+  "text": "The vos command is the infinitive minus the -r, with the stress on the end.\n\n• hablar → hablá\n• comer → comé\n• vivir → viví\n\nThere are almost no exceptions. Even the verbs that are irregular everywhere else behave: tener → tené, poner → poné, salir → salí.\n\nOnly 'ir' is odd: 'andá' is used instead.\n\nWith a pronoun attached the stress does not move: sentate, fijate, decime, acordate."
+ },
+ {
+  "id": "negar_suave",
+  "title": "Fijate que no — Refusing Without a No",
+  "min": 3,
+  "trigger": [
+   "fijate",
+   "complicado",
+   "domingo",
+   "invitar",
+   "quizás"
+  ],
+  "text": "Almost nobody here says a flat no. It leaves the person who asked looking bad.\n\nWhat a no sounds like:\n• Tal vez después — no\n• Quizás — no\n• Vamos a ver — no\n• Ahorita está complicado — no, and it is not about you\n• Si Dios quiere — no\n\nTHE SIGNAL IS THE DATE. Somebody who wants to come names a day. Somebody who says 'después' with no day has refused.\n\nGiving one yourself: thank them, blame the situation, leave the door open. 'Qué bueno que me invitaste, fijate que ese domingo andamos donde la familia. Avisame para la otra.'"
+ },
+ {
+  "id": "condicional",
+  "title": "Qué harías vos — Would",
+  "min": 3,
+  "trigger": [
+   "consejo",
+   "deber",
+   "poder",
+   "querer",
+   "gustar"
+  ],
+  "text": "Add the imperfect ending to the whole infinitive. No stem changes, nothing to learn.\n\n• hablaría, comería, viviría\n• haría, diría, podría, tendría (short stems)\n\nWhat it is for here:\n• ¿Qué harías vos? — asking advice\n• Yo diría que sí — softening an opinion\n• ¿Me podría ayudar? — the polite ask\n\n'Podría' and 'sería' turn a request into a question, which is most of what politeness is in this country."
+ },
+ {
+  "id": "ojala",
+  "title": "Ojalá — Wishing, and the Subjunctive",
+  "min": 3,
+  "trigger": [
+   "ojalá",
+   "esperar",
+   "llover",
+   "salir",
+   "venir"
+  ],
+  "text": "'Ojalá' always takes the subjunctive.\n\n• Ojalá que venga — I hope he comes\n• Ojalá no llueva\n• Ojalá pueda ir\n\nThe present subjunctive swaps the vowel: -ar verbs take -e, -er/-ir verbs take -a.\n• hable, coma, viva\n\nSame after 'que' when you want somebody else to do something:\n• Quiero que vengas\n• Dice que lo hagas\n\nAnd in the goodbyes: 'Que le vaya bien', 'Que descanse'."
+ },
+ {
+  "id": "se_impersonal",
+  "title": "Aquí se hace así — The Se That Has No Doer",
+  "min": 3,
+  "trigger": [
+   "hacer",
+   "decir",
+   "comer",
+   "vender",
+   "costumbre"
+  ],
+  "text": "'Se' plus the verb says a thing is done, without saying who does it.\n\n• Aquí se hace así — this is how it is done here\n• Eso no se dice — you do not say that\n• Se come con la mano\n\nIt is everywhere in kitchens, where nobody says 'I put in':\n• Se le pone la sal y se deja media hora\n\nIt is also how a rule gets stated without anybody being told off. 'Eso no se hace' is a correction with no finger pointed."
+ },
+ {
+  "id": "hace_tiempo",
+  "title": "Hace dos años — How Long",
+  "min": 3,
+  "trigger": [
+   "año",
+   "mes",
+   "tiempo",
+   "semana",
+   "día"
+  ],
+  "text": "'Hace' plus a length of time means AGO.\n\n• Llegué hace dos años\n• Hace rato — a while back\n\nWith 'que' plus the present, it means how long something HAS been going on:\n• Hace dos años que vivo aquí — I've lived here two years\n• ¿Cuánto hace que lo conocés?\n\nAlso common: 'Ya van tres años' — that's three years now. 'Llevo cinco años aquí' — I've been here five years."
+ },
+ {
+  "id": "lo_que",
+  "title": "Lo que, lo de — The Thing About",
+  "min": 3,
+  "trigger": [
+   "cosa",
+   "asunto",
+   "problema",
+   "decir"
+  ],
+  "text": "'Lo' turns anything into an abstract 'the thing'.\n\n• lo que dijo — what he said\n• lo del banco — the bank business\n• lo de ayer — that thing yesterday\n• lo bueno es que — the good thing is\n\n'Lo de' is how delicate matters get named without naming them. 'Lo de Chino' can mean his lost job, his father, or the money, and everybody in the room knows which."
+ },
+ {
+  "id": "reclamar",
+  "title": "Reclamar — Complaining So It Works",
+  "min": 3,
+  "trigger": [
+   "reclamo",
+   "recibo",
+   "error",
+   "oficina",
+   "pagar"
+  ],
+  "text": "A complaint that starts as an accusation gets you nowhere. The person at the window did not do it.\n\nThe shape that works:\n• Fíjese que este recibo me llegó muy alto (a problem, not a fault)\n• Aquí traigo el anterior (evidence)\n• ¿Y con quién tengo que hablar? (the next door)\n• Muchas gracias por la ayuda (they will remember)\n\nNever 'ustedes me cobraron de más'. Ustedes makes them the company and they will defend it."
+ },
+ {
+  "id": "carino",
+  "title": "Mi amor — What People Actually Call Each Other",
+  "min": 3,
+  "trigger": [
+   "amor",
+   "mijo",
+   "cariño",
+   "vida",
+   "corazón"
+  ],
+  "text": "Endearments here are not reserved for a partner.\n\n• mi amor, mi vida, mi cielo, corazón — a shop lady says these to a stranger\n• mijo / mija — from mi hijo, said to anybody younger\n• papito, mamita — warm, everyday, not strange\n\nIn the fritanga they mean nothing and everything. Between two people they mean what you would expect.\n\nNot using them at all is what marks you out, not using them wrongly."
+ },
+ {
+  "id": "querer_amar",
+  "title": "Te quiero and Te amo Are Not the Same Size",
+  "min": 3,
+  "trigger": [
+   "querer",
+   "amar",
+   "amor",
+   "decir"
+  ],
+  "text": "• Te quiero — warm, real, and usable long before 'te amo'. Said to family, to close friends, to a partner.\n• Te amo — heavier, later, and said far less often than films suggest.\n\nSaying 'te amo' too early sounds like a telenovela. Saying 'te quiero' to a friend is completely normal.\n\nAlso: 'me caés bien' is liking a person, which is a different verb again — and it is what you say about somebody you have just met."
+ },
+ {
+  "id": "reproche",
+  "title": "Siempre and Nunca — The Words That Start Fights",
+  "min": 3,
+  "trigger": [
+   "siempre",
+   "nunca",
+   "pelear",
+   "discutir",
+   "culpa"
+  ],
+  "text": "An argument here rarely breaks over the subject. It breaks over these two words.\n\n• 'No me avisaste' — about one occasion, repairable\n• 'Vos nunca me avisás' — about a whole character, not repairable\n\nSame with 'siempre': 'siempre es tu mamá primero' turns one December into every December.\n\nKeep it to the thing that happened. 'Uno' does the same job when you need distance: 'uno se queda esperando' says it without accusing anybody."
+ },
+ {
+  "id": "disculpas",
+  "title": "Perdón, disculpe, perdoname",
+  "min": 3,
+  "trigger": [
+   "perdón",
+   "disculpa",
+   "perdonar",
+   "molestia"
+  ],
+  "text": "• Perdón — the small one. Bumping somebody, interrupting.\n• Disculpe — formal, and it also opens a question to a stranger: 'Disculpe, ¿dónde está el baño?'\n• Perdoname / discúlpeme — a real apology to a person.\n\nFor something that matters: say it short, in person, early. A long apology turns into an excuse.\n\nNever 'perdón SI te ofendí'. The 'si' says it might not have happened. It did.\n\nAnd nobody here says 'te perdono'. They offer you coffee."
+ },
+ {
+  "id": "usted_familia",
+  "title": "Usted Inside a Family",
+  "min": 3,
+  "trigger": [
+   "usted",
+   "suegra",
+   "mamá",
+   "papá",
+   "respeto"
+  ],
+  "text": "Usted between people who love each other is not coldness.\n\n• A daughter calls her mother usted; the mother calls her vos\n• In the countryside a husband and wife of fifty years use usted with each other\n• A yerno uses usted with the suegra for years, sometimes forever\n\nIt is respect that has been running so long it became affection.\n\nDo not switch to vos with a suegra to seem closer. Wait to be dropped, and it may never happen, and that is fine."
+ },
+ {
+  "id": "pesame",
+  "title": "Mi pésame — What to Say When Somebody Dies",
+  "min": 3,
+  "trigger": [
+   "pésame",
+   "velorio",
+   "muerte",
+   "sentir",
+   "acompañar"
+  ],
+  "text": "There is a fixed thing to say and you are not expected to improvise.\n\n• Mi pésame\n• Lo siento mucho\n• Que en paz descanse\n• Lo acompaño en su sentimiento (formal)\n\nThen you stop talking. The whole job is being there.\n\nYou arrive AT ONCE — within the hour, not when convenient. Everything else in this country runs late; this does not.\n\nTake something for the coffee. Nine nights of it is a real cost to that house."
+ },
+ {
+  "id": "jerga",
+  "title": "Tuani, maje, chocho — and Who Can Say Them",
+  "min": 3,
+  "trigger": [
+   "tuani",
+   "maje",
+   "chocho",
+   "deacachimba",
+   "jerga",
+   "chavalo"
+  ],
+  "text": "• tuani — good, nice. Safe with almost anybody now.\n• deacachimba — the same but much stronger. Friends only.\n• chocho — an exclamation. Surprise, price, heat, anything.\n• maje — mate, but also idiot. Tone decides.\n• chavalo/a — kid, young person.\n\nTHE RULE IS NOT THE WORD, IT IS WHO HEARS IT. Deacachimba among teenagers is nothing. Out of a married man's mouth in front of a woman of eighty it is a different word entirely.\n\nAsk before you use a new one: who says it, and in front of whom."
+ },
+ {
+  "id": "exagerar",
+  "title": "Un montón, un cachimbo, ni de vara",
+  "min": 3,
+  "trigger": [
+   "montón",
+   "cachimbo",
+   "vara",
+   "exagerar"
+  ],
+  "text": "Exaggerating here is not lying. A story is expected to grow, and correcting the size is bad manners.\n\n• un montón de — loads of (mild, safe anywhere)\n• un cachimbo de — loads of (strong, friends only)\n• ni de vara — not a chance\n\n'Ni de vara' is stronger than no. A no can be argued with; ni de vara ends it and gets a laugh.\n\nDon Beto's fish has been growing for twenty years. Nobody has ever asked him how big it really was."
+ },
+ {
+  "id": "muletillas",
+  "title": "Pues, va, fijate, ideay",
+  "min": 4,
+  "trigger": [
+   "pues",
+   "ideay",
+   "fijate",
+   "mirá",
+   "dale"
+  ],
+  "text": "Half of a Nicaraguan conversation is not words. Take them out and people will ask what is wrong with you.\n\n• pues — closes a sentence. Dale pues, va pues, ya pues\n• va — a tiny question at the end, asking for agreement\n• fijate — something that matters is coming\n• imaginate — something unbelievable is coming\n• ideay — hello, or a complaint. Tone decides\n\nSilence gets covered too. Three seconds of nothing is uncomfortable and somebody will put an 'aha' or an 'mmm' into it.\n\nSpeaking without them sounds like a doctor reading from a paper."
+ },
+ {
+  "id": "reportado",
+  "title": "Dicen que — Saying It Without Owning It",
+  "min": 3,
+  "trigger": [
+   "chisme",
+   "contar",
+   "decir",
+   "vecina",
+   "barrio"
+  ],
+  "text": "Gossip is how the barrio finds out about a wake, a birth, or a job. It is the newspaper, and it has its own grammar.\n\n• Dicen que...\n• Me contaron que...\n• Oí decir que...\n• Por ahí me dijeron\n\nNone of these ever names a source. That is the point: the teller is not responsible for it.\n\nThe rule that follows: anything you tell one mouth belongs to the barrio. There are no closed mouths, only slower ones."
+ },
+ {
+  "id": "hora_nica",
+  "title": "Hora nica — When a Time Is Not a Time",
+  "min": 3,
+  "trigger": [
+   "ahorita",
+   "hora",
+   "tarde",
+   "llegar",
+   "esperar"
+  ],
+  "text": "An invitation for twelve means about half past one. Nobody is lying and nobody is late.\n\nWhat the phrases mean:\n• Ya voy — has not got up\n• Ya casi — an hour away\n• Voy en camino — is in the shower\n• Estoy a la vuelta — twenty minutes\n\nWhich times ARE real: anything with paperwork behind it. Work, the bus, mass, a hospital appointment.\n\nAnd one more that is always kept: a velorio. Everything else runs late; nobody arrives late to grief."
+ },
+ {
+  "id": "despedida",
+  "title": "The Goodbye Takes Forty Minutes",
+  "min": 3,
+  "trigger": [
+   "despedida",
+   "portón",
+   "abrazo",
+   "cuidar",
+   "insistir"
+  ],
+  "text": "Leaving a house has four stages and skipping them is rude.\n\n1. Say 'bueno' from the chair. Ten more minutes of talking.\n2. Stand up. Do not walk. Another ten.\n3. The portón. Twenty minutes, and this is where the real thing gets said — it is the only place with no witnesses.\n4. They walk you a block.\n\nIf you want to leave at nine, say 'bueno' at eight.\n\nThey insist you stay. Once is courtesy, twice is courtesy, three times means stay. Never say adiós — that is for the dead and for people leaving the country. Say nos vemos, cuidate."
+ },
+ {
+  "id": "depende",
+  "title": "Depende — Why Nobody Gives You a Straight Answer",
+  "min": 3,
+  "trigger": [
+   "depender",
+   "seguro",
+   "duda",
+   "respuesta",
+   "quizás"
+  ],
+  "text": "A definite answer commits the speaker, and somebody who commits can end up looking bad. Looking bad is worse here than not knowing.\n\nSo the answer hedges:\n• Depende — the strongest one\n• Más o menos — works for absolutely anything\n• Puede ser — sounds like yes, is a polite doubt\n• Digamos que — for the educated version\n• Fíjese que — an excuse is already attached\n\nSpeaking with certainty about everything reads as thinking a lot of yourself, which is the worst fault there is. Even the doctor says 'puede ser'.\n\nTo get a real answer, do not push for yes or no. Ask what it depends on, then ask what he thinks is more likely."
+ },
+ {
+  "id": "respeto",
+  "title": "Con todo respeto — Disagreeing Upwards",
+  "min": 3,
+  "trigger": [
+   "respeto",
+   "permiso",
+   "anciano",
+   "error",
+   "corregir"
+  ],
+  "text": "There are two hierarchies: the one on the paperwork, and the real one, which runs on age and years served.\n\nCorrecting somebody above you in the real one has a shape:\n1. Ask leave first — 'Con todo respeto', 'Si me permite'\n2. Put the fault on yourself — 'Yo debo estar equivocado, pero...'\n3. Let HIM find it and fix it. Do not fix it for him.\n\nContradicting an older man is not forbidden. Contradicting him IN FRONT OF PEOPLE is. In private you can say almost anything.\n\nAfterwards nobody mentions it again. That silence is the point of the whole manoeuvre."
+ },
+ {
+  "id": "excusa",
+  "title": "Es que fíjese — The Reason Repairs the Relationship",
+  "min": 3,
+  "trigger": [
+   "motivo",
+   "excusa",
+   "atrasarse",
+   "entrega",
+   "culpa"
+  ],
+  "text": "A delay with no reason is disrespect. A delay with a reason is only a delay. The reason does not fix the job, it fixes the relationship - and the relationship is what is being looked after.\n\nThe shape, every time:\n• Es que... (a reason is coming, not a no)\n• fíjese / fijate (usted or vos, pick correctly)\n• the reason, which happened TO him and is never his fault\n• a NEW DATE - and that date is the real promise\n\nHe will talk first, before you can complain. That is deliberate: a complaint that never gets made is a wound that never happens.\n\nNot complaining the first time buys you priority the next time."
+ },
+ {
+  "id": "suavizar",
+  "title": "Quería preguntarle — The Past Tense as Politeness",
+  "min": 3,
+  "trigger": [
+   "querer",
+   "preguntar",
+   "favor",
+   "pedir",
+   "delicado"
+  ],
+  "text": "Wanting something in the present is blunt. Put it in the past and it softens, even though you want it right now.\n\n• Quiero preguntarle → Quería preguntarle\n• Vengo a pedirle → Venía a ver si podía pedirle\n• Estaba pensando que tal vez usted podría... (three softeners in one sentence)\n\nAnd the phrase that warns something heavy is coming: 'No hallaba cómo decirle.'\n\nBad news and big requests are never dropped on somebody. You talk about the heat and the gas for fifteen minutes first. That is not padding, it is the preparation."
+ },
+ {
+  "id": "uno",
+  "title": "Uno — Saying I Without Saying I",
+  "min": 3,
+  "trigger": [
+   "uno",
+   "pasar",
+   "doler",
+   "acostumbrarse",
+   "confianza"
+  ],
+  "text": "'Uno' means one, and it means me.\n\n• Uno se queda pensando en esas cosas\n• A uno le duele por años y no lo dice\n\nBoth of those are about the speaker, and everybody knows it. The distance is what makes them sayable at all.\n\nWatch when people switch. Happy things get 'yo': 'yo compré la moto'. Hard things get 'uno'. Joy is signed; pain is left anonymous.\n\nIt also carries a complaint nobody can answer: 'Uno hace las cosas y nadie se lo agradece.' No one was accused, so no one can argue.\n\nThe one place it does not belong is with the person closest to you. Being able to say 'yo' with no distance in front of it is what confianza actually is."
+ },
+ {
+  "id": "indirecta",
+  "title": "The Hint, and How It Is Answered",
+  "min": 3,
+  "trigger": [
+   "indirecta",
+   "techo",
+   "ayudar",
+   "ofrecer",
+   "pedir"
+  ],
+  "text": "A straight request obliges the other person to say yes or no, and a no leaves them both looking bad. So the request is not made.\n\nHOW IT IS THROWN: state a problem, ask for nothing, change the subject immediately. 'Y ahí el techo goteando desde mayo.' Then talk about something else.\n\nIt is thrown ONCE. Repeating it turns it into a complaint.\n\nHOW IT IS ANSWERED: you offer, as though it were your own idea. Never '¿quiere que se lo arregle?' - that says out loud that she asked. Say 'el domingo ando por allá, llevo la escalera'.\n\nShe will refuse once. That refusal is part of it. Insist once and it is agreed. And nobody says thank you afterwards - lunch is the thank you."
+ },
+ {
+  "id": "ni_modo",
+  "title": "Ni modo — What It Is Actually For",
+  "min": 3,
+  "trigger": [
+   "aguantar",
+   "reclamar",
+   "suerte",
+   "vida",
+   "rabia"
+  ],
+  "text": "It looks like giving up. It is not the first answer, it is the twelfth.\n\n• Ni modo\n• Qué se le va a hacer\n• Así es la vida\n• Es lo que hay\n• Dios sabe lo que hace\n\nThe man who says it has already complained, already lost and already put up with it. Somebody went to the alcaldía eleven times about that drain.\n\nWhat it does: it gets the anger out of the body in two words, so it does not come out at the wife and the children instead. It is a way of holding out without breaking.\n\nAnd it is not the same as doing nothing. You can say ni modo tonight and still go to the alcaldía on Monday."
+ },
+ {
+  "id": "transiciones",
+  "title": "Hablando de eso — Steering Without Pushing",
+  "min": 3,
+  "trigger": [
+   "tema",
+   "conversación",
+   "aprovechar",
+   "hablar",
+   "contar"
+  ],
+  "text": "You do not raise a difficult subject. You arrive at it on foot.\n\n• Hablando de eso — hooks any subject to any other. Nobody ever checks whether you really were talking about that\n• Por cierto — sounds like you just remembered\n• Volviendo a lo de antes — reopens something dropped\n• Aprovechando que estamos aquí — the softest way into a request\n\nPut one or two subjects in between. You do not jump from the baseball to the money.\n\nThe rule underneath: a conversation is LED, not pushed. Same as the dance floor - you signal what is coming with your hand, and the other person arrives with you without feeling moved."
+ },
+ {
+  "id": "tono_serio",
+  "title": "Ya en serio — The Moment the Joking Stops",
+  "min": 3,
+  "trigger": [
+   "serio",
+   "verdad",
+   "broma",
+   "vacilar",
+   "escuchar"
+  ],
+  "text": "An evening of teasing can turn in one word, usually around eleven.\n\nThe signals:\n• Ya en serio\n• La verdad es que...\n• Te voy a decir una cosa\n• Somebody stops laughing before the others - the hardest one to see and the most important\n\nAnswering the new tone in the old one is the worst mistake available. It is the same as laughing at a wake.\n\nIn this register nobody interrupts, where in the joking one everybody does. Two different sets of rules at the same table.\n\nAfterwards it is never mentioned again in the group. If you want to ask, ask alone, at the door."
+ },
+ {
+  "id": "citar",
+  "title": "Como decía mi abuela — Quoting the Dead",
+  "min": 3,
+  "trigger": [
+   "abuela",
+   "refrán",
+   "discutir",
+   "decir",
+   "razón"
+  ],
+  "text": "A living person can be argued with. A dead grandmother cannot.\n\n• Como decía mi abuela...\n• Mi papá siempre dijo que...\n\nIt ends the argument, and not because it is a good point. Contradicting somebody's dead mother is a rudeness nobody will commit.\n\nA refrán does the same job without a name attached, which is why quoting one also closes a subject.\n\nWhether she really said it is the one question that is never asked. Very often the quote finishes an idea the dead person held all their life and never put into a sentence. That is not misquoting - here it counts as finishing it for them."
+ }
+]

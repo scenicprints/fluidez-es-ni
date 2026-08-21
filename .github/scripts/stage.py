@@ -152,6 +152,71 @@ def main():
              stats.get("reach_ten", 0)))
     print("one-scene  %d word(s) exempt from RETURN, taught hard in one story"
           % stats.get("one_scene", 0))
+    # Patterns are gated on vocabulary: screens.js counts how many of a
+    # pattern's trigger words the learner has an exposure against, and shows it
+    # once that reaches `min`. Exposures are recorded against the RESOLVED
+    # LEMMA -- store.recordExposure is handed resolve(cleanWord(raw)) -- so a
+    # trigger that is a conjugated form has no vocab entry and can never be
+    # met. That is not theoretical: the shipped ser_estar pattern listed soy,
+    # es, son, estoy, esta and estan with min 4, every one of them a form, and
+    # could not unlock for anybody, ever.
+    #
+    # So a trigger has to be a dictionary key, and it has to occur somewhere in
+    # the course, or nobody can earn it.
+    pattern_problems = []
+    # Which lemmas the reader can actually land an exposure on. Exposures go
+    # against the resolved lemma, so 'amar' is earnable from every 'te amo'
+    # even though the string 'amar' never appears in the course.
+    earned = set()
+    for w in seen:
+        if w in dictionary:
+            earned.add(w)
+        elif w in word_forms:
+            earned.add(word_forms[w])
+    patterns, core_ids, listed = [], set(), set()
+    for rel in read(os.path.join(content, "manifest.json")).get("patterns", []):
+        rows = read(os.path.join(content, rel))
+        rows = rows if isinstance(rows, list) else [rows]
+        patterns.extend(rows)
+        core_ids.update(x.get("id") for x in rows)
+        listed.add(os.path.basename(rel))
+    pat_dir = os.path.join(content, "patterns")
+    if os.path.isdir(pat_dir):
+        for name in sorted(os.listdir(pat_dir)):
+            if name.endswith(".json") and name not in listed:
+                rows = read(os.path.join(pat_dir, name))
+                patterns.extend(rows if isinstance(rows, list) else [rows])
+    seen_ids = set()
+    for pat in patterns:
+        pid = pat.get("id") or "?"
+        if pid in seen_ids:
+            pattern_problems.append("duplicate pattern id: %s" % pid)
+        seen_ids.add(pid)
+        if not pat.get("title") or not pat.get("text"):
+            pattern_problems.append("pattern %s is half written" % pid)
+        trig = pat.get("trigger") or []
+        if not trig:
+            pattern_problems.append("pattern %s has no trigger" % pid)
+            continue
+        earnable = []
+        for t in trig:
+            if t not in dictionary:
+                pattern_problems.append(
+                    "pattern %s triggers on %r, which is not a dictionary entry - "
+                    "exposures are keyed on the lemma, so it can never be met"
+                    % (pid, t))
+            elif t not in earned:
+                pattern_problems.append(
+                    "pattern %s triggers on %r, which never occurs in the course"
+                    % (pid, t))
+            else:
+                earnable.append(t)
+        need = pat.get("min", 3)
+        if need > len(earnable):
+            pattern_problems.append(
+                "pattern %s needs %d triggers and only %d can ever be earned"
+                % (pid, need, len(earnable)))
+
     by_phase = {}
     for sc in scenes:
         by_phase[sc.get("ph")] = by_phase.get(sc.get("ph"), 0) + 1
@@ -162,6 +227,10 @@ def main():
           % (len(scenes), sum(1 for sc in scenes if sc.get("id") in published),
              " ".join("%s:%d" % (k, by_phase[k]) for k in sorted(by_phase))))
     for p_ in scene_problems[:25]:
+        print("PROBLEM: %s" % p_)
+    print("patterns   %d written (%d published)"
+          % (len(patterns), sum(1 for x in patterns if x.get("id") in core_ids)))
+    for p_ in pattern_problems[:25]:
         print("PROBLEM: %s" % p_)
     for p in problems[:25]:
         print("PROBLEM: %s" % p)
@@ -201,7 +270,8 @@ def main():
         print("entries    %d words used but not in the dictionary "
               "(plan/needs-entry.txt)" % len(missing))
 
-    return len(off) + len(problems) + len(stray) + len(scene_problems)
+    return (len(off) + len(problems) + len(stray) + len(scene_problems)
+            + len(pattern_problems))
 
 
 if __name__ == "__main__":

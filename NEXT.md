@@ -81,14 +81,29 @@ Two things learned while writing them, worth keeping:
 
 **Still out of `manifest.json`**, same as the lessons.
 
-### 2. Patterns — 5 exist, grow to ~50
+### 2. ~~Patterns~~ — DONE. 5 became 52
 
-`content/patterns/`. Same `trigger` + `min` vocabulary gating as the existing
-ones. There is a lot of new material to draw on: the hedging set (depende, más
-o menos, puede ser), the soft-no set (tal vez después, quizás, vamos a ver),
-the openers (sabe qué, fíjete que, ideay, oiga, con permiso), the closers (ni
-modo, qué se le va a hacer), the transitions (hablando de eso, por cierto,
-aprovechando).
+47 new ones in `content/patterns/spine.json`, and the original five in
+`core.json` repaired. They run from `saludos` and `usted_vos` through the
+tenses to `depende`, `indirecta`, `ni modo`, `uno`, `tono_serio` and `citar`.
+
+**A trigger has to be a dictionary LEMMA that the course can actually teach.**
+`screens.js` counts how many of a pattern's triggers the learner has an
+exposure against, and exposures are recorded against the *resolved lemma* —
+`store.recordExposure` is handed `resolve(cleanWord(raw))`. So:
+
+- A conjugated form as a trigger has no vocab entry and **can never be met**.
+  The shipped `ser_estar` listed `soy es son estoy está están` with `min: 4`.
+  Every one is a form. It could not unlock for anybody, ever. `me_gusta` was
+  dead too — one of its three triggers never occurs in the course.
+- The lemma does *not* have to appear as itself. `amar` is earnable from every
+  `te amo`, because that resolves to `amar`. Check reachability through
+  `forms`, not against the raw text.
+
+`stage.py` now enforces both, and `pats.py`-style emitters should validate
+before writing. **Do not hand-write a trigger list without running stage.py.**
+
+`spine.json` is deliberately **not** in the manifest yet — see Publishing.
 
 ### 3. Verbs — expand `content/verbs.json`
 
@@ -177,12 +192,23 @@ until the scenes, patterns and verbs jobs above are done, because dropping a
 half-finished course into the middle of the old one only confuses Kevin, who
 uses the app daily.
 
-When those three jobs are done and the gates are clean:
+When those three jobs are done and the gates are clean, `manifest.json` needs
+**four** edits, not one. Everything written since the rewrite began is sitting
+on disk unlisted, and `build-pack.py` only ever loads what the manifest names:
 
-1. Replace the `lessons` list in `content/manifest.json` with the spine ids.
-2. Delete `content/lessons/s*.json` (the old 81).
-3. Push. CI rebuilds `content/pack.json` and every app picks it up with **no
-   app release**.
+1. Replace the `lessons` list with the spine ids (`p0-01` … `p7-18`).
+2. Replace the `scenarios` list with all 95 — each row is
+   `{id, title, desc, phase, path}` and `phase` comes from the file's `ph`.
+   There is a helper shape to copy in the existing rows.
+3. Add `"patterns/spine.json"` to the `patterns` list, beside `core.json`.
+4. Delete `content/lessons/s*.json` (the old 81).
+
+Then push. CI rebuilds `content/pack.json` and every app picks it up with **no
+app release**.
+
+Run `python .github/scripts/stage.py --root .` first and last. Its `written`,
+`scenes` and `patterns` lines each print how many are published versus how many
+exist, so the gap tells you what the manifest is still missing.
 
 ---
 
