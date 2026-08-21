@@ -17,6 +17,7 @@ lesson stays "edit the JSON, commit" and nothing else.
 import argparse, io, json, os, sys
 
 import forms as morphology
+import dialect as nica
 
 NEWLINE = chr(10)
 
@@ -252,6 +253,24 @@ def main():
         "momo": momo,
     }
 
+    # Is this actually Nicaraguan Spanish?
+    #
+    # A tu form here, a Mexicanism there, and somebody finishes the course
+    # sounding like a telenovela. None of it is visible by reading a lesson,
+    # because it hides one word at a time across a hundred thousand - so it is
+    # a build gate, exactly like the JSON validation. Lines that exist to TEACH
+    # the difference are listed in content/dialect-allow.json.
+    allow = {}
+    allow_path = os.path.join(content_dir, "dialect-allow.json")
+    if os.path.exists(allow_path):
+        try:
+            allow = read(allow_path) or {}
+        except ValueError as e:
+            problems.append("dialect-allow.json is not valid JSON (%s)" % e)
+    off_dialect, voseo_count = nica.check(pack, allow)
+    for where, word, why, text in off_dialect:
+        problems.append("%s says %r - %s: %s" % (where, word, why, text[:70]))
+
     if problems:
         for p in problems:
             print("ERROR: %s" % p)
@@ -273,6 +292,7 @@ def main():
           (len(lessons), len(scenarios), len(dictionary), len(patterns),
            ", verbs" if verbs else ""))
     print("features   %s" % ", ".join(features))
+    print("dialect    Nicaraguan - %d voseo forms, 0 off-dialect" % voseo_count)
 
     # What the reader can and cannot look up. A word with no entry and no form
     # is a word the learner taps and nothing happens, so the number is worth

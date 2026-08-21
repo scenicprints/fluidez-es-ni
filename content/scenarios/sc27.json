@@ -11,7 +11,7 @@
       "en": "Dude, with that accent you still sound like a lost gringo.",
       "options": [
         { "es": "Y vos con esa panza ya sos dos majes.", "en": "And you with that belly are already two dudes.", "verdict": "good", "feedback": "Perfect — you teased right back. That's exactly how you earn respect here." },
-        { "es": "Oye, eso me ofende.", "en": "Hey, that offends me.", "verdict": "bad", "feedback": "Taking it personally kills the fun. Among friends, teasing is affection — roll with it." },
+        { "es": "Ideay, eso me ofende.", "en": "Hey, that offends me.", "verdict": "bad", "feedback": "Taking it personally kills the fun. Among friends, teasing is affection — roll with it." },
         { "es": "Jaja, al menos aprendí, ¿no?", "en": "Haha, at least I learned, right?", "verdict": "ok", "feedback": "Good-natured and fine — though firing back a joke would land even better." }
       ]
     },

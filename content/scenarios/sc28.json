@@ -32,7 +32,7 @@
       "options": [
         { "es": "Claro, maje. Para una birra siempre, ¿va?", "en": "Of course, dude. For a beer always, right?", "verdict": "good", "feedback": "You kept it warm and light — reading the room and keeping the friendship easy. Spot on." },
         { "es": "Ya veo, solo no querías ayudar a mover.", "en": "I see, you just didn't want to help move.", "verdict": "bad", "feedback": "Calling out the soft no embarrasses him. The unspoken deal is you both pretend. Let it be." },
-        { "es": "Vale, gracias de todos modos.", "en": "Okay, thanks anyway.", "verdict": "ok", "feedback": "Polite and fine, though a warmer note would keep the bond stronger." }
+        { "es": "Va pues, gracias de todos modos.", "en": "Okay, thanks anyway.", "verdict": "ok", "feedback": "Polite and fine, though a warmer note would keep the bond stronger." }
       ]
     },
     {
