@@ -1,0 +1,219 @@
+{
+ "id": "p1-14",
+ "title": "El almuerzo",
+ "desc": "Lunch is the real meal",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "almuerzo",
+  "señalar",
+  "sopa",
+  "refresco"
+ ],
+ "sn": [
+  {
+   "s": "El almuerzo aquí es a las doce.",
+   "e": "Lunch here is at twelve."
+  },
+  {
+   "s": "No a la una ni a las dos.",
+   "e": "Not at one or at two."
+  },
+  {
+   "s": "A las doce, al mediodía.",
+   "e": "At twelve, at midday."
+  },
+  {
+   "s": "A esa hora todo se para.",
+   "e": "At that hour everything stops."
+  },
+  {
+   "s": "Las oficinas cierran una hora.",
+   "e": "The offices close for an hour."
+  },
+  {
+   "s": "La gente sale a buscar almuerzo.",
+   "e": "People go out to look for lunch."
+  },
+  {
+   "s": "El almuerzo es la comida grande del día.",
+   "e": "Lunch is the big meal of the day."
+  },
+  {
+   "s": "En la noche se come poco.",
+   "e": "At night people eat little."
+  },
+  {
+   "s": "En la mañana se come gallo pinto.",
+   "e": "In the morning they eat gallo pinto."
+  },
+  {
+   "s": "Pero al mediodía se come de verdad.",
+   "e": "But at midday they eat properly."
+  },
+  {
+   "s": "Voy a un comedor cerca del trabajo.",
+   "e": "I go to a comedor near work."
+  },
+  {
+   "s": "Un comedor no es un restaurante.",
+   "e": "A comedor is not a restaurant."
+  },
+  {
+   "s": "Un comedor es una casa con mesas.",
+   "e": "A comedor is a house with tables."
+  },
+  {
+   "s": "No hay menú en la pared.",
+   "e": "There is no menu on the wall."
+  },
+  {
+   "s": "Hay ollas grandes en un mostrador.",
+   "e": "There are big pots on a counter."
+  },
+  {
+   "s": "Cada olla tiene una cosa distinta.",
+   "e": "Each pot has something different in it."
+  },
+  {
+   "s": "Uno mira las ollas y señala.",
+   "e": "You look at the pots and point."
+  },
+  {
+   "s": "Señalar es todo el idioma que hace falta.",
+   "e": "Pointing is all the language you need."
+  },
+  {
+   "s": "\"¿Qué va a llevar?\", pregunta la señora.",
+   "e": "\"What are you having?\" the woman asks."
+  },
+  {
+   "s": "Yo señalo la olla del pollo.",
+   "e": "I point at the chicken pot."
+  },
+  {
+   "s": "Señalo el arroz y los frijoles.",
+   "e": "I point at the rice and the beans."
+  },
+  {
+   "s": "Señalo la ensalada de repollo.",
+   "e": "I point at the cabbage salad."
+  },
+  {
+   "s": "Ella me sirve un plato lleno.",
+   "e": "She serves me a full plate."
+  },
+  {
+   "s": "El plato está muy lleno.",
+   "e": "The plate is very full."
+  },
+  {
+   "s": "Está más lleno de lo que puedo comer.",
+   "e": "It is fuller than I can eat."
+  },
+  {
+   "s": "El almuerzo trae sopa a veces.",
+   "e": "Lunch sometimes comes with soup."
+  },
+  {
+   "s": "Sopa de res o sopa de pollo.",
+   "e": "Beef soup or chicken soup."
+  },
+  {
+   "s": "Los lunes hay sopa de mondongo.",
+   "e": "On Mondays there is mondongo soup."
+  },
+  {
+   "s": "Los viernes hay pescado.",
+   "e": "On Fridays there is fish."
+  },
+  {
+   "s": "El pescado de los viernes es por la iglesia.",
+   "e": "The Friday fish is because of the church."
+  },
+  {
+   "s": "Aunque mucha gente ya no va a la iglesia.",
+   "e": "Even though a lot of people no longer go to church."
+  },
+  {
+   "s": "El pescado se quedó igual.",
+   "e": "The fish stayed anyway."
+  },
+  {
+   "s": "Con el almuerzo viene un refresco.",
+   "e": "With lunch comes a refresco."
+  },
+  {
+   "s": "El refresco no es una gaseosa.",
+   "e": "A refresco is not a fizzy drink."
+  },
+  {
+   "s": "El refresco es agua con fruta.",
+   "e": "A refresco is water with fruit."
+  },
+  {
+   "s": "Hay refresco de cacao, de tamarindo, de calala.",
+   "e": "There is cacao, tamarind and passionfruit refresco."
+  },
+  {
+   "s": "El refresco viene en un vaso grande.",
+   "e": "The refresco comes in a big glass."
+  },
+  {
+   "s": "Y está muy dulce, siempre.",
+   "e": "And it is always very sweet."
+  },
+  {
+   "s": "Todo el almuerzo cuesta setenta pesos.",
+   "e": "The whole lunch costs seventy pesos."
+  },
+  {
+   "s": "Setenta pesos por sopa, plato y refresco.",
+   "e": "Seventy pesos for soup, a plate and a drink."
+  },
+  {
+   "s": "Después del almuerzo la gente va despacio.",
+   "e": "After lunch people move slowly."
+  },
+  {
+   "s": "A la una nadie tiene prisa.",
+   "e": "At one o'clock nobody is in a hurry."
+  },
+  {
+   "s": "Con ese calor y ese plato, nadie corre.",
+   "e": "In that heat and after that plate, nobody runs."
+  },
+  {
+   "s": "Al principio yo comía a las dos.",
+   "e": "At first I used to eat at two."
+  },
+  {
+   "s": "A las dos los comedores están cerrando.",
+   "e": "At two the comedores are closing."
+  },
+  {
+   "s": "A las dos ya no queda pollo.",
+   "e": "At two there is no chicken left."
+  },
+  {
+   "s": "Sólo queda lo que nadie quiso.",
+   "e": "Only what nobody wanted is left."
+  },
+  {
+   "s": "Ahora almuerzo a las doce como todos.",
+   "e": "Now I have lunch at twelve like everybody."
+  },
+  {
+   "s": "Y en la noche como poco.",
+   "e": "And at night I eat little."
+  },
+  {
+   "s": "Ya no tengo hambre a horas raras.",
+   "e": "I am not hungry at odd hours any more."
+  },
+  {
+   "s": "El cuerpo se acomodó al horario de aquí.",
+   "e": "My body settled into the hours here."
+  }
+ ]
+}

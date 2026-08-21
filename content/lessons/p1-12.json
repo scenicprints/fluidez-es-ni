@@ -1,0 +1,229 @@
+{
+ "id": "p1-12",
+ "title": "En la ferretería",
+ "desc": "Buying things by describing them",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "chunche",
+  "cosa",
+  "clavo",
+  "tamaño",
+  "servir",
+  "saber"
+ ],
+ "sn": [
+  {
+   "s": "Se me quebró una silla.",
+   "e": "A chair of mine broke."
+  },
+  {
+   "s": "Necesito algo para arreglarla.",
+   "e": "I need something to fix it."
+  },
+  {
+   "s": "Voy a la ferretería.",
+   "e": "I go to the hardware shop."
+  },
+  {
+   "s": "Adentro hay de todo.",
+   "e": "Inside there is everything."
+  },
+  {
+   "s": "Hay clavos de muchos tamaños.",
+   "e": "There are nails in many sizes."
+  },
+  {
+   "s": "Hay tornillos, martillos y pintura.",
+   "e": "There are screws, hammers and paint."
+  },
+  {
+   "s": "Hay cosas que no sé cómo se llaman.",
+   "e": "There are things I do not know the name of."
+  },
+  {
+   "s": "Y justo esa cosa es la que necesito.",
+   "e": "And that is exactly the thing I need."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "\"Buenas. ¿Qué anda buscando?\"",
+   "e": "\"Buenas. What are you after?\""
+  },
+  {
+   "s": "No sé la palabra.",
+   "e": "I do not know the word."
+  },
+  {
+   "s": "Me quedo callado un momento.",
+   "e": "I stay quiet for a moment."
+  },
+  {
+   "s": "Después empiezo a describir.",
+   "e": "Then I start to describe it."
+  },
+  {
+   "s": "\"Es una cosa de metal\", digo yo.",
+   "e": "\"It is a metal thing,\" I say."
+  },
+  {
+   "s": "\"Es pequeña, de este tamaño.\"",
+   "e": "\"It is small, about this size.\""
+  },
+  {
+   "s": "Le enseño el tamaño con los dedos.",
+   "e": "I show him the size with my fingers."
+  },
+  {
+   "s": "\"Sirve para pegar dos maderas.\"",
+   "e": "\"It is for joining two pieces of wood.\""
+  },
+  {
+   "s": "\"Y se mete con un martillo.\"",
+   "e": "\"And you put it in with a hammer.\""
+  },
+  {
+   "s": "El señor no duda.",
+   "e": "The man does not hesitate."
+  },
+  {
+   "s": "\"Un clavo\", dice él.",
+   "e": "\"A nail,\" he says."
+  },
+  {
+   "s": "\"Un clavo\", repito yo.",
+   "e": "\"A nail,\" I repeat."
+  },
+  {
+   "s": "\"¿De qué tamaño lo quiere?\"",
+   "e": "\"What size do you want?\""
+  },
+  {
+   "s": "Le enseño el tamaño otra vez.",
+   "e": "I show him the size again."
+  },
+  {
+   "s": "Me da una bolsa de clavos.",
+   "e": "He gives me a bag of nails."
+  },
+  {
+   "s": "Después necesito otra cosa.",
+   "e": "Then I need another thing."
+  },
+  {
+   "s": "Otra vez no sé la palabra.",
+   "e": "Again I do not know the word."
+  },
+  {
+   "s": "\"¿Y ese chunche cómo se llama?\", pregunto.",
+   "e": "\"And what is that chunche called?\" I ask."
+  },
+  {
+   "s": "Señalo una cosa en la pared.",
+   "e": "I point at something on the wall."
+  },
+  {
+   "s": "El señor me dice el nombre.",
+   "e": "The man tells me the name."
+  },
+  {
+   "s": "Y yo aprendo una palabra más.",
+   "e": "And I learn one more word."
+  },
+  {
+   "s": "Después le pregunto a Roberto por chunche.",
+   "e": "Afterwards I ask Roberto about chunche."
+  },
+  {
+   "s": "\"Chunche es cualquier cosa\", dice él.",
+   "e": "\"Chunche is any thing,\" he says."
+  },
+  {
+   "s": "\"Si no sabés cómo se llama, es un chunche.\"",
+   "e": "\"If you don't know what it's called, it's a chunche.\""
+  },
+  {
+   "s": "\"Pasame ese chunche.\"",
+   "e": "\"Pass me that chunche.\""
+  },
+  {
+   "s": "\"Quitá ese chunche de ahí.\"",
+   "e": "\"Move that chunche out of the way.\""
+  },
+  {
+   "s": "\"¿Y de dónde viene esa palabra?\", pregunto.",
+   "e": "\"And where does that word come from?\" I ask."
+  },
+  {
+   "s": "\"No sé. Siempre se ha dicho.\"",
+   "e": "\"I don't know. It's always been said.\""
+  },
+  {
+   "s": "Hay otra palabra parecida: chereque.",
+   "e": "There is another word like it: chereque."
+  },
+  {
+   "s": "Un chereque es una cosa vieja.",
+   "e": "A chereque is an old thing."
+  },
+  {
+   "s": "Un chereque es una cosa que ya no sirve.",
+   "e": "A chereque is a thing that is no use any more."
+  },
+  {
+   "s": "\"Botá esos chereques\", dice doña Carmen.",
+   "e": "\"Throw those chereques out,\" doña Carmen says."
+  },
+  {
+   "s": "Con chunche y cosa uno se salva de todo.",
+   "e": "With chunche and cosa you get out of anything."
+  },
+  {
+   "s": "No hay que saber la palabra exacta.",
+   "e": "You do not need to know the exact word."
+  },
+  {
+   "s": "Hay que describir y señalar.",
+   "e": "You need to describe and point."
+  },
+  {
+   "s": "El tamaño, el color, para qué sirve.",
+   "e": "The size, the colour, what it is for."
+  },
+  {
+   "s": "Con eso alcanza.",
+   "e": "That is enough."
+  },
+  {
+   "s": "La gente aquí adivina rápido.",
+   "e": "People here guess fast."
+  },
+  {
+   "s": "Están acostumbrados a explicar cosas.",
+   "e": "They are used to explaining things."
+  },
+  {
+   "s": "Arreglo la silla con los clavos.",
+   "e": "I fix the chair with the nails."
+  },
+  {
+   "s": "Queda medio torcida pero sirve.",
+   "e": "It ends up a bit crooked but it works."
+  },
+  {
+   "s": "Doña Carmen se sienta en ella.",
+   "e": "Doña Carmen sits on it."
+  },
+  {
+   "s": "\"Sirve\", dice ella.",
+   "e": "\"It works,\" she says."
+  },
+  {
+   "s": "Y aquí eso es lo importante.",
+   "e": "And here that is what matters."
+  }
+ ]
+}

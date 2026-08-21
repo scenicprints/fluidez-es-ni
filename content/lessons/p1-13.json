@@ -1,0 +1,223 @@
+{
+ "id": "p1-13",
+ "title": "Los mangos",
+ "desc": "Fruit falls on the roof for a month",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "mango",
+  "caer",
+  "verde",
+  "regalar"
+ ],
+ "sn": [
+  {
+   "s": "En abril empiezan a caer los mangos.",
+   "e": "In April the mangoes start to fall."
+  },
+  {
+   "s": "Hay un árbol de mango en el patio de al lado.",
+   "e": "There is a mango tree in the patio next door."
+  },
+  {
+   "s": "El árbol es grande y viejo.",
+   "e": "The tree is big and old."
+  },
+  {
+   "s": "El árbol está lleno de mangos.",
+   "e": "The tree is full of mangoes."
+  },
+  {
+   "s": "Los mangos caen solos.",
+   "e": "The mangoes fall on their own."
+  },
+  {
+   "s": "Caen de noche sobre el techo.",
+   "e": "They fall at night onto the roof."
+  },
+  {
+   "s": "El primer mango que cae me despierta.",
+   "e": "The first mango that falls wakes me up."
+  },
+  {
+   "s": "Suena como una piedra en el techo.",
+   "e": "It sounds like a stone on the roof."
+  },
+  {
+   "s": "Me levanto asustado.",
+   "e": "I get up startled."
+  },
+  {
+   "s": "Salgo a ver qué pasó.",
+   "e": "I go out to see what happened."
+  },
+  {
+   "s": "No pasó nada.",
+   "e": "Nothing happened."
+  },
+  {
+   "s": "Cayó un mango.",
+   "e": "A mango fell."
+  },
+  {
+   "s": "Después caen tres más esa noche.",
+   "e": "Then three more fall that night."
+  },
+  {
+   "s": "Y en un mes uno se acostumbra.",
+   "e": "And in a month you get used to it."
+  },
+  {
+   "s": "Ya no me despierta un mango.",
+   "e": "A mango does not wake me any more."
+  },
+  {
+   "s": "En la mañana los chavalos recogen los mangos.",
+   "e": "In the morning the kids pick up the mangoes."
+  },
+  {
+   "s": "Los recogen del patio y de la calle.",
+   "e": "They pick them up from the patio and the street."
+  },
+  {
+   "s": "Hay tantos mangos que nadie los cuenta.",
+   "e": "There are so many mangoes nobody counts them."
+  },
+  {
+   "s": "Hay mangos maduros y mangos verdes.",
+   "e": "There are ripe mangoes and green mangoes."
+  },
+  {
+   "s": "El mango maduro es dulce y amarillo.",
+   "e": "The ripe mango is sweet and yellow."
+  },
+  {
+   "s": "El mango maduro se come solo.",
+   "e": "The ripe mango is eaten on its own."
+  },
+  {
+   "s": "Se come con la mano y ensucia todo.",
+   "e": "You eat it with your hand and get in a mess."
+  },
+  {
+   "s": "El mango verde es otra cosa.",
+   "e": "The green mango is another thing."
+  },
+  {
+   "s": "El mango verde es duro y ácido.",
+   "e": "The green mango is hard and sour."
+  },
+  {
+   "s": "El mango verde se come con sal.",
+   "e": "The green mango is eaten with salt."
+  },
+  {
+   "s": "Con sal y a veces con chile.",
+   "e": "With salt and sometimes with chilli."
+  },
+  {
+   "s": "Los chavalos comen mango verde todo el día.",
+   "e": "The kids eat green mango all day."
+  },
+  {
+   "s": "Yo pruebo el mango verde con sal.",
+   "e": "I try green mango with salt."
+  },
+  {
+   "s": "Hace una cara rara en mi boca.",
+   "e": "It pulls a strange face in my mouth."
+  },
+  {
+   "s": "Pero después quiero otro.",
+   "e": "But then I want another."
+  },
+  {
+   "s": "La vecina de al lado me regala mangos.",
+   "e": "The neighbour next door gives me mangoes."
+  },
+  {
+   "s": "Me regala una bolsa llena.",
+   "e": "She gives me a full bag."
+  },
+  {
+   "s": "\"Gracias\", digo yo. \"Es mucho.\"",
+   "e": "\"Thank you,\" I say. \"It's a lot.\""
+  },
+  {
+   "s": "\"Llévese, llévese\", dice ella.",
+   "e": "\"Take them, take them,\" she says."
+  },
+  {
+   "s": "Al otro día me regala más.",
+   "e": "The next day she gives me more."
+  },
+  {
+   "s": "Y al otro día más.",
+   "e": "And the next day more."
+  },
+  {
+   "s": "Yo ya no puedo comer más mangos.",
+   "e": "I cannot eat any more mangoes."
+  },
+  {
+   "s": "Trato de rechazar la bolsa.",
+   "e": "I try to refuse the bag."
+  },
+  {
+   "s": "\"No, doña, ya tengo muchos.\"",
+   "e": "\"No, doña, I already have a lot.\""
+  },
+  {
+   "s": "Ella pone la bolsa en mis manos igual.",
+   "e": "She puts the bag in my hands anyway."
+  },
+  {
+   "s": "Rechazar aquí casi no se puede.",
+   "e": "Refusing here is nearly impossible."
+  },
+  {
+   "s": "Roberto me explica el problema.",
+   "e": "Roberto explains the problem to me."
+  },
+  {
+   "s": "\"No es que quiera darte mangos.\"",
+   "e": "\"It's not that she wants to give you mangoes.\""
+  },
+  {
+   "s": "\"Es que le sobran mangos.\"",
+   "e": "\"It's that she has mangoes to spare.\""
+  },
+  {
+   "s": "\"Si no los regala, se pudren.\"",
+   "e": "\"If she doesn't give them away, they rot.\""
+  },
+  {
+   "s": "Entonces yo regalo mangos también.",
+   "e": "So I give mangoes away too."
+  },
+  {
+   "s": "Le regalo mangos a doña Chepa.",
+   "e": "I give mangoes to doña Chepa."
+  },
+  {
+   "s": "Doña Chepa se ríe de mí.",
+   "e": "Doña Chepa laughs at me."
+  },
+  {
+   "s": "\"Yo también tengo un árbol\", dice ella.",
+   "e": "\"I have a tree as well,\" she says."
+  },
+  {
+   "s": "En abril nadie compra mangos.",
+   "e": "In April nobody buys mangoes."
+  },
+  {
+   "s": "En abril todos regalan mangos.",
+   "e": "In April everybody gives mangoes away."
+  },
+  {
+   "s": "Y en junio ya no hay ni uno.",
+   "e": "And by June there is not a single one."
+  }
+ ]
+}

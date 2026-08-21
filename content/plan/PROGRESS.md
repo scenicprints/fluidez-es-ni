@@ -2,12 +2,12 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**25 of 185 stories written** - 8,544 of ~148,000 running words.
+**34 of 185 stories written** - 11,458 of ~148,000 running words.
 
 | Phase | Written | Total |
 |---|---|---|
 | 0 | 16 | 16 |
-| 1 | 9 | 18 |
+| 1 | 18 | 18 |
 | 2 | 0 | 26 |
 | 3 | 0 | 26 |
 | 4 | 0 | 35 |
@@ -17,15 +17,6 @@ Written by `stage.py`. Do not edit by hand.
 
 ## Next to write
 
-- `p1-10` **El lago Cocibolca** - A freshwater sea
-- `p1-11` **La epoca seca** - Two seasons, and this is the hard one
-- `p1-12` **En la ferreteria** - Buying things by describing them
-- `p1-13` **Los mangos** - Fruit falls on the roof for a month
-- `p1-14` **El almuerzo** - Lunch is the real meal
-- `p1-15` **Un mandado** - Being sent to do errands
-- `p1-16` **El domingo** - The week has a shape
-- `p1-17` **Pinolillo** - The drink the country is named after
-- `p1-18` **Ya se llegar** - You can get anywhere now
 - `p2-01` **Como te llamas de verdad** - Names, and all the ones you get given
 - `p2-02` **La familia de Roberto** - Everyone is somebody's cousin
 - `p2-03` **Pase adelante** - Being invited in, and not being able to refuse
@@ -37,4 +28,13 @@ Written by `stage.py`. Do not edit by hand.
 - `p2-09` **Chavalos** - Children are everywhere and they are everyone's
 - `p2-10` **La iglesia** - Faith is not a private matter here
 - `p2-11` **El beisbol** - Not football. Baseball.
-- ... and 140 more in `plan/spine.json`
+- `p2-12` **Un favor** - Asking for something and owing something
+- `p2-13` **Que hiciste ayer** - Yesterday, and the day before
+- `p2-14` **Cuando era chavalo** - How people talk about the past that was ongoing
+- `p2-15` **La Gritería** - December 7, and the whole country shouts
+- `p2-16` **El mes de la patria** - September belongs to the country
+- `p2-17` **Flores amarillas** - September 21, and you had better not forget
+- `p2-18` **El dia de la madre** - May 30, and it is not negotiable
+- `p2-19` **Vamos a la playa** - Making a plan with six people
+- `p2-20` **Te presento a** - Introducing one person to another
+- ... and 131 more in `plan/spine.json`

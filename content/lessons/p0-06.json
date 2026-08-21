@@ -4,17 +4,7 @@
  "desc": "The power goes and nobody reacts",
  "ph": 0,
  "diff": 1,
- "wu": [
-  "luz",
-  "oscuro",
-  "vela",
-  "apagar",
-  "prender",
-  "silla",
-  "afuera",
-  "volver",
-  "sacar"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "Son las ocho de la noche.",

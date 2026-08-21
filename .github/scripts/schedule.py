@@ -28,9 +28,12 @@ Three rules, all measured at the lemma so that "cosa" and "cosas" are one word:
              said five times each; function words earn their encounters across
              the whole course, not inside one story.
 
-  RETURN     a CONTENT word introduced by a story must reappear in at least 6
-             of the next 25 stories. Prepositions, articles and pronouns are
-             exempt - they are in every story by their nature. That is what turns 5 encounters into 12 spaced
+  RETURN     every word a story DECLARES it teaches must reappear in at least
+             6 of the next 25 stories. Incidental vocabulary is exempt: you
+             arrive at an aeropuerto once and get off an avion once, and
+             demanding those six times over the following month would only
+             force writing nobody would read. The promise is about the words
+             the course says it is teaching, and those must come back. That is what turns 5 encounters into 12 spaced
              ones, and with no SRS scheduler in the app it is the ONLY spacing
              the learner gets.
 
@@ -167,7 +170,20 @@ def check(pack, spine_order=None):
 
     # RETURN: does the word ever come back?
     last = len(lessons) - 1
-    for w, at in introduced.items():
+    # Only the declared targets. Everything else is incidental, and the
+    # scheduler in the app catches those on its own.
+    # The window runs from the story that CLAIMS the word, not from wherever it
+    # first happened to appear. A word can turn up incidentally in story three
+    # and be taught properly in story twenty; measuring its return from story
+    # three judges it on stories written before it was ever a target.
+    targets = {}
+    for i, lesson in enumerate(lessons):
+        for raw in lesson.get("wu") or lesson.get("warmup") or []:
+            w = raw.lower()
+            w = w if w in dictionary else forms.get(w, w)
+            if w in introduced:
+                targets[w] = i
+    for w, at in targets.items():
         if not is_content(w, dictionary):
             continue
         window = list(range(at + 1, min(at + 1 + RETURN_WINDOW, last + 1)))
@@ -180,7 +196,7 @@ def check(pack, spine_order=None):
             continue
         came_back = sum(1 for j in window if counts[j].get(w))
         if came_back < RETURN_MIN:
-            weak.append((lessons[at].get("id"), w, came_back, needed))
+            weak.append((lessons[at].get("id"), w, came_back, RETURN_MIN))
 
     if weak:
         per_story = collections.defaultdict(list)

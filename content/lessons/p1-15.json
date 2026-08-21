@@ -1,0 +1,221 @@
+{
+ "id": "p1-15",
+ "title": "Un mandado",
+ "desc": "Being sent to do errands",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "mandar",
+  "arroz"
+ ],
+ "sn": [
+  {
+   "s": "Doña Carmen me manda a la pulpería.",
+   "e": "Doña Carmen sends me to the pulpería."
+  },
+  {
+   "s": "\"Mijo, vaya a traerme una libra de arroz.\"",
+   "e": "\"Mijo, go and get me a pound of rice.\""
+  },
+  {
+   "s": "No me pregunta si puedo.",
+   "e": "She does not ask if I can."
+  },
+  {
+   "s": "Me manda, sin más.",
+   "e": "She sends me, just like that."
+  },
+  {
+   "s": "Eso es un mandado.",
+   "e": "That is a mandado."
+  },
+  {
+   "s": "Al principio pienso que es una molestia.",
+   "e": "At first I think it is an imposition."
+  },
+  {
+   "s": "Después entiendo que no lo es.",
+   "e": "Later I understand it is not."
+  },
+  {
+   "s": "A los chavalos los mandan todo el día.",
+   "e": "The kids are sent on errands all day."
+  },
+  {
+   "s": "Roberto va y viene con mandados.",
+   "e": "Roberto comes and goes with errands."
+  },
+  {
+   "s": "Trae pan, trae huevos, trae azúcar.",
+   "e": "He brings bread, eggs, sugar."
+  },
+  {
+   "s": "Trae una recarga para el celular.",
+   "e": "He brings a top-up for the phone."
+  },
+  {
+   "s": "Nadie le dice gracias por cada mandado.",
+   "e": "Nobody thanks him for each errand."
+  },
+  {
+   "s": "Es lo normal.",
+   "e": "It is normal."
+  },
+  {
+   "s": "Yo voy a la pulpería con el mandado.",
+   "e": "I go to the pulpería with the errand."
+  },
+  {
+   "s": "\"Una libra de arroz\", digo yo.",
+   "e": "\"A pound of rice,\" I say."
+  },
+  {
+   "s": "Doña Chepa me da el arroz y el cambio.",
+   "e": "Doña Chepa gives me the rice and the change."
+  },
+  {
+   "s": "Vuelvo a la casa con las dos cosas.",
+   "e": "I go back to the house with both."
+  },
+  {
+   "s": "Le doy el arroz y le doy el cambio.",
+   "e": "I give her the rice and I give her the change."
+  },
+  {
+   "s": "Doña Carmen cuenta el cambio.",
+   "e": "Doña Carmen counts the change."
+  },
+  {
+   "s": "No lo cuenta por desconfianza.",
+   "e": "She does not count it out of distrust."
+  },
+  {
+   "s": "Lo cuenta porque siempre lo cuenta.",
+   "e": "She counts it because she always counts it."
+  },
+  {
+   "s": "Al otro día me manda otra vez.",
+   "e": "The next day she sends me again."
+  },
+  {
+   "s": "Y al otro día también.",
+   "e": "And the next day too."
+  },
+  {
+   "s": "Los mandados se hacen más grandes.",
+   "e": "The errands get bigger."
+  },
+  {
+   "s": "Primero era una libra de arroz.",
+   "e": "First it was a pound of rice."
+  },
+  {
+   "s": "Después era ir al mercado por verduras.",
+   "e": "Then it was going to the market for vegetables."
+  },
+  {
+   "s": "Después era pagar la luz.",
+   "e": "Then it was paying the electricity."
+  },
+  {
+   "s": "Pagar la luz es plata de verdad.",
+   "e": "Paying the electricity is real money."
+  },
+  {
+   "s": "Ese día entiendo lo que está pasando.",
+   "e": "That day I understand what is happening."
+  },
+  {
+   "s": "Los mandados son confianza.",
+   "e": "Errands are trust."
+  },
+  {
+   "s": "A un extraño no se le manda nada.",
+   "e": "You do not send a stranger on any errand."
+  },
+  {
+   "s": "A un extraño se le trata con cuidado.",
+   "e": "A stranger is treated carefully."
+  },
+  {
+   "s": "Al que es de la casa se le manda.",
+   "e": "The one who belongs to the house gets sent."
+  },
+  {
+   "s": "Cuando me mandan, ya soy de la casa.",
+   "e": "When they send me, I already belong to the house."
+  },
+  {
+   "s": "Le digo eso a Roberto.",
+   "e": "I say that to Roberto."
+  },
+  {
+   "s": "Roberto no lo había pensado nunca.",
+   "e": "Roberto had never thought about it."
+  },
+  {
+   "s": "\"Es que así es\", dice él.",
+   "e": "\"That's just how it is,\" he says."
+  },
+  {
+   "s": "Un día me olvido de un mandado.",
+   "e": "One day I forget an errand."
+  },
+  {
+   "s": "Doña Carmen me pidió fósforos.",
+   "e": "Doña Carmen asked me for matches."
+  },
+  {
+   "s": "Volví con todo menos los fósforos.",
+   "e": "I came back with everything but the matches."
+  },
+  {
+   "s": "\"Se me olvidaron\", digo yo.",
+   "e": "\"I forgot them,\" I say."
+  },
+  {
+   "s": "\"Ideay, mijo\", dice ella.",
+   "e": "\"Ideay, mijo,\" she says."
+  },
+  {
+   "s": "Y me manda de vuelta.",
+   "e": "And she sends me back."
+  },
+  {
+   "s": "Doy la vuelta otra vez a la pulpería.",
+   "e": "I walk back round to the pulpería again."
+  },
+  {
+   "s": "Doña Chepa se ríe cuando me ve.",
+   "e": "Doña Chepa laughs when she sees me."
+  },
+  {
+   "s": "\"¿Se le olvidó algo?\", pregunta.",
+   "e": "\"Did you forget something?\" she asks."
+  },
+  {
+   "s": "\"Los fósforos\", digo yo.",
+   "e": "\"The matches,\" I say."
+  },
+  {
+   "s": "\"A todos se les olvida algo\", dice ella.",
+   "e": "\"Everybody forgets something,\" she says."
+  },
+  {
+   "s": "Ahora yo también mando a Roberto.",
+   "e": "Now I send Roberto on errands too."
+  },
+  {
+   "s": "\"Roberto, andá a traerme una bolsa de agua.\"",
+   "e": "\"Roberto, go and get me a bag of water.\""
+  },
+  {
+   "s": "Y Roberto va, sin decir nada.",
+   "e": "And Roberto goes, without saying anything."
+  },
+  {
+   "s": "Porque yo también soy de aquí ahora.",
+   "e": "Because I belong here now too."
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "id": "p1-18",
+ "title": "Ya sé llegar",
+ "desc": "You can get anywhere now",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "conozco"
+ ],
+ "sn": [
+  {
+   "s": "Hoy me pasa algo nuevo.",
+   "e": "Something new happens to me today."
+  },
+  {
+   "s": "Estoy esperando el bus en la parada.",
+   "e": "I am waiting for the bus at the stop."
+  },
+  {
+   "s": "Llega una señora con una bolsa.",
+   "e": "A woman arrives with a bag."
+  },
+  {
+   "s": "La señora me habla a mí.",
+   "e": "The woman talks to me."
+  },
+  {
+   "s": "\"Disculpe, ¿por dónde queda el hospital?\"",
+   "e": "\"Excuse me, where is the hospital?\""
+  },
+  {
+   "s": "Me está preguntando a mí.",
+   "e": "She is asking me."
+  },
+  {
+   "s": "A mí, el chele.",
+   "e": "Me, the chele."
+  },
+  {
+   "s": "Y yo sé la respuesta.",
+   "e": "And I know the answer."
+  },
+  {
+   "s": "\"Tres cuadras al lago\", digo yo.",
+   "e": "\"Three blocks al lago,\" I say."
+  },
+  {
+   "s": "\"Y después dos cuadras abajo.\"",
+   "e": "\"And then two blocks abajo.\""
+  },
+  {
+   "s": "La señora me da las gracias y se va.",
+   "e": "The woman thanks me and leaves."
+  },
+  {
+   "s": "Yo me quedo parado en la parada.",
+   "e": "I stand there at the stop."
+  },
+  {
+   "s": "Le expliqué a alguien cómo llegar.",
+   "e": "I explained to somebody how to get there."
+  },
+  {
+   "s": "En cuadras, al lago y abajo.",
+   "e": "In blocks, al lago and abajo."
+  },
+  {
+   "s": "Sin pensarlo.",
+   "e": "Without thinking about it."
+  },
+  {
+   "s": "Hace tres meses yo no sabía qué era una cuadra.",
+   "e": "Three months ago I did not know what a cuadra was."
+  },
+  {
+   "s": "Ahora conozco mi barrio entero.",
+   "e": "Now I know my whole neighbourhood."
+  },
+  {
+   "s": "Conozco las pulperías y las fritangas.",
+   "e": "I know the pulperías and the fritangas."
+  },
+  {
+   "s": "Conozco qué ruta pasa por dónde.",
+   "e": "I know which ruta goes where."
+  },
+  {
+   "s": "Conozco a la señora de los tomates.",
+   "e": "I know the tomato woman."
+  },
+  {
+   "s": "Conozco a don Beto y a doña Chepa.",
+   "e": "I know don Beto and doña Chepa."
+  },
+  {
+   "s": "Conozco dónde está el agua más barata.",
+   "e": "I know where the cheapest water is."
+  },
+  {
+   "s": "Ya no me pierdo casi nunca.",
+   "e": "I hardly ever get lost now."
+  },
+  {
+   "s": "Y cuando me pierdo, ya no me asusto.",
+   "e": "And when I do get lost, I do not panic."
+  },
+  {
+   "s": "Perderse aquí es fácil de arreglar.",
+   "e": "Getting lost here is easy to fix."
+  },
+  {
+   "s": "Uno pregunta y alguien contesta.",
+   "e": "You ask and somebody answers."
+  },
+  {
+   "s": "Siempre hay alguien que contesta.",
+   "e": "There is always somebody who answers."
+  },
+  {
+   "s": "Un día veo a un turista perdido.",
+   "e": "One day I see a lost tourist."
+  },
+  {
+   "s": "Tiene un mapa en la mano.",
+   "e": "He has a map in his hand."
+  },
+  {
+   "s": "Mira el mapa y mira la calle.",
+   "e": "He looks at the map and looks at the street."
+  },
+  {
+   "s": "El mapa no le sirve de nada.",
+   "e": "The map is no use to him at all."
+  },
+  {
+   "s": "Yo sé exactamente cómo se siente.",
+   "e": "I know exactly how he feels."
+  },
+  {
+   "s": "Me acerco y le hablo.",
+   "e": "I go over and talk to him."
+  },
+  {
+   "s": "Le hablo en español, sin pensarlo.",
+   "e": "I talk to him in Spanish, without thinking."
+  },
+  {
+   "s": "Él me contesta en inglés.",
+   "e": "He answers me in English."
+  },
+  {
+   "s": "Y yo me quedo un segundo callado.",
+   "e": "And I stay quiet for a second."
+  },
+  {
+   "s": "Tuve que cambiar de idioma en mi cabeza.",
+   "e": "I had to change language in my head."
+  },
+  {
+   "s": "Le explico en inglés dónde está.",
+   "e": "I explain to him in English where he is."
+  },
+  {
+   "s": "Le explico que las calles no tienen nombre.",
+   "e": "I explain that the streets do not have names."
+  },
+  {
+   "s": "Le explico lo del lago y lo de arriba.",
+   "e": "I explain the lake thing and the arriba thing."
+  },
+  {
+   "s": "El turista no me cree.",
+   "e": "The tourist does not believe me."
+  },
+  {
+   "s": "\"¿Sin nombres? ¿Y cómo hace la gente?\"",
+   "e": "\"No names? How do people manage?\""
+  },
+  {
+   "s": "\"Uno pregunta\", le digo.",
+   "e": "\"You ask,\" I tell him."
+  },
+  {
+   "s": "El turista se va con su mapa.",
+   "e": "The tourist leaves with his map."
+  },
+  {
+   "s": "Yo me voy caminando a mi casa.",
+   "e": "I walk off home."
+  },
+  {
+   "s": "Y digo mi casa sin pensarlo.",
+   "e": "And I say my house without thinking about it."
+  },
+  {
+   "s": "Ya no digo el cuarto donde vivo.",
+   "e": "I do not say the room where I live any more."
+  },
+  {
+   "s": "Digo mi casa y mi barrio y mi calle.",
+   "e": "I say my house and my neighbourhood and my street."
+  },
+  {
+   "s": "En el camino saludo a cuatro personas.",
+   "e": "On the way I greet four people."
+  },
+  {
+   "s": "Y las cuatro me saludan de vuelta.",
+   "e": "And the four of them greet me back."
+  },
+  {
+   "s": "Eso es llegar.",
+   "e": "That is what arriving is."
+  }
+ ]
+}

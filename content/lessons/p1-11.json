@@ -1,0 +1,232 @@
+{
+ "id": "p1-11",
+ "title": "La época seca",
+ "desc": "Two seasons, and this is the hard one",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "época",
+  "lluvia",
+  "llover",
+  "polvo",
+  "día"
+ ],
+ "sn": [
+  {
+   "s": "Aquí no hay cuatro estaciones.",
+   "e": "There are not four seasons here."
+  },
+  {
+   "s": "Aquí hay dos épocas.",
+   "e": "Here there are two seasons."
+  },
+  {
+   "s": "La época seca y la época de lluvia.",
+   "e": "The dry season and the rainy season."
+  },
+  {
+   "s": "La época seca va de noviembre a mayo.",
+   "e": "The dry season runs from November to May."
+  },
+  {
+   "s": "La época de lluvia va de mayo a noviembre.",
+   "e": "The rainy season runs from May to November."
+  },
+  {
+   "s": "Y eso es todo el año.",
+   "e": "And that is the whole year."
+  },
+  {
+   "s": "Lo raro es cómo las llaman.",
+   "e": "The strange thing is what they call them."
+  },
+  {
+   "s": "A la época de lluvia le dicen invierno.",
+   "e": "They call the rainy season winter."
+  },
+  {
+   "s": "A la época seca le dicen verano.",
+   "e": "They call the dry season summer."
+  },
+  {
+   "s": "Pero en el invierno hace calor.",
+   "e": "But in the winter it is hot."
+  },
+  {
+   "s": "Y en el verano también hace calor.",
+   "e": "And in the summer it is hot too."
+  },
+  {
+   "s": "Invierno aquí no quiere decir frío.",
+   "e": "Winter here does not mean cold."
+  },
+  {
+   "s": "Invierno quiere decir agua.",
+   "e": "Winter means water."
+  },
+  {
+   "s": "Yo llegué en la época seca.",
+   "e": "I arrived in the dry season."
+  },
+  {
+   "s": "En la época seca todo está café.",
+   "e": "In the dry season everything is brown."
+  },
+  {
+   "s": "Los árboles pierden las hojas.",
+   "e": "The trees lose their leaves."
+  },
+  {
+   "s": "El campo está seco y duro.",
+   "e": "The countryside is dry and hard."
+  },
+  {
+   "s": "Y hay polvo en todos lados.",
+   "e": "And there is dust everywhere."
+  },
+  {
+   "s": "El polvo entra por la ventana.",
+   "e": "The dust comes in through the window."
+  },
+  {
+   "s": "El polvo se pone en la ropa.",
+   "e": "The dust settles on the clothes."
+  },
+  {
+   "s": "El polvo se pone en los dientes.",
+   "e": "The dust gets on your teeth."
+  },
+  {
+   "s": "Doña Carmen barre el polvo dos veces al día.",
+   "e": "Doña Carmen sweeps the dust twice a day."
+  },
+  {
+   "s": "Y el polvo vuelve.",
+   "e": "And the dust comes back."
+  },
+  {
+   "s": "En marzo y abril la gente quema.",
+   "e": "In March and April people burn."
+  },
+  {
+   "s": "Queman el monte seco para limpiar.",
+   "e": "They burn the dry scrub to clear it."
+  },
+  {
+   "s": "Se quema para sembrar después.",
+   "e": "They burn in order to plant afterwards."
+  },
+  {
+   "s": "El humo del monte llega a la ciudad.",
+   "e": "The smoke from the scrub reaches the city."
+  },
+  {
+   "s": "El cielo se pone gris de humo.",
+   "e": "The sky goes grey with smoke."
+  },
+  {
+   "s": "Y el sol se ve rojo en la tarde.",
+   "e": "And the sun looks red in the afternoon."
+  },
+  {
+   "s": "Abril es el peor mes.",
+   "e": "April is the worst month."
+  },
+  {
+   "s": "En abril hace un calor que no se aguanta.",
+   "e": "In April it is a heat you cannot stand."
+  },
+  {
+   "s": "El taxista del primer día tenía razón.",
+   "e": "The taxi driver on the first day was right."
+  },
+  {
+   "s": "En abril todos hablan de la lluvia.",
+   "e": "In April everybody talks about the rain."
+  },
+  {
+   "s": "\"¿Cuándo llueve?\", pregunta la gente.",
+   "e": "\"When is it going to rain?\" people ask."
+  },
+  {
+   "s": "\"Ya va a llover\", dicen otros.",
+   "e": "\"It's going to rain soon,\" others say."
+  },
+  {
+   "s": "Miran el cielo buscando nubes.",
+   "e": "They look at the sky for clouds."
+  },
+  {
+   "s": "Aparece una nube y todos la miran.",
+   "e": "A cloud appears and everybody looks at it."
+  },
+  {
+   "s": "Y la nube se va sin dejar nada.",
+   "e": "And the cloud goes without leaving anything."
+  },
+  {
+   "s": "Un día de mayo el cielo se pone negro.",
+   "e": "One day in May the sky goes black."
+  },
+  {
+   "s": "Se levanta un viento fuerte.",
+   "e": "A strong wind gets up."
+  },
+  {
+   "s": "El polvo vuela por toda la calle.",
+   "e": "The dust flies down the whole street."
+  },
+  {
+   "s": "Doña Carmen sale corriendo a meter la ropa.",
+   "e": "Doña Carmen runs out to bring in the washing."
+  },
+  {
+   "s": "Y empieza a llover.",
+   "e": "And it starts to rain."
+  },
+  {
+   "s": "No llueve poco a poco.",
+   "e": "It does not rain gradually."
+  },
+  {
+   "s": "Llueve todo de una vez.",
+   "e": "It rains all at once."
+  },
+  {
+   "s": "El agua cae fuerte en el techo.",
+   "e": "The water hits the roof hard."
+  },
+  {
+   "s": "Adentro no se puede hablar del ruido.",
+   "e": "Inside you cannot talk over the noise."
+  },
+  {
+   "s": "La calle se convierte en un río.",
+   "e": "The street turns into a river."
+  },
+  {
+   "s": "Los chavalos salen a bañarse en la lluvia.",
+   "e": "The kids go out to bathe in the rain."
+  },
+  {
+   "s": "Nadie se enoja con la lluvia.",
+   "e": "Nobody is annoyed by the rain."
+  },
+  {
+   "s": "La lluvia se esperó seis meses.",
+   "e": "The rain has been waited for for six months."
+  },
+  {
+   "s": "Al otro día el campo está verde.",
+   "e": "The next day the countryside is green."
+  },
+  {
+   "s": "Verde de un día para otro.",
+   "e": "Green from one day to the next."
+  },
+  {
+   "s": "Y ya no hay polvo.",
+   "e": "And there is no more dust."
+  }
+ ]
+}

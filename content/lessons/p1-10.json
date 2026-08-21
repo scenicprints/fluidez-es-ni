@@ -1,0 +1,227 @@
+{
+ "id": "p1-10",
+ "title": "El lago Cocibolca",
+ "desc": "A freshwater sea",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "isla",
+  "barco",
+  "ola",
+  "orilla"
+ ],
+ "sn": [
+  {
+   "s": "El lago Cocibolca es enorme.",
+   "e": "Lake Cocibolca is enormous."
+  },
+  {
+   "s": "Es tan ancho que no se ve la otra orilla.",
+   "e": "It is so wide you cannot see the other shore."
+  },
+  {
+   "s": "Uno lo mira y parece el mar.",
+   "e": "You look at it and it seems like the sea."
+  },
+  {
+   "s": "Pero no es mar.",
+   "e": "But it is not sea."
+  },
+  {
+   "s": "El agua del lago es agua dulce.",
+   "e": "The water of the lake is fresh water."
+  },
+  {
+   "s": "Uno prueba el agua y no está salada.",
+   "e": "You taste the water and it is not salty."
+  },
+  {
+   "s": "Eso me cuesta creerlo.",
+   "e": "I find that hard to believe."
+  },
+  {
+   "s": "En medio del lago hay una isla.",
+   "e": "In the middle of the lake there is an island."
+  },
+  {
+   "s": "La isla se llama Ometepe.",
+   "e": "The island is called Ometepe."
+  },
+  {
+   "s": "La isla tiene dos volcanes.",
+   "e": "The island has two volcanoes."
+  },
+  {
+   "s": "Los dos volcanes salen del agua.",
+   "e": "The two volcanoes come out of the water."
+  },
+  {
+   "s": "Uno es alto y con punta.",
+   "e": "One is tall and pointed."
+  },
+  {
+   "s": "El otro es más bajo y redondo.",
+   "e": "The other is lower and round."
+  },
+  {
+   "s": "Se ven desde muy lejos.",
+   "e": "You can see them from a long way off."
+  },
+  {
+   "s": "Vamos a cruzar a la isla.",
+   "e": "We are going to cross to the island."
+  },
+  {
+   "s": "El barco sale de San Jorge.",
+   "e": "The boat leaves from San Jorge."
+  },
+  {
+   "s": "Llegamos a la orilla temprano.",
+   "e": "We get to the shore early."
+  },
+  {
+   "s": "En la orilla hay gente esperando.",
+   "e": "On the shore there are people waiting."
+  },
+  {
+   "s": "El barco es viejo y de madera.",
+   "e": "The boat is old and made of wood."
+  },
+  {
+   "s": "La gente sube con bolsas y con cajas.",
+   "e": "People get on with bags and boxes."
+  },
+  {
+   "s": "Un señor sube con un chancho amarrado.",
+   "e": "A man gets on with a tied-up pig."
+  },
+  {
+   "s": "Nadie dice nada del chancho.",
+   "e": "Nobody says anything about the pig."
+  },
+  {
+   "s": "El barco sale y el lago está tranquilo.",
+   "e": "The boat leaves and the lake is calm."
+  },
+  {
+   "s": "Al principio no hay olas.",
+   "e": "At first there are no waves."
+  },
+  {
+   "s": "Después de veinte minutos vienen las olas.",
+   "e": "After twenty minutes the waves come."
+  },
+  {
+   "s": "Las olas son grandes para ser un lago.",
+   "e": "The waves are big for a lake."
+  },
+  {
+   "s": "El barco sube y baja con las olas.",
+   "e": "The boat goes up and down with the waves."
+  },
+  {
+   "s": "Una señora se pone mala.",
+   "e": "A woman is seasick."
+  },
+  {
+   "s": "Yo me agarro fuerte del asiento.",
+   "e": "I hold tight to the seat."
+  },
+  {
+   "s": "Roberto va tranquilo, comiendo rosquillas.",
+   "e": "Roberto sits calmly, eating rosquillas."
+  },
+  {
+   "s": "\"El lago siempre está así en la tarde\", dice.",
+   "e": "\"The lake is always like this in the afternoon,\" he says."
+  },
+  {
+   "s": "El cielo está nublado.",
+   "e": "The sky is cloudy."
+  },
+  {
+   "s": "Cuando está nublado el lago se pone bravo.",
+   "e": "When it is cloudy the lake gets rough."
+  },
+  {
+   "s": "Le pregunto por los tiburones.",
+   "e": "I ask him about the sharks."
+  },
+  {
+   "s": "Yo leí que había tiburones en el lago.",
+   "e": "I read that there were sharks in the lake."
+  },
+  {
+   "s": "Roberto se ríe.",
+   "e": "Roberto laughs."
+  },
+  {
+   "s": "\"Eso dicen los viejos\", dice él.",
+   "e": "\"That's what the old people say,\" he says."
+  },
+  {
+   "s": "\"Había tiburones antes. Ahora casi no.\"",
+   "e": "\"There were sharks before. Now hardly any.\""
+  },
+  {
+   "s": "Un tiburón de agua dulce.",
+   "e": "A freshwater shark."
+  },
+  {
+   "s": "Eso tampoco lo puedo creer.",
+   "e": "I cannot believe that either."
+  },
+  {
+   "s": "Pero es verdad.",
+   "e": "But it is true."
+  },
+  {
+   "s": "Llegamos a la isla en una hora.",
+   "e": "We reach the island in an hour."
+  },
+  {
+   "s": "Bajamos del barco en la orilla.",
+   "e": "We get off the boat on the shore."
+  },
+  {
+   "s": "La orilla de la isla tiene arena negra.",
+   "e": "The shore of the island has black sand."
+  },
+  {
+   "s": "Arena negra de los volcanes.",
+   "e": "Black sand from the volcanoes."
+  },
+  {
+   "s": "El volcán grande está encima de nosotros.",
+   "e": "The big volcano is right above us."
+  },
+  {
+   "s": "Tan cerca que hay que mirar para arriba.",
+   "e": "So close that you have to look up."
+  },
+  {
+   "s": "La isla es verde y llena de árboles.",
+   "e": "The island is green and full of trees."
+  },
+  {
+   "s": "Hay monos en los árboles.",
+   "e": "There are monkeys in the trees."
+  },
+  {
+   "s": "Se oyen los monos pero casi no se ven.",
+   "e": "You hear the monkeys but you barely see them."
+  },
+  {
+   "s": "Nos sentamos en la orilla a ver el agua.",
+   "e": "We sit on the shore and look at the water."
+  },
+  {
+   "s": "Un lago con olas, con arena y con islas.",
+   "e": "A lake with waves, sand and islands."
+  },
+  {
+   "s": "Un lago que parece mar y no es mar.",
+   "e": "A lake that looks like the sea and is not."
+  }
+ ]
+}

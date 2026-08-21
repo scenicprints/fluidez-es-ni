@@ -1,0 +1,220 @@
+{
+ "id": "p1-16",
+ "title": "El domingo",
+ "desc": "The week has a shape",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "domingo"
+ ],
+ "sn": [
+  {
+   "s": "El domingo aquí es distinto.",
+   "e": "Sunday here is different."
+  },
+  {
+   "s": "El domingo casi todo está cerrado.",
+   "e": "On Sunday nearly everything is closed."
+  },
+  {
+   "s": "Las oficinas están cerradas.",
+   "e": "The offices are closed."
+  },
+  {
+   "s": "Los bancos están cerrados.",
+   "e": "The banks are closed."
+  },
+  {
+   "s": "Hasta el mercado está medio cerrado.",
+   "e": "Even the market is half closed."
+  },
+  {
+   "s": "Sólo las pulperías siguen abiertas.",
+   "e": "Only the pulperías stay open."
+  },
+  {
+   "s": "Y las fritangas en la noche.",
+   "e": "And the fritangas at night."
+  },
+  {
+   "s": "El domingo empieza temprano con la misa.",
+   "e": "Sunday starts early with mass."
+  },
+  {
+   "s": "Doña Carmen va a misa a las siete.",
+   "e": "Doña Carmen goes to mass at seven."
+  },
+  {
+   "s": "Se pone ropa limpia y planchada.",
+   "e": "She puts on clean, ironed clothes."
+  },
+  {
+   "s": "Roberto también se pone ropa limpia.",
+   "e": "Roberto puts on clean clothes too."
+  },
+  {
+   "s": "Roberto no quiere ir a misa.",
+   "e": "Roberto does not want to go to mass."
+  },
+  {
+   "s": "Pero va igual.",
+   "e": "But he goes anyway."
+  },
+  {
+   "s": "\"¿Por qué vas si no querés?\", le pregunto.",
+   "e": "\"Why do you go if you don't want to?\" I ask him."
+  },
+  {
+   "s": "\"Porque es mi mamá\", dice él.",
+   "e": "\"Because it's my mum,\" he says."
+  },
+  {
+   "s": "Después de la misa viene la familia.",
+   "e": "After mass the family comes."
+  },
+  {
+   "s": "Llega la hermana de doña Carmen.",
+   "e": "Doña Carmen's sister arrives."
+  },
+  {
+   "s": "Llegan los sobrinos y los primos.",
+   "e": "The nieces, nephews and cousins arrive."
+  },
+  {
+   "s": "Llega gente que yo no conozco.",
+   "e": "People I do not know arrive."
+  },
+  {
+   "s": "Todos son familia de alguien.",
+   "e": "They are all somebody's family."
+  },
+  {
+   "s": "La casa se llena de gente.",
+   "e": "The house fills with people."
+  },
+  {
+   "s": "Los chavalos juegan en el patio.",
+   "e": "The kids play in the patio."
+  },
+  {
+   "s": "Las mujeres cocinan y hablan.",
+   "e": "The women cook and talk."
+  },
+  {
+   "s": "Los hombres se sientan afuera.",
+   "e": "The men sit outside."
+  },
+  {
+   "s": "Todos hablan al mismo tiempo.",
+   "e": "Everybody talks at the same time."
+  },
+  {
+   "s": "Yo entiendo la mitad y me quedo callado.",
+   "e": "I understand half of it and stay quiet."
+  },
+  {
+   "s": "Nadie me obliga a hablar.",
+   "e": "Nobody makes me talk."
+  },
+  {
+   "s": "Estar ahí es suficiente.",
+   "e": "Being there is enough."
+  },
+  {
+   "s": "El almuerzo del domingo es más grande.",
+   "e": "Sunday lunch is bigger."
+  },
+  {
+   "s": "Hay carne y hay sopa.",
+   "e": "There is meat and there is soup."
+  },
+  {
+   "s": "A veces hay nacatamal.",
+   "e": "Sometimes there is nacatamal."
+  },
+  {
+   "s": "El nacatamal es del domingo.",
+   "e": "The nacatamal belongs to Sunday."
+  },
+  {
+   "s": "Se compra en la mañana temprano.",
+   "e": "It is bought early in the morning."
+  },
+  {
+   "s": "En la tarde nadie hace nada.",
+   "e": "In the afternoon nobody does anything."
+  },
+  {
+   "s": "Descansar es lo que se hace el domingo.",
+   "e": "Resting is what you do on Sunday."
+  },
+  {
+   "s": "Los hombres ven béisbol.",
+   "e": "The men watch baseball."
+  },
+  {
+   "s": "Las señoras hablan en el patio.",
+   "e": "The women talk in the patio."
+  },
+  {
+   "s": "Los viejos duermen en una silla.",
+   "e": "The old people sleep in a chair."
+  },
+  {
+   "s": "Todo va despacio y tranquilo.",
+   "e": "Everything is slow and calm."
+  },
+  {
+   "s": "Algunos domingos vamos a la playa.",
+   "e": "Some Sundays we go to the beach."
+  },
+  {
+   "s": "La playa queda a una hora en bus.",
+   "e": "The beach is an hour away by bus."
+  },
+  {
+   "s": "Vamos todos juntos, con ollas y sillas.",
+   "e": "We all go together, with pots and chairs."
+  },
+  {
+   "s": "Nadie va a la playa solo.",
+   "e": "Nobody goes to the beach alone."
+  },
+  {
+   "s": "Ir solo a la playa es cosa de locos.",
+   "e": "Going to the beach alone is a mad thing to do."
+  },
+  {
+   "s": "Un domingo yo quise hacer un trámite.",
+   "e": "One Sunday I tried to do some paperwork."
+  },
+  {
+   "s": "Salí temprano y todo estaba cerrado.",
+   "e": "I went out early and everything was closed."
+  },
+  {
+   "s": "Caminé una hora para nada.",
+   "e": "I walked an hour for nothing."
+  },
+  {
+   "s": "Roberto me lo dijo después.",
+   "e": "Roberto told me afterwards."
+  },
+  {
+   "s": "\"El domingo no se hace nada, maje.\"",
+   "e": "\"You don't do anything on Sunday, maje.\""
+  },
+  {
+   "s": "\"El domingo es para la familia.\"",
+   "e": "\"Sunday is for family.\""
+  },
+  {
+   "s": "Ahora los domingos me quedo en la casa.",
+   "e": "Now on Sundays I stay in the house."
+  },
+  {
+   "s": "Con la gente, sin hacer nada.",
+   "e": "With the people, doing nothing."
+  }
+ ]
+}

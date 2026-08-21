@@ -1,0 +1,219 @@
+{
+ "id": "p1-17",
+ "title": "Pinolillo",
+ "desc": "The drink the country is named after",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "pinolillo",
+  "maíz",
+  "batir",
+  "tomar"
+ ],
+ "sn": [
+  {
+   "s": "Doña Carmen me da un vaso raro.",
+   "e": "Doña Carmen gives me a strange glass."
+  },
+  {
+   "s": "Adentro hay algo café y espeso.",
+   "e": "Inside there is something brown and thick."
+  },
+  {
+   "s": "\"¿Qué es esto?\", pregunto.",
+   "e": "\"What is this?\" I ask."
+  },
+  {
+   "s": "\"Pinolillo\", dice ella. \"Tómelo.\"",
+   "e": "\"Pinolillo,\" she says. \"Drink it.\""
+  },
+  {
+   "s": "El pinolillo se hace con maíz.",
+   "e": "Pinolillo is made with maize."
+  },
+  {
+   "s": "Maíz tostado y molido en polvo.",
+   "e": "Maize toasted and ground into powder."
+  },
+  {
+   "s": "Al polvo de maíz se le pone cacao.",
+   "e": "Cacao is added to the maize powder."
+  },
+  {
+   "s": "Cacao molido, también en polvo.",
+   "e": "Ground cacao, also as a powder."
+  },
+  {
+   "s": "Se mezcla con agua o con leche.",
+   "e": "It is mixed with water or with milk."
+  },
+  {
+   "s": "Y se le pone azúcar.",
+   "e": "And sugar is added."
+  },
+  {
+   "s": "Bastante azúcar.",
+   "e": "Quite a lot of sugar."
+  },
+  {
+   "s": "El polvo no se disuelve del todo.",
+   "e": "The powder does not fully dissolve."
+  },
+  {
+   "s": "Por eso hay que batirlo.",
+   "e": "That is why you have to stir it."
+  },
+  {
+   "s": "Se bate y se bate con una cuchara.",
+   "e": "You stir and stir with a spoon."
+  },
+  {
+   "s": "Si uno no lo bate, el polvo se va al fondo.",
+   "e": "If you do not stir it, the powder goes to the bottom."
+  },
+  {
+   "s": "Y uno se toma agua dulce y nada más.",
+   "e": "And you drink sweet water and nothing else."
+  },
+  {
+   "s": "Yo lo tomo sin batirlo la primera vez.",
+   "e": "I drink it without stirring it the first time."
+  },
+  {
+   "s": "Doña Carmen me ve y me quita el vaso.",
+   "e": "Doña Carmen sees me and takes the glass away."
+  },
+  {
+   "s": "Lo bate ella y me lo devuelve.",
+   "e": "She stirs it and hands it back."
+  },
+  {
+   "s": "Ahora sabe distinto.",
+   "e": "Now it tastes different."
+  },
+  {
+   "s": "Sabe a maíz tostado y a cacao.",
+   "e": "It tastes of toasted maize and cacao."
+  },
+  {
+   "s": "Es espeso y dulce y raro.",
+   "e": "It is thick and sweet and strange."
+  },
+  {
+   "s": "Al principio no me gusta.",
+   "e": "At first I do not like it."
+  },
+  {
+   "s": "A la tercera vez ya me gusta.",
+   "e": "By the third time I do like it."
+  },
+  {
+   "s": "En el campo se toma en jícara.",
+   "e": "In the countryside it is drunk from a jícara."
+  },
+  {
+   "s": "La jícara es de la cáscara de un fruto.",
+   "e": "A jícara is made from the shell of a fruit."
+  },
+  {
+   "s": "Es como un vaso hecho de madera.",
+   "e": "It is like a glass made of wood."
+  },
+  {
+   "s": "En la ciudad se toma en vaso normal.",
+   "e": "In the city it is drunk from a normal glass."
+  },
+  {
+   "s": "Pero en la jícara sabe mejor.",
+   "e": "But it tastes better from the jícara."
+  },
+  {
+   "s": "Eso dicen todos y creo que es verdad.",
+   "e": "Everybody says so and I think it is true."
+  },
+  {
+   "s": "Un día digo algo sin pensar.",
+   "e": "One day I say something without thinking."
+  },
+  {
+   "s": "Digo que el pinolillo se parece al chocolate.",
+   "e": "I say that pinolillo is like chocolate."
+  },
+  {
+   "s": "Doña Carmen me mira.",
+   "e": "Doña Carmen looks at me."
+  },
+  {
+   "s": "\"No, mijo. El chocolate es otra cosa.\"",
+   "e": "\"No, mijo. Chocolate is something else.\""
+  },
+  {
+   "s": "\"El pinolillo es de aquí.\"",
+   "e": "\"Pinolillo is from here.\""
+  },
+  {
+   "s": "Lo dice orgullosa.",
+   "e": "She says it proudly."
+  },
+  {
+   "s": "Después Roberto me explica por qué.",
+   "e": "Later Roberto explains why."
+  },
+  {
+   "s": "\"A los nicaragüenses nos dicen pinoleros.\"",
+   "e": "\"Nicaraguans are called pinoleros.\""
+  },
+  {
+   "s": "\"Pinolero viene de pinol, del maíz.\"",
+   "e": "\"Pinolero comes from pinol, from maize.\""
+  },
+  {
+   "s": "El país entero tiene el nombre de la bebida.",
+   "e": "The whole country is named after the drink."
+  },
+  {
+   "s": "O la bebida le dio el nombre a la gente.",
+   "e": "Or the drink gave the people their name."
+  },
+  {
+   "s": "Hay una canción que todos cantan.",
+   "e": "There is a song everybody sings."
+  },
+  {
+   "s": "Dice que el nicaragüense es pinolero.",
+   "e": "It says the Nicaraguan is a pinolero."
+  },
+  {
+   "s": "Y que toma pinolillo por costumbre.",
+   "e": "And drinks pinolillo out of habit."
+  },
+  {
+   "s": "Roberto me dice algo esa noche.",
+   "e": "Roberto says something to me that night."
+  },
+  {
+   "s": "\"Si tomás pinolillo, ya sos medio pinolero.\"",
+   "e": "\"If you drink pinolillo, you're already half a pinolero.\""
+  },
+  {
+   "s": "Lo dice medio en broma.",
+   "e": "He says it half as a joke."
+  },
+  {
+   "s": "Pero sólo medio.",
+   "e": "But only half."
+  },
+  {
+   "s": "Ahora tomo pinolillo en la mañana.",
+   "e": "Now I drink pinolillo in the morning."
+  },
+  {
+   "s": "Lo bato bien antes de tomarlo.",
+   "e": "I stir it properly before drinking it."
+  },
+  {
+   "s": "Y me sabe a esta casa.",
+   "e": "And it tastes of this house to me."
+  }
+ ]
+}

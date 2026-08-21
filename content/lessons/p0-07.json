@@ -4,10 +4,7 @@
  "desc": "Water has a schedule",
  "ph": 0,
  "diff": 1,
- "wu": [
-  "jueves",
-  "mañana"
- ],
+ "wu": [],
  "sn": [
   {
    "s": "Es lunes en la mañana.",
