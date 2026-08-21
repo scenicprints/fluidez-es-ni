@@ -1,0 +1,290 @@
+{
+ "id": "p5-15",
+ "title": "La cerveza está helada",
+ "desc": "An evening that goes long",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "birra",
+  "borracho",
+  "tanda",
+  "hielera",
+  "madrugada",
+  "brindar",
+  "solo"
+ ],
+ "sn": [
+  {
+   "s": "Un viernes Marcos me dice que lo espere.",
+   "e": "One Friday Marcos tells me to wait for him."
+  },
+  {
+   "s": "Dice que vamos a tomarnos una birra y ya.",
+   "e": "He says we are going to have one beer and that is it."
+  },
+  {
+   "s": "Una birra, dice, con el dedo levantado.",
+   "e": "One beer, he says, with his finger raised."
+  },
+  {
+   "s": "Yo ya llevo tiempo aquí y no le creo nada.",
+   "e": "I have been here a while now and I do not believe a word."
+  },
+  {
+   "s": "Aquí una birra nunca es una birra.",
+   "e": "Here one beer is never one beer."
+  },
+  {
+   "s": "Vamos a un lugar en la esquina, con sillas de plástico.",
+   "e": "We go to a place on the corner, with plastic chairs."
+  },
+  {
+   "s": "No es un bar, es una casa con una hielera.",
+   "e": "It is not a bar, it is a house with a cooler."
+  },
+  {
+   "s": "La hielera está en el suelo, llena de hielo.",
+   "e": "The cooler is on the floor, full of ice."
+  },
+  {
+   "s": "La señora saca las birras de la hielera.",
+   "e": "The lady takes the beers out of the cooler."
+  },
+  {
+   "s": "La hielera es el negocio entero de esa casa.",
+   "e": "The cooler is that house's whole business."
+  },
+  {
+   "s": "Sale escarcha de la hielera cuando la abre.",
+   "e": "Frost comes out of the cooler when she opens it."
+  },
+  {
+   "s": "La birra sale tan fría que duele la mano.",
+   "e": "The beer comes out so cold it hurts your hand."
+  },
+  {
+   "s": "Está helada, dice Marcos, y esa es la palabra.",
+   "e": "It is frozen, says Marcos, and that is the word."
+  },
+  {
+   "s": "Aquí una birra tibia no se la toma nadie.",
+   "e": "Here nobody drinks a warm beer."
+  },
+  {
+   "s": "La primera tanda la pide Marcos.",
+   "e": "Marcos orders the first round."
+  },
+  {
+   "s": "Una tanda es lo que se pide para todos.",
+   "e": "A round is what is ordered for everybody."
+  },
+  {
+   "s": "Nadie pide una birra sola para él.",
+   "e": "Nobody orders one beer just for himself."
+  },
+  {
+   "s": "La tanda llega y se reparten las botellas.",
+   "e": "The round arrives and the bottles are shared out."
+  },
+  {
+   "s": "Antes de tomar hay que brindar.",
+   "e": "Before drinking you have to toast."
+  },
+  {
+   "s": "El que no brinda toma solo, aunque esté sentado con gente.",
+   "e": "The one who does not toast drinks alone, even sitting with people."
+  },
+  {
+   "s": "Se brinda chocando las botellas en el centro.",
+   "e": "You toast by knocking the bottles together in the middle."
+  },
+  {
+   "s": "Brindamos por la salud y por el viernes.",
+   "e": "We toast to health and to Friday."
+  },
+  {
+   "s": "Se brinda en cada tanda, no solo en la primera.",
+   "e": "You toast at every round, not just the first."
+  },
+  {
+   "s": "Llega mi cuñado Chino a la segunda tanda, sin avisar.",
+   "e": "My brother-in-law Chino arrives for the second round, without warning."
+  },
+  {
+   "s": "Nadie lo llamó y nadie se sorprende.",
+   "e": "Nobody called him and nobody is surprised."
+  },
+  {
+   "s": "Después de Chino llegan dos primos de él.",
+   "e": "After Chino two of his cousins arrive."
+  },
+  {
+   "s": "La mesa de dos ya es una mesa de cinco.",
+   "e": "The table for two is already a table of five."
+  },
+  {
+   "s": "La tercera tanda la pido yo.",
+   "e": "I order the third round."
+  },
+  {
+   "s": "Aquí la tanda se turna y nadie lleva la cuenta.",
+   "e": "Here the round takes turns and nobody keeps score."
+  },
+  {
+   "s": "Pero todos saben quién no ha pedido nunca.",
+   "e": "But everybody knows who has never ordered."
+  },
+  {
+   "s": "A ese le dicen cosas hasta que pide.",
+   "e": "They tease that one until he orders."
+  },
+  {
+   "s": "A las diez yo pienso que ya nos vamos.",
+   "e": "At ten I think we are leaving now."
+  },
+  {
+   "s": "Marcos pide la cuarta tanda sin mirarme.",
+   "e": "Marcos orders the fourth round without looking at me."
+  },
+  {
+   "s": "Le digo que dijo una birra y él se ríe.",
+   "e": "I tell him he said one beer and he laughs."
+  },
+  {
+   "s": "Me dice que una birra es una manera de hablar.",
+   "e": "He tells me one beer is a way of speaking."
+  },
+  {
+   "s": "Como cuando uno dice ahorita, dice él.",
+   "e": "Like when you say ahorita, he says."
+  },
+  {
+   "s": "A las once la conversación cambia de tono.",
+   "e": "At eleven the conversation changes tone."
+  },
+  {
+   "s": "Se acaban las bromas y empieza lo otro.",
+   "e": "The jokes run out and the other thing begins."
+  },
+  {
+   "s": "Chino habla de su papá, que murió hace nueve años.",
+   "e": "Chino talks about his father, who died nine years ago."
+  },
+  {
+   "s": "Nunca lo había oído hablar de eso.",
+   "e": "I had never heard him talk about that."
+  },
+  {
+   "s": "En nueve años, nunca, ni en el velorio.",
+   "e": "In nine years, never, not even at the wake."
+  },
+  {
+   "s": "Nadie lo interrumpe y nadie hace un chiste.",
+   "e": "Nobody interrupts him and nobody makes a joke."
+  },
+  {
+   "s": "Esa es la otra parte de la noche.",
+   "e": "That is the other part of the night."
+  },
+  {
+   "s": "La birra abre una puerta que de día está cerrada.",
+   "e": "The beer opens a door that is closed in daylight."
+  },
+  {
+   "s": "Marcos me dijo una vez que aquí es así.",
+   "e": "Marcos told me once that here it is like this."
+  },
+  {
+   "s": "Que las cosas serias se dicen tarde y con birra.",
+   "e": "That serious things are said late and with beer."
+  },
+  {
+   "s": "Y que al día siguiente no se vuelven a mencionar.",
+   "e": "And that the next day they are not mentioned again."
+  },
+  {
+   "s": "A la medianoche uno de los primos ya está borracho.",
+   "e": "By midnight one of the cousins is already drunk."
+  },
+  {
+   "s": "Borracho de verdad, no alegre nada más.",
+   "e": "Really drunk, not just merry."
+  },
+  {
+   "s": "Chino lo manda a la casa con el otro primo.",
+   "e": "Chino sends him home with the other cousin."
+  },
+  {
+   "s": "Un borracho se lleva, no se deja solo.",
+   "e": "A drunk is taken home, not left alone."
+  },
+  {
+   "s": "Eso también es una regla y nadie la dice.",
+   "e": "That is also a rule and nobody says it."
+  },
+  {
+   "s": "Marcos me explica algo de los borrachos.",
+   "e": "Marcos explains something to me about drunks."
+  },
+  {
+   "s": "Que aquí un borracho triste da lástima.",
+   "e": "That here a sad drunk is pitied."
+  },
+  {
+   "s": "Y un borracho peleador se queda sin amigos.",
+   "e": "And a fighting drunk ends up with no friends."
+  },
+  {
+   "s": "El borracho alegre es el único que cae bien.",
+   "e": "The merry drunk is the only one who is welcome."
+  },
+  {
+   "s": "A la una de la madrugada la señora apaga una luz.",
+   "e": "At one in the morning the lady turns off one light."
+  },
+  {
+   "s": "Esa es la señal, no dice nada.",
+   "e": "That is the signal, she says nothing."
+  },
+  {
+   "s": "Pagamos la cuenta entre todos, sin sacar cuentas.",
+   "e": "We pay the bill between us all, without doing sums."
+  },
+  {
+   "s": "Camino a la casa en la madrugada, despacio.",
+   "e": "I walk home in the small hours, slowly."
+  },
+  {
+   "s": "Managua a la una de la madrugada está tranquila.",
+   "e": "Managua at one in the morning is quiet."
+  },
+  {
+   "s": "A esa madrugada no le tengo miedo desde hace tiempo.",
+   "e": "I have not been afraid of that hour for a long time now."
+  },
+  {
+   "s": "Se oyen los perros y nada más.",
+   "e": "You hear the dogs and nothing else."
+  },
+  {
+   "s": "Lucía está despierta, con la luz del cuarto prendida.",
+   "e": "Lucía is awake, with the bedroom light on."
+  },
+  {
+   "s": "No me reclama nada, solo pregunta por Chino.",
+   "e": "She does not complain, she just asks about Chino."
+  },
+  {
+   "s": "Le cuento lo del papá de Chino en la madrugada.",
+   "e": "I tell her about Chino's father in the small hours."
+  },
+  {
+   "s": "Ella se queda callada y después dice una cosa.",
+   "e": "She goes quiet and then says one thing."
+  },
+  {
+   "s": "Dice que por eso los hombres aquí toman los viernes.",
+   "e": "She says that is why the men here drink on Fridays."
+  }
+ ]
+}

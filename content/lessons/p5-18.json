@@ -1,0 +1,277 @@
+{
+ "id": "p5-18",
+ "title": "Un baile",
+ "desc": "Dancing, and not being able to",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "cumbia",
+  "pista",
+  "ritmo",
+  "vuelta",
+  "patio",
+  "canción"
+ ],
+ "sn": [
+  {
+   "s": "En los quince de Katia yo no bailé nada.",
+   "e": "At Katia's quince I did not dance at all."
+  },
+  {
+   "s": "Me quedé sentado cuidando doscientas sillas.",
+   "e": "I stayed sitting down looking after two hundred chairs."
+  },
+  {
+   "s": "Nadie me dijo nada esa noche.",
+   "e": "Nobody said anything to me that night."
+  },
+  {
+   "s": "Pero Lucía se dio cuenta y no lo olvidó.",
+   "e": "But Lucía noticed and did not forget it."
+  },
+  {
+   "s": "En la fiesta siguiente ella me avisa antes.",
+   "e": "At the next party she warns me beforehand."
+  },
+  {
+   "s": "Me dice que esta vez sí voy a bailar.",
+   "e": "She tells me that this time I am going to dance."
+  },
+  {
+   "s": "La fiesta es en la casa de un primo de ella.",
+   "e": "The party is at a cousin of hers house."
+  },
+  {
+   "s": "Ponen la música en un parlante en el patio.",
+   "e": "They put the music on a speaker in the yard."
+  },
+  {
+   "s": "El patio entero es la pista, no hay otra.",
+   "e": "The whole yard is the dance floor, there is no other."
+  },
+  {
+   "s": "La pista se llena en cuanto suena la primera canción.",
+   "e": "The floor fills as soon as the first song sounds."
+  },
+  {
+   "s": "Aquí no hay pista aparte de la casa.",
+   "e": "Here there is no dance floor separate from the house."
+  },
+  {
+   "s": "Se quitan dos sillas y eso ya es la pista.",
+   "e": "You move two chairs and that is already the floor."
+  },
+  {
+   "s": "Empieza una cumbia y se llena el patio.",
+   "e": "A cumbia starts and the yard fills up."
+  },
+  {
+   "s": "La cumbia es lo primero que ponen siempre.",
+   "e": "The cumbia is always the first thing they put on."
+  },
+  {
+   "s": "Es la más fácil de todas, dice Lucía.",
+   "e": "It is the easiest of them all, says Lucía."
+  },
+  {
+   "s": "En la cumbia los pies casi no se mueven.",
+   "e": "In cumbia the feet barely move."
+  },
+  {
+   "s": "Todo el paso está en la cadera, no en los pies.",
+   "e": "The whole step is in the hips, not in the feet."
+  },
+  {
+   "s": "Un paso a un lado, un paso al otro.",
+   "e": "One step to one side, one step to the other."
+  },
+  {
+   "s": "El paso es lento y se repite toda la canción.",
+   "e": "The step is slow and repeats the whole song."
+  },
+  {
+   "s": "Lo difícil no es el paso, es el ritmo.",
+   "e": "The hard part is not the step, it is the rhythm."
+  },
+  {
+   "s": "El ritmo de la cumbia va abajo, en el tambor.",
+   "e": "The rhythm of the cumbia is underneath, in the drum."
+  },
+  {
+   "s": "El ritmo de arriba engaña a todo el que llega de afuera.",
+   "e": "The rhythm on top fools everybody who arrives from outside."
+  },
+  {
+   "s": "Yo estaba oyendo el ritmo de arriba, la canción.",
+   "e": "I was listening to the rhythm on top, the melody."
+  },
+  {
+   "s": "Por eso mis pasos iban rápido y feo.",
+   "e": "That is why my steps went fast and ugly."
+  },
+  {
+   "s": "Lucía me para en medio de la pista.",
+   "e": "Lucía stops me in the middle of the floor."
+  },
+  {
+   "s": "Me pone la mano en el hombro y no me suelta.",
+   "e": "She puts her hand on my shoulder and does not let go."
+  },
+  {
+   "s": "Me dice que cierre los ojos un momento.",
+   "e": "She tells me to close my eyes for a moment."
+  },
+  {
+   "s": "Que busque el tambor y no la voz.",
+   "e": "To look for the drum and not the voice."
+  },
+  {
+   "s": "El tambor va mucho más lento de lo que yo pensaba.",
+   "e": "The drum goes much slower than I thought."
+  },
+  {
+   "s": "Cuando encuentro el tambor, el paso se hace solo.",
+   "e": "When I find the drum, the step makes itself."
+  },
+  {
+   "s": "Después viene lo otro, que es llevar.",
+   "e": "Then comes the other thing, which is leading."
+  },
+  {
+   "s": "Aquí el hombre lleva y la mujer sigue.",
+   "e": "Here the man leads and the woman follows."
+  },
+  {
+   "s": "Llevar no es empujar a nadie, me dice ella.",
+   "e": "Leading is not pushing anybody, she tells me."
+  },
+  {
+   "s": "Llevar es avisar con la mano lo que viene.",
+   "e": "Leading is signalling with your hand what is coming."
+  },
+  {
+   "s": "Si uno no lleva, la pareja no sabe qué hacer.",
+   "e": "If you do not lead, your partner does not know what to do."
+  },
+  {
+   "s": "Y si uno lleva demasiado fuerte, es peor.",
+   "e": "And if you lead too hard, it is worse."
+  },
+  {
+   "s": "Yo llevo mal las primeras tres canciones.",
+   "e": "I lead badly for the first three songs."
+  },
+  {
+   "s": "Llevo con el brazo entero, como cargando algo.",
+   "e": "I lead with my whole arm, like carrying something."
+  },
+  {
+   "s": "Ella se ríe y me dice que no es un mueble.",
+   "e": "She laughs and tells me she is not a piece of furniture."
+  },
+  {
+   "s": "La vuelta es lo último que aprendo esa noche.",
+   "e": "The turn is the last thing I learn that night."
+  },
+  {
+   "s": "La vuelta se avisa levantando la mano.",
+   "e": "The turn is signalled by raising your hand."
+  },
+  {
+   "s": "La mujer da la vuelta sola, uno no la voltea.",
+   "e": "The woman turns on her own, you do not spin her."
+  },
+  {
+   "s": "Mi primera vuelta le pega en la cara.",
+   "e": "My first turn hits her in the face."
+  },
+  {
+   "s": "La segunda vuelta sale bien y ella aplaude.",
+   "e": "The second turn comes out well and she claps."
+  },
+  {
+   "s": "A la cuarta canción ya no pienso en los pasos.",
+   "e": "By the fourth song I am no longer thinking about the steps."
+  },
+  {
+   "s": "Y ahí me doy cuenta de que el patio me está viendo.",
+   "e": "And there I realise the yard is watching me."
+  },
+  {
+   "s": "No me están viendo para burlarse de mí.",
+   "e": "They are not watching to laugh at me."
+  },
+  {
+   "s": "Me están viendo porque el chele está bailando.",
+   "e": "They are watching because the chele is dancing."
+  },
+  {
+   "s": "Doña Elena me grita algo desde la cocina.",
+   "e": "Doña Elena shouts something at me from the kitchen."
+  },
+  {
+   "s": "Me grita que mueva la cadera, no los pies.",
+   "e": "She shouts at me to move my hips, not my feet."
+  },
+  {
+   "s": "La suegra corrigiéndome el paso a gritos.",
+   "e": "My mother-in-law correcting my step at the top of her voice."
+  },
+  {
+   "s": "Chino se para y me hace una vuelta de burla.",
+   "e": "Chino gets up and does a mocking turn at me."
+  },
+  {
+   "s": "Yo le devuelvo el vacilón con otra vuelta peor.",
+   "e": "I give the joke back with a worse turn."
+  },
+  {
+   "s": "El patio entero se ríe y la cumbia sigue.",
+   "e": "The whole yard laughs and the cumbia goes on."
+  },
+  {
+   "s": "Después de la cumbia ponen algo más rápido.",
+   "e": "After the cumbia they put on something faster."
+  },
+  {
+   "s": "Ese ritmo yo no lo agarro ni de vara.",
+   "e": "That rhythm I cannot catch, not for anything."
+  },
+  {
+   "s": "Me siento y miro bailar a los demás.",
+   "e": "I sit down and watch the others dance."
+  },
+  {
+   "s": "Roberto baila mejor que todos los grandes.",
+   "e": "Roberto dances better than all the adults."
+  },
+  {
+   "s": "Tiene diecisiete años y lleva a tres muchachas.",
+   "e": "He is seventeen and leads three girls."
+  },
+  {
+   "s": "Marcos baila con los ojos cerrados, sin moverse mucho.",
+   "e": "Marcos dances with his eyes closed, barely moving."
+  },
+  {
+   "s": "Cada uno tiene su manera y ninguno se sienta.",
+   "e": "Each one has his own way and none of them sits down."
+  },
+  {
+   "s": "Esa es la parte que me costó entender.",
+   "e": "That is the part that took me longest to understand."
+  },
+  {
+   "s": "Aquí no se baila bien ni mal, se baila.",
+   "e": "Here you do not dance well or badly, you dance."
+  },
+  {
+   "s": "El que se queda sentado es el que llama la atención.",
+   "e": "The one who stays sitting down is the one people notice."
+  },
+  {
+   "s": "No el que baila feo, ese no le importa a nadie.",
+   "e": "Not the one who dances badly, nobody cares about him."
+  }
+ ]
+}

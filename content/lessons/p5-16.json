@@ -1,0 +1,289 @@
+{
+ "id": "p5-16",
+ "title": "El chisme",
+ "desc": "Gossip, and how it moves",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "chisme",
+  "chismosa",
+  "enterarse",
+  "versión",
+  "boca",
+  "barrio"
+ ],
+ "sn": [
+  {
+   "s": "Le cuento una cosa a doña Carmen un martes.",
+   "e": "I tell doña Carmen something on a Tuesday."
+  },
+  {
+   "s": "Le cuento que estamos pensando en cambiar de casa.",
+   "e": "I tell her we are thinking about moving house."
+  },
+  {
+   "s": "Se lo cuento a ella sola, en su patio.",
+   "e": "I tell it to her alone, in her yard."
+  },
+  {
+   "s": "No es un secreto, pero tampoco es para todos.",
+   "e": "It is not a secret, but it is not for everybody either."
+  },
+  {
+   "s": "El jueves doña Chepa me pregunta por la casa nueva.",
+   "e": "On Thursday doña Chepa asks me about the new house."
+  },
+  {
+   "s": "Yo le digo que no hay ninguna casa nueva.",
+   "e": "I tell her there is no new house."
+  },
+  {
+   "s": "Ella me dice que ya se enteró de todo.",
+   "e": "She tells me she has already heard everything."
+  },
+  {
+   "s": "Que se enteró de que nos vamos del barrio.",
+   "e": "That she heard we are leaving the barrio."
+  },
+  {
+   "s": "En dos días la cosa creció y cambió.",
+   "e": "In two days the thing grew and changed."
+  },
+  {
+   "s": "Yo pensaba en cambiar de casa dentro del barrio.",
+   "e": "I was thinking about moving house inside the barrio."
+  },
+  {
+   "s": "La versión de doña Chepa es que nos vamos lejos.",
+   "e": "Doña Chepa's version is that we are going far away."
+  },
+  {
+   "s": "El viernes don Beto me para en la calle.",
+   "e": "On Friday don Beto stops me in the street."
+  },
+  {
+   "s": "Él ya tiene otra versión distinta.",
+   "e": "He already has a different version."
+  },
+  {
+   "s": "En su versión nos vamos porque conseguí trabajo afuera.",
+   "e": "In his version we are leaving because I got work abroad."
+  },
+  {
+   "s": "Yo no he buscado trabajo en ningún lado.",
+   "e": "I have not looked for work anywhere."
+  },
+  {
+   "s": "El sábado la versión llega a doña Elena.",
+   "e": "On Saturday the version reaches doña Elena."
+  },
+  {
+   "s": "Y a doña Elena le llega la peor de todas.",
+   "e": "And doña Elena gets the worst one of all."
+  },
+  {
+   "s": "En esa versión yo me llevo a su hija y a su nieto.",
+   "e": "In that version I am taking her daughter and her grandson away."
+  },
+  {
+   "s": "Doña Elena llama a Lucía llorando por teléfono.",
+   "e": "Doña Elena calls Lucía in tears on the phone."
+  },
+  {
+   "s": "Ella se enteró por una vecina, no por nosotros.",
+   "e": "She heard it from a neighbour, not from us."
+  },
+  {
+   "s": "Cuatro días y cuatro versiones del mismo chisme.",
+   "e": "Four days and four versions of the same piece of gossip."
+  },
+  {
+   "s": "Un chisme no viaja igual, va cambiando.",
+   "e": "Gossip does not travel the same, it goes on changing."
+  },
+  {
+   "s": "Cada boca le agrega lo que le falta.",
+   "e": "Each mouth adds to it what it lacks."
+  },
+  {
+   "s": "Y le quita lo que no sirve para contarlo.",
+   "e": "And takes away what is no use for telling it."
+  },
+  {
+   "s": "Lucía me explica cómo funciona el chisme aquí.",
+   "e": "Lucía explains to me how gossip works here."
+  },
+  {
+   "s": "Me dice que el chisme no es maldad.",
+   "e": "She tells me gossip is not wickedness."
+  },
+  {
+   "s": "Que uno se entera de un velorio por el chisme.",
+   "e": "That you find out about a wake through gossip."
+  },
+  {
+   "s": "Y que si nadie se enterara, nadie llegaría.",
+   "e": "And that if nobody found out, nobody would come."
+  },
+  {
+   "s": "El chisme es cómo se entera la gente de todo.",
+   "e": "Gossip is how people find out about everything."
+  },
+  {
+   "s": "Uno se entera de un nacimiento por la misma boca.",
+   "e": "You find out about a birth through the same mouth."
+  },
+  {
+   "s": "Nadie pone un aviso cuando se muere un vecino.",
+   "e": "Nobody puts up a notice when a neighbour dies."
+  },
+  {
+   "s": "Uno se entera por una boca y después por otra.",
+   "e": "You hear about it from one mouth and then another."
+  },
+  {
+   "s": "El chisme es el periódico del barrio, dice ella.",
+   "e": "Gossip is the newspaper of the barrio, she says."
+  },
+  {
+   "s": "El problema no es el chisme, es la velocidad.",
+   "e": "The problem is not the gossip, it is the speed."
+  },
+  {
+   "s": "Y que nadie se entera de la versión primera.",
+   "e": "And that nobody hears the first version."
+  },
+  {
+   "s": "Después Lucía me enseña las palabras del chisme.",
+   "e": "Then Lucía teaches me the words of gossip."
+  },
+  {
+   "s": "Dice que se dice dicen que, no yo digo.",
+   "e": "She says you say dicen que, not yo digo."
+  },
+  {
+   "s": "Dicen que se van del barrio, así se cuenta.",
+   "e": "They say they are leaving the barrio, that is how it is told."
+  },
+  {
+   "s": "Así el que lo cuenta no se hace responsable.",
+   "e": "That way the one telling it is not responsible."
+  },
+  {
+   "s": "Me contaron que consiguió trabajo afuera.",
+   "e": "I was told he got work abroad."
+  },
+  {
+   "s": "Me dijeron, dicen, oí decir: todo eso sirve igual.",
+   "e": "Me dijeron, dicen, oí decir: they all work the same."
+  },
+  {
+   "s": "Nadie dice yo inventé esto, todos lo oyeron.",
+   "e": "Nobody says I made this up, everybody heard it."
+  },
+  {
+   "s": "Y una chismosa de verdad nunca dice un nombre.",
+   "e": "And a real gossip never says a name."
+  },
+  {
+   "s": "Dice por ahí me contaron y no dice quién.",
+   "e": "She says somebody told me and does not say who."
+  },
+  {
+   "s": "Doña Chepa es la chismosa más grande del barrio.",
+   "e": "Doña Chepa is the biggest gossip in the barrio."
+  },
+  {
+   "s": "Una chismosa no inventa, solo mueve lo que oye.",
+   "e": "A gossip does not invent, she only moves what she hears."
+  },
+  {
+   "s": "Y todo el mundo lo sabe, hasta ella misma.",
+   "e": "And everybody knows it, even she does."
+  },
+  {
+   "s": "Ser chismosa aquí no es un insulto grave.",
+   "e": "Being a gossip here is not a serious insult."
+  },
+  {
+   "s": "Una chismosa buena es útil, dice Lucía.",
+   "e": "A good gossip is useful, says Lucía."
+  },
+  {
+   "s": "Por doña Chepa se enteró el barrio del velorio.",
+   "e": "Through doña Chepa the barrio found out about the wake."
+  },
+  {
+   "s": "Por ella se enteró don Beto de su propio nieto.",
+   "e": "Through her don Beto found out about his own grandson."
+  },
+  {
+   "s": "Por doña Chepa se juntó plata para el hospital.",
+   "e": "Through doña Chepa money was collected for the hospital."
+  },
+  {
+   "s": "La misma boca que hace daño hace el bien.",
+   "e": "The same mouth that does harm does good."
+  },
+  {
+   "s": "Lucía me da la regla para vivir con esto.",
+   "e": "Lucía gives me the rule for living with this."
+  },
+  {
+   "s": "Todo lo que uno le cuenta a una boca es del barrio.",
+   "e": "Everything you tell one mouth belongs to the barrio."
+  },
+  {
+   "s": "No hay boca cerrada, hay bocas más lentas.",
+   "e": "There is no closed mouth, there are slower mouths."
+  },
+  {
+   "s": "Si algo no se puede contar, no se cuenta.",
+   "e": "If something cannot be told, it is not told."
+  },
+  {
+   "s": "Ni al mejor amigo, ni a la suegra, a nadie.",
+   "e": "Not to your best friend, not to your mother-in-law, to nobody."
+  },
+  {
+   "s": "Y lo que uno quiere que se sepa, se cuenta una vez.",
+   "e": "And what you want known, you tell once."
+  },
+  {
+   "s": "Una sola boca y el barrio entero se entera.",
+   "e": "One mouth and the whole barrio finds out."
+  },
+  {
+   "s": "El domingo hacemos lo segundo a propósito.",
+   "e": "On Sunday we do the second thing on purpose."
+  },
+  {
+   "s": "Lucía le cuenta a doña Chepa la verdad entera.",
+   "e": "Lucía tells doña Chepa the whole truth."
+  },
+  {
+   "s": "Que buscamos casa a tres cuadras de aquí.",
+   "e": "That we are looking for a house three blocks away."
+  },
+  {
+   "s": "Que no nos vamos del barrio ni del país.",
+   "e": "That we are not leaving the barrio or the country."
+  },
+  {
+   "s": "Que su mamá se puede quedar tranquila.",
+   "e": "That her mother can rest easy."
+  },
+  {
+   "s": "El martes ya todo el mundo sabe la versión buena.",
+   "e": "By Tuesday everybody knows the good version."
+  },
+  {
+   "s": "Cuatro días para el chisme malo, dos para el bueno.",
+   "e": "Four days for the bad gossip, two for the good."
+  },
+  {
+   "s": "La velocidad no cambió, solo la boca de salida.",
+   "e": "The speed did not change, only the mouth it left from."
+  }
+ ]
+}

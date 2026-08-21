@@ -187,6 +187,10 @@
   "en": "to thank",
   "pos": "v"
  },
+ "agregar": {
+  "en": "to add",
+  "pos": "v"
+ },
  "aguantar": {
   "en": "to stand/to put up with",
   "pos": "v"
@@ -202,6 +206,11 @@
   "note": "Recognition, not surprise. 'Áh, sí' = oh, right",
   "pos": "intj"
  },
+ "ahijada": {
+  "en": "goddaughter",
+  "pos": "n",
+  "g": "f"
+ },
  "ahorita": {
   "en": "in a while/now/never",
   "note": "Not a length of time. It states an intention, and the tone tells you which",
@@ -216,6 +225,11 @@
   "g": "m",
   "note": "'No tiene aire' about a car means no air conditioning",
   "pos": "n"
+ },
+ "ajeno": {
+  "en": "belonging to somebody else",
+  "pos": "adj",
+  "note": "Sentirse ajeno - to feel you are from elsewhere"
  },
  "alambre": {
   "en": "wire",
@@ -703,6 +717,11 @@
   "en": "pretty/nice",
   "pos": "adj"
  },
+ "borracho": {
+  "en": "drunk",
+  "pos": "adj",
+  "note": "A sad drunk is pitied, a fighting drunk loses his friends"
+ },
  "borrar": {
   "en": "to rub out",
   "pos": "v"
@@ -738,6 +757,12 @@
   "en": "to toast",
   "note": "Touch every bottle, and look them in the face",
   "pos": "v"
+ },
+ "brindis": {
+  "en": "the little gift handed out at a Purisima door",
+  "pos": "n",
+  "g": "m",
+  "note": "Caps, limes, cajeta, sweets - a household saves for it all year"
  },
  "brocha": {
   "en": "brush",
@@ -788,6 +813,17 @@
   "g": "m",
   "pos": "n"
  },
+ "cachimbo": {
+  "en": "a load of, loads",
+  "pos": "n",
+  "g": "m",
+  "note": "Stronger than monton. Among friends, not with the suegra"
+ },
+ "cadera": {
+  "en": "hip",
+  "pos": "n",
+  "g": "f"
+ },
  "caer": {
   "en": "to fall",
   "pos": "v"
@@ -801,6 +837,11 @@
   "en": "box",
   "g": "f",
   "pos": "n"
+ },
+ "cajeta": {
+  "en": "milk or coconut sweet",
+  "pos": "n",
+  "g": "f"
  },
  "calala": {
   "en": "passionfruit",
@@ -844,6 +885,11 @@
   "en": "bed",
   "g": "f",
   "pos": "n"
+ },
+ "camarón": {
+  "en": "shrimp",
+  "pos": "n",
+  "g": "m"
  },
  "cambiar": {
   "en": "to change",
@@ -925,6 +971,11 @@
   "en": "face",
   "g": "f",
   "pos": "n"
+ },
+ "caramelo": {
+  "en": "sweet",
+  "pos": "n",
+  "g": "m"
  },
  "cargar": {
   "en": "to carry",
@@ -1126,10 +1177,32 @@
   "en": "tiny/little one",
   "pos": "adj"
  },
+ "chischil": {
+  "en": "tin rattle",
+  "pos": "n",
+  "g": "m",
+  "note": "The Purisima gift children fight over and mothers hate"
+ },
+ "chisme": {
+  "en": "gossip",
+  "pos": "n",
+  "g": "m",
+  "note": "The newspaper of the barrio, and it changes at every mouth"
+ },
+ "chismosa": {
+  "en": "a gossip",
+  "pos": "n",
+  "g": "f",
+  "note": "Not a serious insult - a good one is useful"
+ },
  "chiste": {
   "en": "joke",
   "g": "m",
   "pos": "n"
+ },
+ "chocar": {
+  "en": "to knock together, to crash",
+  "pos": "v"
  },
  "chocolate": {
   "en": "chocolate",
@@ -1438,14 +1511,29 @@
   "pos": "n",
   "g": "f"
  },
+ "corona": {
+  "en": "crown",
+  "pos": "n",
+  "g": "f"
+ },
  "corrección": {
   "en": "correction",
   "g": "f",
   "pos": "n"
  },
+ "corredor": {
+  "en": "porch, walkway",
+  "pos": "n",
+  "g": "m"
+ },
  "corregir": {
   "en": "to correct",
   "pos": "v"
+ },
+ "corriente": {
+  "en": "current",
+  "pos": "n",
+  "g": "f"
  },
  "cortar": {
   "en": "to cut",
@@ -1579,6 +1667,12 @@
   "g": "m",
   "pos": "n"
  },
+ "cumbia": {
+  "en": "cumbia",
+  "pos": "n",
+  "g": "f",
+  "note": "The first thing they put on. The step is in the hips"
+ },
  "cumpleaños": {
   "en": "birthday",
   "g": "m",
@@ -1601,6 +1695,11 @@
  "curar": {
   "en": "to cure",
   "pos": "v"
+ },
+ "curiosidad": {
+  "en": "curiosity",
+  "pos": "n",
+  "g": "f"
  },
  "curtido": {
   "en": "pickled cabbage salad",
@@ -2005,6 +2104,10 @@
   "g": "m",
   "note": "El Enano Cabezon - the big-headed boy who recites beside the Gigantona"
  },
+ "encajar": {
+  "en": "to fit",
+  "pos": "v"
+ },
  "encima": {
   "en": "on top",
   "pos": "adv"
@@ -2104,6 +2207,16 @@
   "en": "mistake",
   "g": "m",
   "pos": "n"
+ },
+ "escarcha": {
+  "en": "frost",
+  "pos": "n",
+  "g": "f"
+ },
+ "escoba": {
+  "en": "broom",
+  "pos": "n",
+  "g": "f"
  },
  "escoger": {
   "en": "to choose",
@@ -2216,6 +2329,11 @@
  "exacto": {
   "en": "exact",
   "pos": "adj"
+ },
+ "exagerar": {
+  "en": "to exaggerate",
+  "pos": "v",
+  "note": "Not lying - a story is expected to grow in the telling"
  },
  "examen": {
   "en": "exam",
@@ -2366,6 +2484,11 @@
   "en": "photo",
   "g": "f",
   "pos": "n"
+ },
+ "fotógrafo": {
+  "en": "photographer",
+  "pos": "n",
+  "g": "m"
  },
  "frase": {
   "en": "sentence/phrase",
@@ -2534,6 +2657,15 @@
   "g": "f",
   "pos": "n"
  },
+ "grabación": {
+  "en": "recording",
+  "pos": "n",
+  "g": "f"
+ },
+ "grabar": {
+  "en": "to record",
+  "pos": "v"
+ },
  "gracia": {
   "en": "wit, charm",
   "pos": "n",
@@ -2603,6 +2735,11 @@
   "en": "guide",
   "g": "m",
   "pos": "n"
+ },
+ "hallarse": {
+  "en": "to feel at home in a place",
+  "pos": "v",
+  "note": "No me hallo - you do not fit here, and nobody asks you to explain why"
  },
  "hambre": {
   "en": "hunger",
@@ -2808,6 +2945,10 @@
   "note": "Leaves when it is full, not at a time",
   "pos": "n"
  },
+ "interrumpir": {
+  "en": "to interrupt",
+  "pos": "v"
+ },
  "interés": {
   "en": "interest",
   "g": "m",
@@ -2914,6 +3055,11 @@
   "en": "to hurt",
   "pos": "v"
  },
+ "lata": {
+  "en": "tin",
+  "pos": "n",
+  "g": "f"
+ },
  "lavar": {
   "en": "to wash",
   "pos": "v"
@@ -2935,6 +3081,12 @@
  "lejos": {
   "en": "far",
   "pos": "adv"
+ },
+ "letanía": {
+  "en": "litany",
+  "pos": "n",
+  "g": "f",
+  "note": "The sung part of the Purisima, after the shouted question"
  },
  "letra": {
   "en": "letter",
@@ -3077,6 +3229,11 @@
   "g": "f",
   "pos": "n"
  },
+ "maceta": {
+  "en": "flowerpot",
+  "pos": "n",
+  "g": "f"
+ },
  "madera": {
   "en": "wood",
   "g": "f",
@@ -3101,6 +3258,11 @@
   "en": "teacher",
   "g": "m",
   "pos": "n"
+ },
+ "maldad": {
+  "en": "wickedness",
+  "pos": "n",
+  "g": "f"
  },
  "maleta": {
   "en": "suitcase",
@@ -3381,6 +3543,11 @@
   "g": "m",
   "pos": "n"
  },
+ "montón": {
+  "en": "a load, plenty",
+  "pos": "n",
+  "g": "m"
+ },
  "morado": {
   "en": "purple",
   "pos": "adj",
@@ -3393,6 +3560,11 @@
  "morir": {
   "en": "to die",
   "pos": "v"
+ },
+ "mosca": {
+  "en": "fly",
+  "pos": "n",
+  "g": "f"
  },
  "mostrador": {
   "en": "counter",
@@ -3446,6 +3618,12 @@
   "g": "f",
   "note": "'Mi mujer' is the ordinary word here and carries none of the English weight",
   "pos": "n"
+ },
+ "muletilla": {
+  "en": "filler word",
+  "pos": "n",
+  "g": "f",
+  "note": "pues, va, fijate, ideay - what holds a conversation up"
  },
  "mundo": {
   "en": "world",
@@ -3601,6 +3779,11 @@
   "en": "cloudy",
   "pos": "adj"
  },
+ "nudo": {
+  "en": "knot",
+  "pos": "n",
+  "g": "m"
+ },
  "nuevo": {
   "en": "new",
   "pos": "adj"
@@ -3738,6 +3921,11 @@
   "note": "Each pays for one thing. That is how a wedding happens without money",
   "pos": "n"
  },
+ "palma": {
+  "en": "palm",
+  "pos": "n",
+  "g": "f"
+ },
  "palo": {
   "en": "stick",
   "g": "m",
@@ -3807,6 +3995,11 @@
   "en": "partner/couple",
   "g": "f",
   "pos": "n"
+ },
+ "parlante": {
+  "en": "loudspeaker",
+  "pos": "n",
+  "g": "m"
  },
  "parque": {
   "en": "park",
@@ -3978,6 +4171,11 @@
   "en": "to weigh",
   "pos": "v"
  },
+ "pesca": {
+  "en": "fishing",
+  "pos": "n",
+  "g": "f"
+ },
  "pescado": {
   "en": "fish",
   "g": "m",
@@ -4050,6 +4248,12 @@
   "en": "floor/storey",
   "g": "m",
   "pos": "n"
+ },
+ "pista": {
+  "en": "dance floor",
+  "pos": "n",
+  "g": "f",
+  "note": "Two chairs moved aside is already a pista"
  },
  "plan": {
   "en": "plan",
@@ -4317,6 +4521,11 @@
   "en": "still",
   "pos": "adj"
  },
+ "quinceañera": {
+  "en": "a girl turning fifteen, and her party",
+  "pos": "n",
+  "g": "f"
+ },
  "quincena": {
   "en": "fortnightly pay",
   "g": "f",
@@ -4540,6 +4749,10 @@
   "g": "f",
   "pos": "n"
  },
+ "responsable": {
+  "en": "responsible",
+  "pos": "adj"
+ },
  "respuesta": {
   "en": "answer",
   "g": "f",
@@ -4581,6 +4794,12 @@
   "en": "to laugh",
   "pos": "v"
  },
+ "rincón": {
+  "en": "corner of a room",
+  "pos": "n",
+  "g": "m",
+  "note": "Esquina is a street corner, rincon is an indoor one"
+ },
  "risa": {
   "en": "laughter",
   "g": "f",
@@ -4595,6 +4814,10 @@
   "en": "robbery",
   "g": "m",
   "pos": "n"
+ },
+ "rodear": {
+  "en": "to surround",
+  "pos": "v"
  },
  "rodeo": {
   "en": "a going round the houses",
@@ -4702,6 +4925,11 @@
   "en": "greeting",
   "g": "m",
   "pos": "n"
+ },
+ "salón": {
+  "en": "hall",
+  "pos": "n",
+  "g": "m"
  },
  "santo": {
   "en": "saint",
@@ -5006,6 +5234,12 @@
   "en": "drum",
   "g": "m",
   "pos": "n"
+ },
+ "tanda": {
+  "en": "round of drinks",
+  "pos": "n",
+  "g": "f",
+  "note": "Ordered for the whole table, never for yourself"
  },
  "tapar": {
   "en": "to block/to cover",
@@ -5322,6 +5556,18 @@
   "g": "m",
   "pos": "n"
  },
+ "vals": {
+  "en": "waltz",
+  "pos": "n",
+  "g": "m",
+  "note": "Danced with the father first, at the quince"
+ },
+ "vara": {
+  "en": "stick, rod",
+  "pos": "n",
+  "g": "f",
+  "note": "Ni de vara - not a chance, and not up for discussion"
+ },
  "varilla": {
   "en": "rebar",
   "g": "f",
@@ -5396,6 +5642,16 @@
   "en": "embarrassment/shame",
   "g": "f",
   "pos": "n"
+ },
+ "versión": {
+  "en": "version",
+  "pos": "n",
+  "g": "f"
+ },
+ "vestido": {
+  "en": "dress",
+  "pos": "n",
+  "g": "m"
  },
  "viajar": {
   "en": "to travel",

@@ -1,0 +1,278 @@
+{
+ "id": "p5-11",
+ "title": "Los quince",
+ "desc": "A fifteenth birthday",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "quinceañera",
+  "vals",
+  "vestido",
+  "corona",
+  "padrino",
+  "silla",
+  "fiesta"
+ ],
+ "sn": [
+  {
+   "s": "La hija de Marcos cumple quince en marzo.",
+   "e": "Marcos's daughter turns fifteen in March."
+  },
+  {
+   "s": "Se llama Katia y yo la conozco desde chiquita.",
+   "e": "Her name is Katia and I have known her since she was small."
+  },
+  {
+   "s": "Marcos me habla de los quince desde noviembre.",
+   "e": "Marcos has been talking to me about the quince since November."
+  },
+  {
+   "s": "Habla de los quince como quien habla de una casa.",
+   "e": "He talks about the quince like a man talking about a house."
+  },
+  {
+   "s": "Yo pensaba que era un cumpleaños grande y ya.",
+   "e": "I thought it was a big birthday and that was all."
+  },
+  {
+   "s": "No es un cumpleaños, es otra cosa.",
+   "e": "It is not a birthday, it is something else."
+  },
+  {
+   "s": "Se prepara como una boda y cuesta como una boda.",
+   "e": "It is prepared like a wedding and costs like a wedding."
+  },
+  {
+   "s": "La quinceañera es la muchacha que cumple quince.",
+   "e": "The quinceañera is the girl who turns fifteen."
+  },
+  {
+   "s": "Y la fiesta también se llama la quinceañera.",
+   "e": "And the party is also called the quinceañera."
+  },
+  {
+   "s": "Ese día la quinceañera deja de ser niña.",
+   "e": "That day the quinceañera stops being a child."
+  },
+  {
+   "s": "Sale a la fiesta vestida de mujer.",
+   "e": "She comes out to the party dressed as a woman."
+  },
+  {
+   "s": "Y la familia entera lo mira pasar.",
+   "e": "And the whole family watches it happen."
+  },
+  {
+   "s": "Marcos me enseña el vestido en una foto.",
+   "e": "Marcos shows me the dress in a photograph."
+  },
+  {
+   "s": "El vestido es largo, hasta el suelo, de color rosado.",
+   "e": "The dress is long, to the floor, and pink."
+  },
+  {
+   "s": "Un vestido así cuesta más que mi mes de trabajo.",
+   "e": "A dress like that costs more than my month's pay."
+  },
+  {
+   "s": "Le pregunto si el vestido se alquila.",
+   "e": "I ask him if the dress is rented."
+  },
+  {
+   "s": "Él dice que hay quien alquila el vestido, sí.",
+   "e": "He says there are people who rent the dress, yes."
+  },
+  {
+   "s": "Pero que su hija no va a alquilar nada.",
+   "e": "But that his daughter is not going to rent anything."
+  },
+  {
+   "s": "Con el vestido va una corona chiquita.",
+   "e": "With the dress goes a little crown."
+  },
+  {
+   "s": "La corona se la pone la mamá en la fiesta.",
+   "e": "The mother puts the crown on her at the party."
+  },
+  {
+   "s": "Antes de la corona lleva flores en el pelo.",
+   "e": "Before the crown she wears flowers in her hair."
+  },
+  {
+   "s": "La corona es el momento en que cambia todo.",
+   "e": "The crown is the moment when everything changes."
+  },
+  {
+   "s": "Después de la corona viene el vals.",
+   "e": "After the crown comes the waltz."
+  },
+  {
+   "s": "El vals lo baila primero con el papá.",
+   "e": "She dances the waltz first with her father."
+  },
+  {
+   "s": "Marcos me dice que él está ensayando el vals.",
+   "e": "Marcos tells me he is rehearsing the waltz."
+  },
+  {
+   "s": "Un hombre de cuarenta años ensayando un vals.",
+   "e": "A forty-year-old man rehearsing a waltz."
+  },
+  {
+   "s": "Lo ensaya en la sala con la escoba, dice él.",
+   "e": "He rehearses it in the front room with the broom, he says."
+  },
+  {
+   "s": "Después del papá, la quinceañera baila con los demás.",
+   "e": "After the father, the quinceañera dances with the rest."
+  },
+  {
+   "s": "Con el hermano, con el padrino, con los amigos.",
+   "e": "With her brother, with the godfather, with the friends."
+  },
+  {
+   "s": "Y ahí se acaba el vals y empieza la fiesta.",
+   "e": "And there the waltz ends and the party starts."
+  },
+  {
+   "s": "Después Marcos me habla de la plata.",
+   "e": "Then Marcos talks to me about the money."
+  },
+  {
+   "s": "El vestido, el salón, la comida, la música.",
+   "e": "The dress, the hall, the food, the music."
+  },
+  {
+   "s": "El pastel, las sillas, el fotógrafo, el bus.",
+   "e": "The cake, the chairs, the photographer, the bus."
+  },
+  {
+   "s": "Yo saco la cuenta y me quedo callado.",
+   "e": "I do the sum and I say nothing."
+  },
+  {
+   "s": "Ninguna familia del barrio tiene esa plata junta.",
+   "e": "No family in the barrio has that money together."
+  },
+  {
+   "s": "Y sin embargo todos los años hay quince en el barrio.",
+   "e": "And yet every year there are quince in the barrio."
+  },
+  {
+   "s": "Marcos me explica cómo se paga eso.",
+   "e": "Marcos explains to me how that gets paid."
+  },
+  {
+   "s": "No lo paga una familia, lo pagan los padrinos.",
+   "e": "One family does not pay it, the godparents do."
+  },
+  {
+   "s": "Hay un padrino del vestido y un padrino del pastel.",
+   "e": "There is a godfather of the dress and a godfather of the cake."
+  },
+  {
+   "s": "Otro padrino de la música, otro de las sillas.",
+   "e": "Another godfather of the music, another of the chairs."
+  },
+  {
+   "s": "Cada padrino agarra una parte y la paga.",
+   "e": "Each godfather takes one part and pays for it."
+  },
+  {
+   "s": "La familia sola no podría, con padrinos sí.",
+   "e": "The family alone could not, with godparents they can."
+  },
+  {
+   "s": "Y entonces Marcos se queda callado y me mira.",
+   "e": "And then Marcos goes quiet and looks at me."
+  },
+  {
+   "s": "Me dice que quiere que yo sea padrino de algo.",
+   "e": "He tells me he wants me to be godfather of something."
+  },
+  {
+   "s": "Yo le digo que sí antes de preguntar de qué.",
+   "e": "I say yes before asking of what."
+  },
+  {
+   "s": "Él se ríe y dice que de las sillas.",
+   "e": "He laughs and says of the chairs."
+  },
+  {
+   "s": "Doscientas sillas alquiladas por una noche.",
+   "e": "Two hundred chairs rented for one night."
+  },
+  {
+   "s": "No es el vestido, no es el pastel.",
+   "e": "It is not the dress, it is not the cake."
+  },
+  {
+   "s": "Pero sin sillas la gente se va temprano.",
+   "e": "But without chairs people leave early."
+  },
+  {
+   "s": "Esa noche le cuento a Lucía lo del padrino.",
+   "e": "That night I tell Lucía about the godfather thing."
+  },
+  {
+   "s": "Ella me dice que eso no es un favor.",
+   "e": "She tells me that is not a favour."
+  },
+  {
+   "s": "Que a un padrino se le pide, no se le manda.",
+   "e": "That a godfather is asked, not ordered."
+  },
+  {
+   "s": "Y que Marcos me lo pidió a mí y no a su cuñado.",
+   "e": "And that Marcos asked me and not his own brother-in-law."
+  },
+  {
+   "s": "La fiesta es un sábado de marzo en un salón.",
+   "e": "The party is a Saturday in March in a hall."
+  },
+  {
+   "s": "Katia entra con el vestido rosado y las flores.",
+   "e": "Katia comes in with the pink dress and the flowers."
+  },
+  {
+   "s": "Tiene quince años y camina como si tuviera treinta.",
+   "e": "She is fifteen and walks as if she were thirty."
+  },
+  {
+   "s": "La mamá le pone la corona y llora.",
+   "e": "Her mother puts the crown on her and cries."
+  },
+  {
+   "s": "Marcos baila el vals sin equivocarse ni una vez.",
+   "e": "Marcos dances the waltz without a single mistake."
+  },
+  {
+   "s": "Toda la escoba de la sala sirvió de algo.",
+   "e": "All that broom in the front room was worth something."
+  },
+  {
+   "s": "Yo miro mis doscientas sillas llenas de gente.",
+   "e": "I look at my two hundred chairs full of people."
+  },
+  {
+   "s": "La gente se queda hasta las tres de la mañana.",
+   "e": "The people stay until three in the morning."
+  },
+  {
+   "s": "La quinceañera baila con todos, hasta conmigo, una vuelta.",
+   "e": "The quinceañera dances with everyone, even with me, one turn."
+  },
+  {
+   "s": "Me dice padrino y a mí se me hace un nudo.",
+   "e": "She calls me padrino and something catches in my throat."
+  },
+  {
+   "s": "Yo no soy padrino de ella, soy de unas sillas.",
+   "e": "I am not her godfather, I am the godfather of some chairs."
+  },
+  {
+   "s": "Pero aquí eso también cuenta.",
+   "e": "But here that counts too."
+  }
+ ]
+}

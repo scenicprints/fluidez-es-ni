@@ -1,0 +1,265 @@
+{
+ "id": "p5-13",
+ "title": "Puro cuento",
+ "desc": "Exaggeration as an art form",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "exagerar",
+  "montón",
+  "cachimbo",
+  "vara",
+  "pescado",
+  "grande"
+ ],
+ "sn": [
+  {
+   "s": "Don Beto cuenta un cuento de pesca cada domingo.",
+   "e": "Don Beto tells a fishing story every Sunday."
+  },
+  {
+   "s": "Es el mismo cuento desde hace veinte años.",
+   "e": "It is the same story he has told for twenty years."
+  },
+  {
+   "s": "Lo contó hasta en mi boda, delante de la suegra.",
+   "e": "He even told it at my wedding, in front of my mother-in-law."
+  },
+  {
+   "s": "Pero el cuento no es igual dos veces.",
+   "e": "But the story is not the same twice."
+  },
+  {
+   "s": "En el cuento él pescó un pescado en el lago.",
+   "e": "In the story he caught a fish in the lake."
+  },
+  {
+   "s": "La primera vez que lo oí, el pescado era grande.",
+   "e": "The first time I heard it, the fish was big."
+  },
+  {
+   "s": "Grande como el brazo, decía él.",
+   "e": "Big as an arm, he said."
+  },
+  {
+   "s": "El domingo siguiente el pescado era más grande.",
+   "e": "The next Sunday the fish was bigger."
+  },
+  {
+   "s": "Grande como la pierna, dijo esa vez.",
+   "e": "Big as a leg, he said that time."
+  },
+  {
+   "s": "Este año el pescado no cabe en una mesa.",
+   "e": "This year the fish does not fit on a table."
+  },
+  {
+   "s": "Y nadie en el patio le dice nada.",
+   "e": "And nobody in the yard says anything to him."
+  },
+  {
+   "s": "Yo pregunto por qué nadie lo corrige.",
+   "e": "I ask why nobody corrects him."
+  },
+  {
+   "s": "Mi compadre me mira como si yo fuera grosero.",
+   "e": "My compadre looks at me as if I were being rude."
+  },
+  {
+   "s": "Me dice que eso no se corrige.",
+   "e": "He tells me that is not corrected."
+  },
+  {
+   "s": "Que don Beto no está mintiendo.",
+   "e": "That don Beto is not lying."
+  },
+  {
+   "s": "Está contando, que es otra cosa.",
+   "e": "He is telling a story, which is another thing."
+  },
+  {
+   "s": "Un cuento crece y esa es la gracia del cuento.",
+   "e": "A story grows and that is the point of a story."
+  },
+  {
+   "s": "El que lo escucha ya sabe que va a crecer.",
+   "e": "The one listening already knows it will grow."
+  },
+  {
+   "s": "Nadie está esperando el tamaño de verdad.",
+   "e": "Nobody is waiting for the real size."
+  },
+  {
+   "s": "Están esperando el cuento bien contado.",
+   "e": "They are waiting for the story well told."
+  },
+  {
+   "s": "Exagerar aquí no es mentir, me dice Marcos.",
+   "e": "Exaggerating here is not lying, Marcos tells me."
+  },
+  {
+   "s": "Mentir es decir algo falso para ganar algo.",
+   "e": "Lying is saying something false to gain something."
+  },
+  {
+   "s": "Exagerar es decir algo grande para que se vea.",
+   "e": "Exaggerating is saying something big so it can be seen."
+  },
+  {
+   "s": "Todo el mundo exagera y todo el mundo lo sabe.",
+   "e": "Everybody exaggerates and everybody knows it."
+  },
+  {
+   "s": "El que no exagera cuenta mal.",
+   "e": "The one who does not exaggerate tells it badly."
+  },
+  {
+   "s": "Después Marcos me enseña las palabras de exagerar.",
+   "e": "Then Marcos teaches me the words for exaggerating."
+  },
+  {
+   "s": "La primera es montón, que es la más suave.",
+   "e": "The first is montón, which is the mildest."
+  },
+  {
+   "s": "Un montón de gente, un montón de trabajo.",
+   "e": "A load of people, a load of work."
+  },
+  {
+   "s": "Montón no quiere decir cien, quiere decir bastante.",
+   "e": "Montón does not mean a hundred, it means plenty."
+  },
+  {
+   "s": "Si uno dice un montón, nadie va a contar.",
+   "e": "If you say un montón, nobody is going to count."
+  },
+  {
+   "s": "Después viene cachimbo, que es más fuerte.",
+   "e": "Then comes cachimbo, which is stronger."
+  },
+  {
+   "s": "Un cachimbo de gente es más que un montón.",
+   "e": "Un cachimbo de gente is more than un montón."
+  },
+  {
+   "s": "Cachimbo se usa entre amigos, no con la suegra.",
+   "e": "Cachimbo is used among friends, not with your mother-in-law."
+  },
+  {
+   "s": "Había un cachimbo de gente en el tope, dice él.",
+   "e": "There was a load of people at the tope, he says."
+  },
+  {
+   "s": "Y había, pero no los que dice cachimbo.",
+   "e": "And there were, but not as many as cachimbo says."
+  },
+  {
+   "s": "Después está ni de vara, que es una negación.",
+   "e": "Then there is ni de vara, which is a refusal."
+  },
+  {
+   "s": "Ni de vara quiere decir de ninguna manera.",
+   "e": "Ni de vara means in no way at all."
+  },
+  {
+   "s": "Vos vas a pagar eso, le dicen a Chino.",
+   "e": "You are going to pay for that, they tell Chino."
+  },
+  {
+   "s": "Ni de vara, contesta mi cuñado, y todos se ríen.",
+   "e": "Ni de vara, my brother-in-law answers, and everybody laughs."
+  },
+  {
+   "s": "Ni de vara es más fuerte que un no.",
+   "e": "Ni de vara is stronger than a no."
+  },
+  {
+   "s": "Un no se discute, ni de vara no se discute.",
+   "e": "A no can be argued with, ni de vara cannot."
+  },
+  {
+   "s": "Yo pruebo las tres durante una semana.",
+   "e": "I try the three of them for a week."
+  },
+  {
+   "s": "Digo montón en el trabajo y nadie nota nada.",
+   "e": "I say montón at work and nobody notices anything."
+  },
+  {
+   "s": "Digo cachimbo con Marcos y él me aprueba.",
+   "e": "I say cachimbo with Marcos and he approves."
+  },
+  {
+   "s": "Digo ni de vara cuando Chino me pide plata.",
+   "e": "I say ni de vara when Chino asks me for money."
+  },
+  {
+   "s": "Chino se cae de la risa y no me pide más.",
+   "e": "Chino falls about laughing and does not ask me again."
+  },
+  {
+   "s": "El domingo siguiente me toca contar a mí.",
+   "e": "The following Sunday it is my turn to tell one."
+  },
+  {
+   "s": "Cuento lo del tope y el hombre del aceite.",
+   "e": "I tell about the tope and the man in the oil."
+  },
+  {
+   "s": "Y me oigo exagerar sin haberlo decidido.",
+   "e": "And I hear myself exaggerating without having decided to."
+  },
+  {
+   "s": "Digo que había un cachimbo de gente.",
+   "e": "I say there was a load of people."
+  },
+  {
+   "s": "Digo que caminé una cuadra sin tocar el suelo.",
+   "e": "I say I walked a block without touching the ground."
+  },
+  {
+   "s": "Eso último es verdad, pero suena a cuento.",
+   "e": "That last part is true, but it sounds like a story."
+  },
+  {
+   "s": "Don Beto me dice que no exagere tanto.",
+   "e": "Don Beto tells me not to exaggerate so much."
+  },
+  {
+   "s": "Don Beto, el del pescado del tamaño de una mesa.",
+   "e": "Don Beto, the man with the table-sized fish."
+  },
+  {
+   "s": "Toda la mesa se ríe de él por primera vez.",
+   "e": "The whole table laughs at him for the first time."
+  },
+  {
+   "s": "Él también se ríe y no se enoja.",
+   "e": "He laughs too and does not get angry."
+  },
+  {
+   "s": "Después me dice una cosa en voz baja.",
+   "e": "Then he says something to me quietly."
+  },
+  {
+   "s": "Me dice que el pescado sí era grande.",
+   "e": "He tells me the fish really was big."
+  },
+  {
+   "s": "Grande como el brazo, la primera vez.",
+   "e": "Big as an arm, the first time."
+  },
+  {
+   "s": "Y que hace veinte años que nadie le pregunta.",
+   "e": "And that for twenty years nobody has asked him."
+  },
+  {
+   "s": "Un cuento crece porque nadie quiere el tamaño.",
+   "e": "A story grows because nobody wants the size."
+  },
+  {
+   "s": "Lo que quieren es el domingo, y el cuento.",
+   "e": "What they want is the Sunday, and the story."
+  }
+ ]
+}

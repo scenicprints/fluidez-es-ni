@@ -1,0 +1,293 @@
+{
+ "id": "p5-17",
+ "title": "No me hallo",
+ "desc": "Feeling out of place, in their words",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "hallarse",
+  "ajeno",
+  "pertenecer",
+  "extraño",
+  "sentirse",
+  "lugar"
+ ],
+ "sn": [
+  {
+   "s": "Hay una cosa que me pasa desde el primer año.",
+   "e": "There is a thing that has happened to me since the first year."
+  },
+  {
+   "s": "Me pasa en las fiestas y en las comidas grandes.",
+   "e": "It happens to me at parties and at big meals."
+  },
+  {
+   "s": "Estoy con gente que quiero y me siento afuera.",
+   "e": "I am with people I love and I feel outside."
+  },
+  {
+   "s": "No es tristeza y no es enojo.",
+   "e": "It is not sadness and it is not anger."
+  },
+  {
+   "s": "Es un raro que llega solo y se va solo.",
+   "e": "It is a strangeness that comes on its own and goes on its own."
+  },
+  {
+   "s": "Es algo raro que no sé nombrar.",
+   "e": "It is something strange I do not know how to name."
+  },
+  {
+   "s": "Un raro que no es miedo y no es enojo.",
+   "e": "A strangeness that is not fear and is not anger."
+  },
+  {
+   "s": "En mi idioma no hay una palabra para eso.",
+   "e": "In my language there is no word for it."
+  },
+  {
+   "s": "Yo lo explicaba diciendo que me sentía extraño.",
+   "e": "I used to explain it by saying I felt strange."
+  },
+  {
+   "s": "Extraño es de afuera, y yo no me sentía de afuera.",
+   "e": "Extraño is from outside, and I did not feel from outside."
+  },
+  {
+   "s": "Me sentía raro adentro, que es otra cosa.",
+   "e": "I felt strange inside, which is another thing."
+  },
+  {
+   "s": "Pero extraño no es la palabra tampoco.",
+   "e": "But strange is not the word either."
+  },
+  {
+   "s": "Extraño se dice de una comida o de un ruido.",
+   "e": "Extraño is said of a food or of a noise."
+  },
+  {
+   "s": "Un olor extraño, un ruido extraño en la noche.",
+   "e": "A strange smell, a strange noise in the night."
+  },
+  {
+   "s": "Un domingo estoy en el patio de doña Elena.",
+   "e": "One Sunday I am in doña Elena's yard."
+  },
+  {
+   "s": "Hay como veinte personas y todo va bien.",
+   "e": "There are about twenty people and everything is fine."
+  },
+  {
+   "s": "Y de repente me viene otra vez.",
+   "e": "And suddenly it comes over me again."
+  },
+  {
+   "s": "Me pongo callado en una silla del rincón.",
+   "e": "I go quiet in a chair in the corner."
+  },
+  {
+   "s": "Doña Elena me ve desde la cocina.",
+   "e": "Doña Elena sees me from the kitchen."
+  },
+  {
+   "s": "Viene y se sienta al lado mío sin decir nada.",
+   "e": "She comes and sits beside me without saying anything."
+  },
+  {
+   "s": "Después me pregunta si no me hallo.",
+   "e": "Then she asks me if I do not find myself."
+  },
+  {
+   "s": "Yo no entiendo la pregunta al principio.",
+   "e": "I do not understand the question at first."
+  },
+  {
+   "s": "Hallar es encontrar, eso sí lo sé.",
+   "e": "Hallar is to find, that much I know."
+  },
+  {
+   "s": "Pero hallarse es otra cosa distinta.",
+   "e": "But hallarse is a different thing."
+  },
+  {
+   "s": "Hallarse es estar bien en un lugar.",
+   "e": "Hallarse is being all right in a place."
+  },
+  {
+   "s": "No me hallo quiere decir que uno no está bien ahí.",
+   "e": "No me hallo means you are not right there."
+  },
+  {
+   "s": "No que el lugar sea malo, ni la gente.",
+   "e": "Not that the place is bad, nor the people."
+  },
+  {
+   "s": "Sino que uno no encaja en ese lugar.",
+   "e": "But that you do not fit in that place."
+  },
+  {
+   "s": "Doña Elena me dice que ella no se hallaba en León.",
+   "e": "Doña Elena tells me she did not find herself in León."
+  },
+  {
+   "s": "Vivió cuatro años en León de recién casada.",
+   "e": "She lived four years in León as a newly married woman."
+  },
+  {
+   "s": "La gente era buena y la casa era buena.",
+   "e": "The people were good and the house was good."
+  },
+  {
+   "s": "Pero ella no se hallaba y se vino de vuelta.",
+   "e": "But she did not find herself and she came back."
+  },
+  {
+   "s": "Nunca supo explicar por qué no se hallaba.",
+   "e": "She never knew how to explain why she did not."
+  },
+  {
+   "s": "Y aquí nadie le pidió que lo explicara.",
+   "e": "And here nobody asked her to explain it."
+  },
+  {
+   "s": "Uno se halla o no se halla, y ya.",
+   "e": "You find yourself or you do not, and that is that."
+  },
+  {
+   "s": "Nadie se siente mal por no hallarse en un lugar.",
+   "e": "Nobody feels bad about not finding themselves in a place."
+  },
+  {
+   "s": "Yo pruebo la palabra esa misma tarde.",
+   "e": "I try the word that same afternoon."
+  },
+  {
+   "s": "Le digo a Marcos que a veces no me hallo.",
+   "e": "I tell Marcos that sometimes I do not find myself."
+  },
+  {
+   "s": "Él asiente como si le hubiera dicho la hora.",
+   "e": "He nods as if I had told him the time."
+  },
+  {
+   "s": "No me pregunta por qué ni desde cuándo.",
+   "e": "He does not ask me why or since when."
+  },
+  {
+   "s": "Solo dice que eso pasa y me sirve otra birra.",
+   "e": "He just says that happens and pours me another beer."
+  },
+  {
+   "s": "Un año explicando algo que se dice en tres palabras.",
+   "e": "A year explaining something you can say in three words."
+  },
+  {
+   "s": "Después Lucía me enseña la otra mitad.",
+   "e": "Then Lucía teaches me the other half."
+  },
+  {
+   "s": "Me enseña la palabra ajeno, que es más dura.",
+   "e": "She teaches me the word ajeno, which is harder."
+  },
+  {
+   "s": "Ajeno es lo que es de otro y no de uno.",
+   "e": "Ajeno is what belongs to another and not to you."
+  },
+  {
+   "s": "La vida ajena, la casa ajena, la plata ajena.",
+   "e": "Somebody else's life, somebody else's house, somebody else's money."
+  },
+  {
+   "s": "Sentirse ajeno es sentirse de otra parte.",
+   "e": "To feel ajeno is to feel you are from elsewhere."
+  },
+  {
+   "s": "No me hallo es de hoy, ajeno es de siempre.",
+   "e": "No me hallo is about today, ajeno is about always."
+  },
+  {
+   "s": "Uno puede no hallarse en una fiesta y estar bien.",
+   "e": "You can fail to find yourself at one party and be fine."
+  },
+  {
+   "s": "Sentirse ajeno en su propia casa es otra cosa.",
+   "e": "Feeling ajeno in your own house is another thing."
+  },
+  {
+   "s": "Le pregunto si ella se ha sentido ajena alguna vez.",
+   "e": "I ask her if she has ever felt ajena."
+  },
+  {
+   "s": "Me dice que sí, en el hospital cuando nació el niño.",
+   "e": "She tells me yes, in the hospital when the baby was born."
+  },
+  {
+   "s": "Rodeada de gente y ajena a todo.",
+   "e": "Surrounded by people and a stranger to all of it."
+  },
+  {
+   "s": "La tercera palabra la aprendo de doña Carmen.",
+   "e": "The third word I learn from doña Carmen."
+  },
+  {
+   "s": "Ella habla de pertenecer, que es lo contrario.",
+   "e": "She talks about belonging, which is the opposite."
+  },
+  {
+   "s": "Pertenecer no es vivir en un lugar mucho tiempo.",
+   "e": "Belonging is not living in a place a long time."
+  },
+  {
+   "s": "Uno pertenece cuando lo buscan para algo.",
+   "e": "You belong when somebody comes looking for you for something."
+  },
+  {
+   "s": "Cuando alguien toca la puerta porque necesita.",
+   "e": "When somebody knocks on the door because they need something."
+  },
+  {
+   "s": "El que no pertenece no recibe visitas de esas.",
+   "e": "The one who does not belong gets no visits like that."
+  },
+  {
+   "s": "Yo pienso en doña Elena y el papel del banco.",
+   "e": "I think about doña Elena and the bank document."
+  },
+  {
+   "s": "Pienso en Marcos pidiéndome ser padrino de las sillas.",
+   "e": "I think about Marcos asking me to be godfather of the chairs."
+  },
+  {
+   "s": "Y entiendo que pertenecer ya me pasó.",
+   "e": "And I understand that belonging already happened to me."
+  },
+  {
+   "s": "Pasó y yo no me di cuenta el día que pasó.",
+   "e": "It happened and I did not notice the day it did."
+  },
+  {
+   "s": "Ahora tengo las tres palabras y las uso bien.",
+   "e": "Now I have the three words and I use them properly."
+  },
+  {
+   "s": "No me hallo cuando el ruido es mucho.",
+   "e": "No me hallo when the noise is too much."
+  },
+  {
+   "s": "Me siento ajeno cuando hablan de la guerra.",
+   "e": "I feel ajeno when they talk about the war."
+  },
+  {
+   "s": "Y pertenezco cuando alguien toca mi puerta.",
+   "e": "And I belong when somebody knocks on my door."
+  },
+  {
+   "s": "Las tres son verdad al mismo tiempo.",
+   "e": "All three are true at the same time."
+  },
+  {
+   "s": "Y aquí nadie encuentra eso raro.",
+   "e": "And here nobody finds that strange."
+  }
+ ]
+}

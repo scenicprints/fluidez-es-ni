@@ -1,0 +1,285 @@
+{
+ "id": "p5-12",
+ "title": "El refrán",
+ "desc": "Sayings, and why they end arguments",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "refrán",
+  "camarón",
+  "corriente",
+  "mosca",
+  "sabio",
+  "discusión"
+ ],
+ "sn": [
+  {
+   "s": "En el trabajo hay una discusión desde el lunes.",
+   "e": "At work there has been an argument since Monday."
+  },
+  {
+   "s": "Dos compañeros no se ponen de acuerdo con un horario.",
+   "e": "Two workmates cannot agree about a schedule."
+  },
+  {
+   "s": "La discusión ya lleva tres días y no avanza.",
+   "e": "The argument has gone on three days and does not move."
+  },
+  {
+   "s": "Cada uno repite lo mismo con otras palabras.",
+   "e": "Each one repeats the same thing in other words."
+  },
+  {
+   "s": "Yo escucho la discusión desde mi mesa.",
+   "e": "I listen to the argument from my bench."
+  },
+  {
+   "s": "Don Beto llega el jueves a buscar una herramienta.",
+   "e": "Don Beto comes in on Thursday looking for a tool."
+  },
+  {
+   "s": "Oye la discusión como treinta segundos.",
+   "e": "He listens to the argument for about thirty seconds."
+  },
+  {
+   "s": "Y dice una sola frase corta.",
+   "e": "And he says one short sentence."
+  },
+  {
+   "s": "Camarón que se duerme se lo lleva la corriente.",
+   "e": "A shrimp that falls asleep gets carried off by the current."
+  },
+  {
+   "s": "Y se va con la herramienta sin decir más.",
+   "e": "And he leaves with the tool without saying more."
+  },
+  {
+   "s": "La discusión se acaba ahí mismo.",
+   "e": "The argument ends right there."
+  },
+  {
+   "s": "Nadie dice nada durante un minuto entero.",
+   "e": "Nobody says anything for a whole minute."
+  },
+  {
+   "s": "Después los dos se ponen a trabajar.",
+   "e": "Then the two of them get to work."
+  },
+  {
+   "s": "Yo no entiendo qué acaba de pasar.",
+   "e": "I do not understand what has just happened."
+  },
+  {
+   "s": "Un camarón, una corriente, y se acabó la pelea.",
+   "e": "A shrimp, a current, and the fight is over."
+  },
+  {
+   "s": "En la tarde le pregunto a mi compadre Marcos.",
+   "e": "In the afternoon I ask my compadre Marcos."
+  },
+  {
+   "s": "Marcos me dice que eso fue un refrán.",
+   "e": "Marcos tells me that was a refrán."
+  },
+  {
+   "s": "Un refrán es una frase que ya existía antes.",
+   "e": "A refrán is a sentence that already existed before."
+  },
+  {
+   "s": "Nadie sabe quién inventó un refrán.",
+   "e": "Nobody knows who invented a refrán."
+  },
+  {
+   "s": "Vienen de los abuelos y de los abuelos de ellos.",
+   "e": "They come from the grandparents and from theirs."
+  },
+  {
+   "s": "Un refrán no se discute, me dice Marcos.",
+   "e": "A refrán is not argued with, Marcos tells me."
+  },
+  {
+   "s": "Contra un refrán no hay respuesta.",
+   "e": "Against a refrán there is no answer."
+  },
+  {
+   "s": "Por eso un refrán termina una discusión.",
+   "e": "That is why a refrán ends an argument."
+  },
+  {
+   "s": "El que lo dice no está dando su opinión.",
+   "e": "The one who says it is not giving his opinion."
+  },
+  {
+   "s": "Está diciendo lo que siempre se ha sabido.",
+   "e": "He is saying what has always been known."
+  },
+  {
+   "s": "Y contra eso el otro no puede pelear.",
+   "e": "And against that the other one cannot fight."
+  },
+  {
+   "s": "Le pido a Marcos que me enseñe más.",
+   "e": "I ask Marcos to teach me more."
+  },
+  {
+   "s": "Él me dice el del camarón otra vez.",
+   "e": "He tells me the shrimp one again."
+  },
+  {
+   "s": "El camarón que se duerme pierde su lugar.",
+   "e": "The shrimp that falls asleep loses its place."
+  },
+  {
+   "s": "La corriente no espera a nadie.",
+   "e": "The current waits for nobody."
+  },
+  {
+   "s": "La corriente del refrán es el tiempo que se va.",
+   "e": "The current in the saying is the time that gets away."
+  },
+  {
+   "s": "Se dice cuando alguien está perdiendo el tiempo.",
+   "e": "It is said when somebody is wasting time."
+  },
+  {
+   "s": "La corriente se lleva al que no se mueve.",
+   "e": "The current carries off the one who does not move."
+  },
+  {
+   "s": "Después me dice el de la mosca.",
+   "e": "Then he tells me the one about the fly."
+  },
+  {
+   "s": "En boca cerrada no entra mosca.",
+   "e": "Into a closed mouth no fly enters."
+  },
+  {
+   "s": "Ese se dice cuando conviene callarse.",
+   "e": "That one is said when it is better to keep quiet."
+  },
+  {
+   "s": "La mosca es todo lo malo que entra por hablar.",
+   "e": "The fly is everything bad that comes in from talking."
+  },
+  {
+   "s": "Una mosca en la boca por una palabra de más.",
+   "e": "A fly in the mouth for one word too many."
+  },
+  {
+   "s": "Nadie quiere esa mosca, así que nadie habla de más.",
+   "e": "Nobody wants that fly, so nobody says too much."
+  },
+  {
+   "s": "Después está el del zapato.",
+   "e": "Then there is the one about the shoe."
+  },
+  {
+   "s": "Cada quien sabe dónde le aprieta el zapato.",
+   "e": "Each person knows where his own shoe pinches."
+  },
+  {
+   "s": "Ese se dice cuando uno opina de la vida ajena.",
+   "e": "That is said when somebody has opinions about another's life."
+  },
+  {
+   "s": "Y el de la maceta, que es el más duro.",
+   "e": "And the one about the flowerpot, which is the hardest."
+  },
+  {
+   "s": "El que nace para maceta no pasa del corredor.",
+   "e": "He who is born to be a flowerpot never leaves the porch."
+  },
+  {
+   "s": "Ese se dice de alguien que no va a cambiar.",
+   "e": "That is said of somebody who is not going to change."
+  },
+  {
+   "s": "Marcos me dice que ese no se dice delante.",
+   "e": "Marcos tells me that one is not said to a person's face."
+  },
+  {
+   "s": "Yo apunto los refranes en un cuaderno.",
+   "e": "I write the sayings down in a notebook."
+  },
+  {
+   "s": "Al final del mes tengo veinte refranes.",
+   "e": "By the end of the month I have twenty sayings."
+  },
+  {
+   "s": "Y ninguno lo he podido usar todavía.",
+   "e": "And I have not been able to use a single one yet."
+  },
+  {
+   "s": "Un refrán mal puesto suena horrible.",
+   "e": "A saying badly placed sounds terrible."
+  },
+  {
+   "s": "Suena a extranjero leyendo un cuaderno.",
+   "e": "It sounds like a foreigner reading a notebook."
+  },
+  {
+   "s": "El refrán tiene que salir solo, sin pensarlo.",
+   "e": "The saying has to come out on its own, without thinking."
+  },
+  {
+   "s": "Un domingo Chino llega tarde otra vez.",
+   "e": "One Sunday Chino arrives late again."
+  },
+  {
+   "s": "Llega cuando ya se acabó la comida.",
+   "e": "He arrives when the food is already finished."
+  },
+  {
+   "s": "Se queja de que no le guardaron nada.",
+   "e": "He complains that nobody kept him anything."
+  },
+  {
+   "s": "Y yo digo lo del camarón sin pensarlo.",
+   "e": "And I say the shrimp one without thinking about it."
+  },
+  {
+   "s": "Sale solo, en el segundo justo.",
+   "e": "It comes out on its own, at the exact second."
+  },
+  {
+   "s": "La mesa se ríe y Chino se queda callado.",
+   "e": "The table laughs and Chino says nothing."
+  },
+  {
+   "s": "No tiene respuesta, porque contra un refrán no hay.",
+   "e": "He has no answer, because against a refrán there is none."
+  },
+  {
+   "s": "Doña Elena me mira desde la cocina.",
+   "e": "Doña Elena looks at me from the kitchen."
+  },
+  {
+   "s": "Dice que ya hablo como los viejos.",
+   "e": "She says I talk like the old people now."
+  },
+  {
+   "s": "Y en su boca eso es lo más sabio que hay.",
+   "e": "And in her mouth that is the wisest thing there is."
+  },
+  {
+   "s": "El sabio del barrio no es el que estudió.",
+   "e": "The wise one in the barrio is not the one who studied."
+  },
+  {
+   "s": "El sabio es el que sabe qué frase va dónde.",
+   "e": "The wise one is the one who knows which sentence goes where."
+  },
+  {
+   "s": "Don Beto es el más sabio del barrio y no leyó nunca.",
+   "e": "Don Beto is the wisest in the barrio and never read a thing."
+  },
+  {
+   "s": "Un cuaderno con veinte refranes no hace a nadie sabio.",
+   "e": "A notebook with twenty sayings makes nobody wise."
+  },
+  {
+   "s": "Un refrán en el momento justo, sí.",
+   "e": "A saying at the right moment does."
+  }
+ ]
+}
