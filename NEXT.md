@@ -1,8 +1,18 @@
 # START HERE — what to build next
 
-**All 185 stories are written.** Read `HANDOFF.md` in this same folder for the
-full context, the gates and the reasoning behind them. This file is the short
-version: what to do, right now, in order.
+**Everything is written. The only job left is publishing it, and that needs
+Kevin's go-ahead.** Read `HANDOFF.md` in this same folder for the full context,
+the gates and the reasoning behind them. This file is the short version.
+
+| | | |
+|---|---|---|
+| Stories | **185 / 185** | 77,544 running words |
+| Scenes | **95** | was 40 |
+| Patterns | **52** | was 5, and two of those five were dead |
+| Verbs | **123 verbs, 6 tenses** | was 45 and 3 |
+
+All of it passes the gates. **None of it is published** except the dictionary
+and `verbs.json` — see *What already goes live on every push* below.
 
 ---
 
@@ -43,20 +53,22 @@ It never publishes anything.
 | 6 | Sounding Local | 20 / 20 |
 | 7 | Native-Like | 18 / 18 |
 
-**185 of 185. 77,288 running words. 1,714 words taught, median seven
-encounters, 687 reaching ten. Dialect clean: 555 voseo forms, zero
-off-dialect.**
+**185 of 185. 77,544 running words. 1,714 words taught, median seven
+encounters, 691 reaching ten. Dialect clean across lessons AND scenes: 763
+voseo forms, zero off-dialect.**
 
 Story length ran ~310 words for phases 0–4 (written by an earlier pass) and
 450–875 for phases 5–7. The 148,000-word figure `stage.py` still prints is
 the original plan's estimate and was never met by any phase; it is a target,
 not a gate, and nothing fails because of it.
 
-Nothing is published. New stories are still out of `manifest.json`.
+Warm-ups: 177 of the 185 stories have one, median 2 words. The 8 that do not
+are stories whose vocabulary is entirely words the learner has been reading for
+months — honest blanks. See `reconcile.py` for why that number used to be 95.
 
 ---
 
-## The next three jobs, in this order
+## The three content jobs — all DONE
 
 ### 1. ~~Scenes~~ — DONE. 40 became 95
 

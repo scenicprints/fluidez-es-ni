@@ -274,14 +274,17 @@ Three independent update lanes, all working:
       `reconcile.py` will not let two stories claim the same word, and
       **17 reflexive/plain dictionary pairs** (`quedar`/`quedarse` and the
       rest) cost every shared inflection its tappability.
-- [ ] **Scenes** — 40 exist, grow to ~95, phase-gated, matching the story arc.
-      Scene replies are Spanish-only (the English is blurred behind one
-      "Show the English" control) — do not print translations on the buttons.
-- [ ] **Patterns** — only 5 exist for 8 phases. Grow to ~50. Same
-      `trigger` + `min` vocabulary gating as now.
-- [ ] **Verbs** — `verbs.json` has 45 verbs × 3 tenses × 5 subjects. Expand to
-      ~120 verbs and add imperfect, conditional, present subjunctive and the
-      **voseo imperative** (`hablá`, `comé`, `vení`, `sentate`).
+- [x] **Scenes** — 95, weighted 0:8 1:9 2:11 3:11 4:19 5:14 6:12 7:11. Replies
+      are Spanish-only. NOTE: `screens.js` speaks `step.es` aloud, so a step
+      prompt must be a line somebody says; options are only tapped.
+- [x] **Patterns** — 52. A trigger must be a dictionary LEMMA the course can
+      teach: exposures are keyed on the resolved lemma, so a conjugated form
+      can never be met. Two of the original five were dead for that reason.
+- [x] **Verbs** — 123 verbs × 6 tenses. `cerrar` and `perder` were producing
+      "cerro" and "perdo". Rebuild with
+      `python .github/scripts/verbs_build.py`. The voseo imperative is stored
+      per verb but kept out of `tenses`, because a one-form tense would break
+      `startVerbs()` — drilling it needs an app-repo change.
 - [ ] **Momo lines** — 59 exist, gated on vocabulary. He must never speak
       English; a pack with no earned line gets a bird who reacts silently.
 - [ ] **Audio** — there is **no Nicaraguan TTS voice on any platform**. The
