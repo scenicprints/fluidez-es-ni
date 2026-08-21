@@ -1,0 +1,194 @@
+{
+ "id": "p4-11",
+ "title": "Qué son tus intenciones",
+ "desc": "Being asked directly",
+ "ph": 4,
+ "diff": 4,
+ "wu": [],
+ "sn": [
+  {
+   "s": "La pregunta llega un domingo, sin aviso.",
+   "e": "The question comes one Sunday, with no warning."
+  },
+  {
+   "s": "Estamos almorzando en la casa de doña Elena.",
+   "e": "We are having lunch at doña Elena's house."
+  },
+  {
+   "s": "Están los dos hermanos y una tía.",
+   "e": "The two brothers and an aunt are there."
+  },
+  {
+   "s": "Estamos hablando de nada.",
+   "e": "We are talking about nothing."
+  },
+  {
+   "s": "Y doña Elena baja el tenedor.",
+   "e": "And doña Elena puts down her fork."
+  },
+  {
+   "s": "\"¿Y usted qué piensa hacer?\", pregunta ella.",
+   "e": "\"And what are you planning to do?\" she asks."
+  },
+  {
+   "s": "La mesa entera se queda callada.",
+   "e": "The whole table goes quiet."
+  },
+  {
+   "s": "Todos siguen comiendo como si nada.",
+   "e": "Everybody carries on eating as if nothing."
+  },
+  {
+   "s": "Pero nadie está masticando.",
+   "e": "But nobody is chewing."
+  },
+  {
+   "s": "Yo sé exactamente lo que me está preguntando.",
+   "e": "I know exactly what she is asking me."
+  },
+  {
+   "s": "Me está preguntando por su hija.",
+   "e": "She is asking me about her daughter."
+  },
+  {
+   "s": "Y la pregunta es delante de todos a propósito.",
+   "e": "And the question is in front of everybody on purpose."
+  },
+  {
+   "s": "Si fuera a solas, sería una conversación.",
+   "e": "If it were alone, it would be a conversation."
+  },
+  {
+   "s": "Delante de todos, es un compromiso.",
+   "e": "In front of everybody, it is a commitment."
+  },
+  {
+   "s": "Lo que yo diga aquí van a oírlo cinco personas.",
+   "e": "What I say here five people are going to hear."
+  },
+  {
+   "s": "Y esas cinco personas se lo cuentan a veinte.",
+   "e": "And those five people tell twenty."
+  },
+  {
+   "s": "Roberto me había avisado que esto venía.",
+   "e": "Roberto had warned me this was coming."
+  },
+  {
+   "s": "\"Cuando te lo pregunten, no dudés\", me dijo.",
+   "e": "\"When they ask you, don't hesitate,\" he said."
+  },
+  {
+   "s": "\"Dudar es peor que contestar mal.\"",
+   "e": "\"Hesitating is worse than answering wrong.\""
+  },
+  {
+   "s": "Entonces no dudo.",
+   "e": "So I do not hesitate."
+  },
+  {
+   "s": "\"Yo estoy en serio con ella\", digo yo.",
+   "e": "\"I'm serious about her,\" I say."
+  },
+  {
+   "s": "Doña Elena no cambia la cara.",
+   "e": "Doña Elena does not change her face."
+  },
+  {
+   "s": "\"¿Y piensa quedarse en el país?\"",
+   "e": "\"And are you planning to stay in the country?\""
+  },
+  {
+   "s": "Esa es la segunda pregunta y la más difícil.",
+   "e": "That is the second question and the hardest."
+  },
+  {
+   "s": "Porque la respuesta honesta es que no sé.",
+   "e": "Because the honest answer is that I do not know."
+  },
+  {
+   "s": "Y aquí no sé suena a no.",
+   "e": "And here I do not know sounds like no."
+  },
+  {
+   "s": "Contesto lo único que puedo contestar.",
+   "e": "I answer the only thing I can answer."
+  },
+  {
+   "s": "\"No tengo planes de irme\", digo yo.",
+   "e": "\"I have no plans to leave,\" I say."
+  },
+  {
+   "s": "\"Y si algún día me voy, no me voy solo.\"",
+   "e": "\"And if I ever do go, I won't go alone.\""
+  },
+  {
+   "s": "Eso último no lo tenía pensado.",
+   "e": "That last part I had not planned."
+  },
+  {
+   "s": "Me salió solo.",
+   "e": "It came out on its own."
+  },
+  {
+   "s": "Lucía deja el vaso en la mesa muy despacio.",
+   "e": "Lucía sets her glass down very slowly."
+  },
+  {
+   "s": "Doña Elena me mira unos segundos.",
+   "e": "Doña Elena looks at me for a few seconds."
+  },
+  {
+   "s": "Después agarra el tenedor otra vez.",
+   "e": "Then she picks up her fork again."
+  },
+  {
+   "s": "\"Está bien\", dice ella.",
+   "e": "\"All right,\" she says."
+  },
+  {
+   "s": "Y la mesa vuelve a hablar de nada.",
+   "e": "And the table goes back to talking about nothing."
+  },
+  {
+   "s": "Julio empieza a contar algo del béisbol.",
+   "e": "Julio starts telling something about the baseball."
+  },
+  {
+   "s": "Y ya está, se acabó, se pasó.",
+   "e": "And that is it, it is over, it has passed."
+  },
+  {
+   "s": "Todo eso duró cuarenta segundos.",
+   "e": "All of that lasted forty seconds."
+  },
+  {
+   "s": "Caminando de vuelta le pregunto a Lucía.",
+   "e": "Walking back I ask Lucía."
+  },
+  {
+   "s": "\"¿Eso estuvo bien?\", pregunto yo.",
+   "e": "\"Was that all right?\" I ask."
+  },
+  {
+   "s": "Ella no me contesta enseguida.",
+   "e": "She does not answer straight away."
+  },
+  {
+   "s": "\"Lo de irte acompañado\", dice ella al final.",
+   "e": "\"The bit about not going alone,\" she says finally."
+  },
+  {
+   "s": "\"¿Eso lo dijiste por decir?\"",
+   "e": "\"Did you say that just to say it?\""
+  },
+  {
+   "s": "\"No\", digo yo.",
+   "e": "\"No,\" I say."
+  },
+  {
+   "s": "Y ella no dice nada por dos cuadras enteras.",
+   "e": "And she says nothing for two whole blocks."
+  }
+ ]
+}

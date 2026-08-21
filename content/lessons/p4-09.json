@@ -1,0 +1,196 @@
+{
+ "id": "p4-09",
+ "title": "La suegra",
+ "desc": "The most important relationship you have now",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "año"
+ ],
+ "sn": [
+  {
+   "s": "Doña Elena no me odia.",
+   "e": "Doña Elena does not hate me."
+  },
+  {
+   "s": "Doña Elena tampoco me quiere todavía.",
+   "e": "Doña Elena does not love me yet either."
+  },
+  {
+   "s": "Doña Elena me está mirando.",
+   "e": "Doña Elena is watching me."
+  },
+  {
+   "s": "Y va a estar mirándome varios años.",
+   "e": "And is going to be watching me for several years."
+  },
+  {
+   "s": "Roberto me lo explica sin rodeos.",
+   "e": "Roberto explains it to me plainly."
+  },
+  {
+   "s": "\"La suegra manda más que vos y que ella.\"",
+   "e": "\"The suegra has more say than you or her.\""
+  },
+  {
+   "s": "Al principio yo no le creo.",
+   "e": "At first I do not believe him."
+  },
+  {
+   "s": "Después lo veo funcionar.",
+   "e": "Later I see it work."
+  },
+  {
+   "s": "Lucía tiene veinticuatro años.",
+   "e": "Lucía is twenty-four."
+  },
+  {
+   "s": "Trabaja y estudia y se mantiene sola.",
+   "e": "She works and studies and supports herself."
+  },
+  {
+   "s": "Y le avisa a su mamá cuando sale.",
+   "e": "And she tells her mother when she goes out."
+  },
+  {
+   "s": "No le pide permiso, pero le avisa.",
+   "e": "She does not ask permission, but she tells her."
+  },
+  {
+   "s": "Y a veces la mamá dice algo.",
+   "e": "And sometimes her mother says something."
+  },
+  {
+   "s": "Y a veces por eso el plan cambia.",
+   "e": "And sometimes the plan changes because of it."
+  },
+  {
+   "s": "Yo cometo un error grande al principio.",
+   "e": "I make a big mistake at the start."
+  },
+  {
+   "s": "Trato de tratarla como amiga.",
+   "e": "I try to treat her like a friend."
+  },
+  {
+   "s": "Le hablo suelto, le hago una broma.",
+   "e": "I talk loosely to her, I make a joke."
+  },
+  {
+   "s": "Doña Elena se ríe con la boca nada más.",
+   "e": "Doña Elena laughs with her mouth only."
+  },
+  {
+   "s": "Ese día aprendo la distancia correcta.",
+   "e": "That day I learn the correct distance."
+  },
+  {
+   "s": "Con la suegra siempre usted.",
+   "e": "With the suegra, always usted."
+  },
+  {
+   "s": "Aunque pasen diez años.",
+   "e": "Even if ten years go by."
+  },
+  {
+   "s": "Aunque ella me diga mijo.",
+   "e": "Even if she calls me mijo."
+  },
+  {
+   "s": "El usted no es frialdad.",
+   "e": "The usted is not coldness."
+  },
+  {
+   "s": "El usted es respeto y ella lo espera.",
+   "e": "The usted is respect and she expects it."
+  },
+  {
+   "s": "Después empiezo a hacer otra cosa.",
+   "e": "Then I start doing something else."
+  },
+  {
+   "s": "Voy a la casa cuando Lucía no está.",
+   "e": "I go to the house when Lucía is not there."
+  },
+  {
+   "s": "Voy un sábado a llevarle algo del mercado.",
+   "e": "I go one Saturday to take her something from the market."
+  },
+  {
+   "s": "Voy otro día a ayudarle con una puerta.",
+   "e": "I go another day to help her with a door."
+  },
+  {
+   "s": "No voy por Lucía.",
+   "e": "I do not go for Lucía."
+  },
+  {
+   "s": "Voy por ella, y eso se nota.",
+   "e": "I go for her, and that gets noticed."
+  },
+  {
+   "s": "La tercera vez me da un café sin preguntarme.",
+   "e": "The third time she gives me a coffee without asking."
+  },
+  {
+   "s": "La quinta vez me manda a la pulpería.",
+   "e": "The fifth time she sends me to the pulpería."
+  },
+  {
+   "s": "Un mandado.",
+   "e": "An errand."
+  },
+  {
+   "s": "Yo ya sé lo que significa un mandado.",
+   "e": "I already know what an errand means."
+  },
+  {
+   "s": "Cuatro meses me toma llegar a ese mandado.",
+   "e": "It takes me four months to get to that errand."
+  },
+  {
+   "s": "Cuatro meses para una bolsa de arroz.",
+   "e": "Four months for a bag of rice."
+  },
+  {
+   "s": "Un día ella me habla de su marido.",
+   "e": "One day she talks to me about her husband."
+  },
+  {
+   "s": "El papá de Lucía murió hace nueve años.",
+   "e": "Lucía's father died nine years ago."
+  },
+  {
+   "s": "Ella crió tres hijos sola desde entonces.",
+   "e": "She raised three children alone from then on."
+  },
+  {
+   "s": "Me lo cuenta mientras pela una yuca.",
+   "e": "She tells me while peeling a yuca."
+  },
+  {
+   "s": "Sin mirarme, con las manos ocupadas.",
+   "e": "Without looking at me, with her hands busy."
+  },
+  {
+   "s": "Yo no digo nada, sólo escucho.",
+   "e": "I say nothing, I just listen."
+  },
+  {
+   "s": "Aprendí eso de Marcos hace un año.",
+   "e": "I learned that from Marcos a year ago."
+  },
+  {
+   "s": "Cuando termina me da la yuca pelada.",
+   "e": "When she finishes she hands me the peeled yuca."
+  },
+  {
+   "s": "\"Llévesela a la Carmen\", dice ella.",
+   "e": "\"Take it to Carmen,\" she says."
+  },
+  {
+   "s": "Y ese es el día en que gané algo.",
+   "e": "And that is the day I won something."
+  }
+ ]
+}

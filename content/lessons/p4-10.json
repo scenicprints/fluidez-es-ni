@@ -1,0 +1,190 @@
+{
+ "id": "p4-10",
+ "title": "Los cuñados",
+ "desc": "Her brothers, and the test",
+ "ph": 4,
+ "diff": 4,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Lucía tiene dos hermanos.",
+   "e": "Lucía has two brothers."
+  },
+  {
+   "s": "El mayor se llama Julio y tiene veintiocho.",
+   "e": "The older one is called Julio and is twenty-eight."
+  },
+  {
+   "s": "El menor se llama Chino y tiene veinte.",
+   "e": "The younger is called Chino and is twenty."
+  },
+  {
+   "s": "Chino no se llama Chino, obviamente.",
+   "e": "Chino is not called Chino, obviously."
+  },
+  {
+   "s": "Nadie se llama por su nombre en este país.",
+   "e": "Nobody goes by their name in this country."
+  },
+  {
+   "s": "Los dos me miran con desconfianza al principio.",
+   "e": "They both look at me with suspicion at first."
+  },
+  {
+   "s": "No dicen nada malo.",
+   "e": "They do not say anything bad."
+  },
+  {
+   "s": "Sólo no me hablan mucho.",
+   "e": "They just do not talk to me much."
+  },
+  {
+   "s": "Un sábado Julio me invita a tomar.",
+   "e": "One Saturday Julio invites me for a drink."
+  },
+  {
+   "s": "Me invita con Chino y dos amigos.",
+   "e": "He invites me with Chino and two friends."
+  },
+  {
+   "s": "Lucía me avisa antes de que salga.",
+   "e": "Lucía warns me before I go."
+  },
+  {
+   "s": "\"Te van a vacilar\", dice ella.",
+   "e": "\"They're going to give you a hard time,\" she says."
+  },
+  {
+   "s": "\"Aguantá y no te enojés.\"",
+   "e": "\"Put up with it and don't get annoyed.\""
+  },
+  {
+   "s": "Nos sentamos afuera de una pulpería.",
+   "e": "We sit outside a pulpería."
+  },
+  {
+   "s": "Cinco hombres y una hielera de cervezas.",
+   "e": "Five men and a cooler of beers."
+  },
+  {
+   "s": "Empiezan suave, con lo del acento.",
+   "e": "They start gently, with the accent."
+  },
+  {
+   "s": "Me hacen repetir palabras difíciles.",
+   "e": "They make me repeat hard words."
+  },
+  {
+   "s": "Se ríen de cómo digo la erre.",
+   "e": "They laugh at how I say the r."
+  },
+  {
+   "s": "Yo me río también y digo más palabras.",
+   "e": "I laugh too and say more words."
+  },
+  {
+   "s": "Después Chino sube el nivel.",
+   "e": "Then Chino raises the level."
+  },
+  {
+   "s": "Me pregunta cuánto gano.",
+   "e": "He asks me what I earn."
+  },
+  {
+   "s": "Me pregunta qué voy a hacer con su hermana.",
+   "e": "He asks what I am going to do about his sister."
+  },
+  {
+   "s": "Lo pregunta como broma pero no es broma.",
+   "e": "He asks it as a joke but it is not a joke."
+  },
+  {
+   "s": "Toda la mesa se queda esperando.",
+   "e": "The whole table waits."
+  },
+  {
+   "s": "Yo pienso antes de contestar.",
+   "e": "I think before answering."
+  },
+  {
+   "s": "Si contesto serio, me van a vacilar más.",
+   "e": "If I answer seriously, they will tease me more."
+  },
+  {
+   "s": "Si contesto en broma, parece que no me importa.",
+   "e": "If I answer as a joke, it looks like I do not care."
+  },
+  {
+   "s": "Entonces contesto las dos cosas juntas.",
+   "e": "So I answer both at once."
+  },
+  {
+   "s": "\"Lo que ella quiera\", digo yo.",
+   "e": "\"Whatever she wants,\" I say."
+  },
+  {
+   "s": "\"Porque yo aquí no mando nada.\"",
+   "e": "\"Because I don't decide anything around here.\""
+  },
+  {
+   "s": "Julio se ríe con toda la boca.",
+   "e": "Julio laughs out loud."
+  },
+  {
+   "s": "Chino también, pero después.",
+   "e": "Chino too, but later."
+  },
+  {
+   "s": "Y ahí pasé la prueba, creo.",
+   "e": "And there I passed the test, I think."
+  },
+  {
+   "s": "La noche sigue tres horas más.",
+   "e": "The night goes on three more hours."
+  },
+  {
+   "s": "Me vacilan por todo lo que existe.",
+   "e": "They tease me about everything under the sun."
+  },
+  {
+   "s": "Por la ropa, por el pelo, por cómo camino.",
+   "e": "About my clothes, my hair, how I walk."
+  },
+  {
+   "s": "Yo devuelvo lo que puedo.",
+   "e": "I give back what I can."
+  },
+  {
+   "s": "Le digo a Chino que baila como un señor mayor.",
+   "e": "I tell Chino he dances like an old man."
+  },
+  {
+   "s": "La mesa entera se cae de la risa.",
+   "e": "The whole table falls about laughing."
+  },
+  {
+   "s": "Chino se enoja dos segundos y después no.",
+   "e": "Chino gets annoyed for two seconds and then not."
+  },
+  {
+   "s": "Al final Julio paga toda la noche.",
+   "e": "At the end Julio pays for the whole night."
+  },
+  {
+   "s": "Yo trato de poner y no me deja.",
+   "e": "I try to chip in and he will not let me."
+  },
+  {
+   "s": "\"Otro día\", dice él.",
+   "e": "\"Another day,\" he says."
+  },
+  {
+   "s": "Otro día quiere decir que va a haber otro día.",
+   "e": "Another day means there is going to be another day."
+  },
+  {
+   "s": "Y eso era todo lo que yo quería saber.",
+   "e": "And that was all I wanted to know."
+  }
+ ]
+}
