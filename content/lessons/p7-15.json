@@ -1,0 +1,276 @@
+{
+ "id": "p7-15",
+ "title": "Explicándole a otro chele",
+ "desc": "Teaching somebody who just arrived",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "gritar"
+ ],
+ "sn": [
+  {
+   "s": "En septiembre llega un muchacho nuevo a la fábrica.",
+   "e": "In September a new boy arrives at the factory."
+  },
+  {
+   "s": "Se llama Tom y es canadiense y tiene veinticuatro años.",
+   "e": "His name is Tom, he is Canadian and he is twenty-four."
+  },
+  {
+   "s": "Viene con un proyecto de dos años y estudió español.",
+   "e": "He comes with a two-year project and he studied Spanish."
+  },
+  {
+   "s": "El jefe me lo manda a mí el primer día.",
+   "e": "The boss sends him to me on the first day."
+  },
+  {
+   "s": "Me lo manda sin decir por qué, pero yo sé por qué.",
+   "e": "He sends him without saying why, but I know why."
+  },
+  {
+   "s": "Tom llega hablando un español muy correcto y muy raro.",
+   "e": "Tom arrives speaking a very correct and very strange Spanish."
+  },
+  {
+   "s": "Habla como el libro que yo tenía hace cinco años.",
+   "e": "He talks like the book I had five years ago."
+  },
+  {
+   "s": "Le dice tú a todo el mundo, sin excepción.",
+   "e": "He says tú to everybody, without exception."
+  },
+  {
+   "s": "Le dice tú a don Emilio, que tiene setenta y tres.",
+   "e": "He says tú to don Emilio, who is seventy-three."
+  },
+  {
+   "s": "Don Emilio no le dice nada y se voltea.",
+   "e": "Don Emilio says nothing to him and turns away."
+  },
+  {
+   "s": "Y Tom no se da cuenta de que pasó algo.",
+   "e": "And Tom does not notice that something happened."
+  },
+  {
+   "s": "Yo me acuerdo exactamente de esa cara de no darse cuenta.",
+   "e": "I remember exactly that face of not noticing."
+  },
+  {
+   "s": "Esa tarde me lo llevo a comer y le explico lo del vos.",
+   "e": "That afternoon I take him to eat and explain the vos thing to him."
+  },
+  {
+   "s": "Le digo que el tú aquí suena a telenovela mexicana.",
+   "e": "I tell him that tú here sounds like a Mexican soap opera."
+  },
+  {
+   "s": "Que hay que decir vos, o usted, según con quién.",
+   "e": "That you have to say vos, or usted, depending on who."
+  },
+  {
+   "s": "Él me pregunta cuál es la regla de cuándo va cada uno.",
+   "e": "He asks me what the rule is for when each one goes."
+  },
+  {
+   "s": "Y yo abro la boca para explicársela y no puedo.",
+   "e": "And I open my mouth to explain it to him and I cannot."
+  },
+  {
+   "s": "Porque no hay una regla, hay como veinte.",
+   "e": "Because there is not one rule, there are about twenty."
+  },
+  {
+   "s": "Le digo lo que puedo y sé que no le va a servir.",
+   "e": "I tell him what I can and I know it will not help him."
+  },
+  {
+   "s": "Le digo que a los viejos usted y a los del taller vos.",
+   "e": "I tell him usted to old people and vos to the workshop men."
+  },
+  {
+   "s": "Le digo que a un jefe usted y a un compadre vos.",
+   "e": "I tell him usted to a boss and vos to a compadre."
+  },
+  {
+   "s": "Y que hay gente que le va a decir vos primero.",
+   "e": "And that there are people who will say vos to him first."
+  },
+  {
+   "s": "Y que ahí cambia todo y ya se puede.",
+   "e": "And that there everything changes and then you can."
+  },
+  {
+   "s": "Tom apunta todo en un cuaderno mientras yo hablo.",
+   "e": "Tom writes everything in a notebook while I talk."
+  },
+  {
+   "s": "Y yo me veo a mí mismo apuntando refranes hace años.",
+   "e": "And I see myself writing down sayings years ago."
+  },
+  {
+   "s": "Le digo que el cuaderno no le va a servir de mucho.",
+   "e": "I tell him the notebook is not going to help him much."
+  },
+  {
+   "s": "Él me pregunta qué le va a servir entonces.",
+   "e": "He asks me what is going to help him then."
+  },
+  {
+   "s": "Y yo le digo la verdad, que es una respuesta fea.",
+   "e": "And I tell him the truth, which is an ugly answer."
+  },
+  {
+   "s": "Le digo que le va a servir quedarse dos años.",
+   "e": "I tell him what will help him is staying two years."
+  },
+  {
+   "s": "Que no hay otra cosa y que yo lo intenté todo.",
+   "e": "That there is nothing else and that I tried everything."
+  },
+  {
+   "s": "Los primeros meses me busca para todo lo que no entiende.",
+   "e": "The first months he comes to me for everything he does not understand."
+  },
+  {
+   "s": "Me pregunta por qué la gente le dice mi amor en la fritanga.",
+   "e": "He asks me why people call him mi amor at the fritanga."
+  },
+  {
+   "s": "Me pregunta qué quiere decir ahorita, exactamente.",
+   "e": "He asks me what ahorita means, exactly."
+  },
+  {
+   "s": "Yo le digo que ahorita no quiere decir nada exacto.",
+   "e": "I tell him that ahorita does not mean anything exact."
+  },
+  {
+   "s": "Me pregunta por qué el jefe le dijo depende.",
+   "e": "He asks me why the boss said depende to him."
+  },
+  {
+   "s": "Me pregunta si un vecino se enojó con él o no.",
+   "e": "He asks me if a neighbour got angry with him or not."
+  },
+  {
+   "s": "Cada pregunta suya es una que yo hice hace años.",
+   "e": "Every question of his is one I asked years ago."
+  },
+  {
+   "s": "Y a mí me las contestó Marcos, todas.",
+   "e": "And Marcos answered mine, all of them."
+  },
+  {
+   "s": "Un día me oigo diciéndole a Tom una frase.",
+   "e": "One day I hear myself saying a sentence to Tom."
+  },
+  {
+   "s": "Le digo que aquí se hace así, y no explico más.",
+   "e": "I tell him that here it is done this way, and I explain no further."
+  },
+  {
+   "s": "Y ahí me paro, con el desarmador en la mano.",
+   "e": "And there I stop, with the screwdriver in my hand."
+  },
+  {
+   "s": "Porque esa es la frase que a mí me daban de niño.",
+   "e": "Because that is the sentence they used to give me like a child."
+  },
+  {
+   "s": "Y yo me enojaba, porque quería una razón.",
+   "e": "And I used to get angry, because I wanted a reason."
+  },
+  {
+   "s": "Aquí se hace así no es una razón, es una costumbre.",
+   "e": "Aquí se hace así is not a reason, it is a custom."
+  },
+  {
+   "s": "Y me tomó cinco años entender que es lo mismo.",
+   "e": "And it took me five years to understand it is the same thing."
+  },
+  {
+   "s": "En diciembre invito a Tom a la casa para la gritería.",
+   "e": "In December I invite Tom to the house for the gritería."
+  },
+  {
+   "s": "Llega a las cinco, temprano, porque yo le dije la hora real.",
+   "e": "He arrives at five, early, because I told him the real time."
+  },
+  {
+   "s": "Le expliqué que la gritería sí empieza a la hora.",
+   "e": "I explained to him that the gritería does start on time."
+  },
+  {
+   "s": "Y que casi nada más en este país empieza a la hora.",
+   "e": "And that almost nothing else in this country starts on time."
+  },
+  {
+   "s": "Él se queda parado al lado del altar sin saber qué hacer.",
+   "e": "He stands beside the altar not knowing what to do."
+  },
+  {
+   "s": "Y cuando llega el primer grupo de niños, él no grita.",
+   "e": "And when the first group of children arrives, he does not shout."
+  },
+  {
+   "s": "Se queda callado mirando, con la boca cerrada.",
+   "e": "He stays quiet watching, with his mouth closed."
+  },
+  {
+   "s": "Igual que yo el primer año, exactamente igual.",
+   "e": "The same as me the first year, exactly the same."
+  },
+  {
+   "s": "Yo grito la respuesta con Lucía y con doña Carmen.",
+   "e": "I shout the answer with Lucía and with doña Carmen."
+  },
+  {
+   "s": "Y en el segundo grupo Tom grita también, mal.",
+   "e": "And with the second group Tom shouts too, badly."
+  },
+  {
+   "s": "Grita tarde y grita la mitad de las palabras.",
+   "e": "He shouts late and shouts half the words."
+  },
+  {
+   "s": "Yo no lo corrijo porque no hay nada que corregir.",
+   "e": "I do not correct him because there is nothing to correct."
+  },
+  {
+   "s": "A la cuarta casa le va a salir mejor.",
+   "e": "By the fourth house it will come out better."
+  },
+  {
+   "s": "Y en dos años le va a salir sin pensarlo.",
+   "e": "And in two years it will come out without his thinking."
+  },
+  {
+   "s": "Cuando se va esa noche me da la mano en el portón.",
+   "e": "When he leaves that night he shakes my hand at the gate."
+  },
+  {
+   "s": "Y me dice gracias, en español, y se queda ahí.",
+   "e": "And he says thank you, in Spanish, and stays there."
+  },
+  {
+   "s": "Se queda parado como esperando algo más.",
+   "e": "He stands there as if waiting for something else."
+  },
+  {
+   "s": "Yo lo dejo ahí parado como veinte minutos.",
+   "e": "I leave him standing there for about twenty minutes."
+  },
+  {
+   "s": "Hablando del trabajo y del calor y del bus.",
+   "e": "Talking about work and the heat and the bus."
+  },
+  {
+   "s": "Porque una despedida en el portón se hace despacio.",
+   "e": "Because a goodbye at the gate is done slowly."
+  },
+  {
+   "s": "Y eso no se lo voy a explicar, lo va a aprender.",
+   "e": "And that I am not going to explain to him, he is going to learn it."
+  }
+ ]
+}

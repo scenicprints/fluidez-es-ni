@@ -4,7 +4,9 @@
  "desc": "Steering a conversation",
  "ph": 6,
  "diff": 6,
- "wu": [],
+ "wu": [
+  "tema"
+ ],
  "sn": [
   {
    "s": "Necesito hablar con Chino de una cosa incómoda.",

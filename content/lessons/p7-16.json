@@ -1,0 +1,276 @@
+{
+ "id": "p7-16",
+ "title": "Mi país y este país",
+ "desc": "Belonging to two places badly",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "pasa"
+ ],
+ "sn": [
+  {
+   "s": "La pregunta llega siempre en el mismo momento.",
+   "e": "The question always comes at the same moment."
+  },
+  {
+   "s": "Llega cuando alguien nuevo se sienta al lado mío.",
+   "e": "It comes when somebody new sits down beside me."
+  },
+  {
+   "s": "Me pregunta de dónde soy y espera una palabra.",
+   "e": "He asks me where I am from and waits for one word."
+  },
+  {
+   "s": "Durante cinco años yo dije el nombre de mi país.",
+   "e": "For five years I said the name of my country."
+  },
+  {
+   "s": "Lo decía rápido, para pasar a otra cosa.",
+   "e": "I said it fast, to move on to something else."
+  },
+  {
+   "s": "Y después venían las mismas cuatro preguntas de siempre.",
+   "e": "And then came the same four questions as always."
+  },
+  {
+   "s": "Este año empecé a contestar de otra manera.",
+   "e": "This year I started answering another way."
+  },
+  {
+   "s": "Ahora digo que vivo aquí y después digo de dónde vine.",
+   "e": "Now I say I live here and then I say where I came from."
+  },
+  {
+   "s": "En ese orden, que no es el mismo orden.",
+   "e": "In that order, which is not the same order."
+  },
+  {
+   "s": "Y la conversación se va para otro lado enseguida.",
+   "e": "And the conversation goes somewhere else straight away."
+  },
+  {
+   "s": "Me preguntan de qué barrio y ahí ya estamos hablando.",
+   "e": "They ask me which barrio and there we are already talking."
+  },
+  {
+   "s": "Lucía me dice que yo cambié el orden a propósito.",
+   "e": "Lucía tells me I changed the order on purpose."
+  },
+  {
+   "s": "Y es cierto, aunque me tomó años darme cuenta.",
+   "e": "And it is true, though it took me years to realise."
+  },
+  {
+   "s": "Lo que no cambió es lo de adentro, que sigue partido.",
+   "e": "What did not change is the inside, which is still split."
+  },
+  {
+   "s": "Hay días en que este país me queda ajeno.",
+   "e": "There are days when this country feels ajeno to me."
+  },
+  {
+   "s": "Son pocos y son cortos, pero no se han ido.",
+   "e": "They are few and they are short, but they have not gone."
+  },
+  {
+   "s": "Me pasa en las conversaciones de la guerra.",
+   "e": "It happens to me in the conversations about the war."
+  },
+  {
+   "s": "Me pasa cuando cantan el himno en la escuela del niño.",
+   "e": "It happens when they sing the anthem at the boy's school."
+  },
+  {
+   "s": "Todo el mundo se lo sabe y yo no me lo sé.",
+   "e": "Everybody knows it and I do not."
+  },
+  {
+   "s": "Y no me lo voy a aprender, aunque podría.",
+   "e": "And I am not going to learn it, though I could."
+  },
+  {
+   "s": "Aprendérmelo sería estar actuando de algo.",
+   "e": "Learning it would be acting at being something."
+  },
+  {
+   "s": "Y hay días en que mi país me queda ajeno también.",
+   "e": "And there are days when my own country feels ajeno too."
+  },
+  {
+   "s": "Eso fue lo que no vi venir en cinco años.",
+   "e": "That was what I did not see coming in five years."
+  },
+  {
+   "s": "Cuando fui en junio no me hallé allá tampoco.",
+   "e": "When I went in June no me hallé over there either."
+  },
+  {
+   "s": "No me hallé en la casa donde crecí, con mi propia familia.",
+   "e": "I did not find myself in the house where I grew up, with my own family."
+  },
+  {
+   "s": "Y de eso no se puede hablar con nadie de allá.",
+   "e": "And that cannot be talked about with anybody over there."
+  },
+  {
+   "s": "Porque suena a que uno los está despreciando.",
+   "e": "Because it sounds as if you were looking down on them."
+  },
+  {
+   "s": "Y no es eso, no es nada parecido a eso.",
+   "e": "And it is not that, it is nothing like that."
+  },
+  {
+   "s": "Marcos me dijo una vez cómo se llama esto.",
+   "e": "Marcos told me once what this is called."
+  },
+  {
+   "s": "Me dijo que es lo mismo que le pasa a Roberto.",
+   "e": "He told me it is the same thing that happens to Roberto."
+  },
+  {
+   "s": "Que Roberto en Costa Rica es el nica.",
+   "e": "That Roberto in Costa Rica is the nica."
+  },
+  {
+   "s": "Y que aquí ya le dicen el de Costa Rica.",
+   "e": "And that here they already call him the one from Costa Rica."
+  },
+  {
+   "s": "Y que no hay ningún lugar donde a Roberto no le pongan algo.",
+   "e": "And that there is nowhere where they do not put something on Roberto."
+  },
+  {
+   "s": "Yo le dije que a mí me pasa igual, con menos años.",
+   "e": "I told him that the same happens to me, with fewer years."
+  },
+  {
+   "s": "Él me dijo que sin embargo hay una diferencia.",
+   "e": "He told me that even so there is a difference."
+  },
+  {
+   "s": "Que Roberto se fue por hambre y yo me vine por gusto.",
+   "e": "That Roberto left out of hunger and I came by choice."
+  },
+  {
+   "s": "Y que esa diferencia lo cambia todo aunque duela igual.",
+   "e": "And that that difference changes everything though it hurts the same."
+  },
+  {
+   "s": "Eso me lo dijo hace dos años y yo lo pensé mucho.",
+   "e": "He told me that two years ago and I thought about it a lot."
+  },
+  {
+   "s": "Y creo que tiene razón, aunque no en todo.",
+   "e": "And I think he is right, though not in everything."
+  },
+  {
+   "s": "La parte de la frontera sí es distinta, es cierto.",
+   "e": "The border part is different, that is true."
+  },
+  {
+   "s": "Yo puedo salir y volver y nadie me detiene.",
+   "e": "I can leave and come back and nobody stops me."
+  },
+  {
+   "s": "Roberto pasa Peñas Blancas con la mano temblando.",
+   "e": "Roberto crosses Peñas Blancas with his hand shaking."
+  },
+  {
+   "s": "Eso no es lo mismo y no voy a decir que sí.",
+   "e": "That is not the same and I am not going to say it is."
+  },
+  {
+   "s": "Pero la otra parte, la de adentro, sí es la misma.",
+   "e": "But the other part, the inside one, is the same."
+  },
+  {
+   "s": "Los dos tenemos una casa donde ya no encajamos entero.",
+   "e": "We both have a house where we no longer fit whole."
+  },
+  {
+   "s": "Y otra donde encajamos casi, que es peor.",
+   "e": "And another where we almost fit, which is worse."
+  },
+  {
+   "s": "Lucía me pregunta si me arrepiento de haberme quedado.",
+   "e": "Lucía asks me if I regret having stayed."
+  },
+  {
+   "s": "Se lo pregunta en la cocina, un martes, sin aviso.",
+   "e": "She asks me in the kitchen, on a Tuesday, without warning."
+  },
+  {
+   "s": "Yo le digo que no y ella me dice que piense bien.",
+   "e": "I tell her no and she tells me to think properly."
+  },
+  {
+   "s": "Me dice que no le conteste rápido por quedar bien.",
+   "e": "She tells me not to answer fast just to come out well."
+  },
+  {
+   "s": "Entonces lo pienso de verdad como un minuto.",
+   "e": "So I really think about it for about a minute."
+  },
+  {
+   "s": "Y la respuesta sigue siendo que no, pero es más larga.",
+   "e": "And the answer is still no, but it is longer."
+  },
+  {
+   "s": "Le digo que no me arrepiento y que perdí cosas.",
+   "e": "I tell her I do not regret it and that I lost things."
+  },
+  {
+   "s": "Que perdí ver a mi mamá envejecer de a poco.",
+   "e": "That I lost seeing my mother grow old bit by bit."
+  },
+  {
+   "s": "Que la vi de golpe, cinco años más vieja en una tarde.",
+   "e": "That I saw her all at once, five years older in one afternoon."
+  },
+  {
+   "s": "Que eso no se recupera y nadie me lo va a devolver.",
+   "e": "That that is not recovered and nobody is going to give it back to me."
+  },
+  {
+   "s": "Y que aun así no me arrepiento, y las dos cosas son ciertas.",
+   "e": "And that even so I do not regret it, and both things are true."
+  },
+  {
+   "s": "Lucía no me dice nada y sigue picando cebolla.",
+   "e": "Lucía says nothing to me and goes on chopping onion."
+  },
+  {
+   "s": "A los cinco minutos me dice que ella tampoco.",
+   "e": "Five minutes later she tells me she does not either."
+  },
+  {
+   "s": "Y yo no le había preguntado nada a ella.",
+   "e": "And I had not asked her anything."
+  },
+  {
+   "s": "Ella también perdió cosas por quedarse conmigo.",
+   "e": "She lost things too by staying with me."
+  },
+  {
+   "s": "Un pasaporte de otro país que no quiso pedir.",
+   "e": "A passport from another country that she did not want to ask for."
+  },
+  {
+   "s": "Una hermana que le dijo que se estaba equivocando.",
+   "e": "A sister who told her she was making a mistake."
+  },
+  {
+   "s": "De eso nunca hablamos y esa tarde tampoco.",
+   "e": "We never talk about that and we did not that afternoon either."
+  },
+  {
+   "s": "La cebolla estaba picada y ella cambió de tema.",
+   "e": "The onion was chopped and she changed the subject."
+  },
+  {
+   "s": "Yo la dejé cambiarlo, porque ya sé cómo se hace.",
+   "e": "I let her change it, because I know how it is done now."
+  }
+ ]
+}

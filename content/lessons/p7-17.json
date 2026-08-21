@@ -1,0 +1,284 @@
+{
+ "id": "p7-17",
+ "title": "Hablás como de aquí",
+ "desc": "Somebody says it plainly",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "parada"
+ ],
+ "sn": [
+  {
+   "s": "Estoy esperando el bus en una parada del centro.",
+   "e": "I am waiting for the bus at a stop in the centre."
+  },
+  {
+   "s": "Es un martes en la tarde y hace un calor bárbaro.",
+   "e": "It is a Tuesday afternoon and it is savagely hot."
+  },
+  {
+   "s": "Somos como diez personas esperando la misma ruta.",
+   "e": "There are about ten of us waiting for the same route."
+  },
+  {
+   "s": "Un señor de unos cincuenta años me habla del calor.",
+   "e": "A man of about fifty talks to me about the heat."
+  },
+  {
+   "s": "Me dice que este año está peor que el pasado.",
+   "e": "He tells me this year is worse than last."
+  },
+  {
+   "s": "Yo le digo que sí y le digo lo del agua en agosto.",
+   "e": "I tell him yes and I tell him about the water in August."
+  },
+  {
+   "s": "Él me cuenta que a él se le metió también.",
+   "e": "He tells me it got into his place too."
+  },
+  {
+   "s": "Hablamos como diez minutos de agua y de alcaldía.",
+   "e": "We talk for about ten minutes about water and the town hall."
+  },
+  {
+   "s": "Nos quejamos los dos con las mismas frases.",
+   "e": "We complain, the two of us, with the same phrases."
+  },
+  {
+   "s": "Él dice ni modo y yo digo que ni modo.",
+   "e": "He says ni modo and I say ni modo."
+  },
+  {
+   "s": "Llega el bus y nos subimos y yo me siento atrás.",
+   "e": "The bus comes and we get on and I sit at the back."
+  },
+  {
+   "s": "Y como a las cinco cuadras me doy cuenta de una cosa.",
+   "e": "And about five blocks later I realise something."
+  },
+  {
+   "s": "El señor no me preguntó de dónde soy.",
+   "e": "The man did not ask me where I am from."
+  },
+  {
+   "s": "No me lo preguntó ni una sola vez en diez minutos.",
+   "e": "He did not ask me once in ten minutes."
+  },
+  {
+   "s": "Y esa es la primera vez en cinco años y medio.",
+   "e": "And that is the first time in five and a half years."
+  },
+  {
+   "s": "Un desconocido en una parada, diez minutos de conversación.",
+   "e": "A stranger at a bus stop, ten minutes of conversation."
+  },
+  {
+   "s": "Y ni una pregunta de dónde vengo ni por qué estoy aquí.",
+   "e": "And not one question about where I come from or why I am here."
+  },
+  {
+   "s": "Los primeros años era la primera pregunta, siempre.",
+   "e": "The first years it was the first question, always."
+  },
+  {
+   "s": "Antes del nombre, antes de todo, de dónde sos.",
+   "e": "Before the name, before everything, where are you from."
+  },
+  {
+   "s": "Y siempre por el acento, no por la cara.",
+   "e": "And always because of the accent, not the face."
+  },
+  {
+   "s": "Aquí hay cheles nicaragüenses en todas partes.",
+   "e": "Here there are light-skinned Nicaraguans everywhere."
+  },
+  {
+   "s": "Nadie me miraba y decía extranjero por el color.",
+   "e": "Nobody looked at me and said foreigner because of the colour."
+  },
+  {
+   "s": "Me abrían la boca y ahí sí, en la primera frase.",
+   "e": "I opened my mouth and there yes, in the first sentence."
+  },
+  {
+   "s": "Después empezó a tardar más en pasar.",
+   "e": "Then it started taking longer to happen."
+  },
+  {
+   "s": "Al tercer año la pregunta llegaba a los cinco minutos.",
+   "e": "By the third year the question came at five minutes."
+  },
+  {
+   "s": "Al cuarto llegaba cuando yo decía una palabra rara.",
+   "e": "By the fourth it came when I said a strange word."
+  },
+  {
+   "s": "Este año hay conversaciones enteras sin que llegue.",
+   "e": "This year there are whole conversations without it coming."
+  },
+  {
+   "s": "Y hoy fue una parada y un bus y un señor cualquiera.",
+   "e": "And today it was a bus stop and a bus and an ordinary man."
+  },
+  {
+   "s": "Yo no le hice nada especial a mi manera de hablar.",
+   "e": "I did not do anything special to my way of talking."
+  },
+  {
+   "s": "No estaba cuidándome ni poniendo atención.",
+   "e": "I was not being careful or paying attention."
+  },
+  {
+   "s": "Estaba hablando del agua, enojado, como cualquiera.",
+   "e": "I was talking about the water, annoyed, like anybody."
+  },
+  {
+   "s": "Y ahí es cuando el acento se me va del todo.",
+   "e": "And that is when the accent leaves me altogether."
+  },
+  {
+   "s": "Cuando estoy enojado o cuando estoy cansado.",
+   "e": "When I am angry or when I am tired."
+  },
+  {
+   "s": "Cuando estoy pensando en lo que digo, ahí vuelve.",
+   "e": "When I am thinking about what I say, that is when it comes back."
+  },
+  {
+   "s": "Lucía me lo había dicho hace como dos años.",
+   "e": "Lucía had told me that about two years ago."
+  },
+  {
+   "s": "Me dijo que yo hablo mejor cuando no me oigo.",
+   "e": "She told me I speak better when I am not listening to myself."
+  },
+  {
+   "s": "Se lo cuento en la noche y ella no se sorprende.",
+   "e": "I tell her that night and she is not surprised."
+  },
+  {
+   "s": "Me dice que a ella le pasó hace tiempo con la gente.",
+   "e": "She tells me it happened to her a while ago with people."
+  },
+  {
+   "s": "Que ella dejó de oírme el acento como al tercer año.",
+   "e": "That she stopped hearing my accent around the third year."
+  },
+  {
+   "s": "Y que cuando alguien se lo menciona a ella le extraña.",
+   "e": "And that when somebody mentions it to her it surprises her."
+  },
+  {
+   "s": "Que tiene que acordarse a propósito de que yo soy de afuera.",
+   "e": "That she has to remember on purpose that I am from outside."
+  },
+  {
+   "s": "Después me cuenta una cosa que no me había contado.",
+   "e": "Then she tells me something she had not told me."
+  },
+  {
+   "s": "Me dice que hace meses una vecina le preguntó por mí.",
+   "e": "She tells me that months ago a neighbour asked her about me."
+  },
+  {
+   "s": "Le preguntó de qué parte del país era mi familia.",
+   "e": "She asked her what part of the country my family was from."
+  },
+  {
+   "s": "No de qué país, de qué parte de este país.",
+   "e": "Not what country, what part of this country."
+  },
+  {
+   "s": "Y Lucía le contestó la verdad y la vecina se sorprendió.",
+   "e": "And Lucía answered her the truth and the neighbour was surprised."
+  },
+  {
+   "s": "La vecina llevaba dos años saludándome en la calle.",
+   "e": "The neighbour had spent two years greeting me in the street."
+  },
+  {
+   "s": "Yo le pregunto a Lucía por qué no me lo contó antes.",
+   "e": "I ask Lucía why she did not tell me before."
+  },
+  {
+   "s": "Ella me dice que porque yo me habría puesto a pensar.",
+   "e": "She tells me because I would have started thinking about it."
+  },
+  {
+   "s": "Y que pensando se me nota más el acento.",
+   "e": "And that when I am thinking the accent shows more."
+  },
+  {
+   "s": "Eso es exactamente lo mismo que hizo con lo del cansancio.",
+   "e": "That is exactly the same thing she did with the tiredness."
+  },
+  {
+   "s": "Me lo guardó seis meses para no arruinarlo.",
+   "e": "She kept it from me for six months so as not to ruin it."
+  },
+  {
+   "s": "Al día siguiente me pasa lo que ella dijo.",
+   "e": "The next day what she said happens to me."
+  },
+  {
+   "s": "Ando todo el día oyéndome hablar en el taller.",
+   "e": "I go around all day listening to myself talk in the workshop."
+  },
+  {
+   "s": "Y me sale peor que en toda la semana pasada.",
+   "e": "And it comes out worse than in the whole of last week."
+  },
+  {
+   "s": "Wilmer me pregunta si estoy resfriado, por la voz.",
+   "e": "Wilmer asks me if I have a cold, because of my voice."
+  },
+  {
+   "s": "Yo le digo que no y me callo el resto de la mañana.",
+   "e": "I tell him no and I keep quiet the rest of the morning."
+  },
+  {
+   "s": "Al mediodía ya se me olvidó y hablo normal otra vez.",
+   "e": "By midday I have forgotten and I talk normally again."
+  },
+  {
+   "s": "El que se está oyendo no está hablando, está armando.",
+   "e": "The one listening to himself is not talking, he is building."
+  },
+  {
+   "s": "Yo pasé tres años armando cada frase antes de decirla.",
+   "e": "I spent three years building every sentence before saying it."
+  },
+  {
+   "s": "Ahora las armo solo cuando alguien me hace acordarme.",
+   "e": "Now I only build them when somebody makes me remember."
+  },
+  {
+   "s": "El viernes vuelvo a la misma parada del centro.",
+   "e": "On Friday I go back to the same stop in the centre."
+  },
+  {
+   "s": "No a propósito, es la parada que me queda.",
+   "e": "Not on purpose, it is the stop that suits me."
+  },
+  {
+   "s": "Y no está el señor, y no pasa nada especial.",
+   "e": "And the man is not there, and nothing special happens."
+  },
+  {
+   "s": "Una muchacha me pregunta si ya pasó la ruta.",
+   "e": "A girl asks me if the route has gone by."
+  },
+  {
+   "s": "Le digo que no, que todavía no ha pasado.",
+   "e": "I tell her no, that it has not gone by yet."
+  },
+  {
+   "s": "Ella me dice gracias y se queda esperando al lado mío.",
+   "e": "She says thank you and stays waiting beside me."
+  },
+  {
+   "s": "Y eso es todo lo que pasa esa tarde.",
+   "e": "And that is everything that happens that afternoon."
+  }
+ ]
+}

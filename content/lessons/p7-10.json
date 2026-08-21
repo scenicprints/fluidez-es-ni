@@ -1,0 +1,293 @@
+{
+ "id": "p7-10",
+ "title": "Lo que no se dice",
+ "desc": "Silence as content",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "silencio",
+  "pausa"
+ ],
+ "sn": [
+  {
+   "s": "Doña Elena me llama un jueves y me pide que vaya.",
+   "e": "Doña Elena calls me on a Thursday and asks me to come."
+  },
+  {
+   "s": "No me dice para qué y yo no le pregunto.",
+   "e": "She does not tell me what for and I do not ask her."
+  },
+  {
+   "s": "Llego el viernes en la tarde y hay café hecho.",
+   "e": "I arrive on Friday afternoon and there is coffee made."
+  },
+  {
+   "s": "Hablamos del niño, del calor y de la pierna de ella.",
+   "e": "We talk about the boy, the heat and her leg."
+  },
+  {
+   "s": "Media hora de nada, que ya sé para qué es.",
+   "e": "Half an hour of nothing, which I now know what it is for."
+  },
+  {
+   "s": "Después ella empieza una frase y no la termina.",
+   "e": "Then she starts a sentence and does not finish it."
+  },
+  {
+   "s": "Dice que ella ya está grande y que un día...",
+   "e": "She says she is getting old now and that one day..."
+  },
+  {
+   "s": "Y se queda ahí, mirando la taza.",
+   "e": "And she stops there, looking at the cup."
+  },
+  {
+   "s": "Yo no le digo que termine la frase.",
+   "e": "I do not tell her to finish the sentence."
+  },
+  {
+   "s": "Le sirvo más café y me quedo callado con ella.",
+   "e": "I pour her more coffee and stay quiet with her."
+  },
+  {
+   "s": "Como dos minutos de silencio en la mesa.",
+   "e": "About two minutes of silence at the table."
+  },
+  {
+   "s": "Dos minutos que hace cinco años yo no habría aguantado.",
+   "e": "Two minutes that five years ago I could not have borne."
+  },
+  {
+   "s": "Después ella dice la segunda parte, que sí termina.",
+   "e": "Then she says the second part, which she does finish."
+  },
+  {
+   "s": "Me dice que la casa quede para el niño.",
+   "e": "She tells me the house should go to the boy."
+  },
+  {
+   "s": "No dice cuándo ni dice por qué me lo dice a mí.",
+   "e": "She does not say when or why she is saying it to me."
+  },
+  {
+   "s": "Y yo no pregunto ninguna de las dos cosas.",
+   "e": "And I ask neither of the two things."
+  },
+  {
+   "s": "Le digo que está bien y que no se preocupe.",
+   "e": "I tell her all right and not to worry."
+  },
+  {
+   "s": "Y con eso se cerró un asunto grande.",
+   "e": "And with that a big matter was closed."
+  },
+  {
+   "s": "En el bus de regreso pienso en la frase sin terminar.",
+   "e": "On the bus back I think about the unfinished sentence."
+  },
+  {
+   "s": "Un día, dijo ella, y no dijo un día qué.",
+   "e": "One day, she said, and did not say one day what."
+  },
+  {
+   "s": "Todos sabemos qué es un día en la boca de una señora de sesenta.",
+   "e": "We all know what one day is in the mouth of a woman of sixty."
+  },
+  {
+   "s": "Y por eso no hay que decirlo.",
+   "e": "And that is why it does not have to be said."
+  },
+  {
+   "s": "Decirlo sería obligarla a pensarlo entero.",
+   "e": "Saying it would force her to think it through whole."
+  },
+  {
+   "s": "Lucía me explica esa noche lo de las frases cortadas.",
+   "e": "Lucía explains to me that night about cut-off sentences."
+  },
+  {
+   "s": "Me dice que aquí una frase se corta a propósito.",
+   "e": "She tells me that here a sentence is cut on purpose."
+  },
+  {
+   "s": "Que el que corta le está dando el resto al otro.",
+   "e": "That the one cutting is giving the rest to the other."
+  },
+  {
+   "s": "Y que el otro lo entiende y no lo dice tampoco.",
+   "e": "And that the other understands it and does not say it either."
+  },
+  {
+   "s": "Así lo dicho queda dicho y nadie lo dijo.",
+   "e": "That way what is said stays said and nobody said it."
+  },
+  {
+   "s": "Es lo mismo de la indirecta, pero para adentro.",
+   "e": "It is the same as the hint, but turned inwards."
+  },
+  {
+   "s": "La indirecta pide sin pedir, la frase cortada dice sin decir.",
+   "e": "The hint asks without asking, the cut sentence says without saying."
+  },
+  {
+   "s": "Después me quedo pensando en cuánto me costó el silencio.",
+   "e": "Then I am left thinking about how much silence cost me."
+  },
+  {
+   "s": "Los primeros años yo tapaba todos los silencios.",
+   "e": "The first years I covered up every silence."
+  },
+  {
+   "s": "Si nadie hablaba, yo hablaba, porque me daba miedo.",
+   "e": "If nobody was talking, I talked, because it frightened me."
+  },
+  {
+   "s": "Pensaba que un silencio era un problema mío.",
+   "e": "I thought a silence was a problem of mine."
+  },
+  {
+   "s": "Que era yo el que no encontraba qué decir.",
+   "e": "That I was the one who could not find anything to say."
+  },
+  {
+   "s": "Y muchas veces no era un silencio vacío.",
+   "e": "And many times it was not an empty silence."
+  },
+  {
+   "s": "Era un silencio con algo adentro, esperando.",
+   "e": "It was a silence with something inside it, waiting."
+  },
+  {
+   "s": "Y yo lo tapaba con una pregunta tonta del clima.",
+   "e": "And I covered it up with a silly question about the weather."
+  },
+  {
+   "s": "Marcos me lo dijo una vez, en una acera.",
+   "e": "Marcos told me so once, on a pavement."
+  },
+  {
+   "s": "Me dijo que yo no dejaba caer la conversación.",
+   "e": "He told me I did not let the conversation fall."
+  },
+  {
+   "s": "Y que si nunca cae, nunca se dice nada de verdad.",
+   "e": "And that if it never falls, nothing real ever gets said."
+  },
+  {
+   "s": "Que las cosas grandes salen después de un silencio.",
+   "e": "That the big things come out after a silence."
+  },
+  {
+   "s": "Nunca antes, siempre después.",
+   "e": "Never before, always after."
+  },
+  {
+   "s": "Y que un silencio hay que dejarlo trabajar.",
+   "e": "And that a silence has to be allowed to work."
+  },
+  {
+   "s": "Después están las pausas cortas, que son otra cosa.",
+   "e": "Then there are the short pauses, which are another thing."
+  },
+  {
+   "s": "Una pausa en medio de una frase también dice algo.",
+   "e": "A pause in the middle of a sentence also says something."
+  },
+  {
+   "s": "Si alguien dice que fulano está, y hace una pausa, y dice bien.",
+   "e": "If somebody says so-and-so is, and pauses, and says fine."
+  },
+  {
+   "s": "Ese bien con pausa quiere decir que no está bien.",
+   "e": "That fine with a pause means he is not fine."
+  },
+  {
+   "s": "Y nadie va a preguntar más, porque ya se dijo.",
+   "e": "And nobody is going to ask more, because it has been said."
+  },
+  {
+   "s": "Yo esas pausas no las oía en los primeros años.",
+   "e": "Those pauses I did not hear in the first years."
+  },
+  {
+   "s": "Oía la palabra bien y me iba tranquilo a mi casa.",
+   "e": "I heard the word fine and went home easy."
+  },
+  {
+   "s": "Ahora las oigo y a veces preferiría no oírlas.",
+   "e": "Now I hear them and sometimes I would rather not."
+  },
+  {
+   "s": "En agosto pasa una cosa en el taller con Wilmer.",
+   "e": "In August something happens in the workshop with Wilmer."
+  },
+  {
+   "s": "Le pregunto cómo va todo en Jinotega, por decir.",
+   "e": "I ask him how everything is going in Jinotega, just to say something."
+  },
+  {
+   "s": "Y él dice que todo bien, con una pausa antes del bien.",
+   "e": "And he says everything is fine, with a pause before the fine."
+  },
+  {
+   "s": "Yo no pregunto nada y sigo trabajando.",
+   "e": "I do not ask anything and go on working."
+  },
+  {
+   "s": "Pero al mediodía me siento a comer al lado de él.",
+   "e": "But at midday I sit down to eat beside him."
+  },
+  {
+   "s": "No le pregunto nada, solo me siento ahí.",
+   "e": "I do not ask him anything, I just sit there."
+  },
+  {
+   "s": "A los quince minutos él empieza a contar solo.",
+   "e": "Fifteen minutes in he starts telling it on his own."
+  },
+  {
+   "s": "Su papá está enfermo y en el cafetal no hay trabajo.",
+   "e": "His father is ill and on the coffee farm there is no work."
+  },
+  {
+   "s": "Me lo cuenta entero en diez minutos y no llora.",
+   "e": "He tells me the whole thing in ten minutes and does not cry."
+  },
+  {
+   "s": "Yo no digo casi nada porque no hay nada que decir.",
+   "e": "I say almost nothing because there is nothing to say."
+  },
+  {
+   "s": "Le digo dos cosas concretas que sí puedo hacer.",
+   "e": "I tell him two concrete things that I can do."
+  },
+  {
+   "s": "Y después hablamos del béisbol hasta que suena la sirena.",
+   "e": "And then we talk about baseball until the siren sounds."
+  },
+  {
+   "s": "Esa noche le cuento a Lucía y ella me pregunta una cosa.",
+   "e": "That night I tell Lucía and she asks me one thing."
+  },
+  {
+   "s": "Me pregunta cómo supe que había algo.",
+   "e": "She asks me how I knew there was something."
+  },
+  {
+   "s": "Y yo no sé contestarle, igual que con las reglas.",
+   "e": "And I do not know how to answer her, the same as with the rules."
+  },
+  {
+   "s": "Le digo que por la pausa antes del bien.",
+   "e": "I tell her because of the pause before the fine."
+  },
+  {
+   "s": "Ella me dice que eso no se aprende en cinco años.",
+   "e": "She tells me that is not learned in five years."
+  },
+  {
+   "s": "Yo le digo que a mí me tomó exactamente cinco.",
+   "e": "I tell her it took me exactly five."
+  }
+ ]
+}

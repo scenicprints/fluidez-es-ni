@@ -586,6 +586,10 @@
   "en": "to serve, to see to",
   "pos": "v"
  },
+ "aterrizar": {
+  "en": "to land",
+  "pos": "v"
+ },
  "atragantarse": {
   "en": "to choke",
   "pos": "v"
@@ -713,6 +717,11 @@
   "en": "neighbourhood",
   "g": "m",
   "pos": "n"
+ },
+ "bastón": {
+  "en": "walking stick",
+  "pos": "n",
+  "g": "m"
  },
  "basura": {
   "en": "rubbish",
@@ -902,6 +911,12 @@
   "note": "From English. Between young men",
   "pos": "n"
  },
+ "bulla": {
+  "en": "racket, noise",
+  "pos": "n",
+  "g": "f",
+  "note": "Not a nuisance here, the weather. A quiet block on a Saturday means something happened"
+ },
  "burla": {
   "en": "teasing",
   "g": "f",
@@ -1050,6 +1065,10 @@
   "en": "countryside",
   "g": "m",
   "pos": "n"
+ },
+ "canadiense": {
+  "en": "Canadian",
+  "pos": "adj"
  },
  "canasta": {
   "en": "basket",
@@ -2098,6 +2117,11 @@
   "g": "f",
   "pos": "n"
  },
+ "desconocido": {
+  "en": "a stranger",
+  "pos": "n",
+  "g": "m"
+ },
  "describir": {
   "en": "to describe",
   "pos": "v"
@@ -2133,6 +2157,10 @@
  },
  "despedirse": {
   "en": "to say goodbye",
+  "pos": "v"
+ },
+ "despreciar": {
+  "en": "to look down on",
   "pos": "v"
  },
  "destapar": {
@@ -2477,6 +2505,10 @@
   "en": "interview",
   "g": "f",
   "pos": "n"
+ },
+ "envejecer": {
+  "en": "to grow old",
+  "pos": "v"
  },
  "envolver": {
   "en": "to wrap",
@@ -3032,6 +3064,11 @@
   "en": "serious",
   "pos": "adj"
  },
+ "grillo": {
+  "en": "cricket",
+  "pos": "n",
+  "g": "m"
+ },
  "gris": {
   "en": "grey",
   "pos": "adj"
@@ -3137,6 +3174,11 @@
   "en": "daughter",
   "g": "f",
   "pos": "n"
+ },
+ "himno": {
+  "en": "anthem",
+  "pos": "n",
+  "g": "m"
  },
  "historia": {
   "en": "history/story",
@@ -4035,6 +4077,11 @@
   "g": "m",
   "pos": "n"
  },
+ "mudanza": {
+  "en": "house move",
+  "pos": "n",
+  "g": "f"
+ },
  "mudarse": {
   "en": "to move house",
   "pos": "v"
@@ -4554,6 +4601,12 @@
   "g": "m",
   "pos": "n"
  },
+ "pausa": {
+  "en": "pause",
+  "pos": "n",
+  "g": "f",
+  "note": "A pause before the word bien means he is not fine, and nobody will ask further"
+ },
  "país": {
   "en": "country",
   "g": "m",
@@ -4706,6 +4759,10 @@
  "picante": {
   "en": "hot, spicy",
   "pos": "adj"
+ },
+ "picar": {
+  "en": "to chop",
+  "pos": "v"
  },
  "pie": {
   "en": "foot",
@@ -4975,6 +5032,11 @@
   "g": "m",
   "note": "'A propósito' - on purpose",
   "pos": "n"
+ },
+ "proyecto": {
+  "en": "project",
+  "pos": "n",
+  "g": "m"
  },
  "prueba": {
   "en": "test",
@@ -5310,6 +5372,10 @@
   "en": "beef",
   "g": "f",
   "pos": "n"
+ },
+ "resfriado": {
+  "en": "having a cold",
+  "pos": "adj"
  },
  "resignación": {
   "en": "resignation",
@@ -5681,6 +5747,11 @@
   "en": "pleasant/likeable",
   "pos": "adj"
  },
+ "sirena": {
+  "en": "siren",
+  "pos": "n",
+  "g": "f"
+ },
  "sistema": {
   "en": "system",
   "g": "m",
@@ -5943,6 +6014,10 @@
   "en": "subject/topic",
   "g": "m",
   "pos": "n"
+ },
+ "temblar": {
+  "en": "to shake",
+  "pos": "v"
  },
  "temer": {
   "en": "to fear",
@@ -6220,6 +6295,11 @@
   "en": "cow",
   "g": "f",
   "pos": "n"
+ },
+ "vacaciones": {
+  "en": "holiday",
+  "pos": "n",
+  "g": "f"
  },
  "vacilar": {
   "en": "to tease",

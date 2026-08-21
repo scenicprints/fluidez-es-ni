@@ -1,0 +1,277 @@
+{
+ "id": "p7-14",
+ "title": "Volviendo de afuera",
+ "desc": "Coming back from somewhere else",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "allá",
+  "hablo"
+ ],
+ "sn": [
+  {
+   "s": "En junio viajo a mi país por primera vez en cinco años.",
+   "e": "In June I travel to my country for the first time in five years."
+  },
+  {
+   "s": "Voy solo porque los pasajes de los tres no alcanzaban.",
+   "e": "I go alone because the fares for the three of us were not enough."
+  },
+  {
+   "s": "Voy tres semanas, que es lo que dan de vacaciones.",
+   "e": "I go for three weeks, which is what they give as holiday."
+  },
+  {
+   "s": "El primer día allá me pasa una cosa en la calle.",
+   "e": "The first day over there something happens to me in the street."
+  },
+  {
+   "s": "Camino tres cuadras y no saludo a nadie.",
+   "e": "I walk three blocks and greet nobody."
+  },
+  {
+   "s": "Nadie me saluda a mí tampoco, y eso es normal allá.",
+   "e": "Nobody greets me either, and that is normal over there."
+  },
+  {
+   "s": "Pero yo llevo cinco años saludando en cada esquina.",
+   "e": "But I have spent five years greeting people on every corner."
+  },
+  {
+   "s": "Y el cuerpo me pide saludar y no hay a quién.",
+   "e": "And my body wants to greet and there is nobody to greet."
+  },
+  {
+   "s": "Después está el silencio, que es lo que más me pega.",
+   "e": "Then there is the silence, which is what hits me most."
+  },
+  {
+   "s": "Una calle a las nueve de la noche sin una sola persona.",
+   "e": "A street at nine at night without a single person."
+  },
+  {
+   "s": "Sin música, sin perros, sin nadie en la acera.",
+   "e": "No music, no dogs, nobody on the pavement."
+  },
+  {
+   "s": "Todo el mundo adentro de su casa con la puerta cerrada.",
+   "e": "Everybody inside their house with the door closed."
+  },
+  {
+   "s": "Yo me acordé de la noche del campo cerca de Boaco.",
+   "e": "I remembered the night in the countryside near Boaco."
+  },
+  {
+   "s": "Mi hermana me tiene tres semanas de comidas y visitas.",
+   "e": "My sister has three weeks of meals and visits lined up for me."
+  },
+  {
+   "s": "Y en cada comida me preguntan por Nicaragua.",
+   "e": "And at every meal they ask me about Nicaragua."
+  },
+  {
+   "s": "Me preguntan si es peligroso, todos, sin faltar uno.",
+   "e": "They ask me if it is dangerous, all of them, without fail."
+  },
+  {
+   "s": "Yo les digo que no y no me creen del todo.",
+   "e": "I tell them no and they do not entirely believe me."
+  },
+  {
+   "s": "Me preguntan si hay agua y si hay luz.",
+   "e": "They ask me if there is water and if there is electricity."
+  },
+  {
+   "s": "Me preguntan cuándo voy a volver, y ahí está el problema.",
+   "e": "They ask me when I am going to come back, and there is the problem."
+  },
+  {
+   "s": "Volver, dicen ellos, y quieren decir volver allá.",
+   "e": "Come back, they say, and they mean come back there."
+  },
+  {
+   "s": "Y yo digo que en tres semanas vuelvo.",
+   "e": "And I say that in three weeks I am going back."
+  },
+  {
+   "s": "Y ellos me dicen que no, que volver de verdad.",
+   "e": "And they tell me no, come back for real."
+  },
+  {
+   "s": "Los dos usamos la misma palabra para dos lugares.",
+   "e": "We both use the same word for two places."
+  },
+  {
+   "s": "Y ninguno de los dos se da cuenta al principio.",
+   "e": "And neither of us realises at first."
+  },
+  {
+   "s": "Mi hermana lo nota como a la segunda semana.",
+   "e": "My sister notices it around the second week."
+  },
+  {
+   "s": "Me dice que yo digo allá cuando hablo de aquí.",
+   "e": "She tells me I say over there when I talk about here."
+  },
+  {
+   "s": "Y que digo aquí cuando hablo de Managua.",
+   "e": "And that I say here when I talk about Managua."
+  },
+  {
+   "s": "Estando sentado en la cocina de mi mamá.",
+   "e": "Sitting in my mother's kitchen."
+  },
+  {
+   "s": "No me di cuenta ni una vez de haberlo dicho.",
+   "e": "I did not notice once having said it."
+  },
+  {
+   "s": "Las tres semanas se me hacen largas y eso me da culpa.",
+   "e": "The three weeks feel long to me and that gives me guilt."
+  },
+  {
+   "s": "Es mi familia y los quiero y quiero irme.",
+   "e": "It is my family and I love them and I want to leave."
+  },
+  {
+   "s": "Hablo con Lucía todas las noches por el teléfono.",
+   "e": "I talk to Lucía every night on the phone."
+  },
+  {
+   "s": "Y en esas llamadas hablo español y me sale mejor.",
+   "e": "And in those calls I speak Spanish and it comes out better."
+  },
+  {
+   "s": "Estoy hablando mi idioma todo el día con la gente.",
+   "e": "I am speaking my own language all day with people."
+  },
+  {
+   "s": "Y las once de la noche con Lucía es cuando descanso.",
+   "e": "And eleven at night with Lucía is when I rest."
+  },
+  {
+   "s": "Eso no se lo conté a nadie de allá.",
+   "e": "That I did not tell anybody over there."
+  },
+  {
+   "s": "El día del regreso salgo de madrugada, con dos maletas.",
+   "e": "On the day of the return I leave before dawn, with two suitcases."
+  },
+  {
+   "s": "Una maleta de ropa y una de cosas para la casa.",
+   "e": "One suitcase of clothes and one of things for the house."
+  },
+  {
+   "s": "Cosas que aquí no se consiguen o son muy caras.",
+   "e": "Things you cannot get here or that are very expensive."
+  },
+  {
+   "s": "Igual que las maletas de los que vuelven en diciembre.",
+   "e": "The same as the suitcases of the ones who come back in December."
+  },
+  {
+   "s": "En el avión pienso en cómo se dice lo que estoy haciendo.",
+   "e": "On the plane I think about how you say what I am doing."
+  },
+  {
+   "s": "No estoy viajando a Nicaragua, estoy volviendo.",
+   "e": "I am not travelling to Nicaragua, I am coming back."
+  },
+  {
+   "s": "Aterrizamos a las dos de la tarde en Managua.",
+   "e": "We land at two in the afternoon in Managua."
+  },
+  {
+   "s": "Y la puerta del avión se abre y entra el calor.",
+   "e": "And the door of the plane opens and the heat comes in."
+  },
+  {
+   "s": "Ese calor lo odié cinco años seguidos.",
+   "e": "That heat I hated for five straight years."
+  },
+  {
+   "s": "El primer día que llegué pensé que no iba a aguantar.",
+   "e": "The first day I arrived I thought I was not going to be able to stand it."
+  },
+  {
+   "s": "Y esta vez el calor me entra en la cara y algo se me acomoda.",
+   "e": "And this time the heat hits me in the face and something settles in me."
+  },
+  {
+   "s": "Me quedo parado en la escalera del avión un segundo.",
+   "e": "I stand on the plane steps for a second."
+  },
+  {
+   "s": "Con el olor de aquí, que es de tierra y de humo.",
+   "e": "With the smell of here, which is of earth and smoke."
+  },
+  {
+   "s": "Un olor que yo no sabía que conocía.",
+   "e": "A smell I did not know I knew."
+  },
+  {
+   "s": "Lucía está afuera con el niño en el hombro.",
+   "e": "Lucía is outside with the boy on her shoulder."
+  },
+  {
+   "s": "El niño no me reconoce en los primeros diez segundos.",
+   "e": "The boy does not recognise me in the first ten seconds."
+  },
+  {
+   "s": "Tiene tres años y tres semanas es mucho tiempo.",
+   "e": "He is three and three weeks is a long time."
+  },
+  {
+   "s": "Después me reconoce y no me suelta hasta la casa.",
+   "e": "Then he recognises me and does not let go of me until home."
+  },
+  {
+   "s": "En el taxi hablo español sin pensarlo ni un segundo.",
+   "e": "In the taxi I speak Spanish without a second's thought."
+  },
+  {
+   "s": "Y me doy cuenta en la mitad del camino.",
+   "e": "And I realise halfway along the road."
+  },
+  {
+   "s": "Que no cambié de idioma, se cambió solo.",
+   "e": "That I did not change language, it changed on its own."
+  },
+  {
+   "s": "Llegamos al barrio y el vecino tiene música puesta.",
+   "e": "We get to the barrio and the neighbour has music on."
+  },
+  {
+   "s": "Doña Chepa me grita desde la pulpería que ya volví.",
+   "e": "Doña Chepa shouts at me from the shop that I am back."
+  },
+  {
+   "s": "No me pregunta, me lo dice, que es distinto.",
+   "e": "She does not ask me, she tells me, which is different."
+  },
+  {
+   "s": "Don Beto está en la acera y levanta la mano.",
+   "e": "Don Beto is on the pavement and raises his hand."
+  },
+  {
+   "s": "No nos decimos nada porque nos vemos mañana.",
+   "e": "We do not say anything to each other because we will see each other tomorrow."
+  },
+  {
+   "s": "Abro el portón de mi casa a las cuatro de la tarde.",
+   "e": "I open the gate of my house at four in the afternoon."
+  },
+  {
+   "s": "Y adentro huele a la comida que hizo Lucía.",
+   "e": "And inside it smells of the food Lucía made."
+  },
+  {
+   "s": "Ella hizo lo que yo pido siempre después de un viaje.",
+   "e": "She made what I always ask for after a trip."
+  },
+  {
+   "s": "Gallo pinto, que es lo primero que comí en este país.",
+   "e": "Gallo pinto, which is the first thing I ate in this country."
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "id": "p7-18",
+ "title": "Ya sos nica",
+ "desc": "The last one",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "seguir",
+  "hijo"
+ ],
+ "sn": [
+  {
+   "s": "Un sábado de agosto hay almuerzo en la casa de doña Elena.",
+   "e": "One Saturday in August there is lunch at doña Elena's house."
+  },
+  {
+   "s": "No es por nada, no es cumpleaños ni es fiesta.",
+   "e": "It is not for anything, it is not a birthday or a party."
+  },
+  {
+   "s": "Es un sábado y son las once y hay gente.",
+   "e": "It is a Saturday and it is eleven and there are people."
+  },
+  {
+   "s": "Estamos como veinte entre el patio y la cocina.",
+   "e": "There are about twenty of us between the yard and the kitchen."
+  },
+  {
+   "s": "Está Marcos con la mujer y con los cuatro hijos.",
+   "e": "Marcos is there with his wife and his four children."
+  },
+  {
+   "s": "Está Chino y está Julio y está doña Carmen.",
+   "e": "Chino is there and Julio is there and doña Carmen is there."
+  },
+  {
+   "s": "Está don Beto, que ya camina despacio con bastón.",
+   "e": "Don Beto is there, who walks slowly now with a stick."
+  },
+  {
+   "s": "Está mi hijo, que tiene cuatro años y corre.",
+   "e": "My son is there, who is four years old and runs."
+  },
+  {
+   "s": "Yo llegué a las once y media, que es la hora buena.",
+   "e": "I arrived at half past eleven, which is the right time."
+  },
+  {
+   "s": "No a las once, que era la hora que dijeron.",
+   "e": "Not at eleven, which was the time they said."
+  },
+  {
+   "s": "Estoy en la cocina picando cebolla con doña Elena.",
+   "e": "I am in the kitchen chopping onion with doña Elena."
+  },
+  {
+   "s": "Ella está haciendo el arroz y yo hago lo que me manda.",
+   "e": "She is making the rice and I do what she tells me."
+  },
+  {
+   "s": "No mide nada y yo ya no le pregunto cantidades.",
+   "e": "She measures nothing and I no longer ask her amounts."
+  },
+  {
+   "s": "Le pongo sal a la olla con tres dedos, como ella.",
+   "e": "I put salt in the pot with three fingers, like her."
+  },
+  {
+   "s": "Ella la prueba y me dice que le falta un poquito.",
+   "e": "She tastes it and tells me it needs a little bit more."
+  },
+  {
+   "s": "Le pongo un poquito más y no me dice nada.",
+   "e": "I put a little more in and she says nothing."
+  },
+  {
+   "s": "No decirme nada es lo que ella dice cuando está bien.",
+   "e": "Saying nothing to me is what she says when it is right."
+  },
+  {
+   "s": "Afuera Chino está discutiendo de béisbol con Julio.",
+   "e": "Outside Chino is arguing about baseball with Julio."
+  },
+  {
+   "s": "La misma discusión de siempre, que nunca se acaba.",
+   "e": "The same argument as always, which never ends."
+  },
+  {
+   "s": "Yo salgo con la olla y me meto en la discusión.",
+   "e": "I go out with the pot and get into the argument."
+  },
+  {
+   "s": "Interrumpo a Chino enganchando lo que estaba diciendo.",
+   "e": "I interrupt Chino by hooking onto what he was saying."
+  },
+  {
+   "s": "Y digo una cosa de un partido de hace cuatro años.",
+   "e": "And I say something about a game four years ago."
+  },
+  {
+   "s": "Un partido que vi yo, en el estadio, con Marcos.",
+   "e": "A game I watched myself, at the stadium, with Marcos."
+  },
+  {
+   "s": "La mesa se ríe y Julio dice que eso no cuenta.",
+   "e": "The table laughs and Julio says that does not count."
+  },
+  {
+   "s": "Yo le digo un refrán y Julio se queda sin respuesta.",
+   "e": "I say a saying to him and Julio is left with no answer."
+  },
+  {
+   "s": "Es el del camarón, que sigue funcionando siempre.",
+   "e": "It is the shrimp one, which always still works."
+  },
+  {
+   "s": "Comemos como a la una y media, en el patio.",
+   "e": "We eat at about half past one, in the yard."
+  },
+  {
+   "s": "Yo me siento entre don Beto y mi hijo.",
+   "e": "I sit between don Beto and my son."
+  },
+  {
+   "s": "Don Beto me cuenta otro pedazo de la historia del hermano.",
+   "e": "Don Beto tells me another piece of his brother's story."
+  },
+  {
+   "s": "Un pedazo más, y esta vez llega casi al final.",
+   "e": "One more piece, and this time it gets almost to the end."
+  },
+  {
+   "s": "No llega del todo, pero llega más que las otras veces.",
+   "e": "It does not get all the way, but further than the other times."
+  },
+  {
+   "s": "Yo no le pregunto nada de lo que falta.",
+   "e": "I do not ask him anything about what is missing."
+  },
+  {
+   "s": "Después de comer se sientan a hablar y yo también.",
+   "e": "After eating they sit down to talk and so do I."
+  },
+  {
+   "s": "Nadie me explica nada en toda la tarde.",
+   "e": "Nobody explains anything to me all afternoon."
+  },
+  {
+   "s": "Esa es la cosa que noto como a las cuatro.",
+   "e": "That is the thing I notice at about four."
+  },
+  {
+   "s": "Nadie me tradujo un chiste, nadie me repitió una frase.",
+   "e": "Nobody translated a joke for me, nobody repeated a sentence."
+  },
+  {
+   "s": "Nadie me dijo qué quería decir una palabra.",
+   "e": "Nobody told me what a word meant."
+  },
+  {
+   "s": "Nadie bajó la velocidad para que yo entendiera.",
+   "e": "Nobody slowed down so that I could understand."
+  },
+  {
+   "s": "Y yo tampoco lo noté hasta las cuatro de la tarde.",
+   "e": "And I did not notice it either until four in the afternoon."
+  },
+  {
+   "s": "Como a esa hora llega una prima de Chino de visita.",
+   "e": "At about that time a cousin of Chino's comes visiting."
+  },
+  {
+   "s": "Una muchacha de Estelí que no conoce a nadie aquí.",
+   "e": "A girl from Estelí who knows nobody here."
+  },
+  {
+   "s": "Se sienta al lado de Lucía y hablan un rato.",
+   "e": "She sits beside Lucía and they talk for a while."
+  },
+  {
+   "s": "Después Chino le va presentando a todo el mundo.",
+   "e": "Then Chino goes around introducing her to everybody."
+  },
+  {
+   "s": "Este es Julio, mi hermano, y esta es doña Carmen.",
+   "e": "This is Julio, my brother, and this is doña Carmen."
+  },
+  {
+   "s": "Este es Marcos, el compadre, y esta es su mujer.",
+   "e": "This is Marcos, the compadre, and this is his wife."
+  },
+  {
+   "s": "Y llega a mí y no dice nada de dónde vengo.",
+   "e": "And he gets to me and says nothing about where I come from."
+  },
+  {
+   "s": "Dice mi cuñado, y dice mi nombre, y sigue.",
+   "e": "He says my brother-in-law, and says my name, and moves on."
+  },
+  {
+   "s": "La muchacha me da la mano y me dice mucho gusto.",
+   "e": "The girl shakes my hand and says pleased to meet you."
+  },
+  {
+   "s": "Y sigue con el siguiente y ahí se acabó.",
+   "e": "And goes on to the next and that was that."
+  },
+  {
+   "s": "Nadie explicó nada porque no había nada que explicar.",
+   "e": "Nobody explained anything because there was nothing to explain."
+  },
+  {
+   "s": "Como a las seis empieza a bajar el calor.",
+   "e": "At about six the heat starts to drop."
+  },
+  {
+   "s": "Doña Elena saca café y pan para los que quedamos.",
+   "e": "Doña Elena brings out coffee and bread for those of us left."
+  },
+  {
+   "s": "Quedamos como ocho, que son los de siempre.",
+   "e": "About eight of us are left, who are the usual ones."
+  },
+  {
+   "s": "Mi hijo se durmió en una silla con la boca abierta.",
+   "e": "My son fell asleep in a chair with his mouth open."
+  },
+  {
+   "s": "Marcos dice algo de que ya son varios años.",
+   "e": "Marcos says something about it being several years now."
+  },
+  {
+   "s": "Lo dice sin ninguna importancia, tomando café.",
+   "e": "He says it with no importance at all, drinking coffee."
+  },
+  {
+   "s": "Doña Elena saca la cuenta en voz alta desde la puerta.",
+   "e": "Doña Elena does the sum out loud from the doorway."
+  },
+  {
+   "s": "Dice que yo llegué el año que se casó su sobrina.",
+   "e": "She says I arrived the year her niece got married."
+  },
+  {
+   "s": "Y que eso fue hace seis años en septiembre.",
+   "e": "And that that was six years ago in September."
+  },
+  {
+   "s": "Seis años, dice ella, y se queda ahí en la puerta.",
+   "e": "Six years, she says, and stays there in the doorway."
+  },
+  {
+   "s": "Después dice una cosa a nadie en particular.",
+   "e": "Then she says something to nobody in particular."
+  },
+  {
+   "s": "Dice que este ya es de aquí, que ya no se va.",
+   "e": "She says this one is from here now, that he is not leaving."
+  },
+  {
+   "s": "No me lo dice a mí, se lo dice al patio.",
+   "e": "She does not say it to me, she says it to the yard."
+  },
+  {
+   "s": "Marcos dice que sí con la cabeza y sigue tomando café.",
+   "e": "Marcos nods and goes on drinking his coffee."
+  },
+  {
+   "s": "Y nadie más dice nada porque no hace falta.",
+   "e": "And nobody else says anything because there is no need."
+  },
+  {
+   "s": "La conversación sigue con otra cosa enseguida.",
+   "e": "The conversation goes on with something else straight away."
+  },
+  {
+   "s": "Yo me quedo con la taza en la mano un rato.",
+   "e": "I stay with the cup in my hand for a while."
+  },
+  {
+   "s": "Igual que me quedé con el teléfono hace años.",
+   "e": "The same as I stayed with the phone years ago."
+  },
+  {
+   "s": "A las siete cargo a mi hijo dormido para la casa.",
+   "e": "At seven I pick up my sleeping son to go home."
+  },
+  {
+   "s": "Empiezo la despedida a las siete y salimos a las ocho.",
+   "e": "I start the goodbye at seven and we leave at eight."
+  },
+  {
+   "s": "Media hora de eso pasa en el portón, como debe ser.",
+   "e": "Half an hour of it happens at the gate, as it should be."
+  },
+  {
+   "s": "Caminamos las cuatro cuadras hasta la casa.",
+   "e": "We walk the four blocks to the house."
+  },
+  {
+   "s": "Va oscureciendo y el vecino ya tiene la música puesta.",
+   "e": "It is getting dark and the neighbour already has the music on."
+  },
+  {
+   "s": "Lucía me pregunta si oí lo que dijo su mamá.",
+   "e": "Lucía asks me if I heard what her mother said."
+  },
+  {
+   "s": "Yo le digo que sí, que lo oí bien.",
+   "e": "I tell her yes, that I heard it clearly."
+  },
+  {
+   "s": "Ella me pregunta qué sentí cuando lo oyó.",
+   "e": "She asks me what I felt when I heard it."
+  },
+  {
+   "s": "Y yo me quedo pensando las cuatro cuadras enteras.",
+   "e": "And I think about it for the whole four blocks."
+  },
+  {
+   "s": "Le digo que no sentí nada especial, y es la verdad.",
+   "e": "I tell her I did not feel anything special, and it is the truth."
+  },
+  {
+   "s": "Le digo que lo raro es que no me sorprendió.",
+   "e": "I tell her the strange thing is that it did not surprise me."
+  },
+  {
+   "s": "Que hace tres años eso me habría cambiado el año.",
+   "e": "That three years ago that would have changed my year."
+  },
+  {
+   "s": "Y que hoy fue una cosa que alguien dijo en un patio.",
+   "e": "And that today it was a thing somebody said in a yard."
+  },
+  {
+   "s": "Lucía me dice que eso es exactamente lo que significa.",
+   "e": "Lucía tells me that that is exactly what it means."
+  },
+  {
+   "s": "Que uno no es de un lugar el día que se lo dicen.",
+   "e": "That you are not from a place the day they tell you."
+  },
+  {
+   "s": "Uno es de un lugar el día que ya no le hace falta oírlo.",
+   "e": "You are from a place the day you no longer need to hear it."
+  },
+  {
+   "s": "Abrimos el portón y adentro huele a la casa.",
+   "e": "We open the gate and inside it smells of home."
+  },
+  {
+   "s": "Acuesto al niño y me quedo un rato en el patio.",
+   "e": "I put the boy to bed and stay a while in the yard."
+  },
+  {
+   "s": "La bandera de papel sigue pegada en la pared del cuarto.",
+   "e": "The paper flag is still stuck to the bedroom wall."
+  },
+  {
+   "s": "Nadie me ha preguntado nunca por qué está ahí.",
+   "e": "Nobody has ever asked me why it is there."
+  }
+ ]
+}

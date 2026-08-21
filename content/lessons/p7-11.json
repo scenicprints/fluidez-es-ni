@@ -1,0 +1,288 @@
+{
+ "id": "p7-11",
+ "title": "La bulla",
+ "desc": "Noise, and living inside it",
+ "ph": 7,
+ "diff": 7,
+ "wu": [
+  "bulla",
+  "música",
+  "vecino",
+  "dormir",
+  "cuadra"
+ ],
+ "sn": [
+  {
+   "s": "La primera noche que dormí en este barrio no dormí.",
+   "e": "The first night I slept in this barrio I did not sleep."
+  },
+  {
+   "s": "Eso fue hace cinco años, en el cuarto de la pensión.",
+   "e": "That was five years ago, in the room at the boarding house."
+  },
+  {
+   "s": "Me acosté a las diez y a las diez y media empezó.",
+   "e": "I lay down at ten and at half past ten it started."
+  },
+  {
+   "s": "Primero la música del vecino, a un volumen imposible.",
+   "e": "First the neighbour's music, at an impossible volume."
+  },
+  {
+   "s": "Después los perros, que son como veinte en la cuadra.",
+   "e": "Then the dogs, which are about twenty on the block."
+  },
+  {
+   "s": "Después un carro con un anuncio de una fritanga.",
+   "e": "Then a car with an advert for a fritanga."
+  },
+  {
+   "s": "Después una iglesia evangélica con un parlante afuera.",
+   "e": "Then an evangelical church with a speaker outside."
+  },
+  {
+   "s": "Y a las cinco de la mañana los gallos.",
+   "e": "And at five in the morning the roosters."
+  },
+  {
+   "s": "Yo me senté en la cama a las tres de la mañana.",
+   "e": "I sat up in bed at three in the morning."
+  },
+  {
+   "s": "Y pensé que no iba a poder vivir en este país.",
+   "e": "And I thought I was not going to be able to live in this country."
+  },
+  {
+   "s": "Eso lo pensé de verdad, no es un cuento.",
+   "e": "I really thought that, it is not a story."
+  },
+  {
+   "s": "El ruido fue lo primero que casi me saca.",
+   "e": "The noise was the first thing that nearly drove me out."
+  },
+  {
+   "s": "Antes que el idioma, antes que la comida, antes que todo.",
+   "e": "Before the language, before the food, before everything."
+  },
+  {
+   "s": "Aquí la bulla no es una molestia, es el clima.",
+   "e": "Here the noise is not a nuisance, it is the weather."
+  },
+  {
+   "s": "Nadie la nota, nadie la menciona, nadie reclama.",
+   "e": "Nobody notices it, nobody mentions it, nobody complains."
+  },
+  {
+   "s": "Un vecino pone música a las once de la noche.",
+   "e": "A neighbour puts music on at eleven at night."
+  },
+  {
+   "s": "Y no la pone para él, la pone para la cuadra.",
+   "e": "And he does not put it on for himself, he puts it on for the block."
+  },
+  {
+   "s": "Poner música bajo sería como comer sin invitar.",
+   "e": "Playing music quietly would be like eating without inviting."
+  },
+  {
+   "s": "Marcos me lo explicó así el primer año y yo no le creí.",
+   "e": "Marcos explained it to me like that the first year and I did not believe him."
+  },
+  {
+   "s": "Pensé que era una excusa de gente que no respeta.",
+   "e": "I thought it was an excuse from people who have no respect."
+  },
+  {
+   "s": "Después entendí que había otra cosa debajo.",
+   "e": "Then I understood there was something else underneath."
+  },
+  {
+   "s": "En una casa de una pieza no hay adentro ni afuera.",
+   "e": "In a one-room house there is no inside and outside."
+  },
+  {
+   "s": "La vida se hace en la acera, con la puerta abierta.",
+   "e": "Life is lived on the pavement, with the door open."
+  },
+  {
+   "s": "Y si la vida está afuera, el ruido también.",
+   "e": "And if life is outside, so is the noise."
+  },
+  {
+   "s": "El silencio de una cuadra aquí quiere decir algo malo.",
+   "e": "The silence of a block here means something bad."
+  },
+  {
+   "s": "Si una cuadra está callada un sábado, algo pasó.",
+   "e": "If a block is quiet on a Saturday, something happened."
+  },
+  {
+   "s": "Alguien se murió, o hay policía, o hay miedo.",
+   "e": "Somebody died, or there are police, or there is fear."
+  },
+  {
+   "s": "La bulla es la señal de que todo está normal.",
+   "e": "The noise is the signal that everything is normal."
+  },
+  {
+   "s": "Eso yo lo entendí como al tercer año.",
+   "e": "That I understood around the third year."
+  },
+  {
+   "s": "Pero entenderlo no me hizo dormir mejor.",
+   "e": "But understanding it did not make me sleep better."
+  },
+  {
+   "s": "Seguí despertándome con cada cohete hasta hace poco.",
+   "e": "I went on waking up with every firework until recently."
+  },
+  {
+   "s": "Y un día de este año pasó algo que no busqué.",
+   "e": "And one day this year something happened that I did not look for."
+  },
+  {
+   "s": "Es un domingo y estoy leyendo en el patio.",
+   "e": "It is a Sunday and I am reading in the yard."
+  },
+  {
+   "s": "Y de repente me doy cuenta de que hay bulla.",
+   "e": "And suddenly I realise that there is a racket."
+  },
+  {
+   "s": "Hay música del vecino y hay un perro y hay pólvora.",
+   "e": "There is the neighbour's music and a dog and fireworks."
+  },
+  {
+   "s": "Y yo estoy leyendo tranquilo como si nada.",
+   "e": "And I am reading calmly as if nothing."
+  },
+  {
+   "s": "Llevo una hora leyendo adentro de todo eso.",
+   "e": "I have been reading for an hour inside all that."
+  },
+  {
+   "s": "No es que la bulla se haya ido, es que se volvió fondo.",
+   "e": "It is not that the noise went away, it is that it became background."
+  },
+  {
+   "s": "Como el compresor del taller o el tráfico de la calle.",
+   "e": "Like the workshop compressor or the street traffic."
+  },
+  {
+   "s": "Lucía me dice que eso es lo que le pasa a todo el mundo.",
+   "e": "Lucía tells me that is what happens to everybody."
+  },
+  {
+   "s": "Que ella tampoco oye la música del vecino.",
+   "e": "That she does not hear the neighbour's music either."
+  },
+  {
+   "s": "Que si le pregunto ahorita qué está sonando, no sabe.",
+   "e": "That if I ask her right now what is playing, she does not know."
+  },
+  {
+   "s": "Y le pregunto y de verdad no sabe.",
+   "e": "And I ask her and she really does not know."
+  },
+  {
+   "s": "Después me hace una pregunta que me deja pensando.",
+   "e": "Then she asks me a question that leaves me thinking."
+  },
+  {
+   "s": "Me pregunta si yo podría dormir en el silencio ahora.",
+   "e": "She asks me if I could sleep in silence now."
+  },
+  {
+   "s": "Yo le digo que claro, que es más fácil.",
+   "e": "I tell her of course, that it is easier."
+  },
+  {
+   "s": "Ella me dice que lo probemos, y hace la prueba.",
+   "e": "She tells me let us try it, and she does the test."
+  },
+  {
+   "s": "En noviembre nos vamos tres días a una finca prestada.",
+   "e": "In November we go for three days to a borrowed farm."
+  },
+  {
+   "s": "Cerca de Boaco, en el campo, sin vecino ni parlante.",
+   "e": "Near Boaco, in the countryside, with no neighbour and no speaker."
+  },
+  {
+   "s": "La primera noche me acuesto a las nueve, cansado.",
+   "e": "The first night I lie down at nine, tired."
+  },
+  {
+   "s": "Y no hay nada, nada, ni un solo ruido.",
+   "e": "And there is nothing, nothing, not a single sound."
+  },
+  {
+   "s": "Se oyen los grillos y nada más en kilómetros.",
+   "e": "You hear the crickets and nothing else for miles."
+  },
+  {
+   "s": "Y yo me quedo despierto hasta las dos de la mañana.",
+   "e": "And I stay awake until two in the morning."
+  },
+  {
+   "s": "No puedo dormir en ese silencio de ninguna manera.",
+   "e": "I cannot sleep in that silence at all."
+  },
+  {
+   "s": "Me falta el ruido, me falta la cuadra, me falta algo.",
+   "e": "I miss the noise, I miss the block, I miss something."
+  },
+  {
+   "s": "Lucía se ríe de mí a la mañana siguiente.",
+   "e": "Lucía laughs at me the next morning."
+  },
+  {
+   "s": "Me dice que ella durmió igual de mal.",
+   "e": "She tells me she slept just as badly."
+  },
+  {
+   "s": "Que ella tampoco puede dormir en el campo.",
+   "e": "That she cannot sleep in the countryside either."
+  },
+  {
+   "s": "Nacida en Managua y no aguanta el silencio.",
+   "e": "Born in Managua and cannot stand the silence."
+  },
+  {
+   "s": "La tercera noche los dos dormimos bien, por cansancio.",
+   "e": "The third night we both sleep well, from tiredness."
+  },
+  {
+   "s": "Y cuando volvemos a la casa el domingo en la noche.",
+   "e": "And when we get back to the house on Sunday night."
+  },
+  {
+   "s": "El vecino tiene la música puesta desde temprano.",
+   "e": "The neighbour has had the music on since early."
+  },
+  {
+   "s": "Se oye desde media cuadra antes de llegar.",
+   "e": "You can hear it half a block before you get there."
+  },
+  {
+   "s": "Yo abro el portón con el niño dormido en el brazo.",
+   "e": "I open the gate with the boy asleep on my arm."
+  },
+  {
+   "s": "Y el niño no se despierta con la música.",
+   "e": "And the boy does not wake up with the music."
+  },
+  {
+   "s": "Tiene tres años y ya no oye la bulla tampoco.",
+   "e": "He is three years old and he does not hear the noise either."
+  },
+  {
+   "s": "Esa noche duermo ocho horas seguidas.",
+   "e": "That night I sleep eight hours straight."
+  },
+  {
+   "s": "Con el vecino, con los perros y con los gallos.",
+   "e": "With the neighbour, with the dogs and with the roosters."
+  }
+ ]
+}
