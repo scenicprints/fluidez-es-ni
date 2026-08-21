@@ -16,6 +16,10 @@ lesson stays "edit the JSON, commit" and nothing else.
 """
 import argparse, io, json, os, sys
 
+import forms as morphology
+
+NEWLINE = chr(10)
+
 def read(path):
     with io.open(path, encoding="utf-8") as f:
         return json.load(f)
@@ -189,6 +193,49 @@ def main():
         if verbs: features.append("verbs")
         # Audio is opt-in: several languages have no speech voice at all.
 
+    # Inflected forms -> the dictionary entry they belong to.
+    #
+    # Spanish inflects hard and the dictionary is keyed on lemmas, so a reader
+    # who tapped "hablas", "pregunto" or "palabras" got nothing back: no
+    # meaning, no exposure, no colour on the word. Worse, the memory model
+    # treated "cosa" and "cosas" as two unrelated words that each decayed on
+    # their own, so knowing one earned you nothing for the other.
+    #
+    # Only forms that actually occur in this course's own text are emitted, so
+    # every mapping can be checked against real usage and the pack does not
+    # carry a conjugation table nobody can reach. Anything two lemmas could
+    # both produce is dropped rather than guessed at.
+    corpus = []
+    for lesson in lessons:
+        for sn in lesson.get("sn") or lesson.get("sentences") or []:
+            corpus.append(sn.get("s") or sn.get("es") or "")
+    for scene in scenarios:
+        for st in scene.get("steps") or []:
+            corpus.append(st.get("es") or "")
+            for o in st.get("options") or []:
+                corpus.append(o.get("es") or "")
+
+    word_forms, ambiguous, seen_words = morphology.build(dictionary, corpus, verbs or {})
+
+    # A hand-written escape hatch, because no rule set is ever right about
+    # every word. {"form": "lemma"} pins one; {"form": null} blocks one.
+    overrides = {}
+    ov_path = os.path.join(content_dir, "dictionary", "forms-overrides.json")
+    if os.path.exists(ov_path):
+        try:
+            overrides = read(ov_path) or {}
+        except ValueError as e:
+            problems.append("forms-overrides.json is not valid JSON (%s)" % e)
+    for form, lemma in overrides.items():
+        form = form.lower()
+        if lemma is None:
+            word_forms.pop(form, None)
+        elif lemma in dictionary:
+            word_forms[form] = lemma
+        else:
+            problems.append("forms-overrides: %r points at %r, which is not a "
+                            "dictionary entry" % (form, lemma))
+
     pack = {
         "version": args.version,
         "language": args.language,
@@ -196,6 +243,7 @@ def main():
         "speech": manifest.get("speech"),
         "features": features,
         "dictionary": dictionary,
+        "forms": word_forms,
         "patterns": patterns,
         "lessons": lessons,
         "scenarios": scenarios,
@@ -225,6 +273,31 @@ def main():
           (len(lessons), len(scenarios), len(dictionary), len(patterns),
            ", verbs" if verbs else ""))
     print("features   %s" % ", ".join(features))
+
+    # What the reader can and cannot look up. A word with no entry and no form
+    # is a word the learner taps and nothing happens, so the number is worth
+    # having in front of you on every build.
+    tappable = sum(1 for w in seen_words if w in dictionary or w in word_forms)
+    # Counted by running word, because that is what the reader actually meets:
+    # the distinct-word figure is dragged down by a long tail of names and
+    # one-off forms nobody taps twice.
+    hits = total = 0
+    for line in corpus:
+        for w in morphology.tokens(line):
+            total += 1
+            if w in dictionary or w in word_forms:
+                hits += 1
+    print("forms      %d inflections mapped, %d dropped as ambiguous"
+          % (len(word_forms), len(ambiguous)))
+    print("lookups    %.1f%% of words on the page can be tapped (%d of %d distinct)"
+          % (100.0 * hits / max(1, total), tappable, len(seen_words)))
+    unresolved = sorted(w for w in seen_words
+                        if w not in dictionary and w not in word_forms)
+    if unresolved:
+        with io.open(os.path.join(out_dir, "unresolved.txt"), "w", encoding="utf-8") as f:
+            f.write(NEWLINE.join(unresolved))
+        print("           %d have no entry at all - see unresolved.txt"
+              % len(unresolved))
     if momo:
         print("momo       %d lines" % len(momo))
     print("size       %.1f KB" % (size / 1024.0))
