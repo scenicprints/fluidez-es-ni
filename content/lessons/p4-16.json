@@ -1,0 +1,198 @@
+{
+ "id": "p4-16",
+ "title": "Tu familia o la mía",
+ "desc": "An argument about family",
+ "ph": 4,
+ "diff": 4,
+ "wu": [],
+ "sn": [
+  {
+   "s": "En diciembre pasa lo que tenía que pasar.",
+   "e": "In December what had to happen happens."
+  },
+  {
+   "s": "Es la Gritería y hay dos casas otra vez.",
+   "e": "It is la Gritería and there are two houses again."
+  },
+  {
+   "s": "Pero esta vez las dos son a la misma hora.",
+   "e": "But this time they are both at the same time."
+  },
+  {
+   "s": "La familia de ella hace su altar a las seis.",
+   "e": "Her family builds its altar at six."
+  },
+  {
+   "s": "Doña Carmen hace el suyo a las seis también.",
+   "e": "Doña Carmen makes hers at six as well."
+  },
+  {
+   "s": "Yo digo que vayamos donde doña Carmen primero.",
+   "e": "I say we go to doña Carmen's first."
+  },
+  {
+   "s": "Ella dice que no puede.",
+   "e": "She says she cannot."
+  },
+  {
+   "s": "Dice que tiene que estar en su casa.",
+   "e": "She says she has to be at her house."
+  },
+  {
+   "s": "Yo le digo que doña Carmen también me espera.",
+   "e": "I tell her doña Carmen is expecting me too."
+  },
+  {
+   "s": "Ella dice que doña Carmen no es mi mamá.",
+   "e": "She says doña Carmen is not my mother."
+  },
+  {
+   "s": "Y eso me duele más de lo que debería.",
+   "e": "And that hurts more than it should."
+  },
+  {
+   "s": "Contesto algo feo.",
+   "e": "I answer something ugly."
+  },
+  {
+   "s": "Le digo que ella siempre pone a su familia primero.",
+   "e": "I tell her she always puts her family first."
+  },
+  {
+   "s": "Que nunca hay lugar para lo nuestro.",
+   "e": "That there is never room for what is ours."
+  },
+  {
+   "s": "Y ahí se acaba la conversación.",
+   "e": "And there the conversation ends."
+  },
+  {
+   "s": "Ella no me grita esta vez.",
+   "e": "She does not shout at me this time."
+  },
+  {
+   "s": "Se queda callada, que es lo peor.",
+   "e": "She goes quiet, which is worse."
+  },
+  {
+   "s": "Después dice una frase corta.",
+   "e": "Then she says a short sentence."
+  },
+  {
+   "s": "\"Aquí la familia es primero.\"",
+   "e": "\"Here family comes first.\""
+  },
+  {
+   "s": "\"Y si eso no te sirve, decímelo ahora.\"",
+   "e": "\"And if that doesn't work for you, tell me now.\""
+  },
+  {
+   "s": "Yo no digo nada esa noche.",
+   "e": "I say nothing that night."
+  },
+  {
+   "s": "Me voy a mi casa a pensar.",
+   "e": "I go home to think."
+  },
+  {
+   "s": "Y pienso mal, porque pienso a mi manera.",
+   "e": "And I think wrongly, because I think my way."
+  },
+  {
+   "s": "En mi país la pareja es primero.",
+   "e": "In my country the couple comes first."
+  },
+  {
+   "s": "Uno arma su vida y después ve a los papás.",
+   "e": "You build your life and then you see your parents."
+  },
+  {
+   "s": "Aquí no es así y no va a serlo.",
+   "e": "Here it is not like that and it is not going to be."
+  },
+  {
+   "s": "Aquí la familia viene antes.",
+   "e": "Here family comes before."
+  },
+  {
+   "s": "Antes de la pareja, antes del trabajo.",
+   "e": "Before the partner, before work."
+  },
+  {
+   "s": "Y eso no es un defecto de ella.",
+   "e": "And that is not a flaw of hers."
+  },
+  {
+   "s": "Es cómo se vive en este país entero.",
+   "e": "It is how the whole country lives."
+  },
+  {
+   "s": "Al otro día hablo con don Beto.",
+   "e": "The next day I talk to don Beto."
+  },
+  {
+   "s": "Le cuento sin dar detalles.",
+   "e": "I tell him without details."
+  },
+  {
+   "s": "Don Beto no me da la razón.",
+   "e": "Don Beto does not take my side."
+  },
+  {
+   "s": "\"Usted quiere que ella escoja\", dice él.",
+   "e": "\"You want her to choose,\" he says."
+  },
+  {
+   "s": "\"Y eso no se le pide a nadie aquí.\"",
+   "e": "\"And you don't ask that of anybody here.\""
+  },
+  {
+   "s": "\"¿Y entonces qué hago?\", pregunto yo.",
+   "e": "\"So what do I do?\" I ask."
+  },
+  {
+   "s": "\"Vaya usted a la casa de ella.\"",
+   "e": "\"You go to her house.\""
+  },
+  {
+   "s": "Tan simple como eso.",
+   "e": "As simple as that."
+  },
+  {
+   "s": "Yo no había pensado en esa opción.",
+   "e": "I had not thought of that option."
+  },
+  {
+   "s": "Yo estaba escogiendo entre dos casas.",
+   "e": "I was choosing between two houses."
+  },
+  {
+   "s": "Y la respuesta era ir a la de ella.",
+   "e": "And the answer was to go to hers."
+  },
+  {
+   "s": "Voy el siete de diciembre a las seis.",
+   "e": "I go on the seventh of December at six."
+  },
+  {
+   "s": "Ayudo con el altar toda la tarde.",
+   "e": "I help with the altar all afternoon."
+  },
+  {
+   "s": "Grito la respuesta en su puerta cien veces.",
+   "e": "I shout the answer in her doorway a hundred times."
+  },
+  {
+   "s": "A las diez pasamos por donde doña Carmen.",
+   "e": "At ten we go past doña Carmen's."
+  },
+  {
+   "s": "Ella nos guarda dos gorras y no dice nada.",
+   "e": "She keeps two gorras for us and says nothing."
+  },
+  {
+   "s": "Nunca me reclamó por haber llegado tarde.",
+   "e": "She never once complained that I came late."
+  }
+ ]
+}

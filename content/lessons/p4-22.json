@@ -1,0 +1,194 @@
+{
+ "id": "p4-22",
+ "title": "Pedir la mano",
+ "desc": "Asking her family",
+ "ph": 4,
+ "diff": 4,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Decido pedirle la mano en noviembre.",
+   "e": "I decide to ask for her hand in November."
+  },
+  {
+   "s": "Pero antes hay que hacer otra cosa.",
+   "e": "But first there is another thing to do."
+  },
+  {
+   "s": "Aquí uno no le pregunta a ella primero.",
+   "e": "Here you do not ask her first."
+  },
+  {
+   "s": "O sí, pero no del todo.",
+   "e": "Or you do, but not entirely."
+  },
+  {
+   "s": "Hay que hablar con la familia.",
+   "e": "You have to talk to the family."
+  },
+  {
+   "s": "Le pregunto a doña Carmen cómo se hace.",
+   "e": "I ask doña Carmen how it is done."
+  },
+  {
+   "s": "Ella deja de cocinar y se sienta.",
+   "e": "She stops cooking and sits down."
+  },
+  {
+   "s": "Esto es serio y ella lo trata en serio.",
+   "e": "This is serious and she treats it seriously."
+  },
+  {
+   "s": "\"Se le pide a la mamá\", dice ella.",
+   "e": "\"You ask the mother,\" she says."
+  },
+  {
+   "s": "\"En la casa de ella, no en la calle.\"",
+   "e": "\"At her house, not in the street.\""
+  },
+  {
+   "s": "\"Y con ropa buena.\"",
+   "e": "\"And in good clothes.\""
+  },
+  {
+   "s": "El papá de Lucía murió, entonces es la mamá.",
+   "e": "Lucía's father died, so it is the mother."
+  },
+  {
+   "s": "Y también están los dos hermanos.",
+   "e": "And there are the two brothers as well."
+  },
+  {
+   "s": "Julio y Chino tienen que estar ahí.",
+   "e": "Julio and Chino have to be there."
+  },
+  {
+   "s": "Le aviso a Julio primero, por respeto.",
+   "e": "I tell Julio first, out of respect."
+  },
+  {
+   "s": "Julio es el mayor y hace de papá.",
+   "e": "Julio is the eldest and stands in for the father."
+  },
+  {
+   "s": "Se lo digo en una pulpería, tomando.",
+   "e": "I tell him in a pulpería, over a drink."
+  },
+  {
+   "s": "Julio se queda callado un rato largo.",
+   "e": "Julio goes quiet for a long while."
+  },
+  {
+   "s": "Después me da la mano sin decir nada.",
+   "e": "Then he shakes my hand without saying anything."
+  },
+  {
+   "s": "Y después dice: \"Ponete camisa.\"",
+   "e": "And then says: \"Wear a proper shirt.\""
+  },
+  {
+   "s": "El domingo llego a las once de la mañana.",
+   "e": "On Sunday I arrive at eleven in the morning."
+  },
+  {
+   "s": "Están todos: doña Elena, Julio, Chino, la tía.",
+   "e": "Everybody is there: doña Elena, Julio, Chino, the aunt."
+  },
+  {
+   "s": "Lucía está también, aunque no debería sorprenderle.",
+   "e": "Lucía is there too, although it should not surprise her."
+  },
+  {
+   "s": "Todos hacen como que es un domingo normal.",
+   "e": "Everybody acts as if it is a normal Sunday."
+  },
+  {
+   "s": "Nadie hace como que es un domingo normal.",
+   "e": "Nobody acts as if it is a normal Sunday."
+  },
+  {
+   "s": "Almorzamos primero.",
+   "e": "We have lunch first."
+  },
+  {
+   "s": "Eso también es la costumbre.",
+   "e": "That is the custom too."
+  },
+  {
+   "s": "No se llega y se pide de una vez.",
+   "e": "You do not arrive and ask straight out."
+  },
+  {
+   "s": "Se come, se habla, y después se dice.",
+   "e": "You eat, you talk, and then you say it."
+  },
+  {
+   "s": "Yo casi no como.",
+   "e": "I hardly eat."
+  },
+  {
+   "s": "Doña Elena se da cuenta y no dice nada.",
+   "e": "Doña Elena notices and says nothing."
+  },
+  {
+   "s": "Cuando levantan la mesa, me paro.",
+   "e": "When they clear the table, I stand up."
+  },
+  {
+   "s": "Yo tenía una frase preparada de una semana.",
+   "e": "I had a sentence ready for a week."
+  },
+  {
+   "s": "Y digo otra completamente distinta.",
+   "e": "And I say a completely different one."
+  },
+  {
+   "s": "\"Doña Elena, quiero casarme con su hija.\"",
+   "e": "\"Doña Elena, I want to marry your daughter.\""
+  },
+  {
+   "s": "Sin rodeos, sin nada adelante.",
+   "e": "No going round the houses, nothing in front."
+  },
+  {
+   "s": "Que era lo que menos había practicado.",
+   "e": "Which was the thing I had practised least."
+  },
+  {
+   "s": "Doña Elena me mira mucho rato.",
+   "e": "Doña Elena looks at me for a long time."
+  },
+  {
+   "s": "Mucho más rato del que hace falta.",
+   "e": "Much longer than is necessary."
+  },
+  {
+   "s": "\"¿Y usted va a cuidarla?\", pregunta ella.",
+   "e": "\"And are you going to look after her?\" she asks."
+  },
+  {
+   "s": "\"Sí, señora.\"",
+   "e": "\"Yes, señora.\""
+  },
+  {
+   "s": "\"¿Y si le va mal en el trabajo?\"",
+   "e": "\"And if things go badly at work?\""
+  },
+  {
+   "s": "\"Igual.\"",
+   "e": "\"The same.\""
+  },
+  {
+   "s": "Ella asiente una sola vez.",
+   "e": "She nods once."
+  },
+  {
+   "s": "\"Entonces está bien\", dice doña Elena.",
+   "e": "\"Then it's all right,\" doña Elena says."
+  },
+  {
+   "s": "Y la tía empieza a llorar primero que nadie.",
+   "e": "And the aunt starts crying before anybody."
+  }
+ ]
+}

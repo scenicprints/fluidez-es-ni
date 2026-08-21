@@ -1,0 +1,194 @@
+{
+ "id": "p4-15",
+ "title": "La plata",
+ "desc": "An argument about money",
+ "ph": 4,
+ "diff": 4,
+ "wu": [],
+ "sn": [
+  {
+   "s": "El primer problema serio es por plata.",
+   "e": "The first serious problem is about money."
+  },
+  {
+   "s": "Y no es porque falte.",
+   "e": "And it is not because there is not enough."
+  },
+  {
+   "s": "Es porque yo gano más que ella.",
+   "e": "It is because I earn more than her."
+  },
+  {
+   "s": "Bastante más, aunque yo gane poco.",
+   "e": "Quite a lot more, even though I earn little."
+  },
+  {
+   "s": "Al principio yo pago todo sin pensarlo.",
+   "e": "At first I pay for everything without thinking."
+  },
+  {
+   "s": "Pago la comida, el bus, todo.",
+   "e": "I pay for the food, the bus, everything."
+  },
+  {
+   "s": "Me parece obvio y me parece amable.",
+   "e": "It seems obvious to me and it seems kind."
+  },
+  {
+   "s": "Un día ella me dice que no.",
+   "e": "One day she tells me no."
+  },
+  {
+   "s": "Me lo dice en la calle, molesta.",
+   "e": "She says it in the street, annoyed."
+  },
+  {
+   "s": "\"Yo también trabajo\", dice ella.",
+   "e": "\"I work too,\" she says."
+  },
+  {
+   "s": "Yo digo que ya sé, que no es por eso.",
+   "e": "I say I know, that it is not about that."
+  },
+  {
+   "s": "\"¿Entonces por qué?\", pregunta ella.",
+   "e": "\"Then why?\" she asks."
+  },
+  {
+   "s": "Y no tengo una respuesta buena.",
+   "e": "And I do not have a good answer."
+  },
+  {
+   "s": "Porque la respuesta es que gano más.",
+   "e": "Because the answer is that I earn more."
+  },
+  {
+   "s": "Y decir eso en voz alta suena horrible.",
+   "e": "And saying that out loud sounds horrible."
+  },
+  {
+   "s": "Ese día no arreglamos nada.",
+   "e": "That day we do not fix anything."
+  },
+  {
+   "s": "Le pregunto a doña Carmen unos días después.",
+   "e": "I ask doña Carmen a few days later."
+  },
+  {
+   "s": "Le pregunto sin decir nombres.",
+   "e": "I ask without naming names."
+  },
+  {
+   "s": "Ella entiende igual, porque siempre entiende.",
+   "e": "She understands anyway, because she always does."
+  },
+  {
+   "s": "\"Pagar todo la hace chiquita\", dice ella.",
+   "e": "\"Paying for everything makes her small,\" she says."
+  },
+  {
+   "s": "\"Y nadie quiere ser chiquito.\"",
+   "e": "\"And nobody wants to be small.\""
+  },
+  {
+   "s": "Y me dice cómo se hace aquí.",
+   "e": "And she tells me how it is done here."
+  },
+  {
+   "s": "Aquí no se divide todo por la mitad.",
+   "e": "Here you do not split everything down the middle."
+  },
+  {
+   "s": "Aquí cada uno pone lo que puede.",
+   "e": "Here each one puts in what they can."
+  },
+  {
+   "s": "Y lo que puede cada uno no es lo mismo.",
+   "e": "And what each one can is not the same."
+  },
+  {
+   "s": "Ella paga los refrescos y el bus.",
+   "e": "She pays for the drinks and the bus."
+  },
+  {
+   "s": "Yo pago la comida cuando salimos.",
+   "e": "I pay for the food when we go out."
+  },
+  {
+   "s": "Ella cocina y eso también es poner.",
+   "e": "She cooks and that is putting in too."
+  },
+  {
+   "s": "Nadie lleva la cuenta de nada.",
+   "e": "Nobody keeps count of anything."
+  },
+  {
+   "s": "Lo que no se hace es que uno solo pague.",
+   "e": "What is not done is one person paying everything."
+  },
+  {
+   "s": "Porque eso ya no es una pareja.",
+   "e": "Because that is not a couple any more."
+  },
+  {
+   "s": "Después viene el otro problema, más difícil.",
+   "e": "Then comes the other problem, harder."
+  },
+  {
+   "s": "Ella manda plata a su mamá cada mes.",
+   "e": "She sends money to her mother every month."
+  },
+  {
+   "s": "Y su hermano menor le pide prestado seguido.",
+   "e": "And her younger brother borrows from her often."
+  },
+  {
+   "s": "Yo le digo una vez que le presta demasiado.",
+   "e": "I tell her once that she lends him too much."
+  },
+  {
+   "s": "Lo digo con toda la buena intención.",
+   "e": "I say it with the best intention."
+  },
+  {
+   "s": "Y es la cosa más equivocada que dije nunca.",
+   "e": "And it is the most wrong thing I have ever said."
+  },
+  {
+   "s": "Ella se pone seria de una manera nueva.",
+   "e": "She goes serious in a new way."
+  },
+  {
+   "s": "\"Ese es mi hermano\", dice ella.",
+   "e": "\"That's my brother,\" she says."
+  },
+  {
+   "s": "Y no dice nada más.",
+   "e": "And says nothing more."
+  },
+  {
+   "s": "Nada más hace falta.",
+   "e": "Nothing more is needed."
+  },
+  {
+   "s": "Aquí la plata de uno es de la familia.",
+   "e": "Here your money belongs to the family."
+  },
+  {
+   "s": "No en teoría. En la práctica del mes.",
+   "e": "Not in theory. In the practice of the month."
+  },
+  {
+   "s": "Yo puedo opinar de lo nuestro.",
+   "e": "I can have an opinion about what is ours."
+  },
+  {
+   "s": "De su familia no puedo opinar nada.",
+   "e": "About her family I cannot have any opinion at all."
+  },
+  {
+   "s": "Y esa es una línea que no se cruza.",
+   "e": "And that is a line you do not cross."
+  }
+ ]
+}

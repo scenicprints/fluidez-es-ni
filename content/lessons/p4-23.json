@@ -1,0 +1,197 @@
+{
+ "id": "p4-23",
+ "title": "La boda",
+ "desc": "A wedding",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "boda",
+  "padrino"
+ ],
+ "sn": [
+  {
+   "s": "La boda es en abril, en el peor calor.",
+   "e": "The wedding is in April, in the worst heat."
+  },
+  {
+   "s": "Nadie escogió abril por el clima.",
+   "e": "Nobody chose April for the weather."
+  },
+  {
+   "s": "Lo escogieron porque hay plata en abril.",
+   "e": "They chose it because there is money in April."
+  },
+  {
+   "s": "Hay dos bodas, no una.",
+   "e": "There are two weddings, not one."
+  },
+  {
+   "s": "Primero el civil, en una oficina.",
+   "e": "First the civil one, in an office."
+  },
+  {
+   "s": "Diez minutos, dos testigos, tres firmas.",
+   "e": "Ten minutes, two witnesses, three signatures."
+  },
+  {
+   "s": "Y después la de la iglesia, que es la que importa.",
+   "e": "And then the church one, which is the one that matters."
+  },
+  {
+   "s": "Para doña Elena sólo esa cuenta.",
+   "e": "For doña Elena only that one counts."
+  },
+  {
+   "s": "Antes hay que buscar padrinos.",
+   "e": "First you have to find padrinos."
+  },
+  {
+   "s": "Los padrinos no son sólo un cargo.",
+   "e": "The padrinos are not just a title."
+  },
+  {
+   "s": "Los padrinos ayudan a pagar la boda.",
+   "e": "The padrinos help pay for the wedding."
+  },
+  {
+   "s": "Hay padrinos de anillos, de flores, de pastel.",
+   "e": "There are padrinos of rings, of flowers, of cake."
+  },
+  {
+   "s": "Cada padrino paga una cosa.",
+   "e": "Each padrino pays for one thing."
+  },
+  {
+   "s": "Así se hace una boda sin tener plata.",
+   "e": "That is how you have a wedding without having money."
+  },
+  {
+   "s": "Don Beto y doña Carmen son padrinos de anillos.",
+   "e": "Don Beto and doña Carmen are padrinos of the rings."
+  },
+  {
+   "s": "Cuando se lo pedimos, doña Carmen llora.",
+   "e": "When we ask them, doña Carmen cries."
+  },
+  {
+   "s": "Llora antes de que terminemos de preguntar.",
+   "e": "She cries before we finish asking."
+  },
+  {
+   "s": "La boda es a las cuatro de la tarde.",
+   "e": "The wedding is at four in the afternoon."
+  },
+  {
+   "s": "A las cuatro no hay nadie en la iglesia.",
+   "e": "At four there is nobody in the church."
+  },
+  {
+   "s": "A las cuatro y media llegan los primeros.",
+   "e": "At half past four the first ones arrive."
+  },
+  {
+   "s": "A las cinco y cuarto empieza.",
+   "e": "At quarter past five it starts."
+  },
+  {
+   "s": "Hora nica, hasta en la boda de uno.",
+   "e": "Nica time, even at your own wedding."
+  },
+  {
+   "s": "Yo estoy adelante desde las cuatro.",
+   "e": "I am at the front from four."
+  },
+  {
+   "s": "Una hora y quince de pie, sudando.",
+   "e": "An hour and fifteen standing, sweating."
+  },
+  {
+   "s": "Julio está a mi lado y no dice nada.",
+   "e": "Julio is beside me and says nothing."
+  },
+  {
+   "s": "A los cincuenta minutos me pone la mano en el hombro.",
+   "e": "After fifty minutes he puts a hand on my shoulder."
+  },
+  {
+   "s": "\"Ya viene\", dice él.",
+   "e": "\"She's coming,\" he says."
+  },
+  {
+   "s": "Y ya venía, sólo que a su hora.",
+   "e": "And she was coming, just at her own time."
+  },
+  {
+   "s": "Lucía entra con Julio, no con su papá.",
+   "e": "Lucía comes in with Julio, not with her father."
+  },
+  {
+   "s": "Su papá está en una foto adelante.",
+   "e": "Her father is in a photo at the front."
+  },
+  {
+   "s": "Eso también se hace aquí.",
+   "e": "That is done here too."
+  },
+  {
+   "s": "La misa dura una hora entera.",
+   "e": "The mass lasts a whole hour."
+  },
+  {
+   "s": "Yo entiendo como la mitad.",
+   "e": "I understand about half."
+  },
+  {
+   "s": "El padre habla del respeto y del aguante.",
+   "e": "The priest talks about respect and endurance."
+  },
+  {
+   "s": "No habla mucho del amor.",
+   "e": "He does not talk much about love."
+  },
+  {
+   "s": "Habla de aguantar juntos, que es distinto.",
+   "e": "He talks about enduring together, which is different."
+  },
+  {
+   "s": "La fiesta es en el patio de doña Elena.",
+   "e": "The party is in doña Elena's patio."
+  },
+  {
+   "s": "Con sillas prestadas de tres casas.",
+   "e": "With chairs borrowed from three houses."
+  },
+  {
+   "s": "Con comida cocinada por seis señoras.",
+   "e": "With food cooked by six women."
+  },
+  {
+   "s": "Nadie contrató nada, todo lo hizo alguien.",
+   "e": "Nothing was hired, somebody did everything."
+  },
+  {
+   "s": "Bailan hasta las tres de la mañana.",
+   "e": "They dance until three in the morning."
+  },
+  {
+   "s": "A mí me sacan a bailar como diez veces.",
+   "e": "They pull me up to dance about ten times."
+  },
+  {
+   "s": "Bailo mal y a nadie le importa.",
+   "e": "I dance badly and nobody minds."
+  },
+  {
+   "s": "A las dos, don Beto me dice una cosa.",
+   "e": "At two, don Beto says one thing to me."
+  },
+  {
+   "s": "\"Se casó bien\", dice él.",
+   "e": "\"You married well,\" he says."
+  },
+  {
+   "s": "Y no aclara si habla de ella o de la fiesta.",
+   "e": "And he does not clarify whether he means her or the party."
+  }
+ ]
+}

@@ -173,6 +173,12 @@
   "en": "to stand/to put up with",
   "pos": "v"
  },
+ "aguante": {
+  "en": "endurance",
+  "g": "m",
+  "note": "What the priest talks about at a wedding, more than love",
+  "pos": "n"
+ },
  "ah": {
   "en": "ah/oh",
   "note": "Recognition, not surprise. 'Áh, sí' = oh, right",
@@ -287,6 +293,11 @@
  "ancho": {
   "en": "wide",
   "pos": "adj"
+ },
+ "anillo": {
+  "en": "ring",
+  "g": "m",
+  "pos": "n"
  },
  "anoche": {
   "en": "last night",
@@ -619,6 +630,11 @@
   "g": "f",
   "pos": "n"
  },
+ "boda": {
+  "en": "wedding",
+  "g": "f",
+  "pos": "n"
+ },
  "bolsa": {
   "en": "bag",
   "g": "f",
@@ -819,6 +835,10 @@
   "g": "m",
   "pos": "n"
  },
+ "cansarse": {
+  "en": "to get tired",
+  "pos": "v"
+ },
  "cantar": {
   "en": "to sing",
   "pos": "v"
@@ -847,6 +867,11 @@
  "cargar": {
   "en": "to carry",
   "pos": "v"
+ },
+ "cargo": {
+  "en": "position/post",
+  "g": "m",
+  "pos": "n"
  },
  "cariño": {
   "en": "affection",
@@ -880,6 +905,10 @@
  "casado": {
   "en": "married",
   "pos": "adj"
+ },
+ "casarse": {
+  "en": "to get married",
+  "pos": "v"
  },
  "caso": {
   "en": "case",
@@ -922,6 +951,16 @@
  "celebrar": {
   "en": "to celebrate",
   "pos": "v"
+ },
+ "celos": {
+  "en": "jealousy",
+  "g": "m",
+  "note": "Not strange here. Denying them is what is strange",
+  "pos": "n"
+ },
+ "celoso": {
+  "en": "jealous",
+  "pos": "adj"
  },
  "celular": {
   "en": "mobile phone",
@@ -1011,6 +1050,11 @@
   "g": "m",
   "pos": "n"
  },
+ "chorro": {
+  "en": "tap/jet",
+  "g": "m",
+  "pos": "n"
+ },
  "chunche": {
   "en": "thing/whatsit",
   "g": "m",
@@ -1051,6 +1095,10 @@
   "g": "f",
   "pos": "n"
  },
+ "civil": {
+  "en": "civil",
+  "pos": "adj"
+ },
  "claro": {
   "en": "light/clear",
   "pos": "adj"
@@ -1062,6 +1110,11 @@
  },
  "clavo": {
   "en": "nail",
+  "g": "m",
+  "pos": "n"
+ },
+ "clima": {
+  "en": "weather/climate",
   "g": "m",
   "pos": "n"
  },
@@ -1381,6 +1434,10 @@
   "en": "to deliver/to keep a promise",
   "pos": "v"
  },
+ "curar": {
+  "en": "to cure",
+  "pos": "v"
+ },
  "curtido": {
   "en": "pickled cabbage salad",
   "g": "m",
@@ -1441,6 +1498,11 @@
  },
  "dedo": {
   "en": "finger",
+  "g": "m",
+  "pos": "n"
+ },
+ "defecto": {
+  "en": "flaw",
   "g": "m",
   "pos": "n"
  },
@@ -1710,6 +1772,10 @@
   "g": "m",
   "pos": "n"
  },
+ "elegir": {
+  "en": "to choose",
+  "pos": "v"
+ },
  "emergencia": {
   "en": "emergency",
   "g": "f",
@@ -1745,6 +1811,10 @@
   "g": "m",
   "pos": "n"
  },
+ "enfermarse": {
+  "en": "to fall ill",
+  "pos": "v"
+ },
  "enfermera": {
   "en": "nurse",
   "g": "f",
@@ -1777,6 +1847,10 @@
  },
  "ensayar": {
   "en": "to rehearse",
+  "pos": "v"
+ },
+ "enterarse": {
+  "en": "to find out",
   "pos": "v"
  },
  "entero": {
@@ -1904,6 +1978,11 @@
   "en": "to study",
   "pos": "v"
  },
+ "estudio": {
+  "en": "study/study group",
+  "g": "m",
+  "pos": "n"
+ },
  "estómago": {
   "en": "stomach",
   "g": "m",
@@ -1920,6 +1999,11 @@
  "exacto": {
   "en": "exact",
   "pos": "adj"
+ },
+ "examen": {
+  "en": "exam",
+  "g": "m",
+  "pos": "n"
  },
  "excusa": {
   "en": "excuse",
@@ -2016,6 +2100,11 @@
   "g": "f",
   "pos": "n"
  },
+ "firma": {
+  "en": "signature",
+  "g": "f",
+  "pos": "n"
+ },
  "firmar": {
   "en": "to sign",
   "pos": "v"
@@ -2037,6 +2126,10 @@
   "en": "bottom",
   "g": "m",
   "pos": "n"
+ },
+ "formal": {
+  "en": "formal",
+  "pos": "adj"
  },
  "foto": {
   "en": "photo",
@@ -2086,6 +2179,10 @@
   "en": "fruit",
   "g": "f",
   "pos": "n"
+ },
+ "frío": {
+  "en": "cold",
+  "pos": "adj"
  },
  "fuerza": {
   "en": "force/strength",
@@ -2453,6 +2550,11 @@
   "g": "f",
   "pos": "n"
  },
+ "invitado": {
+  "en": "guest",
+  "g": "m",
+  "pos": "n"
+ },
  "isla": {
   "en": "island",
   "g": "f",
@@ -2583,6 +2685,11 @@
   "g": "m",
   "pos": "n"
  },
+ "lista": {
+  "en": "list",
+  "g": "f",
+  "pos": "n"
+ },
  "listo": {
   "en": "ready/clever",
   "pos": "adj"
@@ -2627,6 +2734,11 @@
   "en": "mad",
   "pos": "adj"
  },
+ "logística": {
+  "en": "logistics",
+  "g": "f",
+  "pos": "n"
+ },
  "lugar": {
   "en": "place",
   "g": "m",
@@ -2645,6 +2757,11 @@
  },
  "lámpara": {
   "en": "lamp",
+  "g": "f",
+  "pos": "n"
+ },
+ "línea": {
+  "en": "line",
   "g": "f",
   "pos": "n"
  },
@@ -3101,9 +3218,18 @@
   "en": "cloudy",
   "pos": "adj"
  },
+ "nuevo": {
+  "en": "new",
+  "pos": "adj"
+ },
  "obedecer": {
   "en": "to obey",
   "pos": "v"
+ },
+ "obligación": {
+  "en": "obligation",
+  "g": "f",
+  "pos": "n"
  },
  "obligar": {
   "en": "to force",
@@ -3168,6 +3294,11 @@
   "en": "to forget",
   "pos": "v"
  },
+ "opción": {
+  "en": "option",
+  "g": "f",
+  "pos": "n"
+ },
  "operar": {
   "en": "to operate",
   "pos": "v"
@@ -3207,6 +3338,12 @@
  "padre": {
   "en": "father",
   "g": "m",
+  "pos": "n"
+ },
+ "padrino": {
+  "en": "godparent/wedding sponsor",
+  "g": "m",
+  "note": "Each pays for one thing. That is how a wedding happens without money",
   "pos": "n"
  },
  "palo": {
@@ -3271,6 +3408,11 @@
  },
  "parrilla": {
   "en": "grill",
+  "g": "f",
+  "pos": "n"
+ },
+ "parte": {
+  "en": "part",
   "g": "f",
   "pos": "n"
  },
@@ -3342,6 +3484,10 @@
   "en": "fight",
   "g": "f",
   "pos": "n"
+ },
+ "peleado": {
+  "en": "at odds",
+  "pos": "adj"
  },
  "pelear": {
   "en": "to fight/to argue",
@@ -3425,6 +3571,11 @@
   "en": "peso",
   "g": "m",
   "note": "What everyone actually calls a córdoba out loud",
+  "pos": "n"
+ },
+ "pez": {
+  "en": "fish",
+  "g": "m",
   "pos": "n"
  },
  "pie": {
@@ -3545,6 +3696,10 @@
   "en": "possible",
   "pos": "adj"
  },
+ "practicar": {
+  "en": "to practise",
+  "pos": "v"
+ },
  "precio": {
   "en": "price",
   "g": "m",
@@ -3571,6 +3726,10 @@
  "presentar": {
   "en": "to introduce",
   "pos": "v"
+ },
+ "prestado": {
+  "en": "borrowed",
+  "pos": "adj"
  },
  "prestar": {
   "en": "to lend",
@@ -3656,6 +3815,10 @@
  },
  "puntual": {
   "en": "punctual",
+  "pos": "adj"
+ },
+ "público": {
+  "en": "public",
   "pos": "adj"
  },
  "quebrarse": {
@@ -4140,6 +4303,10 @@
   "g": "f",
   "pos": "n"
  },
+ "simple": {
+  "en": "simple",
+  "pos": "adj"
+ },
  "simpático": {
   "en": "pleasant/likeable",
   "pos": "adj"
@@ -4176,6 +4343,11 @@
  "soldar": {
   "en": "to weld",
   "pos": "v"
+ },
+ "soledad": {
+  "en": "loneliness",
+  "g": "f",
+  "pos": "n"
  },
  "soltarse": {
   "en": "to let go",
@@ -4223,6 +4395,10 @@
   "en": "dirty",
   "pos": "adj"
  },
+ "sudar": {
+  "en": "to sweat",
+  "pos": "v"
+ },
  "suegra": {
   "en": "mother-in-law",
   "g": "f",
@@ -4265,6 +4441,10 @@
  },
  "suponer": {
   "en": "to assume",
+  "pos": "v"
+ },
+ "suponerse": {
+  "en": "to be assumed",
   "pos": "v"
  },
  "sur": {
@@ -4353,6 +4533,11 @@
  "tenedor": {
   "en": "fork",
   "g": "m",
+  "pos": "n"
+ },
+ "teoría": {
+  "en": "theory",
+  "g": "f",
   "pos": "n"
  },
  "tercero": {
@@ -4451,6 +4636,11 @@
  "trabarse": {
   "en": "to trip over your words",
   "pos": "v"
+ },
+ "tradición": {
+  "en": "tradition",
+  "g": "f",
+  "pos": "n"
  },
  "traducir": {
   "en": "to translate",
@@ -4696,6 +4886,12 @@
  "voltearse": {
   "en": "to turn round",
   "pos": "v"
+ },
+ "volumen": {
+  "en": "volume",
+  "g": "m",
+  "note": "Shouting means it still matters. Cold politeness is what is serious",
+  "pos": "n"
  },
  "volver": {
   "en": "to come back/to go back",

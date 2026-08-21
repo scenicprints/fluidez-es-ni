@@ -1,0 +1,200 @@
+{
+ "id": "p4-17",
+ "title": "Perdoname",
+ "desc": "Repairing it",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "lavar"
+ ],
+ "sn": [
+  {
+   "s": "Yo tengo que pedirle perdón por lo que dije.",
+   "e": "I have to apologise for what I said."
+  },
+  {
+   "s": "Por lo de que nunca hay lugar para lo nuestro.",
+   "e": "For the bit about there never being room for us."
+  },
+  {
+   "s": "Ya sé cómo se pide perdón aquí.",
+   "e": "I know how you apologise here."
+  },
+  {
+   "s": "Lo aprendí en el trabajo con el jefe.",
+   "e": "I learned it at work with the boss."
+  },
+  {
+   "s": "Pero con ella no es igual.",
+   "e": "But with her it is not the same."
+  },
+  {
+   "s": "Con el jefe eran tres partes y ya.",
+   "e": "With the boss it was three parts and done."
+  },
+  {
+   "s": "Aquí hace falta algo más.",
+   "e": "Here something more is needed."
+  },
+  {
+   "s": "Espero dos días, porque así se hace.",
+   "e": "I wait two days, because that is how it is done."
+  },
+  {
+   "s": "Al tercer día voy a su casa.",
+   "e": "On the third day I go to her house."
+  },
+  {
+   "s": "No la llamo antes.",
+   "e": "I do not call first."
+  },
+  {
+   "s": "Llamar antes le daría la opción de decir que no.",
+   "e": "Calling first would give her the option of saying no."
+  },
+  {
+   "s": "Doña Elena me abre la puerta.",
+   "e": "Doña Elena opens the door."
+  },
+  {
+   "s": "Me mira y sabe todo enseguida.",
+   "e": "She looks at me and knows everything straight away."
+  },
+  {
+   "s": "\"Está en el patio\", dice ella.",
+   "e": "\"She's in the patio,\" she says."
+  },
+  {
+   "s": "Y se va para adentro.",
+   "e": "And goes inside."
+  },
+  {
+   "s": "Lucía está lavando ropa en la pila.",
+   "e": "Lucía is washing clothes in the pila."
+  },
+  {
+   "s": "No me mira cuando llego.",
+   "e": "She does not look at me when I arrive."
+  },
+  {
+   "s": "Sigue lavando.",
+   "e": "She carries on washing."
+  },
+  {
+   "s": "Yo me quedo parado un momento.",
+   "e": "I stand there a moment."
+  },
+  {
+   "s": "Después agarro una camisa y lavo yo también.",
+   "e": "Then I pick up a shirt and start washing too."
+  },
+  {
+   "s": "Lavamos sin hablar como diez minutos.",
+   "e": "We wash without talking for about ten minutes."
+  },
+  {
+   "s": "Eso también es parte de pedir perdón.",
+   "e": "That is part of apologising too."
+  },
+  {
+   "s": "Estar ahí antes de hablar.",
+   "e": "Being there before talking."
+  },
+  {
+   "s": "Después le digo las tres cosas.",
+   "e": "Then I say the three things."
+  },
+  {
+   "s": "\"Te dije que no hay lugar para lo nuestro.\"",
+   "e": "\"I told you there's no room for us.\""
+  },
+  {
+   "s": "\"Estuvo mal y no es cierto.\"",
+   "e": "\"That was wrong and it isn't true.\""
+  },
+  {
+   "s": "\"No te voy a pedir que escojás nunca más.\"",
+   "e": "\"I'm never going to ask you to choose again.\""
+  },
+  {
+   "s": "Y me callo.",
+   "e": "And I stop."
+  },
+  {
+   "s": "No digo pero.",
+   "e": "I do not say but."
+  },
+  {
+   "s": "No digo es que yo venía cansado.",
+   "e": "I do not say the thing is I was tired."
+  },
+  {
+   "s": "No explico nada de mi lado.",
+   "e": "I explain nothing from my side."
+  },
+  {
+   "s": "Eso me cuesta más que las palabras.",
+   "e": "That costs me more than the words."
+  },
+  {
+   "s": "Ella sigue lavando un rato.",
+   "e": "She carries on washing for a while."
+  },
+  {
+   "s": "Después cierra el chorro.",
+   "e": "Then she turns off the tap."
+  },
+  {
+   "s": "\"Yo también dije cosas\", dice ella.",
+   "e": "\"I said things too,\" she says."
+  },
+  {
+   "s": "Y ahí se acaba.",
+   "e": "And there it ends."
+  },
+  {
+   "s": "Nadie hace una lista de lo que dijo cada uno.",
+   "e": "Nobody makes a list of what each of them said."
+  },
+  {
+   "s": "Nadie explica lo que quiso decir.",
+   "e": "Nobody explains what they meant."
+  },
+  {
+   "s": "Se dice una vez y se cierra.",
+   "e": "It is said once and it closes."
+  },
+  {
+   "s": "Nos quedamos en el patio hasta la noche.",
+   "e": "We stay in the patio until night."
+  },
+  {
+   "s": "Hablamos de otras cosas, de nada.",
+   "e": "We talk about other things, about nothing."
+  },
+  {
+   "s": "Y en algún momento ella se ríe.",
+   "e": "And at some point she laughs."
+  },
+  {
+   "s": "Cuando ella se ríe ya se arregló.",
+   "e": "When she laughs it is already fixed."
+  },
+  {
+   "s": "Esa es la señal y no hay otra.",
+   "e": "That is the signal and there is no other."
+  },
+  {
+   "s": "Meses después ella menciona esa pelea.",
+   "e": "Months later she mentions that argument."
+  },
+  {
+   "s": "La menciona riéndose, como algo viejo.",
+   "e": "She mentions it laughing, like something old."
+  },
+  {
+   "s": "Y ahí entiendo que de verdad se cerró.",
+   "e": "And that is when I understand it really did close."
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "id": "p4-13",
+ "title": "Estoy celoso",
+ "desc": "Jealousy, said out loud",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "raro"
+ ],
+ "sn": [
+  {
+   "s": "Hay un compañero de estudio de Lucía.",
+   "e": "There is a boy Lucía studies with."
+  },
+  {
+   "s": "Se llama Danilo y estudia con ella tres noches.",
+   "e": "He is called Danilo and studies with her three nights a week."
+  },
+  {
+   "s": "Yo lo conozco y me cae bien.",
+   "e": "I know him and I like him."
+  },
+  {
+   "s": "Y aun así me molesta.",
+   "e": "And even so it bothers me."
+  },
+  {
+   "s": "Me molesta cuando ella lo menciona.",
+   "e": "It bothers me when she mentions him."
+  },
+  {
+   "s": "Me molesta cuando se ríen en un mensaje.",
+   "e": "It bothers me when they laugh in a message."
+  },
+  {
+   "s": "No me molesta él.",
+   "e": "It is not him that bothers me."
+  },
+  {
+   "s": "Me molesta algo mío.",
+   "e": "It is something of mine that bothers me."
+  },
+  {
+   "s": "Al principio no digo nada.",
+   "e": "At first I say nothing."
+  },
+  {
+   "s": "Me lo callo dos semanas.",
+   "e": "I keep it in for two weeks."
+  },
+  {
+   "s": "Y callarlo lo hace más grande.",
+   "e": "And keeping it in makes it bigger."
+  },
+  {
+   "s": "Empiezo a preguntarle cosas raras.",
+   "e": "I start asking her odd questions."
+  },
+  {
+   "s": "Le pregunto quién estaba en el estudio.",
+   "e": "I ask who was at the study group."
+  },
+  {
+   "s": "Le pregunto a qué hora salió.",
+   "e": "I ask what time she left."
+  },
+  {
+   "s": "Preguntas que parecen normales y no lo son.",
+   "e": "Questions that seem normal and are not."
+  },
+  {
+   "s": "Ella se da cuenta antes que yo.",
+   "e": "She notices before I do."
+  },
+  {
+   "s": "Un jueves me lo dice de frente.",
+   "e": "One Thursday she says it to me straight."
+  },
+  {
+   "s": "\"¿Vos estás celoso?\", pregunta ella.",
+   "e": "\"Are you jealous?\" she asks."
+  },
+  {
+   "s": "Y yo hago lo peor que se puede hacer.",
+   "e": "And I do the worst thing you can do."
+  },
+  {
+   "s": "Digo que no.",
+   "e": "I say no."
+  },
+  {
+   "s": "Digo que no y me río de la idea.",
+   "e": "I say no and laugh at the idea."
+  },
+  {
+   "s": "Ella no dice nada más esa noche.",
+   "e": "She says nothing more that night."
+  },
+  {
+   "s": "Al día siguiente le pregunto a Marcos.",
+   "e": "The next day I ask Marcos."
+  },
+  {
+   "s": "Le cuento todo, hasta la parte fea.",
+   "e": "I tell him everything, including the ugly part."
+  },
+  {
+   "s": "Marcos no se ríe de mí.",
+   "e": "Marcos does not laugh at me."
+  },
+  {
+   "s": "\"Los celos aquí no son raros\", dice él.",
+   "e": "\"Jealousy isn't strange here,\" he says."
+  },
+  {
+   "s": "\"Lo raro es negarlos.\"",
+   "e": "\"What's strange is denying it.\""
+  },
+  {
+   "s": "Y me explica la diferencia.",
+   "e": "And he explains the difference."
+  },
+  {
+   "s": "Decir estoy celoso es decir algo de uno.",
+   "e": "Saying I am jealous is saying something about yourself."
+  },
+  {
+   "s": "Hacer preguntas raras es acusar al otro.",
+   "e": "Asking odd questions is accusing the other person."
+  },
+  {
+   "s": "Lo primero se puede hablar.",
+   "e": "The first can be talked about."
+  },
+  {
+   "s": "Lo segundo no se puede arreglar nunca.",
+   "e": "The second can never be fixed."
+  },
+  {
+   "s": "El sábado se lo digo a Lucía.",
+   "e": "On Saturday I say it to Lucía."
+  },
+  {
+   "s": "Se lo digo mal, con la voz rara.",
+   "e": "I say it badly, with a strange voice."
+  },
+  {
+   "s": "\"Me molesta lo de Danilo\", digo yo.",
+   "e": "\"The Danilo thing bothers me,\" I say."
+  },
+  {
+   "s": "\"Y sé que es tonto de mi parte.\"",
+   "e": "\"And I know it's stupid of me.\""
+  },
+  {
+   "s": "Las dos frases juntas.",
+   "e": "The two sentences together."
+  },
+  {
+   "s": "La primera dice lo que siento.",
+   "e": "The first says what I feel."
+  },
+  {
+   "s": "La segunda dice que no es culpa de ella.",
+   "e": "The second says it is not her fault."
+  },
+  {
+   "s": "Ella se queda callada un rato.",
+   "e": "She stays quiet a while."
+  },
+  {
+   "s": "\"Gracias por decírmelo\", dice al final.",
+   "e": "\"Thanks for telling me,\" she says finally."
+  },
+  {
+   "s": "Y después no cambia nada.",
+   "e": "And then nothing changes."
+  },
+  {
+   "s": "No deja de estudiar con Danilo.",
+   "e": "She does not stop studying with Danilo."
+  },
+  {
+   "s": "No me da explicaciones que no le pedí.",
+   "e": "She does not give me explanations I did not ask for."
+  },
+  {
+   "s": "Pero me cuenta más cosas del estudio.",
+   "e": "But she tells me more about the study group."
+  },
+  {
+   "s": "Me cuenta sin que yo pregunte.",
+   "e": "She tells me without my asking."
+  },
+  {
+   "s": "Y eso, no las explicaciones, es lo que sirve.",
+   "e": "And that, not explanations, is what works."
+  },
+  {
+   "s": "Los celos no se me quitan del todo.",
+   "e": "The jealousy does not go away completely."
+  },
+  {
+   "s": "Pero ya no están escondidos.",
+   "e": "But they are not hidden any more."
+  },
+  {
+   "s": "Y escondidos era cuando pesaban.",
+   "e": "And hidden was when they weighed."
+  }
+ ]
+}

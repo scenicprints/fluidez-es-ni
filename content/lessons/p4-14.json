@@ -1,0 +1,208 @@
+{
+ "id": "p4-14",
+ "title": "No es lo que pensás",
+ "desc": "A misunderstanding between two people",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "gritar"
+ ],
+ "sn": [
+  {
+   "s": "La primera pelea de verdad es por nada.",
+   "e": "The first real argument is about nothing."
+  },
+  {
+   "s": "Siempre es por nada.",
+   "e": "It is always about nothing."
+  },
+  {
+   "s": "Yo dije que iba a llegar a las seis.",
+   "e": "I said I was going to arrive at six."
+  },
+  {
+   "s": "Llegué a las ocho y no avisé.",
+   "e": "I arrived at eight and did not let her know."
+  },
+  {
+   "s": "Ella me estaba esperando dos horas.",
+   "e": "She had been waiting for me for two hours."
+  },
+  {
+   "s": "Y cuando llego, empieza fuerte.",
+   "e": "And when I arrive, it starts loud."
+  },
+  {
+   "s": "Ella me grita en la puerta.",
+   "e": "She shouts at me in the doorway."
+  },
+  {
+   "s": "Me grita de verdad, con las manos.",
+   "e": "She really shouts, with her hands."
+  },
+  {
+   "s": "Yo me asusto muchísimo.",
+   "e": "I am completely shocked."
+  },
+  {
+   "s": "En mi casa nadie gritaba nunca.",
+   "e": "In my house nobody ever shouted."
+  },
+  {
+   "s": "En mi casa una pelea era hablar frío.",
+   "e": "In my house a fight was talking coldly."
+  },
+  {
+   "s": "Yo pienso que se terminó todo.",
+   "e": "I think everything is over."
+  },
+  {
+   "s": "Me quedo parado sin decir nada.",
+   "e": "I stand there without saying anything."
+  },
+  {
+   "s": "Ella grita dos minutos y después para.",
+   "e": "She shouts for two minutes and then stops."
+  },
+  {
+   "s": "Se queda callada.",
+   "e": "She goes quiet."
+  },
+  {
+   "s": "Y después dice una cosa normal.",
+   "e": "And then she says something normal."
+  },
+  {
+   "s": "\"¿Comiste?\", pregunta ella.",
+   "e": "\"Have you eaten?\" she asks."
+  },
+  {
+   "s": "Yo no entiendo nada.",
+   "e": "I understand nothing."
+  },
+  {
+   "s": "\"¿Qué?\", digo yo.",
+   "e": "\"What?\" I say."
+  },
+  {
+   "s": "\"Que si comiste. Hay arroz.\"",
+   "e": "\"I said have you eaten. There's rice.\""
+  },
+  {
+   "s": "La pelea se acabó y yo no me di cuenta.",
+   "e": "The argument is over and I did not notice."
+  },
+  {
+   "s": "Comemos arroz en silencio.",
+   "e": "We eat rice in silence."
+  },
+  {
+   "s": "Después hablamos normal.",
+   "e": "Then we talk normally."
+  },
+  {
+   "s": "Esa noche le pregunto a Roberto.",
+   "e": "That night I ask Roberto."
+  },
+  {
+   "s": "Le pregunto si eso fue muy grave.",
+   "e": "I ask him if that was very serious."
+  },
+  {
+   "s": "Roberto no entiende la pregunta.",
+   "e": "Roberto does not understand the question."
+  },
+  {
+   "s": "\"¿Gritó y después te dio de comer?\"",
+   "e": "\"She shouted and then gave you food?\""
+  },
+  {
+   "s": "\"Sí.\"",
+   "e": "\"Yes.\""
+  },
+  {
+   "s": "\"Entonces no pasó nada\", dice él.",
+   "e": "\"Then nothing happened,\" he says."
+  },
+  {
+   "s": "Aquí el volumen no significa lo mismo.",
+   "e": "Here volume does not mean the same thing."
+  },
+  {
+   "s": "Gritar no quiere decir que se acabó.",
+   "e": "Shouting does not mean it is over."
+  },
+  {
+   "s": "Gritar quiere decir que todavía importa.",
+   "e": "Shouting means it still matters."
+  },
+  {
+   "s": "Lo grave aquí es el silencio.",
+   "e": "What is serious here is silence."
+  },
+  {
+   "s": "Lo grave es hablar frío y con educación.",
+   "e": "What is serious is talking coldly and politely."
+  },
+  {
+   "s": "Eso sí quiere decir que algo se rompió.",
+   "e": "That does mean something has broken."
+  },
+  {
+   "s": "Y yo tenía las dos cosas al revés.",
+   "e": "And I had the two things the wrong way round."
+  },
+  {
+   "s": "Pasan meses y hay más peleas.",
+   "e": "Months go by and there are more arguments."
+  },
+  {
+   "s": "Cada una empieza fuerte y se acaba rápido.",
+   "e": "Each one starts loud and finishes fast."
+  },
+  {
+   "s": "Ninguna dura hasta el otro día.",
+   "e": "None of them lasts until the next day."
+  },
+  {
+   "s": "Aquí no se duerme peleado.",
+   "e": "Here you do not go to sleep angry."
+  },
+  {
+   "s": "Eso lo dicen todos como una regla.",
+   "e": "Everybody says that like a rule."
+  },
+  {
+   "s": "\"Nunca se acuesten peleados.\"",
+   "e": "\"Never go to bed angry.\""
+  },
+  {
+   "s": "Una vez yo trato de hacerlo a mi manera.",
+   "e": "Once I try to do it my way."
+  },
+  {
+   "s": "Me voy sin arreglar nada, molesto.",
+   "e": "I leave without fixing anything, annoyed."
+  },
+  {
+   "s": "Ella me llama cuatro veces esa noche.",
+   "e": "She calls me four times that night."
+  },
+  {
+   "s": "No contesto ninguna, por orgullo.",
+   "e": "I do not answer one, out of pride."
+  },
+  {
+   "s": "Al otro día ella está fría conmigo.",
+   "e": "The next day she is cold with me."
+  },
+  {
+   "s": "Fría y con educación.",
+   "e": "Cold and polite."
+  },
+  {
+   "s": "Y eso sí me asusta de verdad.",
+   "e": "And that really does frighten me."
+  }
+ ]
+}

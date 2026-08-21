@@ -1,0 +1,200 @@
+{
+ "id": "p4-21",
+ "title": "Volvimos",
+ "desc": "Or it does not end",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "vez"
+ ],
+ "sn": [
+  {
+   "s": "Pasan tres meses.",
+   "e": "Three months go by."
+  },
+  {
+   "s": "En tres meses la calle vuelve a lo normal.",
+   "e": "In three months the street goes back to normal."
+  },
+  {
+   "s": "La gente deja de mirarme raro.",
+   "e": "People stop looking at me strangely."
+  },
+  {
+   "s": "Yo la veo dos veces en esos tres meses.",
+   "e": "I see her twice in those three months."
+  },
+  {
+   "s": "Las dos veces de lejos, en el mercado.",
+   "e": "Both times from a distance, at the market."
+  },
+  {
+   "s": "Las dos veces me doy la vuelta.",
+   "e": "Both times I turn round."
+  },
+  {
+   "s": "En junio ella me manda un mensaje.",
+   "e": "In June she sends me a message."
+  },
+  {
+   "s": "Un mensaje corto, sin nada adentro.",
+   "e": "A short message, with nothing in it."
+  },
+  {
+   "s": "Pregunta cómo estoy.",
+   "e": "She asks how I am."
+  },
+  {
+   "s": "Yo contesto que bien, y nada más.",
+   "e": "I answer that I am fine, and nothing else."
+  },
+  {
+   "s": "Al otro día me manda una nota de voz.",
+   "e": "The next day she sends me a voice note."
+  },
+  {
+   "s": "Una nota de voz de dos minutos.",
+   "e": "A two-minute voice note."
+  },
+  {
+   "s": "Ya sé lo que significa una nota de voz.",
+   "e": "I already know what a voice note means."
+  },
+  {
+   "s": "La escucho cuatro veces esa noche.",
+   "e": "I listen to it four times that night."
+  },
+  {
+   "s": "Nos vemos un domingo en el parque.",
+   "e": "We meet one Sunday in the park."
+  },
+  {
+   "s": "En un lugar público, a propósito.",
+   "e": "In a public place, on purpose."
+  },
+  {
+   "s": "Hablamos dos horas y hablamos de verdad.",
+   "e": "We talk for two hours and we talk properly."
+  },
+  {
+   "s": "Ella me dice lo que le faltó.",
+   "e": "She tells me what was missing for her."
+  },
+  {
+   "s": "Yo le digo lo que hice mal.",
+   "e": "I tell her what I did wrong."
+  },
+  {
+   "s": "Ninguno de los dos pide perdón esta vez.",
+   "e": "Neither of us apologises this time."
+  },
+  {
+   "s": "Lo de perdón ya no alcanza para esto.",
+   "e": "Sorry does not cover this any more."
+  },
+  {
+   "s": "Ella dice una cosa que no esperaba.",
+   "e": "She says something I was not expecting."
+  },
+  {
+   "s": "\"Yo tampoco te dije lo que quería.\"",
+   "e": "\"I didn't tell you what I wanted either.\""
+  },
+  {
+   "s": "Y eso es cierto y yo no lo había pensado.",
+   "e": "And that is true and I had not thought of it."
+  },
+  {
+   "s": "No volvemos ese domingo.",
+   "e": "We do not get back together that Sunday."
+  },
+  {
+   "s": "Eso lo hacemos bien esta vez.",
+   "e": "That we do right this time."
+  },
+  {
+   "s": "Nos vemos otra vez a la semana.",
+   "e": "We meet again the next week."
+  },
+  {
+   "s": "Y otra vez la siguiente.",
+   "e": "And again the next."
+  },
+  {
+   "s": "Como si estuviéramos empezando de nuevo.",
+   "e": "As if we were starting again."
+  },
+  {
+   "s": "Y de alguna manera lo estamos.",
+   "e": "And in a way we are."
+  },
+  {
+   "s": "En julio ella se lo cuenta a su mamá.",
+   "e": "In July she tells her mother."
+  },
+  {
+   "s": "Doña Elena no dice nada por dos días.",
+   "e": "Doña Elena says nothing for two days."
+  },
+  {
+   "s": "Después me manda a llamar.",
+   "e": "Then she sends for me."
+  },
+  {
+   "s": "Voy a la casa un sábado en la mañana.",
+   "e": "I go to the house one Saturday morning."
+  },
+  {
+   "s": "Ella está en la cocina y me habla sin voltearse.",
+   "e": "She is in the kitchen and talks to me without turning round."
+  },
+  {
+   "s": "\"¿Y esta vez qué va a ser distinto?\"",
+   "e": "\"And what's going to be different this time?\""
+  },
+  {
+   "s": "No es una pregunta amable.",
+   "e": "It is not a kind question."
+  },
+  {
+   "s": "Es la pregunta correcta.",
+   "e": "It is the right question."
+  },
+  {
+   "s": "Yo le contesto lo único honesto.",
+   "e": "I answer her the only honest thing."
+  },
+  {
+   "s": "\"Que ahora sé lo que casi pierdo.\"",
+   "e": "\"That now I know what I nearly lost.\""
+  },
+  {
+   "s": "Doña Elena sigue cocinando un rato.",
+   "e": "Doña Elena carries on cooking for a while."
+  },
+  {
+   "s": "Después me sirve un plato sin preguntarme.",
+   "e": "Then she serves me a plate without asking."
+  },
+  {
+   "s": "Y eso fue toda la respuesta.",
+   "e": "And that was the whole answer."
+  },
+  {
+   "s": "La calle se entera esa misma semana.",
+   "e": "The street finds out that same week."
+  },
+  {
+   "s": "Don Beto no dice nada, sólo asiente.",
+   "e": "Don Beto says nothing, just nods."
+  },
+  {
+   "s": "Roberto dice una sola frase.",
+   "e": "Roberto says one sentence."
+  },
+  {
+   "s": "\"Ideay. Ya era hora.\"",
+   "e": "\"Ideay. About time.\""
+  }
+ ]
+}
