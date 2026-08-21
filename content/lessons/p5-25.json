@@ -1,0 +1,297 @@
+{
+ "id": "p5-25",
+ "title": "Me hablan normal",
+ "desc": "They stop slowing down for you",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "esfuerzo",
+  "notar",
+  "traducir",
+  "cansancio",
+  "normal",
+  "costumbre"
+ ],
+ "sn": [
+  {
+   "s": "Hay una cosa que pasa y uno no la nota el día que pasa.",
+   "e": "There is a thing that happens and you do not notice it the day it happens."
+  },
+  {
+   "s": "Se nota después, semanas después, sin buscarla.",
+   "e": "You notice it afterwards, weeks afterwards, without looking for it."
+  },
+  {
+   "s": "Los primeros dos años la gente me hablaba distinto.",
+   "e": "The first two years people talked to me differently."
+  },
+  {
+   "s": "No me hablaban mal, me hablaban con cuidado.",
+   "e": "They did not talk badly to me, they talked carefully."
+  },
+  {
+   "s": "Hablaban más despacio de lo normal.",
+   "e": "They talked more slowly than normal."
+  },
+  {
+   "s": "Lo normal aquí es hablar rápido y encima de otro.",
+   "e": "Normal here is talking fast and over somebody else."
+  },
+  {
+   "s": "Usaban palabras fáciles y frases cortas.",
+   "e": "They used easy words and short sentences."
+  },
+  {
+   "s": "Repetían cada cosa dos veces, por si acaso.",
+   "e": "They repeated everything twice, just in case."
+  },
+  {
+   "s": "Y cuando yo no entendía, buscaban otra manera.",
+   "e": "And when I did not understand, they looked for another way."
+  },
+  {
+   "s": "Todo eso es amable y todo eso es un esfuerzo.",
+   "e": "All that is kind and all that is an effort."
+  },
+  {
+   "s": "Un esfuerzo que hace el otro, no uno.",
+   "e": "An effort the other person makes, not you."
+  },
+  {
+   "s": "Yo no me daba cuenta del esfuerzo de ellos.",
+   "e": "I did not notice their effort."
+  },
+  {
+   "s": "Solo me daba cuenta del mío, que era grande.",
+   "e": "I only noticed my own, which was big."
+  },
+  {
+   "s": "Mi esfuerzo era traducir todo dentro de la cabeza.",
+   "e": "My effort was translating everything inside my head."
+  },
+  {
+   "s": "Alguien hablaba y yo traducía al mismo tiempo.",
+   "e": "Somebody talked and I translated at the same time."
+  },
+  {
+   "s": "Traducía la frase mientras la siguiente ya venía.",
+   "e": "I translated the sentence while the next one was already coming."
+  },
+  {
+   "s": "Por eso llegaba a la casa muerto de cansancio.",
+   "e": "That is why I got home dead with tiredness."
+  },
+  {
+   "s": "Un cansancio raro, de la cabeza y no del cuerpo.",
+   "e": "A strange tiredness, of the head and not the body."
+  },
+  {
+   "s": "Después de una fiesta yo dormía como después de trabajar.",
+   "e": "After a party I slept the way I did after working."
+  },
+  {
+   "s": "Ese cansancio duró como dos años enteros.",
+   "e": "That tiredness lasted about two whole years."
+  },
+  {
+   "s": "Y un día se fue, y yo no supe qué día fue.",
+   "e": "And one day it went, and I did not know which day it was."
+  },
+  {
+   "s": "La noche que lo noto es una noche cualquiera.",
+   "e": "The night I notice it is an ordinary night."
+  },
+  {
+   "s": "Estamos en el patio de doña Elena, doce personas.",
+   "e": "We are in doña Elena's yard, twelve people."
+  },
+  {
+   "s": "Se habla de política, que es lo peor para entender.",
+   "e": "They talk about politics, which is the hardest thing to understand."
+  },
+  {
+   "s": "Todos hablan al mismo tiempo, como siempre.",
+   "e": "Everybody talks at the same time, as always."
+  },
+  {
+   "s": "Chino cuenta un chiste largo con doble sentido.",
+   "e": "Chino tells a long joke with a double meaning."
+  },
+  {
+   "s": "Usa una jerga que hace dos años yo no habría agarrado.",
+   "e": "He uses a slang that two years ago I would not have caught."
+  },
+  {
+   "s": "Marcos dice deacachimba y yo ya ni lo noto.",
+   "e": "Marcos says deacachimba and I do not even notice it any more."
+  },
+  {
+   "s": "Yo me río en el momento justo, sin pensarlo.",
+   "e": "I laugh at the right moment, without thinking about it."
+  },
+  {
+   "s": "Doña Elena me pregunta algo desde la cocina.",
+   "e": "Doña Elena asks me something from the kitchen."
+  },
+  {
+   "s": "Me lo pregunta gritando, rápido, sin verme la cara.",
+   "e": "She asks it shouting, fast, without looking at my face."
+  },
+  {
+   "s": "Y yo le contesto sin pedirle que repita.",
+   "e": "And I answer her without asking her to repeat."
+  },
+  {
+   "s": "Nadie me habló despacio en toda la noche.",
+   "e": "Nobody talked to me slowly all night."
+  },
+  {
+   "s": "Nadie repitió nada dos veces para mí.",
+   "e": "Nobody repeated anything twice for me."
+  },
+  {
+   "s": "Nadie buscó una palabra más fácil.",
+   "e": "Nobody looked for an easier word."
+  },
+  {
+   "s": "Me hablaron normal, como se hablan entre ellos.",
+   "e": "They talked to me normally, the way they talk to each other."
+  },
+  {
+   "s": "Normal es la palabra más grande de todo el año.",
+   "e": "Normal is the biggest word of the whole year."
+  },
+  {
+   "s": "Hablar normal y que a uno le hablen normal.",
+   "e": "Talking normally and being talked to normally."
+  },
+  {
+   "s": "Y yo no lo noté durante las cuatro horas.",
+   "e": "And I did not notice it during the four hours."
+  },
+  {
+   "s": "Lo noto en el bus, ya de regreso, sentado.",
+   "e": "I notice it on the bus, on the way back, sitting down."
+  },
+  {
+   "s": "No estoy cansado y esa es la señal.",
+   "e": "I am not tired and that is the signal."
+  },
+  {
+   "s": "Salgo de una fiesta de cuatro horas sin cansancio.",
+   "e": "I leave a four-hour party without tiredness."
+  },
+  {
+   "s": "El cansancio de traducir era el peor de todos.",
+   "e": "The tiredness of translating was the worst of all."
+  },
+  {
+   "s": "Porque ya no traduje nada en toda la noche.",
+   "e": "Because I did not translate anything all night."
+  },
+  {
+   "s": "Le pregunto a Lucía cuándo dejé de traducir.",
+   "e": "I ask Lucía when I stopped translating."
+  },
+  {
+   "s": "Ella dice que ella lo notó hace como seis meses.",
+   "e": "She says she noticed it about six months ago."
+  },
+  {
+   "s": "Que yo empecé a contestar antes de que terminaran.",
+   "e": "That I started answering before they finished."
+  },
+  {
+   "s": "Y que ella no me dijo nada por no arruinarlo.",
+   "e": "And that she did not tell me anything so as not to ruin it."
+  },
+  {
+   "s": "Me dice que si uno se da cuenta, se pone a pensar.",
+   "e": "She tells me that if you notice, you start thinking."
+  },
+  {
+   "s": "Y si uno se pone a pensar, vuelve a traducir.",
+   "e": "And if you start thinking, you go back to translating."
+  },
+  {
+   "s": "Eso me pasa esa misma semana, por su culpa.",
+   "e": "That happens to me that same week, because of her."
+  },
+  {
+   "s": "Dos días ando notando cada frase que entiendo.",
+   "e": "For two days I go around noticing every sentence I understand."
+  },
+  {
+   "s": "Y dos días vuelvo a entender la mitad.",
+   "e": "And for two days I go back to understanding half."
+  },
+  {
+   "s": "Después se me olvida otra vez y vuelve a salir solo.",
+   "e": "Then I forget about it again and it comes out on its own again."
+  },
+  {
+   "s": "La costumbre es más fuerte que el estudio.",
+   "e": "Habit is stronger than study."
+  },
+  {
+   "s": "La costumbre no se estudia, se junta sola.",
+   "e": "Habit is not studied, it gathers on its own."
+  },
+  {
+   "s": "Dos años de costumbre enseñan más que un año de clases.",
+   "e": "Two years of habit teach more than a year of classes."
+  },
+  {
+   "s": "Yo estudié dos años y la costumbre me dio el resto.",
+   "e": "I studied for two years and habit gave me the rest."
+  },
+  {
+   "s": "No aprendí más palabras esos últimos meses.",
+   "e": "I did not learn more words in those last months."
+  },
+  {
+   "s": "Aprendí a no esperar la palabra que falta.",
+   "e": "I learned not to wait for the missing word."
+  },
+  {
+   "s": "Uno entiende una frase con la mitad de sus palabras.",
+   "e": "You understand a sentence with half its words."
+  },
+  {
+   "s": "La otra mitad la pone la costumbre y la cara del otro.",
+   "e": "The other half is supplied by habit and the other person's face."
+  },
+  {
+   "s": "Eso no se puede estudiar en ningún libro.",
+   "e": "That cannot be studied in any book."
+  },
+  {
+   "s": "Se agarra estando, como la sazón de doña Elena.",
+   "e": "It is picked up by being there, like doña Elena's sazón."
+  },
+  {
+   "s": "Lo raro es que ahora yo hago el esfuerzo al revés.",
+   "e": "The strange thing is that now I make the effort the other way round."
+  },
+  {
+   "s": "Cuando llega alguien de afuera al trabajo, yo hablo despacio.",
+   "e": "When somebody from outside arrives at work, I talk slowly."
+  },
+  {
+   "s": "Le repito las cosas dos veces, por si acaso.",
+   "e": "I repeat things to him twice, just in case."
+  },
+  {
+   "s": "Le busco palabras fáciles sin que él me lo pida.",
+   "e": "I look for easy words for him without his asking."
+  },
+  {
+   "s": "Y él tampoco nota el esfuerzo que estoy haciendo.",
+   "e": "And he does not notice the effort I am making either."
+  },
+  {
+   "s": "Así es como debe ser, dice Marcos.",
+   "e": "That is how it should be, says Marcos."
+  }
+ ]
+}

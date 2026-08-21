@@ -2,7 +2,7 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**139 of 185 stories written** - 47,853 of ~148,000 running words.
+**147 of 185 stories written** - 53,133 of ~148,000 running words.
 
 | Phase | Written | Total |
 |---|---|---|
@@ -11,20 +11,12 @@ Written by `stage.py`. Do not edit by hand.
 | 2 | 26 | 26 |
 | 3 | 26 | 26 |
 | 4 | 35 | 35 |
-| 5 | 18 | 26 |
+| 5 | 26 | 26 |
 | 6 | 0 | 20 |
 | 7 | 0 | 18 |
 
 ## Next to write
 
-- `p5-19` **La comida de la abuela** - Food that only exists in houses
-- `p5-20` **El nacatamal del domingo** - Sunday morning, and the whole street smells the same
-- `p5-21` **Bromas pesadas** - A joke that goes too far
-- `p5-22` **Ese es mi barrio** - Where you live means something
-- `p5-23` **Hora nica** - Time is a suggestion and everyone knows it
-- `p5-24` **Andate ya** - Leaving without being rude
-- `p5-25` **Me hablan normal** - They stop slowing down for you
-- `p5-26` **Sos nica adoptivo** - Being claimed
 - `p6-01` **Depende** - The answer that is not an answer
 - `p6-02` **Tal vez despues** - Refusing something you were never going to do
 - `p6-03` **Con todo respeto** - Disagreeing with somebody above you
@@ -37,4 +29,12 @@ Written by `stage.py`. Do not edit by hand.
 - `p6-10` **Uno nunca sabe** - Impersonal uno, and hiding behind it
 - `p6-11` **De eso mejor no** - Subjects that get closed
 - `p6-12` **El 79** - History everyone carries
-- ... and 26 more in `plan/spine.json`
+- `p6-13` **Los que se fueron** - A country with a diaspora
+- `p6-14` **Ruben Dario** - The poet is on the money
+- `p6-15` **Que va a querer** - Politeness in a shop, at full speed
+- `p6-16` **Sabe que** - Getting somebody's attention properly
+- `p6-17` **Como quien no quiere** - Saying something sideways
+- `p6-18` **Ni modo** - Accepting what cannot be changed
+- `p6-19` **Hablando de eso** - Steering a conversation
+- `p6-20` **Me suena raro** - Hearing a mistake before you can explain it
+- ... and 18 more in `plan/spine.json`

@@ -56,6 +56,11 @@
   "pos": "n",
   "g": "m"
  },
+ "aceituna": {
+  "en": "olive",
+  "pos": "n",
+  "g": "f"
+ },
  "acento": {
   "en": "accent",
   "g": "m",
@@ -85,6 +90,12 @@
  "achicar": {
   "en": "to make smaller",
   "pos": "v"
+ },
+ "achiote": {
+  "en": "achiote",
+  "pos": "n",
+  "g": "m",
+  "note": "The red seed paste that colours Nicaraguan meat"
  },
  "aclarar": {
   "en": "to clear up",
@@ -145,6 +156,11 @@
   "en": "to guess",
   "pos": "v"
  },
+ "adoptivo": {
+  "en": "adopted",
+  "pos": "adj",
+  "note": "Nica adoptivo - said about you, never to you"
+ },
  "adulto": {
   "en": "adult",
   "g": "m",
@@ -190,6 +206,11 @@
  "agregar": {
   "en": "to add",
   "pos": "v"
+ },
+ "agrio": {
+  "en": "sour",
+  "pos": "adj",
+  "note": "Naranja agria - sour orange, used the way lemon is elsewhere"
  },
  "aguantar": {
   "en": "to stand/to put up with",
@@ -463,6 +484,10 @@
   "note": "In an address, arriba means east - where the sun comes up",
   "pos": "adv"
  },
+ "arruinar": {
+  "en": "to ruin",
+  "pos": "v"
+ },
  "arte": {
   "en": "art",
   "g": "m",
@@ -507,6 +532,11 @@
  "atragantarse": {
   "en": "to choke",
   "pos": "v"
+ },
+ "atraso": {
+  "en": "lateness",
+  "pos": "n",
+  "g": "m"
  },
  "atreverse": {
   "en": "to dare",
@@ -553,6 +583,12 @@
   "en": "year",
   "g": "m",
   "pos": "n"
+ },
+ "baho": {
+  "en": "baho",
+  "pos": "n",
+  "g": "m",
+  "note": "Meat, plantain and yuca steamed in layers under plantain leaves. A house dish, never a restaurant one"
  },
  "bajo": {
   "en": "short/low",
@@ -752,6 +788,10 @@
  "brillante": {
   "en": "shiny",
   "pos": "adj"
+ },
+ "brillar": {
+  "en": "to shine",
+  "pos": "v"
  },
  "brindar": {
   "en": "to toast",
@@ -955,6 +995,11 @@
   "en": "amount",
   "g": "f",
   "pos": "n"
+ },
+ "capa": {
+  "en": "layer",
+  "pos": "n",
+  "g": "f"
  },
  "capital": {
   "en": "capital",
@@ -1254,6 +1299,11 @@
   "g": "m",
   "pos": "n"
  },
+ "cita": {
+  "en": "appointment",
+  "pos": "n",
+  "g": "f"
+ },
  "ciudad": {
   "en": "city",
   "g": "f",
@@ -1539,6 +1589,11 @@
   "en": "to cut",
   "pos": "v"
  },
+ "cortesía": {
+  "en": "courtesy",
+  "pos": "n",
+  "g": "f"
+ },
  "cortina": {
   "en": "curtain",
   "g": "f",
@@ -1774,9 +1829,18 @@
   "note": "The verb used for coping here, as if living were something you stand up to",
   "pos": "v"
  },
+ "delantal": {
+  "en": "apron",
+  "pos": "n",
+  "g": "m"
+ },
  "delatar": {
   "en": "to give away",
   "pos": "v"
+ },
+ "delgado": {
+  "en": "thin",
+  "pos": "adj"
  },
  "delicado": {
   "en": "delicate/gravely ill",
@@ -2108,6 +2172,11 @@
   "en": "to fit",
   "pos": "v"
  },
+ "encargar": {
+  "en": "to order, to ask somebody to bring",
+  "pos": "v",
+  "note": "You encargar from a neighbour, not from a business"
+ },
  "encima": {
   "en": "on top",
   "pos": "adv"
@@ -2193,6 +2262,10 @@
   "en": "interview",
   "g": "f",
   "pos": "n"
+ },
+ "envolver": {
+  "en": "to wrap",
+  "pos": "v"
  },
  "equipo": {
   "en": "team",
@@ -2378,6 +2451,12 @@
  "faltar": {
   "en": "to be missing/to be left",
   "pos": "v"
+ },
+ "fama": {
+  "en": "reputation",
+  "pos": "n",
+  "g": "f",
+  "note": "Every barrio has one, and it is put there by people who never went in"
  },
  "farmacia": {
   "en": "pharmacy",
@@ -2767,6 +2846,10 @@
   "g": "f",
   "pos": "n"
  },
+ "hervir": {
+  "en": "to boil",
+  "pos": "v"
+ },
  "hielera": {
   "en": "cool box",
   "g": "f",
@@ -2915,6 +2998,11 @@
   "en": "English",
   "g": "m",
   "pos": "n"
+ },
+ "insistencia": {
+  "en": "insisting",
+  "pos": "n",
+  "g": "f"
  },
  "insistir": {
   "en": "to insist",
@@ -3314,6 +3402,11 @@
   "g": "f",
   "pos": "n"
  },
+ "manteca": {
+  "en": "lard",
+  "pos": "n",
+  "g": "f"
+ },
  "mantenerse": {
   "en": "to support yourself",
   "pos": "v"
@@ -3349,6 +3442,11 @@
   "pos": "n",
   "g": "m"
  },
+ "masa": {
+  "en": "maize dough",
+  "pos": "n",
+  "g": "f"
+ },
  "masticar": {
   "en": "to chew",
   "pos": "v"
@@ -3372,6 +3470,11 @@
   "g": "m",
   "pos": "n"
  },
+ "mecate": {
+  "en": "cord, string",
+  "pos": "n",
+  "g": "m"
+ },
  "medianoche": {
   "en": "midnight",
   "pos": "n",
@@ -3391,6 +3494,11 @@
   "en": "midday",
   "g": "m",
   "pos": "n"
+ },
+ "medir": {
+  "en": "to measure",
+  "pos": "v",
+  "note": "Medir es de gente que no sabe - a cook with sazon measures nothing"
  },
  "mejilla": {
   "en": "cheek",
@@ -3571,6 +3679,11 @@
   "g": "m",
   "pos": "n"
  },
+ "moto": {
+  "en": "motorbike",
+  "pos": "n",
+  "g": "f"
+ },
  "motor": {
   "en": "engine",
   "g": "m",
@@ -3666,6 +3779,11 @@
   "en": "to be born",
   "pos": "v"
  },
+ "nacimiento": {
+  "en": "birth",
+  "pos": "n",
+  "g": "m"
+ },
  "naranja": {
   "en": "orange",
   "g": "f",
@@ -3744,6 +3862,10 @@
   "en": "note",
   "g": "f",
   "pos": "n"
+ },
+ "notar": {
+  "en": "to notice",
+  "pos": "v"
  },
  "noticia": {
   "en": "news",
@@ -3825,6 +3947,12 @@
  "ofender": {
   "en": "to offend",
   "pos": "v"
+ },
+ "ofensa": {
+  "en": "offence",
+  "pos": "n",
+  "g": "f",
+  "note": "Not the same as a hurt - an ofensa is public and it keeps"
  },
  "oficina": {
   "en": "office",
@@ -4102,6 +4230,10 @@
   "g": "m",
   "pos": "n"
  },
+ "peligroso": {
+  "en": "dangerous",
+  "pos": "adj"
+ },
  "pelo": {
   "en": "hair",
   "g": "m",
@@ -4332,6 +4464,12 @@
   "en": "to behave",
   "pos": "v"
  },
+ "portón": {
+  "en": "gate",
+  "pos": "n",
+  "g": "m",
+  "note": "Where the real goodbye happens - the only place with no witnesses"
+ },
  "posible": {
   "en": "possible",
   "pos": "adj"
@@ -4555,6 +4693,10 @@
   "en": "strange/odd",
   "pos": "adj"
  },
+ "rasgar": {
+  "en": "to tear",
+  "pos": "v"
+ },
  "rato": {
   "en": "a while",
   "g": "m",
@@ -4767,12 +4909,25 @@
   "en": "to turn out",
   "pos": "v"
  },
+ "retirarse": {
+  "en": "to withdraw, to leave",
+  "pos": "v"
+ },
  "reunirse": {
   "en": "to gather",
   "pos": "v"
  },
+ "reunión": {
+  "en": "gathering",
+  "pos": "n",
+  "g": "f"
+ },
  "revisar": {
   "en": "to check/to look over",
+  "pos": "v"
+ },
+ "revolver": {
+  "en": "to stir",
   "pos": "v"
  },
  "revés": {
@@ -4935,6 +5090,12 @@
   "en": "saint",
   "g": "m",
   "pos": "n"
+ },
+ "sazón": {
+  "en": "the hand of the person cooking",
+  "pos": "n",
+  "g": "f",
+  "note": "Not the recipe and not the ingredients. Two women with the same pot do not get the same thing"
  },
  "secarse": {
   "en": "to dry",
@@ -5397,6 +5558,10 @@
   "en": "toasted",
   "pos": "adj"
  },
+ "trabajador": {
+  "en": "hardworking",
+  "pos": "adj"
+ },
  "trabajo": {
   "en": "work/job",
   "g": "m",
@@ -5562,6 +5727,11 @@
   "g": "m",
   "note": "Danced with the father first, at the quince"
  },
+ "vapor": {
+  "en": "steam",
+  "pos": "n",
+  "g": "m"
+ },
  "vara": {
   "en": "stick, rod",
   "pos": "n",
@@ -5578,6 +5748,11 @@
   "en": "glass",
   "g": "m",
   "pos": "n"
+ },
+ "vecina": {
+  "en": "neighbour (woman)",
+  "pos": "n",
+  "g": "f"
  },
  "vecino": {
   "en": "neighbour",
@@ -5749,6 +5924,11 @@
   "en": "change (money back)",
   "g": "m",
   "pos": "n"
+ },
+ "yerbabuena": {
+  "en": "mint",
+  "pos": "n",
+  "g": "f"
  },
  "yuca": {
   "en": "cassava",

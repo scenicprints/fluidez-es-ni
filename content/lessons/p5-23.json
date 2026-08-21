@@ -1,0 +1,264 @@
+{
+ "id": "p5-23",
+ "title": "Hora nica",
+ "desc": "Time is a suggestion and everyone knows it",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "puntual",
+  "atraso",
+  "invitación",
+  "llegar",
+  "llega"
+ ],
+ "sn": [
+  {
+   "s": "Doña Carmen nos invita a un almuerzo el domingo.",
+   "e": "Doña Carmen invites us to a lunch on Sunday."
+  },
+  {
+   "s": "En la invitación dice a las doce del mediodía.",
+   "e": "In the invitation it says twelve noon."
+  },
+  {
+   "s": "Yo llego a las doce en punto, con Lucía atrás.",
+   "e": "I arrive at twelve on the dot, with Lucía behind me."
+  },
+  {
+   "s": "Lucía me dijo tres veces que era muy temprano.",
+   "e": "Lucía told me three times it was much too early."
+  },
+  {
+   "s": "Yo le dije que la invitación decía doce.",
+   "e": "I told her the invitation said twelve."
+  },
+  {
+   "s": "Llegamos y doña Carmen está barriendo el patio.",
+   "e": "We arrive and doña Carmen is sweeping the yard."
+  },
+  {
+   "s": "Todavía tiene el delantal y el pelo mojado.",
+   "e": "She still has her apron on and her hair wet."
+  },
+  {
+   "s": "No hay una sola silla puesta en el patio.",
+   "e": "There is not one chair set out in the yard."
+  },
+  {
+   "s": "La comida está en la cocina sin empezar.",
+   "e": "The food is in the kitchen not started."
+  },
+  {
+   "s": "Ella se sorprende de vernos y nos abraza.",
+   "e": "She is surprised to see us and hugs us."
+  },
+  {
+   "s": "Y después nos pone a poner sillas.",
+   "e": "And then she puts us to work setting out chairs."
+  },
+  {
+   "s": "Por llegar puntual, trabajo dos horas en la fiesta.",
+   "e": "For arriving on time, I work two hours at the party."
+  },
+  {
+   "s": "El primer invitado de verdad llega a la una y media.",
+   "e": "The first real guest arrives at half past one."
+  },
+  {
+   "s": "El segundo llega a las dos menos cuarto.",
+   "e": "The second arrives at a quarter to two."
+  },
+  {
+   "s": "A las dos y media hay como veinte personas.",
+   "e": "At half past two there are about twenty people."
+  },
+  {
+   "s": "Comemos a las tres, tres horas después de la invitación.",
+   "e": "We eat at three, three hours after the invitation."
+  },
+  {
+   "s": "Chocho, digo yo, y nadie entiende por qué lo digo.",
+   "e": "Chocho, I say, and nobody understands why I say it."
+  },
+  {
+   "s": "Y nadie, ni uno, pide disculpas por el atraso.",
+   "e": "And nobody, not one, apologises for being late."
+  },
+  {
+   "s": "Porque para ellos no hubo ningún atraso.",
+   "e": "Because for them there was no lateness."
+  },
+  {
+   "s": "La hora de la invitación no era una hora.",
+   "e": "The time on the invitation was not a time."
+  },
+  {
+   "s": "Era una manera de decir el domingo en la tarde.",
+   "e": "It was a way of saying Sunday afternoon."
+  },
+  {
+   "s": "Marcos me explica el asunto con paciencia.",
+   "e": "Marcos explains the matter to me patiently."
+  },
+  {
+   "s": "Me dice que hay dos horas en este país.",
+   "e": "He tells me there are two clocks in this country."
+  },
+  {
+   "s": "Está la hora del reloj y está la hora nica.",
+   "e": "There is clock time and there is Nica time."
+  },
+  {
+   "s": "En hora nica, las doce quiere decir la una y media.",
+   "e": "In Nica time, twelve means half past one."
+  },
+  {
+   "s": "Y las ocho de la noche quiere decir las nueve y media.",
+   "e": "And eight at night means half past nine."
+  },
+  {
+   "s": "El atraso no es un atraso porque todos lo saben.",
+   "e": "The lateness is not lateness because everybody knows it."
+  },
+  {
+   "s": "Si todos llegan tarde, nadie llegó tarde.",
+   "e": "If everybody arrives late, nobody arrived late."
+  },
+  {
+   "s": "Yo pregunto cómo se sabe cuándo la hora es de verdad.",
+   "e": "I ask how you know when the time is a real one."
+  },
+  {
+   "s": "Porque hay horas que sí se cumplen, dice él.",
+   "e": "Because there are times that are kept, he says."
+  },
+  {
+   "s": "El bus interlocal sale a la hora, sin esperar a nadie.",
+   "e": "The interlocal bus leaves on time, waiting for nobody."
+  },
+  {
+   "s": "El trabajo empieza a la hora y se marca la llegada.",
+   "e": "Work starts on time and your arrival is clocked."
+  },
+  {
+   "s": "La misa empieza a la hora, aunque no haya nadie.",
+   "e": "Mass starts on time, even if there is nobody there."
+  },
+  {
+   "s": "Una cita en el hospital es a la hora que dicen.",
+   "e": "An appointment at the hospital is at the time they say."
+  },
+  {
+   "s": "Todo lo que tiene un papel de por medio es puntual.",
+   "e": "Everything with a piece of paper involved is punctual."
+  },
+  {
+   "s": "Todo lo que es entre personas, es hora nica.",
+   "e": "Everything that is between people is Nica time."
+  },
+  {
+   "s": "Una invitación de una casa no es un papel.",
+   "e": "An invitation from a house is not a piece of paper."
+  },
+  {
+   "s": "Después vienen las palabras del atraso, que son varias.",
+   "e": "Then come the words of lateness, and there are several."
+  },
+  {
+   "s": "Ya voy quiere decir que ni se ha levantado.",
+   "e": "Ya voy means he has not even got up yet."
+  },
+  {
+   "s": "Ya casi quiere decir que le falta una hora.",
+   "e": "Ya casi means he is an hour away."
+  },
+  {
+   "s": "Voy en camino quiere decir que ya se está bañando.",
+   "e": "Voy en camino means he is in the shower."
+  },
+  {
+   "s": "Estoy a la vuelta quiere decir veinte minutos.",
+   "e": "Estoy a la vuelta means twenty minutes."
+  },
+  {
+   "s": "Ninguna de esas frases es una mentira.",
+   "e": "None of those sentences is a lie."
+  },
+  {
+   "s": "Son maneras de decir que uno sí va a llegar.",
+   "e": "They are ways of saying that you are going to come."
+  },
+  {
+   "s": "Lo que importa no es la hora, es la llegada.",
+   "e": "What matters is not the time, it is the arrival."
+  },
+  {
+   "s": "Nadie se enoja porque el otro llegó tarde.",
+   "e": "Nobody gets angry because the other one arrived late."
+  },
+  {
+   "s": "Se enojan si el otro no llega nunca.",
+   "e": "They get angry if the other one never comes at all."
+  },
+  {
+   "s": "Eso sí es una ofensa y no se olvida.",
+   "e": "That is an offence and it is not forgotten."
+  },
+  {
+   "s": "Yo tardo un año en dejar de llegar puntual.",
+   "e": "It takes me a year to stop arriving on time."
+  },
+  {
+   "s": "Al principio llegaba puntual y esperaba solo.",
+   "e": "At first I arrived on time and waited alone."
+  },
+  {
+   "s": "Después empecé a llegar media hora tarde.",
+   "e": "Then I started arriving half an hour late."
+  },
+  {
+   "s": "Y seguía siendo el primero en llegar.",
+   "e": "And I was still the first to arrive."
+  },
+  {
+   "s": "Ahora llego cuando la comida ya está en la mesa.",
+   "e": "Now I arrive when the food is already on the table."
+  },
+  {
+   "s": "Lucía dice que por fin aprendí a leer una invitación.",
+   "e": "Lucía says I have finally learned to read an invitation."
+  },
+  {
+   "s": "Pero hay una reunión donde yo sigo llegando puntual.",
+   "e": "But there is one gathering where I still arrive on time."
+  },
+  {
+   "s": "Cuando alguien se muere, la gente llega de una vez.",
+   "e": "When somebody dies, people come at once."
+  },
+  {
+   "s": "Nadie llega tarde a un velorio en este barrio.",
+   "e": "Nobody arrives late at a wake in this barrio."
+  },
+  {
+   "s": "Media hora después de la noticia ya hay diez personas.",
+   "e": "Half an hour after the news there are already ten people."
+  },
+  {
+   "s": "Esa es la única hora que aquí se cumple sin reloj.",
+   "e": "That is the only time here that is kept without a clock."
+  },
+  {
+   "s": "Marcos me lo dijo de una manera que no olvido.",
+   "e": "Marcos said it to me in a way I do not forget."
+  },
+  {
+   "s": "Me dijo que a la fiesta se llega cuando se puede.",
+   "e": "He told me that to a party you come when you can."
+  },
+  {
+   "s": "Y que al dolor se llega de una vez.",
+   "e": "And that to grief you come at once."
+  }
+ ]
+}

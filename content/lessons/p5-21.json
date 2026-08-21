@@ -1,0 +1,304 @@
+{
+ "id": "p5-21",
+ "title": "Bromas pesadas",
+ "desc": "A joke that goes too far",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "ofensa",
+  "pesado",
+  "límite",
+  "broma",
+  "moto"
+ ],
+ "sn": [
+  {
+   "s": "Un sábado estamos en el patio de Marcos.",
+   "e": "One Saturday we are in Marcos's yard."
+  },
+  {
+   "s": "Somos seis hombres tomando y vacilando.",
+   "e": "We are six men drinking and joking."
+  },
+  {
+   "s": "El vacilón lleva dos horas y va bien.",
+   "e": "The joking has gone on two hours and it is going well."
+  },
+  {
+   "s": "Yo ya devuelvo golpes sin pensarlo mucho.",
+   "e": "I give the blows back now without thinking much."
+  },
+  {
+   "s": "Chino está siendo el blanco de todos esa tarde.",
+   "e": "Chino is everybody's target that afternoon."
+  },
+  {
+   "s": "Le dicen de todo y él devuelve todo.",
+   "e": "They say everything to him and he gives everything back."
+  },
+  {
+   "s": "Y ahí es donde yo me paso.",
+   "e": "And that is where I go too far."
+  },
+  {
+   "s": "Le digo una cosa de su trabajo nuevo.",
+   "e": "I say something to him about his new job."
+  },
+  {
+   "s": "Le digo que en dos meses lo van a botar.",
+   "e": "I tell him that in two months they will throw him out."
+  },
+  {
+   "s": "Como lo botaron del otro, digo yo.",
+   "e": "Like they threw him out of the last one, I say."
+  },
+  {
+   "s": "El patio se queda callado de golpe.",
+   "e": "The yard goes quiet all at once."
+  },
+  {
+   "s": "Marcos mira el suelo y no dice nada.",
+   "e": "Marcos looks at the ground and says nothing."
+  },
+  {
+   "s": "Chino se ríe, pero la risa le sale corta.",
+   "e": "Chino laughs, but the laugh comes out short."
+  },
+  {
+   "s": "Dice que sí, que quién sabe, y toma de su birra.",
+   "e": "He says yes, who knows, and drinks from his beer."
+  },
+  {
+   "s": "Y después el vacilón ya no vuelve a arrancar.",
+   "e": "And afterwards the joking never starts up again."
+  },
+  {
+   "s": "En diez minutos dos se van para su casa.",
+   "e": "In ten minutes two of them leave for home."
+  },
+  {
+   "s": "Yo me quedo sin entender bien qué hice.",
+   "e": "I stay behind without properly understanding what I did."
+  },
+  {
+   "s": "Marcos me lo explica cuando quedamos los dos.",
+   "e": "Marcos explains it to me when the two of us are left."
+  },
+  {
+   "s": "Me dice que la broma no estuvo mala.",
+   "e": "He tells me the joke was not a bad one."
+  },
+  {
+   "s": "Me dice que el problema fue otro.",
+   "e": "He tells me the problem was something else."
+  },
+  {
+   "s": "Chino perdió el otro trabajo de verdad.",
+   "e": "Chino really did lose the other job."
+  },
+  {
+   "s": "Lo botaron y estuvo ocho meses sin nada.",
+   "e": "They threw him out and he was eight months with nothing."
+  },
+  {
+   "s": "Su mujer se fue a la casa de la mamá esos meses.",
+   "e": "His wife went to her mother's house those months."
+  },
+  {
+   "s": "Su papá ya estaba muerto y no tenía a quién pedirle.",
+   "e": "His father was already dead and he had nobody to ask."
+  },
+  {
+   "s": "Eso lo sabe todo el mundo y nadie lo menciona.",
+   "e": "Everybody knows that and nobody mentions it."
+  },
+  {
+   "s": "Una broma pesada no es la que duele más.",
+   "e": "A heavy joke is not the one that hurts most."
+  },
+  {
+   "s": "Una broma pesada se conoce por el silencio de después.",
+   "e": "A heavy joke is known by the silence afterwards."
+  },
+  {
+   "s": "Es la que toca algo que todavía está abierto.",
+   "e": "It is the one that touches something still open."
+  },
+  {
+   "s": "La mía fue pesada sin que yo lo supiera.",
+   "e": "Mine was a heavy one without my knowing it."
+  },
+  {
+   "s": "Aquí pesado no quiere decir fuerte, quiere decir cruel.",
+   "e": "Here pesado does not mean strong, it means cruel."
+  },
+  {
+   "s": "Un vacilón fuerte está bien, un vacilón pesado no.",
+   "e": "A hard joke is fine, a heavy joke is not."
+  },
+  {
+   "s": "Un chiste pesado se queda en el aire mucho rato.",
+   "e": "A heavy joke hangs in the air a long time."
+  },
+  {
+   "s": "Y el silencio que deja también es pesado.",
+   "e": "And the silence it leaves is heavy too."
+  },
+  {
+   "s": "Nadie dice eso estuvo pesado, todos se callan.",
+   "e": "Nobody says that was heavy, everybody just goes quiet."
+  },
+  {
+   "s": "El límite no está en las palabras, me dice Marcos.",
+   "e": "The limit is not in the words, Marcos tells me."
+  },
+  {
+   "s": "El límite está en lo que le pasó a cada quien.",
+   "e": "The limit is in what happened to each person."
+  },
+  {
+   "s": "Por eso el límite se mueve con la persona.",
+   "e": "That is why the limit moves with the person."
+  },
+  {
+   "s": "Cada quien lleva su propio límite y no lo anuncia.",
+   "e": "Each person carries his own limit and does not announce it."
+  },
+  {
+   "s": "Con Chino se puede vacilar de todo menos de eso.",
+   "e": "With Chino you can joke about everything except that."
+  },
+  {
+   "s": "Yo pregunto cómo se supone que yo lo sepa.",
+   "e": "I ask how I am supposed to know that."
+  },
+  {
+   "s": "Marcos dice que uno escucha antes de hablar.",
+   "e": "Marcos says you listen before you talk."
+  },
+  {
+   "s": "Que en dos años uno se entera de los límites.",
+   "e": "That in two years you find out where the limits are."
+  },
+  {
+   "s": "Y que yo estaba hablando en vez de escuchar.",
+   "e": "And that I was talking instead of listening."
+  },
+  {
+   "s": "Esa noche no duermo bien pensando en la cara de Chino.",
+   "e": "That night I do not sleep well thinking about Chino's face."
+  },
+  {
+   "s": "No fue enojo lo que le vi, fue vergüenza.",
+   "e": "It was not anger I saw in him, it was shame."
+  },
+  {
+   "s": "Le hice pasar vergüenza delante de cinco hombres.",
+   "e": "I made him feel shame in front of five men."
+  },
+  {
+   "s": "Eso es una ofensa aunque nadie diga la palabra.",
+   "e": "That is an offence even if nobody says the word."
+  },
+  {
+   "s": "La ofensa no fue el chiste, fueron los cinco hombres.",
+   "e": "The offence was not the joke, it was the five men."
+  },
+  {
+   "s": "Una ofensa de esas no se arregla con el tiempo.",
+   "e": "An offence like that does not get fixed by time."
+  },
+  {
+   "s": "Se queda ahí y sale otra vez en dos años.",
+   "e": "It stays there and comes out again in two years."
+  },
+  {
+   "s": "Lucía me dice que vaya el domingo temprano.",
+   "e": "Lucía tells me to go on Sunday, early."
+  },
+  {
+   "s": "Me dice que no lleve nada y que no explique mucho.",
+   "e": "She tells me not to take anything and not to explain much."
+  },
+  {
+   "s": "Que una disculpa larga se vuelve otra ofensa.",
+   "e": "That a long apology becomes another offence."
+  },
+  {
+   "s": "El domingo llego a la casa de Chino a las siete.",
+   "e": "On Sunday I get to Chino's house at seven."
+  },
+  {
+   "s": "Él está lavando la moto en la calle.",
+   "e": "He is washing the motorbike in the street."
+  },
+  {
+   "s": "No me mira cuando llego pero tampoco se va.",
+   "e": "He does not look at me when I arrive but he does not leave either."
+  },
+  {
+   "s": "Yo le digo que me pasé y que lo siento.",
+   "e": "I tell him I went too far and that I am sorry."
+  },
+  {
+   "s": "No digo era broma, porque eso no es una disculpa.",
+   "e": "I do not say it was a joke, because that is not an apology."
+  },
+  {
+   "s": "Era broma es pedirle al otro que se aguante.",
+   "e": "It was a joke is asking the other person to put up with it."
+  },
+  {
+   "s": "Le digo solo que estuvo de más y que lo siento.",
+   "e": "I just tell him it was uncalled for and that I am sorry."
+  },
+  {
+   "s": "Él sigue lavando la moto un rato largo.",
+   "e": "He goes on washing the motorbike for a good while."
+  },
+  {
+   "s": "Después me pregunta si quiero café.",
+   "e": "Then he asks me if I want coffee."
+  },
+  {
+   "s": "Eso es todo lo que va a pasar y yo lo entiendo.",
+   "e": "That is everything that is going to happen and I understand it."
+  },
+  {
+   "s": "Aquí no se dice te perdono, se ofrece café.",
+   "e": "Here nobody says I forgive you, they offer coffee."
+  },
+  {
+   "s": "Tomamos café en la acera sin hablar del asunto.",
+   "e": "We drink coffee on the pavement without talking about it."
+  },
+  {
+   "s": "Él habla de la moto y yo hablo de la moto.",
+   "e": "He talks about the motorbike and I talk about the motorbike."
+  },
+  {
+   "s": "Media hora de moto y quedamos como antes.",
+   "e": "Half an hour of motorbike and we are as we were."
+  },
+  {
+   "s": "Al salir me arrepiento de una sola cosa.",
+   "e": "On the way out I regret only one thing."
+  },
+  {
+   "s": "No de la broma, que ya está arreglada.",
+   "e": "Not the joke, which is now sorted out."
+  },
+  {
+   "s": "Me arrepiento de haber tardado un día entero.",
+   "e": "I regret having taken a whole day."
+  },
+  {
+   "s": "Marcos me dice después que hice bien en ir temprano.",
+   "e": "Marcos tells me afterwards that I did right to go early."
+  },
+  {
+   "s": "Que una ofensa dormida se pone pesada de verdad.",
+   "e": "That an offence left to sleep gets really heavy."
+  }
+ ]
+}

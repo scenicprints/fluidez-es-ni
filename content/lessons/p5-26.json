@@ -1,0 +1,296 @@
+{
+ "id": "p5-26",
+ "title": "Sos nica adoptivo",
+ "desc": "Being claimed",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "adoptivo",
+  "corazón",
+  "nacer",
+  "bandera",
+  "nica"
+ ],
+ "sn": [
+  {
+   "s": "En septiembre hay fiesta en el trabajo por la independencia.",
+   "e": "In September there is a party at work for independence day."
+  },
+  {
+   "s": "Ponen banderas azul y blanco en toda la fábrica.",
+   "e": "They put blue and white flags all over the factory."
+  },
+  {
+   "s": "Hay una bandera grande arriba del portón.",
+   "e": "There is a big flag above the gate."
+  },
+  {
+   "s": "Y una bandera chiquita en cada mesa del patio.",
+   "e": "And a little flag on every table in the yard."
+  },
+  {
+   "s": "Sacan las mesas al patio y traen comida.",
+   "e": "They take the tables out to the yard and bring food."
+  },
+  {
+   "s": "Vienen los de la oficina y los del taller juntos.",
+   "e": "The office people and the workshop people come together."
+  },
+  {
+   "s": "Somos como sesenta personas en el patio.",
+   "e": "We are about sixty people in the yard."
+  },
+  {
+   "s": "El jefe hace un discurso corto, como siempre.",
+   "e": "The boss makes a short speech, as always."
+  },
+  {
+   "s": "Después la gente come y habla y nadie trabaja.",
+   "e": "Then people eat and talk and nobody works."
+  },
+  {
+   "s": "En una mesa se ponen a hablar de la patria.",
+   "e": "At one table they start talking about the homeland."
+  },
+  {
+   "s": "Es una conversación que aquí sale sola en septiembre.",
+   "e": "It is a conversation that comes up on its own here in September."
+  },
+  {
+   "s": "Hablan de lo que significa ser nicaragüense.",
+   "e": "They talk about what it means to be Nicaraguan."
+  },
+  {
+   "s": "Yo escucho y no digo nada, como en esos temas.",
+   "e": "I listen and say nothing, as I do with those subjects."
+  },
+  {
+   "s": "No es mi tema y todos lo sabemos.",
+   "e": "It is not my subject and we all know it."
+  },
+  {
+   "s": "Un muchacho nuevo del taller me pregunta de dónde soy.",
+   "e": "A new boy from the workshop asks me where I am from."
+  },
+  {
+   "s": "Es nuevo y no sabe nada de mí todavía.",
+   "e": "He is new and does not know anything about me yet."
+  },
+  {
+   "s": "Yo empiezo a contestar lo de siempre.",
+   "e": "I start to answer the usual thing."
+  },
+  {
+   "s": "Y no alcanzo a terminar la frase.",
+   "e": "And I do not get to finish the sentence."
+  },
+  {
+   "s": "Marcos contesta por mí desde la otra punta de la mesa.",
+   "e": "Marcos answers for me from the other end of the table."
+  },
+  {
+   "s": "Dice que yo soy nica adoptivo y sigue comiendo.",
+   "e": "He says I am an adopted nica and goes on eating."
+  },
+  {
+   "s": "El muchacho nuevo dice que eso está tuani.",
+   "e": "The new boy says that is tuani."
+  },
+  {
+   "s": "Lo dice sin ponerle importancia a la frase.",
+   "e": "He says it without giving the sentence any importance."
+  },
+  {
+   "s": "Como quien dice que uno es del turno de la mañana.",
+   "e": "Like somebody saying you are on the morning shift."
+  },
+  {
+   "s": "El muchacho nuevo dice ah, y ya está.",
+   "e": "The new boy says ah, and that is that."
+  },
+  {
+   "s": "Nadie más en la mesa dice nada del asunto.",
+   "e": "Nobody else at the table says anything about it."
+  },
+  {
+   "s": "Para ellos no pasó nada en ese minuto.",
+   "e": "For them nothing happened in that minute."
+  },
+  {
+   "s": "Yo me quedo con el plato en la mano un rato largo.",
+   "e": "I stay with my plate in my hand for a good while."
+  },
+  {
+   "s": "Nica adoptivo es una frase que ya había oído.",
+   "e": "Nica adoptivo is a phrase I had heard before."
+  },
+  {
+   "s": "La había oído dicha de otras personas, nunca de mí.",
+   "e": "I had heard it said of other people, never of me."
+  },
+  {
+   "s": "Y hay una cosa importante en cómo la dijo.",
+   "e": "And there is one important thing in how he said it."
+  },
+  {
+   "s": "No me la dijo a mí, se la dijo a otro.",
+   "e": "He did not say it to me, he said it to somebody else."
+  },
+  {
+   "s": "Una cosa es que a uno le digan que pertenece.",
+   "e": "It is one thing to be told that you belong."
+  },
+  {
+   "s": "Otra cosa es que lo digan cuando uno no preguntó.",
+   "e": "It is another for it to be said when you did not ask."
+  },
+  {
+   "s": "Eso no se puede pedir y no se puede ganar solo.",
+   "e": "That cannot be asked for and cannot be earned alone."
+  },
+  {
+   "s": "Lo tiene que decir otro, y delante de gente.",
+   "e": "Somebody else has to say it, and in front of people."
+  },
+  {
+   "s": "En la tarde le pregunto a Marcos qué quiso decir.",
+   "e": "In the afternoon I ask Marcos what he meant."
+  },
+  {
+   "s": "Él se hace el que no entiende la pregunta.",
+   "e": "He pretends not to understand the question."
+  },
+  {
+   "s": "Después me dice que hay dos maneras de ser nica.",
+   "e": "Then he tells me there are two ways of being nica."
+  },
+  {
+   "s": "Una es nacer aquí, que es la que no se escoge.",
+   "e": "One is being born here, which is the one you do not choose."
+  },
+  {
+   "s": "El que nace aquí no eligió nacer aquí.",
+   "e": "The one born here did not choose to be born here."
+  },
+  {
+   "s": "Nacer es suerte, quedarse es decisión.",
+   "e": "Being born is luck, staying is a decision."
+  },
+  {
+   "s": "La otra es quedarse, que sí se escoge todos los días.",
+   "e": "The other is staying, which is chosen every day."
+  },
+  {
+   "s": "El que nace aquí es nica y no hizo nada por serlo.",
+   "e": "The one born here is nica and did nothing to be so."
+  },
+  {
+   "s": "El que se queda tuvo que aguantar para serlo.",
+   "e": "The one who stays had to put up with things to be so."
+  },
+  {
+   "s": "Y por eso el adoptivo se lo tiene más ganado.",
+   "e": "And that is why the adopted one has earned it more."
+  },
+  {
+   "s": "Yo le digo que eso suena bonito pero no es cierto.",
+   "e": "I tell him that sounds nice but it is not true."
+  },
+  {
+   "s": "Que yo nunca voy a ser de aquí como ellos.",
+   "e": "That I am never going to be from here the way they are."
+  },
+  {
+   "s": "Él me dice que nadie dijo igual, dijo nica.",
+   "e": "He tells me nobody said the same, he said nica."
+  },
+  {
+   "s": "Y que si yo quiero discutirlo, que lo discuta.",
+   "e": "And that if I want to argue about it, I should argue."
+  },
+  {
+   "s": "Pero que él ya lo dijo delante de la mesa.",
+   "e": "But that he already said it in front of the table."
+  },
+  {
+   "s": "Y que aquí lo dicho delante de gente no se recoge.",
+   "e": "And that here what is said in front of people is not taken back."
+  },
+  {
+   "s": "En la noche le cuento a Lucía toda la escena.",
+   "e": "At night I tell Lucía the whole scene."
+  },
+  {
+   "s": "Ella no se sorprende ni un poco.",
+   "e": "She is not surprised in the least."
+  },
+  {
+   "s": "Me dice que su mamá lo dijo hace más de un año.",
+   "e": "She tells me her mother said it more than a year ago."
+  },
+  {
+   "s": "Que doña Elena le dijo nica de corazón a una vecina.",
+   "e": "That doña Elena called me nica at heart to a neighbour."
+  },
+  {
+   "s": "Nica de corazón es más fuerte que adoptivo.",
+   "e": "Nica de corazón is stronger than adoptivo."
+  },
+  {
+   "s": "De corazón no se dice de cualquiera.",
+   "e": "De corazón is not said about just anybody."
+  },
+  {
+   "s": "Adoptivo es de afuera y aceptado adentro.",
+   "e": "Adoptivo is from outside and accepted inside."
+  },
+  {
+   "s": "De corazón es que uno ya quiere lo que ellos quieren.",
+   "e": "De corazón is that you already love what they love."
+  },
+  {
+   "s": "Es tener el corazón en el mismo lugar que ellos.",
+   "e": "It is having your heart in the same place as theirs."
+  },
+  {
+   "s": "Yo pregunto por qué nadie me lo dijo a mí.",
+   "e": "I ask why nobody said it to me."
+  },
+  {
+   "s": "Lucía me dice que eso no se dice de frente.",
+   "e": "Lucía tells me that is not said to your face."
+  },
+  {
+   "s": "Que decírselo de frente sería recordarle a uno que es de afuera.",
+   "e": "That saying it to your face would be reminding you that you are from outside."
+  },
+  {
+   "s": "Se dice a otros y uno se entera después.",
+   "e": "It is said to others and you find out afterwards."
+  },
+  {
+   "s": "Como todo lo importante en este barrio.",
+   "e": "Like everything important in this barrio."
+  },
+  {
+   "s": "Esa noche salgo al patio antes de acostarme.",
+   "e": "That night I go out to the yard before going to bed."
+  },
+  {
+   "s": "Está la bandera de la fábrica todavía en mi bolsa.",
+   "e": "The factory flag is still in my bag."
+  },
+  {
+   "s": "Una bandera de papel, azul y blanco, de las baratas.",
+   "e": "A paper flag, blue and white, one of the cheap ones."
+  },
+  {
+   "s": "La pego en la pared del cuarto con dos clavos.",
+   "e": "I stick it on the bedroom wall with two nails."
+  },
+  {
+   "s": "Nadie me va a preguntar por qué está ahí.",
+   "e": "Nobody is going to ask me why it is there."
+  }
+ ]
+}

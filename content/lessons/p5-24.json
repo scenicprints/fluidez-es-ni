@@ -1,0 +1,287 @@
+{
+ "id": "p5-24",
+ "title": "Andate ya",
+ "desc": "Leaving without being rude",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "portón",
+  "retirarse",
+  "despedida",
+  "abrazo",
+  "parte",
+  "veces",
+  "minuto",
+  "insistir"
+ ],
+ "sn": [
+  {
+   "s": "Una despedida aquí no es un momento.",
+   "e": "A goodbye here is not a moment."
+  },
+  {
+   "s": "Una despedida es una parte entera de la visita.",
+   "e": "A goodbye is a whole section of the visit."
+  },
+  {
+   "s": "La primera vez que fui a una casa no lo sabía.",
+   "e": "The first time I went to a house I did not know that."
+  },
+  {
+   "s": "Dije que ya me iba y me paré de la silla.",
+   "e": "I said I was leaving and stood up from the chair."
+  },
+  {
+   "s": "Y salí por la puerta en menos de un minuto.",
+   "e": "And I went out the door in less than a minute."
+  },
+  {
+   "s": "Al día siguiente Lucía me dijo que me había ido feo.",
+   "e": "The next day Lucía told me I had left badly."
+  },
+  {
+   "s": "Yo no entendí qué podía tener de feo irse.",
+   "e": "I did not understand what could be bad about leaving."
+  },
+  {
+   "s": "Ella me explicó cómo se hace una despedida.",
+   "e": "She explained to me how a goodbye is done."
+  },
+  {
+   "s": "La despedida tiene cuatro partes y todas son necesarias.",
+   "e": "The goodbye has four parts and all of them are necessary."
+  },
+  {
+   "s": "La primera parte se hace sentado en la silla.",
+   "e": "The first part is done sitting in the chair."
+  },
+  {
+   "s": "Uno dice bueno, y no dice nada más.",
+   "e": "You say bueno, and you say nothing else."
+  },
+  {
+   "s": "Ese bueno solo avisa que uno está pensando en irse.",
+   "e": "That bueno only warns that you are thinking of leaving."
+  },
+  {
+   "s": "No es una despedida, es el aviso de una.",
+   "e": "It is not a goodbye, it is the warning of one."
+  },
+  {
+   "s": "Después de ese bueno la conversación sigue diez minutos.",
+   "e": "After that bueno the conversation goes on ten minutes."
+  },
+  {
+   "s": "La segunda parte es pararse de la silla.",
+   "e": "The second part is standing up from the chair."
+  },
+  {
+   "s": "Uno se para pero no camina hacia la puerta.",
+   "e": "You stand up but you do not walk to the door."
+  },
+  {
+   "s": "Se queda parado hablando lo mismo que sentado.",
+   "e": "You stay standing, talking about the same things."
+  },
+  {
+   "s": "Eso dura otros diez minutos, a veces quince.",
+   "e": "That lasts another ten minutes, sometimes fifteen."
+  },
+  {
+   "s": "La tercera parte es caminar hasta el portón.",
+   "e": "The third part is walking to the gate."
+  },
+  {
+   "s": "El portón es donde pasa la despedida de verdad.",
+   "e": "The gate is where the real goodbye happens."
+  },
+  {
+   "s": "Ahí en el portón se habla veinte minutos más.",
+   "e": "There at the gate you talk for twenty minutes more."
+  },
+  {
+   "s": "En el portón se dicen las cosas importantes.",
+   "e": "At the gate the important things get said."
+  },
+  {
+   "s": "Lo que uno no dijo adentro, lo dice en el portón.",
+   "e": "What you did not say inside, you say at the gate."
+  },
+  {
+   "s": "Doña Elena me dio la peor noticia de un año en el portón.",
+   "e": "Doña Elena gave me the worst news of a year at the gate."
+  },
+  {
+   "s": "La cuarta parte es la salida, que también es lenta.",
+   "e": "The fourth part is the leaving, which is also slow."
+  },
+  {
+   "s": "Uno camina y el otro camina con uno una cuadra.",
+   "e": "You walk and the other one walks a block with you."
+  },
+  {
+   "s": "Y en esa cuadra se habla otra vez de todo.",
+   "e": "And in that block you talk about everything again."
+  },
+  {
+   "s": "Yo pregunté por qué no se dice todo adentro.",
+   "e": "I asked why everything is not said inside."
+  },
+  {
+   "s": "Lucía me dijo que adentro hay más gente escuchando.",
+   "e": "Lucía told me that inside there are more people listening."
+  },
+  {
+   "s": "Que el portón es el único lugar sin testigos.",
+   "e": "That the gate is the only place with no witnesses."
+  },
+  {
+   "s": "Después están las palabras de la despedida.",
+   "e": "Then there are the words of the goodbye."
+  },
+  {
+   "s": "Ya me voy es la primera y no significa nada.",
+   "e": "Ya me voy is the first and it means nothing."
+  },
+  {
+   "s": "El otro contesta que se quede un ratito más.",
+   "e": "The other one answers that you should stay a little longer."
+  },
+  {
+   "s": "Uno dice que no, que ya es tarde.",
+   "e": "You say no, that it is late now."
+  },
+  {
+   "s": "El otro insiste una vez, y esa vez es obligatoria.",
+   "e": "The other insists once, and that time is obligatory."
+  },
+  {
+   "s": "Si el otro no insiste, es que uno cae mal.",
+   "e": "If the other one does not insist, it means you are not welcome."
+  },
+  {
+   "s": "Y si insiste tres veces, hay que quedarse.",
+   "e": "And if he insists three times, you have to stay."
+  },
+  {
+   "s": "Dos veces es cortesía, tres veces es de verdad.",
+   "e": "Twice is courtesy, three times is real."
+  },
+  {
+   "s": "Aprender a contar las insistencias me costó un año.",
+   "e": "Learning to count the insistings took me a year."
+  },
+  {
+   "s": "Después vienen las palabras de la calle.",
+   "e": "Then come the words of the street."
+  },
+  {
+   "s": "Nos vemos, que se dice aunque no haya nada planeado.",
+   "e": "Nos vemos, which is said even with nothing planned."
+  },
+  {
+   "s": "Cuidate, que es lo último y va con la mano levantada.",
+   "e": "Cuidate, which is the last one and goes with a raised hand."
+  },
+  {
+   "s": "Esas palabras no son jerga y no pasan de moda.",
+   "e": "Those words are not slang and they do not go out of fashion."
+  },
+  {
+   "s": "Y que le vaya bien, que se dice al que se queda.",
+   "e": "And que le vaya bien, which is said to the one staying."
+  },
+  {
+   "s": "Nunca se dice adiós, porque adiós suena a para siempre.",
+   "e": "You never say adiós, because adiós sounds like forever."
+  },
+  {
+   "s": "Adiós es para un muerto o para alguien que se va del país.",
+   "e": "Adiós is for a dead person or somebody leaving the country."
+  },
+  {
+   "s": "El abrazo es lo último de todo.",
+   "e": "The hug is the last thing of all."
+  },
+  {
+   "s": "A los hombres se les da un abrazo corto y fuerte.",
+   "e": "Men are given a short, hard hug."
+  },
+  {
+   "s": "A las señoras un abrazo con la mano en el hombro.",
+   "e": "Ladies a hug with a hand on the shoulder."
+  },
+  {
+   "s": "A doña Elena yo le doy un abrazo y un beso.",
+   "e": "Doña Elena I give a hug and a kiss."
+  },
+  {
+   "s": "El abrazo se da al final, nunca en el medio.",
+   "e": "The hug is given at the end, never in the middle."
+  },
+  {
+   "s": "Eso no lo hacía el primer año y ahora sale solo.",
+   "e": "I did not do that the first year and now it comes on its own."
+  },
+  {
+   "s": "Retirarse temprano de una casa es difícil aquí.",
+   "e": "Withdrawing early from a house is difficult here."
+  },
+  {
+   "s": "Uno no se retira sin avisar tres veces.",
+   "e": "You do not withdraw without warning three times."
+  },
+  {
+   "s": "El que se retira callado deja mala impresión.",
+   "e": "The one who withdraws quietly leaves a bad impression."
+  },
+  {
+   "s": "Retirarse bien es la última prueba de la visita.",
+   "e": "Withdrawing well is the last test of the visit."
+  },
+  {
+   "s": "Uno no se retira, uno negocia una salida.",
+   "e": "You do not withdraw, you negotiate an exit."
+  },
+  {
+   "s": "Y la negociación tarda cuarenta minutos.",
+   "e": "And the negotiation takes forty minutes."
+  },
+  {
+   "s": "Por eso hay que empezar la despedida antes.",
+   "e": "That is why you have to start the goodbye earlier."
+  },
+  {
+   "s": "Si uno quiere irse a las nueve, dice bueno a las ocho.",
+   "e": "If you want to leave at nine, you say bueno at eight."
+  },
+  {
+   "s": "Marcos me enseñó eso con un reloj en la mano.",
+   "e": "Marcos taught me that with a watch in his hand."
+  },
+  {
+   "s": "Hoy salgo de una casa cuando quiero salir.",
+   "e": "Today I leave a house when I want to leave."
+  },
+  {
+   "s": "Empiezo temprano, aguanto las insistencias, y me voy.",
+   "e": "I start early, I hold out against the insisting, and I go."
+  },
+  {
+   "s": "Lo que no aprendí a hacer es lo contrario.",
+   "e": "What I did not learn to do is the opposite."
+  },
+  {
+   "s": "Cuando alguien se despide en mi casa, yo insisto.",
+   "e": "When somebody says goodbye at my house, I insist."
+  },
+  {
+   "s": "Insisto dos veces, como se debe, y él se va.",
+   "e": "I insist twice, as one should, and he leaves."
+  },
+  {
+   "s": "Y después me quedo en el portón un rato solo.",
+   "e": "And afterwards I stay at the gate on my own a while."
+  }
+ ]
+}

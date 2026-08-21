@@ -1,0 +1,283 @@
+{
+ "id": "p5-22",
+ "title": "Ese es mi barrio",
+ "desc": "Where you live means something",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "fama",
+  "peligroso",
+  "humilde",
+  "zona"
+ ],
+ "sn": [
+  {
+   "s": "En el trabajo llenamos un papel con la dirección.",
+   "e": "At work we fill in a form with our address."
+  },
+  {
+   "s": "Es para una cosa del seguro, nada importante.",
+   "e": "It is for something to do with insurance, nothing important."
+  },
+  {
+   "s": "Yo escribo el nombre de mi barrio como siempre.",
+   "e": "I write the name of my barrio as always."
+  },
+  {
+   "s": "El muchacho de la oficina lee la dirección.",
+   "e": "The boy in the office reads the address."
+  },
+  {
+   "s": "Levanta la cara y me mira distinto.",
+   "e": "He looks up and looks at me differently."
+  },
+  {
+   "s": "Me pregunta si de verdad vivo ahí.",
+   "e": "He asks me if I really live there."
+  },
+  {
+   "s": "Yo le digo que sí, desde hace tres años.",
+   "e": "I tell him yes, for three years now."
+  },
+  {
+   "s": "Él me dice que esa zona es peligrosa.",
+   "e": "He tells me that zone is dangerous."
+  },
+  {
+   "s": "Lo dice con la seguridad del que nunca ha ido.",
+   "e": "He says it with the certainty of somebody who has never been."
+  },
+  {
+   "s": "Yo le pregunto si él conoce el barrio.",
+   "e": "I ask him if he knows the barrio."
+  },
+  {
+   "s": "Me dice que no, pero que tiene fama.",
+   "e": "He says no, but that it has a reputation."
+  },
+  {
+   "s": "Esa palabra es la que se usa siempre: fama.",
+   "e": "That is the word always used: fama."
+  },
+  {
+   "s": "Un barrio tiene fama y la fama no se discute.",
+   "e": "A barrio has a reputation and the reputation is not argued with."
+  },
+  {
+   "s": "Nadie pregunta de dónde salió la fama.",
+   "e": "Nobody asks where the reputation came from."
+  },
+  {
+   "s": "Aquí cada barrio tiene su fama y su lugar.",
+   "e": "Here every barrio has its reputation and its place."
+  },
+  {
+   "s": "Hay barrios con fama de peligrosos.",
+   "e": "There are barrios with a reputation for being dangerous."
+  },
+  {
+   "s": "Hay barrios con fama de gente humilde y trabajadora.",
+   "e": "There are barrios with a reputation for humble, hardworking people."
+  },
+  {
+   "s": "Humilde aquí no quiere decir pobre nada más.",
+   "e": "Humilde here does not just mean poor."
+  },
+  {
+   "s": "Humilde es el que no se cree más que nadie.",
+   "e": "Humilde is the one who does not think himself better than anybody."
+  },
+  {
+   "s": "Y decirle humilde a un barrio es decirle bueno.",
+   "e": "And calling a barrio humilde is calling it good."
+  },
+  {
+   "s": "Y hay zonas donde vive gente con plata.",
+   "e": "And there are zones where people with money live."
+  },
+  {
+   "s": "De esas zonas nadie dice el nombre del barrio.",
+   "e": "Of those zones nobody says the name of the barrio."
+  },
+  {
+   "s": "Dicen la zona y ya, como si fuera otra ciudad.",
+   "e": "They say the zone and that is it, as if it were another city."
+  },
+  {
+   "s": "Mi barrio tiene fama de peligroso desde los años de la guerra.",
+   "e": "My barrio has had a reputation for danger since the war years."
+  },
+  {
+   "s": "Marcos me dice que la fama es de entonces.",
+   "e": "Marcos tells me the reputation is from back then."
+  },
+  {
+   "s": "Que hace veinte años sí era peligroso de verdad.",
+   "e": "That twenty years ago it really was dangerous."
+  },
+  {
+   "s": "Que ahora es un barrio humilde y nada más.",
+   "e": "That now it is a humble barrio and nothing more."
+  },
+  {
+   "s": "Pero una fama tarda más en irse que en llegar.",
+   "e": "But a reputation takes longer to leave than to arrive."
+  },
+  {
+   "s": "Yo llevo tres años y nunca me ha pasado nada.",
+   "e": "I have been here three years and nothing has ever happened to me."
+  },
+  {
+   "s": "Camino a las once de la noche desde la parada.",
+   "e": "I walk at eleven at night from the bus stop."
+  },
+  {
+   "s": "Los que se sientan afuera me saludan por el nombre.",
+   "e": "The ones sitting outside greet me by name."
+  },
+  {
+   "s": "Un barrio donde todos se conocen no es peligroso.",
+   "e": "A barrio where everybody knows each other is not dangerous."
+  },
+  {
+   "s": "Es peligroso para el que llega sin conocer a nadie.",
+   "e": "It is dangerous for whoever arrives knowing nobody."
+  },
+  {
+   "s": "Eso también es cierto y no lo voy a negar.",
+   "e": "That is also true and I am not going to deny it."
+  },
+  {
+   "s": "Esa tarde vuelvo a la oficina del muchacho.",
+   "e": "That afternoon I go back to the boy's office."
+  },
+  {
+   "s": "Y me pasa algo que no esperaba de mí.",
+   "e": "And something happens to me that I did not expect of myself."
+  },
+  {
+   "s": "Me pongo a defender el barrio delante de él.",
+   "e": "I start defending the barrio in front of him."
+  },
+  {
+   "s": "Le digo que ahí se puede caminar de noche.",
+   "e": "I tell him you can walk there at night."
+  },
+  {
+   "s": "Le digo que la gente se ayuda cuando hay problemas.",
+   "e": "I tell him that people help each other when there are problems."
+  },
+  {
+   "s": "Le digo que yo no me cambiaría de zona.",
+   "e": "I tell him I would not move to another zone."
+  },
+  {
+   "s": "Le hablo cinco minutos como si fuera de ahí.",
+   "e": "I talk to him for five minutes as if I were from there."
+  },
+  {
+   "s": "Y cuando termino me doy cuenta de lo que hice.",
+   "e": "And when I finish I realise what I did."
+  },
+  {
+   "s": "Defendí un barrio que no es el mío de nacimiento.",
+   "e": "I defended a barrio that is not mine by birth."
+  },
+  {
+   "s": "El muchacho no me discute, solo se ríe.",
+   "e": "The boy does not argue with me, he just laughs."
+  },
+  {
+   "s": "Me dice que hablo igual que su tío.",
+   "e": "He tells me I talk just like his uncle."
+  },
+  {
+   "s": "Su tío es de un barrio con fama parecida.",
+   "e": "His uncle is from a barrio with a similar reputation."
+  },
+  {
+   "s": "Y también se pone bravo cuando alguien lo menciona.",
+   "e": "And he also gets angry when anybody mentions it."
+  },
+  {
+   "s": "Me dice que su barrio es deacachimba y que nadie lo cree.",
+   "e": "He tells me his barrio is deacachimba and nobody believes it."
+  },
+  {
+   "s": "La fama de un barrio también pasa de moda, digo yo.",
+   "e": "A barrio's reputation goes out of fashion too, I say."
+  },
+  {
+   "s": "En la noche le cuento a Lucía lo de la oficina.",
+   "e": "At night I tell Lucía about the office."
+  },
+  {
+   "s": "Ella se ríe de mí y me dice una cosa.",
+   "e": "She laughs at me and says one thing."
+  },
+  {
+   "s": "Me dice que hace dos años yo decía otra cosa.",
+   "e": "She tells me that two years ago I said something different."
+  },
+  {
+   "s": "Que yo llegué diciendo que era una zona fea.",
+   "e": "That I arrived saying it was an ugly zone."
+  },
+  {
+   "s": "Yo no me acuerdo de haber dicho eso nunca.",
+   "e": "I do not remember ever having said that."
+  },
+  {
+   "s": "Ella se acuerda perfectamente y me lo repite.",
+   "e": "She remembers perfectly and repeats it back to me."
+  },
+  {
+   "s": "Dijiste que era un barrio pobre, dice ella.",
+   "e": "You said it was a poor barrio, she says."
+  },
+  {
+   "s": "Yo digo que pobre no es lo mismo que feo.",
+   "e": "I say poor is not the same as ugly."
+  },
+  {
+   "s": "Ella dice que yo lo dije como si lo fuera.",
+   "e": "She says I said it as if it were."
+  },
+  {
+   "s": "Y tiene razón, aunque no me guste.",
+   "e": "And she is right, though I do not like it."
+  },
+  {
+   "s": "Uno llega mirando un barrio desde afuera.",
+   "e": "You arrive looking at a barrio from outside."
+  },
+  {
+   "s": "Ve las calles de tierra y las casas de zinc.",
+   "e": "You see the dirt streets and the zinc houses."
+  },
+  {
+   "s": "Y le pone un nombre a todo eso, sin conocer a nadie.",
+   "e": "And you put a name on all of it, knowing nobody."
+  },
+  {
+   "s": "Después conoce a doña Chepa y a don Beto.",
+   "e": "Then you get to know doña Chepa and don Beto."
+  },
+  {
+   "s": "Y el barrio deja de ser una zona y se vuelve gente.",
+   "e": "And the barrio stops being a zone and becomes people."
+  },
+  {
+   "s": "La fama la ponen los que nunca entraron.",
+   "e": "The reputation is put there by those who never went in."
+  },
+  {
+   "s": "El barrio lo hacen los que salen a la acera.",
+   "e": "The barrio is made by those who come out onto the pavement."
+  },
+  {
+   "s": "Y yo ahora salgo a la acera como todos.",
+   "e": "And now I come out onto the pavement like everybody else."
+  }
+ ]
+}

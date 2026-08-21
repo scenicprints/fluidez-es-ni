@@ -1,0 +1,286 @@
+{
+ "id": "p5-20",
+ "title": "El nacatamal del domingo",
+ "desc": "Sunday morning, and the whole street smells the same",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "masa",
+  "manteca",
+  "envolver",
+  "encargar",
+  "vecina",
+  "olor",
+  "nacatamal"
+ ],
+ "sn": [
+  {
+   "s": "Los domingos Managua huele a lo mismo en todas partes.",
+   "e": "On Sundays Managua smells the same everywhere."
+  },
+  {
+   "s": "Y el cementerio se llena desde las siete.",
+   "e": "And the cemetery fills up from seven onwards."
+  },
+  {
+   "s": "La gente lleva flores a la tumba y después va a comer.",
+   "e": "People take flowers to the grave and then go to eat."
+  },
+  {
+   "s": "Es un olor de maíz cocido y de manteca.",
+   "e": "It is a smell of cooked maize and lard."
+  },
+  {
+   "s": "El olor sale de las casas, no de los negocios.",
+   "e": "The smell comes out of the houses, not the businesses."
+  },
+  {
+   "s": "Es el olor del nacatamal del domingo.",
+   "e": "It is the smell of the Sunday nacatamal."
+  },
+  {
+   "s": "El nacatamal no se come entre semana.",
+   "e": "The nacatamal is not eaten during the week."
+  },
+  {
+   "s": "Es comida de domingo en la mañana y ya.",
+   "e": "It is Sunday morning food and that is all."
+  },
+  {
+   "s": "El sábado en la noche la cuadra no duerme temprano.",
+   "e": "On Saturday night the block does not sleep early."
+  },
+  {
+   "s": "En tres casas se está haciendo la masa.",
+   "e": "In three houses the masa is being made."
+  },
+  {
+   "s": "La masa es maíz molido con manteca y sal.",
+   "e": "The masa is ground maize with lard and salt."
+  },
+  {
+   "s": "La masa se bate a mano hasta que queda suave.",
+   "e": "The masa is beaten by hand until it is smooth."
+  },
+  {
+   "s": "Batir masa una hora deja el brazo muerto.",
+   "e": "Beating masa for an hour leaves your arm dead."
+  },
+  {
+   "s": "Doña Chepa hace masa para cincuenta nacatamales.",
+   "e": "Doña Chepa makes masa for fifty nacatamales."
+  },
+  {
+   "s": "Le pone manteca hasta que la masa brilla.",
+   "e": "She puts in lard until the masa shines."
+  },
+  {
+   "s": "Sin manteca la masa queda seca y se quiebra.",
+   "e": "Without lard the masa comes out dry and breaks."
+  },
+  {
+   "s": "Con mucha manteca el nacatamal queda pesado.",
+   "e": "With too much lard the nacatamal comes out heavy."
+  },
+  {
+   "s": "La manteca es lo que separa un buen nacatamal de otro.",
+   "e": "The lard is what separates one good nacatamal from another."
+  },
+  {
+   "s": "Encima de la masa va la carne de cerdo.",
+   "e": "On top of the masa goes the pork."
+  },
+  {
+   "s": "Y encima de la carne va todo lo demás.",
+   "e": "And on top of the meat goes everything else."
+  },
+  {
+   "s": "Arroz, papa, tomate, cebolla, chile, una aceituna.",
+   "e": "Rice, potato, tomato, onion, chilli, one olive."
+  },
+  {
+   "s": "Una hoja de yerbabuena que se ve verde adentro.",
+   "e": "A mint leaf that shows green inside."
+  },
+  {
+   "s": "Todo eso se envuelve en hoja de plátano.",
+   "e": "All of that is wrapped in a plantain leaf."
+  },
+  {
+   "s": "Envolver es lo difícil y yo no puedo todavía.",
+   "e": "Wrapping is the hard part and I still cannot do it."
+  },
+  {
+   "s": "La hoja se dobla en tres y no se puede rasgar.",
+   "e": "The leaf is folded in three and must not tear."
+  },
+  {
+   "s": "Después se envuelve otra vez con una hoja más.",
+   "e": "Then it is wrapped again with another leaf."
+  },
+  {
+   "s": "Y al final se amarra con un mecate delgado.",
+   "e": "And at the end it is tied with a thin cord."
+  },
+  {
+   "s": "Si uno envuelve mal, el agua entra y se arruina.",
+   "e": "If you wrap it badly, water gets in and it is ruined."
+  },
+  {
+   "s": "Doña Chepa envuelve uno cada veinte segundos.",
+   "e": "Doña Chepa wraps one every twenty seconds."
+  },
+  {
+   "s": "Yo envuelvo uno en cuatro minutos y me sale feo.",
+   "e": "I wrap one in four minutes and mine comes out ugly."
+  },
+  {
+   "s": "Los cincuenta se cocinan en una olla toda la noche.",
+   "e": "The fifty cook in one pot all night."
+  },
+  {
+   "s": "Por eso a las cinco de la mañana huele la cuadra.",
+   "e": "That is why at five in the morning the block smells."
+  },
+  {
+   "s": "Ese olor despierta a la gente mejor que un reloj.",
+   "e": "That smell wakes people better than a clock."
+  },
+  {
+   "s": "Un olor de manteca que se mete en la ropa.",
+   "e": "A smell of lard that gets into your clothes."
+  },
+  {
+   "s": "El domingo hay dos maneras de comer nacatamal.",
+   "e": "On Sunday there are two ways of eating nacatamal."
+  },
+  {
+   "s": "Una es hacerlos, que es lo de doña Chepa.",
+   "e": "One is making them, which is what doña Chepa does."
+  },
+  {
+   "s": "La otra es encargar, que es lo de casi todos.",
+   "e": "The other is ordering, which is what almost everybody does."
+  },
+  {
+   "s": "Se encarga el sábado, diciendo cuántos y para qué hora.",
+   "e": "You order on Saturday, saying how many and for what time."
+  },
+  {
+   "s": "Uno le encarga a una vecina, no a un negocio.",
+   "e": "You order from a neighbour, not from a business."
+  },
+  {
+   "s": "Cada barrio tiene su vecina de los nacatamales.",
+   "e": "Every barrio has its nacatamal neighbour."
+  },
+  {
+   "s": "La vecina buena tiene encargos desde el jueves.",
+   "e": "The good neighbour has orders from Thursday on."
+  },
+  {
+   "s": "Si uno encarga tarde, se queda sin nada.",
+   "e": "If you order late, you are left with nothing."
+  },
+  {
+   "s": "Este domingo me toca a mí ir a traerlos.",
+   "e": "This Sunday it is my turn to go and fetch them."
+  },
+  {
+   "s": "Ir a traer es la manera de decirlo aquí.",
+   "e": "Ir a traer is the way of saying it here."
+  },
+  {
+   "s": "No se dice voy a comprar, se dice voy a traer.",
+   "e": "You do not say I am going to buy, you say I am going to bring."
+  },
+  {
+   "s": "Lucía encargó seis nacatamales el sábado.",
+   "e": "Lucía ordered six nacatamales on Saturday."
+  },
+  {
+   "s": "Seis, me dice tres veces antes de que salga.",
+   "e": "Six, she tells me three times before I leave."
+  },
+  {
+   "s": "Llego donde doña Chepa a las siete y hay fila.",
+   "e": "I get to doña Chepa's at seven and there is a queue."
+  },
+  {
+   "s": "Ocho vecinas esperando con bolsas y ollas.",
+   "e": "Eight neighbours waiting with bags and pots."
+  },
+  {
+   "s": "La fila del nacatamal es la reunión del domingo.",
+   "e": "The nacatamal queue is the Sunday meeting."
+  },
+  {
+   "s": "Ahí se entera uno de todo lo del barrio.",
+   "e": "There you find out about everything in the barrio."
+  },
+  {
+   "s": "Doña Chepa me da mis seis en una bolsa negra.",
+   "e": "Doña Chepa gives me my six in a black bag."
+  },
+  {
+   "s": "Le digo que sus nacatamales están tuani.",
+   "e": "I tell her that her nacatamales are tuani."
+  },
+  {
+   "s": "Y después me pone dos más encima.",
+   "e": "And then she puts two more on top."
+  },
+  {
+   "s": "Le digo que Lucía encargó seis, no ocho.",
+   "e": "I tell her Lucía ordered six, not eight."
+  },
+  {
+   "s": "Ella me dice que los dos son para el niño.",
+   "e": "She tells me the two are for the baby."
+  },
+  {
+   "s": "El niño tiene dos años y no come nacatamal entero.",
+   "e": "The baby is two and does not eat a whole nacatamal."
+  },
+  {
+   "s": "Le digo eso y ella me dice que igual son suyos.",
+   "e": "I tell her that and she says they are his anyway."
+  },
+  {
+   "s": "No se le discute a la vecina del nacatamal.",
+   "e": "You do not argue with the nacatamal neighbour."
+  },
+  {
+   "s": "Llego a la casa con ocho y Lucía me mira la bolsa.",
+   "e": "I get home with eight and Lucía looks at the bag."
+  },
+  {
+   "s": "Me pregunta cuánto pagué de más.",
+   "e": "She asks me how much extra I paid."
+  },
+  {
+   "s": "Le digo que nada, que doña Chepa puso dos.",
+   "e": "I tell her nothing, that doña Chepa put in two."
+  },
+  {
+   "s": "Ella no dice nada pero se le nota en la cara.",
+   "e": "She says nothing but it shows in her face."
+  },
+  {
+   "s": "Después me explica lo que acaba de pasar.",
+   "e": "Then she explains to me what has just happened."
+  },
+  {
+   "s": "Los dos de más no son un regalo para el niño.",
+   "e": "The two extra are not a present for the baby."
+  },
+  {
+   "s": "Son la manera de doña Chepa de decir que somos de aquí.",
+   "e": "They are doña Chepa's way of saying we are from here."
+  },
+  {
+   "s": "A los de afuera se les cobran seis por seis.",
+   "e": "Outsiders are charged six for six."
+  }
+ ]
+}

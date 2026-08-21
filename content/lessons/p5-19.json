@@ -1,0 +1,290 @@
+{
+ "id": "p5-19",
+ "title": "La comida de la abuela",
+ "desc": "Food that only exists in houses",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "baho",
+  "medir",
+  "sazón",
+  "hervir",
+  "olla",
+  "receta",
+  "sal"
+ ],
+ "sn": [
+  {
+   "s": "Doña Elena cocina un baho el domingo de su cumpleaños.",
+   "e": "Doña Elena cooks a baho on her birthday Sunday."
+  },
+  {
+   "s": "En la mañana fue al cementerio, como todos los años.",
+   "e": "In the morning she went to the cemetery, as she does every year."
+  },
+  {
+   "s": "Le llevó flores a la tumba de su marido.",
+   "e": "She took flowers to her husband's grave."
+  },
+  {
+   "s": "El baho no se come en ningún restaurante.",
+   "e": "Baho is not eaten in any restaurant."
+  },
+  {
+   "s": "Un baho es carne, plátano y yuca en una olla enorme.",
+   "e": "A baho is meat, plantain and yuca in an enormous pot."
+  },
+  {
+   "s": "Todo va en capas dentro de la olla, sin revolver.",
+   "e": "It all goes in layers inside the pot, without stirring."
+  },
+  {
+   "s": "La olla se tapa con hojas de plátano y no se abre.",
+   "e": "The pot is covered with plantain leaves and not opened."
+  },
+  {
+   "s": "Se cocina cuatro horas con el vapor de la misma olla.",
+   "e": "It cooks for four hours in the steam of the pot itself."
+  },
+  {
+   "s": "Por eso se llama baho, del vaho que sale.",
+   "e": "That is why it is called baho, from the steam that comes off."
+  },
+  {
+   "s": "Lucía me manda temprano a la casa de su mamá.",
+   "e": "Lucía sends me early to her mother's house."
+  },
+  {
+   "s": "Me manda a ayudar, que es una manera de decir a aprender.",
+   "e": "She sends me to help, which is a way of saying to learn."
+  },
+  {
+   "s": "Doña Elena me pone a pelar yuca en el patio.",
+   "e": "Doña Elena puts me to peeling yuca in the yard."
+  },
+  {
+   "s": "Mientras pelo, ella arma la olla por capas.",
+   "e": "While I peel, she builds the pot up in layers."
+  },
+  {
+   "s": "Yo le pregunto por la receta del baho.",
+   "e": "I ask her for the baho recipe."
+  },
+  {
+   "s": "Ella me mira como si le hubiera pedido plata.",
+   "e": "She looks at me as if I had asked her for money."
+  },
+  {
+   "s": "Me dice que ella no tiene receta de nada.",
+   "e": "She tells me she has no recipe for anything."
+  },
+  {
+   "s": "Que la receta está en las manos, no en un papel.",
+   "e": "That the recipe is in the hands, not on a piece of paper."
+  },
+  {
+   "s": "Yo insisto y le pido que me diga las cantidades.",
+   "e": "I insist and ask her to tell me the amounts."
+  },
+  {
+   "s": "Y ahí empieza el problema de toda la mañana.",
+   "e": "And there the whole morning's problem begins."
+  },
+  {
+   "s": "Doña Elena no mide nada, ni una sola cosa.",
+   "e": "Doña Elena does not measure anything, not one thing."
+  },
+  {
+   "s": "No mide la sal, no mide el agua, no mide el tiempo.",
+   "e": "She does not measure the salt, the water, or the time."
+  },
+  {
+   "s": "Le pregunto cuánta sal lleva y me dice que la que pide.",
+   "e": "I ask how much salt it takes and she says as much as it asks for."
+  },
+  {
+   "s": "Le pregunto cuánta agua y me dice que hasta que tape.",
+   "e": "I ask how much water and she says until it covers."
+  },
+  {
+   "s": "Le pregunto cuánto tiempo y me dice que hasta que esté.",
+   "e": "I ask how long and she says until it is done."
+  },
+  {
+   "s": "Tres preguntas y ninguna respuesta con un número.",
+   "e": "Three questions and not one answer with a number."
+  },
+  {
+   "s": "Yo saco una taza y trato de medir la sal por mi cuenta.",
+   "e": "I get out a cup and try to measure the salt myself."
+  },
+  {
+   "s": "Ella me quita la taza de la mano y se ríe.",
+   "e": "She takes the cup out of my hand and laughs."
+  },
+  {
+   "s": "Me dice que medir es de gente que no sabe.",
+   "e": "She tells me measuring is for people who do not know."
+  },
+  {
+   "s": "Después me enseña cómo se hace sin medir.",
+   "e": "Then she teaches me how it is done without measuring."
+  },
+  {
+   "s": "Se agarra la sal con tres dedos y se tira.",
+   "e": "You take the salt with three fingers and throw it in."
+  },
+  {
+   "s": "Se prueba, y si falta se le pone más.",
+   "e": "You taste it, and if it needs more you put more in."
+  },
+  {
+   "s": "Se le pone poco a poco, nunca todo de una vez.",
+   "e": "You put it in little by little, never all at once."
+  },
+  {
+   "s": "Porque sacarle sal a una olla no se puede.",
+   "e": "Because taking salt out of a pot cannot be done."
+  },
+  {
+   "s": "Esa frase la repite tres veces en la mañana.",
+   "e": "She repeats that sentence three times in the morning."
+  },
+  {
+   "s": "Se le pone y se deja: así habla ella de cocinar.",
+   "e": "You put it in and you leave it: that is how she talks about cooking."
+  },
+  {
+   "s": "Se le pone el achiote, se deja media hora.",
+   "e": "You put in the achiote, you leave it half an hour."
+  },
+  {
+   "s": "Se le pone la naranja agria, se deja otra vez.",
+   "e": "You put in the sour orange, you leave it again."
+  },
+  {
+   "s": "Nunca dice yo pongo, siempre dice se le pone.",
+   "e": "She never says I put, she always says one puts."
+  },
+  {
+   "s": "Como si la comida se hiciera sola y ella mirara.",
+   "e": "As if the food made itself and she just watched."
+  },
+  {
+   "s": "Después hablamos de la sazón, que es la palabra grande.",
+   "e": "Then we talk about sazón, which is the big word."
+  },
+  {
+   "s": "La sazón no es la receta ni los ingredientes.",
+   "e": "Sazón is not the recipe or the ingredients."
+  },
+  {
+   "s": "La sazón es la mano de la persona que cocina.",
+   "e": "Sazón is the hand of the person cooking."
+  },
+  {
+   "s": "Dos mujeres con la misma olla no sacan lo mismo.",
+   "e": "Two women with the same pot do not get the same thing."
+  },
+  {
+   "s": "Una tiene sazón y la otra no, y así es.",
+   "e": "One has sazón and the other does not, and that is that."
+  },
+  {
+   "s": "Le pregunto si la sazón se aprende.",
+   "e": "I ask her if sazón can be learned."
+  },
+  {
+   "s": "Me dice que se agarra, que no es lo mismo.",
+   "e": "She tells me it is picked up, which is not the same."
+  },
+  {
+   "s": "Se agarra viendo a alguien cocinar veinte años.",
+   "e": "It is picked up watching somebody cook for twenty years."
+  },
+  {
+   "s": "Ella lo agarró viendo a su papá, no a su mamá.",
+   "e": "She picked it up watching her father, not her mother."
+  },
+  {
+   "s": "A las once el agua de la olla empieza a hervir.",
+   "e": "At eleven the water in the pot starts to boil."
+  },
+  {
+   "s": "Cuando hierve, ya no se abre la olla por nada.",
+   "e": "Once it boils, the pot is not opened for anything."
+  },
+  {
+   "s": "El agua hierve abajo y la comida se cocina arriba.",
+   "e": "The water boils underneath and the food cooks on top."
+  },
+  {
+   "s": "Si el agua no hierve parejo, la yuca queda dura.",
+   "e": "If the water does not boil evenly, the yuca stays hard."
+  },
+  {
+   "s": "Ella sabe que hierve por el ruido, no por la tapa.",
+   "e": "She knows it is boiling by the sound, not by the lid."
+  },
+  {
+   "s": "Si uno la abre, se le va el vapor y se arruina.",
+   "e": "If you open it, the steam goes and it is ruined."
+  },
+  {
+   "s": "Doña Elena se sienta al lado de la olla a esperar.",
+   "e": "Doña Elena sits beside the pot to wait."
+  },
+  {
+   "s": "Sabe que está listo por el olor, no por la hora.",
+   "e": "She knows it is ready by the smell, not by the clock."
+  },
+  {
+   "s": "A la una destapa la olla y sale una nube de vapor.",
+   "e": "At one she uncovers the pot and a cloud of steam comes out."
+  },
+  {
+   "s": "Chocho, dice Julio, que llegó por el olor.",
+   "e": "Chocho, says Julio, who came because of the smell."
+  },
+  {
+   "s": "El baho se sirve con repollo curtido encima.",
+   "e": "The baho is served with pickled cabbage on top."
+  },
+  {
+   "s": "Comemos catorce personas de una sola olla.",
+   "e": "Fourteen of us eat from one single pot."
+  },
+  {
+   "s": "Yo trato de apuntar la receta esa noche en el cuarto.",
+   "e": "I try to write down the recipe that night in the bedroom."
+  },
+  {
+   "s": "Escribo: yuca, plátano, carne, sal, achiote, naranja agria.",
+   "e": "I write: yuca, plantain, meat, salt, achiote, sour orange."
+  },
+  {
+   "s": "Al lado de cada cosa escribo la cantidad que vi.",
+   "e": "Beside each thing I write the amount I saw."
+  },
+  {
+   "s": "Y al lado de cada cantidad escribo un signo de pregunta.",
+   "e": "And beside each amount I write a question mark."
+  },
+  {
+   "s": "La receta que escribí no le sirve a nadie.",
+   "e": "The recipe I wrote is no use to anybody."
+  },
+  {
+   "s": "Lucía la lee y se ríe de mí toda la noche.",
+   "e": "Lucía reads it and laughs at me all night."
+  },
+  {
+   "s": "Me dice que si quiero aprender, vaya los domingos.",
+   "e": "She tells me that if I want to learn, to go on Sundays."
+  },
+  {
+   "s": "Veinte domingos y no un papel, dice ella.",
+   "e": "Twenty Sundays and not a piece of paper, she says."
+  }
+ ]
+}
