@@ -1,617 +1,2675 @@
 {
-  "subjects": [
-    "yo",
-    "vos",
-    "él/ella",
-    "nosotros",
-    "ellos"
-  ],
-  "tenses": [
-    "present",
-    "past",
-    "future"
-  ],
-  "regular": {
-    "ar": {
-      "present": [
-        "o",
-        "ás",
-        "a",
-        "amos",
-        "an"
-      ],
-      "past": [
-        "é",
-        "aste",
-        "ó",
-        "amos",
-        "aron"
-      ],
-      "future": [
-        "aré",
-        "arás",
-        "ará",
-        "aremos",
-        "arán"
-      ]
-    },
-    "er": {
-      "present": [
-        "o",
-        "és",
-        "e",
-        "emos",
-        "en"
-      ],
-      "past": [
-        "í",
-        "iste",
-        "ió",
-        "imos",
-        "ieron"
-      ],
-      "future": [
-        "eré",
-        "erás",
-        "erá",
-        "eremos",
-        "erán"
-      ]
-    },
-    "ir": {
-      "present": [
-        "o",
-        "ís",
-        "e",
-        "imos",
-        "en"
-      ],
-      "past": [
-        "í",
-        "iste",
-        "ió",
-        "imos",
-        "ieron"
-      ],
-      "future": [
-        "iré",
-        "irás",
-        "irá",
-        "iremos",
-        "irán"
-      ]
-    }
+ "subjects": [
+  "yo",
+  "vos",
+  "él/ella",
+  "nosotros",
+  "ellos"
+ ],
+ "tenses": [
+  "present",
+  "past",
+  "imperfect",
+  "future",
+  "conditional",
+  "subjunctive"
+ ],
+ "regular": {
+  "ar": {
+   "present": [
+    "o",
+    "ás",
+    "a",
+    "amos",
+    "an"
+   ],
+   "past": [
+    "é",
+    "aste",
+    "ó",
+    "amos",
+    "aron"
+   ],
+   "imperfect": [
+    "aba",
+    "abas",
+    "aba",
+    "ábamos",
+    "aban"
+   ],
+   "future": [
+    "aré",
+    "arás",
+    "ará",
+    "aremos",
+    "arán"
+   ],
+   "conditional": [
+    "aría",
+    "arías",
+    "aría",
+    "aríamos",
+    "arían"
+   ],
+   "subjunctive": [
+    "e",
+    "és",
+    "e",
+    "emos",
+    "en"
+   ]
   },
-  "irregular": {
-    "ser": {
-      "present": [
-        "soy",
-        "sos",
-        "es",
-        "somos",
-        "son"
-      ],
-      "past": [
-        "fui",
-        "fuiste",
-        "fue",
-        "fuimos",
-        "fueron"
-      ],
-      "future": [
-        "seré",
-        "serás",
-        "será",
-        "seremos",
-        "serán"
-      ]
-    },
-    "estar": {
-      "present": [
-        "estoy",
-        "estás",
-        "está",
-        "estamos",
-        "están"
-      ],
-      "past": [
-        "estuve",
-        "estuviste",
-        "estuvo",
-        "estuvimos",
-        "estuvieron"
-      ],
-      "future": [
-        "estaré",
-        "estarás",
-        "estará",
-        "estaremos",
-        "estarán"
-      ]
-    },
-    "tener": {
-      "present": [
-        "tengo",
-        "tenés",
-        "tiene",
-        "tenemos",
-        "tienen"
-      ],
-      "past": [
-        "tuve",
-        "tuviste",
-        "tuvo",
-        "tuvimos",
-        "tuvieron"
-      ],
-      "future": [
-        "tendré",
-        "tendrás",
-        "tendrá",
-        "tendremos",
-        "tendrán"
-      ]
-    },
-    "ir": {
-      "present": [
-        "voy",
-        "vas",
-        "va",
-        "vamos",
-        "van"
-      ],
-      "past": [
-        "fui",
-        "fuiste",
-        "fue",
-        "fuimos",
-        "fueron"
-      ],
-      "future": [
-        "iré",
-        "irás",
-        "irá",
-        "iremos",
-        "irán"
-      ]
-    },
-    "hacer": {
-      "present": [
-        "hago",
-        "hacés",
-        "hace",
-        "hacemos",
-        "hacen"
-      ],
-      "past": [
-        "hice",
-        "hiciste",
-        "hizo",
-        "hicimos",
-        "hicieron"
-      ],
-      "future": [
-        "haré",
-        "harás",
-        "hará",
-        "haremos",
-        "harán"
-      ]
-    },
-    "decir": {
-      "present": [
-        "digo",
-        "decís",
-        "dice",
-        "decimos",
-        "dicen"
-      ],
-      "past": [
-        "dije",
-        "dijiste",
-        "dijo",
-        "dijimos",
-        "dijeron"
-      ],
-      "future": [
-        "diré",
-        "dirás",
-        "dirá",
-        "diremos",
-        "dirán"
-      ]
-    },
-    "poder": {
-      "present": [
-        "puedo",
-        "podés",
-        "puede",
-        "podemos",
-        "pueden"
-      ],
-      "past": [
-        "pude",
-        "pudiste",
-        "pudo",
-        "pudimos",
-        "pudieron"
-      ],
-      "future": [
-        "podré",
-        "podrás",
-        "podrá",
-        "podremos",
-        "podrán"
-      ]
-    },
-    "querer": {
-      "present": [
-        "quiero",
-        "querés",
-        "quiere",
-        "queremos",
-        "quieren"
-      ],
-      "past": [
-        "quise",
-        "quisiste",
-        "quiso",
-        "quisimos",
-        "quisieron"
-      ],
-      "future": [
-        "querré",
-        "querrás",
-        "querrá",
-        "querremos",
-        "querrán"
-      ]
-    },
-    "saber": {
-      "present": [
-        "sé",
-        "sabés",
-        "sabe",
-        "sabemos",
-        "saben"
-      ],
-      "past": [
-        "supe",
-        "supiste",
-        "supo",
-        "supimos",
-        "supieron"
-      ],
-      "future": [
-        "sabré",
-        "sabrás",
-        "sabrá",
-        "sabremos",
-        "sabrán"
-      ]
-    },
-    "dar": {
-      "present": [
-        "doy",
-        "das",
-        "da",
-        "damos",
-        "dan"
-      ],
-      "past": [
-        "di",
-        "diste",
-        "dio",
-        "dimos",
-        "dieron"
-      ],
-      "future": [
-        "daré",
-        "darás",
-        "dará",
-        "daremos",
-        "darán"
-      ]
-    },
-    "ver": {
-      "present": [
-        "veo",
-        "ves",
-        "ve",
-        "vemos",
-        "ven"
-      ],
-      "past": [
-        "vi",
-        "viste",
-        "vio",
-        "vimos",
-        "vieron"
-      ],
-      "future": [
-        "veré",
-        "verás",
-        "verá",
-        "veremos",
-        "verán"
-      ]
-    },
-    "venir": {
-      "present": [
-        "vengo",
-        "venís",
-        "viene",
-        "venimos",
-        "vienen"
-      ],
-      "past": [
-        "vine",
-        "viniste",
-        "vino",
-        "vinimos",
-        "vinieron"
-      ],
-      "future": [
-        "vendré",
-        "vendrás",
-        "vendrá",
-        "vendremos",
-        "vendrán"
-      ]
-    },
-    "poner": {
-      "present": [
-        "pongo",
-        "ponés",
-        "pone",
-        "ponemos",
-        "ponen"
-      ],
-      "past": [
-        "puse",
-        "pusiste",
-        "puso",
-        "pusimos",
-        "pusieron"
-      ],
-      "future": [
-        "pondré",
-        "pondrás",
-        "pondrá",
-        "pondremos",
-        "pondrán"
-      ]
-    },
-    "salir": {
-      "present": [
-        "salgo",
-        "salís",
-        "sale",
-        "salimos",
-        "salen"
-      ],
-      "past": [
-        "salí",
-        "saliste",
-        "salió",
-        "salimos",
-        "salieron"
-      ],
-      "future": [
-        "saldré",
-        "saldrás",
-        "saldrá",
-        "saldremos",
-        "saldrán"
-      ]
-    },
-    "dormir": {
-      "present": [
-        "duermo",
-        "dormís",
-        "duerme",
-        "dormimos",
-        "duermen"
-      ],
-      "past": [
-        "dormí",
-        "dormiste",
-        "durmió",
-        "dormimos",
-        "durmieron"
-      ],
-      "future": [
-        "dormiré",
-        "dormirás",
-        "dormirá",
-        "dormiremos",
-        "dormirán"
-      ]
-    },
-    "pedir": {
-      "present": [
-        "pido",
-        "pedís",
-        "pide",
-        "pedimos",
-        "piden"
-      ],
-      "past": [
-        "pedí",
-        "pediste",
-        "pidió",
-        "pedimos",
-        "pidieron"
-      ],
-      "future": [
-        "pediré",
-        "pedirás",
-        "pedirá",
-        "pediremos",
-        "pedirán"
-      ]
-    },
-    "seguir": {
-      "present": [
-        "sigo",
-        "seguís",
-        "sigue",
-        "seguimos",
-        "siguen"
-      ],
-      "past": [
-        "seguí",
-        "seguiste",
-        "siguió",
-        "seguimos",
-        "siguieron"
-      ],
-      "future": [
-        "seguiré",
-        "seguirás",
-        "seguirá",
-        "seguiremos",
-        "seguirán"
-      ]
-    },
-    "sentir": {
-      "present": [
-        "siento",
-        "sentís",
-        "siente",
-        "sentimos",
-        "sienten"
-      ],
-      "past": [
-        "sentí",
-        "sentiste",
-        "sintió",
-        "sentimos",
-        "sintieron"
-      ],
-      "future": [
-        "sentiré",
-        "sentirás",
-        "sentirá",
-        "sentiremos",
-        "sentirán"
-      ]
-    },
-    "pensar": {
-      "present": [
-        "pienso",
-        "pensás",
-        "piensa",
-        "pensamos",
-        "piensan"
-      ],
-      "past": [
-        "pensé",
-        "pensaste",
-        "pensó",
-        "pensamos",
-        "pensaron"
-      ],
-      "future": [
-        "pensaré",
-        "pensarás",
-        "pensará",
-        "pensaremos",
-        "pensarán"
-      ]
-    },
-    "encontrar": {
-      "present": [
-        "encuentro",
-        "encontrás",
-        "encuentra",
-        "encontramos",
-        "encuentran"
-      ],
-      "past": [
-        "encontré",
-        "encontraste",
-        "encontró",
-        "encontramos",
-        "encontraron"
-      ],
-      "future": [
-        "encontraré",
-        "encontrarás",
-        "encontrará",
-        "encontraremos",
-        "encontrarán"
-      ]
-    },
-    "empezar": {
-      "present": [
-        "empiezo",
-        "empezás",
-        "empieza",
-        "empezamos",
-        "empiezan"
-      ],
-      "past": [
-        "empecé",
-        "empezaste",
-        "empezó",
-        "empezamos",
-        "empezaron"
-      ],
-      "future": [
-        "empezaré",
-        "empezarás",
-        "empezará",
-        "empezaremos",
-        "empezarán"
-      ]
-    }
+  "er": {
+   "present": [
+    "o",
+    "és",
+    "e",
+    "emos",
+    "en"
+   ],
+   "past": [
+    "í",
+    "iste",
+    "ió",
+    "imos",
+    "ieron"
+   ],
+   "imperfect": [
+    "ía",
+    "ías",
+    "ía",
+    "íamos",
+    "ían"
+   ],
+   "future": [
+    "eré",
+    "erás",
+    "erá",
+    "eremos",
+    "erán"
+   ],
+   "conditional": [
+    "ería",
+    "erías",
+    "ería",
+    "eríamos",
+    "erían"
+   ],
+   "subjunctive": [
+    "a",
+    "ás",
+    "a",
+    "amos",
+    "an"
+   ]
   },
-  "drill": [
-    "hablar",
-    "comer",
-    "vivir",
-    "ser",
-    "estar",
-    "tener",
-    "ir",
-    "hacer",
-    "decir",
-    "poder",
-    "querer",
-    "saber",
-    "dar",
-    "ver",
-    "venir",
-    "poner",
-    "salir",
-    "dormir",
-    "pedir",
-    "sentir",
-    "pensar",
-    "encontrar",
-    "empezar",
-    "seguir",
-    "trabajar",
-    "estudiar",
-    "comprar",
-    "necesitar",
-    "buscar",
-    "llamar",
-    "llegar",
-    "tomar",
-    "ayudar",
-    "caminar",
-    "correr",
-    "abrir",
-    "cerrar",
-    "esperar",
-    "explicar",
-    "enseñar",
-    "usar",
-    "cambiar",
-    "terminar",
-    "ganar",
-    "perder"
-  ]
+  "ir": {
+   "present": [
+    "o",
+    "ís",
+    "e",
+    "imos",
+    "en"
+   ],
+   "past": [
+    "í",
+    "iste",
+    "ió",
+    "imos",
+    "ieron"
+   ],
+   "imperfect": [
+    "ía",
+    "ías",
+    "ía",
+    "íamos",
+    "ían"
+   ],
+   "future": [
+    "iré",
+    "irás",
+    "irá",
+    "iremos",
+    "irán"
+   ],
+   "conditional": [
+    "iría",
+    "irías",
+    "iría",
+    "iríamos",
+    "irían"
+   ],
+   "subjunctive": [
+    "a",
+    "ás",
+    "a",
+    "amos",
+    "an"
+   ]
+  }
+ },
+ "irregular": {
+  "alcanzar": {
+   "present": [
+    "alcanzo",
+    "alcanzás",
+    "alcanza",
+    "alcanzamos",
+    "alcanzan"
+   ],
+   "past": [
+    "alcancé",
+    "alcanzaste",
+    "alcanzó",
+    "alcanzamos",
+    "alcanzaron"
+   ],
+   "imperfect": [
+    "alcanzaba",
+    "alcanzabas",
+    "alcanzaba",
+    "alcanzábamos",
+    "alcanzaban"
+   ],
+   "future": [
+    "alcanzaré",
+    "alcanzarás",
+    "alcanzará",
+    "alcanzaremos",
+    "alcanzarán"
+   ],
+   "conditional": [
+    "alcanzaría",
+    "alcanzarías",
+    "alcanzaría",
+    "alcanzaríamos",
+    "alcanzarían"
+   ],
+   "subjunctive": [
+    "alcance",
+    "alcancés",
+    "alcance",
+    "alcancemos",
+    "alcancen"
+   ],
+   "imperative": [
+    "alcanzá"
+   ]
+  },
+  "buscar": {
+   "present": [
+    "busco",
+    "buscás",
+    "busca",
+    "buscamos",
+    "buscan"
+   ],
+   "past": [
+    "busqué",
+    "buscaste",
+    "buscó",
+    "buscamos",
+    "buscaron"
+   ],
+   "imperfect": [
+    "buscaba",
+    "buscabas",
+    "buscaba",
+    "buscábamos",
+    "buscaban"
+   ],
+   "future": [
+    "buscaré",
+    "buscarás",
+    "buscará",
+    "buscaremos",
+    "buscarán"
+   ],
+   "conditional": [
+    "buscaría",
+    "buscarías",
+    "buscaría",
+    "buscaríamos",
+    "buscarían"
+   ],
+   "subjunctive": [
+    "busque",
+    "busqués",
+    "busque",
+    "busquemos",
+    "busquen"
+   ],
+   "imperative": [
+    "buscá"
+   ]
+  },
+  "caer": {
+   "present": [
+    "caigo",
+    "caés",
+    "cae",
+    "caemos",
+    "caen"
+   ],
+   "past": [
+    "caí",
+    "caíste",
+    "cayó",
+    "caímos",
+    "cayeron"
+   ],
+   "imperfect": [
+    "caía",
+    "caías",
+    "caía",
+    "caíamos",
+    "caían"
+   ],
+   "future": [
+    "caeré",
+    "caerás",
+    "caerá",
+    "caeremos",
+    "caerán"
+   ],
+   "conditional": [
+    "caería",
+    "caerías",
+    "caería",
+    "caeríamos",
+    "caerían"
+   ],
+   "subjunctive": [
+    "caiga",
+    "caigás",
+    "caiga",
+    "caigamos",
+    "caigan"
+   ],
+   "imperative": [
+    "caé"
+   ]
+  },
+  "cargar": {
+   "present": [
+    "cargo",
+    "cargás",
+    "carga",
+    "cargamos",
+    "cargan"
+   ],
+   "past": [
+    "cargué",
+    "cargaste",
+    "cargó",
+    "cargamos",
+    "cargaron"
+   ],
+   "imperfect": [
+    "cargaba",
+    "cargabas",
+    "cargaba",
+    "cargábamos",
+    "cargaban"
+   ],
+   "future": [
+    "cargaré",
+    "cargarás",
+    "cargará",
+    "cargaremos",
+    "cargarán"
+   ],
+   "conditional": [
+    "cargaría",
+    "cargarías",
+    "cargaría",
+    "cargaríamos",
+    "cargarían"
+   ],
+   "subjunctive": [
+    "cargue",
+    "cargués",
+    "cargue",
+    "carguemos",
+    "carguen"
+   ],
+   "imperative": [
+    "cargá"
+   ]
+  },
+  "cerrar": {
+   "present": [
+    "cierro",
+    "cerrás",
+    "cierra",
+    "cerramos",
+    "cierran"
+   ],
+   "past": [
+    "cerré",
+    "cerraste",
+    "cerró",
+    "cerramos",
+    "cerraron"
+   ],
+   "imperfect": [
+    "cerraba",
+    "cerrabas",
+    "cerraba",
+    "cerrábamos",
+    "cerraban"
+   ],
+   "future": [
+    "cerraré",
+    "cerrarás",
+    "cerrará",
+    "cerraremos",
+    "cerrarán"
+   ],
+   "conditional": [
+    "cerraría",
+    "cerrarías",
+    "cerraría",
+    "cerraríamos",
+    "cerrarían"
+   ],
+   "subjunctive": [
+    "cierre",
+    "cerrés",
+    "cierre",
+    "cerremos",
+    "cierren"
+   ],
+   "imperative": [
+    "cerrá"
+   ]
+  },
+  "conocer": {
+   "present": [
+    "conozco",
+    "conocés",
+    "conoce",
+    "conocemos",
+    "conocen"
+   ],
+   "past": [
+    "conocí",
+    "conociste",
+    "conoció",
+    "conocimos",
+    "conocieron"
+   ],
+   "imperfect": [
+    "conocía",
+    "conocías",
+    "conocía",
+    "conocíamos",
+    "conocían"
+   ],
+   "future": [
+    "conoceré",
+    "conocerás",
+    "conocerá",
+    "conoceremos",
+    "conocerán"
+   ],
+   "conditional": [
+    "conocería",
+    "conocerías",
+    "conocería",
+    "conoceríamos",
+    "conocerían"
+   ],
+   "subjunctive": [
+    "conozca",
+    "conozcás",
+    "conozca",
+    "conozcamos",
+    "conozcan"
+   ],
+   "imperative": [
+    "conocé"
+   ]
+  },
+  "contar": {
+   "present": [
+    "cuento",
+    "contás",
+    "cuenta",
+    "contamos",
+    "cuentan"
+   ],
+   "past": [
+    "conté",
+    "contaste",
+    "contó",
+    "contamos",
+    "contaron"
+   ],
+   "imperfect": [
+    "contaba",
+    "contabas",
+    "contaba",
+    "contábamos",
+    "contaban"
+   ],
+   "future": [
+    "contaré",
+    "contarás",
+    "contará",
+    "contaremos",
+    "contarán"
+   ],
+   "conditional": [
+    "contaría",
+    "contarías",
+    "contaría",
+    "contaríamos",
+    "contarían"
+   ],
+   "subjunctive": [
+    "cuente",
+    "contés",
+    "cuente",
+    "contemos",
+    "cuenten"
+   ],
+   "imperative": [
+    "contá"
+   ]
+  },
+  "corregir": {
+   "present": [
+    "corrijo",
+    "corregís",
+    "corrige",
+    "corregimos",
+    "corrigen"
+   ],
+   "past": [
+    "corregí",
+    "corregiste",
+    "corrigió",
+    "corregimos",
+    "corrigieron"
+   ],
+   "imperfect": [
+    "corregía",
+    "corregías",
+    "corregía",
+    "corregíamos",
+    "corregían"
+   ],
+   "future": [
+    "corregiré",
+    "corregirás",
+    "corregirá",
+    "corregiremos",
+    "corregirán"
+   ],
+   "conditional": [
+    "corregiría",
+    "corregirías",
+    "corregiría",
+    "corregiríamos",
+    "corregirían"
+   ],
+   "subjunctive": [
+    "corrija",
+    "corrijás",
+    "corrija",
+    "corrijamos",
+    "corrijan"
+   ],
+   "imperative": [
+    "corregí"
+   ]
+  },
+  "costar": {
+   "present": [
+    "cuesto",
+    "costás",
+    "cuesta",
+    "costamos",
+    "cuestan"
+   ],
+   "past": [
+    "costé",
+    "costaste",
+    "costó",
+    "costamos",
+    "costaron"
+   ],
+   "imperfect": [
+    "costaba",
+    "costabas",
+    "costaba",
+    "costábamos",
+    "costaban"
+   ],
+   "future": [
+    "costaré",
+    "costarás",
+    "costará",
+    "costaremos",
+    "costarán"
+   ],
+   "conditional": [
+    "costaría",
+    "costarías",
+    "costaría",
+    "costaríamos",
+    "costarían"
+   ],
+   "subjunctive": [
+    "cueste",
+    "costés",
+    "cueste",
+    "costemos",
+    "cuesten"
+   ],
+   "imperative": [
+    "costá"
+   ]
+  },
+  "creer": {
+   "present": [
+    "creo",
+    "creés",
+    "cree",
+    "creemos",
+    "creen"
+   ],
+   "past": [
+    "creí",
+    "creíste",
+    "creyó",
+    "creímos",
+    "creyeron"
+   ],
+   "imperfect": [
+    "creía",
+    "creías",
+    "creía",
+    "creíamos",
+    "creían"
+   ],
+   "future": [
+    "creeré",
+    "creerás",
+    "creerá",
+    "creeremos",
+    "creerán"
+   ],
+   "conditional": [
+    "creería",
+    "creerías",
+    "creería",
+    "creeríamos",
+    "creerían"
+   ],
+   "subjunctive": [
+    "crea",
+    "creás",
+    "crea",
+    "creamos",
+    "crean"
+   ],
+   "imperative": [
+    "creé"
+   ]
+  },
+  "dar": {
+   "present": [
+    "doy",
+    "das",
+    "da",
+    "damos",
+    "dan"
+   ],
+   "past": [
+    "di",
+    "diste",
+    "dio",
+    "dimos",
+    "dieron"
+   ],
+   "imperfect": [
+    "daba",
+    "dabas",
+    "daba",
+    "dábamos",
+    "daban"
+   ],
+   "future": [
+    "daré",
+    "darás",
+    "dará",
+    "daremos",
+    "darán"
+   ],
+   "conditional": [
+    "daría",
+    "darías",
+    "daría",
+    "daríamos",
+    "darían"
+   ],
+   "subjunctive": [
+    "dé",
+    "dés",
+    "dé",
+    "demos",
+    "den"
+   ],
+   "imperative": [
+    "da"
+   ]
+  },
+  "decir": {
+   "present": [
+    "digo",
+    "decís",
+    "dice",
+    "decimos",
+    "dicen"
+   ],
+   "past": [
+    "dije",
+    "dijiste",
+    "dijo",
+    "dijimos",
+    "dijeron"
+   ],
+   "imperfect": [
+    "decía",
+    "decías",
+    "decía",
+    "decíamos",
+    "decían"
+   ],
+   "future": [
+    "diré",
+    "dirás",
+    "dirá",
+    "diremos",
+    "dirán"
+   ],
+   "conditional": [
+    "diría",
+    "dirías",
+    "diría",
+    "diríamos",
+    "dirían"
+   ],
+   "subjunctive": [
+    "diga",
+    "digás",
+    "diga",
+    "digamos",
+    "digan"
+   ],
+   "imperative": [
+    "decí"
+   ]
+  },
+  "devolver": {
+   "present": [
+    "devuelvo",
+    "devolvés",
+    "devuelve",
+    "devolvemos",
+    "devuelven"
+   ],
+   "past": [
+    "devolví",
+    "devolviste",
+    "devolvió",
+    "devolvimos",
+    "devolvieron"
+   ],
+   "imperfect": [
+    "devolvía",
+    "devolvías",
+    "devolvía",
+    "devolvíamos",
+    "devolvían"
+   ],
+   "future": [
+    "devolveré",
+    "devolverás",
+    "devolverá",
+    "devolveremos",
+    "devolverán"
+   ],
+   "conditional": [
+    "devolvería",
+    "devolverías",
+    "devolvería",
+    "devolveríamos",
+    "devolverían"
+   ],
+   "subjunctive": [
+    "devuelva",
+    "devolvás",
+    "devuelva",
+    "devolvamos",
+    "devuelvan"
+   ],
+   "imperative": [
+    "devolvé"
+   ]
+  },
+  "doler": {
+   "present": [
+    "duelo",
+    "dolés",
+    "duele",
+    "dolemos",
+    "duelen"
+   ],
+   "past": [
+    "dolí",
+    "doliste",
+    "dolió",
+    "dolimos",
+    "dolieron"
+   ],
+   "imperfect": [
+    "dolía",
+    "dolías",
+    "dolía",
+    "dolíamos",
+    "dolían"
+   ],
+   "future": [
+    "doleré",
+    "dolerás",
+    "dolerá",
+    "doleremos",
+    "dolerán"
+   ],
+   "conditional": [
+    "dolería",
+    "dolerías",
+    "dolería",
+    "doleríamos",
+    "dolerían"
+   ],
+   "subjunctive": [
+    "duela",
+    "dolás",
+    "duela",
+    "dolamos",
+    "duelan"
+   ],
+   "imperative": [
+    "dolé"
+   ]
+  },
+  "dormir": {
+   "present": [
+    "duermo",
+    "dormís",
+    "duerme",
+    "dormimos",
+    "duermen"
+   ],
+   "past": [
+    "dormí",
+    "dormiste",
+    "durmió",
+    "dormimos",
+    "durmieron"
+   ],
+   "imperfect": [
+    "dormía",
+    "dormías",
+    "dormía",
+    "dormíamos",
+    "dormían"
+   ],
+   "future": [
+    "dormiré",
+    "dormirás",
+    "dormirá",
+    "dormiremos",
+    "dormirán"
+   ],
+   "conditional": [
+    "dormiría",
+    "dormirías",
+    "dormiría",
+    "dormiríamos",
+    "dormirían"
+   ],
+   "subjunctive": [
+    "duerma",
+    "durmás",
+    "duerma",
+    "durmamos",
+    "duerman"
+   ],
+   "imperative": [
+    "dormí"
+   ]
+  },
+  "empezar": {
+   "present": [
+    "empiezo",
+    "empezás",
+    "empieza",
+    "empezamos",
+    "empiezan"
+   ],
+   "past": [
+    "empecé",
+    "empezaste",
+    "empezó",
+    "empezamos",
+    "empezaron"
+   ],
+   "imperfect": [
+    "empezaba",
+    "empezabas",
+    "empezaba",
+    "empezábamos",
+    "empezaban"
+   ],
+   "future": [
+    "empezaré",
+    "empezarás",
+    "empezará",
+    "empezaremos",
+    "empezarán"
+   ],
+   "conditional": [
+    "empezaría",
+    "empezarías",
+    "empezaría",
+    "empezaríamos",
+    "empezarían"
+   ],
+   "subjunctive": [
+    "empiece",
+    "empecés",
+    "empiece",
+    "empecemos",
+    "empiecen"
+   ],
+   "imperative": [
+    "empezá"
+   ]
+  },
+  "encontrar": {
+   "present": [
+    "encuentro",
+    "encontrás",
+    "encuentra",
+    "encontramos",
+    "encuentran"
+   ],
+   "past": [
+    "encontré",
+    "encontraste",
+    "encontró",
+    "encontramos",
+    "encontraron"
+   ],
+   "imperfect": [
+    "encontraba",
+    "encontrabas",
+    "encontraba",
+    "encontrábamos",
+    "encontraban"
+   ],
+   "future": [
+    "encontraré",
+    "encontrarás",
+    "encontrará",
+    "encontraremos",
+    "encontrarán"
+   ],
+   "conditional": [
+    "encontraría",
+    "encontrarías",
+    "encontraría",
+    "encontraríamos",
+    "encontrarían"
+   ],
+   "subjunctive": [
+    "encuentre",
+    "encontrés",
+    "encuentre",
+    "encontremos",
+    "encuentren"
+   ],
+   "imperative": [
+    "encontrá"
+   ]
+  },
+  "entender": {
+   "present": [
+    "entiendo",
+    "entendés",
+    "entiende",
+    "entendemos",
+    "entienden"
+   ],
+   "past": [
+    "entendí",
+    "entendiste",
+    "entendió",
+    "entendimos",
+    "entendieron"
+   ],
+   "imperfect": [
+    "entendía",
+    "entendías",
+    "entendía",
+    "entendíamos",
+    "entendían"
+   ],
+   "future": [
+    "entenderé",
+    "entenderás",
+    "entenderá",
+    "entenderemos",
+    "entenderán"
+   ],
+   "conditional": [
+    "entendería",
+    "entenderías",
+    "entendería",
+    "entenderíamos",
+    "entenderían"
+   ],
+   "subjunctive": [
+    "entienda",
+    "entendás",
+    "entienda",
+    "entendamos",
+    "entiendan"
+   ],
+   "imperative": [
+    "entendé"
+   ]
+  },
+  "escoger": {
+   "present": [
+    "escojo",
+    "escogés",
+    "escoge",
+    "escogemos",
+    "escogen"
+   ],
+   "past": [
+    "escogí",
+    "escogiste",
+    "escogió",
+    "escogimos",
+    "escogieron"
+   ],
+   "imperfect": [
+    "escogía",
+    "escogías",
+    "escogía",
+    "escogíamos",
+    "escogían"
+   ],
+   "future": [
+    "escogeré",
+    "escogerás",
+    "escogerá",
+    "escogeremos",
+    "escogerán"
+   ],
+   "conditional": [
+    "escogería",
+    "escogerías",
+    "escogería",
+    "escogeríamos",
+    "escogerían"
+   ],
+   "subjunctive": [
+    "escoja",
+    "escojás",
+    "escoja",
+    "escojamos",
+    "escojan"
+   ],
+   "imperative": [
+    "escogé"
+   ]
+  },
+  "estar": {
+   "present": [
+    "estoy",
+    "estás",
+    "está",
+    "estamos",
+    "están"
+   ],
+   "past": [
+    "estuve",
+    "estuviste",
+    "estuvo",
+    "estuvimos",
+    "estuvieron"
+   ],
+   "imperfect": [
+    "estaba",
+    "estabas",
+    "estaba",
+    "estábamos",
+    "estaban"
+   ],
+   "future": [
+    "estaré",
+    "estarás",
+    "estará",
+    "estaremos",
+    "estarán"
+   ],
+   "conditional": [
+    "estaría",
+    "estarías",
+    "estaría",
+    "estaríamos",
+    "estarían"
+   ],
+   "subjunctive": [
+    "esté",
+    "estés",
+    "esté",
+    "estemos",
+    "estén"
+   ],
+   "imperative": [
+    "está"
+   ]
+  },
+  "explicar": {
+   "present": [
+    "explico",
+    "explicás",
+    "explica",
+    "explicamos",
+    "explican"
+   ],
+   "past": [
+    "expliqué",
+    "explicaste",
+    "explicó",
+    "explicamos",
+    "explicaron"
+   ],
+   "imperfect": [
+    "explicaba",
+    "explicabas",
+    "explicaba",
+    "explicábamos",
+    "explicaban"
+   ],
+   "future": [
+    "explicaré",
+    "explicarás",
+    "explicará",
+    "explicaremos",
+    "explicarán"
+   ],
+   "conditional": [
+    "explicaría",
+    "explicarías",
+    "explicaría",
+    "explicaríamos",
+    "explicarían"
+   ],
+   "subjunctive": [
+    "explique",
+    "expliqués",
+    "explique",
+    "expliquemos",
+    "expliquen"
+   ],
+   "imperative": [
+    "explicá"
+   ]
+  },
+  "hacer": {
+   "present": [
+    "hago",
+    "hacés",
+    "hace",
+    "hacemos",
+    "hacen"
+   ],
+   "past": [
+    "hice",
+    "hiciste",
+    "hizo",
+    "hicimos",
+    "hicieron"
+   ],
+   "imperfect": [
+    "hacía",
+    "hacías",
+    "hacía",
+    "hacíamos",
+    "hacían"
+   ],
+   "future": [
+    "haré",
+    "harás",
+    "hará",
+    "haremos",
+    "harán"
+   ],
+   "conditional": [
+    "haría",
+    "harías",
+    "haría",
+    "haríamos",
+    "harían"
+   ],
+   "subjunctive": [
+    "haga",
+    "hagás",
+    "haga",
+    "hagamos",
+    "hagan"
+   ],
+   "imperative": [
+    "hacé"
+   ]
+  },
+  "ir": {
+   "present": [
+    "voy",
+    "vas",
+    "va",
+    "vamos",
+    "van"
+   ],
+   "past": [
+    "fui",
+    "fuiste",
+    "fue",
+    "fuimos",
+    "fueron"
+   ],
+   "imperfect": [
+    "iba",
+    "ibas",
+    "iba",
+    "íbamos",
+    "iban"
+   ],
+   "future": [
+    "iré",
+    "irás",
+    "irá",
+    "iremos",
+    "irán"
+   ],
+   "conditional": [
+    "iría",
+    "irías",
+    "iría",
+    "iríamos",
+    "irían"
+   ],
+   "subjunctive": [
+    "vaya",
+    "vayás",
+    "vaya",
+    "vayamos",
+    "vayan"
+   ],
+   "imperative": [
+    "andá"
+   ]
+  },
+  "jugar": {
+   "present": [
+    "juego",
+    "jugás",
+    "juega",
+    "jugamos",
+    "juegan"
+   ],
+   "past": [
+    "jugué",
+    "jugaste",
+    "jugó",
+    "jugamos",
+    "jugaron"
+   ],
+   "imperfect": [
+    "jugaba",
+    "jugabas",
+    "jugaba",
+    "jugábamos",
+    "jugaban"
+   ],
+   "future": [
+    "jugaré",
+    "jugarás",
+    "jugará",
+    "jugaremos",
+    "jugarán"
+   ],
+   "conditional": [
+    "jugaría",
+    "jugarías",
+    "jugaría",
+    "jugaríamos",
+    "jugarían"
+   ],
+   "subjunctive": [
+    "juegue",
+    "jugués",
+    "juegue",
+    "juguemos",
+    "jueguen"
+   ],
+   "imperative": [
+    "jugá"
+   ]
+  },
+  "leer": {
+   "present": [
+    "leo",
+    "leés",
+    "lee",
+    "leemos",
+    "leen"
+   ],
+   "past": [
+    "leí",
+    "leíste",
+    "leyó",
+    "leímos",
+    "leyeron"
+   ],
+   "imperfect": [
+    "leía",
+    "leías",
+    "leía",
+    "leíamos",
+    "leían"
+   ],
+   "future": [
+    "leeré",
+    "leerás",
+    "leerá",
+    "leeremos",
+    "leerán"
+   ],
+   "conditional": [
+    "leería",
+    "leerías",
+    "leería",
+    "leeríamos",
+    "leerían"
+   ],
+   "subjunctive": [
+    "lea",
+    "leás",
+    "lea",
+    "leamos",
+    "lean"
+   ],
+   "imperative": [
+    "leé"
+   ]
+  },
+  "llegar": {
+   "present": [
+    "llego",
+    "llegás",
+    "llega",
+    "llegamos",
+    "llegan"
+   ],
+   "past": [
+    "llegué",
+    "llegaste",
+    "llegó",
+    "llegamos",
+    "llegaron"
+   ],
+   "imperfect": [
+    "llegaba",
+    "llegabas",
+    "llegaba",
+    "llegábamos",
+    "llegaban"
+   ],
+   "future": [
+    "llegaré",
+    "llegarás",
+    "llegará",
+    "llegaremos",
+    "llegarán"
+   ],
+   "conditional": [
+    "llegaría",
+    "llegarías",
+    "llegaría",
+    "llegaríamos",
+    "llegarían"
+   ],
+   "subjunctive": [
+    "llegue",
+    "llegués",
+    "llegue",
+    "lleguemos",
+    "lleguen"
+   ],
+   "imperative": [
+    "llegá"
+   ]
+  },
+  "medir": {
+   "present": [
+    "mido",
+    "medís",
+    "mide",
+    "medimos",
+    "miden"
+   ],
+   "past": [
+    "medí",
+    "mediste",
+    "midió",
+    "medimos",
+    "midieron"
+   ],
+   "imperfect": [
+    "medía",
+    "medías",
+    "medía",
+    "medíamos",
+    "medían"
+   ],
+   "future": [
+    "mediré",
+    "medirás",
+    "medirá",
+    "mediremos",
+    "medirán"
+   ],
+   "conditional": [
+    "mediría",
+    "medirías",
+    "mediría",
+    "mediríamos",
+    "medirían"
+   ],
+   "subjunctive": [
+    "mida",
+    "midás",
+    "mida",
+    "midamos",
+    "midan"
+   ],
+   "imperative": [
+    "medí"
+   ]
+  },
+  "nacer": {
+   "present": [
+    "nazco",
+    "nacés",
+    "nace",
+    "nacemos",
+    "nacen"
+   ],
+   "past": [
+    "nací",
+    "naciste",
+    "nació",
+    "nacimos",
+    "nacieron"
+   ],
+   "imperfect": [
+    "nacía",
+    "nacías",
+    "nacía",
+    "nacíamos",
+    "nacían"
+   ],
+   "future": [
+    "naceré",
+    "nacerás",
+    "nacerá",
+    "naceremos",
+    "nacerán"
+   ],
+   "conditional": [
+    "nacería",
+    "nacerías",
+    "nacería",
+    "naceríamos",
+    "nacerían"
+   ],
+   "subjunctive": [
+    "nazca",
+    "nazcás",
+    "nazca",
+    "nazcamos",
+    "nazcan"
+   ],
+   "imperative": [
+    "nacé"
+   ]
+  },
+  "pagar": {
+   "present": [
+    "pago",
+    "pagás",
+    "paga",
+    "pagamos",
+    "pagan"
+   ],
+   "past": [
+    "pagué",
+    "pagaste",
+    "pagó",
+    "pagamos",
+    "pagaron"
+   ],
+   "imperfect": [
+    "pagaba",
+    "pagabas",
+    "pagaba",
+    "pagábamos",
+    "pagaban"
+   ],
+   "future": [
+    "pagaré",
+    "pagarás",
+    "pagará",
+    "pagaremos",
+    "pagarán"
+   ],
+   "conditional": [
+    "pagaría",
+    "pagarías",
+    "pagaría",
+    "pagaríamos",
+    "pagarían"
+   ],
+   "subjunctive": [
+    "pague",
+    "pagués",
+    "pague",
+    "paguemos",
+    "paguen"
+   ],
+   "imperative": [
+    "pagá"
+   ]
+  },
+  "pedir": {
+   "present": [
+    "pido",
+    "pedís",
+    "pide",
+    "pedimos",
+    "piden"
+   ],
+   "past": [
+    "pedí",
+    "pediste",
+    "pidió",
+    "pedimos",
+    "pidieron"
+   ],
+   "imperfect": [
+    "pedía",
+    "pedías",
+    "pedía",
+    "pedíamos",
+    "pedían"
+   ],
+   "future": [
+    "pediré",
+    "pedirás",
+    "pedirá",
+    "pediremos",
+    "pedirán"
+   ],
+   "conditional": [
+    "pediría",
+    "pedirías",
+    "pediría",
+    "pediríamos",
+    "pedirían"
+   ],
+   "subjunctive": [
+    "pida",
+    "pidás",
+    "pida",
+    "pidamos",
+    "pidan"
+   ],
+   "imperative": [
+    "pedí"
+   ]
+  },
+  "pensar": {
+   "present": [
+    "pienso",
+    "pensás",
+    "piensa",
+    "pensamos",
+    "piensan"
+   ],
+   "past": [
+    "pensé",
+    "pensaste",
+    "pensó",
+    "pensamos",
+    "pensaron"
+   ],
+   "imperfect": [
+    "pensaba",
+    "pensabas",
+    "pensaba",
+    "pensábamos",
+    "pensaban"
+   ],
+   "future": [
+    "pensaré",
+    "pensarás",
+    "pensará",
+    "pensaremos",
+    "pensarán"
+   ],
+   "conditional": [
+    "pensaría",
+    "pensarías",
+    "pensaría",
+    "pensaríamos",
+    "pensarían"
+   ],
+   "subjunctive": [
+    "piense",
+    "pensés",
+    "piense",
+    "pensemos",
+    "piensen"
+   ],
+   "imperative": [
+    "pensá"
+   ]
+  },
+  "perder": {
+   "present": [
+    "pierdo",
+    "perdés",
+    "pierde",
+    "perdemos",
+    "pierden"
+   ],
+   "past": [
+    "perdí",
+    "perdiste",
+    "perdió",
+    "perdimos",
+    "perdieron"
+   ],
+   "imperfect": [
+    "perdía",
+    "perdías",
+    "perdía",
+    "perdíamos",
+    "perdían"
+   ],
+   "future": [
+    "perderé",
+    "perderás",
+    "perderá",
+    "perderemos",
+    "perderán"
+   ],
+   "conditional": [
+    "perdería",
+    "perderías",
+    "perdería",
+    "perderíamos",
+    "perderían"
+   ],
+   "subjunctive": [
+    "pierda",
+    "perdás",
+    "pierda",
+    "perdamos",
+    "pierdan"
+   ],
+   "imperative": [
+    "perdé"
+   ]
+  },
+  "poder": {
+   "present": [
+    "puedo",
+    "podés",
+    "puede",
+    "podemos",
+    "pueden"
+   ],
+   "past": [
+    "pude",
+    "pudiste",
+    "pudo",
+    "pudimos",
+    "pudieron"
+   ],
+   "imperfect": [
+    "podía",
+    "podías",
+    "podía",
+    "podíamos",
+    "podían"
+   ],
+   "future": [
+    "podré",
+    "podrás",
+    "podrá",
+    "podremos",
+    "podrán"
+   ],
+   "conditional": [
+    "podría",
+    "podrías",
+    "podría",
+    "podríamos",
+    "podrían"
+   ],
+   "subjunctive": [
+    "pueda",
+    "podás",
+    "pueda",
+    "podamos",
+    "puedan"
+   ],
+   "imperative": [
+    "podé"
+   ]
+  },
+  "poner": {
+   "present": [
+    "pongo",
+    "ponés",
+    "pone",
+    "ponemos",
+    "ponen"
+   ],
+   "past": [
+    "puse",
+    "pusiste",
+    "puso",
+    "pusimos",
+    "pusieron"
+   ],
+   "imperfect": [
+    "ponía",
+    "ponías",
+    "ponía",
+    "poníamos",
+    "ponían"
+   ],
+   "future": [
+    "pondré",
+    "pondrás",
+    "pondrá",
+    "pondremos",
+    "pondrán"
+   ],
+   "conditional": [
+    "pondría",
+    "pondrías",
+    "pondría",
+    "pondríamos",
+    "pondrían"
+   ],
+   "subjunctive": [
+    "ponga",
+    "pongás",
+    "ponga",
+    "pongamos",
+    "pongan"
+   ],
+   "imperative": [
+    "poné"
+   ]
+  },
+  "probar": {
+   "present": [
+    "pruebo",
+    "probás",
+    "prueba",
+    "probamos",
+    "prueban"
+   ],
+   "past": [
+    "probé",
+    "probaste",
+    "probó",
+    "probamos",
+    "probaron"
+   ],
+   "imperfect": [
+    "probaba",
+    "probabas",
+    "probaba",
+    "probábamos",
+    "probaban"
+   ],
+   "future": [
+    "probaré",
+    "probarás",
+    "probará",
+    "probaremos",
+    "probarán"
+   ],
+   "conditional": [
+    "probaría",
+    "probarías",
+    "probaría",
+    "probaríamos",
+    "probarían"
+   ],
+   "subjunctive": [
+    "pruebe",
+    "probés",
+    "pruebe",
+    "probemos",
+    "prueben"
+   ],
+   "imperative": [
+    "probá"
+   ]
+  },
+  "querer": {
+   "present": [
+    "quiero",
+    "querés",
+    "quiere",
+    "queremos",
+    "quieren"
+   ],
+   "past": [
+    "quise",
+    "quisiste",
+    "quiso",
+    "quisimos",
+    "quisieron"
+   ],
+   "imperfect": [
+    "quería",
+    "querías",
+    "quería",
+    "queríamos",
+    "querían"
+   ],
+   "future": [
+    "querré",
+    "querrás",
+    "querrá",
+    "querremos",
+    "querrán"
+   ],
+   "conditional": [
+    "querría",
+    "querrías",
+    "querría",
+    "querríamos",
+    "querrían"
+   ],
+   "subjunctive": [
+    "quiera",
+    "querás",
+    "quiera",
+    "queramos",
+    "quieran"
+   ],
+   "imperative": [
+    "queré"
+   ]
+  },
+  "repetir": {
+   "present": [
+    "repito",
+    "repetís",
+    "repite",
+    "repetimos",
+    "repiten"
+   ],
+   "past": [
+    "repetí",
+    "repetiste",
+    "repitió",
+    "repetimos",
+    "repitieron"
+   ],
+   "imperfect": [
+    "repetía",
+    "repetías",
+    "repetía",
+    "repetíamos",
+    "repetían"
+   ],
+   "future": [
+    "repetiré",
+    "repetirás",
+    "repetirá",
+    "repetiremos",
+    "repetirán"
+   ],
+   "conditional": [
+    "repetiría",
+    "repetirías",
+    "repetiría",
+    "repetiríamos",
+    "repetirían"
+   ],
+   "subjunctive": [
+    "repita",
+    "repitás",
+    "repita",
+    "repitamos",
+    "repitan"
+   ],
+   "imperative": [
+    "repetí"
+   ]
+  },
+  "saber": {
+   "present": [
+    "sé",
+    "sabés",
+    "sabe",
+    "sabemos",
+    "saben"
+   ],
+   "past": [
+    "supe",
+    "supiste",
+    "supo",
+    "supimos",
+    "supieron"
+   ],
+   "imperfect": [
+    "sabía",
+    "sabías",
+    "sabía",
+    "sabíamos",
+    "sabían"
+   ],
+   "future": [
+    "sabré",
+    "sabrás",
+    "sabrá",
+    "sabremos",
+    "sabrán"
+   ],
+   "conditional": [
+    "sabría",
+    "sabrías",
+    "sabría",
+    "sabríamos",
+    "sabrían"
+   ],
+   "subjunctive": [
+    "sepa",
+    "sepás",
+    "sepa",
+    "sepamos",
+    "sepan"
+   ],
+   "imperative": [
+    "sabé"
+   ]
+  },
+  "sacar": {
+   "present": [
+    "saco",
+    "sacás",
+    "saca",
+    "sacamos",
+    "sacan"
+   ],
+   "past": [
+    "saqué",
+    "sacaste",
+    "sacó",
+    "sacamos",
+    "sacaron"
+   ],
+   "imperfect": [
+    "sacaba",
+    "sacabas",
+    "sacaba",
+    "sacábamos",
+    "sacaban"
+   ],
+   "future": [
+    "sacaré",
+    "sacarás",
+    "sacará",
+    "sacaremos",
+    "sacarán"
+   ],
+   "conditional": [
+    "sacaría",
+    "sacarías",
+    "sacaría",
+    "sacaríamos",
+    "sacarían"
+   ],
+   "subjunctive": [
+    "saque",
+    "saqués",
+    "saque",
+    "saquemos",
+    "saquen"
+   ],
+   "imperative": [
+    "sacá"
+   ]
+  },
+  "salir": {
+   "present": [
+    "salgo",
+    "salís",
+    "sale",
+    "salimos",
+    "salen"
+   ],
+   "past": [
+    "salí",
+    "saliste",
+    "salió",
+    "salimos",
+    "salieron"
+   ],
+   "imperfect": [
+    "salía",
+    "salías",
+    "salía",
+    "salíamos",
+    "salían"
+   ],
+   "future": [
+    "saldré",
+    "saldrás",
+    "saldrá",
+    "saldremos",
+    "saldrán"
+   ],
+   "conditional": [
+    "saldría",
+    "saldrías",
+    "saldría",
+    "saldríamos",
+    "saldrían"
+   ],
+   "subjunctive": [
+    "salga",
+    "salgás",
+    "salga",
+    "salgamos",
+    "salgan"
+   ],
+   "imperative": [
+    "salí"
+   ]
+  },
+  "seguir": {
+   "present": [
+    "sigo",
+    "seguís",
+    "sigue",
+    "seguimos",
+    "siguen"
+   ],
+   "past": [
+    "seguí",
+    "seguiste",
+    "siguió",
+    "seguimos",
+    "siguieron"
+   ],
+   "imperfect": [
+    "seguía",
+    "seguías",
+    "seguía",
+    "seguíamos",
+    "seguían"
+   ],
+   "future": [
+    "seguiré",
+    "seguirás",
+    "seguirá",
+    "seguiremos",
+    "seguirán"
+   ],
+   "conditional": [
+    "seguiría",
+    "seguirías",
+    "seguiría",
+    "seguiríamos",
+    "seguirían"
+   ],
+   "subjunctive": [
+    "siga",
+    "sigás",
+    "siga",
+    "sigamos",
+    "sigan"
+   ],
+   "imperative": [
+    "seguí"
+   ]
+  },
+  "sentir": {
+   "present": [
+    "siento",
+    "sentís",
+    "siente",
+    "sentimos",
+    "sienten"
+   ],
+   "past": [
+    "sentí",
+    "sentiste",
+    "sintió",
+    "sentimos",
+    "sintieron"
+   ],
+   "imperfect": [
+    "sentía",
+    "sentías",
+    "sentía",
+    "sentíamos",
+    "sentían"
+   ],
+   "future": [
+    "sentiré",
+    "sentirás",
+    "sentirá",
+    "sentiremos",
+    "sentirán"
+   ],
+   "conditional": [
+    "sentiría",
+    "sentirías",
+    "sentiría",
+    "sentiríamos",
+    "sentirían"
+   ],
+   "subjunctive": [
+    "sienta",
+    "sintás",
+    "sienta",
+    "sintamos",
+    "sientan"
+   ],
+   "imperative": [
+    "sentí"
+   ]
+  },
+  "ser": {
+   "present": [
+    "soy",
+    "sos",
+    "es",
+    "somos",
+    "son"
+   ],
+   "past": [
+    "fui",
+    "fuiste",
+    "fue",
+    "fuimos",
+    "fueron"
+   ],
+   "imperfect": [
+    "era",
+    "eras",
+    "era",
+    "éramos",
+    "eran"
+   ],
+   "future": [
+    "seré",
+    "serás",
+    "será",
+    "seremos",
+    "serán"
+   ],
+   "conditional": [
+    "sería",
+    "serías",
+    "sería",
+    "seríamos",
+    "serían"
+   ],
+   "subjunctive": [
+    "sea",
+    "seás",
+    "sea",
+    "seamos",
+    "sean"
+   ],
+   "imperative": [
+    "sé"
+   ]
+  },
+  "servir": {
+   "present": [
+    "sirvo",
+    "servís",
+    "sirve",
+    "servimos",
+    "sirven"
+   ],
+   "past": [
+    "serví",
+    "serviste",
+    "sirvió",
+    "servimos",
+    "sirvieron"
+   ],
+   "imperfect": [
+    "servía",
+    "servías",
+    "servía",
+    "servíamos",
+    "servían"
+   ],
+   "future": [
+    "serviré",
+    "servirás",
+    "servirá",
+    "serviremos",
+    "servirán"
+   ],
+   "conditional": [
+    "serviría",
+    "servirías",
+    "serviría",
+    "serviríamos",
+    "servirían"
+   ],
+   "subjunctive": [
+    "sirva",
+    "sirvás",
+    "sirva",
+    "sirvamos",
+    "sirvan"
+   ],
+   "imperative": [
+    "serví"
+   ]
+  },
+  "significar": {
+   "present": [
+    "significo",
+    "significás",
+    "significa",
+    "significamos",
+    "significan"
+   ],
+   "past": [
+    "signifiqué",
+    "significaste",
+    "significó",
+    "significamos",
+    "significaron"
+   ],
+   "imperfect": [
+    "significaba",
+    "significabas",
+    "significaba",
+    "significábamos",
+    "significaban"
+   ],
+   "future": [
+    "significaré",
+    "significarás",
+    "significará",
+    "significaremos",
+    "significarán"
+   ],
+   "conditional": [
+    "significaría",
+    "significarías",
+    "significaría",
+    "significaríamos",
+    "significarían"
+   ],
+   "subjunctive": [
+    "signifique",
+    "signifiqués",
+    "signifique",
+    "signifiquemos",
+    "signifiquen"
+   ],
+   "imperative": [
+    "significá"
+   ]
+  },
+  "sonar": {
+   "present": [
+    "sueno",
+    "sonás",
+    "suena",
+    "sonamos",
+    "suenan"
+   ],
+   "past": [
+    "soné",
+    "sonaste",
+    "sonó",
+    "sonamos",
+    "sonaron"
+   ],
+   "imperfect": [
+    "sonaba",
+    "sonabas",
+    "sonaba",
+    "sonábamos",
+    "sonaban"
+   ],
+   "future": [
+    "sonaré",
+    "sonarás",
+    "sonará",
+    "sonaremos",
+    "sonarán"
+   ],
+   "conditional": [
+    "sonaría",
+    "sonarías",
+    "sonaría",
+    "sonaríamos",
+    "sonarían"
+   ],
+   "subjunctive": [
+    "suene",
+    "sonés",
+    "suene",
+    "sonemos",
+    "suenen"
+   ],
+   "imperative": [
+    "soná"
+   ]
+  },
+  "tener": {
+   "present": [
+    "tengo",
+    "tenés",
+    "tiene",
+    "tenemos",
+    "tienen"
+   ],
+   "past": [
+    "tuve",
+    "tuviste",
+    "tuvo",
+    "tuvimos",
+    "tuvieron"
+   ],
+   "imperfect": [
+    "tenía",
+    "tenías",
+    "tenía",
+    "teníamos",
+    "tenían"
+   ],
+   "future": [
+    "tendré",
+    "tendrás",
+    "tendrá",
+    "tendremos",
+    "tendrán"
+   ],
+   "conditional": [
+    "tendría",
+    "tendrías",
+    "tendría",
+    "tendríamos",
+    "tendrían"
+   ],
+   "subjunctive": [
+    "tenga",
+    "tengás",
+    "tenga",
+    "tengamos",
+    "tengan"
+   ],
+   "imperative": [
+    "tené"
+   ]
+  },
+  "tocar": {
+   "present": [
+    "toco",
+    "tocás",
+    "toca",
+    "tocamos",
+    "tocan"
+   ],
+   "past": [
+    "toqué",
+    "tocaste",
+    "tocó",
+    "tocamos",
+    "tocaron"
+   ],
+   "imperfect": [
+    "tocaba",
+    "tocabas",
+    "tocaba",
+    "tocábamos",
+    "tocaban"
+   ],
+   "future": [
+    "tocaré",
+    "tocarás",
+    "tocará",
+    "tocaremos",
+    "tocarán"
+   ],
+   "conditional": [
+    "tocaría",
+    "tocarías",
+    "tocaría",
+    "tocaríamos",
+    "tocarían"
+   ],
+   "subjunctive": [
+    "toque",
+    "toqués",
+    "toque",
+    "toquemos",
+    "toquen"
+   ],
+   "imperative": [
+    "tocá"
+   ]
+  },
+  "venir": {
+   "present": [
+    "vengo",
+    "venís",
+    "viene",
+    "venimos",
+    "vienen"
+   ],
+   "past": [
+    "vine",
+    "viniste",
+    "vino",
+    "vinimos",
+    "vinieron"
+   ],
+   "imperfect": [
+    "venía",
+    "venías",
+    "venía",
+    "veníamos",
+    "venían"
+   ],
+   "future": [
+    "vendré",
+    "vendrás",
+    "vendrá",
+    "vendremos",
+    "vendrán"
+   ],
+   "conditional": [
+    "vendría",
+    "vendrías",
+    "vendría",
+    "vendríamos",
+    "vendrían"
+   ],
+   "subjunctive": [
+    "venga",
+    "vengás",
+    "venga",
+    "vengamos",
+    "vengan"
+   ],
+   "imperative": [
+    "vení"
+   ]
+  },
+  "ver": {
+   "present": [
+    "veo",
+    "ves",
+    "ve",
+    "vemos",
+    "ven"
+   ],
+   "past": [
+    "vi",
+    "viste",
+    "vio",
+    "vimos",
+    "vieron"
+   ],
+   "imperfect": [
+    "veía",
+    "veías",
+    "veía",
+    "veíamos",
+    "veían"
+   ],
+   "future": [
+    "veré",
+    "verás",
+    "verá",
+    "veremos",
+    "verán"
+   ],
+   "conditional": [
+    "vería",
+    "verías",
+    "vería",
+    "veríamos",
+    "verían"
+   ],
+   "subjunctive": [
+    "vea",
+    "veás",
+    "vea",
+    "veamos",
+    "vean"
+   ],
+   "imperative": [
+    "ve"
+   ]
+  },
+  "volver": {
+   "present": [
+    "vuelvo",
+    "volvés",
+    "vuelve",
+    "volvemos",
+    "vuelven"
+   ],
+   "past": [
+    "volví",
+    "volviste",
+    "volvió",
+    "volvimos",
+    "volvieron"
+   ],
+   "imperfect": [
+    "volvía",
+    "volvías",
+    "volvía",
+    "volvíamos",
+    "volvían"
+   ],
+   "future": [
+    "volveré",
+    "volverás",
+    "volverá",
+    "volveremos",
+    "volverán"
+   ],
+   "conditional": [
+    "volvería",
+    "volverías",
+    "volvería",
+    "volveríamos",
+    "volverían"
+   ],
+   "subjunctive": [
+    "vuelva",
+    "volvás",
+    "vuelva",
+    "volvamos",
+    "vuelvan"
+   ],
+   "imperative": [
+    "volvé"
+   ]
+  }
+ },
+ "drill": [
+  "decir",
+  "ser",
+  "estar",
+  "ir",
+  "hacer",
+  "tener",
+  "preguntar",
+  "saber",
+  "hablar",
+  "dar",
+  "querer",
+  "contar",
+  "poder",
+  "salir",
+  "poner",
+  "llevar",
+  "pedir",
+  "ver",
+  "pasar",
+  "venir",
+  "explicar",
+  "empezar",
+  "volver",
+  "esperar",
+  "aprender",
+  "contestar",
+  "pensar",
+  "medir",
+  "seguir",
+  "dejar",
+  "sonar",
+  "mirar",
+  "cambiar",
+  "llegar",
+  "servir",
+  "mandar",
+  "entrar",
+  "gritar",
+  "usar",
+  "faltar",
+  "enseñar",
+  "pagar",
+  "terminar",
+  "comprar",
+  "avisar",
+  "costar",
+  "sacar",
+  "entender",
+  "caminar",
+  "tomar",
+  "cerrar",
+  "tocar",
+  "dormir",
+  "conocer",
+  "trabajar",
+  "comer",
+  "escuchar",
+  "importar",
+  "saludar",
+  "discutir",
+  "subir",
+  "repetir",
+  "caer",
+  "significar",
+  "abrir",
+  "vender",
+  "perder",
+  "escribir",
+  "invitar",
+  "buscar",
+  "deber",
+  "lavar",
+  "bailar",
+  "depender",
+  "arreglar",
+  "parar",
+  "tratar",
+  "meter",
+  "llamar",
+  "corregir",
+  "llorar",
+  "leer",
+  "existir",
+  "aguantar",
+  "devolver",
+  "sorprender",
+  "quitar",
+  "olvidar",
+  "ayudar",
+  "vivir",
+  "jugar",
+  "creer",
+  "cocinar",
+  "nacer",
+  "reclamar",
+  "probar",
+  "presentar",
+  "mencionar",
+  "recitar",
+  "funcionar",
+  "estudiar",
+  "doler",
+  "guardar",
+  "alcanzar",
+  "insistir",
+  "aceptar",
+  "correr",
+  "escoger",
+  "cantar",
+  "recibir",
+  "cargar",
+  "apuntar",
+  "cobrar",
+  "prender",
+  "cuidar",
+  "cumplir",
+  "encontrar",
+  "armar",
+  "vacilar",
+  "pesar",
+  "sentir",
+  "necesitar",
+  "ganar"
+ ]
 }

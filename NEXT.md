@@ -105,11 +105,41 @@ before writing. **Do not hand-write a trigger list without running stage.py.**
 
 `spine.json` is deliberately **not** in the manifest yet — see Publishing.
 
-### 3. Verbs — expand `content/verbs.json`
+### 3. ~~Verbs~~ — DONE. 45 → 123, and 3 tenses → 6
 
-45 verbs × 3 tenses × 5 subjects today. Go to ~120 verbs and add imperfect,
-conditional, present subjunctive and the **voseo imperative** (`hablá`, `comé`,
-`vení`, `sentate`).
+`content/verbs.json` was rebuilt by `verbs_build.py` (kept in git history, not
+in the tree — recover it from the commit if you need to regenerate). 123 drill
+verbs, chosen by how often the course actually uses them, 51 of them with a
+full irregular table.
+
+Tenses are now **present, past, imperfect, future, conditional, subjunctive**.
+No app change was needed: `engine.js conjugate()` special-cases only `future`,
+and conditional builds correctly from stem + ending.
+
+Two things it fixed, both shipping today:
+
+- **`cerrar` and `perder` were in `drill` and in neither table**, so the
+  trainer has been teaching Kevin **"cerro"** and **"perdo"**. `engine.js
+  conjugate()` falls back to the regular table when a tense is missing, so a
+  verb that is irregular and absent produces a wrong form silently. Anything
+  added to `drill` MUST be checked against that.
+- The whole table is voseo-correct: vos does not diphthongise (`vos pensás`,
+  `vos podés`), and the subjunctive is the voseo one (`que vos hablés, comás,
+  vivás, tengás`).
+
+**The voseo imperative is stored but NOT drillable.** Each irregular verb has
+an `imperative` key with one form, and `forms.py` reads every tense of every
+irregular verb when it builds the inflection map, so `hablá`, `tené`, `vení`,
+`andá` are all tappable in the reader. It is deliberately **not** in `tenses`,
+because `startVerbs()` draws a random subject index 0–4 for whatever tense it
+picks and a one-slot tense would hand the drill an `undefined`. Drilling it
+needs a change in the **app repo** (`scenicprints/fluidez`): teach
+`startVerbs()` that some tenses have one form and no subject. Small job, wrong
+repo.
+
+Regenerating: the builder refuses to write unless it reproduces the original 21
+irregulars' present/past/future byte-for-byte. That check caught three real
+errors while it was being written; do not remove it.
 
 Review, Word Order, Listening and Shadowing need no authoring — they generate
 from lesson sentences and grew with every batch.
