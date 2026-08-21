@@ -18,6 +18,7 @@ import argparse, io, json, os, sys
 
 import forms as morphology
 import dialect as nica
+import schedule as recycling
 
 NEWLINE = chr(10)
 
@@ -228,6 +229,8 @@ def main():
         except ValueError as e:
             problems.append("forms-overrides.json is not valid JSON (%s)" % e)
     for form, lemma in overrides.items():
+        if form.startswith("_"):
+            continue          # a note to whoever opens the file, not a form
         form = form.lower()
         if lemma is None:
             word_forms.pop(form, None)
@@ -271,6 +274,22 @@ def main():
     for where, word, why, text in off_dialect:
         problems.append("%s says %r - %s: %s" % (where, word, why, text[:70]))
 
+    # Does the course actually recycle its vocabulary?
+    #
+    # Writing recycles by accident unless something checks, and the old course
+    # proved it: 42% of what it taught appeared in exactly one lesson ever.
+    # Only stories on the new spine are held to this - the originals are being
+    # replaced and would fail every rule.
+    spine_path = os.path.join(content_dir, "plan", "spine.json")
+    spine_order = None
+    if os.path.exists(spine_path):
+        try:
+            spine_order = [x["id"] for x in read(spine_path)]
+        except (ValueError, KeyError, TypeError):
+            problems.append("plan/spine.json is not a readable spine")
+    schedule_problems, schedule_stats = recycling.check(pack, spine_order)
+    problems.extend(schedule_problems)
+
     if problems:
         for p in problems:
             print("ERROR: %s" % p)
@@ -293,6 +312,14 @@ def main():
            ", verbs" if verbs else ""))
     print("features   %s" % ", ".join(features))
     print("dialect    Nicaraguan - %d voseo forms, 0 off-dialect" % voseo_count)
+    if schedule_stats.get("stories"):
+        print("spine      %d stories, %s running words, %d words taught, "
+              "median %d encounters, %d reach ten"
+              % (schedule_stats["stories"],
+                 format(schedule_stats["running_words"], ","),
+                 schedule_stats["vocabulary"],
+                 schedule_stats["median_encounters"],
+                 schedule_stats["reach_ten"]))
 
     # What the reader can and cannot look up. A word with no entry and no form
     # is a word the learner taps and nothing happens, so the number is worth

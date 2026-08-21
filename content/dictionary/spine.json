@@ -1,0 +1,106 @@
+{
+ "abril": {
+  "en": "April",
+  "g": "m",
+  "note": "The hottest month in Nicaragua, at the end of the dry season",
+  "pos": "n"
+ },
+ "acercarse": {
+  "en": "to come closer/to approach",
+  "pos": "v"
+ },
+ "aeropuerto": {
+  "en": "airport",
+  "g": "m",
+  "pos": "n"
+ },
+ "ah": {
+  "en": "ah/oh",
+  "note": "Recognition, not surprise. 'Áh, sí' = oh, right",
+  "pos": "intj"
+ },
+ "aire": {
+  "en": "air/air conditioning",
+  "g": "m",
+  "note": "'No tiene aire' about a car means no air conditioning",
+  "pos": "n"
+ },
+ "avión": {
+  "en": "plane/aeroplane",
+  "g": "m",
+  "pos": "n"
+ },
+ "cierto": {
+  "en": "true/certain",
+  "pos": "adj"
+ },
+ "color": {
+  "en": "colour",
+  "g": "m",
+  "pos": "n"
+ },
+ "dirección": {
+  "en": "address/direction",
+  "g": "f",
+  "note": "An address here is landmarks, not a street and number",
+  "pos": "n"
+ },
+ "enero": {
+  "en": "January",
+  "g": "m",
+  "pos": "n"
+ },
+ "entrar": {
+  "en": "to go in/to come in",
+  "pos": "v"
+ },
+ "esto": {
+  "en": "this/this thing",
+  "pos": "pron"
+ },
+ "maleta": {
+  "en": "suitcase",
+  "g": "f",
+  "pos": "n"
+ },
+ "manejar": {
+  "en": "to drive",
+  "note": "Nicaragua says manejar, not conducir",
+  "pos": "v"
+ },
+ "normal": {
+  "en": "normal/ordinary",
+  "pos": "adj"
+ },
+ "papel": {
+  "en": "paper/piece of paper",
+  "g": "m",
+  "pos": "n"
+ },
+ "pasaporte": {
+  "en": "passport",
+  "g": "m",
+  "pos": "n"
+ },
+ "pesar": {
+  "en": "to weigh",
+  "pos": "v"
+ },
+ "revisar": {
+  "en": "to check/to look over",
+  "pos": "v"
+ },
+ "segundo": {
+  "en": "second",
+  "pos": "adj"
+ },
+ "tercero": {
+  "en": "third",
+  "note": "Shortens to 'tercer' before a masculine noun",
+  "pos": "adj"
+ },
+ "tocar": {
+  "en": "to touch/to knock/to play",
+  "pos": "v"
+ }
+}

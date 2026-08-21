@@ -1,0 +1,409 @@
+{
+ "id": "p0-01",
+ "title": "El calor",
+ "desc": "You land, and the heat decides everything",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "calor",
+  "aeropuerto",
+  "avión",
+  "taxi",
+  "señor",
+  "señora",
+  "agua",
+  "buenas",
+  "gracias",
+  "calle"
+ ],
+ "sn": [
+  {
+   "s": "Llego a Nicaragua.",
+   "e": "I arrive in Nicaragua."
+  },
+  {
+   "s": "El avión baja despacio.",
+   "e": "The plane comes down slowly."
+  },
+  {
+   "s": "Por la ventana del avión veo agua.",
+   "e": "Through the window of the plane I see water."
+  },
+  {
+   "s": "Es un lago muy grande.",
+   "e": "It is a very big lake."
+  },
+  {
+   "s": "El avión toca la tierra.",
+   "e": "The plane touches the ground."
+  },
+  {
+   "s": "Ya estoy en Managua.",
+   "e": "I am in Managua now."
+  },
+  {
+   "s": "Abren la puerta del avión.",
+   "e": "They open the door of the plane."
+  },
+  {
+   "s": "Y entonces llega el calor.",
+   "e": "And then the heat arrives."
+  },
+  {
+   "s": "No es un calor normal.",
+   "e": "It is not a normal heat."
+  },
+  {
+   "s": "Es un calor que pesa.",
+   "e": "It is a heat that weighs on you."
+  },
+  {
+   "s": "El calor entra en el avión.",
+   "e": "The heat comes into the plane."
+  },
+  {
+   "s": "La gente no dice nada.",
+   "e": "The people say nothing."
+  },
+  {
+   "s": "Para ellos el calor es normal.",
+   "e": "For them the heat is normal."
+  },
+  {
+   "s": "Bajo del avión con mi maleta.",
+   "e": "I get off the plane with my suitcase."
+  },
+  {
+   "s": "El aeropuerto es pequeño.",
+   "e": "The airport is small."
+  },
+  {
+   "s": "El aeropuerto se llama Augusto C. Sandino.",
+   "e": "The airport is called Augusto C. Sandino."
+  },
+  {
+   "s": "Adentro del aeropuerto también hace calor.",
+   "e": "Inside the airport it is hot too."
+  },
+  {
+   "s": "Un señor revisa mi pasaporte.",
+   "e": "A man checks my passport."
+  },
+  {
+   "s": "\"Buenas\", dice el señor.",
+   "e": "\"Buenas,\" the man says."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "Es mi primera palabra en Nicaragua.",
+   "e": "It is my first word in Nicaragua."
+  },
+  {
+   "s": "El señor no pregunta nada más.",
+   "e": "The man does not ask anything else."
+  },
+  {
+   "s": "Salgo del aeropuerto con mi maleta.",
+   "e": "I leave the airport with my suitcase."
+  },
+  {
+   "s": "Afuera del aeropuerto hay mucha gente.",
+   "e": "Outside the airport there are a lot of people."
+  },
+  {
+   "s": "Afuera el calor es peor.",
+   "e": "Outside the heat is worse."
+  },
+  {
+   "s": "Hay muchos taxis en la calle.",
+   "e": "There are many taxis in the street."
+  },
+  {
+   "s": "Hay muchos señores esperando.",
+   "e": "There are many men waiting."
+  },
+  {
+   "s": "\"¡Taxi, taxi!\", dicen los señores.",
+   "e": "\"Taxi, taxi!\" the men say."
+  },
+  {
+   "s": "Un señor se acerca.",
+   "e": "One man comes over."
+  },
+  {
+   "s": "\"Buenas, ¿para dónde va?\", me dice.",
+   "e": "\"Buenas, where are you going?\" he says to me."
+  },
+  {
+   "s": "No entiendo bien.",
+   "e": "I do not understand properly."
+  },
+  {
+   "s": "El señor habla muy rápido.",
+   "e": "The man talks very fast."
+  },
+  {
+   "s": "\"¿Para dónde va?\", dice otra vez.",
+   "e": "\"Where are you going?\" he says again."
+  },
+  {
+   "s": "Ahora habla despacio.",
+   "e": "Now he talks slowly."
+  },
+  {
+   "s": "Le enseño un papel.",
+   "e": "I show him a piece of paper."
+  },
+  {
+   "s": "En el papel está la dirección.",
+   "e": "The address is on the paper."
+  },
+  {
+   "s": "El señor lee el papel.",
+   "e": "The man reads the paper."
+  },
+  {
+   "s": "\"Ah, sí. Yo lo llevo.\"",
+   "e": "\"Ah, yes. I'll take you.\""
+  },
+  {
+   "s": "\"¿Cuánto?\", pregunto yo.",
+   "e": "\"How much?\" I ask."
+  },
+  {
+   "s": "Es la segunda palabra que uso aquí.",
+   "e": "It is the second word I use here."
+  },
+  {
+   "s": "El señor dice un número.",
+   "e": "The man says a number."
+  },
+  {
+   "s": "No entiendo el número.",
+   "e": "I do not understand the number."
+  },
+  {
+   "s": "Digo que sí.",
+   "e": "I say yes."
+  },
+  {
+   "s": "Después voy a saber que pagué mucho.",
+   "e": "Later I am going to find out that I paid a lot."
+  },
+  {
+   "s": "Mucho, mucho más de lo normal.",
+   "e": "A lot, a lot more than normal."
+  },
+  {
+   "s": "Pero eso es después.",
+   "e": "But that comes later."
+  },
+  {
+   "s": "Subo al taxi.",
+   "e": "I get into the taxi."
+  },
+  {
+   "s": "El taxi no tiene aire.",
+   "e": "The taxi has no air conditioning."
+  },
+  {
+   "s": "Las ventanas del taxi están abiertas.",
+   "e": "The windows of the taxi are open."
+  },
+  {
+   "s": "El calor entra por las ventanas.",
+   "e": "The heat comes in through the windows."
+  },
+  {
+   "s": "El señor maneja y habla.",
+   "e": "The man drives and talks."
+  },
+  {
+   "s": "Habla del calor.",
+   "e": "He talks about the heat."
+  },
+  {
+   "s": "\"Hace calor, ¿verdad?\", me dice.",
+   "e": "\"It's hot, isn't it?\" he says to me."
+  },
+  {
+   "s": "\"Sí\", digo yo. \"Mucho calor.\"",
+   "e": "\"Yes,\" I say. \"Very hot.\""
+  },
+  {
+   "s": "El señor se ríe.",
+   "e": "The man laughs."
+  },
+  {
+   "s": "\"Esto no es nada\", dice.",
+   "e": "\"This is nothing,\" he says."
+  },
+  {
+   "s": "\"En abril sí hace calor.\"",
+   "e": "\"In April it really is hot.\""
+  },
+  {
+   "s": "Es enero.",
+   "e": "It is January."
+  },
+  {
+   "s": "Pienso en abril y tengo miedo.",
+   "e": "I think about April and I am afraid."
+  },
+  {
+   "s": "Pasamos por la ciudad.",
+   "e": "We drive through the city."
+  },
+  {
+   "s": "Veo casas de muchos colores.",
+   "e": "I see houses in many colours."
+  },
+  {
+   "s": "Veo mucha gente en la calle.",
+   "e": "I see a lot of people in the street."
+  },
+  {
+   "s": "Nadie camina rápido.",
+   "e": "Nobody walks fast."
+  },
+  {
+   "s": "Ahora entiendo por qué.",
+   "e": "Now I understand why."
+  },
+  {
+   "s": "Con este calor nadie camina rápido.",
+   "e": "In this heat nobody walks fast."
+  },
+  {
+   "s": "El taxi para en una calle pequeña.",
+   "e": "The taxi stops in a small street."
+  },
+  {
+   "s": "\"Aquí es\", dice el señor.",
+   "e": "\"This is it,\" the man says."
+  },
+  {
+   "s": "Le pago.",
+   "e": "I pay him."
+  },
+  {
+   "s": "\"Gracias\", digo yo.",
+   "e": "\"Thank you,\" I say."
+  },
+  {
+   "s": "Es mi tercera palabra.",
+   "e": "It is my third word."
+  },
+  {
+   "s": "En Nicaragua se dice gracias por todo.",
+   "e": "In Nicaragua you say thank you for everything."
+  },
+  {
+   "s": "\"Gracias a usted\", dice el señor.",
+   "e": "\"Thank *you*,\" the man says."
+  },
+  {
+   "s": "Y se va.",
+   "e": "And he leaves."
+  },
+  {
+   "s": "Estoy solo en la calle.",
+   "e": "I am alone in the street."
+  },
+  {
+   "s": "Son las dos de la tarde.",
+   "e": "It is two in the afternoon."
+  },
+  {
+   "s": "Hace mucho calor.",
+   "e": "It is very hot."
+  },
+  {
+   "s": "No hay nadie en la calle.",
+   "e": "There is nobody in the street."
+  },
+  {
+   "s": "Una señora sale de una casa.",
+   "e": "A woman comes out of a house."
+  },
+  {
+   "s": "La señora me ve.",
+   "e": "The woman sees me."
+  },
+  {
+   "s": "\"Buenas\", dice ella.",
+   "e": "\"Buenas,\" she says."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "La señora entra otra vez en la casa.",
+   "e": "The woman goes back into the house."
+  },
+  {
+   "s": "Sale con un vaso de agua.",
+   "e": "She comes out with a glass of water."
+  },
+  {
+   "s": "\"Tome\", me dice. \"Hace calor.\"",
+   "e": "\"Here you go,\" she says to me. \"It's hot.\""
+  },
+  {
+   "s": "Tomo el vaso de agua.",
+   "e": "I take the glass of water."
+  },
+  {
+   "s": "El agua está fría.",
+   "e": "The water is cold."
+  },
+  {
+   "s": "Tomo toda el agua.",
+   "e": "I drink all the water."
+  },
+  {
+   "s": "\"Gracias\", digo yo.",
+   "e": "\"Thank you,\" I say."
+  },
+  {
+   "s": "\"De nada\", dice la señora.",
+   "e": "\"You're welcome,\" the woman says."
+  },
+  {
+   "s": "Le digo gracias otra vez.",
+   "e": "I say thank you to her again."
+  },
+  {
+   "s": "No sé cómo se llama la señora.",
+   "e": "I do not know the woman's name."
+  },
+  {
+   "s": "Ella no sabe cómo me llamo yo.",
+   "e": "She does not know mine."
+  },
+  {
+   "s": "Pero me da un vaso de agua.",
+   "e": "But she gives me a glass of water."
+  },
+  {
+   "s": "Aquí hace mucho calor.",
+   "e": "Here it is very hot."
+  },
+  {
+   "s": "Y aquí la gente da agua.",
+   "e": "And here people give you water."
+  },
+  {
+   "s": "Las dos cosas son ciertas.",
+   "e": "Both things are true."
+  },
+  {
+   "s": "Ese es mi primer día en Nicaragua.",
+   "e": "That is my first day in Nicaragua."
+  }
+ ]
+}

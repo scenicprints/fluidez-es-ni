@@ -49,9 +49,22 @@ ACCENT_MAP = {"as":u"ás","es":u"és","is":u"í s".replace(" ",""),
               "abamos":u"ábamos","emos":u"émos"}
 
 def verb_forms(inf):
-    """Every regular form of one infinitive, accent variants included."""
+    """Every regular form of one infinitive, accent variants included.
+
+    Reflexive infinitives are handled by dropping the pronoun first. A whole
+    class of extremely common verbs ends in -se - llamarse, sentarse, irse,
+    reirse, levantarse - and taking the last two letters of those gives "se",
+    which is in no conjugation table, so every one of them produced no forms
+    at all and every one of their inflections was dead on the page.
+    """
+    if inf.endswith("se") and len(inf) > 4 and strip_accent(inf[-4:-2]) in ENDINGS:
+        inf = inf[:-2]
     if len(inf) < 3: return []
-    kind = inf[-2:]
+    # reir and oir carry an accent on the ending. Their real forms are
+    # irregular, so the regular tables produce nonsense for them - but nonsense
+    # never occurs in the text and is dropped by the corpus filter, while the
+    # forms that ARE regular still land.
+    kind = strip_accent(inf[-2:])
     if kind not in ENDINGS: return []
     stem, out = inf[:-2], set()
     t = ENDINGS[kind]
@@ -146,6 +159,11 @@ def build(dictionary, texts, verbs=None):
         elif pos == "v": gen = verb_forms(lemma)
         elif pos == "n": gen = noun_forms(lemma)
         elif pos == "adj": gen = adj_forms(lemma)
+        # Anything ending in -o agrees like an adjective whatever it is tagged.
+        # "todo" is filed as a pronoun and "mucho" as an adverb, so toda,
+        # todas, muchos and mucha resolved to nothing - and those are among the
+        # commonest words in the language.
+        elif lemma.endswith("o"): gen = adj_forms(lemma)
         else: gen = []
         for f in gen:
             if f in dictionary:     # a real entry always wins over a guess
