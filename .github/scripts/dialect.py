@@ -52,7 +52,7 @@ FOREIGN = {
     # only Madrid slang uses them for "bloke". A word list cannot tell those
     # apart, and banning them flags every family in the course.
     "Spain": u"""vale coche movil ordenador guay zumo patata gilipollas
-                 hostia currar piso melocoton cutre flipar majo""".split(),
+                 hostia currar melocoton cutre flipar majo""".split(),
     "Mexico": u"""orale guey wey chido padrisimo andale chamba lana popote antro
                   chavo chava alberca neta chingon chafa naco fresa mande
                   platicame elote camion""".split(),

@@ -1,0 +1,198 @@
+{
+ "id": "p4-32",
+ "title": "Te lo agradezco",
+ "desc": "Gratitude that means something",
+ "ph": 4,
+ "diff": 4,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Cuando nació el niño, la calle nos dio todo.",
+   "e": "When the baby was born, the street gave us everything."
+  },
+  {
+   "s": "Ropa, una cuna, un abanico chiquito.",
+   "e": "Clothes, a cot, a small fan."
+  },
+  {
+   "s": "Comida cocinada por cuarenta días.",
+   "e": "Food cooked for forty days."
+  },
+  {
+   "s": "Yo quiero agradecerle a cada uno.",
+   "e": "I want to thank each one of them."
+  },
+  {
+   "s": "Y descubro que eso aquí es complicado.",
+   "e": "And I discover that here that is complicated."
+  },
+  {
+   "s": "Voy a la casa de una vecina a agradecerle.",
+   "e": "I go to a neighbour's house to thank her."
+  },
+  {
+   "s": "Le digo gracias por todo lo que hizo.",
+   "e": "I say thank you for everything she did."
+  },
+  {
+   "s": "Ella se pone incómoda enseguida.",
+   "e": "She gets uncomfortable straight away."
+  },
+  {
+   "s": "\"No, no. No es nada\", dice ella.",
+   "e": "\"No, no. It's nothing,\" she says."
+  },
+  {
+   "s": "Y cambia de tema rápido.",
+   "e": "And changes the subject fast."
+  },
+  {
+   "s": "Yo insisto, porque quiero que sepa.",
+   "e": "I insist, because I want her to know."
+  },
+  {
+   "s": "Y ella se pone más incómoda todavía.",
+   "e": "And she gets even more uncomfortable."
+  },
+  {
+   "s": "Lucía me lo explica después, en la casa.",
+   "e": "Lucía explains it to me later, at home."
+  },
+  {
+   "s": "\"Agradecer mucho es marcar una distancia.\"",
+   "e": "\"Thanking too much marks a distance.\""
+  },
+  {
+   "s": "\"Es como decir que ella hizo un favor grande.\"",
+   "e": "\"It's like saying she did you a big favour.\""
+  },
+  {
+   "s": "\"Y ella lo hizo porque somos de aquí.\"",
+   "e": "\"And she did it because we're from here.\""
+  },
+  {
+   "s": "Entonces agradecer de más es sacarse afuera.",
+   "e": "So thanking too much is putting yourself outside."
+  },
+  {
+   "s": "Un gracias corto sí.",
+   "e": "A short thank you yes."
+  },
+  {
+   "s": "Un gracias largo no.",
+   "e": "A long thank you no."
+  },
+  {
+   "s": "\"¿Y entonces cómo se agradece?\", pregunto yo.",
+   "e": "\"So how do you thank somebody?\" I ask."
+  },
+  {
+   "s": "\"Se devuelve\", dice ella.",
+   "e": "\"You give it back,\" she says."
+  },
+  {
+   "s": "No con plata y no enseguida.",
+   "e": "Not with money and not straight away."
+  },
+  {
+   "s": "Se devuelve cuando a ellos les toca.",
+   "e": "You give it back when their turn comes."
+  },
+  {
+   "s": "Y a todos les toca alguna vez.",
+   "e": "And everybody's turn comes some time."
+  },
+  {
+   "s": "Meses después a esa vecina se le enferma la mamá.",
+   "e": "Months later that neighbour's mother falls ill."
+  },
+  {
+   "s": "Lucía cocina para su casa una semana.",
+   "e": "Lucía cooks for her house for a week."
+  },
+  {
+   "s": "Yo hago dos turnos en el hospital.",
+   "e": "I do two shifts at the hospital."
+  },
+  {
+   "s": "Nadie menciona el niño ni los cuarenta días.",
+   "e": "Nobody mentions the baby or the forty days."
+  },
+  {
+   "s": "Nadie dice que estamos devolviendo nada.",
+   "e": "Nobody says we are paying anything back."
+  },
+  {
+   "s": "Pero todos saben qué es esto.",
+   "e": "But everybody knows what this is."
+  },
+  {
+   "s": "Y ahí sí se cierra bien.",
+   "e": "And that is where it closes properly."
+  },
+  {
+   "s": "Hay una frase que se usa para las cosas grandes.",
+   "e": "There is a phrase used for the big things."
+  },
+  {
+   "s": "\"No sé cómo pagarle.\"",
+   "e": "\"I don't know how to repay you.\""
+  },
+  {
+   "s": "Se dice cuando alguien hizo algo enorme.",
+   "e": "It is said when somebody did something enormous."
+  },
+  {
+   "s": "Y la respuesta siempre es la misma.",
+   "e": "And the answer is always the same."
+  },
+  {
+   "s": "\"No hay nada que pagar.\"",
+   "e": "\"There's nothing to repay.\""
+  },
+  {
+   "s": "Las dos frases juntas son el trato entero.",
+   "e": "The two sentences together are the whole deal."
+  },
+  {
+   "s": "Uno reconoce que debe.",
+   "e": "You acknowledge that you owe."
+  },
+  {
+   "s": "Y el otro dice que no lleva cuenta.",
+   "e": "And the other says they are not counting."
+  },
+  {
+   "s": "Y los dos saben que sí, que uno debe.",
+   "e": "And both know that you do owe."
+  },
+  {
+   "s": "Y que va a devolverlo algún día.",
+   "e": "And that you will give it back some day."
+  },
+  {
+   "s": "Un día don Beto me dice esa frase a mí.",
+   "e": "One day don Beto says that phrase to me."
+  },
+  {
+   "s": "Por algo chiquito que hice por su casa.",
+   "e": "For something small I did for his house."
+  },
+  {
+   "s": "\"No sé cómo pagarle, mijo.\"",
+   "e": "\"I don't know how to repay you, mijo.\""
+  },
+  {
+   "s": "Y yo le contesto lo que hay que contestar.",
+   "e": "And I answer him what you have to answer."
+  },
+  {
+   "s": "\"No hay nada que pagar, don Beto.\"",
+   "e": "\"There's nothing to repay, don Beto.\""
+  },
+  {
+   "s": "Y lo digo sin pensarlo, que es lo importante.",
+   "e": "And I say it without thinking, which is the point."
+  }
+ ]
+}

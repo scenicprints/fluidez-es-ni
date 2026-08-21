@@ -1,0 +1,202 @@
+{
+ "id": "p4-29",
+ "title": "El novenario",
+ "desc": "Nine nights",
+ "ph": 4,
+ "diff": 4,
+ "wu": [],
+ "sn": [
+  {
+   "s": "La abuela muere en febrero, dormida.",
+   "e": "The grandmother dies in February, in her sleep."
+  },
+  {
+   "s": "Tenía noventa y un años.",
+   "e": "She was ninety-one."
+  },
+  {
+   "s": "Doña Carmen me llama a las seis de la mañana.",
+   "e": "Doña Carmen calls me at six in the morning."
+  },
+  {
+   "s": "No llora en el teléfono.",
+   "e": "She does not cry on the phone."
+  },
+  {
+   "s": "Sólo dice que la abuela se nos fue.",
+   "e": "She just says the grandmother has gone from us."
+  },
+  {
+   "s": "Se nos fue, no se murió.",
+   "e": "Se nos fue, not she died."
+  },
+  {
+   "s": "Ese día empieza el velorio.",
+   "e": "That day the wake begins."
+  },
+  {
+   "s": "El velorio es en la casa, no en otro lado.",
+   "e": "The wake is at the house, not anywhere else."
+  },
+  {
+   "s": "Ponen a la abuela en la sala.",
+   "e": "They lay the grandmother out in the front room."
+  },
+  {
+   "s": "Y la casa queda abierta toda la noche.",
+   "e": "And the house stays open all night."
+  },
+  {
+   "s": "Entra quien quiera entrar.",
+   "e": "Whoever wants to come in, comes in."
+  },
+  {
+   "s": "No hay que avisar ni pedir permiso.",
+   "e": "You do not have to tell anybody or ask permission."
+  },
+  {
+   "s": "Yo llego a las nueve de la noche.",
+   "e": "I arrive at nine at night."
+  },
+  {
+   "s": "No sé qué se dice al entrar.",
+   "e": "I do not know what you say on arriving."
+  },
+  {
+   "s": "Lucía me lo dice en la puerta.",
+   "e": "Lucía tells me in the doorway."
+  },
+  {
+   "s": "\"Mi pésame\", se dice.",
+   "e": "\"Mi pésame,\" you say."
+  },
+  {
+   "s": "Nada más que eso.",
+   "e": "Nothing more than that."
+  },
+  {
+   "s": "No se dice que estaba en un mejor lugar.",
+   "e": "You do not say she is in a better place."
+  },
+  {
+   "s": "No se dice que ya no sufre.",
+   "e": "You do not say she is not suffering any more."
+  },
+  {
+   "s": "Se dice mi pésame y se da la mano.",
+   "e": "You say mi pésame and shake hands."
+  },
+  {
+   "s": "Yo lo digo doce veces esa noche.",
+   "e": "I say it twelve times that night."
+  },
+  {
+   "s": "Y a mí me lo dicen otras tantas.",
+   "e": "And it is said to me just as often."
+  },
+  {
+   "s": "Porque yo también soy de la casa.",
+   "e": "Because I am of the house too."
+  },
+  {
+   "s": "Se toma café toda la noche.",
+   "e": "Coffee is drunk all night."
+  },
+  {
+   "s": "Se reparte café en vasos chiquitos.",
+   "e": "Coffee is handed round in small cups."
+  },
+  {
+   "s": "Hay pan y hay sillas prestadas de tres casas.",
+   "e": "There is bread and chairs borrowed from three houses."
+  },
+  {
+   "s": "Nadie duerme.",
+   "e": "Nobody sleeps."
+  },
+  {
+   "s": "A las tres de la mañana hay veinte personas.",
+   "e": "At three in the morning there are twenty people."
+  },
+  {
+   "s": "Se habla en voz baja y se habla de ella.",
+   "e": "They talk quietly and they talk about her."
+  },
+  {
+   "s": "Se cuentan historias de la abuela.",
+   "e": "They tell stories about the grandmother."
+  },
+  {
+   "s": "Historias graciosas, no tristes.",
+   "e": "Funny stories, not sad ones."
+  },
+  {
+   "s": "La gente se ríe en un velorio.",
+   "e": "People laugh at a wake."
+  },
+  {
+   "s": "Eso me sorprende la primera vez.",
+   "e": "That surprises me the first time."
+  },
+  {
+   "s": "Después entiendo que reírse es acompañar.",
+   "e": "Later I understand that laughing is keeping company."
+  },
+  {
+   "s": "Al otro día es el entierro.",
+   "e": "The next day is the burial."
+  },
+  {
+   "s": "Y esa noche empieza el novenario.",
+   "e": "And that night the novenario starts."
+  },
+  {
+   "s": "Nueve noches seguidas de rezo en la casa.",
+   "e": "Nine nights running of prayers in the house."
+  },
+  {
+   "s": "Nueve noches, sin faltar una.",
+   "e": "Nine nights, without missing one."
+  },
+  {
+   "s": "Yo voy las nueve.",
+   "e": "I go to all nine."
+  },
+  {
+   "s": "No rezo, porque no sé rezar.",
+   "e": "I do not pray, because I do not know how."
+  },
+  {
+   "s": "Me quedo de pie atrás y escucho.",
+   "e": "I stand at the back and listen."
+  },
+  {
+   "s": "Roberto me dice que no hace falta rezar.",
+   "e": "Roberto tells me you do not have to pray."
+  },
+  {
+   "s": "\"Hace falta venir\", dice él.",
+   "e": "\"You have to come,\" he says."
+  },
+  {
+   "s": "La novena noche hay más gente que nunca.",
+   "e": "The ninth night there are more people than ever."
+  },
+  {
+   "s": "Se levanta el altar y se reparte comida.",
+   "e": "The altar is taken down and food is handed out."
+  },
+  {
+   "s": "Y ahí se termina, formalmente.",
+   "e": "And there it ends, formally."
+  },
+  {
+   "s": "Nueve noches para que nadie quede solo.",
+   "e": "Nine nights so that nobody is left alone."
+  },
+  {
+   "s": "Y para que la casa vuelva a ser casa.",
+   "e": "And so the house can be a house again."
+  }
+ ]
+}

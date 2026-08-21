@@ -1,6 +1,9 @@
 # Handoff — writing the Fluidez course
 
-**Read this first if you are picking this work up with no prior context.**
+> **If you are a fresh agent, read `NEXT.md` first.** It says what to build
+> next, in order, in one page. This file is the reference behind it.
+
+**Read this if you are picking this work up with no prior context.**
 It is written for a fresh agent. Everything needed to continue is here or is
 reachable from here.
 

@@ -1,0 +1,188 @@
+{
+ "id": "p4-26",
+ "title": "El bautizo",
+ "desc": "You are asked to be a godparent",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "compadre"
+ ],
+ "sn": [
+  {
+   "s": "Marcos me pide que sea padrino de su hijo.",
+   "e": "Marcos asks me to be godfather to his son."
+  },
+  {
+   "s": "Me lo pide en el trabajo, en el almuerzo.",
+   "e": "He asks me at work, at lunch."
+  },
+  {
+   "s": "Me lo pide serio, no de pasada.",
+   "e": "He asks me seriously, not in passing."
+  },
+  {
+   "s": "Yo digo que sí enseguida.",
+   "e": "I say yes straight away."
+  },
+  {
+   "s": "Digo que sí sin saber qué estoy aceptando.",
+   "e": "I say yes without knowing what I am accepting."
+  },
+  {
+   "s": "Esa noche Lucía me explica.",
+   "e": "That night Lucía explains it to me."
+  },
+  {
+   "s": "Ser padrino no es una foto en la iglesia.",
+   "e": "Being a padrino is not a photo in the church."
+  },
+  {
+   "s": "Ser padrino es para toda la vida.",
+   "e": "Being a padrino is for life."
+  },
+  {
+   "s": "Si al papá le pasa algo, el padrino responde.",
+   "e": "If something happens to the father, the padrino answers."
+  },
+  {
+   "s": "Responde con plata si hace falta.",
+   "e": "Answers with money if needed."
+  },
+  {
+   "s": "Responde con casa si hace falta.",
+   "e": "Answers with a house if needed."
+  },
+  {
+   "s": "El padrino paga la escuela si nadie puede.",
+   "e": "The padrino pays for school if nobody else can."
+  },
+  {
+   "s": "Y eso no está escrito en ningún papel.",
+   "e": "And that is not written on any paper."
+  },
+  {
+   "s": "Pero se cumple, y todos lo saben.",
+   "e": "But it is kept, and everybody knows it."
+  },
+  {
+   "s": "Después está lo del compadrazgo.",
+   "e": "Then there is the compadrazgo."
+  },
+  {
+   "s": "Yo no soy sólo padrino del niño.",
+   "e": "I am not only godfather to the child."
+  },
+  {
+   "s": "Marcos y yo nos volvemos compadres.",
+   "e": "Marcos and I become compadres."
+  },
+  {
+   "s": "Compadre es más que amigo.",
+   "e": "Compadre is more than friend."
+  },
+  {
+   "s": "Compadre es una familia que uno escoge.",
+   "e": "Compadre is a family you choose."
+  },
+  {
+   "s": "Desde ese día Marcos me dice compadre.",
+   "e": "From that day Marcos calls me compadre."
+  },
+  {
+   "s": "Ya no me dice por mi nombre.",
+   "e": "He no longer uses my name."
+  },
+  {
+   "s": "\"Compadre, pasame la llave.\"",
+   "e": "\"Compadre, pass me the spanner.\""
+  },
+  {
+   "s": "Su esposa me dice compadre también.",
+   "e": "His wife calls me compadre too."
+  },
+  {
+   "s": "Y Lucía se vuelve comadre de los dos.",
+   "e": "And Lucía becomes comadre to both of them."
+  },
+  {
+   "s": "El bautizo es un domingo en la mañana.",
+   "e": "The baptism is on a Sunday morning."
+  },
+  {
+   "s": "El niño se llama Marcos, como el papá.",
+   "e": "The boy is called Marcos, like his father."
+  },
+  {
+   "s": "Yo lo cargo en la iglesia.",
+   "e": "I hold him in the church."
+  },
+  {
+   "s": "Un niño de cuatro meses, dormido.",
+   "e": "A four-month-old, asleep."
+  },
+  {
+   "s": "Me lo ponen en los brazos y no me muevo.",
+   "e": "They put him in my arms and I do not move."
+  },
+  {
+   "s": "El padre me pregunta si acepto.",
+   "e": "The priest asks me if I accept."
+  },
+  {
+   "s": "Yo digo que sí en voz alta.",
+   "e": "I say yes out loud."
+  },
+  {
+   "s": "Y esa palabra ahí sí es un contrato.",
+   "e": "And that word there is a contract."
+  },
+  {
+   "s": "Después hay fiesta en la casa de Marcos.",
+   "e": "Afterwards there is a party at Marcos's house."
+  },
+  {
+   "s": "Su casa es más chica que la mía.",
+   "e": "His house is smaller than mine."
+  },
+  {
+   "s": "Y hay cuarenta personas adentro.",
+   "e": "And there are forty people inside."
+  },
+  {
+   "s": "Me sientan en la mesa principal.",
+   "e": "They sit me at the main table."
+  },
+  {
+   "s": "El padrino se sienta con la familia.",
+   "e": "The padrino sits with the family."
+  },
+  {
+   "s": "Le sirven primero al padrino, después a los demás.",
+   "e": "They serve the padrino first, then everybody else."
+  },
+  {
+   "s": "Yo no sabía nada de eso tampoco.",
+   "e": "I did not know any of that either."
+  },
+  {
+   "s": "Al final de la tarde Marcos me habla afuera.",
+   "e": "At the end of the afternoon Marcos talks to me outside."
+  },
+  {
+   "s": "\"Le agradezco, compadre\", dice él.",
+   "e": "\"I'm grateful to you, compadre,\" he says."
+  },
+  {
+   "s": "\"Yo no hice nada\", digo yo.",
+   "e": "\"I didn't do anything,\" I say."
+  },
+  {
+   "s": "\"Aceptó\", dice él. \"Eso es todo.\"",
+   "e": "\"You accepted,\" he says. \"That's everything.\""
+  },
+  {
+   "s": "Y en este país eso sí es todo.",
+   "e": "And in this country that really is everything."
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "id": "p4-28",
+ "title": "Se puso malo",
+ "desc": "Somebody is seriously ill",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "cómo"
+ ],
+ "sn": [
+  {
+   "s": "Don Beto se pone malo en octubre.",
+   "e": "Don Beto falls ill in October."
+  },
+  {
+   "s": "Empieza como un catarro cualquiera.",
+   "e": "It starts like any ordinary cold."
+  },
+  {
+   "s": "A la semana no se levanta de la cama.",
+   "e": "A week later he is not getting out of bed."
+  },
+  {
+   "s": "Doña Rosa nos avisa una noche.",
+   "e": "Doña Rosa lets us know one night."
+  },
+  {
+   "s": "No dice que está grave.",
+   "e": "She does not say he is seriously ill."
+  },
+  {
+   "s": "Dice que está delicado.",
+   "e": "She says he is delicate."
+  },
+  {
+   "s": "Delicado es la palabra que se usa.",
+   "e": "Delicado is the word that is used."
+  },
+  {
+   "s": "Nadie dice grave en voz alta.",
+   "e": "Nobody says grave out loud."
+  },
+  {
+   "s": "Decirlo parece llamarlo.",
+   "e": "Saying it seems like calling it."
+  },
+  {
+   "s": "Cuando alguien dice delicado, ya se sabe.",
+   "e": "When somebody says delicado, you know."
+  },
+  {
+   "s": "La casa de don Beto se llena esa semana.",
+   "e": "Don Beto's house fills up that week."
+  },
+  {
+   "s": "Llega gente que yo nunca había visto.",
+   "e": "People come that I had never seen."
+  },
+  {
+   "s": "Primos del campo, un hermano de León.",
+   "e": "Cousins from the countryside, a brother from León."
+  },
+  {
+   "s": "Todos preguntan lo mismo al entrar.",
+   "e": "They all ask the same thing on arriving."
+  },
+  {
+   "s": "\"¿Cómo sigue?\"",
+   "e": "\"How is he doing?\""
+  },
+  {
+   "s": "No preguntan cómo está.",
+   "e": "They do not ask how he is."
+  },
+  {
+   "s": "Preguntan cómo sigue, que es otra cosa.",
+   "e": "They ask how he is doing, which is another thing."
+  },
+  {
+   "s": "Cómo está sería pedir un dato.",
+   "e": "How he is would be asking for a fact."
+  },
+  {
+   "s": "Cómo sigue es preguntar por el camino.",
+   "e": "How he is doing is asking about the road."
+  },
+  {
+   "s": "Doña Rosa contesta siempre igual.",
+   "e": "Doña Rosa always answers the same."
+  },
+  {
+   "s": "\"Ahí va, gracias a Dios.\"",
+   "e": "\"He's going along, thank God.\""
+  },
+  {
+   "s": "Aunque no vaya bien, se dice así.",
+   "e": "Even if it is not going well, that is how it is said."
+  },
+  {
+   "s": "Yo aprendo las frases de estas semanas.",
+   "e": "I learn the phrases of these weeks."
+  },
+  {
+   "s": "\"Que Dios lo tenga en sus manos.\"",
+   "e": "\"May God hold him in his hands.\""
+  },
+  {
+   "s": "\"Todo está en manos de Dios.\"",
+   "e": "\"It is all in God's hands.\""
+  },
+  {
+   "s": "\"Ojalá que se mejore pronto.\"",
+   "e": "\"I hope he gets better soon.\""
+  },
+  {
+   "s": "Yo no soy creyente y las digo igual.",
+   "e": "I am not a believer and I say them anyway."
+  },
+  {
+   "s": "Ya sé que no son de Dios.",
+   "e": "I know they are not about God."
+  },
+  {
+   "s": "Son de la gente que las oye.",
+   "e": "They are for the people who hear them."
+  },
+  {
+   "s": "Voy a la casa cada tarde después del trabajo.",
+   "e": "I go to the house every afternoon after work."
+  },
+  {
+   "s": "Me siento en el patio veinte minutos.",
+   "e": "I sit in the patio for twenty minutes."
+  },
+  {
+   "s": "A veces don Beto está dormido y no lo veo.",
+   "e": "Sometimes don Beto is asleep and I do not see him."
+  },
+  {
+   "s": "Voy igual.",
+   "e": "I go anyway."
+  },
+  {
+   "s": "Un día doña Rosa me lo dice.",
+   "e": "One day doña Rosa says it to me."
+  },
+  {
+   "s": "\"Él pregunta si vino usted.\"",
+   "e": "\"He asks if you came.\""
+  },
+  {
+   "s": "Y por eso se va, aunque esté dormido.",
+   "e": "And that is why you go, even if he is asleep."
+  },
+  {
+   "s": "En noviembre empieza a levantarse.",
+   "e": "In November he starts getting up."
+  },
+  {
+   "s": "Primero un rato, después toda la tarde.",
+   "e": "First for a while, then all afternoon."
+  },
+  {
+   "s": "En diciembre saca la silla a la calle otra vez.",
+   "e": "In December he takes his chair out to the street again."
+  },
+  {
+   "s": "Toda la calle lo ve salir con la silla.",
+   "e": "The whole street sees him come out with the chair."
+  },
+  {
+   "s": "Y nadie le dice nada especial.",
+   "e": "And nobody says anything special to him."
+  },
+  {
+   "s": "Le dicen buenas, como siempre.",
+   "e": "They say buenas, like always."
+  },
+  {
+   "s": "Pero esa tarde pasa más gente que de costumbre.",
+   "e": "But that afternoon more people go past than usual."
+  },
+  {
+   "s": "Mucha más gente.",
+   "e": "A lot more people."
+  },
+  {
+   "s": "Y todos justo por esa cuadra.",
+   "e": "And all of them along that very block."
+  }
+ ]
+}

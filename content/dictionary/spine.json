@@ -156,6 +156,15 @@
   "g": "m",
   "pos": "n"
  },
+ "afueras": {
+  "en": "outskirts",
+  "g": "f",
+  "pos": "n"
+ },
+ "agacharse": {
+  "en": "to bend down",
+  "pos": "v"
+ },
  "agarrarse": {
   "en": "to hold on",
   "pos": "v"
@@ -324,6 +333,10 @@
   "g": "f",
   "note": "Run from Guatemala hand to hand, arriving for the fifteenth",
   "pos": "n"
+ },
+ "anunciar": {
+  "en": "to announce",
+  "pos": "v"
  },
  "apagar": {
   "en": "to turn off/to put out",
@@ -577,6 +590,11 @@
   "en": "to baptise",
   "pos": "v"
  },
+ "bautizo": {
+  "en": "baptism",
+  "g": "m",
+  "pos": "n"
+ },
  "bañarse": {
   "en": "to bathe/to wash yourself",
   "pos": "v"
@@ -624,6 +642,11 @@
  "blanco": {
   "en": "white",
   "pos": "adj"
+ },
+ "bloque": {
+  "en": "breeze block",
+  "g": "m",
+  "pos": "n"
  },
  "boca": {
   "en": "mouth",
@@ -762,6 +785,11 @@
  },
  "calcetín": {
   "en": "sock",
+  "g": "m",
+  "pos": "n"
+ },
+ "caldo": {
+  "en": "broth",
   "g": "m",
   "pos": "n"
  },
@@ -921,6 +949,11 @@
   "g": "f",
   "pos": "n"
  },
+ "catarro": {
+  "en": "cold",
+  "g": "m",
+  "pos": "n"
+ },
  "catedral": {
   "en": "cathedral",
   "g": "f",
@@ -952,6 +985,10 @@
   "en": "to celebrate",
   "pos": "v"
  },
+ "celeste": {
+  "en": "light blue",
+  "pos": "adj"
+ },
  "celos": {
   "en": "jealousy",
   "g": "m",
@@ -964,6 +1001,11 @@
  },
  "celular": {
   "en": "mobile phone",
+  "g": "m",
+  "pos": "n"
+ },
+ "cementerio": {
+  "en": "cemetery",
   "g": "m",
   "pos": "n"
  },
@@ -1158,6 +1200,11 @@
   "g": "m",
   "pos": "n"
  },
+ "comadre": {
+  "en": "co-godmother",
+  "g": "f",
+  "pos": "n"
+ },
  "comedor": {
   "en": "cheap eating house",
   "g": "m",
@@ -1166,6 +1213,16 @@
  },
  "cometer": {
   "en": "to commit/to make",
+  "pos": "v"
+ },
+ "compadre": {
+  "en": "co-godparent",
+  "g": "m",
+  "note": "A family you choose. More than a friend, and it does not end",
+  "pos": "n"
+ },
+ "compartir": {
+  "en": "to share",
   "pos": "v"
  },
  "compañero": {
@@ -1333,9 +1390,13 @@
   "pos": "v"
  },
  "costumbre": {
-  "en": "habit/custom",
+  "en": "custom/habit",
   "g": "f",
   "pos": "n"
+ },
+ "crecer": {
+  "en": "to grow",
+  "pos": "v"
  },
  "crema": {
   "en": "cream",
@@ -1369,6 +1430,12 @@
  "cuajada": {
   "en": "fresh salty cheese",
   "g": "f",
+  "pos": "n"
+ },
+ "cuarentena": {
+  "en": "the forty days after a birth",
+  "g": "f",
+  "note": "She does nothing. Her mother moves in",
   "pos": "n"
  },
  "cuarto": {
@@ -1433,6 +1500,11 @@
  "cumplir": {
   "en": "to deliver/to keep a promise",
   "pos": "v"
+ },
+ "cuna": {
+  "en": "cot",
+  "g": "f",
+  "pos": "n"
  },
  "curar": {
   "en": "to cure",
@@ -1514,6 +1586,11 @@
  "delatar": {
   "en": "to give away",
   "pos": "v"
+ },
+ "delicado": {
+  "en": "delicate/gravely ill",
+  "note": "Nobody says grave out loud. Saying it seems like calling it",
+  "pos": "adj"
  },
  "denunciar": {
   "en": "to report",
@@ -1629,6 +1706,11 @@
  "diferencia": {
   "en": "difference",
   "g": "f",
+  "pos": "n"
+ },
+ "difunto": {
+  "en": "the deceased",
+  "g": "m",
   "pos": "n"
  },
  "difícil": {
@@ -1776,6 +1858,10 @@
   "en": "to choose",
   "pos": "v"
  },
+ "embarazada": {
+  "en": "pregnant",
+  "pos": "adj"
+ },
  "emergencia": {
   "en": "emergency",
   "g": "f",
@@ -1783,6 +1869,10 @@
  },
  "emocionarse": {
   "en": "to get emotional",
+  "pos": "v"
+ },
+ "empeorar": {
+  "en": "to get worse",
   "pos": "v"
  },
  "empezar": {
@@ -1860,6 +1950,11 @@
  "enterrar": {
   "en": "to bury",
   "pos": "v"
+ },
+ "entierro": {
+  "en": "burial",
+  "g": "m",
+  "pos": "n"
  },
  "entrar": {
   "en": "to go in/to come in",
@@ -2035,6 +2130,10 @@
  "fallar": {
   "en": "to let somebody down",
   "pos": "v"
+ },
+ "falso": {
+  "en": "false",
+  "pos": "adj"
  },
  "faltar": {
   "en": "to be missing/to be left",
@@ -2478,6 +2577,11 @@
   "en": "to imagine",
   "pos": "v"
  },
+ "importancia": {
+  "en": "importance",
+  "g": "f",
+  "pos": "n"
+ },
  "increíble": {
   "en": "unbelievable",
   "pos": "adj"
@@ -2498,6 +2602,11 @@
  "indirecta": {
   "en": "hint",
   "g": "f",
+  "pos": "n"
+ },
+ "infarto": {
+  "en": "heart attack",
+  "g": "m",
   "pos": "n"
  },
  "inglés": {
@@ -2570,6 +2679,11 @@
   "g": "m",
   "pos": "n"
  },
+ "jardín": {
+  "en": "garden",
+  "g": "m",
+  "pos": "n"
+ },
  "jefe": {
   "en": "boss",
   "g": "m",
@@ -2601,6 +2715,10 @@
  },
  "juntar": {
   "en": "to collect/to gather",
+  "pos": "v"
+ },
+ "juntarse": {
+  "en": "to join back up",
   "pos": "v"
  },
  "justo": {
@@ -2744,6 +2862,11 @@
   "g": "m",
   "pos": "n"
  },
+ "luna": {
+  "en": "moon",
+  "g": "f",
+  "pos": "n"
+ },
  "lunes": {
   "en": "Monday",
   "g": "m",
@@ -2772,6 +2895,11 @@
  },
  "madre": {
   "en": "mother",
+  "g": "f",
+  "pos": "n"
+ },
+ "madrugada": {
+  "en": "the small hours",
   "g": "f",
   "pos": "n"
  },
@@ -2897,6 +3025,10 @@
   "en": "cheek",
   "g": "f",
   "pos": "n"
+ },
+ "mejorar": {
+  "en": "to get better",
+  "pos": "v"
  },
  "mejorarse": {
   "en": "to get better",
@@ -3080,6 +3212,17 @@
   "g": "m",
   "pos": "n"
  },
+ "muerte": {
+  "en": "death",
+  "g": "f",
+  "pos": "n"
+ },
+ "mujer": {
+  "en": "woman/wife",
+  "g": "f",
+  "note": "'Mi mujer' is the ordinary word here and carries none of the English weight",
+  "pos": "n"
+ },
  "mundo": {
   "en": "world",
   "g": "m",
@@ -3192,6 +3335,11 @@
  "noticia": {
   "en": "news",
   "g": "f",
+  "pos": "n"
+ },
+ "novenario": {
+  "en": "nine nights of prayers",
+  "g": "m",
   "pos": "n"
  },
  "novia": {
@@ -3391,6 +3539,10 @@
   "en": "to stop",
   "pos": "v"
  },
+ "parecerse": {
+  "en": "to look like",
+  "pos": "v"
+ },
  "pared": {
   "en": "wall",
   "g": "f",
@@ -3415,6 +3567,10 @@
   "en": "part",
   "g": "f",
   "pos": "n"
+ },
+ "partido": {
+  "en": "split",
+  "pos": "adj"
  },
  "pasaje": {
   "en": "fare",
@@ -3630,6 +3786,11 @@
   "g": "f",
   "pos": "n"
  },
+ "piso": {
+  "en": "floor/storey",
+  "g": "m",
+  "pos": "n"
+ },
  "plan": {
   "en": "plan",
   "g": "m",
@@ -3667,6 +3828,11 @@
  "pobre": {
   "en": "poor",
   "pos": "adj"
+ },
+ "pobreza": {
+  "en": "poverty",
+  "g": "f",
+  "pos": "n"
  },
  "poeta": {
   "en": "poet",
@@ -3740,6 +3906,10 @@
   "g": "m",
   "pos": "n"
  },
+ "principal": {
+  "en": "main",
+  "pos": "adj"
+ },
  "prisa": {
   "en": "hurry",
   "g": "f",
@@ -3767,6 +3937,11 @@
  "pronto": {
   "en": "soon",
   "pos": "adv"
+ },
+ "propiedad": {
+  "en": "property",
+  "g": "f",
+  "pos": "n"
  },
  "propio": {
   "en": "own",
@@ -3816,6 +3991,12 @@
  "puntual": {
   "en": "punctual",
   "pos": "adj"
+ },
+ "pésame": {
+  "en": "condolences",
+  "g": "m",
+  "note": "'Mi pésame' and a handshake. Not that she is in a better place",
+  "pos": "n"
  },
  "público": {
   "en": "public",
@@ -4065,6 +4246,11 @@
   "en": "to answer",
   "pos": "v"
  },
+ "responsabilidad": {
+  "en": "responsibility",
+  "g": "f",
+  "pos": "n"
+ },
  "respuesta": {
   "en": "answer",
   "g": "f",
@@ -4090,6 +4276,11 @@
  "rezar": {
   "en": "to pray",
   "pos": "v"
+ },
+ "rezo": {
+  "en": "prayer",
+  "g": "m",
+  "pos": "n"
  },
  "risa": {
   "en": "laughter",
@@ -4125,6 +4316,10 @@
   "g": "f",
   "pos": "n"
  },
+ "rosado": {
+  "en": "pink",
+  "pos": "adj"
+ },
  "rosquilla": {
   "en": "baked maize ring",
   "g": "f",
@@ -4148,6 +4343,11 @@
   "en": "city bus",
   "g": "f",
   "note": "Managua buses are rutas, by number. Never 'camión'",
+  "pos": "n"
+ },
+ "rutina": {
+  "en": "routine",
+  "g": "f",
   "pos": "n"
  },
  "río": {
@@ -4530,6 +4730,10 @@
   "g": "m",
   "pos": "n"
  },
+ "temer": {
+  "en": "to fear",
+  "pos": "v"
+ },
  "tenedor": {
   "en": "fork",
   "g": "m",
@@ -4592,7 +4796,8 @@
   "pos": "n"
  },
  "tocar": {
-  "en": "to play/to touch/to knock",
+  "en": "to be somebody's turn",
+  "note": "'Me toca' - it is my turn. Being whose turn it is means you are inside",
   "pos": "v"
  },
  "tomate": {
@@ -4686,6 +4891,11 @@
   "g": "m",
   "pos": "n"
  },
+ "tumba": {
+  "en": "grave",
+  "g": "f",
+  "pos": "n"
+ },
  "turista": {
   "en": "tourist",
   "g": "m",
@@ -4754,6 +4964,12 @@
  "valor": {
   "en": "courage/value",
   "g": "m",
+  "pos": "n"
+ },
+ "varilla": {
+  "en": "rebar",
+  "g": "f",
+  "note": "Left standing out of the roof on purpose. It means there will be a second floor one day",
   "pos": "n"
  },
  "vaso": {

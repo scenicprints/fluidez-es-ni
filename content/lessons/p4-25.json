@@ -1,0 +1,201 @@
+{
+ "id": "p4-25",
+ "title": "La casa poco a poco",
+ "desc": "Building something slowly",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "cuarto",
+  "varilla"
+ ],
+ "sn": [
+  {
+   "s": "Compramos un terreno chiquito en las afueras.",
+   "e": "We buy a small plot on the edge of town."
+  },
+  {
+   "s": "No tenemos plata para hacer una casa.",
+   "e": "We do not have money to build a house."
+  },
+  {
+   "s": "Nadie aquí tiene plata para hacer una casa.",
+   "e": "Nobody here has money to build a house."
+  },
+  {
+   "s": "Y aun así todo el mundo tiene casa.",
+   "e": "And even so everybody has a house."
+  },
+  {
+   "s": "La respuesta es que se hace por pedazos.",
+   "e": "The answer is that it gets done in pieces."
+  },
+  {
+   "s": "Primero se levanta un cuarto.",
+   "e": "First you put up one room."
+  },
+  {
+   "s": "Un cuarto con techo y con puerta.",
+   "e": "One room with a roof and a door."
+  },
+  {
+   "s": "Ahí se vive mientras se hace lo demás.",
+   "e": "You live in that while the rest gets done."
+  },
+  {
+   "s": "Y lo demás puede tardar diez años.",
+   "e": "And the rest can take ten years."
+  },
+  {
+   "s": "Julio nos ayuda con los bloques.",
+   "e": "Julio helps us with the blocks."
+  },
+  {
+   "s": "Chino consigue arena de un conocido.",
+   "e": "Chino gets sand from somebody he knows."
+  },
+  {
+   "s": "Don Beto viene a enseñarme a mezclar.",
+   "e": "Don Beto comes to teach me to mix."
+  },
+  {
+   "s": "Nadie cobra por venir a ayudar.",
+   "e": "Nobody charges for coming to help."
+  },
+  {
+   "s": "Se les da comida y cerveza y ya.",
+   "e": "You give them food and beer and that is it."
+  },
+  {
+   "s": "Levantamos el primer cuarto en tres meses.",
+   "e": "We put up the first room in three months."
+  },
+  {
+   "s": "Trabajamos los domingos, después de la iglesia.",
+   "e": "We work on Sundays, after church."
+  },
+  {
+   "s": "Un domingo somos cuatro.",
+   "e": "One Sunday there are four of us."
+  },
+  {
+   "s": "Otro domingo somos nueve.",
+   "e": "Another Sunday there are nine."
+  },
+  {
+   "s": "Depende de quién esté libre.",
+   "e": "It depends on who is free."
+  },
+  {
+   "s": "Cuando terminamos el techo, hay que dejar varillas.",
+   "e": "When we finish the roof, we have to leave rebar sticking up."
+  },
+  {
+   "s": "Varillas paradas, apuntando al cielo.",
+   "e": "Rebar standing, pointing at the sky."
+  },
+  {
+   "s": "Yo pregunto por qué no se cortan.",
+   "e": "I ask why it does not get cut off."
+  },
+  {
+   "s": "\"Para el segundo piso\", dice Julio.",
+   "e": "\"For the second floor,\" Julio says."
+  },
+  {
+   "s": "\"¿Vamos a hacer un segundo piso?\", pregunto yo.",
+   "e": "\"Are we going to build a second floor?\" I ask."
+  },
+  {
+   "s": "\"Algún día\", dice él.",
+   "e": "\"Some day,\" he says."
+  },
+  {
+   "s": "Y ahí entiendo todos los techos del país.",
+   "e": "And there I understand every roof in the country."
+  },
+  {
+   "s": "Yo veía varillas paradas en todas partes.",
+   "e": "I used to see rebar standing up everywhere."
+  },
+  {
+   "s": "Pensaba que eran casas sin terminar.",
+   "e": "I thought they were unfinished houses."
+  },
+  {
+   "s": "Pensaba que era pobreza o descuido.",
+   "e": "I thought it was poverty or carelessness."
+  },
+  {
+   "s": "No es eso.",
+   "e": "It is not that."
+  },
+  {
+   "s": "Las varillas son un plan.",
+   "e": "The rebar is a plan."
+  },
+  {
+   "s": "Las varillas dicen que va a haber más.",
+   "e": "The rebar says there is going to be more."
+  },
+  {
+   "s": "Una casa aquí no se termina nunca.",
+   "e": "A house here is never finished."
+  },
+  {
+   "s": "Una casa aquí crece cuando hay plata.",
+   "e": "A house here grows when there is money."
+  },
+  {
+   "s": "Se para cuando no hay y se sigue después.",
+   "e": "It stops when there is not and carries on later."
+  },
+  {
+   "s": "Nos mudamos con un cuarto y nada más.",
+   "e": "We move in with one room and nothing else."
+  },
+  {
+   "s": "Cocinamos afuera los primeros meses.",
+   "e": "We cook outside for the first few months."
+  },
+  {
+   "s": "El baño lo hacemos al año siguiente.",
+   "e": "We build the bathroom the next year."
+  },
+  {
+   "s": "El segundo cuarto tarda dos años más.",
+   "e": "The second room takes another two years."
+  },
+  {
+   "s": "Doña Elena nos regala una pila.",
+   "e": "Doña Elena gives us a pila."
+  },
+  {
+   "s": "Doña Carmen nos regala dos sillas y una olla.",
+   "e": "Doña Carmen gives us two chairs and a pot."
+  },
+  {
+   "s": "Todo lo que tenemos vino de alguien.",
+   "e": "Everything we have came from somebody."
+  },
+  {
+   "s": "Un domingo estoy sentado afuera del cuarto.",
+   "e": "One Sunday I am sitting outside the room."
+  },
+  {
+   "s": "Miro las varillas apuntando arriba.",
+   "e": "I look at the rebar pointing up."
+  },
+  {
+   "s": "Y ya no me parecen una casa a medias.",
+   "e": "And they no longer look to me like a half house."
+  },
+  {
+   "s": "Me parecen una promesa que se está cumpliendo.",
+   "e": "They look like a promise being kept."
+  },
+  {
+   "s": "Poco a poco, que es como se hace todo aquí.",
+   "e": "Poco a poco, which is how everything is done here."
+  }
+ ]
+}

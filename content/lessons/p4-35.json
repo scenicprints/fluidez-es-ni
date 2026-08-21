@@ -1,0 +1,196 @@
+{
+ "id": "p4-35",
+ "title": "Ya sos parte",
+ "desc": "Belonging to a family, not a country",
+ "ph": 4,
+ "diff": 4,
+ "wu": [
+  "cuenta"
+ ],
+ "sn": [
+  {
+   "s": "Una noche pasa algo que me cambia el año.",
+   "e": "One night something happens that changes my year."
+  },
+  {
+   "s": "Es un martes cualquiera, sin nada especial.",
+   "e": "It is any old Tuesday, with nothing special."
+  },
+  {
+   "s": "Doña Elena llama a la casa a las nueve.",
+   "e": "Doña Elena calls the house at nine."
+  },
+  {
+   "s": "Yo contesto porque Lucía está bañando al niño.",
+   "e": "I answer because Lucía is bathing the baby."
+  },
+  {
+   "s": "Ella no pregunta por Lucía.",
+   "e": "She does not ask for Lucía."
+  },
+  {
+   "s": "Ella me habla a mí, directo.",
+   "e": "She talks to me, directly."
+  },
+  {
+   "s": "Tiene un problema con un papel del banco.",
+   "e": "She has a problem with a bank document."
+  },
+  {
+   "s": "Un trámite que no entiende.",
+   "e": "A piece of paperwork she does not understand."
+  },
+  {
+   "s": "Me pregunta si puedo acompañarla el jueves.",
+   "e": "She asks if I can go with her on Thursday."
+  },
+  {
+   "s": "No le pidió a Julio, que es el mayor.",
+   "e": "She did not ask Julio, who is the eldest."
+  },
+  {
+   "s": "No le pidió a Chino.",
+   "e": "She did not ask Chino."
+  },
+  {
+   "s": "Me pidió a mí, que soy el de afuera.",
+   "e": "She asked me, the one from outside."
+  },
+  {
+   "s": "Yo digo que sí y colgamos.",
+   "e": "I say yes and we hang up."
+  },
+  {
+   "s": "Y después me quedo con el teléfono en la mano.",
+   "e": "And then I stand there with the phone in my hand."
+  },
+  {
+   "s": "Igual que hace años, pero por lo contrario.",
+   "e": "Just like years ago, but for the opposite reason."
+  },
+  {
+   "s": "El jueves vamos al banco los dos.",
+   "e": "On Thursday the two of us go to the bank."
+  },
+  {
+   "s": "Hacemos fila dos horas, como siempre.",
+   "e": "We queue for two hours, as always."
+  },
+  {
+   "s": "Ella me habla de cosas de la familia.",
+   "e": "She talks to me about family things."
+  },
+  {
+   "s": "Me cuenta cosas que yo no sabía.",
+   "e": "She tells me things I did not know."
+  },
+  {
+   "s": "Me cuenta de cuando Lucía era chiquita.",
+   "e": "She tells me about when Lucía was small."
+  },
+  {
+   "s": "Me cuenta de la muerte de su marido.",
+   "e": "She tells me about her husband's death."
+  },
+  {
+   "s": "Me lo cuenta entero, por primera vez.",
+   "e": "She tells me all of it, for the first time."
+  },
+  {
+   "s": "Yo escucho y no digo casi nada.",
+   "e": "I listen and say almost nothing."
+  },
+  {
+   "s": "Ya sé lo que hay que hacer con eso.",
+   "e": "I know what to do with that now."
+  },
+  {
+   "s": "Arreglamos el papel en veinte minutos.",
+   "e": "We sort out the document in twenty minutes."
+  },
+  {
+   "s": "Después ella me invita a comer algo.",
+   "e": "Afterwards she invites me to eat something."
+  },
+  {
+   "s": "Comemos en un comedor cerca del banco.",
+   "e": "We eat in a comedor near the bank."
+  },
+  {
+   "s": "Ella pide por los dos, sin preguntarme.",
+   "e": "She orders for both of us, without asking me."
+  },
+  {
+   "s": "Y ahí me doy cuenta del día entero.",
+   "e": "And there I realise about the whole day."
+  },
+  {
+   "s": "Ella no me pidió ayuda porque no había otro.",
+   "e": "She did not ask me for help because there was nobody else."
+  },
+  {
+   "s": "Julio estaba libre ese jueves.",
+   "e": "Julio was free that Thursday."
+  },
+  {
+   "s": "Me pidió a mí porque le tocaba a alguien.",
+   "e": "She asked me because it was somebody's turn."
+  },
+  {
+   "s": "Y esta vez me tocaba a mí.",
+   "e": "And this time it was mine."
+  },
+  {
+   "s": "Eso no se anuncia y no se agradece.",
+   "e": "That is not announced and it is not thanked."
+  },
+  {
+   "s": "Simplemente le toca a uno.",
+   "e": "It is simply your turn."
+  },
+  {
+   "s": "Y cuando le toca a uno, ya está adentro.",
+   "e": "And when it is your turn, you are already inside."
+  },
+  {
+   "s": "En la tarde le cuento a Lucía.",
+   "e": "In the afternoon I tell Lucía."
+  },
+  {
+   "s": "Le cuento lo del banco y lo del comedor.",
+   "e": "I tell her about the bank and the comedor."
+  },
+  {
+   "s": "Ella no le da ninguna importancia.",
+   "e": "She does not think it is anything at all."
+  },
+  {
+   "s": "\"Es tu suegra\", dice ella.",
+   "e": "\"She's your mother-in-law,\" she says."
+  },
+  {
+   "s": "Como si eso lo explicara todo.",
+   "e": "As if that explained everything."
+  },
+  {
+   "s": "Y lo explica todo.",
+   "e": "And it does explain everything."
+  },
+  {
+   "s": "Esa noche pienso en cuánto tiempo llevo aquí.",
+   "e": "That night I think about how long I have been here."
+  },
+  {
+   "s": "Y en que ya no lo cuento en meses.",
+   "e": "And that I do not count it in months any more."
+  },
+  {
+   "s": "Ni en años tampoco.",
+   "e": "Nor in years either."
+  },
+  {
+   "s": "Lo cuento en gente.",
+   "e": "I count it in people."
+  }
+ ]
+}
