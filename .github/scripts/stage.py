@@ -217,6 +217,34 @@ def main():
                 "pattern %s needs %d triggers and only %d can ever be earned"
                 % (pid, need, len(earnable)))
 
+    # Momo is gated the same way patterns are, and had the same bug: sixteen of
+    # his fifty-nine lines triggered on an inflected form (vamos, sos, hacés)
+    # or on a word the course never uses (tranqui, platicar, ánimo), so they
+    # could never fire. build-pack.py checks only that `min` is not larger than
+    # the trigger list, which none of those failed.
+    momo_problems = []
+    momo_path = os.path.join(content, "momo.json")
+    momo = []
+    if os.path.exists(momo_path):
+        doc = read(momo_path)
+        momo = doc if isinstance(doc, list) else (doc.get("lines") or [])
+    momo_dead_weight = 0
+    for ln in momo:
+        lid = ln.get("id") or "?"
+        trig = ln.get("trigger") or []
+        ok = [t for t in trig if t in dictionary and t in earned]
+        # A trigger nobody can earn is only a PROBLEM when it takes the line
+        # below its `min`. w-ideay lists both ideay and diay with min 1: diay
+        # is never used in the course, and the line fires perfectly well on
+        # ideay. That is dead weight, not breakage, so it is counted and not
+        # shouted about.
+        momo_dead_weight += len(trig) - len(ok)
+        if ln.get("min", 1 if trig else 0) > len(ok):
+            momo_problems.append(
+                "momo %s can never fire: needs %d trigger(s), only %d earnable"
+                " (%s)" % (lid, ln.get("min", 1), len(ok),
+                           ", ".join(repr(t) for t in trig if t not in ok)))
+
     by_phase = {}
     for sc in scenes:
         by_phase[sc.get("ph")] = by_phase.get(sc.get("ph"), 0) + 1
@@ -231,6 +259,11 @@ def main():
     print("patterns   %d written (%d published)"
           % (len(patterns), sum(1 for x in patterns if x.get("id") in core_ids)))
     for p_ in pattern_problems[:25]:
+        print("PROBLEM: %s" % p_)
+    print("momo       %d lines, %d gated on vocabulary, %d unearnable trigger(s)"
+          % (len(momo), sum(1 for x in momo if x.get("trigger")),
+             momo_dead_weight))
+    for p_ in momo_problems[:25]:
         print("PROBLEM: %s" % p_)
     for p in problems[:25]:
         print("PROBLEM: %s" % p)
@@ -271,7 +304,7 @@ def main():
               "(plan/needs-entry.txt)" % len(missing))
 
     return (len(off) + len(problems) + len(stray) + len(scene_problems)
-            + len(pattern_problems))
+            + len(pattern_problems) + len(momo_problems))
 
 
 if __name__ == "__main__":

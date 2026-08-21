@@ -285,8 +285,14 @@ Three independent update lanes, all working:
       `python .github/scripts/verbs_build.py`. The voseo imperative is stored
       per verb but kept out of `tenses`, because a one-form tense would break
       `startVerbs()` — drilling it needs an app-repo change.
-- [ ] **Momo lines** — 59 exist, gated on vocabulary. He must never speak
-      English; a pack with no earned line gets a bird who reacts silently.
+- [x] **Momo lines** — 59, and **16 of them could never fire**. Same bug as
+      the patterns: triggers on inflected forms (`vamos`, `sos`, `hacés`) or on
+      words the course never uses (`tranqui`, `platicar`, `ánimo`).
+      `build-pack.py` only checks `min <= len(trigger)`, so none of it showed.
+      Two lines were reworded and are flagged in NEXT.md: *Vamos a platicar* →
+      *Vamos a conversar* (platicar is Mexican and on dialect.py's own ban
+      list), and *¡Ánimo!* → *¡Seguí!* (nothing teaches ánimo, so that line was
+      unreachable by construction). `stage.py` checks this now.
 - [ ] **Audio** — there is **no Nicaraguan TTS voice on any platform**. The
       pack declares `es-MX`, which is the accent Kevin explicitly does not
       want. Unresolved; his call between labelling it, dropping audio, or
