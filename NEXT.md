@@ -238,6 +238,8 @@ are not**, because the manifest already lists them, and CI rebuilds
 - **`content/dictionary/*.json`** — every entry added while writing the course
   is live now. That is fine and was always the design: more words become
   tappable, no lesson changes.
+- **`content/momo.json`** — the mascot. The sixteen dead lines are live-fixed,
+  including the two rewordings.
 - **`content/verbs.json`** — the Verb Trainer. The rebuild is live: the
   `cerro`/`perdo` fix, and the three new tenses. Of the 123 drill verbs, 20 are
   not reachable from the 81 lessons he is actually reading, so he will
@@ -248,6 +250,49 @@ are not**, because the manifest already lists them, and CI rebuilds
 
 Nothing else does. Lessons, scenes and `patterns/spine.json` are all sitting on
 disk unlisted.
+
+## What is still open
+
+Publishing is the big one, but it is not the only one. In rough order of how
+much they cost the learner:
+
+1. **924 words on the page have no dictionary entry at all** — 6.6% of the
+   reader. Not tappable, no exposure, no strength colour. `stage.py` lists them
+   in `content/plan/needs-entry.txt` every run. Most are clitic-attached
+   infinitives (`acompañarla`, `arreglarlo`) that `forms.py` cannot generate,
+   and the rest are genuinely missing lemmas. Two separate fixes: teach
+   `forms.py` to strip `-lo -la -le -me -te -se -nos -los -las -les` from an
+   infinitive, and add the lemmas that are actually missing.
+
+2. **16 reflexive/plain dictionary pairs cost 485 tokens their tappability.**
+   `quedar`/`quedarse`, `callar`/`callarse`, `perder`/`perderse`,
+   `sentir`/`sentirse` and twelve more. `forms.py` drops any inflection two
+   lemmas could both produce, so `queda`, `parece`, `siente`, `acaba` and
+   `levanta` are dead on the page — and these are among the commonest verbs in
+   the language. `forms.py` already computes a `counts` dict to settle exactly
+   this and then never uses it, which looks like a fix somebody started.
+   **Never add a lemma whose ±`se` twin is already an entry** or you make it
+   worse.
+
+3. **62 dictionary entries are conjugated forms, not infinitives** — `llega`,
+   `entiendo`, `pasa`, `era`, `fue`, `gusta`. HANDOFF says these should not
+   exist and 164 have already been merged away; these are what is left.
+   Tapping `llega` shows "arrives" instead of opening `llegar`, and the memory
+   model treats them as separate words. `reconcile.py` keeps them off warm-up
+   cards via `NOT_A_LEMMA`, which is a plaster, not the fix. Careful: the vos
+   imperatives the course genuinely teaches as words — `andá`, `mirá`, `vení`,
+   `sentate`, `fijate`, `decime` — are NOT in this class and must stay.
+
+4. **Audio is declared `es-MX`** in the manifest, which is the accent Kevin
+   explicitly does not want. There is no Nicaraguan TTS voice on any platform.
+   His call between labelling it honestly, dropping audio, or recording a real
+   Nicaraguan speaker for the scenes. Unchanged since before the rewrite.
+
+5. **The voseo imperative is not drillable** — an app-repo change, see the
+   Verbs section.
+
+None of these block publishing. All of them are worth more than another
+hundred sentences of course.
 
 ## Publishing — DO NOT DO THIS YET
 
