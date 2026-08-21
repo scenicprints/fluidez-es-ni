@@ -1,0 +1,276 @@
+{
+ "id": "p6-20",
+ "title": "Me suena raro",
+ "desc": "Hearing a mistake before you can explain it",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "regla"
+ ],
+ "sn": [
+  {
+   "s": "En el taller entra un muchacho nuevo que estudió español afuera.",
+   "e": "A new boy starts at the workshop who studied Spanish abroad."
+  },
+  {
+   "s": "Es de Alemania y lleva tres meses en el país.",
+   "e": "He is from Germany and has been in the country three months."
+  },
+  {
+   "s": "Habla muy correcto y todo el mundo le entiende.",
+   "e": "He speaks very correctly and everybody understands him."
+  },
+  {
+   "s": "Pero hay algo en cómo habla que suena raro.",
+   "e": "But there is something in how he talks that sounds strange."
+  },
+  {
+   "s": "No es el acento, el acento no molesta a nadie.",
+   "e": "It is not the accent, the accent bothers nobody."
+  },
+  {
+   "s": "Es otra cosa que yo oigo y no sé nombrar.",
+   "e": "It is something else that I hear and cannot name."
+  },
+  {
+   "s": "Un jueves dice una frase y yo lo corrijo sin pensar.",
+   "e": "One Thursday he says a sentence and I correct him without thinking."
+  },
+  {
+   "s": "Le digo que eso no se dice así.",
+   "e": "I tell him you do not say that that way."
+  },
+  {
+   "s": "Él me pregunta por qué no, cuál es la regla.",
+   "e": "He asks me why not, what the rule is."
+  },
+  {
+   "s": "Y yo me quedo con la boca abierta sin contestar.",
+   "e": "And I am left with my mouth open without answering."
+  },
+  {
+   "s": "No sé la regla, no sé si hay una regla.",
+   "e": "I do not know the rule, I do not know if there is a rule."
+  },
+  {
+   "s": "Solo sé que eso suena raro y que nadie lo dice.",
+   "e": "I only know that it sounds strange and that nobody says it."
+  },
+  {
+   "s": "Él insiste, porque él estudió con libro y quiere la regla.",
+   "e": "He insists, because he studied with a book and wants the rule."
+  },
+  {
+   "s": "Yo le digo lo único que puedo decirle.",
+   "e": "I tell him the only thing I can tell him."
+  },
+  {
+   "s": "Le digo que no se dice, y que me suena mal.",
+   "e": "I tell him it is not said, and that it sounds wrong to me."
+  },
+  {
+   "s": "Él se va sin creerme del todo, y hace bien.",
+   "e": "He goes away not entirely believing me, and he is right not to."
+  },
+  {
+   "s": "Esa noche le cuento a Lucía y le pregunto la regla.",
+   "e": "That night I tell Lucía and I ask her the rule."
+  },
+  {
+   "s": "Ella me repite la frase mal y hace una mueca.",
+   "e": "She repeats the wrong sentence back and pulls a face."
+  },
+  {
+   "s": "Me dice que suena horrible y no me da ninguna regla.",
+   "e": "She tells me it sounds horrible and gives me no rule."
+  },
+  {
+   "s": "Le pregunto por qué suena horrible y me dice que porque sí.",
+   "e": "I ask her why it sounds horrible and she tells me because it does."
+  },
+  {
+   "s": "Una nicaragüense de treinta y un años, sin regla.",
+   "e": "A thirty-one-year-old Nicaraguan, with no rule."
+  },
+  {
+   "s": "Y una nicaragüense que sabe perfectamente que está mal.",
+   "e": "And a Nicaraguan who knows perfectly well that it is wrong."
+  },
+  {
+   "s": "Ahí entiendo lo que me acaba de pasar a mí.",
+   "e": "There I understand what has just happened to me."
+  },
+  {
+   "s": "Yo ya no sé el español, yo lo oigo.",
+   "e": "I no longer know Spanish, I hear it."
+  },
+  {
+   "s": "Los primeros años yo tenía reglas en la cabeza.",
+   "e": "The first years I had rules in my head."
+  },
+  {
+   "s": "Reglas del libro, con listas y con casillas.",
+   "e": "Book rules, with lists and boxes."
+  },
+  {
+   "s": "Y armaba las frases despacio, poniendo las reglas.",
+   "e": "And I built the sentences slowly, putting the rules in."
+  },
+  {
+   "s": "Ahora las frases salen solas y las reglas se me olvidaron.",
+   "e": "Now the sentences come out on their own and the rules are forgotten."
+  },
+  {
+   "s": "No podría explicar casi nada de lo que digo.",
+   "e": "I could not explain almost anything of what I say."
+  },
+  {
+   "s": "Pero oigo el error del alemán en el segundo justo.",
+   "e": "But I hear the German's mistake at the exact second."
+  },
+  {
+   "s": "Marcos me dice que así es como habla todo el mundo.",
+   "e": "Marcos tells me that is how everybody talks."
+  },
+  {
+   "s": "Que él tampoco sabría explicar una regla.",
+   "e": "That he would not know how to explain a rule either."
+  },
+  {
+   "s": "Que a él en la escuela le enseñaron unas cuantas.",
+   "e": "That at school they taught him a few."
+  },
+  {
+   "s": "Y que se le olvidaron todas menos el sonido.",
+   "e": "And that he forgot them all except the sound."
+  },
+  {
+   "s": "Lo que queda al final no es la regla, es la costumbre.",
+   "e": "What is left at the end is not the rule, it is the habit."
+  },
+  {
+   "s": "Después me pongo a pensar en cuándo me cambió.",
+   "e": "Then I start thinking about when it changed for me."
+  },
+  {
+   "s": "Y no hay un día, como con lo del cansancio.",
+   "e": "And there is no one day, as with the tiredness."
+  },
+  {
+   "s": "Fue en algún lado entre el segundo año y el cuarto.",
+   "e": "It was somewhere between the second year and the fourth."
+  },
+  {
+   "s": "Un día dejé de armar y empecé a oír.",
+   "e": "One day I stopped building and started hearing."
+  },
+  {
+   "s": "Lo raro es que ahora cometo errores distintos.",
+   "e": "The strange thing is that now I make different mistakes."
+  },
+  {
+   "s": "Antes cometía errores de libro, de regla mal puesta.",
+   "e": "Before I made book mistakes, from a rule put in wrong."
+  },
+  {
+   "s": "Ahora cometo errores de oído, de haber oído mal.",
+   "e": "Now I make ear mistakes, from having heard wrong."
+  },
+  {
+   "s": "Digo palabras que le oí a Chino y que no existen.",
+   "e": "I say words I heard from Chino that do not exist."
+  },
+  {
+   "s": "Digo cosas de la calle en la oficina del jefe.",
+   "e": "I say street things in the boss's office."
+  },
+  {
+   "s": "Y esos errores son los que comete un nica joven.",
+   "e": "And those mistakes are the ones a young Nicaraguan makes."
+  },
+  {
+   "s": "Lucía me corrige esos igual que corrige a Roberto.",
+   "e": "Lucía corrects those the same way she corrects Roberto."
+  },
+  {
+   "s": "Me dice que eso no se dice, sin ninguna regla tampoco.",
+   "e": "She tells me that is not said, without any rule either."
+  },
+  {
+   "s": "Al alemán del taller lo ayudo un poco después.",
+   "e": "I help the German at the workshop a bit afterwards."
+  },
+  {
+   "s": "No le doy reglas porque yo no tengo.",
+   "e": "I do not give him rules because I do not have any."
+  },
+  {
+   "s": "Le digo que se junte con la gente y oiga.",
+   "e": "I tell him to be around people and listen."
+  },
+  {
+   "s": "Le digo que en dos años va a oír lo que yo oigo.",
+   "e": "I tell him that in two years he will hear what I hear."
+  },
+  {
+   "s": "Él me dice que en dos años quiere hablar bien.",
+   "e": "He tells me that in two years he wants to speak well."
+  },
+  {
+   "s": "Y yo le digo que hablar bien no es eso.",
+   "e": "And I tell him that speaking well is not that."
+  },
+  {
+   "s": "Que hablar bien es que a uno le suene raro lo que está mal.",
+   "e": "That speaking well is finding what is wrong sounds strange to you."
+  },
+  {
+   "s": "Él no me cree, igual que yo no le creía a Marcos.",
+   "e": "He does not believe me, the same as I did not believe Marcos."
+  },
+  {
+   "s": "Un año después el alemán entra al taller un lunes.",
+   "e": "A year later the German comes into the workshop on a Monday."
+  },
+  {
+   "s": "Le dice a un compañero que una frase le suena rara.",
+   "e": "He tells a workmate that a sentence sounds strange to him."
+  },
+  {
+   "s": "Y no sabe explicar por qué le suena rara.",
+   "e": "And he cannot explain why it sounds strange to him."
+  },
+  {
+   "s": "Me busca a mí para preguntarme la regla.",
+   "e": "He comes looking for me to ask me the rule."
+  },
+  {
+   "s": "Yo le digo que no hay regla y él se enoja.",
+   "e": "I tell him there is no rule and he gets angry."
+  },
+  {
+   "s": "Se enoja igual que yo me enojé hace años.",
+   "e": "He gets angry the same way I got angry years ago."
+  },
+  {
+   "s": "Después se queda callado un rato largo.",
+   "e": "Then he goes quiet for a good while."
+  },
+  {
+   "s": "Y me dice que entonces ya le pasó lo que yo dije.",
+   "e": "And he tells me that then what I said has happened to him."
+  },
+  {
+   "s": "Yo le digo que sí, que ya le pasó.",
+   "e": "I tell him yes, it has happened to him."
+  },
+  {
+   "s": "Y que de aquí en adelante va a ser más fácil.",
+   "e": "And that from here on it is going to be easier."
+  },
+  {
+   "s": "Y también más difícil de explicarle a la gente de su casa.",
+   "e": "And also harder to explain to the people back home."
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "id": "p6-17",
+ "title": "Como quien no quiere",
+ "desc": "Saying something sideways",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "indirecta",
+  "techo"
+ ],
+ "sn": [
+  {
+   "s": "Doña Elena viene un sábado y se sienta en el patio.",
+   "e": "Doña Elena comes one Saturday and sits in the yard."
+  },
+  {
+   "s": "Habla del calor, del gas, de la pierna que le duele.",
+   "e": "She talks about the heat, the gas, the leg that hurts her."
+  },
+  {
+   "s": "Después dice que el techo de su cocina está goteando.",
+   "e": "Then she says the roof of her kitchen is leaking."
+  },
+  {
+   "s": "Lo dice como quien informa del tiempo, sin pedir nada.",
+   "e": "She says it the way you report the weather, asking for nothing."
+  },
+  {
+   "s": "Dice que gotea desde mayo y que ya viene el invierno.",
+   "e": "She says it has been leaking since May and the rainy season is coming."
+  },
+  {
+   "s": "Después habla de otra cosa y no vuelve al techo.",
+   "e": "Then she talks about something else and does not go back to the roof."
+  },
+  {
+   "s": "Se toma el café y se va como a la hora.",
+   "e": "She drinks her coffee and leaves after about an hour."
+  },
+  {
+   "s": "Yo me quedo pensando que su techo está malo.",
+   "e": "I am left thinking that her roof is bad."
+  },
+  {
+   "s": "Y no se me ocurre que me acaba de pedir algo.",
+   "e": "And it does not occur to me that she has just asked me for something."
+  },
+  {
+   "s": "Lucía me lo dice esa noche, con paciencia.",
+   "e": "Lucía tells me that night, patiently."
+  },
+  {
+   "s": "Me dice que su mamá vino a pedirme que le arregle el techo.",
+   "e": "She tells me her mother came to ask me to fix her roof."
+  },
+  {
+   "s": "Yo digo que ella no pidió nada, que solo contó.",
+   "e": "I say she did not ask for anything, that she only told me."
+  },
+  {
+   "s": "Lucía me dice que aquí eso es pedir.",
+   "e": "Lucía tells me that here that is asking."
+  },
+  {
+   "s": "Que se llama tirar la indirecta y todos la entienden.",
+   "e": "That it is called throwing out a hint and everybody understands it."
+  },
+  {
+   "s": "Menos yo, que llevo cuatro años y sigo esperando la pregunta.",
+   "e": "Except me, who has been here four years and is still waiting for the question."
+  },
+  {
+   "s": "Después me explica por qué no se pide de frente.",
+   "e": "Then she explains to me why you do not ask straight out."
+  },
+  {
+   "s": "Me dice que un pedido de frente obliga al otro.",
+   "e": "She tells me that a straight request obliges the other person."
+  },
+  {
+   "s": "Si ella me pregunta, yo tengo que decir sí o no.",
+   "e": "If she asks me, I have to say yes or no."
+  },
+  {
+   "s": "Y si yo digo que no, los dos quedamos mal.",
+   "e": "And if I say no, we both end up looking bad."
+  },
+  {
+   "s": "Ella queda mal por pedir y yo por negarme.",
+   "e": "She looks bad for asking and I for refusing."
+  },
+  {
+   "s": "Con la indirecta nadie queda mal nunca.",
+   "e": "With a hint nobody ever ends up looking bad."
+  },
+  {
+   "s": "Si yo ofrezco, ella acepta y todo salió bien.",
+   "e": "If I offer, she accepts and it all went well."
+  },
+  {
+   "s": "Si yo no ofrezco, ella nunca pidió nada.",
+   "e": "If I do not offer, she never asked for anything."
+  },
+  {
+   "s": "La indirecta protege al que pide de un no.",
+   "e": "The hint protects the one asking from a no."
+  },
+  {
+   "s": "Y protege al otro de tener que decirlo.",
+   "e": "And protects the other from having to say it."
+  },
+  {
+   "s": "Después me enseña cómo se tira una indirecta.",
+   "e": "Then she teaches me how a hint is thrown."
+  },
+  {
+   "s": "Se cuenta un problema sin pedir la solución.",
+   "e": "You tell a problem without asking for the solution."
+  },
+  {
+   "s": "Se cuenta y se cambia de tema enseguida.",
+   "e": "You tell it and change the subject straight away."
+  },
+  {
+   "s": "Cambiar de tema es la parte importante.",
+   "e": "Changing the subject is the important part."
+  },
+  {
+   "s": "Si uno se queda en el tema, ya no es indirecta.",
+   "e": "If you stay on the subject, it is not a hint any more."
+  },
+  {
+   "s": "Es un pedido con rodeo, y eso se nota feo.",
+   "e": "It is a request with a detour, and that shows up badly."
+  },
+  {
+   "s": "Y la otra regla es que se tira una sola vez.",
+   "e": "And the other rule is that you throw it once only."
+  },
+  {
+   "s": "Si el otro no la agarra, no se repite.",
+   "e": "If the other one does not catch it, you do not repeat it."
+  },
+  {
+   "s": "Repetir la indirecta es un reclamo, y ahí se acabó.",
+   "e": "Repeating the hint is a complaint, and then it is over."
+  },
+  {
+   "s": "Le pregunto cómo se contesta una indirecta.",
+   "e": "I ask her how a hint is answered."
+  },
+  {
+   "s": "Me dice que se contesta ofreciendo, no preguntando.",
+   "e": "She tells me it is answered by offering, not asking."
+  },
+  {
+   "s": "No se dice quiere que le arregle el techo.",
+   "e": "You do not say do you want me to fix your roof."
+  },
+  {
+   "s": "Eso sería decirle que ella pidió, y ella no pidió.",
+   "e": "That would be telling her she asked, and she did not ask."
+  },
+  {
+   "s": "Se dice yo voy el domingo a ver ese techo.",
+   "e": "You say I will come on Sunday to look at that roof."
+  },
+  {
+   "s": "Como si a uno se le hubiera ocurrido solo.",
+   "e": "As if it had just occurred to you."
+  },
+  {
+   "s": "El domingo llego a la casa de doña Elena con una escalera.",
+   "e": "On Sunday I get to doña Elena's house with a ladder."
+  },
+  {
+   "s": "Le digo que andaba por ahí y que traje la escalera.",
+   "e": "I tell her I was passing by and I brought the ladder."
+  },
+  {
+   "s": "Los dos sabemos que eso es mentira y no importa.",
+   "e": "We both know that is a lie and it does not matter."
+  },
+  {
+   "s": "La mentira es parte de la fórmula, como el mi amor.",
+   "e": "The lie is part of the formula, like the mi amor."
+  },
+  {
+   "s": "Ella me dice que no me moleste, que después.",
+   "e": "She tells me not to bother, that later."
+  },
+  {
+   "s": "Y esa también es parte, hay que insistir una vez.",
+   "e": "And that is part of it too, you have to insist once."
+  },
+  {
+   "s": "Le digo que ya estoy aquí y que subo rapidito.",
+   "e": "I tell her I am here now and I will go up quickly."
+  },
+  {
+   "s": "Ella dice que entonces le dé un vistazo nada más.",
+   "e": "She says then just take a look, nothing more."
+  },
+  {
+   "s": "Y sube a hacerme un café mientras yo trabajo.",
+   "e": "And she goes up to make me a coffee while I work."
+  },
+  {
+   "s": "El techo tenía dos láminas sueltas y un hueco.",
+   "e": "The roof had two loose sheets and a hole."
+  },
+  {
+   "s": "Me tardo dos horas y ella no sube ni una vez.",
+   "e": "I take two hours and she does not come up once."
+  },
+  {
+   "s": "Cuando bajo hay almuerzo hecho para tres personas.",
+   "e": "When I come down there is lunch made for three people."
+  },
+  {
+   "s": "Nadie dice gracias por el techo en toda la tarde.",
+   "e": "Nobody says thank you for the roof all afternoon."
+  },
+  {
+   "s": "El almuerzo es el gracias, y es más grande.",
+   "e": "The lunch is the thank you, and it is bigger."
+  },
+  {
+   "s": "Meses después yo tiro mi primera indirecta.",
+   "e": "Months later I throw my first hint."
+  },
+  {
+   "s": "Necesito prestada una herramienta de don Emilio.",
+   "e": "I need to borrow a tool from don Emilio."
+  },
+  {
+   "s": "Una herramienta cara que él cuida mucho.",
+   "e": "An expensive tool that he looks after carefully."
+  },
+  {
+   "s": "Pedírsela de frente sería ponerlo en un aprieto.",
+   "e": "Asking him for it straight out would put him in a tight spot."
+  },
+  {
+   "s": "Entonces le cuento el trabajo que tengo que hacer.",
+   "e": "So I tell him about the job I have to do."
+  },
+  {
+   "s": "Y le digo que no tengo con qué hacerlo bien.",
+   "e": "And I tell him I do not have anything to do it properly with."
+  },
+  {
+   "s": "Y me pongo a hablar de otra cosa enseguida.",
+   "e": "And I start talking about something else straight away."
+  },
+  {
+   "s": "Él no dice nada en toda la conversación.",
+   "e": "He says nothing in the whole conversation."
+  },
+  {
+   "s": "Al día siguiente la herramienta está en mi mesa.",
+   "e": "The next day the tool is on my bench."
+  },
+  {
+   "s": "Sin una nota, sin un nombre, sin nada.",
+   "e": "Without a note, without a name, without anything."
+  },
+  {
+   "s": "Se la devuelvo el viernes y tampoco decimos nada.",
+   "e": "I give it back on Friday and we do not say anything either."
+  },
+  {
+   "s": "Ese día entendí que ya estaba adentro del idioma.",
+   "e": "That day I understood I was inside the language now."
+  }
+ ]
+}

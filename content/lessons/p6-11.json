@@ -1,0 +1,277 @@
+{
+ "id": "p6-11",
+ "title": "De eso mejor no",
+ "desc": "Subjects that get closed",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "tema",
+  "señal"
+ ],
+ "sn": [
+  {
+   "s": "Una noche estamos seis en el patio de doña Elena.",
+   "e": "One night there are six of us in doña Elena's yard."
+  },
+  {
+   "s": "Hay birra y hay música en el parlante de Chino.",
+   "e": "There is beer and there is music on Chino's speaker."
+  },
+  {
+   "s": "Estamos hablando del precio del arroz y del gas.",
+   "e": "We are talking about the price of rice and gas."
+  },
+  {
+   "s": "Yo hago una pregunta que me parecía normal.",
+   "e": "I ask a question that seemed normal to me."
+  },
+  {
+   "s": "Pregunto por qué está tan caro todo este año.",
+   "e": "I ask why everything is so expensive this year."
+  },
+  {
+   "s": "Y digo el nombre de una cosa del gobierno.",
+   "e": "And I say the name of something to do with the government."
+  },
+  {
+   "s": "No fue una opinión, fue una pregunta de verdad.",
+   "e": "It was not an opinion, it was a real question."
+  },
+  {
+   "s": "Julio contesta algo corto sobre el arroz.",
+   "e": "Julio answers something short about the rice."
+  },
+  {
+   "s": "Chino sube un poco el volumen de la música.",
+   "e": "Chino turns the music up a little."
+  },
+  {
+   "s": "Doña Elena se levanta a traer más hielo.",
+   "e": "Doña Elena gets up to fetch more ice."
+  },
+  {
+   "s": "Y Marcos empieza a contar algo de un primo suyo.",
+   "e": "And Marcos starts telling something about a cousin of his."
+  },
+  {
+   "s": "En veinte segundos ya estamos en otro tema.",
+   "e": "In twenty seconds we are already on another subject."
+  },
+  {
+   "s": "Nadie me dijo que no hablara de eso.",
+   "e": "Nobody told me not to talk about it."
+  },
+  {
+   "s": "Nadie se enojó y nadie cambió de cara.",
+   "e": "Nobody got angry and nobody changed expression."
+  },
+  {
+   "s": "El tema simplemente dejó de existir.",
+   "e": "The subject simply stopped existing."
+  },
+  {
+   "s": "Me quedo con una sensación extraña toda la noche.",
+   "e": "I am left with a strange feeling all night."
+  },
+  {
+   "s": "Extraña porque no pasó nada y pasó todo.",
+   "e": "Strange because nothing happened and everything happened."
+  },
+  {
+   "s": "En el cuarto le pregunto a Lucía qué hice mal.",
+   "e": "In the bedroom I ask Lucía what I did wrong."
+  },
+  {
+   "s": "Ella me dice que no hice nada mal.",
+   "e": "She tells me I did nothing wrong."
+  },
+  {
+   "s": "Que hice una pregunta que aquí no se hace en grupo.",
+   "e": "That I asked a question that here is not asked in a group."
+  },
+  {
+   "s": "Y que la respuesta que me dieron fue la correcta.",
+   "e": "And that the answer they gave me was the right one."
+  },
+  {
+   "s": "La respuesta fue cambiar de tema sin decirlo.",
+   "e": "The answer was changing the subject without saying so."
+  },
+  {
+   "s": "Aquí eso es un no, igual que tal vez después.",
+   "e": "Here that is a no, the same as tal vez después."
+  },
+  {
+   "s": "Y hay que aprender a oírlo, como todos los noes.",
+   "e": "And you have to learn to hear it, like all the noes."
+  },
+  {
+   "s": "Después me explica de qué se trata todo esto.",
+   "e": "Then she explains to me what all of this is about."
+  },
+  {
+   "s": "Me dice que la política aquí no se habla en grupo.",
+   "e": "She tells me that politics here is not talked about in a group."
+  },
+  {
+   "s": "Se habla en la casa, con los de la casa.",
+   "e": "It is talked about at home, with the people of the house."
+  },
+  {
+   "s": "O con un amigo de treinta años, a solas.",
+   "e": "Or with a friend of thirty years, alone."
+  },
+  {
+   "s": "Nunca en un patio con seis personas y birra.",
+   "e": "Never in a yard with six people and beer."
+  },
+  {
+   "s": "Porque en un patio siempre hay alguien que no es de confianza.",
+   "e": "Because in a yard there is always somebody who is not trusted."
+  },
+  {
+   "s": "Y porque cada familia tiene su propia historia con eso.",
+   "e": "And because each family has its own history with it."
+  },
+  {
+   "s": "En una mesa de seis hay seis historias distintas.",
+   "e": "At a table of six there are six different histories."
+  },
+  {
+   "s": "Alguien perdió un hermano y alguien ganó una casa.",
+   "e": "Somebody lost a brother and somebody gained a house."
+  },
+  {
+   "s": "Alguien se fue del país y volvió, y alguien no volvió.",
+   "e": "Somebody left the country and came back, and somebody did not."
+  },
+  {
+   "s": "Todo eso está debajo de la mesa y no se toca.",
+   "e": "All that is under the table and it is not touched."
+  },
+  {
+   "s": "Después Lucía me enseña las señales del tema cerrado.",
+   "e": "Then Lucía teaches me the signals of a closed subject."
+  },
+  {
+   "s": "La primera señal es la respuesta corta.",
+   "e": "The first signal is the short answer."
+  },
+  {
+   "s": "Si alguien contesta con tres palabras, ya está.",
+   "e": "If somebody answers with three words, that is it."
+  },
+  {
+   "s": "La segunda señal es que otro empieza a hablar.",
+   "e": "The second signal is that somebody else starts talking."
+  },
+  {
+   "s": "No de lo mismo, de cualquier otra cosa.",
+   "e": "Not about the same thing, about anything else."
+  },
+  {
+   "s": "La tercera señal es alguien que se levanta.",
+   "e": "The third signal is somebody getting up."
+  },
+  {
+   "s": "Se levanta a traer algo que nadie pidió.",
+   "e": "They get up to fetch something nobody asked for."
+  },
+  {
+   "s": "Y la cuarta es que suben la música.",
+   "e": "And the fourth is that they turn the music up."
+  },
+  {
+   "s": "Cuatro señales y ninguna es una palabra.",
+   "e": "Four signals and not one of them is a word."
+  },
+  {
+   "s": "Yo pregunto qué se hace cuando uno ve la señal.",
+   "e": "I ask what you do when you see the signal."
+  },
+  {
+   "s": "Ella me dice que uno se va con el tema nuevo.",
+   "e": "She tells me you go along with the new subject."
+  },
+  {
+   "s": "Que insistir es la peor grosería que hay.",
+   "e": "That insisting is the worst rudeness there is."
+  },
+  {
+   "s": "Y que insistir dos veces te deja solo en el patio.",
+   "e": "And that insisting twice leaves you alone in the yard."
+  },
+  {
+   "s": "Después me enseña las palabras del que cierra.",
+   "e": "Then she teaches me the words of the one closing it."
+  },
+  {
+   "s": "De eso mejor no hablemos, dice el que quiere cerrar.",
+   "e": "De eso mejor no hablemos, says the one who wants to close it."
+  },
+  {
+   "s": "Ese es el cierre directo y casi no se usa.",
+   "e": "That is the direct close and it is hardly used."
+  },
+  {
+   "s": "Mejor hablemos de otra cosa, es el segundo.",
+   "e": "Mejor hablemos de otra cosa, is the second."
+  },
+  {
+   "s": "Ese ya es más suave y deja al otro salir bien.",
+   "e": "That one is softer and lets the other person get out well."
+  },
+  {
+   "s": "Cada quien sabe lo suyo, es el tercero.",
+   "e": "Cada quien sabe lo suyo, is the third."
+  },
+  {
+   "s": "Ese cierra el tema y no ofende a nadie.",
+   "e": "That closes the subject and offends nobody."
+  },
+  {
+   "s": "Y el más común de todos es no decir nada.",
+   "e": "And the commonest of all is saying nothing."
+  },
+  {
+   "s": "Un mes después me pasa del otro lado.",
+   "e": "A month later it happens to me from the other side."
+  },
+  {
+   "s": "Un compañero nuevo del taller saca un tema así.",
+   "e": "A new workmate in the workshop brings up a subject like that."
+  },
+  {
+   "s": "Lo saca delante de ocho personas en el almuerzo.",
+   "e": "He brings it up in front of eight people at lunch."
+  },
+  {
+   "s": "Y yo me oigo hablando del béisbol de repente.",
+   "e": "And I hear myself suddenly talking about baseball."
+  },
+  {
+   "s": "No lo decidí, me salió como le sale a Marcos.",
+   "e": "I did not decide it, it came out the way it comes out of Marcos."
+  },
+  {
+   "s": "El muchacho insiste una vez y yo sigo con el béisbol.",
+   "e": "The boy insists once and I go on with the baseball."
+  },
+  {
+   "s": "A la segunda él entiende y se calla.",
+   "e": "At the second one he understands and goes quiet."
+  },
+  {
+   "s": "Después Marcos me mira desde la otra mesa.",
+   "e": "Afterwards Marcos looks at me from the other table."
+  },
+  {
+   "s": "No me dice nada, solo levanta la cabeza un poco.",
+   "e": "He says nothing to me, he just lifts his head a little."
+  },
+  {
+   "s": "Esa también es una señal y yo ya la leo.",
+   "e": "That is a signal too and I read it now."
+  }
+ ]
+}

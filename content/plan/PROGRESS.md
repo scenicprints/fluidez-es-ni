@@ -2,7 +2,7 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**157 of 185 stories written** - 59,046 of ~148,000 running words.
+**167 of 185 stories written** - 65,312 of ~148,000 running words.
 
 | Phase | Written | Total |
 |---|---|---|
@@ -12,21 +12,11 @@ Written by `stage.py`. Do not edit by hand.
 | 3 | 26 | 26 |
 | 4 | 35 | 35 |
 | 5 | 26 | 26 |
-| 6 | 10 | 20 |
+| 6 | 20 | 20 |
 | 7 | 0 | 18 |
 
 ## Next to write
 
-- `p6-11` **De eso mejor no** - Subjects that get closed
-- `p6-12` **El 79** - History everyone carries
-- `p6-13` **Los que se fueron** - A country with a diaspora
-- `p6-14` **Ruben Dario** - The poet is on the money
-- `p6-15` **Que va a querer** - Politeness in a shop, at full speed
-- `p6-16` **Sabe que** - Getting somebody's attention properly
-- `p6-17` **Como quien no quiere** - Saying something sideways
-- `p6-18` **Ni modo** - Accepting what cannot be changed
-- `p6-19` **Hablando de eso** - Steering a conversation
-- `p6-20` **Me suena raro** - Hearing a mistake before you can explain it
 - `p7-01` **El chiste que no explicaron** - Getting a joke in real time
 - `p7-02` **Juego de palabras** - Wordplay
 - `p7-03` **Como decia mi abuela** - Quoting the dead as an argument
@@ -37,4 +27,11 @@ Written by `stage.py`. Do not edit by hand.
 - `p7-08` **El campo** - Rural Spanish is older
 - `p7-09` **Palabras que no existen afuera** - Words with no translation
 - `p7-10` **Lo que no se dice** - Silence as content
-- ... and 8 more in `plan/spine.json`
+- `p7-11` **La bulla** - Noise, and living inside it
+- `p7-12` **Ideay, y vos que** - Being asked what you think, and meaning it
+- `p7-13` **Los amigos de siempre** - Friendship over years
+- `p7-14` **Volviendo de afuera** - Coming back from somewhere else
+- `p7-15` **Explicandole a otro chele** - Teaching somebody who just arrived
+- `p7-16` **Mi pais y este pais** - Belonging to two places badly
+- `p7-17` **Hablas como de aqui** - Somebody says it plainly
+- `p7-18` **Ya sos nica** - The last one

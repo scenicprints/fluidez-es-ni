@@ -262,6 +262,11 @@
   "g": "m",
   "pos": "n"
  },
+ "alcaldía": {
+  "en": "town hall",
+  "pos": "n",
+  "g": "f"
+ },
  "alcanzar": {
   "en": "to be enough/to reach",
   "pos": "v"
@@ -271,6 +276,11 @@
   "g": "f",
   "note": "'¿Quién causa tanta alegría?' - the Gritería call",
   "pos": "n"
+ },
+ "alemán": {
+  "en": "German",
+  "pos": "n",
+  "g": "m"
  },
  "alfombra": {
   "en": "carpet",
@@ -443,9 +453,19 @@
   "en": "to squeeze/to press",
   "pos": "v"
  },
+ "aprieto": {
+  "en": "a tight spot",
+  "pos": "n",
+  "g": "m"
+ },
  "aprobar": {
   "en": "to approve",
   "pos": "v"
+ },
+ "aprovechar": {
+  "en": "to take advantage of, to make use of",
+  "pos": "v",
+  "note": "Aprovechando que estamos aqui - the softest way into a request"
  },
  "apuntar": {
   "en": "to write down",
@@ -543,6 +563,10 @@
   "g": "f",
   "pos": "n"
  },
+ "atender": {
+  "en": "to serve, to see to",
+  "pos": "v"
+ },
  "atragantarse": {
   "en": "to choke",
   "pos": "v"
@@ -563,6 +587,11 @@
  "atrás": {
   "en": "behind/at the back",
   "pos": "adv"
+ },
+ "ausencia": {
+  "en": "absence",
+  "pos": "n",
+  "g": "f"
  },
  "autonomía": {
   "en": "autonomy",
@@ -732,6 +761,11 @@
   "en": "bicycle",
   "g": "f",
   "pos": "n"
+ },
+ "bigote": {
+  "en": "moustache",
+  "pos": "n",
+  "g": "m"
  },
  "billete": {
   "en": "note/bill",
@@ -1377,6 +1411,11 @@
   "g": "m",
   "pos": "n"
  },
+ "cliente": {
+  "en": "customer",
+  "pos": "n",
+  "g": "m"
+ },
  "clima": {
   "en": "weather/climate",
   "g": "m",
@@ -1424,6 +1463,11 @@
   "en": "queue/tail",
   "g": "f",
   "pos": "n"
+ },
+ "colchón": {
+  "en": "mattress",
+  "pos": "n",
+  "g": "m"
  },
  "colgar": {
   "en": "to hang up",
@@ -1962,6 +2006,11 @@
   "en": "to disappear",
   "pos": "v"
  },
+ "desarmador": {
+  "en": "screwdriver",
+  "pos": "n",
+  "g": "m"
+ },
  "desayuno": {
   "en": "breakfast",
   "g": "m",
@@ -2373,8 +2422,18 @@
   "g": "m",
   "pos": "n"
  },
+ "escalera": {
+  "en": "ladder, stairs",
+  "pos": "n",
+  "g": "f"
+ },
  "escarcha": {
   "en": "frost",
+  "pos": "n",
+  "g": "f"
+ },
+ "escasez": {
+  "en": "shortage",
   "pos": "n",
   "g": "f"
  },
@@ -2660,6 +2719,11 @@
   "en": "formal",
   "pos": "adj"
  },
+ "forro": {
+  "en": "cover",
+  "pos": "n",
+  "g": "m"
+ },
  "foto": {
   "en": "photo",
   "g": "f",
@@ -2805,6 +2869,12 @@
   "g": "m",
   "pos": "n"
  },
+ "genio": {
+  "en": "temper",
+  "pos": "n",
+  "g": "m",
+  "note": "Mal genio - a bad mood"
+ },
  "gesto": {
   "en": "gesture",
   "g": "m",
@@ -2841,6 +2911,10 @@
   "en": "cap",
   "g": "f",
   "pos": "n"
+ },
+ "gotear": {
+  "en": "to leak, to drip",
+  "pos": "v"
  },
  "grabación": {
   "en": "recording",
@@ -3014,6 +3088,11 @@
   "en": "hospital",
   "g": "m",
   "pos": "n"
+ },
+ "hueco": {
+  "en": "hole",
+  "pos": "n",
+  "g": "m"
  },
  "huevo": {
   "en": "egg",
@@ -3236,6 +3315,10 @@
   "en": "to join back up",
   "pos": "v"
  },
+ "justificarse": {
+  "en": "to justify yourself",
+  "pos": "v"
+ },
  "justo": {
   "en": "fair",
   "pos": "adj"
@@ -3417,6 +3500,11 @@
   "g": "f",
   "note": "'Se fue la luz' - the power went. Said with no drama at all",
   "pos": "n"
+ },
+ "lámina": {
+  "en": "sheet of roofing",
+  "pos": "n",
+  "g": "f"
  },
  "lámpara": {
   "en": "lamp",
@@ -3858,6 +3946,11 @@
   "g": "m",
   "pos": "n"
  },
+ "mueca": {
+  "en": "a face, a grimace",
+  "pos": "n",
+  "g": "f"
+ },
  "muerte": {
   "en": "death",
   "g": "f",
@@ -3966,6 +4059,11 @@
  "nicaragüense": {
   "en": "Nicaraguan",
   "pos": "adj"
+ },
+ "nieta": {
+  "en": "granddaughter",
+  "pos": "n",
+  "g": "f"
  },
  "nieto": {
   "en": "grandchild",
@@ -4482,10 +4580,19 @@
   "note": "What everyone actually calls a córdoba out loud",
   "pos": "n"
  },
+ "petición": {
+  "en": "request",
+  "pos": "n",
+  "g": "f"
+ },
  "pez": {
   "en": "fish",
   "g": "m",
   "pos": "n"
+ },
+ "picante": {
+  "en": "hot, spicy",
+  "pos": "adj"
  },
  "pie": {
   "en": "foot",
@@ -4597,6 +4704,11 @@
   "en": "poverty",
   "g": "f",
   "pos": "n"
+ },
+ "poema": {
+  "en": "poem",
+  "pos": "n",
+  "g": "m"
  },
  "poeta": {
   "en": "poet",
@@ -4761,6 +4873,11 @@
   "g": "f",
   "pos": "n"
  },
+ "publicidad": {
+  "en": "advertising",
+  "pos": "n",
+  "g": "f"
+ },
  "pudrirse": {
   "en": "to rot",
   "pos": "v"
@@ -4826,6 +4943,12 @@
   "en": "to burn",
   "pos": "v"
  },
+ "queque": {
+  "en": "cake",
+  "pos": "n",
+  "g": "m",
+  "note": "Nicaragua says queque, from the English"
+ },
  "quesillo": {
   "en": "cheese in a tortilla with cream and onion",
   "g": "m",
@@ -4850,6 +4973,10 @@
   "g": "f",
   "note": "The 15th and the 30th. The whole city changes on those days",
   "pos": "n"
+ },
+ "quincenal": {
+  "en": "twice-monthly",
+  "pos": "adj"
  },
  "quitar": {
   "en": "to take away/to remove",
@@ -5065,6 +5192,11 @@
   "en": "beef",
   "g": "f",
   "pos": "n"
+ },
+ "resignación": {
+  "en": "resignation",
+  "pos": "n",
+  "g": "f"
  },
  "resolver": {
   "en": "to sort out",
@@ -5333,6 +5465,11 @@
   "en": "to sow/to plant",
   "pos": "v"
  },
+ "sensación": {
+  "en": "feeling, sensation",
+  "pos": "n",
+  "g": "f"
+ },
  "sentarse": {
   "en": "to sit down",
   "pos": "v"
@@ -5385,6 +5522,11 @@
   "note": "How you address a woman behind a counter",
   "pos": "n"
  },
+ "siglo": {
+  "en": "century",
+  "pos": "n",
+  "g": "m"
+ },
  "significar": {
   "en": "to mean",
   "pos": "v"
@@ -5429,6 +5571,10 @@
   "en": "envelope",
   "g": "m",
   "pos": "n"
+ },
+ "sobrentender": {
+  "en": "to take as understood",
+  "pos": "v"
  },
  "sobrino": {
   "en": "nephew/niece",
@@ -5678,6 +5824,11 @@
   "en": "third",
   "note": "Shortens to 'tercer' before a masculine noun",
   "pos": "adj"
+ },
+ "terminal": {
+  "en": "bus terminal",
+  "pos": "n",
+  "g": "f"
  },
  "terminar": {
   "en": "to finish",
@@ -6107,6 +6258,11 @@
  "visitar": {
   "en": "to visit",
   "pos": "v"
+ },
+ "vistazo": {
+  "en": "a look",
+  "pos": "n",
+  "g": "m"
  },
  "volar": {
   "en": "to fly",

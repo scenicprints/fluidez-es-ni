@@ -1,0 +1,274 @@
+{
+ "id": "p6-15",
+ "title": "Qué va a querer",
+ "desc": "Politeness in a shop, at full speed",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "fórmula",
+  "amor",
+  "fritanga"
+ ],
+ "sn": [
+  {
+   "s": "Entro a una fritanga a las siete de la noche.",
+   "e": "I go into a fritanga at seven in the evening."
+  },
+  {
+   "s": "Hay olor a carne asada desde media cuadra antes.",
+   "e": "There is a smell of grilled meat from half a block before."
+  },
+  {
+   "s": "Ese olor es la publicidad, no hay ningún letrero.",
+   "e": "That smell is the advertising, there is no sign."
+  },
+  {
+   "s": "La señora que atiende me habla antes de que yo llegue.",
+   "e": "The lady serving talks to me before I even arrive."
+  },
+  {
+   "s": "Qué va a llevar, mi amor, me dice de una vez.",
+   "e": "Qué va a llevar, mi amor, she says straight away."
+  },
+  {
+   "s": "No me pregunta qué quiero, me pregunta qué voy a llevar.",
+   "e": "She does not ask what I want, she asks what I am going to take."
+  },
+  {
+   "s": "El futuro es más amable que el presente aquí.",
+   "e": "The future is politer than the present here."
+  },
+  {
+   "s": "Qué quiere suena a examen, qué va a llevar suena a servicio.",
+   "e": "Qué quiere sounds like an exam, qué va a llevar sounds like service."
+  },
+  {
+   "s": "Y mi amor no significa nada y significa todo.",
+   "e": "And mi amor means nothing and means everything."
+  },
+  {
+   "s": "Se le dice a cualquiera, de cualquier edad.",
+   "e": "It is said to anybody, of any age."
+  },
+  {
+   "s": "Mi amor, mi vida, mi cielo, mi rey, corazón.",
+   "e": "Mi amor, mi vida, mi cielo, mi rey, corazón."
+  },
+  {
+   "s": "Todas las señoras de fritanga las usan igual.",
+   "e": "All the fritanga ladies use them the same way."
+  },
+  {
+   "s": "Yo le pido dos tacos y un vigorón.",
+   "e": "I ask for two tacos and a vigorón."
+  },
+  {
+   "s": "Ella me contesta con otra fórmula sin parar de servir.",
+   "e": "She answers me with another formula without stopping serving."
+  },
+  {
+   "s": "Ya se lo doy, mi amor, me dice mientras corta.",
+   "e": "Ya se lo doy, mi amor, she tells me while she is cutting."
+  },
+  {
+   "s": "Ya se lo doy quiere decir que ya viene.",
+   "e": "Ya se lo doy means it is coming."
+  },
+  {
+   "s": "Después me pregunta si lo lleva o se lo come aquí.",
+   "e": "Then she asks me if I am taking it or eating it there."
+  },
+  {
+   "s": "Lo pregunta en tercera persona, sin decir usted.",
+   "e": "She asks it in the third person, without saying usted."
+  },
+  {
+   "s": "Es para llevar, le digo, con la fórmula correcta.",
+   "e": "It is to take away, I tell her, with the correct formula."
+  },
+  {
+   "s": "Y ella dice para llevar, mi amor, repitiendo.",
+   "e": "And she says para llevar, mi amor, repeating."
+  },
+  {
+   "s": "Repetir el pedido es parte del servicio también.",
+   "e": "Repeating the order is part of the service too."
+  },
+  {
+   "s": "Después viene la pregunta del picante y el repollo.",
+   "e": "Then comes the question about the chilli and the cabbage."
+  },
+  {
+   "s": "Con todo, le digo, que es la respuesta corta.",
+   "e": "Con todo, I tell her, which is the short answer."
+  },
+  {
+   "s": "Con todo quiere decir con repollo, chile y limón.",
+   "e": "Con todo means with cabbage, chilli and lemon."
+  },
+  {
+   "s": "Tres cosas en dos palabras y ella ya sabe.",
+   "e": "Three things in two words and she already knows."
+  },
+  {
+   "s": "Cuando me da la bolsa dice algo más largo.",
+   "e": "When she gives me the bag she says something longer."
+  },
+  {
+   "s": "Dice que me lo cuido y que vuelva pronto.",
+   "e": "She says take care and come back soon."
+  },
+  {
+   "s": "No es una frase de ella, es la fórmula del cierre.",
+   "e": "It is not her sentence, it is the closing formula."
+  },
+  {
+   "s": "Todas las fritangas de Managua cierran igual.",
+   "e": "All the fritangas in Managua close the same way."
+  },
+  {
+   "s": "Lo que me costó dos años fue entenderlas todas.",
+   "e": "What took me two years was understanding all of them."
+  },
+  {
+   "s": "No porque sean difíciles, sino por la velocidad.",
+   "e": "Not because they are difficult, but because of the speed."
+  },
+  {
+   "s": "La señora atiende a cuatro personas al mismo tiempo.",
+   "e": "The lady serves four people at the same time."
+  },
+  {
+   "s": "Le habla a uno mientras le da el vuelto a otro.",
+   "e": "She talks to one while giving another his change."
+  },
+  {
+   "s": "Y grita el pedido para adentro sin dejar de cortar.",
+   "e": "And shouts the order inside without stopping cutting."
+  },
+  {
+   "s": "Cada frase que dice es una fórmula, no una frase.",
+   "e": "Every sentence she says is a formula, not a sentence."
+  },
+  {
+   "s": "Y por eso se puede entender a esa velocidad.",
+   "e": "And that is why it can be understood at that speed."
+  },
+  {
+   "s": "Uno no entiende las palabras, reconoce la fórmula entera.",
+   "e": "You do not understand the words, you recognise the whole formula."
+  },
+  {
+   "s": "Como una canción que uno conoce y canta sin oírla.",
+   "e": "Like a song you know and sing without hearing it."
+  },
+  {
+   "s": "Marcos me explica que hay tres registros de servicio.",
+   "e": "Marcos explains to me that there are three service registers."
+  },
+  {
+   "s": "La fritanga y el mercado son el más rápido y el más cariñoso.",
+   "e": "The fritanga and the market are the fastest and the most affectionate."
+  },
+  {
+   "s": "Ahí es mi amor, mi vida, y todo el mundo se tutea de vos.",
+   "e": "There it is mi amor, mi vida, and everybody uses vos."
+  },
+  {
+   "s": "La pulpería del barrio es el segundo y es más lento.",
+   "e": "The barrio shop is the second and it is slower."
+  },
+  {
+   "s": "Ahí uno saluda primero y pregunta por la familia.",
+   "e": "There you greet first and ask about the family."
+  },
+  {
+   "s": "Nadie va a la pulpería y pide sin saludar.",
+   "e": "Nobody goes to the shop and asks without greeting."
+  },
+  {
+   "s": "Eso es de gente mal criada, dice doña Chepa.",
+   "e": "That is for badly brought up people, says doña Chepa."
+  },
+  {
+   "s": "El tercero es el banco y la oficina, y ahí es usted.",
+   "e": "The third is the bank and the office, and there it is usted."
+  },
+  {
+   "s": "Ahí no hay mi amor ni hay cariño ninguno.",
+   "e": "There there is no mi amor and no affection at all."
+  },
+  {
+   "s": "Ahí es señor, buenas tardes, en qué le puedo ayudar.",
+   "e": "There it is señor, good afternoon, how can I help you."
+  },
+  {
+   "s": "Meter un mi amor en un banco suena horrible.",
+   "e": "Putting a mi amor in a bank sounds terrible."
+  },
+  {
+   "s": "Y meter un buenas tardes señor en la fritanga es peor.",
+   "e": "And putting a good afternoon señor in the fritanga is worse."
+  },
+  {
+   "s": "Suena a que uno se cree más que la señora.",
+   "e": "It sounds as if you think yourself better than the lady."
+  },
+  {
+   "s": "Yo lo hice el primer año, sin saber, muchas veces.",
+   "e": "I did it the first year, without knowing, many times."
+  },
+  {
+   "s": "Y no entendía por qué me miraban raro.",
+   "e": "And I did not understand why they looked at me strangely."
+  },
+  {
+   "s": "Ahora hago los mandados sin pensar en nada.",
+   "e": "Now I do the errands without thinking about anything."
+  },
+  {
+   "s": "Salgo con la lista de Lucía y hago cinco paradas.",
+   "e": "I go out with Lucía's list and make five stops."
+  },
+  {
+   "s": "En cada parada uso el registro que va.",
+   "e": "At each stop I use the register that fits."
+  },
+  {
+   "s": "Con doña Chepa saludo y pregunto por la rodilla.",
+   "e": "With doña Chepa I greet and ask about her knee."
+  },
+  {
+   "s": "En la fritanga digo con todo y para llevar.",
+   "e": "At the fritanga I say con todo and para llevar."
+  },
+  {
+   "s": "En la farmacia digo buenas tardes y de usted.",
+   "e": "At the chemist I say good afternoon and use usted."
+  },
+  {
+   "s": "Tres personas distintas en veinte minutos de calle.",
+   "e": "Three different people in twenty minutes of street."
+  },
+  {
+   "s": "Y ninguna de las tres es una actuación.",
+   "e": "And none of the three is an act."
+  },
+  {
+   "s": "Lucía me dice que eso es hablar bien un idioma.",
+   "e": "Lucía tells me that that is speaking a language well."
+  },
+  {
+   "s": "No saber muchas palabras, sino saber cuál va dónde.",
+   "e": "Not knowing many words, but knowing which one goes where."
+  },
+  {
+   "s": "Es lo mismo que me dijo doña Chepa hace cuatro años.",
+   "e": "It is the same thing doña Chepa told me four years ago."
+  },
+  {
+   "s": "Cuando yo dije deacachimba delante de una señora de ochenta.",
+   "e": "When I said deacachimba in front of an eighty-year-old lady."
+  }
+ ]
+}

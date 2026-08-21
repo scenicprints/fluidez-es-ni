@@ -1,0 +1,282 @@
+{
+ "id": "p6-16",
+ "title": "Sabe qué",
+ "desc": "Getting somebody’s attention properly",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "entrar",
+  "permiso",
+  "jefe"
+ ],
+ "sn": [
+  {
+   "s": "Necesito pedirle una cosa al jefe del taller.",
+   "e": "I need to ask the workshop boss for something."
+  },
+  {
+   "s": "Es un permiso de dos horas para una cita.",
+   "e": "It is two hours off for an appointment."
+  },
+  {
+   "s": "Yo sé exactamente qué quiero pedirle.",
+   "e": "I know exactly what I want to ask him."
+  },
+  {
+   "s": "Lo que no sé es cómo empezar la frase.",
+   "e": "What I do not know is how to start the sentence."
+  },
+  {
+   "s": "Y eso es la mitad del asunto, o más.",
+   "e": "And that is half the matter, or more."
+  },
+  {
+   "s": "Aquí una petición no empieza por la petición.",
+   "e": "Here a request does not begin with the request."
+  },
+  {
+   "s": "Empieza por una entrada, y la entrada depende de quién.",
+   "e": "It begins with an opener, and the opener depends on who."
+  },
+  {
+   "s": "Marcos me enseña la lista completa en el almuerzo.",
+   "e": "Marcos teaches me the whole list at lunch."
+  },
+  {
+   "s": "La más suave y la más común es sabe qué.",
+   "e": "The softest and commonest is sabe qué."
+  },
+  {
+   "s": "Sabe qué se usa con alguien de confianza normal.",
+   "e": "Sabe qué is used with somebody you trust normally."
+  },
+  {
+   "s": "Con un compañero, un vecino, alguien conocido.",
+   "e": "With a workmate, a neighbour, somebody known."
+  },
+  {
+   "s": "Sabe qué, necesito que me haga un favor.",
+   "e": "Sabe qué, I need you to do me a favour."
+  },
+  {
+   "s": "La entrada avisa que viene un pedido y da un segundo.",
+   "e": "The opener warns a request is coming and gives a second."
+  },
+  {
+   "s": "Ese segundo es para que el otro se prepare.",
+   "e": "That second is for the other one to get ready."
+  },
+  {
+   "s": "Sin la entrada el pedido llega de golpe y asusta.",
+   "e": "Without the opener the request lands all at once and startles."
+  },
+  {
+   "s": "Fíjese que es la segunda, y esa ya trae peso.",
+   "e": "Fíjese que is the second, and that one already carries weight."
+  },
+  {
+   "s": "Fíjese que avisa que hay un problema atrás del pedido.",
+   "e": "Fíjese que warns there is a problem behind the request."
+  },
+  {
+   "s": "Se usa con el jefe, con el dueño, con la suegra.",
+   "e": "It is used with the boss, the owner, the mother-in-law."
+  },
+  {
+   "s": "Y siempre va con usted, nunca con vos.",
+   "e": "And it always goes with usted, never with vos."
+  },
+  {
+   "s": "Ideay es la tercera y esa es solo para confianza.",
+   "e": "Ideay is the third and that one is only for close friends."
+  },
+  {
+   "s": "Ideay, prestame el desarmador, se le dice a Marcos.",
+   "e": "Ideay, lend me the screwdriver, is said to Marcos."
+  },
+  {
+   "s": "Ideay al jefe sería una falta de respeto grande.",
+   "e": "Ideay to the boss would be a big lack of respect."
+  },
+  {
+   "s": "Después está oiga, que es más seco y sirve para desconocidos.",
+   "e": "Then there is oiga, which is drier and works for strangers."
+  },
+  {
+   "s": "Oiga se le dice al del bus o al de la ventanilla.",
+   "e": "Oiga is said to the bus man or the man at the window."
+  },
+  {
+   "s": "No es grosero pero no es amable tampoco.",
+   "e": "It is not rude but it is not friendly either."
+  },
+  {
+   "s": "Con permiso es la última y es la más formal.",
+   "e": "Con permiso is the last one and it is the most formal."
+  },
+  {
+   "s": "Con permiso se usa para interrumpir, no para pedir.",
+   "e": "Con permiso is used to interrupt, not to ask."
+  },
+  {
+   "s": "Se dice al entrar a una oficina o a un cuarto.",
+   "e": "It is said when going into an office or a room."
+  },
+  {
+   "s": "Y el otro contesta adelante, siempre, sin fallar.",
+   "e": "And the other answers adelante, always, without fail."
+  },
+  {
+   "s": "Marcos me dice que esas cinco cubren el país entero.",
+   "e": "Marcos tells me those five cover the whole country."
+  },
+  {
+   "s": "Y que escoger mal la entrada arruina el pedido.",
+   "e": "And that choosing the wrong opener ruins the request."
+  },
+  {
+   "s": "Que uno puede pedir bien con la entrada equivocada.",
+   "e": "That you can ask properly with the wrong opener."
+  },
+  {
+   "s": "Y le van a decir que no por la entrada, no por el pedido.",
+   "e": "And they will say no because of the opener, not the request."
+  },
+  {
+   "s": "Yo pruebo la del jefe un miércoles en la mañana.",
+   "e": "I try the boss one on a Wednesday morning."
+  },
+  {
+   "s": "Toco en la puerta de la oficina y digo con permiso.",
+   "e": "I knock on the office door and say con permiso."
+  },
+  {
+   "s": "Él dice adelante sin levantar la cabeza del papel.",
+   "e": "He says adelante without lifting his head from the paper."
+  },
+  {
+   "s": "Yo me paro al lado de la mesa y no me siento.",
+   "e": "I stand beside the desk and do not sit down."
+  },
+  {
+   "s": "Sentarse sin que le digan es otra falta.",
+   "e": "Sitting down without being told is another slip."
+  },
+  {
+   "s": "Le digo fíjese que necesito consultarle una cosa.",
+   "e": "I tell him fíjese que I need to consult him about something."
+  },
+  {
+   "s": "Él deja el lápiz y me dice que diga.",
+   "e": "He puts down the pencil and tells me to speak."
+  },
+  {
+   "s": "Ese gesto del lápiz es el permiso de verdad.",
+   "e": "That gesture with the pencil is the real permission."
+  },
+  {
+   "s": "Yo le pido las dos horas y le digo el motivo.",
+   "e": "I ask him for the two hours and I tell him the reason."
+  },
+  {
+   "s": "El motivo va después del pedido, no antes.",
+   "e": "The reason goes after the request, not before."
+  },
+  {
+   "s": "Si va antes suena a que uno se está justificando.",
+   "e": "If it goes before it sounds as if you are justifying yourself."
+  },
+  {
+   "s": "Él me dice que sí y vuelve a agarrar el lápiz.",
+   "e": "He tells me yes and picks up the pencil again."
+  },
+  {
+   "s": "Toda la conversación duró cuarenta segundos.",
+   "e": "The whole conversation lasted forty seconds."
+  },
+  {
+   "s": "Y de esos cuarenta, veinte fueron de entrada.",
+   "e": "And of those forty, twenty were the opener."
+  },
+  {
+   "s": "Después Marcos me pregunta cómo me fue.",
+   "e": "Afterwards Marcos asks me how it went."
+  },
+  {
+   "s": "Le cuento y él me dice que hice todo bien.",
+   "e": "I tell him and he says I did everything right."
+  },
+  {
+   "s": "Menos una cosa, que no era del pedido.",
+   "e": "Except one thing, which was not part of the request."
+  },
+  {
+   "s": "Me dice que al salir yo no dije nada.",
+   "e": "He tells me that on the way out I said nothing."
+  },
+  {
+   "s": "Y que al salir de una oficina se dice gracias.",
+   "e": "And that on leaving an office you say thank you."
+  },
+  {
+   "s": "Pero no gracias solo, sino algo más largo.",
+   "e": "But not just thank you, something longer."
+  },
+  {
+   "s": "Muchas gracias, que esté bien, con permiso.",
+   "e": "Muchas gracias, all the best, con permiso."
+  },
+  {
+   "s": "Con permiso otra vez, para cerrar la puerta.",
+   "e": "Con permiso again, to close the door."
+  },
+  {
+   "s": "La entrada y la salida son la misma palabra.",
+   "e": "The opener and the exit are the same word."
+  },
+  {
+   "s": "Yo no sabía eso y me faltó la mitad del final.",
+   "e": "I did not know that and I was missing half the ending."
+  },
+  {
+   "s": "Al día siguiente entro otra vez a la oficina.",
+   "e": "The next day I go into the office again."
+  },
+  {
+   "s": "Entro por una cosa del papel de las horas.",
+   "e": "I go in about something to do with the hours paperwork."
+  },
+  {
+   "s": "Y al salir digo la fórmula completa, entera.",
+   "e": "And on the way out I say the whole formula, complete."
+  },
+  {
+   "s": "El jefe levanta la cabeza esta vez.",
+   "e": "The boss lifts his head this time."
+  },
+  {
+   "s": "Me dice que estaba en la fábrica ayer también.",
+   "e": "He tells me he was in the factory yesterday too."
+  },
+  {
+   "s": "Y me pregunta por Lucía y por el chavalo.",
+   "e": "And he asks me about Lucía and the boy."
+  },
+  {
+   "s": "Cuatro años trabajando ahí y es la primera vez.",
+   "e": "Four years working there and it is the first time."
+  },
+  {
+   "s": "Marcos dice que fue por el con permiso de la salida.",
+   "e": "Marcos says it was because of the con permiso on the way out."
+  },
+  {
+   "s": "Yo creo que fue por los cuatro años.",
+   "e": "I think it was because of the four years."
+  },
+  {
+   "s": "Pero él dice que los cuatro años los tiene cualquiera.",
+   "e": "But he says anybody can have four years."
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "id": "p6-14",
+ "title": "Rubén Darío",
+ "desc": "The poet is on the money",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "poeta",
+  "billete",
+  "verso",
+  "recitar"
+ ],
+ "sn": [
+  {
+   "s": "Saco un billete de cien córdobas para pagar el bus.",
+   "e": "I take out a hundred córdoba note to pay for the bus."
+  },
+  {
+   "s": "Y por primera vez en cuatro años miro la cara del billete.",
+   "e": "And for the first time in four years I look at the face on the note."
+  },
+  {
+   "s": "Es un hombre con bigote y cuello alto, de otra época.",
+   "e": "It is a man with a moustache and a high collar, from another time."
+  },
+  {
+   "s": "Le pregunto a Marcos quién es el del billete.",
+   "e": "I ask Marcos who the man on the note is."
+  },
+  {
+   "s": "Él me mira como si le hubiera preguntado quién es el sol.",
+   "e": "He looks at me as if I had asked him who the sun is."
+  },
+  {
+   "s": "Me dice que es Rubén Darío, y espera que yo diga algo.",
+   "e": "He tells me it is Rubén Darío, and waits for me to say something."
+  },
+  {
+   "s": "Yo no digo nada porque no sé quién es.",
+   "e": "I say nothing because I do not know who he is."
+  },
+  {
+   "s": "Marcos se queda callado tres segundos enteros.",
+   "e": "Marcos is silent for three whole seconds."
+  },
+  {
+   "s": "Después me dice que Darío es el poeta.",
+   "e": "Then he tells me that Darío is the poet."
+  },
+  {
+   "s": "No un poeta, el poeta, con esa cara que pone.",
+   "e": "Not a poet, the poet, with that face he makes."
+  },
+  {
+   "s": "Un poeta en el billete de cien y yo sin saberlo.",
+   "e": "A poet on the hundred note and me not knowing it."
+  },
+  {
+   "s": "En mi país el billete lleva presidentes y generales.",
+   "e": "In my country the note has presidents and generals."
+  },
+  {
+   "s": "Aquí el billete grande lleva un hombre que escribía.",
+   "e": "Here the big note has a man who wrote."
+  },
+  {
+   "s": "Esa tarde le pregunto a Lucía sobre Darío.",
+   "e": "That afternoon I ask Lucía about Darío."
+  },
+  {
+   "s": "Y ella empieza a recitar sin pensarlo ni un segundo.",
+   "e": "And she starts reciting without thinking for a second."
+  },
+  {
+   "s": "Recita cuatro versos de memoria, completos.",
+   "e": "She recites four lines from memory, complete."
+  },
+  {
+   "s": "Los recita como quien dice un número de teléfono viejo.",
+   "e": "She recites them like somebody saying an old phone number."
+  },
+  {
+   "s": "Sin emoción, sin esfuerzo, del principio al final.",
+   "e": "Without emotion, without effort, from beginning to end."
+  },
+  {
+   "s": "Le pregunto de dónde se sabe eso.",
+   "e": "I ask her where she knows that from."
+  },
+  {
+   "s": "Me dice que de la escuela, de tercer grado.",
+   "e": "She tells me from school, from third grade."
+  },
+  {
+   "s": "Que todo el mundo aquí se sabe esos versos.",
+   "e": "That everybody here knows those lines."
+  },
+  {
+   "s": "Que a los ocho años uno los recita delante de la clase.",
+   "e": "That at eight years old you recite them in front of the class."
+  },
+  {
+   "s": "Y que después no se olvidan nunca en la vida.",
+   "e": "And that afterwards they are never forgotten in a lifetime."
+  },
+  {
+   "s": "Al día siguiente hago la prueba en el taller.",
+   "e": "The next day I do the test in the workshop."
+  },
+  {
+   "s": "Le digo el primer verso a Wilmer, que es del norte.",
+   "e": "I say the first line to Wilmer, who is from the north."
+  },
+  {
+   "s": "Y él termina el verso sin levantar la cabeza.",
+   "e": "And he finishes the line without lifting his head."
+  },
+  {
+   "s": "Se lo digo a don Emilio, que tiene sesenta y ocho.",
+   "e": "I say it to don Emilio, who is sixty-eight."
+  },
+  {
+   "s": "Y lo termina igual, con la misma cara de nada.",
+   "e": "And he finishes it the same, with the same blank face."
+  },
+  {
+   "s": "Se lo digo a un muchacho de dieciocho del turno de la tarde.",
+   "e": "I say it to an eighteen-year-old on the afternoon shift."
+  },
+  {
+   "s": "Y lo termina también, y se ríe de que yo lo sepa.",
+   "e": "And he finishes it too, and laughs that I know it."
+  },
+  {
+   "s": "Tres generaciones y un solo poema en la memoria.",
+   "e": "Three generations and one poem in the memory."
+  },
+  {
+   "s": "Marcos me explica por qué Darío es tan grande aquí.",
+   "e": "Marcos explains to me why Darío is so big here."
+  },
+  {
+   "s": "Me dice que Darío cambió la poesía en español.",
+   "e": "He tells me Darío changed poetry in Spanish."
+  },
+  {
+   "s": "Que no fue un poeta nicaragüense famoso en Nicaragua.",
+   "e": "That he was not a Nicaraguan poet famous in Nicaragua."
+  },
+  {
+   "s": "Que fue famoso en España y en toda América.",
+   "e": "That he was famous in Spain and in all America."
+  },
+  {
+   "s": "Que salió de un pueblo chiquito y se le leyó en el mundo.",
+   "e": "That he came out of a tiny town and was read in the world."
+  },
+  {
+   "s": "Y que eso, para un país chiquito, no es poca cosa.",
+   "e": "And that that, for a small country, is no small thing."
+  },
+  {
+   "s": "Después me dice la frase que se dice siempre.",
+   "e": "Then he says to me the sentence that is always said."
+  },
+  {
+   "s": "Aquí todos son poetas, me dice, y se ríe.",
+   "e": "Here everybody is a poet, he tells me, and laughs."
+  },
+  {
+   "s": "Pero lo dice con orgullo y no con burla.",
+   "e": "But he says it with pride and not as a joke."
+  },
+  {
+   "s": "Yo compro un libro de Darío en el mercado.",
+   "e": "I buy a book of Darío in the market."
+  },
+  {
+   "s": "Un libro usado, de escuela, con el forro roto.",
+   "e": "A used one, a school book, with the cover torn."
+  },
+  {
+   "s": "Y esa noche me siento a leerlo en el cuarto.",
+   "e": "And that night I sit down to read it in the bedroom."
+  },
+  {
+   "s": "No entiendo casi nada la primera vez.",
+   "e": "I understand almost nothing the first time."
+  },
+  {
+   "s": "Las palabras son otras, de otro siglo y otro idioma.",
+   "e": "The words are other ones, from another century and another language."
+  },
+  {
+   "s": "Es como cuando llegué y todos hablaban rápido.",
+   "e": "It is like when I arrived and everybody talked fast."
+  },
+  {
+   "s": "Pero hay una cosa que sí me llega de una vez.",
+   "e": "But there is one thing that does reach me at once."
+  },
+  {
+   "s": "Los versos suenan bien aunque uno no entienda.",
+   "e": "The lines sound good even if you do not understand."
+  },
+  {
+   "s": "Tienen ritmo, como una canción que uno no conoce.",
+   "e": "They have rhythm, like a song you do not know."
+  },
+  {
+   "s": "Lucía me dice que así se leen, en voz alta.",
+   "e": "Lucía tells me that is how they are read, out loud."
+  },
+  {
+   "s": "Que Darío se escribió para decirlo, no para leerlo callado.",
+   "e": "That Darío was written to be said, not read in silence."
+  },
+  {
+   "s": "Y me dice que un poema es una canción sin música.",
+   "e": "And she tells me that a poem is a song without music."
+  },
+  {
+   "s": "Yo leo el mismo poema en voz alta y cambia entero.",
+   "e": "I read the same poem out loud and it changes completely."
+  },
+  {
+   "s": "Ahí sí lo entiendo, aunque no entienda las palabras.",
+   "e": "There I do understand it, even though I do not understand the words."
+  },
+  {
+   "s": "En febrero es el día de Darío en la escuela.",
+   "e": "In February it is Darío's day at the school."
+  },
+  {
+   "s": "Los niños de la cuadra recitan en el patio de la escuela.",
+   "e": "The children of the block recite in the school yard."
+  },
+  {
+   "s": "Un niño de siete años se para y recita cuarenta versos.",
+   "e": "A boy of seven stands up and recites forty lines."
+  },
+  {
+   "s": "Y yo me acuerdo del Enano Cabezón en mi puerta.",
+   "e": "And I remember the Enano Cabezón at my door."
+  },
+  {
+   "s": "Otro niño, otra memoria, la misma cosa.",
+   "e": "Another child, another memory, the same thing."
+  },
+  {
+   "s": "Aquí a los niños se les llena la cabeza de versos.",
+   "e": "Here children's heads get filled with verses."
+  },
+  {
+   "s": "Después crecen y se les olvida casi todo.",
+   "e": "Then they grow up and forget almost everything."
+  },
+  {
+   "s": "Menos los cuatro versos que se saben todos.",
+   "e": "Except the four lines everybody knows."
+  },
+  {
+   "s": "Yo me aprendo esos cuatro versos en marzo.",
+   "e": "I learn those four lines in March."
+  },
+  {
+   "s": "Y los digo en una fiesta sin que nadie me pida.",
+   "e": "And I say them at a party without anybody asking me."
+  },
+  {
+   "s": "Se hace un silencio raro y después aplauden.",
+   "e": "There is a strange silence and then they applaud."
+  },
+  {
+   "s": "Doña Elena me dice que ya nada más me falta la cédula.",
+   "e": "Doña Elena tells me all I am missing now is the ID card."
+  }
+ ]
+}

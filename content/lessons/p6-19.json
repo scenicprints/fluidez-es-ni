@@ -1,0 +1,282 @@
+{
+ "id": "p6-19",
+ "title": "Hablando de eso",
+ "desc": "Steering a conversation",
+ "ph": 6,
+ "diff": 6,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Necesito hablar con Chino de una cosa incómoda.",
+   "e": "I need to talk to Chino about an awkward thing."
+  },
+  {
+   "s": "Me debe plata desde hace cuatro meses.",
+   "e": "He has owed me money for four months."
+  },
+  {
+   "s": "No es mucha plata pero ya son cuatro meses.",
+   "e": "It is not a lot of money but it is four months now."
+  },
+  {
+   "s": "No se puede llegar y preguntarle por la plata.",
+   "e": "You cannot arrive and ask him about the money."
+  },
+  {
+   "s": "Eso lo dejaría mal y él es mi cuñado.",
+   "e": "That would leave him looking bad and he is my brother-in-law."
+  },
+  {
+   "s": "Y la plata entre familia es lo más delicado que hay.",
+   "e": "And money between family is the most delicate thing there is."
+  },
+  {
+   "s": "Marcos me dice que hay que llevar la conversación.",
+   "e": "Marcos tells me you have to steer the conversation."
+  },
+  {
+   "s": "No sacar el tema, sino llegar al tema caminando.",
+   "e": "Not bring the subject up, but arrive at the subject on foot."
+  },
+  {
+   "s": "Y me enseña las palabras que se usan para eso.",
+   "e": "And he teaches me the words used for that."
+  },
+  {
+   "s": "La primera y la mejor es hablando de eso.",
+   "e": "The first and the best is hablando de eso."
+  },
+  {
+   "s": "Hablando de eso engancha un tema con el otro.",
+   "e": "Hablando de eso hooks one subject to another."
+  },
+  {
+   "s": "Aunque los dos temas no tengan nada que ver.",
+   "e": "Even if the two subjects have nothing to do with each other."
+  },
+  {
+   "s": "Nadie revisa si de verdad se estaba hablando de eso.",
+   "e": "Nobody checks whether that really was what was being talked about."
+  },
+  {
+   "s": "La segunda es por cierto, que es más de oficina.",
+   "e": "The second is por cierto, which is more of an office one."
+  },
+  {
+   "s": "Por cierto suena a que uno se acordó de repente.",
+   "e": "Por cierto sounds as if you suddenly remembered."
+  },
+  {
+   "s": "Y por eso sirve para lo que uno traía pensado.",
+   "e": "And that is why it works for what you came thinking about."
+  },
+  {
+   "s": "La tercera es volviendo a lo de antes.",
+   "e": "The third is volviendo a lo de antes."
+  },
+  {
+   "s": "Esa sirve para regresar a un tema que se dejó.",
+   "e": "That works for going back to a subject that was dropped."
+  },
+  {
+   "s": "Y la cuarta es la más útil de todas.",
+   "e": "And the fourth is the most useful of them all."
+  },
+  {
+   "s": "Es aprovechando que estamos aquí, y esa es de pedidos.",
+   "e": "It is aprovechando que estamos aquí, and that is for requests."
+  },
+  {
+   "s": "Aprovechando avisa que viene algo, pero suave.",
+   "e": "Aprovechando warns something is coming, but gently."
+  },
+  {
+   "s": "Marcos me dice que la conversación se lleva por partes.",
+   "e": "Marcos tells me the conversation is steered in parts."
+  },
+  {
+   "s": "Que uno no salta del béisbol a la plata.",
+   "e": "That you do not jump from baseball to money."
+  },
+  {
+   "s": "Que hay que poner un tema en el medio, o dos.",
+   "e": "That you have to put a subject in between, or two."
+  },
+  {
+   "s": "Un domingo me siento con Chino en la acera.",
+   "e": "One Sunday I sit down with Chino on the pavement."
+  },
+  {
+   "s": "Traigo dos birras de la pulpería de doña Chepa.",
+   "e": "I bring two beers from doña Chepa's shop."
+  },
+  {
+   "s": "Le doy una birra y hablamos del partido del sábado.",
+   "e": "I give him a beer and we talk about Saturday's game."
+  },
+  {
+   "s": "Hablamos del partido como veinte minutos.",
+   "e": "We talk about the game for about twenty minutes."
+  },
+  {
+   "s": "Después él cuenta algo del trabajo nuevo que tiene.",
+   "e": "Then he tells something about the new job he has."
+  },
+  {
+   "s": "Y ahí yo veo la puerta y la agarro despacio.",
+   "e": "And there I see the door and I take it slowly."
+  },
+  {
+   "s": "Le digo hablando de eso, cómo va el asunto del pago.",
+   "e": "I tell him hablando de eso, how is the pay business going."
+  },
+  {
+   "s": "No hablo de mi plata, hablo de su trabajo.",
+   "e": "I do not talk about my money, I talk about his job."
+  },
+  {
+   "s": "Él me cuenta que le pagan quincenal y que ya está mejor.",
+   "e": "He tells me they pay him twice a month and things are better now."
+  },
+  {
+   "s": "Y ahí lo dice él solo, sin que yo pregunte.",
+   "e": "And there he says it himself, without my asking."
+  },
+  {
+   "s": "Dice que la otra quincena me devuelve lo mío.",
+   "e": "He says next payday he will give me back what is mine."
+  },
+  {
+   "s": "Yo le digo que no hay apuro, que cuando pueda.",
+   "e": "I tell him there is no hurry, whenever he can."
+  },
+  {
+   "s": "Y eso también es parte, hay que decirlo aunque no sea cierto.",
+   "e": "And that is part of it too, it has to be said even if it is not true."
+  },
+  {
+   "s": "Después seguimos con el partido y con otra birra.",
+   "e": "Then we go on with the game and with another beer."
+  },
+  {
+   "s": "La plata estuvo en la conversación como cuarenta segundos.",
+   "e": "The money was in the conversation for about forty seconds."
+  },
+  {
+   "s": "Y en esos cuarenta segundos yo no la mencioné.",
+   "e": "And in those forty seconds I did not mention it."
+  },
+  {
+   "s": "La mencionó él, que es como tenía que ser.",
+   "e": "He mentioned it, which is how it had to be."
+  },
+  {
+   "s": "La quincena siguiente Chino me paga en la acera.",
+   "e": "The next payday Chino pays me on the pavement."
+  },
+  {
+   "s": "Me da la plata doblada, sin contarla delante de mí.",
+   "e": "He gives me the money folded, without counting it in front of me."
+  },
+  {
+   "s": "Y me dice que la próxima birra la pone él.",
+   "e": "And he tells me the next beer is on him."
+  },
+  {
+   "s": "Con eso queda cerrado y nadie quedó mal.",
+   "e": "With that it is closed and nobody looked bad."
+  },
+  {
+   "s": "Marcos me explica después la regla de fondo.",
+   "e": "Marcos explains the underlying rule to me afterwards."
+  },
+  {
+   "s": "Me dice que en una conversación uno no manda.",
+   "e": "He tells me that in a conversation you do not give orders."
+  },
+  {
+   "s": "Que uno la va llevando, como se lleva a bailar.",
+   "e": "That you steer it along, the way you lead in a dance."
+  },
+  {
+   "s": "El que empuja la conversación se queda solo.",
+   "e": "The one who pushes the conversation is left alone."
+  },
+  {
+   "s": "El que la lleva llega adonde quería llegar.",
+   "e": "The one who steers it arrives where he wanted to arrive."
+  },
+  {
+   "s": "Y el otro llega con él, sin sentirse llevado.",
+   "e": "And the other arrives with him, without feeling led."
+  },
+  {
+   "s": "Es lo mismo de la pista, dice Marcos, y se ríe.",
+   "e": "It is the same as the dance floor, says Marcos, and he laughs."
+  },
+  {
+   "s": "Yo pienso en Lucía enseñándome a llevar en el patio.",
+   "e": "I think about Lucía teaching me to lead in the yard."
+  },
+  {
+   "s": "Me decía que llevar no es empujar a nadie.",
+   "e": "She told me that leading is not pushing anybody."
+  },
+  {
+   "s": "Que llevar es avisar con la mano lo que viene.",
+   "e": "That leading is signalling with your hand what is coming."
+  },
+  {
+   "s": "Hablando de eso es una mano en la espalda.",
+   "e": "Hablando de eso is a hand on the back."
+  },
+  {
+   "s": "Avisa hacia dónde va la conversación sin empujarla.",
+   "e": "It signals where the conversation is going without pushing it."
+  },
+  {
+   "s": "Meses después uso la misma cosa con doña Elena.",
+   "e": "Months later I use the same thing with doña Elena."
+  },
+  {
+   "s": "Necesito preguntarle algo de la salud que no quiere hablar.",
+   "e": "I need to ask her something about her health that she does not want to talk about."
+  },
+  {
+   "s": "Llego un sábado, tomamos café, hablamos de Roberto.",
+   "e": "I arrive one Saturday, we drink coffee, we talk about Roberto."
+  },
+  {
+   "s": "Después del segundo café llego caminando al tema.",
+   "e": "After the second coffee I arrive at the subject on foot."
+  },
+  {
+   "s": "Le digo hablando de eso y le hago la pregunta.",
+   "e": "I tell her hablando de eso and I ask her the question."
+  },
+  {
+   "s": "Ella me contesta la verdad entera, sin rodeo.",
+   "e": "She answers me the whole truth, without a detour."
+  },
+  {
+   "s": "Y después me dice una cosa que no esperaba.",
+   "e": "And then she tells me something I did not expect."
+  },
+  {
+   "s": "Me dice que sabía desde el principio a qué venía.",
+   "e": "She tells me she knew from the start what I had come for."
+  },
+  {
+   "s": "Que me vio la cara en la puerta y ya sabía.",
+   "e": "That she saw my face at the door and already knew."
+  },
+  {
+   "s": "Los cuarenta minutos de rodeo los hizo por mí.",
+   "e": "The forty minutes of going round she did for me."
+  },
+  {
+   "s": "Para que yo llegara al tema cuando pudiera.",
+   "e": "So that I could arrive at the subject when I was able."
+  }
+ ]
+}
