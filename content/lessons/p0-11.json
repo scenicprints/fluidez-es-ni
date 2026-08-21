@@ -1,0 +1,241 @@
+{
+ "id": "p0-11",
+ "title": "La fritanga",
+ "desc": "Dinner comes off a grill on the sidewalk",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "fritanga",
+  "carne",
+  "maduro",
+  "fila",
+  "hoja",
+  "tajadas"
+ ],
+ "sn": [
+  {
+   "s": "En la noche hay humo en la calle.",
+   "e": "At night there is smoke in the street."
+  },
+  {
+   "s": "El humo huele a carne.",
+   "e": "The smoke smells of meat."
+  },
+  {
+   "s": "El humo viene de la esquina.",
+   "e": "The smoke comes from the corner."
+  },
+  {
+   "s": "En la esquina hay una fritanga.",
+   "e": "On the corner there is a fritanga."
+  },
+  {
+   "s": "Una fritanga es una parrilla en la calle.",
+   "e": "A fritanga is a grill in the street."
+  },
+  {
+   "s": "La fritanga se pone cuando cae el sol.",
+   "e": "The fritanga is set up when the sun goes down."
+  },
+  {
+   "s": "La fritanga es de doña Marta.",
+   "e": "The fritanga belongs to doña Marta."
+  },
+  {
+   "s": "Doña Marta pone la parrilla a las cinco.",
+   "e": "Doña Marta sets up the grill at five."
+  },
+  {
+   "s": "A las seis ya hay fila.",
+   "e": "By six there is already a queue."
+  },
+  {
+   "s": "La fila llega hasta la otra casa.",
+   "e": "The queue reaches as far as the next house."
+  },
+  {
+   "s": "Yo me pongo en la fila.",
+   "e": "I join the queue."
+  },
+  {
+   "s": "Miro lo que hay.",
+   "e": "I look at what there is."
+  },
+  {
+   "s": "Hay carne asada en la parrilla.",
+   "e": "There is grilled meat on the grill."
+  },
+  {
+   "s": "Hay tajadas de plátano verde.",
+   "e": "There are green plantain crisps."
+  },
+  {
+   "s": "Hay maduro frito, dulce y suave.",
+   "e": "There is fried ripe plantain, sweet and soft."
+  },
+  {
+   "s": "Hay gallo pinto, siempre.",
+   "e": "There is gallo pinto, always."
+  },
+  {
+   "s": "Hay queso frito y hay pollo.",
+   "e": "There is fried cheese and there is chicken."
+  },
+  {
+   "s": "Hay ensalada de repollo.",
+   "e": "There is cabbage salad."
+  },
+  {
+   "s": "No sé pedir todavía.",
+   "e": "I do not know how to order yet."
+  },
+  {
+   "s": "Miro a la señora de adelante.",
+   "e": "I watch the woman in front."
+  },
+  {
+   "s": "\"Deme carne con tajadas\", dice ella.",
+   "e": "\"Give me meat with tajadas,\" she says."
+  },
+  {
+   "s": "Después llega mi turno.",
+   "e": "Then it is my turn."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "\"Buenas. ¿Qué le sirvo?\", dice doña Marta.",
+   "e": "\"Buenas. What can I serve you?\" doña Marta says."
+  },
+  {
+   "s": "\"Deme carne con tajadas, por favor.\"",
+   "e": "\"Give me meat with tajadas, please.\""
+  },
+  {
+   "s": "\"¿Con gallo pinto?\"",
+   "e": "\"With gallo pinto?\""
+  },
+  {
+   "s": "\"Sí, con gallo pinto.\"",
+   "e": "\"Yes, with gallo pinto.\""
+  },
+  {
+   "s": "\"¿Y maduro?\"",
+   "e": "\"And maduro?\""
+  },
+  {
+   "s": "\"También maduro\", digo yo.",
+   "e": "\"Maduro as well,\" I say."
+  },
+  {
+   "s": "Doña Marta sirve todo en una hoja.",
+   "e": "Doña Marta serves it all on a leaf."
+  },
+  {
+   "s": "La hoja es de plátano, verde y grande.",
+   "e": "The leaf is a plantain leaf, green and big."
+  },
+  {
+   "s": "No hay plato.",
+   "e": "There is no plate."
+  },
+  {
+   "s": "La hoja es el plato.",
+   "e": "The leaf is the plate."
+  },
+  {
+   "s": "Pone la carne en la hoja.",
+   "e": "She puts the meat on the leaf."
+  },
+  {
+   "s": "Pone las tajadas encima.",
+   "e": "She puts the tajadas on top."
+  },
+  {
+   "s": "Pone el maduro al lado.",
+   "e": "She puts the maduro to one side."
+  },
+  {
+   "s": "Pone el gallo pinto y el queso.",
+   "e": "She puts the gallo pinto and the cheese."
+  },
+  {
+   "s": "Después dobla la hoja.",
+   "e": "Then she folds the leaf."
+  },
+  {
+   "s": "Me da todo caliente en la mano.",
+   "e": "She hands me the lot, hot."
+  },
+  {
+   "s": "\"Son sesenta\", dice ella.",
+   "e": "\"That's sixty,\" she says."
+  },
+  {
+   "s": "Le pago sesenta pesos.",
+   "e": "I pay her sixty pesos."
+  },
+  {
+   "s": "Es barato para tanta comida.",
+   "e": "It is cheap for that much food."
+  },
+  {
+   "s": "Me como todo de pie en la calle.",
+   "e": "I eat the lot standing in the street."
+  },
+  {
+   "s": "Nadie se sienta en la fritanga.",
+   "e": "Nobody sits down at a fritanga."
+  },
+  {
+   "s": "Uno come de pie y habla.",
+   "e": "You eat standing up and you talk."
+  },
+  {
+   "s": "La carne está buena.",
+   "e": "The meat is good."
+  },
+  {
+   "s": "Las tajadas están saladas y duras.",
+   "e": "The tajadas are salty and crisp."
+  },
+  {
+   "s": "El maduro está dulce.",
+   "e": "The maduro is sweet."
+  },
+  {
+   "s": "Todo junto está muy rico.",
+   "e": "All of it together is very good."
+  },
+  {
+   "s": "Roberto llega y se pone en la fila.",
+   "e": "Roberto arrives and joins the queue."
+  },
+  {
+   "s": "\"¿Qué pediste?\", me pregunta.",
+   "e": "\"What did you order?\" he asks me."
+  },
+  {
+   "s": "\"Carne con tajadas y maduro.\"",
+   "e": "\"Meat with tajadas and maduro.\""
+  },
+  {
+   "s": "\"Bien\", dice él. \"Aprendiste.\"",
+   "e": "\"Good,\" he says. \"You've learned.\""
+  },
+  {
+   "s": "Cada noche paso por la fritanga.",
+   "e": "Every night I go past the fritanga."
+  },
+  {
+   "s": "Cada noche hay humo y hay fila.",
+   "e": "Every night there is smoke and a queue."
+  },
+  {
+   "s": "Y doña Marta ya sabe lo que pido.",
+   "e": "And doña Marta already knows what I order."
+  }
+ ]
+}

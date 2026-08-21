@@ -1284,10 +1284,6 @@
   "note": "Nica currency",
   "pos": "n"
  },
- "da": {
-  "en": "gives",
-  "pos": "v"
- },
  "dado que": {
   "en": "given that",
   "pos": "phrase"
@@ -1296,10 +1292,6 @@
   "en": "go ahead/okay",
   "note": "Very Nicaraguan. 'Dale pues'=okay then",
   "pos": "intj"
- },
- "dan": {
-  "en": "they give",
-  "pos": "v"
  },
  "dar": {
   "en": "to give",
@@ -1371,10 +1363,6 @@
  "decí": {
   "en": "say/tell (vos command)",
   "note": "Voseo command of decir: 'decí' not 'di'",
-  "pos": "v"
- },
- "decís": {
-  "en": "you say (vos)",
   "pos": "v"
  },
  "defender": {
@@ -1474,10 +1462,6 @@
   "en": "to return/give back",
   "pos": "v"
  },
- "di": {
-  "en": "I gave",
-  "pos": "v"
- },
  "diacachimba": {
   "en": "awesome (Nica)",
   "note": "Variant of deacachimba",
@@ -1492,14 +1476,6 @@
   "en": "well / so / hey",
   "note": "Versatile filler, cousin of 'ideay'",
   "pos": "intj"
- },
- "dice": {
-  "en": "says",
-  "pos": "v"
- },
- "dicen": {
-  "en": "they say",
-  "pos": "v"
  },
  "dicho": {
   "en": "saying",
@@ -1536,14 +1512,6 @@
  "difícil": {
   "en": "difficult",
   "pos": "adj"
- },
- "digo": {
-  "en": "I say",
-  "pos": "v"
- },
- "dije": {
-  "en": "I said",
-  "pos": "v"
  },
  "dinero": {
   "en": "money",
@@ -1660,19 +1628,11 @@
   "g": "m",
   "pos": "num"
  },
- "doy": {
-  "en": "I give",
-  "pos": "v"
- },
  "doña": {
   "en": "Doña (title)",
   "g": "f",
   "note": "Respectful title for older women",
   "pos": "n"
- },
- "duermo": {
-  "en": "I sleep",
-  "pos": "v"
  },
  "dueña": {
   "en": "owner (f)",
@@ -1784,14 +1744,6 @@
   "en": "to find",
   "pos": "v"
  },
- "encuentra": {
-  "en": "finds",
-  "pos": "v"
- },
- "encuentro": {
-  "en": "I find",
-  "pos": "v"
- },
  "enfermo": {
   "en": "sick",
   "g": "m",
@@ -1855,10 +1807,6 @@
  },
  "era": {
   "en": "was (ser)",
-  "pos": "v"
- },
- "es": {
-  "en": "is",
   "pos": "v"
  },
  "esa": {
@@ -1959,10 +1907,6 @@
   "g": "f",
   "pos": "n"
  },
- "estamos": {
-  "en": "we are (state)",
-  "pos": "v"
- },
  "estar": {
   "en": "to be (temp/location)",
   "note": "Mood/state/location",
@@ -1984,29 +1928,8 @@
   "g": "m",
   "pos": "adj"
  },
- "estoy": {
-  "en": "I am (state)",
-  "pos": "v"
- },
  "estudiar": {
   "en": "to study",
-  "pos": "v"
- },
- "estuvo": {
-  "en": "was/it was",
-  "note": "Past of estar. '¿Cómo estuvo?' = how was it?",
-  "pos": "v"
- },
- "está": {
-  "en": "is (state)",
-  "pos": "v"
- },
- "están": {
-  "en": "are (state)",
-  "pos": "v"
- },
- "estás": {
-  "en": "you are (state)",
   "pos": "v"
  },
  "estómago": {
@@ -2378,15 +2301,6 @@
   "note": "Conditional perfect: 'habría hecho' = I would have done",
   "pos": "v"
  },
- "hace": {
-  "en": "does/makes/ago",
-  "note": "'Hace 2 días'=2 days ago",
-  "pos": "v"
- },
- "hacemos": {
-  "en": "we do/make",
-  "pos": "v"
- },
  "hacer": {
   "en": "to do/make",
   "pos": "v"
@@ -2394,14 +2308,6 @@
  "hacia": {
   "en": "toward",
   "pos": "prep"
- },
- "hacés": {
-  "en": "you do/make (vos)",
-  "pos": "v"
- },
- "hago": {
-  "en": "I do/make",
-  "pos": "v"
  },
  "halago": {
   "en": "compliment",
@@ -2435,10 +2341,6 @@
   "g": "m",
   "note": "Also casual 'bro' in Nica",
   "pos": "n"
- },
- "hice": {
-  "en": "I did/made",
-  "pos": "v"
  },
  "hija": {
   "en": "daughter",
@@ -2691,11 +2593,6 @@
  "ir": {
   "en": "to go",
   "note": "Irregular: voy,vas,va,vamos,van",
-  "pos": "v"
- },
- "iremos": {
-  "en": "we will go",
-  "note": "Future of ir",
   "pos": "v"
  },
  "ironía": {
@@ -3705,19 +3602,11 @@
   "g": "f",
   "pos": "n"
  },
- "pido": {
-  "en": "I ask for/order",
-  "pos": "v"
- },
  "pie": {
   "en": "foot",
   "g": "m",
   "note": "'De pie' = standing",
   "pos": "n"
- },
- "pienso": {
-  "en": "I think",
-  "pos": "v"
  },
  "pillar": {
   "en": "to catch/get it",
@@ -3800,10 +3689,6 @@
   "en": "little/few",
   "pos": "adv"
  },
- "podemos": {
-  "en": "we can",
-  "pos": "v"
- },
  "poder": {
   "en": "to be able/can",
   "pos": "v"
@@ -3811,10 +3696,6 @@
  "podría": {
   "en": "could/would be able to",
   "note": "Conditional of poder — softens requests",
-  "pos": "v"
- },
- "podés": {
-  "en": "you can (vos)",
   "pos": "v"
  },
  "poesía": {
@@ -3838,10 +3719,6 @@
  },
  "poner": {
   "en": "to put",
-  "pos": "v"
- },
- "pongo": {
-  "en": "I put",
   "pos": "v"
  },
  "popular": {
@@ -4004,18 +3881,6 @@
   "g": "m",
   "pos": "n"
  },
- "puede": {
-  "en": "can (he/she)",
-  "pos": "v"
- },
- "pueden": {
-  "en": "they can",
-  "pos": "v"
- },
- "puedo": {
-  "en": "I can",
-  "pos": "v"
- },
  "puente": {
   "en": "bridge",
   "g": "m",
@@ -4072,30 +3937,14 @@
   "g": "f",
   "pos": "n"
  },
- "queremos": {
-  "en": "we want",
-  "pos": "v"
- },
  "querer": {
   "en": "to want/to love",
-  "pos": "v"
- },
- "querés": {
-  "en": "you want (vos)",
   "pos": "v"
  },
  "queso": {
   "en": "cheese",
   "g": "m",
   "pos": "n"
- },
- "quiere": {
-  "en": "wants",
-  "pos": "v"
- },
- "quiero": {
-  "en": "I want",
-  "pos": "v"
  },
  "quince": {
   "en": "fifteen",
@@ -4363,14 +4212,6 @@
   "g": "m",
   "pos": "n"
  },
- "sabe": {
-  "en": "knows",
-  "pos": "v"
- },
- "sabemos": {
-  "en": "we know",
-  "pos": "v"
- },
  "saber": {
   "en": "to know (facts)",
   "note": "Facts/skills. Conocer=people/places",
@@ -4391,10 +4232,6 @@
   "g": "m",
   "pos": "n"
  },
- "sabés": {
-  "en": "you know (vos)",
-  "pos": "v"
- },
  "salario": {
   "en": "salary",
   "g": "m",
@@ -4404,14 +4241,6 @@
   "en": "phone credit/balance",
   "g": "m",
   "pos": "n"
- },
- "sale": {
-  "en": "leaves",
-  "pos": "v"
- },
- "salgo": {
-  "en": "I leave",
-  "pos": "v"
  },
  "salir": {
   "en": "to leave/go out",
@@ -4545,10 +4374,6 @@
   "en": "always",
   "pos": "adv"
  },
- "siento": {
-  "en": "I feel",
-  "pos": "v"
- },
  "siete": {
   "en": "seven",
   "pos": "num"
@@ -4557,10 +4382,6 @@
   "en": "meaning",
   "g": "m",
   "pos": "n"
- },
- "sigo": {
-  "en": "I follow",
-  "pos": "v"
  },
  "silla": {
   "en": "chair",
@@ -4627,14 +4448,6 @@
   "g": "m",
   "pos": "adj"
  },
- "somos": {
-  "en": "we are",
-  "pos": "v"
- },
- "son": {
-  "en": "are (they)",
-  "pos": "v"
- },
  "sonido": {
   "en": "sound",
   "g": "m",
@@ -4653,11 +4466,6 @@
   "en": "to weigh up",
   "pos": "v"
  },
- "sos": {
-  "en": "you are (vos)",
-  "note": "Vos sos = Tú eres",
-  "pos": "v"
- },
  "sosiego": {
   "en": "calm/tranquility",
   "g": "m",
@@ -4665,10 +4473,6 @@
  },
  "soslayar": {
   "en": "to sidestep/avoid",
-  "pos": "v"
- },
- "soy": {
-  "en": "I am",
   "pos": "v"
  },
  "soñar": {
@@ -4736,10 +4540,6 @@
   "g": "m",
   "pos": "n"
  },
- "sé": {
-  "en": "I know",
-  "pos": "v"
- },
  "sí": {
   "en": "yes",
   "pos": "adv"
@@ -4799,32 +4599,14 @@
   "en": "early",
   "pos": "adv"
  },
- "tendremos": {
-  "en": "we will have",
-  "note": "Future of tener",
-  "pos": "v"
- },
- "tenemos": {
-  "en": "we have",
-  "pos": "v"
- },
  "tener": {
   "en": "to have",
   "note": "Also: age (tengo 25 años)",
   "pos": "v"
  },
- "tengo": {
-  "en": "I have",
-  "pos": "v"
- },
  "tené": {
   "en": "have (vos command)",
   "note": "Voseo command of tener: 'tené' not 'ten'",
-  "pos": "v"
- },
- "tenés": {
-  "en": "you have (vos)",
-  "note": "Vos tenés = Tú tienes",
   "pos": "v"
  },
  "terminar": {
@@ -4845,14 +4627,6 @@
   "en": "store/shop",
   "g": "f",
   "pos": "n"
- },
- "tiene": {
-  "en": "has",
-  "pos": "v"
- },
- "tienen": {
-  "en": "they have",
-  "pos": "v"
  },
  "tierra": {
   "en": "earth/land",
@@ -4989,10 +4763,6 @@
   "note": "Nica slang. '¡Qué tuani!'=How cool!",
   "pos": "adj"
  },
- "tuve": {
-  "en": "I had",
-  "pos": "v"
- },
  "tuviera": {
   "en": "had (subjunctive)",
   "note": "Past subjunctive of tener: 'si tuviera' = if I had",
@@ -5052,10 +4822,6 @@
   "note": "Formal 'you' — for respect, strangers, elders",
   "pos": "pron"
  },
- "va": {
-  "en": "goes",
-  "pos": "v"
- },
  "vacil": {
   "en": "fun/joking around",
   "g": "m",
@@ -5076,14 +4842,6 @@
   "en": "to value/appreciate",
   "pos": "v"
  },
- "vamos": {
-  "en": "we go/let's go",
-  "pos": "v"
- },
- "van": {
-  "en": "they go",
-  "pos": "v"
- },
  "vaso": {
   "en": "glass/cup",
   "g": "m",
@@ -5092,10 +4850,6 @@
  "vaya": {
   "en": "go (subj)",
   "note": "Que le vaya bien=Take care",
-  "pos": "v"
- },
- "ve": {
-  "en": "sees",
   "pos": "v"
  },
  "veces": {
@@ -5130,10 +4884,6 @@
   "en": "to sell",
   "pos": "v"
  },
- "vengo": {
-  "en": "I come",
-  "pos": "v"
- },
  "venir": {
   "en": "to come",
   "pos": "v"
@@ -5145,14 +4895,6 @@
  },
  "vení": {
   "en": "come (vos cmd)",
-  "pos": "v"
- },
- "venís": {
-  "en": "you come (vos)",
-  "pos": "v"
- },
- "veo": {
-  "en": "I see",
   "pos": "v"
  },
  "ver": {
@@ -5192,10 +4934,6 @@
   "note": "Otra vez=again",
   "pos": "n"
  },
- "vi": {
-  "en": "I saw",
-  "pos": "v"
- },
  "viaje": {
   "en": "journey/trip",
   "g": "m",
@@ -5211,14 +4949,6 @@
   "g": "m",
   "pos": "adj"
  },
- "viene": {
-  "en": "comes",
-  "pos": "v"
- },
- "vienen": {
-  "en": "they come",
-  "pos": "v"
- },
  "viernes": {
   "en": "Friday",
   "g": "m",
@@ -5229,10 +4959,6 @@
   "g": "m",
   "note": "Yuca+chicharrón+cabbage salad",
   "pos": "n"
- },
- "vine": {
-  "en": "I came",
-  "pos": "v"
  },
  "vislumbrar": {
   "en": "to glimpse",
@@ -5274,10 +5000,6 @@
   "g": "m",
   "note": "The vos pronoun system, universal in Nicaragua",
   "pos": "n"
- },
- "voy": {
-  "en": "I go",
-  "pos": "v"
  },
  "vulnerable": {
   "en": "vulnerable",

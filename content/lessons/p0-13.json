@@ -1,0 +1,223 @@
+{
+ "id": "p0-13",
+ "title": "Los vecinos",
+ "desc": "You have neighbours whether you want them or not",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "pregunta",
+  "edad",
+  "patio",
+  "contestar"
+ ],
+ "sn": [
+  {
+   "s": "El patio de doña Carmen no tiene pared.",
+   "e": "Doña Carmen's patio has no wall."
+  },
+  {
+   "s": "El patio sigue hasta el patio del vecino.",
+   "e": "The patio runs on into the neighbour's patio."
+  },
+  {
+   "s": "Y ese patio sigue hasta el otro.",
+   "e": "And that patio runs on into the next."
+  },
+  {
+   "s": "Los chavalos pasan de un patio a otro.",
+   "e": "The kids move from one patio to another."
+  },
+  {
+   "s": "Los perros también.",
+   "e": "The dogs do too."
+  },
+  {
+   "s": "Todo el mundo entra al patio de todo el mundo.",
+   "e": "Everybody comes into everybody's patio."
+  },
+  {
+   "s": "El primer día una señora entra al patio.",
+   "e": "On the first day a woman comes into the patio."
+  },
+  {
+   "s": "No toca la puerta.",
+   "e": "She does not knock."
+  },
+  {
+   "s": "\"Buenas\", dice ella. \"¿Usted es el nuevo?\"",
+   "e": "\"Buenas,\" she says. \"Are you the new one?\""
+  },
+  {
+   "s": "\"Sí\", contesto yo.",
+   "e": "\"Yes,\" I answer."
+  },
+  {
+   "s": "Y empiezan las preguntas.",
+   "e": "And the questions start."
+  },
+  {
+   "s": "\"¿Cómo se llama?\"",
+   "e": "\"What is your name?\""
+  },
+  {
+   "s": "Contesto mi nombre.",
+   "e": "I answer my name."
+  },
+  {
+   "s": "\"¿Y qué edad tiene?\"",
+   "e": "\"And how old are you?\""
+  },
+  {
+   "s": "Contesto mi edad.",
+   "e": "I answer my age."
+  },
+  {
+   "s": "\"¿Y en qué trabaja?\"",
+   "e": "\"And what do you do for work?\""
+  },
+  {
+   "s": "Contesto sobre mi trabajo.",
+   "e": "I answer about my work."
+  },
+  {
+   "s": "\"¿Y es casado o soltero?\"",
+   "e": "\"And are you married or single?\""
+  },
+  {
+   "s": "Esa pregunta me sorprende.",
+   "e": "That question surprises me."
+  },
+  {
+   "s": "\"Soltero\", contesto.",
+   "e": "\"Single,\" I answer."
+  },
+  {
+   "s": "\"¿Y su familia dónde está?\"",
+   "e": "\"And where is your family?\""
+  },
+  {
+   "s": "\"Lejos\", digo yo.",
+   "e": "\"Far away,\" I say."
+  },
+  {
+   "s": "\"¡Ay, pobre!\", dice la señora.",
+   "e": "\"Oh, poor thing!\" the woman says."
+  },
+  {
+   "s": "En cuatro minutos ya sabe todo.",
+   "e": "In four minutes she knows everything."
+  },
+  {
+   "s": "Mi nombre, mi edad, mi trabajo.",
+   "e": "My name, my age, my job."
+  },
+  {
+   "s": "Si soy casado o soltero.",
+   "e": "Whether I am married or single."
+  },
+  {
+   "s": "Y dónde está mi familia.",
+   "e": "And where my family is."
+  },
+  {
+   "s": "En mi país eso sería raro.",
+   "e": "In my country that would be strange."
+  },
+  {
+   "s": "Uno no pregunta la edad.",
+   "e": "You do not ask somebody's age."
+  },
+  {
+   "s": "Uno no pregunta si es casado.",
+   "e": "You do not ask if they are married."
+  },
+  {
+   "s": "Le digo eso a Roberto.",
+   "e": "I say that to Roberto."
+  },
+  {
+   "s": "\"¿Y entonces cómo se conocen?\", pregunta él.",
+   "e": "\"So how do people get to know each other?\" he asks."
+  },
+  {
+   "s": "No sé qué contestar.",
+   "e": "I do not know what to answer."
+  },
+  {
+   "s": "Aquí la pregunta no es mala educación.",
+   "e": "Here the question is not bad manners."
+  },
+  {
+   "s": "Aquí la pregunta es interés.",
+   "e": "Here the question is interest."
+  },
+  {
+   "s": "No preguntar sería lo raro.",
+   "e": "Not asking would be the strange thing."
+  },
+  {
+   "s": "Sería como decir que no le importa.",
+   "e": "It would be like saying you do not care."
+  },
+  {
+   "s": "Después de una semana yo también pregunto.",
+   "e": "After a week I ask too."
+  },
+  {
+   "s": "Le pregunto la edad a un vecino.",
+   "e": "I ask a neighbour his age."
+  },
+  {
+   "s": "Le pregunto por su familia.",
+   "e": "I ask about his family."
+  },
+  {
+   "s": "Le pregunto en qué trabaja.",
+   "e": "I ask what work he does."
+  },
+  {
+   "s": "El vecino contesta todo, contento.",
+   "e": "The neighbour answers everything, happily."
+  },
+  {
+   "s": "Se llama don Beto.",
+   "e": "He is called don Beto."
+  },
+  {
+   "s": "Don Beto tiene sesenta años.",
+   "e": "Don Beto is sixty."
+  },
+  {
+   "s": "Don Beto trabaja arreglando bicicletas.",
+   "e": "Don Beto works fixing bicycles."
+  },
+  {
+   "s": "Don Beto es casado y tiene cinco hijos.",
+   "e": "Don Beto is married and has five children."
+  },
+  {
+   "s": "Tres hijos viven en Costa Rica.",
+   "e": "Three of his children live in Costa Rica."
+  },
+  {
+   "s": "Eso lo dice más despacio.",
+   "e": "That he says more slowly."
+  },
+  {
+   "s": "En el patio siempre hay alguien.",
+   "e": "There is always somebody in the patio."
+  },
+  {
+   "s": "En el patio nadie está solo.",
+   "e": "Nobody is alone in the patio."
+  },
+  {
+   "s": "Al principio quería estar solo.",
+   "e": "At first I wanted to be alone."
+  },
+  {
+   "s": "Ahora no me acuerdo por qué.",
+   "e": "Now I cannot remember why."
+  }
+ ]
+}

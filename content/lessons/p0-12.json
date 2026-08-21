@@ -1,0 +1,234 @@
+{
+ "id": "p0-12",
+ "title": "Tengo hambre",
+ "desc": "Saying what your body needs",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "hambre",
+  "sed",
+  "sueño",
+  "miedo",
+  "prisa",
+  "razón",
+  "cansado"
+ ],
+ "sn": [
+  {
+   "s": "En español uno no está con hambre.",
+   "e": "In Spanish you are not with hunger."
+  },
+  {
+   "s": "Uno tiene hambre.",
+   "e": "You have hunger."
+  },
+  {
+   "s": "Tengo hambre.",
+   "e": "I am hungry."
+  },
+  {
+   "s": "Roberto tiene hambre.",
+   "e": "Roberto is hungry."
+  },
+  {
+   "s": "Doña Carmen pregunta si tengo hambre.",
+   "e": "Doña Carmen asks if I am hungry."
+  },
+  {
+   "s": "Siempre pregunta si tengo hambre.",
+   "e": "She always asks if I am hungry."
+  },
+  {
+   "s": "Y con este calor uno tiene sed.",
+   "e": "And in this heat you get thirsty."
+  },
+  {
+   "s": "Tengo sed todo el día.",
+   "e": "I am thirsty all day."
+  },
+  {
+   "s": "Tomo agua y tengo sed otra vez.",
+   "e": "I drink water and I am thirsty again."
+  },
+  {
+   "s": "En la tarde tengo sueño.",
+   "e": "In the afternoon I get sleepy."
+  },
+  {
+   "s": "Todos tienen sueño a las dos.",
+   "e": "Everybody is sleepy at two."
+  },
+  {
+   "s": "Con este calor da sueño.",
+   "e": "This heat makes you sleepy."
+  },
+  {
+   "s": "En la noche a veces tengo frío.",
+   "e": "At night sometimes I am cold."
+  },
+  {
+   "s": "Roberto no entiende eso.",
+   "e": "Roberto does not understand that."
+  },
+  {
+   "s": "\"¿Frío? ¿Aquí?\", dice el chavalo.",
+   "e": "\"Cold? Here?\" the kid says."
+  },
+  {
+   "s": "Para él nunca hace frío.",
+   "e": "For him it is never cold."
+  },
+  {
+   "s": "El primer día tuve miedo.",
+   "e": "On the first day I was afraid."
+  },
+  {
+   "s": "Tuve miedo de la calle.",
+   "e": "I was afraid of the street."
+  },
+  {
+   "s": "Tuve miedo de hablar mal.",
+   "e": "I was afraid of speaking badly."
+  },
+  {
+   "s": "Ahora tengo menos miedo.",
+   "e": "Now I am less afraid."
+  },
+  {
+   "s": "Doña Carmen nunca tiene prisa.",
+   "e": "Doña Carmen is never in a hurry."
+  },
+  {
+   "s": "Aquí nadie tiene prisa.",
+   "e": "Nobody is in a hurry here."
+  },
+  {
+   "s": "Yo tengo prisa y no sirve de nada.",
+   "e": "I am in a hurry and it does me no good."
+  },
+  {
+   "s": "El bus llega cuando llega.",
+   "e": "The bus comes when it comes."
+  },
+  {
+   "s": "El agua viene cuando viene.",
+   "e": "The water comes when it comes."
+  },
+  {
+   "s": "Y tener prisa no cambia nada.",
+   "e": "And being in a hurry changes nothing."
+  },
+  {
+   "s": "Un día le digo a Roberto que tengo prisa.",
+   "e": "One day I tell Roberto I am in a hurry."
+  },
+  {
+   "s": "\"¿Prisa para qué?\", pregunta él.",
+   "e": "\"In a hurry for what?\" he asks."
+  },
+  {
+   "s": "No sé qué responder.",
+   "e": "I do not know what to answer."
+  },
+  {
+   "s": "\"Tenés razón\", le digo.",
+   "e": "\"You're right,\" I say to him."
+  },
+  {
+   "s": "Y eso también es tener.",
+   "e": "And that is another one with tener."
+  },
+  {
+   "s": "Uno tiene razón.",
+   "e": "You have reason - you are right."
+  },
+  {
+   "s": "Vos tenés razón.",
+   "e": "Vos tenés razón."
+  },
+  {
+   "s": "Doña Carmen siempre tiene razón.",
+   "e": "Doña Carmen is always right."
+  },
+  {
+   "s": "Esa tarde estoy cansado.",
+   "e": "That afternoon I am tired."
+  },
+  {
+   "s": "Caminé mucho y estoy cansado.",
+   "e": "I walked a lot and I am tired."
+  },
+  {
+   "s": "Me siento cansado y con sed.",
+   "e": "I feel tired and thirsty."
+  },
+  {
+   "s": "Doña Carmen me ve la cara.",
+   "e": "Doña Carmen sees my face."
+  },
+  {
+   "s": "\"¿Cómo se siente, mijo?\"",
+   "e": "\"How are you feeling, mijo?\""
+  },
+  {
+   "s": "\"Cansado\", digo yo. \"Y con hambre.\"",
+   "e": "\"Tired,\" I say. \"And hungry.\""
+  },
+  {
+   "s": "\"Entonces coma y duerma.\"",
+   "e": "\"Then eat and sleep.\""
+  },
+  {
+   "s": "Eso hago.",
+   "e": "That is what I do."
+  },
+  {
+   "s": "Como con hambre y duermo con sueño.",
+   "e": "I eat hungry and I sleep sleepy."
+  },
+  {
+   "s": "En la noche me siento mejor.",
+   "e": "At night I feel better."
+  },
+  {
+   "s": "Aprendo que el cuerpo se dice con tener.",
+   "e": "I learn that the body is said with tener."
+  },
+  {
+   "s": "Tengo hambre. Tengo sed. Tengo sueño.",
+   "e": "I am hungry. I am thirsty. I am sleepy."
+  },
+  {
+   "s": "Tengo frío. Tengo miedo. Tengo prisa.",
+   "e": "I am cold. I am afraid. I am in a hurry."
+  },
+  {
+   "s": "Y tengo razón, a veces.",
+   "e": "And I am right, sometimes."
+  },
+  {
+   "s": "Pero uno está cansado.",
+   "e": "But you are tired."
+  },
+  {
+   "s": "El cansancio va con estar.",
+   "e": "Tiredness goes with estar."
+  },
+  {
+   "s": "Nadie me explica por qué.",
+   "e": "Nobody explains why to me."
+  },
+  {
+   "s": "Roberto no sabe por qué.",
+   "e": "Roberto does not know why."
+  },
+  {
+   "s": "\"Así se dice\", dice él.",
+   "e": "\"That is how you say it,\" he says."
+  },
+  {
+   "s": "Y así se dice.",
+   "e": "And that is how you say it."
+  }
+ ]
+}

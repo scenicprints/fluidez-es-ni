@@ -1,0 +1,263 @@
+{
+ "id": "p0-08",
+ "title": "Vos",
+ "desc": "Nobody says tu here",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "hablar",
+  "querer",
+  "poder",
+  "hablo"
+ ],
+ "sn": [
+  {
+   "s": "Yo aprendí español en la escuela.",
+   "e": "I learned Spanish at school."
+  },
+  {
+   "s": "En la escuela me enseñaron una cosa.",
+   "e": "At school they taught me one thing."
+  },
+  {
+   "s": "Me enseñaron que uno dice tú.",
+   "e": "They taught me that you say tú."
+  },
+  {
+   "s": "Tú tienes. Tú quieres. Tú puedes.",
+   "e": "Tú tienes. Tú quieres. Tú puedes."
+  },
+  {
+   "s": "Aquí nadie habla así.",
+   "e": "Nobody talks like that here."
+  },
+  {
+   "s": "Aquí la gente dice vos.",
+   "e": "Here people say vos."
+  },
+  {
+   "s": "Vos tenés. Vos querés. Vos podés.",
+   "e": "Vos tenés. Vos querés. Vos podés."
+  },
+  {
+   "s": "Estoy con Roberto en la calle.",
+   "e": "I am with Roberto in the street."
+  },
+  {
+   "s": "\"¿Tú quieres ir?\", le pregunto.",
+   "e": "\"Do you want to go?\" I ask him."
+  },
+  {
+   "s": "Roberto me mira raro.",
+   "e": "Roberto gives me a strange look."
+  },
+  {
+   "s": "\"¿Tú?\", dice el chavalo.",
+   "e": "\"Tú?\" the kid says."
+  },
+  {
+   "s": "\"¿Está mal?\", pregunto yo.",
+   "e": "\"Is it wrong?\" I ask."
+  },
+  {
+   "s": "\"No está mal. Pero nadie habla así.\"",
+   "e": "\"It is not wrong. But nobody talks like that.\""
+  },
+  {
+   "s": "\"¿Y cómo se dice?\", pregunto.",
+   "e": "\"And how do you say it?\" I ask."
+  },
+  {
+   "s": "\"¿Querés ir?\", dice Roberto.",
+   "e": "\"¿Querés ir?\" Roberto says."
+  },
+  {
+   "s": "\"¿Querés ir?\", digo yo.",
+   "e": "\"¿Querés ir?\" I say."
+  },
+  {
+   "s": "\"Así\", dice el chavalo. \"Otra vez.\"",
+   "e": "\"Like that,\" the kid says. \"Again.\""
+  },
+  {
+   "s": "Roberto me enseña toda la tarde.",
+   "e": "Roberto teaches me all afternoon."
+  },
+  {
+   "s": "\"Vos tenés\", dice él.",
+   "e": "\"Vos tenés,\" he says."
+  },
+  {
+   "s": "\"Vos tenés\", digo yo.",
+   "e": "\"Vos tenés,\" I say."
+  },
+  {
+   "s": "\"Vos podés.\"",
+   "e": "\"Vos podés.\""
+  },
+  {
+   "s": "\"Vos podés\", repito.",
+   "e": "\"Vos podés,\" I repeat."
+  },
+  {
+   "s": "\"Vos hablás bien\", dice Roberto.",
+   "e": "\"Vos hablás bien,\" Roberto says."
+  },
+  {
+   "s": "\"Yo no hablo bien\", digo yo.",
+   "e": "\"I do not talk well,\" I say."
+  },
+  {
+   "s": "\"Vos hablás mejor que ayer\", dice él.",
+   "e": "\"You talk better than yesterday,\" he says."
+  },
+  {
+   "s": "Después Roberto me dice algo importante.",
+   "e": "Then Roberto tells me something important."
+  },
+  {
+   "s": "\"Pero con mi mamá no se dice vos.\"",
+   "e": "\"But with my mum you do not say vos.\""
+  },
+  {
+   "s": "\"¿Y cómo le hablo a doña Carmen?\"",
+   "e": "\"And how do I talk to doña Carmen?\""
+  },
+  {
+   "s": "\"A ella se le habla de usted.\"",
+   "e": "\"You speak to her with usted.\""
+  },
+  {
+   "s": "\"Usted tiene. Usted quiere. Usted puede.\"",
+   "e": "\"Usted tiene. Usted quiere. Usted puede.\""
+  },
+  {
+   "s": "\"¿Y a vos?\", pregunto.",
+   "e": "\"And to you?\" I ask."
+  },
+  {
+   "s": "\"A mí, vos. Somos amigos.\"",
+   "e": "\"To me, vos. We are friends.\""
+  },
+  {
+   "s": "Entonces hay dos maneras de hablar.",
+   "e": "So there are two ways to talk."
+  },
+  {
+   "s": "Vos para los amigos.",
+   "e": "Vos for friends."
+  },
+  {
+   "s": "Usted para los mayores.",
+   "e": "Usted for older people."
+  },
+  {
+   "s": "Usted para la gente que uno no conoce.",
+   "e": "Usted for people you do not know."
+  },
+  {
+   "s": "Y usted para el respeto.",
+   "e": "And usted for respect."
+  },
+  {
+   "s": "Esa noche practico solo en mi cuarto.",
+   "e": "That night I practise alone in my room."
+  },
+  {
+   "s": "Vos tenés hambre.",
+   "e": "Vos tenés hambre."
+  },
+  {
+   "s": "Vos querés agua.",
+   "e": "Vos querés agua."
+  },
+  {
+   "s": "Vos podés venir.",
+   "e": "Vos podés venir."
+  },
+  {
+   "s": "Vos hablás rápido.",
+   "e": "Vos hablás rápido."
+  },
+  {
+   "s": "Vos sos mi amigo.",
+   "e": "Vos sos mi amigo."
+  },
+  {
+   "s": "Al día siguiente lo uso en la calle.",
+   "e": "The next day I use it in the street."
+  },
+  {
+   "s": "Veo a Roberto con otro chavalo.",
+   "e": "I see Roberto with another kid."
+  },
+  {
+   "s": "\"¿Qué hacés?\", le digo.",
+   "e": "\"What are you doing?\" I say to him."
+  },
+  {
+   "s": "Roberto se ríe grande.",
+   "e": "Roberto laughs out loud."
+  },
+  {
+   "s": "\"¡Ideay! Ya hablás como de aquí.\"",
+   "e": "\"Ideay! You talk like you're from here now.\""
+  },
+  {
+   "s": "El otro chavalo me pregunta algo.",
+   "e": "The other kid asks me something."
+  },
+  {
+   "s": "\"¿De dónde sos vos?\"",
+   "e": "\"Where are you from?\""
+  },
+  {
+   "s": "Le digo de dónde soy.",
+   "e": "I tell him where I am from."
+  },
+  {
+   "s": "\"Pero hablás como nica\", dice él.",
+   "e": "\"But you talk like a Nica,\" he says."
+  },
+  {
+   "s": "No es verdad todavía.",
+   "e": "It is not true yet."
+  },
+  {
+   "s": "Hablo mal y hablo despacio.",
+   "e": "I talk badly and I talk slowly."
+  },
+  {
+   "s": "Pero uso vos.",
+   "e": "But I use vos."
+  },
+  {
+   "s": "Y con vos, la gente me habla distinto.",
+   "e": "And with vos, people talk to me differently."
+  },
+  {
+   "s": "Con usted uno está afuera.",
+   "e": "With usted you are outside."
+  },
+  {
+   "s": "Con vos uno está adentro.",
+   "e": "With vos you are inside."
+  },
+  {
+   "s": "En la noche le hablo a doña Carmen.",
+   "e": "At night I talk to doña Carmen."
+  },
+  {
+   "s": "\"¿Quiere agua, doña Carmen?\", le digo de usted.",
+   "e": "\"Would you like water, doña Carmen?\" I say, with usted."
+  },
+  {
+   "s": "Ella sonríe.",
+   "e": "She smiles."
+  },
+  {
+   "s": "\"Aprendiste rápido, mijo.\"",
+   "e": "\"You learned fast, mijo.\""
+  }
+ ]
+}

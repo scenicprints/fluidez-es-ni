@@ -1,0 +1,256 @@
+{
+ "id": "p0-07",
+ "title": "El agua",
+ "desc": "Water has a schedule",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "jueves"
+ ],
+ "sn": [
+  {
+   "s": "Es lunes en la mañana.",
+   "e": "It is Monday morning."
+  },
+  {
+   "s": "Doña Carmen llena la pila.",
+   "e": "Doña Carmen fills the pila."
+  },
+  {
+   "s": "Llena la pila con una manguera.",
+   "e": "She fills the pila with a hose."
+  },
+  {
+   "s": "Llena también dos baldes.",
+   "e": "She fills two buckets as well."
+  },
+  {
+   "s": "Llena todo lo que puede.",
+   "e": "She fills everything she can."
+  },
+  {
+   "s": "\"¿Por qué llena tanto?\", pregunto.",
+   "e": "\"Why are you filling so much?\" I ask."
+  },
+  {
+   "s": "\"Porque hoy hay agua\", dice ella.",
+   "e": "\"Because there is water today,\" she says."
+  },
+  {
+   "s": "\"¿Y mañana no hay agua?\"",
+   "e": "\"And tomorrow there is no water?\""
+  },
+  {
+   "s": "\"Mañana no sé\", dice doña Carmen.",
+   "e": "\"Tomorrow I do not know,\" doña Carmen says."
+  },
+  {
+   "s": "Roberto me explica después.",
+   "e": "Roberto explains it to me afterwards."
+  },
+  {
+   "s": "\"El agua no viene todos los días.\"",
+   "e": "\"The water does not come every day.\""
+  },
+  {
+   "s": "\"Viene el lunes y el jueves.\"",
+   "e": "\"It comes on Monday and Thursday.\""
+  },
+  {
+   "s": "\"A veces viene otro día.\"",
+   "e": "\"Sometimes it comes on another day.\""
+  },
+  {
+   "s": "\"A veces no viene en toda la semana.\"",
+   "e": "\"Sometimes it does not come all week.\""
+  },
+  {
+   "s": "\"Por eso uno llena la pila.\"",
+   "e": "\"That is why you fill the pila.\""
+  },
+  {
+   "s": "Ahora entiendo la pila.",
+   "e": "Now I understand the pila."
+  },
+  {
+   "s": "La pila no es para bañarse.",
+   "e": "The pila is not for bathing in."
+  },
+  {
+   "s": "La pila es para guardar el agua.",
+   "e": "The pila is for storing the water."
+  },
+  {
+   "s": "El lunes se llena la pila.",
+   "e": "On Monday you fill the pila."
+  },
+  {
+   "s": "El jueves se llena la pila otra vez.",
+   "e": "On Thursday you fill the pila again."
+  },
+  {
+   "s": "Entre lunes y jueves hay que cuidar el agua.",
+   "e": "Between Monday and Thursday you have to look after the water."
+  },
+  {
+   "s": "Esa semana yo no cuido el agua.",
+   "e": "That week I do not look after the water."
+  },
+  {
+   "s": "Lavo mi ropa con mucha agua.",
+   "e": "I wash my clothes with a lot of water."
+  },
+  {
+   "s": "Uso tres baldes de agua.",
+   "e": "I use three buckets of water."
+  },
+  {
+   "s": "Después me baño con dos baldes más.",
+   "e": "Then I bathe with two more buckets."
+  },
+  {
+   "s": "En la tarde la pila está casi vacía.",
+   "e": "By the afternoon the pila is nearly empty."
+  },
+  {
+   "s": "Doña Carmen ve la pila.",
+   "e": "Doña Carmen sees the pila."
+  },
+  {
+   "s": "No dice nada.",
+   "e": "She says nothing."
+  },
+  {
+   "s": "Pero yo veo su cara.",
+   "e": "But I see her face."
+  },
+  {
+   "s": "\"¿Hice algo malo?\", pregunto.",
+   "e": "\"Did I do something wrong?\" I ask."
+  },
+  {
+   "s": "\"Es jueves hasta pasado mañana\", dice ella.",
+   "e": "\"It is Thursday the day after tomorrow,\" she says."
+  },
+  {
+   "s": "Entonces entiendo.",
+   "e": "Then I understand."
+  },
+  {
+   "s": "Hay agua para hoy.",
+   "e": "There is water for today."
+  },
+  {
+   "s": "Y no hay agua para mañana.",
+   "e": "And there is no water for tomorrow."
+  },
+  {
+   "s": "Y todavía falta un día.",
+   "e": "And there is still a day to go."
+  },
+  {
+   "s": "\"Perdón, doña Carmen\", digo yo.",
+   "e": "\"Sorry, doña Carmen,\" I say."
+  },
+  {
+   "s": "\"No se preocupe, mijo.\"",
+   "e": "\"Do not worry, mijo.\""
+  },
+  {
+   "s": "\"Uno aprende\", dice ella.",
+   "e": "\"You learn,\" she says."
+  },
+  {
+   "s": "Esa noche me baño con medio balde.",
+   "e": "That night I bathe with half a bucket."
+  },
+  {
+   "s": "Con medio balde alcanza.",
+   "e": "Half a bucket is enough."
+  },
+  {
+   "s": "No es cómodo, pero alcanza.",
+   "e": "It is not comfortable, but it is enough."
+  },
+  {
+   "s": "El miércoles no hay agua en la pila.",
+   "e": "On Wednesday there is no water in the pila."
+  },
+  {
+   "s": "Doña Carmen saca agua de un balde guardado.",
+   "e": "Doña Carmen takes water from a bucket she kept."
+  },
+  {
+   "s": "Ese balde estaba escondido en la cocina.",
+   "e": "That bucket was hidden in the kitchen."
+  },
+  {
+   "s": "Ella siempre guarda un balde.",
+   "e": "She always keeps one bucket back."
+  },
+  {
+   "s": "Siempre.",
+   "e": "Always."
+  },
+  {
+   "s": "\"¿Y si viene el agua el jueves?\", pregunto.",
+   "e": "\"And if the water comes on Thursday?\" I ask."
+  },
+  {
+   "s": "\"Entonces llenamos otra vez\", dice ella.",
+   "e": "\"Then we fill up again,\" she says."
+  },
+  {
+   "s": "El jueves me levanto temprano.",
+   "e": "On Thursday I get up early."
+  },
+  {
+   "s": "Muy temprano, con doña Carmen.",
+   "e": "Very early, with doña Carmen."
+  },
+  {
+   "s": "El agua viene a las cinco de la mañana.",
+   "e": "The water comes at five in the morning."
+  },
+  {
+   "s": "Llenamos la pila juntos.",
+   "e": "We fill the pila together."
+  },
+  {
+   "s": "Llenamos los baldes.",
+   "e": "We fill the buckets."
+  },
+  {
+   "s": "Llenamos hasta una olla grande.",
+   "e": "We even fill a big pot."
+  },
+  {
+   "s": "A las seis el agua se va.",
+   "e": "At six the water goes."
+  },
+  {
+   "s": "Pero la pila está llena.",
+   "e": "But the pila is full."
+  },
+  {
+   "s": "Ahora entiendo por qué se levantan temprano.",
+   "e": "Now I understand why they get up early."
+  },
+  {
+   "s": "En esta calle todos se levantan temprano el jueves.",
+   "e": "On this street everybody gets up early on Thursday."
+  },
+  {
+   "s": "Toda la semana depende de esa hora.",
+   "e": "The whole week depends on that hour."
+  },
+  {
+   "s": "Desde ese día cuido el agua.",
+   "e": "From that day on I look after the water."
+  },
+  {
+   "s": "Con cuidado, como ellos.",
+   "e": "Carefully, like them."
+  }
+ ]
+}

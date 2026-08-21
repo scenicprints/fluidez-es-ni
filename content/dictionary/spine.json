@@ -15,6 +15,10 @@
   "en": "to come closer/to approach",
   "pos": "v"
  },
+ "acordarse": {
+  "en": "to remember",
+  "pos": "v"
+ },
  "acostarse": {
   "en": "to lie down/to go to bed",
   "pos": "v"
@@ -23,10 +27,18 @@
   "en": "to get used to",
   "pos": "v"
  },
+ "adelante": {
+  "en": "ahead/in front",
+  "pos": "adv"
+ },
  "aeropuerto": {
   "en": "airport",
   "g": "m",
   "pos": "n"
+ },
+ "agarrarse": {
+  "en": "to hold on",
+  "pos": "v"
  },
  "ah": {
   "en": "ah/oh",
@@ -39,12 +51,59 @@
   "note": "'No tiene aire' about a car means no air conditioning",
   "pos": "n"
  },
+ "alcanzar": {
+  "en": "to be enough/to reach",
+  "pos": "v"
+ },
+ "alto": {
+  "en": "tall/high",
+  "pos": "adj"
+ },
+ "amigo": {
+  "en": "friend",
+  "g": "m",
+  "pos": "n"
+ },
  "apagar": {
   "en": "to turn off/to put out",
   "pos": "v"
  },
+ "apenas": {
+  "en": "barely/only just",
+  "pos": "adv"
+ },
+ "apodo": {
+  "en": "nickname",
+  "g": "m",
+  "note": "Everybody has one. You do not choose it",
+  "pos": "n"
+ },
+ "arreglar": {
+  "en": "to fix",
+  "pos": "v"
+ },
+ "asiento": {
+  "en": "seat",
+  "g": "m",
+  "pos": "n"
+ },
  "avión": {
   "en": "plane/aeroplane",
+  "g": "m",
+  "pos": "n"
+ },
+ "ay": {
+  "en": "oh/ow",
+  "pos": "intj"
+ },
+ "ayudante": {
+  "en": "conductor",
+  "g": "m",
+  "note": "Shouts the route, takes the fare, never sits down",
+  "pos": "n"
+ },
+ "azúcar": {
+  "en": "sugar",
   "g": "m",
   "pos": "n"
  },
@@ -52,6 +111,10 @@
   "en": "year",
   "g": "m",
   "pos": "n"
+ },
+ "bajo": {
+  "en": "short/low",
+  "pos": "adj"
  },
  "balde": {
   "en": "bucket",
@@ -75,14 +138,39 @@
   "g": "m",
   "pos": "n"
  },
+ "bicicleta": {
+  "en": "bicycle",
+  "g": "f",
+  "pos": "n"
+ },
  "billete": {
   "en": "note/bill",
   "g": "m",
   "pos": "n"
  },
+ "blanco": {
+  "en": "white",
+  "pos": "adj"
+ },
  "boca": {
   "en": "mouth",
   "g": "f",
+  "pos": "n"
+ },
+ "bolsa": {
+  "en": "bag",
+  "g": "f",
+  "note": "Water and juice are sold in bags here, not bottles",
+  "pos": "n"
+ },
+ "botella": {
+  "en": "bottle",
+  "g": "f",
+  "pos": "n"
+ },
+ "botón": {
+  "en": "button",
+  "g": "m",
   "pos": "n"
  },
  "béisbol": {
@@ -91,9 +179,19 @@
   "note": "The national sport. Not football",
   "pos": "n"
  },
+ "cabeza": {
+  "en": "head",
+  "g": "f",
+  "pos": "n"
+ },
  "café": {
   "en": "coffee",
   "g": "m",
+  "pos": "n"
+ },
+ "caja": {
+  "en": "box",
+  "g": "f",
   "pos": "n"
  },
  "cama": {
@@ -101,12 +199,44 @@
   "g": "f",
   "pos": "n"
  },
+ "cambiar": {
+  "en": "to change",
+  "pos": "v"
+ },
  "caminar": {
   "en": "to walk",
   "pos": "v"
  },
+ "cansado": {
+  "en": "tired",
+  "pos": "adj"
+ },
+ "cansancio": {
+  "en": "tiredness",
+  "g": "m",
+  "pos": "n"
+ },
+ "cara": {
+  "en": "face",
+  "g": "f",
+  "pos": "n"
+ },
+ "carne": {
+  "en": "meat",
+  "g": "f",
+  "pos": "n"
+ },
+ "casado": {
+  "en": "married",
+  "pos": "adj"
+ },
  "cemento": {
   "en": "cement",
+  "g": "m",
+  "pos": "n"
+ },
+ "centro": {
+  "en": "centre/downtown",
   "g": "m",
   "pos": "n"
  },
@@ -117,6 +247,11 @@
  "cierto": {
   "en": "true/certain",
   "pos": "adj"
+ },
+ "cigarro": {
+  "en": "cigarette",
+  "g": "m",
+  "pos": "n"
  },
  "cobrar": {
   "en": "to charge",
@@ -140,9 +275,30 @@
   "en": "to count/to tell",
   "pos": "v"
  },
+ "contento": {
+  "en": "happy/pleased",
+  "pos": "adj"
+ },
+ "contestar": {
+  "en": "to answer",
+  "pos": "v"
+ },
+ "contrario": {
+  "en": "opposite",
+  "pos": "adj"
+ },
+ "corto": {
+  "en": "short",
+  "pos": "adj"
+ },
  "costar": {
   "en": "to cost",
   "pos": "v"
+ },
+ "costumbre": {
+  "en": "habit/custom",
+  "g": "f",
+  "pos": "n"
  },
  "cuajada": {
   "en": "fresh salty cheese",
@@ -154,21 +310,57 @@
   "g": "m",
   "pos": "n"
  },
+ "cuerpo": {
+  "en": "body",
+  "g": "m",
+  "pos": "n"
+ },
+ "cuidado": {
+  "en": "care/caution",
+  "g": "m",
+  "note": "'Tenga cuidado' - be careful",
+  "pos": "n"
+ },
+ "cuidar": {
+  "en": "to look after",
+  "pos": "v"
+ },
+ "cómodo": {
+  "en": "comfortable",
+  "pos": "adj"
+ },
  "córdoba": {
   "en": "córdoba",
   "g": "m",
   "note": "The currency. Written córdoba, said peso",
   "pos": "n"
  },
+ "depender": {
+  "en": "to depend",
+  "pos": "v"
+ },
  "desayuno": {
   "en": "breakfast",
   "g": "m",
   "pos": "n"
  },
+ "detrás": {
+  "en": "behind",
+  "pos": "adv"
+ },
  "dirección": {
   "en": "address/direction",
   "g": "f",
   "note": "An address here is landmarks, not a street and number",
+  "pos": "n"
+ },
+ "doblar": {
+  "en": "to fold/to turn",
+  "pos": "v"
+ },
+ "dueño": {
+  "en": "owner",
+  "g": "m",
   "pos": "n"
  },
  "dulce": {
@@ -179,18 +371,63 @@
   "en": "hard",
   "pos": "adj"
  },
+ "edad": {
+  "en": "age",
+  "g": "f",
+  "pos": "n"
+ },
+ "educación": {
+  "en": "manners/education",
+  "g": "f",
+  "note": "'Mala educación' means bad manners, not bad schooling",
+  "pos": "n"
+ },
+ "empezar": {
+  "en": "to start",
+  "pos": "v"
+ },
+ "encima": {
+  "en": "on top",
+  "pos": "adv"
+ },
  "enero": {
   "en": "January",
   "g": "m",
   "pos": "n"
  },
+ "enfrente": {
+  "en": "opposite/across",
+  "pos": "adv"
+ },
  "enojarse": {
   "en": "to get angry",
   "pos": "v"
  },
+ "ensalada": {
+  "en": "salad",
+  "g": "f",
+  "pos": "n"
+ },
  "entrar": {
   "en": "to go in/to come in",
   "pos": "v"
+ },
+ "equivocarse": {
+  "en": "to get it wrong",
+  "pos": "v"
+ },
+ "escoger": {
+  "en": "to choose",
+  "pos": "v"
+ },
+ "esconder": {
+  "en": "to hide",
+  "pos": "v"
+ },
+ "escuela": {
+  "en": "school",
+  "g": "f",
+  "pos": "n"
  },
  "esperar": {
   "en": "to wait/to hope",
@@ -205,13 +442,37 @@
   "en": "this/this thing",
   "pos": "pron"
  },
+ "faltar": {
+  "en": "to be missing/to be left",
+  "pos": "v"
+ },
+ "fila": {
+  "en": "queue",
+  "g": "f",
+  "pos": "n"
+ },
  "flaco": {
   "en": "thin/skinny",
   "pos": "adj"
  },
+ "frase": {
+  "en": "sentence/phrase",
+  "g": "f",
+  "pos": "n"
+ },
+ "frenar": {
+  "en": "to brake",
+  "pos": "v"
+ },
  "frijol": {
   "en": "bean",
   "g": "m",
+  "pos": "n"
+ },
+ "fritanga": {
+  "en": "street grill",
+  "g": "f",
+  "note": "Sets up at dusk. You eat standing in the street",
   "pos": "n"
  },
  "fruta": {
@@ -229,13 +490,31 @@
   "note": "The national breakfast. Eaten most mornings of most lives",
   "pos": "phrase"
  },
+ "gordo": {
+  "en": "large/fat",
+  "note": "Not an insult here. Also used as an endearment",
+  "pos": "adj"
+ },
  "grave": {
   "en": "serious",
   "pos": "adj"
  },
+ "gritar": {
+  "en": "to shout",
+  "pos": "v"
+ },
  "grueso": {
   "en": "thick",
   "pos": "adj"
+ },
+ "grupo": {
+  "en": "group",
+  "g": "m",
+  "pos": "n"
+ },
+ "guardar": {
+  "en": "to keep/to put away",
+  "pos": "v"
  },
  "hambre": {
   "en": "hunger",
@@ -243,12 +522,51 @@
   "note": "'Tengo hambre' - I am hungry",
   "pos": "n"
  },
+ "hoja": {
+  "en": "leaf/sheet",
+  "g": "f",
+  "note": "A plantain leaf is the plate at a fritanga",
+  "pos": "n"
+ },
  "horrible": {
   "en": "horrible",
   "pos": "adj"
  },
+ "huevo": {
+  "en": "egg",
+  "g": "m",
+  "pos": "n"
+ },
+ "humo": {
+  "en": "smoke",
+  "g": "m",
+  "pos": "n"
+ },
+ "ideay": {
+  "en": "hey/what?/no way",
+  "note": "Uniquely Nicaraguan. Means whatever the tone means",
+  "pos": "intj"
+ },
+ "igual": {
+  "en": "the same/anyway",
+  "pos": "adv"
+ },
+ "increíble": {
+  "en": "unbelievable",
+  "pos": "adj"
+ },
+ "interés": {
+  "en": "interest",
+  "g": "m",
+  "pos": "n"
+ },
  "jabón": {
   "en": "soap",
+  "g": "m",
+  "pos": "n"
+ },
+ "jueves": {
+  "en": "Thursday",
   "g": "m",
   "pos": "n"
  },
@@ -256,14 +574,50 @@
   "en": "to wash",
   "pos": "v"
  },
+ "letra": {
+  "en": "letter",
+  "g": "f",
+  "pos": "n"
+ },
+ "levantar": {
+  "en": "to lift",
+  "pos": "v"
+ },
+ "levantarse": {
+  "en": "to get up",
+  "pos": "v"
+ },
+ "libre": {
+  "en": "free/available",
+  "pos": "adj"
+ },
+ "libro": {
+  "en": "book",
+  "g": "m",
+  "pos": "n"
+ },
+ "llenar": {
+  "en": "to fill",
+  "pos": "v"
+ },
  "lleno": {
   "en": "full",
   "pos": "adj"
+ },
+ "lunes": {
+  "en": "Monday",
+  "g": "m",
+  "pos": "n"
  },
  "luz": {
   "en": "light/electricity",
   "g": "f",
   "note": "'Se fue la luz' - the power went. Said with no drama at all",
+  "pos": "n"
+ },
+ "maduro": {
+  "en": "fried ripe plantain",
+  "g": "m",
   "pos": "n"
  },
  "maleta": {
@@ -276,6 +630,30 @@
   "note": "Nicaragua says manejar, not conducir",
   "pos": "v"
  },
+ "manera": {
+  "en": "way/manner",
+  "g": "f",
+  "pos": "n"
+ },
+ "manguera": {
+  "en": "hose",
+  "g": "f",
+  "pos": "n"
+ },
+ "mano": {
+  "en": "hand",
+  "g": "f",
+  "pos": "n"
+ },
+ "martes": {
+  "en": "Tuesday",
+  "g": "m",
+  "pos": "n"
+ },
+ "mayor": {
+  "en": "older/elder",
+  "pos": "adj"
+ },
  "mesa": {
   "en": "table",
   "g": "f",
@@ -284,6 +662,12 @@
  "meter": {
   "en": "to put in",
   "pos": "v"
+ },
+ "miedo": {
+  "en": "fear",
+  "g": "m",
+  "note": "'Tengo miedo' - I am afraid",
+  "pos": "n"
  },
  "mijo": {
   "en": "son/love",
@@ -295,6 +679,24 @@
   "en": "to look at/to watch",
   "pos": "v"
  },
+ "mitad": {
+  "en": "half",
+  "g": "f",
+  "pos": "n"
+ },
+ "miércoles": {
+  "en": "Wednesday",
+  "g": "m",
+  "pos": "n"
+ },
+ "molestar": {
+  "en": "to bother/to annoy",
+  "pos": "v"
+ },
+ "moreno": {
+  "en": "dark-skinned",
+  "pos": "adj"
+ },
  "mueble": {
   "en": "piece of furniture",
   "g": "m",
@@ -305,6 +707,10 @@
   "g": "f",
   "pos": "n"
  },
+ "negro": {
+  "en": "black",
+  "pos": "adj"
+ },
  "nombre": {
   "en": "name",
   "g": "m",
@@ -313,6 +719,15 @@
  "normal": {
   "en": "normal/ordinary",
   "pos": "adj"
+ },
+ "ofrecer": {
+  "en": "to offer",
+  "pos": "v"
+ },
+ "olla": {
+  "en": "pot",
+  "g": "f",
+  "pos": "n"
  },
  "olor": {
   "en": "smell",
@@ -333,8 +748,44 @@
   "g": "m",
   "pos": "n"
  },
+ "parada": {
+  "en": "bus stop",
+  "g": "f",
+  "note": "Often just a corner with people waiting",
+  "pos": "n"
+ },
+ "pared": {
+  "en": "wall",
+  "g": "f",
+  "pos": "n"
+ },
+ "parrilla": {
+  "en": "grill",
+  "g": "f",
+  "pos": "n"
+ },
+ "pasaje": {
+  "en": "fare",
+  "g": "m",
+  "pos": "n"
+ },
  "pasaporte": {
   "en": "passport",
+  "g": "m",
+  "pos": "n"
+ },
+ "patio": {
+  "en": "yard/patio",
+  "g": "m",
+  "note": "Often has no wall. The neighbours' patio is the same patio",
+  "pos": "n"
+ },
+ "perderse": {
+  "en": "to get lost",
+  "pos": "v"
+ },
+ "perro": {
+  "en": "dog",
   "g": "m",
   "pos": "n"
  },
@@ -348,6 +799,11 @@
   "note": "What everyone actually calls a córdoba out loud",
   "pos": "n"
  },
+ "piel": {
+  "en": "skin",
+  "g": "f",
+  "pos": "n"
+ },
  "pila": {
   "en": "water tank/washing basin",
   "g": "f",
@@ -359,18 +815,68 @@
   "g": "m",
   "pos": "n"
  },
+ "plátano": {
+  "en": "plantain",
+  "g": "m",
+  "pos": "n"
+ },
+ "pobre": {
+  "en": "poor",
+  "pos": "adj"
+ },
+ "pollo": {
+  "en": "chicken",
+  "g": "m",
+  "pos": "n"
+ },
  "prender": {
   "en": "to turn on/to light",
   "note": "Nicaragua says prender, not encender",
+  "pos": "v"
+ },
+ "preocuparse": {
+  "en": "to worry",
+  "pos": "v"
+ },
+ "prisa": {
+  "en": "hurry",
+  "g": "f",
+  "note": "'Tengo prisa' - I am in a hurry. Rarely useful here",
+  "pos": "n"
+ },
+ "pulpería": {
+  "en": "corner shop",
+  "g": "f",
+  "note": "Somebody's front room with a grille. Sells anything, in any quantity",
+  "pos": "n"
+ },
+ "quedarse": {
+  "en": "to stay",
   "pos": "v"
  },
  "quejarse": {
   "en": "to complain",
   "pos": "v"
  },
+ "queso": {
+  "en": "cheese",
+  "g": "m",
+  "pos": "n"
+ },
  "raro": {
   "en": "strange/odd",
   "pos": "adj"
+ },
+ "razón": {
+  "en": "reason",
+  "g": "f",
+  "note": "'Tenés razón' - you are right",
+  "pos": "n"
+ },
+ "reja": {
+  "en": "grille/bars",
+  "g": "f",
+  "pos": "n"
  },
  "repente": {
   "en": "suddenly",
@@ -378,9 +884,22 @@
   "note": "Only ever heard as 'de repente'",
   "pos": "n"
  },
+ "repollo": {
+  "en": "cabbage",
+  "g": "m",
+  "pos": "n"
+ },
+ "responder": {
+  "en": "to answer",
+  "pos": "v"
+ },
  "revisar": {
   "en": "to check/to look over",
   "pos": "v"
+ },
+ "rojo": {
+  "en": "red",
+  "pos": "adj"
  },
  "ropa": {
   "en": "clothes",
@@ -390,6 +909,12 @@
  "ruido": {
   "en": "noise",
   "g": "m",
+  "pos": "n"
+ },
+ "ruta": {
+  "en": "city bus",
+  "g": "f",
+  "note": "Managua buses are rutas, by number. Never 'camión'",
   "pos": "n"
  },
  "sacar": {
@@ -409,6 +934,12 @@
   "en": "to dry",
   "pos": "v"
  },
+ "sed": {
+  "en": "thirst",
+  "g": "f",
+  "note": "'Tengo sed' - I am thirsty",
+  "pos": "n"
+ },
  "seguir": {
   "en": "to carry on/to follow",
   "pos": "v"
@@ -421,14 +952,63 @@
   "en": "to sit down",
   "pos": "v"
  },
+ "sentirse": {
+  "en": "to feel",
+  "pos": "v"
+ },
+ "servir": {
+  "en": "to serve/to be any use",
+  "pos": "v"
+ },
+ "señal": {
+  "en": "sign/signal",
+  "g": "f",
+  "pos": "n"
+ },
+ "significar": {
+  "en": "to mean",
+  "pos": "v"
+ },
+ "siguiente": {
+  "en": "next",
+  "pos": "adj"
+ },
  "silla": {
   "en": "chair",
   "g": "f",
   "pos": "n"
  },
+ "soltero": {
+  "en": "single/unmarried",
+  "pos": "adj"
+ },
  "sonreír": {
   "en": "to smile",
   "pos": "v"
+ },
+ "sorprender": {
+  "en": "to surprise",
+  "pos": "v"
+ },
+ "subir": {
+  "en": "to get on/to go up",
+  "pos": "v"
+ },
+ "suelto": {
+  "en": "loose/single",
+  "note": "'Cigarros sueltos' - cigarettes sold one at a time",
+  "pos": "adj"
+ },
+ "sueño": {
+  "en": "sleepiness/dream",
+  "g": "m",
+  "note": "'Tengo sueño' - I am sleepy",
+  "pos": "n"
+ },
+ "tajada": {
+  "en": "green plantain crisp",
+  "g": "f",
+  "pos": "n"
  },
  "taza": {
   "en": "cup",
@@ -450,9 +1030,27 @@
   "note": "Thick maize tortilla, not the thin Mexican kind",
   "pos": "n"
  },
+ "trabajo": {
+  "en": "work/job",
+  "g": "m",
+  "pos": "n"
+ },
  "tranquilo": {
   "en": "calm/relaxed",
   "pos": "adj"
+ },
+ "triste": {
+  "en": "sad",
+  "pos": "adj"
+ },
+ "turno": {
+  "en": "turn",
+  "g": "m",
+  "pos": "n"
+ },
+ "usar": {
+  "en": "to use",
+  "pos": "v"
  },
  "vacío": {
   "en": "empty",
@@ -468,13 +1066,26 @@
   "g": "f",
   "pos": "n"
  },
+ "vender": {
+  "en": "to sell",
+  "pos": "v"
+ },
  "ventana": {
   "en": "window",
   "g": "f",
   "pos": "n"
  },
+ "verde": {
+  "en": "green",
+  "pos": "adj"
+ },
  "vidrio": {
   "en": "glass (the material)",
+  "g": "m",
+  "pos": "n"
+ },
+ "viernes": {
+  "en": "Friday",
   "g": "m",
   "pos": "n"
  },

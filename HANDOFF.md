@@ -128,8 +128,12 @@ nothing is known yet.
 }
 ```
 
-- `wu` is the warm-up: **8–16 words the story genuinely teaches.** Every one
+- `wu` is the warm-up: **8–12 words the story genuinely teaches.** Every one
   must appear 5+ times in `sn` or the build fails.
+- **Write to that from the start.** Decide the 8–12 new words first, then
+  write the story so each one lands five or six times in different
+  sentences. Retrofitting repetition afterwards costs far more than
+  planning it, and a warm-up is a CLAIM — only claim what the story does.
 - `sn` is one sentence per entry with its English. Short sentences. This is
   what Review, Word Order, Listening and Shadowing all draw from, so every
   sentence must stand alone as a usable line.
@@ -220,6 +224,11 @@ opens `frío` and strengthens `frío`. Rules already paid for:
   contain every word, which flagged 109 words in story one.
 - **Multi-word warm-up entries** (`gallo pinto`) are counted as phrases in
   the raw text; a word counter can never see them.
+- **Conjugated forms must never be their own dictionary entry.** `sos`,
+  `tenés`, `podés`, `es`, `está` were all separate entries from `ser`,
+  `tener`, `poder`, so the commonest verbs in the language each had their
+  memory split in two. 68 merged. The irregular table in `verbs.json` is
+  authoritative for this — no gloss comparison, it states the mapping.
 - `ven`, `oye`, `di` and `sal` are NOT banned as tú imperatives - they are
   they-see, he-hears, I-gave and salt far more often.
 

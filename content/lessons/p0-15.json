@@ -1,0 +1,225 @@
+{
+ "id": "p0-15",
+ "title": "Ideay",
+ "desc": "Small words that carry a lot",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "ideay",
+  "dale",
+  "fijate",
+  "maje",
+  "significar",
+  "palabra"
+ ],
+ "sn": [
+  {
+   "s": "Hay palabras que no están en mi libro.",
+   "e": "There are words that are not in my book."
+  },
+  {
+   "s": "Son palabras cortas.",
+   "e": "They are short words."
+  },
+  {
+   "s": "La gente las usa todo el tiempo.",
+   "e": "People use them all the time."
+  },
+  {
+   "s": "La primera es ideay.",
+   "e": "The first is ideay."
+  },
+  {
+   "s": "Ideay no significa una sola cosa.",
+   "e": "Ideay does not mean one single thing."
+  },
+  {
+   "s": "Ideay puede significar hola.",
+   "e": "Ideay can mean hello."
+  },
+  {
+   "s": "Ideay puede significar qué pasó.",
+   "e": "Ideay can mean what happened."
+  },
+  {
+   "s": "Ideay puede significar no puedo creerlo.",
+   "e": "Ideay can mean I cannot believe it."
+  },
+  {
+   "s": "Todo depende de cómo se dice.",
+   "e": "It all depends on how it is said."
+  },
+  {
+   "s": "Roberto me lo dice de tres maneras.",
+   "e": "Roberto says it to me in three ways."
+  },
+  {
+   "s": "\"¡Ideay!\", dice contento.",
+   "e": "\"¡Ideay!\" he says, cheerfully."
+  },
+  {
+   "s": "\"¿Ideay?\", dice preguntando.",
+   "e": "\"¿Ideay?\" he says, asking."
+  },
+  {
+   "s": "\"Ideay...\", dice despacio y triste.",
+   "e": "\"Ideay...\" he says, slowly and sadly."
+  },
+  {
+   "s": "Tres veces la misma palabra.",
+   "e": "Three times the same word."
+  },
+  {
+   "s": "Tres cosas distintas.",
+   "e": "Three different things."
+  },
+  {
+   "s": "La segunda palabra es dale.",
+   "e": "The second word is dale."
+  },
+  {
+   "s": "Dale significa que sí.",
+   "e": "Dale means yes."
+  },
+  {
+   "s": "Dale significa está bien.",
+   "e": "Dale means all right."
+  },
+  {
+   "s": "Dale significa hagámoslo.",
+   "e": "Dale means let's do it."
+  },
+  {
+   "s": "\"¿Vamos?\" \"Dale.\"",
+   "e": "\"Shall we go?\" \"Dale.\""
+  },
+  {
+   "s": "\"¿Comemos?\" \"Dale pues.\"",
+   "e": "\"Shall we eat?\" \"Dale pues.\""
+  },
+  {
+   "s": "Dale pues es dale, pero más.",
+   "e": "Dale pues is dale, but more so."
+  },
+  {
+   "s": "Y pues va al final de todo.",
+   "e": "And pues goes at the end of everything."
+  },
+  {
+   "s": "\"Vaya pues.\" \"Bueno pues.\"",
+   "e": "\"Vaya pues.\" \"Bueno pues.\""
+  },
+  {
+   "s": "Pues no significa nada solo.",
+   "e": "Pues means nothing on its own."
+  },
+  {
+   "s": "Pues cierra la frase.",
+   "e": "Pues closes the sentence."
+  },
+  {
+   "s": "Sin pues la frase queda abierta.",
+   "e": "Without pues the sentence stays open."
+  },
+  {
+   "s": "La tercera palabra es fijate.",
+   "e": "The third word is fijate."
+  },
+  {
+   "s": "Fijate es como decir mirá.",
+   "e": "Fijate is like saying look."
+  },
+  {
+   "s": "\"Fijate que ayer vi a tu hermano.\"",
+   "e": "\"You know, yesterday I saw your brother.\""
+  },
+  {
+   "s": "Fijate va antes de contar algo.",
+   "e": "Fijate goes before telling something."
+  },
+  {
+   "s": "Y fijate va antes de decir que no.",
+   "e": "And fijate goes before saying no."
+  },
+  {
+   "s": "\"Fijate que no puedo\", dice alguien.",
+   "e": "\"The thing is, I can't,\" somebody says."
+  },
+  {
+   "s": "Eso lo entiendo mucho después.",
+   "e": "I understand that much later."
+  },
+  {
+   "s": "La cuarta palabra es maje.",
+   "e": "The fourth word is maje."
+  },
+  {
+   "s": "Maje es como decir amigo.",
+   "e": "Maje is like saying mate."
+  },
+  {
+   "s": "Pero maje sólo entre amigos.",
+   "e": "But maje only between friends."
+  },
+  {
+   "s": "Maje nunca con doña Carmen.",
+   "e": "Maje never with doña Carmen."
+  },
+  {
+   "s": "Maje nunca con don Beto.",
+   "e": "Maje never with don Beto."
+  },
+  {
+   "s": "Roberto me dice maje.",
+   "e": "Roberto calls me maje."
+  },
+  {
+   "s": "Yo le digo maje a Roberto.",
+   "e": "I call Roberto maje."
+  },
+  {
+   "s": "Un día uso ideay sin pensar.",
+   "e": "One day I use ideay without thinking."
+  },
+  {
+   "s": "Roberto me cuenta algo increíble.",
+   "e": "Roberto tells me something unbelievable."
+  },
+  {
+   "s": "\"¡Ideay!\", digo yo.",
+   "e": "\"¡Ideay!\" I say."
+  },
+  {
+   "s": "Roberto se ríe fuerte.",
+   "e": "Roberto laughs loudly."
+  },
+  {
+   "s": "Se ríe mucho rato.",
+   "e": "He laughs for a good while."
+  },
+  {
+   "s": "\"¿Qué?\", pregunto yo.",
+   "e": "\"What?\" I ask."
+  },
+  {
+   "s": "\"Nada, maje. Que ya hablás así.\"",
+   "e": "\"Nothing, maje. It's that you talk like that now.\""
+  },
+  {
+   "s": "Yo no me di cuenta.",
+   "e": "I did not notice."
+  },
+  {
+   "s": "Salió solo.",
+   "e": "It came out on its own."
+  },
+  {
+   "s": "Y eso es lo que quiero.",
+   "e": "And that is what I want."
+  },
+  {
+   "s": "No pensar la palabra antes de usarla.",
+   "e": "Not thinking the word before using it."
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "id": "p0-14",
+ "title": "El bus",
+ "desc": "Getting on is the hard part",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "bus",
+  "ruta",
+  "parada",
+  "ayudante",
+  "subir",
+  "asiento",
+  "pasaje",
+  "gritar",
+  "centro"
+ ],
+ "sn": [
+  {
+   "s": "Necesito ir al centro.",
+   "e": "I need to go to the centre."
+  },
+  {
+   "s": "Roberto me lleva a la parada.",
+   "e": "Roberto takes me to the bus stop."
+  },
+  {
+   "s": "La parada no tiene señal.",
+   "e": "The bus stop has no sign."
+  },
+  {
+   "s": "La parada es una esquina y nada más.",
+   "e": "The bus stop is a corner and nothing else."
+  },
+  {
+   "s": "\"¿Cómo sé que es la parada?\", pregunto.",
+   "e": "\"How do I know it's the stop?\" I ask."
+  },
+  {
+   "s": "\"Porque hay gente esperando\", dice él.",
+   "e": "\"Because there are people waiting,\" he says."
+  },
+  {
+   "s": "Los buses aquí se llaman rutas.",
+   "e": "The buses here are called rutas."
+  },
+  {
+   "s": "Cada ruta tiene un número.",
+   "e": "Each ruta has a number."
+  },
+  {
+   "s": "La ruta 110 va al centro.",
+   "e": "The 110 goes to the centre."
+  },
+  {
+   "s": "La ruta 118 va para otro lado.",
+   "e": "The 118 goes the other way."
+  },
+  {
+   "s": "Llega un bus lleno de gente.",
+   "e": "A bus arrives full of people."
+  },
+  {
+   "s": "El bus no para del todo.",
+   "e": "The bus does not fully stop."
+  },
+  {
+   "s": "Va despacio y la gente sube.",
+   "e": "It slows down and people get on."
+  },
+  {
+   "s": "Un muchacho grita el destino.",
+   "e": "A young man shouts the destination."
+  },
+  {
+   "s": "\"¡Centro, centro, centro!\", grita.",
+   "e": "\"Centro, centro, centro!\" he shouts."
+  },
+  {
+   "s": "Ese muchacho es el ayudante.",
+   "e": "That young man is the ayudante."
+  },
+  {
+   "s": "El ayudante grita, cobra y ayuda.",
+   "e": "The ayudante shouts, collects the fare and helps."
+  },
+  {
+   "s": "El ayudante nunca se sienta.",
+   "e": "The ayudante never sits down."
+  },
+  {
+   "s": "Subo al bus detrás de Roberto.",
+   "e": "I get on the bus behind Roberto."
+  },
+  {
+   "s": "Adentro hace más calor que afuera.",
+   "e": "Inside it is hotter than outside."
+  },
+  {
+   "s": "No hay asiento libre.",
+   "e": "There is no free seat."
+  },
+  {
+   "s": "Vamos de pie, apretados.",
+   "e": "We stand, packed in."
+  },
+  {
+   "s": "El bus va rápido y frena fuerte.",
+   "e": "The bus goes fast and brakes hard."
+  },
+  {
+   "s": "Yo me agarro con las dos manos.",
+   "e": "I hold on with both hands."
+  },
+  {
+   "s": "El ayudante pasa entre la gente.",
+   "e": "The ayudante moves between the people."
+  },
+  {
+   "s": "Pasa cobrando el pasaje.",
+   "e": "He goes along collecting the fare."
+  },
+  {
+   "s": "\"El pasaje, el pasaje\", dice.",
+   "e": "\"Fares, fares,\" he says."
+  },
+  {
+   "s": "Roberto me dice cuánto es el pasaje.",
+   "e": "Roberto tells me how much the fare is."
+  },
+  {
+   "s": "Le doy el pasaje al ayudante.",
+   "e": "I give the fare to the ayudante."
+  },
+  {
+   "s": "Aquí uno paga al bajar, o al pasar él.",
+   "e": "Here you pay when you get off, or when he comes past."
+  },
+  {
+   "s": "Una señora mayor sube con bolsas.",
+   "e": "An older woman gets on with bags."
+  },
+  {
+   "s": "Un chavalo se levanta del asiento.",
+   "e": "A kid gets up from his seat."
+  },
+  {
+   "s": "Le da el asiento a la señora.",
+   "e": "He gives the seat to the woman."
+  },
+  {
+   "s": "Nadie le dice nada al chavalo.",
+   "e": "Nobody says anything to the kid."
+  },
+  {
+   "s": "Es lo normal.",
+   "e": "It is normal."
+  },
+  {
+   "s": "Después un señor me ofrece el asiento.",
+   "e": "Then a man offers me his seat."
+  },
+  {
+   "s": "Yo digo que no, gracias.",
+   "e": "I say no, thank you."
+  },
+  {
+   "s": "Roberto me habla bajito.",
+   "e": "Roberto speaks to me quietly."
+  },
+  {
+   "s": "\"Está bien decir que no\", dice.",
+   "e": "\"It is fine to say no,\" he says."
+  },
+  {
+   "s": "\"Pero decilo con gracias.\"",
+   "e": "\"But say it with a thank you.\""
+  },
+  {
+   "s": "\"Muchas gracias, señor\", digo yo.",
+   "e": "\"Thank you very much, sir,\" I say."
+  },
+  {
+   "s": "El señor sonríe y se queda con su asiento.",
+   "e": "The man smiles and keeps his seat."
+  },
+  {
+   "s": "El bus va parando en cada esquina.",
+   "e": "The bus keeps stopping at every corner."
+  },
+  {
+   "s": "La gente sube y la gente baja.",
+   "e": "People get on and people get off."
+  },
+  {
+   "s": "Nadie toca un botón para bajar.",
+   "e": "Nobody presses a button to get off."
+  },
+  {
+   "s": "Uno le grita al ayudante.",
+   "e": "You shout to the ayudante."
+  },
+  {
+   "s": "\"¡Parada!\", grita una señora.",
+   "e": "\"Stop!\" a woman shouts."
+  },
+  {
+   "s": "Y el bus para.",
+   "e": "And the bus stops."
+  },
+  {
+   "s": "Cuando llegamos, Roberto grita también.",
+   "e": "When we arrive, Roberto shouts too."
+  },
+  {
+   "s": "\"¡Parada!\", grita él.",
+   "e": "\"Stop!\" he shouts."
+  },
+  {
+   "s": "Bajamos rápido, porque el bus casi no para.",
+   "e": "We get off fast, because the bus barely stops."
+  },
+  {
+   "s": "Bajar es peor que subir.",
+   "e": "Getting off is worse than getting on."
+  },
+  {
+   "s": "El primer día me equivoco de ruta.",
+   "e": "On the first day I take the wrong ruta."
+  },
+  {
+   "s": "Subo a la ruta que va al otro lado.",
+   "e": "I get on the ruta going the other way."
+  },
+  {
+   "s": "Voy media hora para el lado contrario.",
+   "e": "I go half an hour in the wrong direction."
+  },
+  {
+   "s": "Me bajo y tomo otro bus de vuelta.",
+   "e": "I get off and take another bus back."
+  },
+  {
+   "s": "Pierdo una hora y nada más.",
+   "e": "I lose an hour and nothing else."
+  },
+  {
+   "s": "El pasaje cuesta poco.",
+   "e": "The fare costs little."
+  },
+  {
+   "s": "Perderse aquí es barato.",
+   "e": "Getting lost here is cheap."
+  }
+ ]
+}

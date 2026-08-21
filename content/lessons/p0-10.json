@@ -1,0 +1,242 @@
+{
+ "id": "p0-10",
+ "title": "Chele",
+ "desc": "They have a name for you already",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "chele",
+  "apodo",
+  "llama"
+ ],
+ "sn": [
+  {
+   "s": "En la calle los chavalos me dicen chele.",
+   "e": "In the street the kids call me chele."
+  },
+  {
+   "s": "\"¡Adiós, chele!\", gritan.",
+   "e": "\"Bye, chele!\" they shout."
+  },
+  {
+   "s": "Al principio no me gusta.",
+   "e": "At first I do not like it."
+  },
+  {
+   "s": "Pienso que es algo malo.",
+   "e": "I think it is something bad."
+  },
+  {
+   "s": "Le pregunto a Roberto.",
+   "e": "I ask Roberto."
+  },
+  {
+   "s": "\"¿Chele es malo?\"",
+   "e": "\"Is chele bad?\""
+  },
+  {
+   "s": "\"No\", dice él. \"Chele es chele.\"",
+   "e": "\"No,\" he says. \"Chele is chele.\""
+  },
+  {
+   "s": "\"Chele es el que tiene la piel clara.\"",
+   "e": "\"A chele is somebody with light skin.\""
+  },
+  {
+   "s": "\"¿Y una mujer?\", pregunto.",
+   "e": "\"And a woman?\" I ask."
+  },
+  {
+   "s": "\"Chela\", dice Roberto.",
+   "e": "\"Chela,\" Roberto says."
+  },
+  {
+   "s": "Después entiendo mejor.",
+   "e": "Later I understand better."
+  },
+  {
+   "s": "Aquí todos tienen un apodo.",
+   "e": "Here everybody has a nickname."
+  },
+  {
+   "s": "El apodo viene de cómo uno es.",
+   "e": "The nickname comes from how you look."
+  },
+  {
+   "s": "Un señor alto se llama el Alto.",
+   "e": "A tall man is called el Alto."
+  },
+  {
+   "s": "Otro señor bajo se llama el Bajo.",
+   "e": "Another short man is called el Bajo."
+  },
+  {
+   "s": "Una señora gorda se llama la Gorda.",
+   "e": "A large woman is called la Gorda."
+  },
+  {
+   "s": "Un chavalo flaco se llama el Flaco.",
+   "e": "A thin kid is called el Flaco."
+  },
+  {
+   "s": "Un señor moreno se llama el Negro.",
+   "e": "A dark-skinned man is called el Negro."
+  },
+  {
+   "s": "Y a mí me dicen chele.",
+   "e": "And they call me chele."
+  },
+  {
+   "s": "Nadie lo dice para molestar.",
+   "e": "Nobody says it to be unkind."
+  },
+  {
+   "s": "Aquí no molesta a nadie.",
+   "e": "Here it does not bother anybody."
+  },
+  {
+   "s": "El Flaco no se molesta por ser flaco.",
+   "e": "El Flaco is not bothered about being thin."
+  },
+  {
+   "s": "La Gorda no se molesta por ser gorda.",
+   "e": "La Gorda is not bothered about being large."
+  },
+  {
+   "s": "En mi país eso sí molesta.",
+   "e": "In my country that does bother people."
+  },
+  {
+   "s": "Aquí es sólo el nombre de uno.",
+   "e": "Here it is just what you are called."
+  },
+  {
+   "s": "Roberto tiene un apodo también.",
+   "e": "Roberto has a nickname too."
+  },
+  {
+   "s": "A Roberto le dicen el Chavalo.",
+   "e": "They call Roberto el Chavalo."
+  },
+  {
+   "s": "Es el más chavalo del grupo.",
+   "e": "He is the youngest of the group."
+  },
+  {
+   "s": "Doña Carmen tiene un apodo.",
+   "e": "Doña Carmen has a nickname."
+  },
+  {
+   "s": "Le dicen la Doña, y nada más.",
+   "e": "They call her la Doña, and nothing more."
+  },
+  {
+   "s": "Un día un señor me llama.",
+   "e": "One day a man calls me over."
+  },
+  {
+   "s": "\"¡Chele! Vení un momento.\"",
+   "e": "\"Chele! Come here a second.\""
+  },
+  {
+   "s": "Yo voy.",
+   "e": "I go."
+  },
+  {
+   "s": "El señor quiere ayuda con una mesa.",
+   "e": "The man wants help with a table."
+  },
+  {
+   "s": "Levantamos la mesa entre los dos.",
+   "e": "We lift the table between us."
+  },
+  {
+   "s": "\"Gracias, chele\", dice él.",
+   "e": "\"Thanks, chele,\" he says."
+  },
+  {
+   "s": "\"De nada\", digo yo.",
+   "e": "\"You're welcome,\" I say."
+  },
+  {
+   "s": "Y me doy cuenta de algo.",
+   "e": "And I realise something."
+  },
+  {
+   "s": "Ya respondo cuando dicen chele.",
+   "e": "I already answer when they say chele."
+  },
+  {
+   "s": "Ya es mi nombre en esta calle.",
+   "e": "It is already my name on this street."
+  },
+  {
+   "s": "No lo escogí yo.",
+   "e": "I did not choose it."
+  },
+  {
+   "s": "Aquí uno no escoge su apodo.",
+   "e": "Here you do not choose your nickname."
+  },
+  {
+   "s": "El apodo lo pone la gente.",
+   "e": "The people give you the nickname."
+  },
+  {
+   "s": "Y si la gente te pone un apodo, ya sos alguien.",
+   "e": "And if people give you a nickname, you are somebody."
+  },
+  {
+   "s": "El que no tiene apodo no es de aquí.",
+   "e": "The one with no nickname is not from here."
+  },
+  {
+   "s": "Roberto me dice una cosa esa noche.",
+   "e": "Roberto tells me one thing that night."
+  },
+  {
+   "s": "\"Al principio te decían el chele.\"",
+   "e": "\"At first they called you the chele.\""
+  },
+  {
+   "s": "\"Ahora te dicen chele, sin el.\"",
+   "e": "\"Now they call you chele, without the 'the'.\""
+  },
+  {
+   "s": "\"¿Y eso qué cambia?\", pregunto.",
+   "e": "\"And what does that change?\" I ask."
+  },
+  {
+   "s": "\"El chele es cualquiera\", dice él.",
+   "e": "\"'The chele' is anybody,\" he says."
+  },
+  {
+   "s": "\"Chele sos vos.\"",
+   "e": "\"Chele is you.\""
+  },
+  {
+   "s": "Es una palabra de cinco letras.",
+   "e": "It is a word of five letters."
+  },
+  {
+   "s": "Y cambió algo que yo no veía.",
+   "e": "And it changed something I could not see."
+  },
+  {
+   "s": "Cuando alguien me llama chele, respondo.",
+   "e": "When somebody calls me chele, I answer."
+  },
+  {
+   "s": "Y cuando respondo, ya estoy en la calle.",
+   "e": "And when I answer, I am part of the street."
+  },
+  {
+   "s": "No mirando la calle.",
+   "e": "Not watching the street."
+  },
+  {
+   "s": "Estando en ella.",
+   "e": "Being in it."
+  }
+ ]
+}

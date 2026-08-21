@@ -1,0 +1,255 @@
+{
+ "id": "p0-09",
+ "title": "La pulpería",
+ "desc": "The shop is somebody's front window",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "pulpería",
+  "huevo",
+  "vender",
+  "reales"
+ ],
+ "sn": [
+  {
+   "s": "En esta calle no hay tiendas grandes.",
+   "e": "There are no big shops on this street."
+  },
+  {
+   "s": "Hay pulperías.",
+   "e": "There are pulperías."
+  },
+  {
+   "s": "Una pulpería es una casa.",
+   "e": "A pulpería is a house."
+  },
+  {
+   "s": "Es una casa con una ventana grande.",
+   "e": "It is a house with a big window."
+  },
+  {
+   "s": "En la ventana hay una reja.",
+   "e": "There is a grille in the window."
+  },
+  {
+   "s": "Uno habla por la reja.",
+   "e": "You talk through the grille."
+  },
+  {
+   "s": "Uno no entra a la pulpería.",
+   "e": "You do not go into the pulpería."
+  },
+  {
+   "s": "La dueña de la pulpería se llama doña Chepa.",
+   "e": "The owner of the pulpería is called doña Chepa."
+  },
+  {
+   "s": "Doña Chepa vive en esa casa.",
+   "e": "Doña Chepa lives in that house."
+  },
+  {
+   "s": "Doña Chepa vende de todo.",
+   "e": "Doña Chepa sells everything."
+  },
+  {
+   "s": "Vende arroz, frijoles, jabón, pan.",
+   "e": "She sells rice, beans, soap, bread."
+  },
+  {
+   "s": "Vende agua en bolsa.",
+   "e": "She sells water in a bag."
+  },
+  {
+   "s": "Vende café y azúcar.",
+   "e": "She sells coffee and sugar."
+  },
+  {
+   "s": "Vende hasta cigarros sueltos.",
+   "e": "She even sells single cigarettes."
+  },
+  {
+   "s": "Voy a la pulpería con Roberto.",
+   "e": "I go to the pulpería with Roberto."
+  },
+  {
+   "s": "\"Buenas, doña Chepa\", dice él.",
+   "e": "\"Buenas, doña Chepa,\" he says."
+  },
+  {
+   "s": "\"Buenas, mijo. ¿Qué le doy?\"",
+   "e": "\"Buenas, love. What can I get you?\""
+  },
+  {
+   "s": "\"Deme dos huevos\", dice Roberto.",
+   "e": "\"Give me two eggs,\" Roberto says."
+  },
+  {
+   "s": "Yo no entiendo.",
+   "e": "I do not understand."
+  },
+  {
+   "s": "\"¿Dos huevos?\", le pregunto después.",
+   "e": "\"Two eggs?\" I ask him afterwards."
+  },
+  {
+   "s": "\"Dos huevos\", dice Roberto.",
+   "e": "\"Two eggs,\" Roberto says."
+  },
+  {
+   "s": "\"¿No se compran doce?\", pregunto yo.",
+   "e": "\"Don't you buy twelve?\" I ask."
+  },
+  {
+   "s": "Roberto se ríe.",
+   "e": "Roberto laughs."
+  },
+  {
+   "s": "\"¿Para qué doce huevos?\"",
+   "e": "\"What for, twelve eggs?\""
+  },
+  {
+   "s": "\"Uno compra lo que necesita hoy.\"",
+   "e": "\"You buy what you need today.\""
+  },
+  {
+   "s": "Eso me cambia la cabeza.",
+   "e": "That changes how I think."
+  },
+  {
+   "s": "En la pulpería uno compra poco.",
+   "e": "At the pulpería you buy a little."
+  },
+  {
+   "s": "Un poco de arroz.",
+   "e": "A little rice."
+  },
+  {
+   "s": "Un poco de azúcar en una bolsa.",
+   "e": "A little sugar in a bag."
+  },
+  {
+   "s": "Un cigarro, no una caja de cigarros.",
+   "e": "One cigarette, not a box of cigarettes."
+  },
+  {
+   "s": "Dos huevos, no doce.",
+   "e": "Two eggs, not twelve."
+  },
+  {
+   "s": "Una bolsa de agua, no seis.",
+   "e": "One bag of water, not six."
+  },
+  {
+   "s": "Roberto me explica por qué.",
+   "e": "Roberto explains why."
+  },
+  {
+   "s": "\"Aquí la plata entra poco a poco.\"",
+   "e": "\"Here the money comes in little by little.\""
+  },
+  {
+   "s": "\"Entonces uno compra poco a poco.\"",
+   "e": "\"So you buy little by little.\""
+  },
+  {
+   "s": "Al otro día voy solo a la pulpería.",
+   "e": "The next day I go to the pulpería alone."
+  },
+  {
+   "s": "\"Buenas, doña Chepa\", digo yo.",
+   "e": "\"Buenas, doña Chepa,\" I say."
+  },
+  {
+   "s": "\"Buenas. ¿Qué va a llevar?\"",
+   "e": "\"Buenas. What are you taking?\""
+  },
+  {
+   "s": "\"Deme una bolsa de agua, por favor.\"",
+   "e": "\"Give me a bag of water, please.\""
+  },
+  {
+   "s": "\"¿Y qué más?\"",
+   "e": "\"And what else?\""
+  },
+  {
+   "s": "\"Deme dos huevos también.\"",
+   "e": "\"Give me two eggs as well.\""
+  },
+  {
+   "s": "Doña Chepa me pasa todo por la reja.",
+   "e": "Doña Chepa passes it all through the grille."
+  },
+  {
+   "s": "\"Son veinte reales\", dice ella.",
+   "e": "\"That's twenty,\" she says."
+  },
+  {
+   "s": "Yo no sé qué son reales.",
+   "e": "I do not know what reales are."
+  },
+  {
+   "s": "Le doy un billete.",
+   "e": "I give her a note."
+  },
+  {
+   "s": "Ella me da el vuelto.",
+   "e": "She gives me my change."
+  },
+  {
+   "s": "Después le pregunto a Roberto.",
+   "e": "Afterwards I ask Roberto."
+  },
+  {
+   "s": "\"¿Qué son reales?\"",
+   "e": "\"What are reales?\""
+  },
+  {
+   "s": "\"Reales es plata\", dice él.",
+   "e": "\"Reales means money,\" he says."
+  },
+  {
+   "s": "\"Córdobas, pesos, reales. Todo es plata.\"",
+   "e": "\"Córdobas, pesos, reales. It is all money.\""
+  },
+  {
+   "s": "Tres palabras para la misma cosa.",
+   "e": "Three words for the same thing."
+  },
+  {
+   "s": "La pulpería abre temprano.",
+   "e": "The pulpería opens early."
+  },
+  {
+   "s": "La pulpería cierra tarde.",
+   "e": "The pulpería closes late."
+  },
+  {
+   "s": "Si uno toca en la noche, doña Chepa sale.",
+   "e": "If you knock at night, doña Chepa comes out."
+  },
+  {
+   "s": "Sale en pijama y vende igual.",
+   "e": "She comes out in her pyjamas and sells you it anyway."
+  },
+  {
+   "s": "Porque la pulpería es su casa.",
+   "e": "Because the pulpería is her house."
+  },
+  {
+   "s": "Y su casa nunca cierra del todo.",
+   "e": "And her house never really closes."
+  },
+  {
+   "s": "Ahora voy a la pulpería todos los días.",
+   "e": "Now I go to the pulpería every day."
+  },
+  {
+   "s": "Compro poco, como todos.",
+   "e": "I buy a little, like everyone."
+  },
+  {
+   "s": "Y doña Chepa ya sabe mi nombre.",
+   "e": "And doña Chepa knows my name now."
+  }
+ ]
+}
