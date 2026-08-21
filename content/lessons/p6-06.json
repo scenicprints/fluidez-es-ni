@@ -1,0 +1,269 @@
+{
+ "id": "p6-06",
+ "title": "Del norte",
+ "desc": "Nicaragua is not one accent",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "norte",
+  "aprender"
+ ],
+ "sn": [
+  {
+   "s": "Al taller llega un muchacho nuevo en febrero.",
+   "e": "A new boy arrives at the workshop in February."
+  },
+  {
+   "s": "Se llama Wilmer y viene de Jinotega.",
+   "e": "His name is Wilmer and he comes from Jinotega."
+  },
+  {
+   "s": "La primera semana yo casi no le entiendo.",
+   "e": "The first week I hardly understand him."
+  },
+  {
+   "s": "Y eso me asusta, porque yo ya entiendo a todos.",
+   "e": "And that frightens me, because I understand everybody now."
+  },
+  {
+   "s": "Wilmer habla más despacio que la gente de aquí.",
+   "e": "Wilmer talks more slowly than the people here."
+  },
+  {
+   "s": "Habla más despacio y aun así le entiendo menos.",
+   "e": "He talks more slowly and even so I understand him less."
+  },
+  {
+   "s": "Marcos me dice que es normal, que él es del norte.",
+   "e": "Marcos tells me it is normal, that he is from the north."
+  },
+  {
+   "s": "Que en el norte se habla distinto de Managua.",
+   "e": "That in the north they talk differently from Managua."
+  },
+  {
+   "s": "Yo pensaba que Nicaragua tenía un solo acento.",
+   "e": "I thought Nicaragua had one single accent."
+  },
+  {
+   "s": "Un país chiquito y una manera de hablar, pensaba yo.",
+   "e": "A small country and one way of talking, I thought."
+  },
+  {
+   "s": "Y eso es falso, como casi todo lo que yo pensaba.",
+   "e": "And that is false, like almost everything I thought."
+  },
+  {
+   "s": "Nicaragua tiene departamentos y cada uno suena distinto.",
+   "e": "Nicaragua has departments and each one sounds different."
+  },
+  {
+   "s": "Un departamento no es como una provincia grande.",
+   "e": "A department is not like a big province."
+  },
+  {
+   "s": "Son chiquitos y uno cruza tres en una mañana.",
+   "e": "They are small and you cross three in a morning."
+  },
+  {
+   "s": "Managua, Masaya, Granada, Carazo, todos cerca.",
+   "e": "Managua, Masaya, Granada, Carazo, all close."
+  },
+  {
+   "s": "Y sin embargo la gente sabe de dónde es cada quien.",
+   "e": "And even so people know where everybody is from."
+  },
+  {
+   "s": "Wilmer me dice que él nota mi acento también.",
+   "e": "Wilmer tells me he notices my accent too."
+  },
+  {
+   "s": "Pero no nota que soy extranjero, nota que soy de Managua.",
+   "e": "But he does not notice I am a foreigner, he notices I am from Managua."
+  },
+  {
+   "s": "Eso me deja pensando toda la tarde.",
+   "e": "That leaves me thinking all afternoon."
+  },
+  {
+   "s": "Yo aprendí un acento y ni sabía que era uno.",
+   "e": "I learned an accent and did not even know it was one."
+  },
+  {
+   "s": "El norte es Estelí, Matagalpa, Jinotega, Nueva Segovia.",
+   "e": "The north is Estelí, Matagalpa, Jinotega, Nueva Segovia."
+  },
+  {
+   "s": "Es la parte alta del país, la de los cerros.",
+   "e": "It is the high part of the country, the one with the hills."
+  },
+  {
+   "s": "Managua está al nivel del lago y hace un calor bárbaro.",
+   "e": "Managua is at lake level and it is savagely hot."
+  },
+  {
+   "s": "En el norte hace frío de verdad en diciembre.",
+   "e": "In the north it is really cold in December."
+  },
+  {
+   "s": "Wilmer dice que en Jinotega uno duerme con cobija.",
+   "e": "Wilmer says that in Jinotega you sleep with a blanket."
+  },
+  {
+   "s": "Yo llevo tres años sin usar una cobija.",
+   "e": "I have been three years without using a blanket."
+  },
+  {
+   "s": "La altura cambia todo, hasta la manera de hablar.",
+   "e": "The altitude changes everything, even the way of talking."
+  },
+  {
+   "s": "En la altura la gente habla más despacio y más bajo.",
+   "e": "At altitude people talk more slowly and more quietly."
+  },
+  {
+   "s": "En Managua se habla rápido y a gritos.",
+   "e": "In Managua people talk fast and at the top of their voice."
+  },
+  {
+   "s": "Wilmer dice que Managua le parece una bulla constante.",
+   "e": "Wilmer says Managua seems to him a constant racket."
+  },
+  {
+   "s": "Y que la gente de aquí le parece apurada.",
+   "e": "And that the people here seem hurried to him."
+  },
+  {
+   "s": "Después me habla de la neblina, que yo no conozco.",
+   "e": "Then he talks to me about the mist, which I do not know."
+  },
+  {
+   "s": "Dice que en Jinotega la neblina baja a las cuatro.",
+   "e": "He says that in Jinotega the mist comes down at four."
+  },
+  {
+   "s": "Que baja y uno no ve el cerro de enfrente.",
+   "e": "That it comes down and you cannot see the hill opposite."
+  },
+  {
+   "s": "Que la neblina se mete en la casa por debajo de la puerta.",
+   "e": "That the mist gets into the house under the door."
+  },
+  {
+   "s": "Yo le digo que eso suena a otro país.",
+   "e": "I tell him that sounds like another country."
+  },
+  {
+   "s": "Él me dice que es el mismo país, cuatro horas de bus.",
+   "e": "He tells me it is the same country, four hours by bus."
+  },
+  {
+   "s": "El norte es donde está el café de Nicaragua.",
+   "e": "The north is where Nicaragua's coffee is."
+  },
+  {
+   "s": "Wilmer creció en un cafetal, no en un pueblo.",
+   "e": "Wilmer grew up on a coffee farm, not in a town."
+  },
+  {
+   "s": "Su papá y su mamá trabajan en el mismo cafetal.",
+   "e": "His father and mother work on the same coffee farm."
+  },
+  {
+   "s": "Él empezó a cortar café a los nueve años.",
+   "e": "He started picking coffee at nine years old."
+  },
+  {
+   "s": "En el cafetal se corta de noviembre a febrero.",
+   "e": "On the coffee farm you pick from November to February."
+  },
+  {
+   "s": "Y el resto del año se busca trabajo en otra parte.",
+   "e": "And the rest of the year you look for work somewhere else."
+  },
+  {
+   "s": "Por eso él está en Managua en febrero.",
+   "e": "That is why he is in Managua in February."
+  },
+  {
+   "s": "Después Wilmer me enseña palabras que aquí no se usan.",
+   "e": "Then Wilmer teaches me words that are not used here."
+  },
+  {
+   "s": "En el norte le dicen de otra manera a muchas cosas.",
+   "e": "In the north they call a lot of things by another name."
+  },
+  {
+   "s": "Yo apunto las que me dice en el cuaderno.",
+   "e": "I write down the ones he tells me in my notebook."
+  },
+  {
+   "s": "Al mes tengo como treinta palabras norteñas.",
+   "e": "In a month I have about thirty northern words."
+  },
+  {
+   "s": "Se las digo a Marcos y él se ríe de la mitad.",
+   "e": "I say them to Marcos and he laughs at half of them."
+  },
+  {
+   "s": "Dice que esas son de viejo, que nadie las usa.",
+   "e": "He says those are old people's words, that nobody uses them."
+  },
+  {
+   "s": "Wilmer dice que en Jinotega las usa todo el mundo.",
+   "e": "Wilmer says that in Jinotega everybody uses them."
+  },
+  {
+   "s": "Los dos tienen razón y yo aprendo las dos.",
+   "e": "They are both right and I learn both."
+  },
+  {
+   "s": "Un domingo Wilmer me invita a comer a su pensión.",
+   "e": "One Sunday Wilmer invites me to eat at his boarding house."
+  },
+  {
+   "s": "Cocina algo del norte que aquí no se come.",
+   "e": "He cooks something from the north that is not eaten here."
+  },
+  {
+   "s": "Comemos con otros dos norteños que viven ahí.",
+   "e": "We eat with two other northerners who live there."
+  },
+  {
+   "s": "Y ahí sí no entiendo casi nada de lo que hablan.",
+   "e": "And there I really do not understand almost anything they say."
+  },
+  {
+   "s": "Hablan entre ellos como hablan en su casa.",
+   "e": "They talk among themselves the way they talk at home."
+  },
+  {
+   "s": "Wilmer se acuerda de mí a los diez minutos.",
+   "e": "Wilmer remembers me after ten minutes."
+  },
+  {
+   "s": "Y les dice a los otros que hablen normal.",
+   "e": "And he tells the others to talk normally."
+  },
+  {
+   "s": "Normal para ellos quiere decir como en Managua.",
+   "e": "Normal for them means the way they do in Managua."
+  },
+  {
+   "s": "Ellos también aprendieron un segundo acento.",
+   "e": "They too learned a second accent."
+  },
+  {
+   "s": "Todos los que llegan a Managua lo aprenden.",
+   "e": "Everybody who arrives in Managua learns it."
+  },
+  {
+   "s": "Yo pensaba que era el único que había aprendido a hablar.",
+   "e": "I thought I was the only one who had learned to talk."
+  },
+  {
+   "s": "Y estaba comiendo con tres que hicieron lo mismo.",
+   "e": "And I was eating with three who had done the same."
+  }
+ ]
+}

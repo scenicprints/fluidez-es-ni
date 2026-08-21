@@ -1,0 +1,278 @@
+{
+ "id": "p6-02",
+ "title": "Tal vez después",
+ "desc": "Refusing something you were never going to do",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "quizás",
+  "invitar",
+  "fecha"
+ ],
+ "sn": [
+  {
+   "s": "En marzo invito a Julio a ir al lago un domingo.",
+   "e": "In March I invite Julio to go to the lake one Sunday."
+  },
+  {
+   "s": "Él me dice que tal vez después, que ahorita está complicado.",
+   "e": "He tells me maybe later, that right now it is complicated."
+  },
+  {
+   "s": "Yo entiendo que iremos otro domingo, no ese.",
+   "e": "I understand we will go another Sunday, not that one."
+  },
+  {
+   "s": "En abril le vuelvo a decir lo del lago.",
+   "e": "In April I mention the lake to him again."
+  },
+  {
+   "s": "Me dice que quizás en mayo, cuando pase el calor.",
+   "e": "He says maybe in May, when the heat passes."
+  },
+  {
+   "s": "En mayo le digo que ya pasó el calor.",
+   "e": "In May I tell him the heat has passed."
+  },
+  {
+   "s": "Me dice que quizás, que va a ver cómo anda.",
+   "e": "He says maybe, that he will see how he is fixed."
+  },
+  {
+   "s": "En junio ya no le digo nada del lago.",
+   "e": "In June I stop saying anything about the lake."
+  },
+  {
+   "s": "Y en agosto por fin entiendo lo que pasó.",
+   "e": "And in August I finally understand what happened."
+  },
+  {
+   "s": "Julio me dijo que no en marzo, la primera vez.",
+   "e": "Julio said no to me in March, the first time."
+  },
+  {
+   "s": "Me lo dijo claramente y yo no lo oí.",
+   "e": "He said it to me clearly and I did not hear it."
+  },
+  {
+   "s": "Todo el barrio lo habría entendido menos yo.",
+   "e": "The whole barrio would have understood it except me."
+  },
+  {
+   "s": "Se lo cuento a Lucía y ella se ríe de mí.",
+   "e": "I tell Lucía and she laughs at me."
+  },
+  {
+   "s": "Me dice que aquí casi nadie dice que no.",
+   "e": "She tells me that here almost nobody says no."
+  },
+  {
+   "s": "Decir que no de frente es una grosería.",
+   "e": "Saying no to somebody's face is rude."
+  },
+  {
+   "s": "Un no seco deja mal al que invitó.",
+   "e": "A flat no leaves the person who invited looking bad."
+  },
+  {
+   "s": "Entonces el no se dice con otras palabras.",
+   "e": "So the no is said with other words."
+  },
+  {
+   "s": "Y todos las conocen menos el que llegó de afuera.",
+   "e": "And everybody knows them except the one who arrived from outside."
+  },
+  {
+   "s": "Lucía me enseña la lista de los noes.",
+   "e": "Lucía teaches me the list of the noes."
+  },
+  {
+   "s": "Tal vez después es el más común de todos.",
+   "e": "Tal vez después is the commonest of them all."
+  },
+  {
+   "s": "Tal vez después quiere decir no, sin decirlo.",
+   "e": "Tal vez después means no, without saying it."
+  },
+  {
+   "s": "Si alguien quisiera ir, diría una fecha.",
+   "e": "If somebody wanted to go, he would say a date."
+  },
+  {
+   "s": "La fecha es la señal, siempre la fecha.",
+   "e": "The date is the signal, always the date."
+  },
+  {
+   "s": "El que quiere ir dice el domingo o el otro domingo.",
+   "e": "The one who wants to go says this Sunday or the next."
+  },
+  {
+   "s": "El que no quiere ir dice después, sin fecha.",
+   "e": "The one who does not want to go says later, with no date."
+  },
+  {
+   "s": "Una invitación sin fecha en la respuesta es una negativa.",
+   "e": "An invitation with no date in the answer is a refusal."
+  },
+  {
+   "s": "Quizás es el segundo, y es más suave todavía.",
+   "e": "Quizás is the second, and it is softer still."
+  },
+  {
+   "s": "Quizás casi nunca quiere decir quizás.",
+   "e": "Quizás almost never means quizás."
+  },
+  {
+   "s": "Después está ahorita está complicado.",
+   "e": "Then there is ahorita está complicado."
+  },
+  {
+   "s": "Eso quiere decir no, pero no por vos.",
+   "e": "That means no, but not because of you."
+  },
+  {
+   "s": "Deja la culpa en la situación y no en la persona.",
+   "e": "It leaves the blame with the situation and not with the person."
+  },
+  {
+   "s": "Después está vamos a ver, que es peor de todos.",
+   "e": "Then there is vamos a ver, which is the worst of them all."
+  },
+  {
+   "s": "Vamos a ver es un no que suena a esperanza.",
+   "e": "Vamos a ver is a no that sounds like hope."
+  },
+  {
+   "s": "Y está si Dios quiere, que ese es un no religioso.",
+   "e": "And there is si Dios quiere, which is a religious no."
+  },
+  {
+   "s": "Si Dios quiere yo voy, quiere decir que no va.",
+   "e": "Si Dios quiere I will go, means he is not going."
+  },
+  {
+   "s": "Ninguna de esas frases es una mentira, dice Lucía.",
+   "e": "None of those sentences is a lie, says Lucía."
+  },
+  {
+   "s": "Yo digo que a mí me parecen mentiras.",
+   "e": "I say they look like lies to me."
+  },
+  {
+   "s": "Ella me dice que una mentira engaña a alguien.",
+   "e": "She tells me a lie deceives somebody."
+  },
+  {
+   "s": "Y que estas frases no engañan a nadie de aquí.",
+   "e": "And that these sentences deceive nobody from here."
+  },
+  {
+   "s": "Todos las oyen bien, todos saben lo que son.",
+   "e": "Everybody hears them properly, everybody knows what they are."
+  },
+  {
+   "s": "El único engañado fui yo, por no saber el idioma.",
+   "e": "The only one deceived was me, for not knowing the language."
+  },
+  {
+   "s": "Y eso no es culpa del que las dijo.",
+   "e": "And that is not the fault of the one who said them."
+  },
+  {
+   "s": "Después Lucía me enseña la parte difícil.",
+   "e": "Then Lucía teaches me the hard part."
+  },
+  {
+   "s": "Cómo se dice que no cuando a uno le toca.",
+   "e": "How you say no when it is your turn."
+  },
+  {
+   "s": "Nunca se empieza por el no, se empieza por otra cosa.",
+   "e": "You never start with the no, you start with something else."
+  },
+  {
+   "s": "Primero se agradece la invitación, siempre.",
+   "e": "First you thank them for the invitation, always."
+  },
+  {
+   "s": "Qué bueno que me invitaste, se dice primero.",
+   "e": "How good of you to invite me, is said first."
+  },
+  {
+   "s": "Después viene el problema, que no es de uno.",
+   "e": "Then comes the problem, which is not yours."
+  },
+  {
+   "s": "Es que ese domingo tengo lo del trabajo.",
+   "e": "The thing is that Sunday I have the work thing."
+  },
+  {
+   "s": "Nunca se explica mucho el problema, eso es peor.",
+   "e": "You never explain the problem much, that is worse."
+  },
+  {
+   "s": "Una excusa larga suena a excusa inventada.",
+   "e": "A long excuse sounds like an invented excuse."
+  },
+  {
+   "s": "Y al final se deja la puerta abierta.",
+   "e": "And at the end you leave the door open."
+  },
+  {
+   "s": "Pero avisame la otra vez, se dice al final.",
+   "e": "But let me know next time, is said at the end."
+  },
+  {
+   "s": "Yo pruebo la fórmula con una invitación que no quiero.",
+   "e": "I try the formula on an invitation I do not want."
+  },
+  {
+   "s": "Un compañero del trabajo me invita a un culto.",
+   "e": "A workmate invites me to a church service."
+  },
+  {
+   "s": "Yo no soy evangélico y no quiero ir.",
+   "e": "I am not evangelical and I do not want to go."
+  },
+  {
+   "s": "Le digo que qué bueno que me tenga en cuenta.",
+   "e": "I tell him how good of him to think of me."
+  },
+  {
+   "s": "Le digo que ese domingo estamos con la familia de Lucía.",
+   "e": "I tell him that Sunday we are with Lucía's family."
+  },
+  {
+   "s": "Y le digo que me avise para la otra.",
+   "e": "And I tell him to let me know about the next one."
+  },
+  {
+   "s": "Él me dice que dale pues, y no insiste.",
+   "e": "He tells me dale pues, and does not insist."
+  },
+  {
+   "s": "No me volvió a invitar nunca y no se enojó.",
+   "e": "He never invited me again and he did not get angry."
+  },
+  {
+   "s": "Eso es un no bien dado, dice Lucía.",
+   "e": "That is a well-given no, says Lucía."
+  },
+  {
+   "s": "En octubre me encuentro a Julio en la calle.",
+   "e": "In October I run into Julio in the street."
+  },
+  {
+   "s": "Me dice que cuándo vamos al lago, que él tiene ganas.",
+   "e": "He says when are we going to the lake, that he fancies it."
+  },
+  {
+   "s": "Y me dice una fecha, el domingo veintitrés.",
+   "e": "And he says a date, Sunday the twenty-third."
+  },
+  {
+   "s": "Fuimos ese domingo, y él manejó.",
+   "e": "We went that Sunday, and he drove."
+  }
+ ]
+}

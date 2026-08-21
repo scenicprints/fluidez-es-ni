@@ -1,0 +1,269 @@
+{
+ "id": "p6-08",
+ "title": "Los apellidos",
+ "desc": "Names carry history",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "apellido",
+  "tocayo"
+ ],
+ "sn": [
+  {
+   "s": "Voy a sacar una cédula de residencia en marzo.",
+   "e": "I go to get a residence card in March."
+  },
+  {
+   "s": "En la ventanilla me piden los datos completos.",
+   "e": "At the window they ask me for the complete details."
+  },
+  {
+   "s": "La señora me pregunta mi primer apellido.",
+   "e": "The lady asks me my first surname."
+  },
+  {
+   "s": "Yo le doy mi apellido, el único que tengo.",
+   "e": "I give her my surname, the only one I have."
+  },
+  {
+   "s": "Y ella me pregunta el segundo apellido.",
+   "e": "And she asks me my second surname."
+  },
+  {
+   "s": "Yo le digo que no tengo un segundo apellido.",
+   "e": "I tell her I do not have a second surname."
+  },
+  {
+   "s": "Ella me mira como si le hubiera dicho que no tengo mamá.",
+   "e": "She looks at me as if I had told her I have no mother."
+  },
+  {
+   "s": "Aquí todo el mundo tiene dos apellidos.",
+   "e": "Here everybody has two surnames."
+  },
+  {
+   "s": "El primero es el del papá, el apellido paterno.",
+   "e": "The first is the father's, the paternal surname."
+  },
+  {
+   "s": "El segundo es el de la mamá, el apellido materno.",
+   "e": "The second is the mother's, the maternal surname."
+  },
+  {
+   "s": "Los dos van en la cédula, en la partida, en todo.",
+   "e": "Both go on the card, on the certificate, on everything."
+  },
+  {
+   "s": "Y no es una costumbre, es la ley del registro.",
+   "e": "And it is not a custom, it is the law of the registry."
+  },
+  {
+   "s": "Lucía se llama Lucía Mendoza Espinoza.",
+   "e": "Lucía is called Lucía Mendoza Espinoza."
+  },
+  {
+   "s": "Mendoza es de su papá y Espinoza de doña Elena.",
+   "e": "Mendoza is her father's and Espinoza is doña Elena's."
+  },
+  {
+   "s": "Yo llevo cuatro años y nunca supe el segundo.",
+   "e": "I have been here four years and never knew the second one."
+  },
+  {
+   "s": "Nunca lo pregunté porque no sabía que existía.",
+   "e": "I never asked because I did not know it existed."
+  },
+  {
+   "s": "La señora de la ventanilla arregla el problema.",
+   "e": "The lady at the window solves the problem."
+  },
+  {
+   "s": "Escribe mi apellido dos veces, en las dos casillas.",
+   "e": "She writes my surname twice, in both boxes."
+  },
+  {
+   "s": "Me dice que así lo hacen con todos los extranjeros.",
+   "e": "She tells me that is how they do it with all foreigners."
+  },
+  {
+   "s": "Y mi cédula sale con mi apellido repetido.",
+   "e": "And my card comes out with my surname repeated."
+  },
+  {
+   "s": "Marcos se ríe una semana entera de esa cédula.",
+   "e": "Marcos laughs for a whole week about that card."
+  },
+  {
+   "s": "Me dice que parezco hijo de dos hermanos.",
+   "e": "He tells me I look like the son of two siblings."
+  },
+  {
+   "s": "Después Marcos me explica lo que dicen los apellidos.",
+   "e": "Then Marcos explains to me what surnames say."
+  },
+  {
+   "s": "Me dice que un apellido aquí es un mapa.",
+   "e": "He tells me that a surname here is a map."
+  },
+  {
+   "s": "Que hay apellidos de Masaya y apellidos de León.",
+   "e": "That there are Masaya surnames and León surnames."
+  },
+  {
+   "s": "Que un Chamorro y un Lacayo no son de cualquier parte.",
+   "e": "That a Chamorro and a Lacayo are not from just anywhere."
+  },
+  {
+   "s": "Que hay apellidos que abren puertas en una oficina.",
+   "e": "That there are surnames that open doors in an office."
+  },
+  {
+   "s": "Y que hay apellidos que las cierran.",
+   "e": "And that there are surnames that close them."
+  },
+  {
+   "s": "También hay apellidos indígenas de los pueblos viejos.",
+   "e": "There are also indigenous surnames from the old villages."
+  },
+  {
+   "s": "Y en la costa hay apellidos ingleses de hace siglos.",
+   "e": "And on the coast there are English surnames from centuries ago."
+  },
+  {
+   "s": "El apellido de Delroy es inglés y él es nicaragüense.",
+   "e": "Delroy's surname is English and he is Nicaraguan."
+  },
+  {
+   "s": "Un apellido cuenta de dónde vino la familia.",
+   "e": "A surname tells where the family came from."
+  },
+  {
+   "s": "Aunque la familia ya no se acuerde de eso.",
+   "e": "Even if the family no longer remembers it."
+  },
+  {
+   "s": "Después está el asunto del tocayo, que me gusta.",
+   "e": "Then there is the tocayo business, which I like."
+  },
+  {
+   "s": "Un tocayo es alguien que se llama igual que uno.",
+   "e": "A tocayo is somebody with the same name as you."
+  },
+  {
+   "s": "Aquí eso no es una casualidad, es una relación.",
+   "e": "Here that is not a coincidence, it is a relationship."
+  },
+  {
+   "s": "Dos tocayos se saludan distinto que dos personas.",
+   "e": "Two tocayos greet each other differently from two people."
+  },
+  {
+   "s": "Se dicen tocayo en vez del nombre, siempre.",
+   "e": "They call each other tocayo instead of the name, always."
+  },
+  {
+   "s": "Marcos tiene un tocayo en el taller de al lado.",
+   "e": "Marcos has a tocayo in the workshop next door."
+  },
+  {
+   "s": "No son amigos, pero se dicen tocayo hace diez años.",
+   "e": "They are not friends, but they have called each other tocayo for ten years."
+  },
+  {
+   "s": "Yo pregunto si eso significa algo de verdad.",
+   "e": "I ask if that really means anything."
+  },
+  {
+   "s": "Marcos dice que significa que uno se acuerda del otro.",
+   "e": "Marcos says it means you remember the other one."
+  },
+  {
+   "s": "Y que en un país de tocayos eso cuenta mucho.",
+   "e": "And that in a country of namesakes that counts for a lot."
+  },
+  {
+   "s": "Después viene el asunto del don y la doña.",
+   "e": "Then comes the business of don and doña."
+  },
+  {
+   "s": "Don y doña van con el nombre, nunca con el apellido.",
+   "e": "Don and doña go with the first name, never with the surname."
+  },
+  {
+   "s": "Doña Elena, don Beto, doña Chepa, don Emilio.",
+   "e": "Doña Elena, don Beto, doña Chepa, don Emilio."
+  },
+  {
+   "s": "Nunca don Mendoza, eso suena a película mexicana.",
+   "e": "Never don Mendoza, that sounds like a Mexican film."
+  },
+  {
+   "s": "El señor y la señora sí van con el apellido.",
+   "e": "Señor and señora do go with the surname."
+  },
+  {
+   "s": "Pero eso es de oficina y de papel, no de barrio.",
+   "e": "But that is for offices and paper, not for the barrio."
+  },
+  {
+   "s": "En el barrio nadie sabe el apellido de nadie.",
+   "e": "In the barrio nobody knows anybody's surname."
+  },
+  {
+   "s": "Yo llevo cuatro años y no sé el de doña Chepa.",
+   "e": "I have been here four years and I do not know doña Chepa's."
+  },
+  {
+   "s": "Sé que su hija se llama Xiomara y que le duele la rodilla.",
+   "e": "I know her daughter is called Xiomara and that her knee hurts."
+  },
+  {
+   "s": "Pero el apellido no, y no hace falta.",
+   "e": "But the surname no, and it is not needed."
+  },
+  {
+   "s": "En la casa el niño ya tiene sus dos apellidos.",
+   "e": "At home the baby already has his two surnames."
+  },
+  {
+   "s": "El mío primero y Mendoza después.",
+   "e": "Mine first and Mendoza after."
+  },
+  {
+   "s": "Lucía me dice que eso no le gustó a su mamá.",
+   "e": "Lucía tells me that her mother did not like that."
+  },
+  {
+   "s": "Que doña Elena hubiera querido Mendoza de primero.",
+   "e": "That doña Elena would have wanted Mendoza first."
+  },
+  {
+   "s": "Pero la ley dice que el paterno va primero.",
+   "e": "But the law says the paternal one goes first."
+  },
+  {
+   "s": "Y el mío es un apellido raro que aquí nadie sabe escribir.",
+   "e": "And mine is a strange surname nobody here knows how to spell."
+  },
+  {
+   "s": "En la escuela se lo van a escribir mal toda la vida.",
+   "e": "At school they are going to spell it wrong his whole life."
+  },
+  {
+   "s": "Igual que a mí en cada ventanilla de este país.",
+   "e": "The same as they do to me at every window in this country."
+  },
+  {
+   "s": "Lucía dice que el chavalo va a aprender a deletrearlo.",
+   "e": "Lucía says the boy is going to learn to spell it out."
+  },
+  {
+   "s": "Y que el apellido materno lo va a salvar.",
+   "e": "And that the maternal surname is going to save him."
+  },
+  {
+   "s": "Porque Mendoza sí lo escribe cualquiera.",
+   "e": "Because Mendoza anybody can write."
+  }
+ ]
+}

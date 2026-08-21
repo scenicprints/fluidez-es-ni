@@ -1,0 +1,270 @@
+{
+ "id": "p6-04",
+ "title": "Es que fíjese",
+ "desc": "The excuse as a social form",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "motivo",
+  "trabajo",
+  "siempre"
+ ],
+ "sn": [
+  {
+   "s": "Encargo un trabajo de soldadura a un taller de la esquina.",
+   "e": "I order a welding job from a workshop on the corner."
+  },
+  {
+   "s": "Me dicen que lo entregan el viernes a las cuatro.",
+   "e": "They tell me they will deliver it Friday at four."
+  },
+  {
+   "s": "El viernes a las cuatro llego y no está hecho.",
+   "e": "On Friday at four I arrive and it is not done."
+  },
+  {
+   "s": "El dueño me ve entrar y empieza a hablar antes que yo.",
+   "e": "The owner sees me come in and starts talking before I do."
+  },
+  {
+   "s": "Es que fíjese, don, me dice, y sigue diez minutos.",
+   "e": "Es que fíjese, don, he says, and goes on for ten minutes."
+  },
+  {
+   "s": "Me cuenta que el hijo se enfermó el miércoles.",
+   "e": "He tells me his son got sick on Wednesday."
+  },
+  {
+   "s": "Que tuvo que llevarlo al centro de salud dos veces.",
+   "e": "That he had to take him to the health centre twice."
+  },
+  {
+   "s": "Que el martes se fue la luz cuatro horas.",
+   "e": "That on Tuesday the power went out for four hours."
+  },
+  {
+   "s": "Que el material que le mandaron vino delgado.",
+   "e": "That the material they sent him came thin."
+  },
+  {
+   "s": "Cuatro motivos, uno detrás del otro, sin parar.",
+   "e": "Four reasons, one after the other, without stopping."
+  },
+  {
+   "s": "Y al final me dice que el lunes sí lo tiene.",
+   "e": "And at the end he tells me on Monday he will have it."
+  },
+  {
+   "s": "Yo salgo del taller sin haber reclamado nada.",
+   "e": "I leave the workshop without having complained about anything."
+  },
+  {
+   "s": "Y me doy cuenta en la calle de que ni pude hablar.",
+   "e": "And I realise in the street that I did not even get to speak."
+  },
+  {
+   "s": "Esa noche pienso que me tomaron el pelo.",
+   "e": "That night I think they took me for a ride."
+  },
+  {
+   "s": "Marcos me dice el sábado que no fue así.",
+   "e": "Marcos tells me on Saturday that it was not like that."
+  },
+  {
+   "s": "Me dice que ese hombre hizo lo correcto.",
+   "e": "He tells me that man did the correct thing."
+  },
+  {
+   "s": "Que un atraso sin motivo es una falta de respeto.",
+   "e": "That a delay with no reason is a lack of respect."
+  },
+  {
+   "s": "Y que un atraso con motivo es solo un atraso.",
+   "e": "And that a delay with a reason is only a delay."
+  },
+  {
+   "s": "El motivo no arregla el trabajo, arregla la relación.",
+   "e": "The reason does not fix the job, it fixes the relationship."
+  },
+  {
+   "s": "Aquí lo que se cuida es la relación, siempre.",
+   "e": "Here what is looked after is the relationship, always."
+  },
+  {
+   "s": "Y me explica por qué habló él primero.",
+   "e": "And he explains why he spoke first."
+  },
+  {
+   "s": "Si yo hubiera reclamado antes, él quedaba mal.",
+   "e": "If I had complained first, he would have looked bad."
+  },
+  {
+   "s": "Un reclamo recibido es una herida en la relación.",
+   "e": "A complaint received is a wound in the relationship."
+  },
+  {
+   "s": "Hablando primero, el reclamo no llegó a existir.",
+   "e": "By speaking first, the complaint never came to exist."
+  },
+  {
+   "s": "Los dos quedamos bien y el trabajo sigue igual de atrasado.",
+   "e": "We both come out fine and the job is just as late."
+  },
+  {
+   "s": "Después Marcos me enseña las palabras de la excusa.",
+   "e": "Then Marcos teaches me the words of the excuse."
+  },
+  {
+   "s": "La entrada es siempre es que, nunca otra cosa.",
+   "e": "The opening is always es que, never anything else."
+  },
+  {
+   "s": "Es que avisa que viene un motivo, no un no.",
+   "e": "Es que warns that a reason is coming, not a no."
+  },
+  {
+   "s": "Después viene fíjese, que es la palabra de usted.",
+   "e": "Then comes fíjese, which is the usted word."
+  },
+  {
+   "s": "Fíjese usted, fijate vos, según con quién se hable.",
+   "e": "Fíjese usted, fijate vos, depending on who you are talking to."
+  },
+  {
+   "s": "Con un cliente siempre es usted y fíjese.",
+   "e": "With a customer it is always usted and fíjese."
+  },
+  {
+   "s": "Con un amigo es vos y fijate, sin el don.",
+   "e": "With a friend it is vos and fijate, without the don."
+  },
+  {
+   "s": "Meter un usted donde va un vos suena a pleito.",
+   "e": "Putting an usted where a vos goes sounds like a fight."
+  },
+  {
+   "s": "Y meter un vos donde va un usted es peor.",
+   "e": "And putting a vos where an usted goes is worse."
+  },
+  {
+   "s": "Lucía le dice usted a su mamá desde niña.",
+   "e": "Lucía has called her mother usted since she was a girl."
+  },
+  {
+   "s": "No por distancia, sino por respeto de siempre.",
+   "e": "Not out of distance, but out of lifelong respect."
+  },
+  {
+   "s": "Y doña Elena le dice vos a ella.",
+   "e": "And doña Elena calls her vos."
+  },
+  {
+   "s": "Los dos lados de una misma conversación, distintos.",
+   "e": "The two sides of the same conversation, different."
+  },
+  {
+   "s": "Después de fíjese viene el motivo, y ahí hay reglas.",
+   "e": "After fíjese comes the reason, and there there are rules."
+  },
+  {
+   "s": "El motivo nunca es culpa del que habla.",
+   "e": "The reason is never the fault of the one speaking."
+  },
+  {
+   "s": "Se enfermó el hijo, se fue la luz, vino delgado el material.",
+   "e": "The son got sick, the power went, the material came thin."
+  },
+  {
+   "s": "Todo le pasó a él, él no hizo que pasara.",
+   "e": "Everything happened to him, he did not make it happen."
+  },
+  {
+   "s": "Marcos me dice que eso no es esconderse.",
+   "e": "Marcos tells me that is not hiding."
+  },
+  {
+   "s": "Que aquí de verdad se va la luz y de verdad se enferman.",
+   "e": "That here the power really does go and people really do get sick."
+  },
+  {
+   "s": "Un país donde todo falla produce gente con motivos.",
+   "e": "A country where everything fails produces people with reasons."
+  },
+  {
+   "s": "Y produce gente que sabe escuchar un motivo.",
+   "e": "And produces people who know how to listen to a reason."
+  },
+  {
+   "s": "Después me enseña lo último, que es el cierre.",
+   "e": "Then he teaches me the last part, which is the close."
+  },
+  {
+   "s": "Nunca se termina una excusa en el motivo.",
+   "e": "You never end an excuse on the reason."
+  },
+  {
+   "s": "Se termina en una fecha nueva, siempre.",
+   "e": "You end on a new date, always."
+  },
+  {
+   "s": "El lunes sí lo tiene, dijo el hombre.",
+   "e": "On Monday he will have it, the man said."
+  },
+  {
+   "s": "Y esa fecha nueva es el compromiso de verdad.",
+   "e": "And that new date is the real commitment."
+  },
+  {
+   "s": "El lunes voy al taller a las cuatro.",
+   "e": "On Monday I go to the workshop at four."
+  },
+  {
+   "s": "El trabajo está hecho y está bien hecho.",
+   "e": "The job is done and it is well done."
+  },
+  {
+   "s": "El hombre no menciona el viernes ni una vez.",
+   "e": "The man does not mention Friday once."
+  },
+  {
+   "s": "Yo tampoco, y le pago lo que habíamos hablado.",
+   "e": "Neither do I, and I pay him what we had agreed."
+  },
+  {
+   "s": "Me da la mano y me dice que cuando guste.",
+   "e": "He shakes my hand and tells me any time."
+  },
+  {
+   "s": "Un mes después le llevo otro trabajo.",
+   "e": "A month later I take him another job."
+  },
+  {
+   "s": "Ese me lo entrega el día que dijo, a la hora.",
+   "e": "That one he delivers on the day he said, on time."
+  },
+  {
+   "s": "Marcos me explica esa parte también.",
+   "e": "Marcos explains that part to me too."
+  },
+  {
+   "s": "Que el que no reclama la primera vez tiene prioridad después.",
+   "e": "That the one who does not complain the first time gets priority afterwards."
+  },
+  {
+   "s": "Que el reclamo se cobra caro en el trato siguiente.",
+   "e": "That a complaint is charged for dearly in the next dealing."
+  },
+  {
+   "s": "Y que a mí me tocó bien porque me quedé callado.",
+   "e": "And that things went well for me because I kept quiet."
+  },
+  {
+   "s": "Yo le digo que me quedé callado porque no me dejaron hablar.",
+   "e": "I tell him I kept quiet because they did not let me speak."
+  },
+  {
+   "s": "Él dice que eso no importa, que el resultado es el mismo.",
+   "e": "He says that does not matter, that the result is the same."
+  }
+ ]
+}

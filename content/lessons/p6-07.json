@@ -1,0 +1,277 @@
+{
+ "id": "p6-07",
+ "title": "La costa",
+ "desc": "The Caribbean side is another country",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "lengua",
+  "costa",
+  "español",
+  "inglés",
+  "criollo",
+  "mitad"
+ ],
+ "sn": [
+  {
+   "s": "Delroy me invita a un asunto de su iglesia un sábado.",
+   "e": "Delroy invites me to something at his church one Saturday."
+  },
+  {
+   "s": "No es una misa, es una reunión de costeños en Managua.",
+   "e": "It is not a mass, it is a meeting of costeños in Managua."
+  },
+  {
+   "s": "Hay como sesenta personas en un salón alquilado.",
+   "e": "There are about sixty people in a rented hall."
+  },
+  {
+   "s": "Yo soy el único que no es de la costa.",
+   "e": "I am the only one who is not from the coast."
+  },
+  {
+   "s": "Y en diez minutos entiendo que estoy en otro país.",
+   "e": "And in ten minutes I understand that I am in another country."
+  },
+  {
+   "s": "La reunión empieza en español, por educación.",
+   "e": "The meeting starts in Spanish, out of politeness."
+  },
+  {
+   "s": "A los veinte minutos ya nadie habla español.",
+   "e": "Twenty minutes in nobody is speaking Spanish any more."
+  },
+  {
+   "s": "Hablan criollo, y de repente saltan al inglés.",
+   "e": "They speak Creole, and suddenly jump into English."
+  },
+  {
+   "s": "Y en la mesa de atrás dos señoras hablan miskito.",
+   "e": "And at the table behind two ladies are speaking Miskito."
+  },
+  {
+   "s": "Tres lenguas en un salón y todos se entienden.",
+   "e": "Three languages in one hall and everybody understands each other."
+  },
+  {
+   "s": "Yo entiendo el español y algo del inglés.",
+   "e": "I understand the Spanish and some of the English."
+  },
+  {
+   "s": "El criollo se me escapa entero, otra vez.",
+   "e": "The Creole escapes me entirely, again."
+  },
+  {
+   "s": "Delroy me traduce cuando se acuerda de mí.",
+   "e": "Delroy translates for me when he remembers me."
+  },
+  {
+   "s": "En el descanso me explica lo del territorio.",
+   "e": "In the break he explains the territory business to me."
+  },
+  {
+   "s": "La costa no es un departamento como los otros.",
+   "e": "The coast is not a department like the others."
+  },
+  {
+   "s": "Son dos regiones y tienen autonomía desde los años ochenta.",
+   "e": "They are two regions and they have had autonomy since the eighties."
+  },
+  {
+   "s": "Autonomía quiere decir que tienen su propio gobierno.",
+   "e": "Autonomy means they have their own government."
+  },
+  {
+   "s": "Un gobierno regional, aparte del gobierno de Managua.",
+   "e": "A regional government, separate from the Managua government."
+  },
+  {
+   "s": "Y las lenguas de la costa son oficiales allá.",
+   "e": "And the languages of the coast are official over there."
+  },
+  {
+   "s": "El inglés criollo, el miskito, el rama, el sumo.",
+   "e": "Creole English, Miskito, Rama, Sumo."
+  },
+  {
+   "s": "Un niño de Bluefields estudia en criollo, no en español.",
+   "e": "A child from Bluefields studies in Creole, not in Spanish."
+  },
+  {
+   "s": "Yo pregunto desde cuándo es así.",
+   "e": "I ask since when it has been like that."
+  },
+  {
+   "s": "Delroy me dice que la autonomía es de mil novecientos ochenta y siete.",
+   "e": "Delroy tells me the autonomy is from nineteen eighty-seven."
+  },
+  {
+   "s": "Pero que la costa fue otra cosa mucho antes.",
+   "e": "But that the coast was something else long before."
+  },
+  {
+   "s": "Que fue territorio inglés y no español.",
+   "e": "That it was English territory and not Spanish."
+  },
+  {
+   "s": "Que el rey miskito tenía trato con los ingleses.",
+   "e": "That the Miskito king had dealings with the English."
+  },
+  {
+   "s": "Y que la costa se juntó con el resto en mil ochocientos noventa y cuatro.",
+   "e": "And that the coast joined with the rest in eighteen ninety-four."
+  },
+  {
+   "s": "Cuatrocientos años de historia aparte, dice él.",
+   "e": "Four hundred years of separate history, he says."
+  },
+  {
+   "s": "Por eso no es una mezcla, es dos cosas juntas.",
+   "e": "That is why it is not a blend, it is two things put together."
+  },
+  {
+   "s": "Le pregunto si él se siente nicaragüense.",
+   "e": "I ask him if he feels Nicaraguan."
+  },
+  {
+   "s": "Se queda pensando un rato antes de contestar.",
+   "e": "He thinks for a while before answering."
+  },
+  {
+   "s": "Me dice que sí, pero que costeño primero.",
+   "e": "He tells me yes, but costeño first."
+  },
+  {
+   "s": "Y que en Managua le preguntan eso mucho.",
+   "e": "And that in Managua they ask him that a lot."
+  },
+  {
+   "s": "Que a un chele de Estelí no le preguntan si es nicaragüense.",
+   "e": "That nobody asks a light-skinned man from Estelí if he is Nicaraguan."
+  },
+  {
+   "s": "Después me habla de las lenguas con cuidado.",
+   "e": "Then he talks to me about the languages carefully."
+  },
+  {
+   "s": "Me dice que una lengua se pierde en dos generaciones.",
+   "e": "He tells me a language is lost in two generations."
+  },
+  {
+   "s": "Que el rama ya casi no lo habla nadie.",
+   "e": "That almost nobody speaks Rama any more."
+  },
+  {
+   "s": "Que quedan unos pocos ancianos y ya.",
+   "e": "That a few old people are left and that is all."
+  },
+  {
+   "s": "Que el miskito está fuerte porque son muchos.",
+   "e": "That Miskito is strong because there are a lot of them."
+  },
+  {
+   "s": "Y que el criollo está fuerte porque es de la calle.",
+   "e": "And that Creole is strong because it belongs to the street."
+  },
+  {
+   "s": "Una lengua que solo se habla en la casa se muere.",
+   "e": "A language spoken only at home dies."
+  },
+  {
+   "s": "Una lengua que se habla en la calle aguanta.",
+   "e": "A language spoken in the street holds out."
+  },
+  {
+   "s": "Yo pienso en el español mío de los primeros años.",
+   "e": "I think about my own Spanish from the first years."
+  },
+  {
+   "s": "Ese sí era una lengua de casa nada más.",
+   "e": "That really was a house language and nothing more."
+  },
+  {
+   "s": "Delroy me presenta a un señor de Puerto Cabezas.",
+   "e": "Delroy introduces me to a man from Puerto Cabezas."
+  },
+  {
+   "s": "El señor me habla en inglés desde la primera palabra.",
+   "e": "The man talks to me in English from the first word."
+  },
+  {
+   "s": "Y yo me quedo mudo tres segundos enteros.",
+   "e": "And I am struck dumb for three whole seconds."
+  },
+  {
+   "s": "Llevo tres años sin que nadie me hable en inglés.",
+   "e": "I have gone three years without anybody speaking to me in English."
+  },
+  {
+   "s": "Le contesto en español sin pensarlo, y él se ríe.",
+   "e": "I answer him in Spanish without thinking, and he laughs."
+  },
+  {
+   "s": "Me dice en criollo algo a Delroy y los dos se ríen.",
+   "e": "He says something in Creole to Delroy and they both laugh."
+  },
+  {
+   "s": "Delroy me dice después lo que dijo.",
+   "e": "Delroy tells me afterwards what he said."
+  },
+  {
+   "s": "Dijo que este chele ya está bien cocinado.",
+   "e": "He said this chele is well cooked now."
+  },
+  {
+   "s": "En el bus de regreso pienso en el mapa otra vez.",
+   "e": "On the bus back I think about the map again."
+  },
+  {
+   "s": "Un país donde la mitad del territorio habla otra lengua.",
+   "e": "A country where half the territory speaks another language."
+  },
+  {
+   "s": "Y donde el noventa por ciento vive en la otra mitad.",
+   "e": "And where ninety per cent live in the other half."
+  },
+  {
+   "s": "Yo aprendí el país de la mitad llena.",
+   "e": "I learned the country of the full half."
+  },
+  {
+   "s": "Y ni sabía que estaba escogiendo una mitad.",
+   "e": "And did not even know I was choosing a half."
+  },
+  {
+   "s": "Le cuento todo a Lucía y ella me dice algo.",
+   "e": "I tell Lucía everything and she says something to me."
+  },
+  {
+   "s": "Me dice que ella nunca ha ido a la costa.",
+   "e": "She tells me she has never been to the coast."
+  },
+  {
+   "s": "Nacida aquí, treinta y un años, y nunca ha ido.",
+   "e": "Born here, thirty-one years old, and has never been."
+  },
+  {
+   "s": "Es más caro ir a Bluefields que ir a Costa Rica.",
+   "e": "It is more expensive to go to Bluefields than to Costa Rica."
+  },
+  {
+   "s": "Por eso la mitad del país no conoce la otra.",
+   "e": "That is why half the country does not know the other."
+  },
+  {
+   "s": "Le digo que algún día vamos los tres.",
+   "e": "I tell her that some day the three of us will go."
+  },
+  {
+   "s": "Ella me dice tal vez después, sin fecha.",
+   "e": "She tells me tal vez después, with no date."
+  },
+  {
+   "s": "Y esta vez sí entiendo lo que quiso decir.",
+   "e": "And this time I do understand what she meant."
+  }
+ ]
+}

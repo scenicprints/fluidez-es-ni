@@ -1,0 +1,276 @@
+{
+ "id": "p6-03",
+ "title": "Con todo respeto",
+ "desc": "Disagreeing with somebody above you",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "jerarquía",
+  "medida",
+  "mal",
+  "error",
+  "papel"
+ ],
+ "sn": [
+  {
+   "s": "En el taller hay un error en una medida.",
+   "e": "In the workshop there is a mistake in a measurement."
+  },
+  {
+   "s": "Lo veo yo y estoy seguro de que es un error.",
+   "e": "I see it and I am sure it is a mistake."
+  },
+  {
+   "s": "El problema es de quién es la medida.",
+   "e": "The problem is whose measurement it is."
+  },
+  {
+   "s": "La puso don Emilio, que tiene sesenta y ocho años.",
+   "e": "Don Emilio put it there, and he is sixty-eight."
+  },
+  {
+   "s": "Don Emilio trabaja ahí desde antes de que yo naciera.",
+   "e": "Don Emilio has worked there since before I was born."
+  },
+  {
+   "s": "Todos le dicen don Emilio, hasta el dueño.",
+   "e": "Everybody calls him don Emilio, even the owner."
+  },
+  {
+   "s": "Yo llevo tres años y tengo la mitad de su edad.",
+   "e": "I have been there three years and I am half his age."
+  },
+  {
+   "s": "En mi país yo le diría que está mal y ya.",
+   "e": "In my country I would tell him it is wrong and that is that."
+  },
+  {
+   "s": "Aquí eso no se puede hacer así.",
+   "e": "Here that cannot be done like that."
+  },
+  {
+   "s": "Marcos me ve mirando la medida y se acerca.",
+   "e": "Marcos sees me looking at the measurement and comes over."
+  },
+  {
+   "s": "Me pregunta si voy a decirle algo a don Emilio.",
+   "e": "He asks me if I am going to say something to don Emilio."
+  },
+  {
+   "s": "Yo le digo que sí, que la medida está mal.",
+   "e": "I tell him yes, that the measurement is wrong."
+  },
+  {
+   "s": "Él me dice que la medida sí está mal.",
+   "e": "He tells me the measurement is indeed wrong."
+  },
+  {
+   "s": "Pero que cómo se lo diga importa más que la medida.",
+   "e": "But that how I say it matters more than the measurement."
+  },
+  {
+   "s": "Y me explica la jerarquía del taller.",
+   "e": "And he explains the workshop hierarchy to me."
+  },
+  {
+   "s": "La jerarquía no es la del papel del jefe.",
+   "e": "The hierarchy is not the one on the boss's paper."
+  },
+  {
+   "s": "Hay una jerarquía escrita y una jerarquía de verdad.",
+   "e": "There is a written hierarchy and a real hierarchy."
+  },
+  {
+   "s": "En la escrita, el jefe manda y los demás obedecen.",
+   "e": "In the written one, the boss gives orders and the rest obey."
+  },
+  {
+   "s": "En la de verdad manda la edad y el tiempo adentro.",
+   "e": "In the real one, age and time inside give the orders."
+  },
+  {
+   "s": "Don Emilio no tiene ningún cargo en el papel.",
+   "e": "Don Emilio has no position on paper."
+  },
+  {
+   "s": "Pero en la jerarquía de verdad está arriba de todos.",
+   "e": "But in the real hierarchy he is above everybody."
+  },
+  {
+   "s": "Hasta el jefe le habla distinto a don Emilio.",
+   "e": "Even the boss talks differently to don Emilio."
+  },
+  {
+   "s": "Corregir a alguien de esa jerarquía tiene su forma.",
+   "e": "Correcting somebody in that hierarchy has its form."
+  },
+  {
+   "s": "Marcos me enseña la forma como quien enseña una llave.",
+   "e": "Marcos teaches me the form like somebody teaching a tool."
+  },
+  {
+   "s": "Lo primero es pedir permiso antes de hablar.",
+   "e": "The first thing is to ask permission before speaking."
+  },
+  {
+   "s": "No se corrige de golpe, se pide permiso primero.",
+   "e": "You do not correct all at once, you ask permission first."
+  },
+  {
+   "s": "Con todo respeto, don Emilio, se dice primero.",
+   "e": "Con todo respeto, don Emilio, is said first."
+  },
+  {
+   "s": "Esa frase avisa que viene algo que puede molestar.",
+   "e": "That phrase warns that something that may annoy is coming."
+  },
+  {
+   "s": "Y avisa que uno sabe dónde está parado.",
+   "e": "And it warns that you know where you stand."
+  },
+  {
+   "s": "Lo segundo es no decir que él está mal.",
+   "e": "The second thing is not to say that he is wrong."
+  },
+  {
+   "s": "Se dice que uno no entiende, no que el otro falló.",
+   "e": "You say you do not understand, not that the other one failed."
+  },
+  {
+   "s": "Yo debo estar equivocado, pero esta medida no me da.",
+   "e": "I must be mistaken, but this measurement does not work out for me."
+  },
+  {
+   "s": "Así el error queda de mi lado hasta que él lo mire.",
+   "e": "That way the mistake stays on my side until he looks at it."
+  },
+  {
+   "s": "Lo tercero es dejarlo a él corregir la medida.",
+   "e": "The third thing is to let him correct the measurement."
+  },
+  {
+   "s": "Uno no corrige, uno hace que el otro corrija.",
+   "e": "You do not correct, you make the other one correct it."
+  },
+  {
+   "s": "Si él lo ve, él lo arregla y nadie perdió nada.",
+   "e": "If he sees it, he fixes it and nobody lost anything."
+  },
+  {
+   "s": "Marcos me dice que eso último es lo que importa.",
+   "e": "Marcos tells me that last part is what matters."
+  },
+  {
+   "s": "Que aquí un anciano no puede quedar mal delante de otros.",
+   "e": "That here an old man cannot be made to look bad in front of others."
+  },
+  {
+   "s": "Que un anciano que queda mal no lo olvida nunca.",
+   "e": "That an old man made to look bad never forgets it."
+  },
+  {
+   "s": "Y que uno tampoco trabaja bien con él después.",
+   "e": "And that you do not work well with him afterwards either."
+  },
+  {
+   "s": "Voy donde don Emilio con el papel en la mano.",
+   "e": "I go to don Emilio with the paper in my hand."
+  },
+  {
+   "s": "Le digo con todo respeto que necesito su ayuda.",
+   "e": "I tell him with all respect that I need his help."
+  },
+  {
+   "s": "Le digo que la medida no me da y que yo no entiendo.",
+   "e": "I tell him the measurement does not work out and I do not understand."
+  },
+  {
+   "s": "Él agarra el papel y lo mira como treinta segundos.",
+   "e": "He takes the paper and looks at it for about thirty seconds."
+  },
+  {
+   "s": "Después dice ah, y agarra el lápiz.",
+   "e": "Then he says ah, and picks up the pencil."
+  },
+  {
+   "s": "Cambia el número él mismo, sin decir nada más.",
+   "e": "He changes the number himself, without saying anything else."
+  },
+  {
+   "s": "Me devuelve el papel y me dice que así sí me da.",
+   "e": "He gives me back the paper and tells me that way it works out."
+  },
+  {
+   "s": "No dijo que se había equivocado y yo tampoco.",
+   "e": "He did not say he had made a mistake and neither did I."
+  },
+  {
+   "s": "El error se arregló y nadie lo mencionó nunca.",
+   "e": "The mistake got fixed and nobody ever mentioned it."
+  },
+  {
+   "s": "Dos días después don Emilio me llama a su mesa.",
+   "e": "Two days later don Emilio calls me to his bench."
+  },
+  {
+   "s": "Me enseña una manera de marcar que yo no sabía.",
+   "e": "He shows me a way of marking that I did not know."
+  },
+  {
+   "s": "Nunca le enseñó eso a nadie del taller, dice Marcos.",
+   "e": "He never taught that to anybody in the workshop, says Marcos."
+  },
+  {
+   "s": "Yo pregunto por qué a mí y Marcos se ríe.",
+   "e": "I ask why me and Marcos laughs."
+  },
+  {
+   "s": "Me dice que porque le pedí permiso.",
+   "e": "He tells me because I asked his permission."
+  },
+  {
+   "s": "Y porque después no le conté a nadie del error.",
+   "e": "And because afterwards I did not tell anybody about the mistake."
+  },
+  {
+   "s": "Contradecir a un anciano aquí no está prohibido.",
+   "e": "Contradicting an old man here is not forbidden."
+  },
+  {
+   "s": "Lo prohibido es contradecirlo delante de gente.",
+   "e": "What is forbidden is contradicting him in front of people."
+  },
+  {
+   "s": "En privado se le puede decir casi todo.",
+   "e": "In private you can say almost anything to him."
+  },
+  {
+   "s": "La misma frase en el patio es una ofensa.",
+   "e": "The same sentence in the yard is an offence."
+  },
+  {
+   "s": "Yo pensaba que la jerarquía era del trabajo.",
+   "e": "I thought the hierarchy was a work thing."
+  },
+  {
+   "s": "Después la vi en la casa de doña Elena igual.",
+   "e": "Then I saw it just the same in doña Elena's house."
+  },
+  {
+   "s": "Nadie contradice a la suegra delante de la familia.",
+   "e": "Nobody contradicts the mother-in-law in front of the family."
+  },
+  {
+   "s": "En la cocina, solos, Lucía le dice de todo.",
+   "e": "In the kitchen, alone, Lucía says everything to her."
+  },
+  {
+   "s": "Es la misma regla en los dos lugares.",
+   "e": "It is the same rule in both places."
+  },
+  {
+   "s": "Y en los dos lugares me costó tres años.",
+   "e": "And in both places it took me three years."
+  }
+ ]
+}

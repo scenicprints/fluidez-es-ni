@@ -1,0 +1,279 @@
+{
+ "id": "p6-01",
+ "title": "Depende",
+ "desc": "The answer that is not an answer",
+ "ph": 6,
+ "diff": 6,
+ "wu": [
+  "definitivo",
+  "depender",
+  "respuesta",
+  "menos"
+ ],
+ "sn": [
+  {
+   "s": "Necesito saber si el taller abre el sábado.",
+   "e": "I need to know if the workshop opens on Saturday."
+  },
+  {
+   "s": "Es una pregunta de sí o no, nada más.",
+   "e": "It is a yes or no question, nothing more."
+  },
+  {
+   "s": "Se la hago al jefe del taller un jueves.",
+   "e": "I ask the workshop boss on a Thursday."
+  },
+  {
+   "s": "Y me contesta con una sola palabra: depende.",
+   "e": "And he answers me with a single word: depende."
+  },
+  {
+   "s": "Depende es la palabra más usada de este país.",
+   "e": "Depende is the most used word in this country."
+  },
+  {
+   "s": "Yo le pregunto de qué depende.",
+   "e": "I ask him what it depends on."
+  },
+  {
+   "s": "Y ahí empiezan los veinte minutos.",
+   "e": "And there the twenty minutes begin."
+  },
+  {
+   "s": "Me dice que depende de si llega el material.",
+   "e": "He tells me it depends on whether the material arrives."
+  },
+  {
+   "s": "Que el material depende de la rastra de Corinto.",
+   "e": "That the material depends on the truck from Corinto."
+  },
+  {
+   "s": "Que la rastra depende de si sale el papel.",
+   "e": "That the truck depends on whether the paperwork comes through."
+  },
+  {
+   "s": "Cada respuesta depende de otra cosa más atrás.",
+   "e": "Every answer depends on something further back."
+  },
+  {
+   "s": "Al final de veinte minutos yo sigo sin saber.",
+   "e": "At the end of twenty minutes I still do not know."
+  },
+  {
+   "s": "Me voy con más información y menos certeza.",
+   "e": "I leave with more information and less certainty."
+  },
+  {
+   "s": "Esa noche le cuento a Lucía y ella no se sorprende.",
+   "e": "That night I tell Lucía and she is not surprised."
+  },
+  {
+   "s": "Me pregunta por qué yo quería una respuesta definitiva.",
+   "e": "She asks me why I wanted a definite answer."
+  },
+  {
+   "s": "Yo le digo que porque era una pregunta definitiva.",
+   "e": "I tell her because it was a definite question."
+  },
+  {
+   "s": "Ella me dice que aquí casi nada es definitivo.",
+   "e": "She tells me that here almost nothing is definite."
+  },
+  {
+   "s": "Y que dar una respuesta definitiva es arriesgado.",
+   "e": "And that giving a definite answer is risky."
+  },
+  {
+   "s": "Porque el que da un sí definitivo se compromete.",
+   "e": "Because whoever gives a definite yes commits himself."
+  },
+  {
+   "s": "Y el que se compromete puede quedar mal después.",
+   "e": "And whoever commits himself can end up looking bad afterwards."
+  },
+  {
+   "s": "Aquí quedar mal es peor que no saber.",
+   "e": "Here looking bad is worse than not knowing."
+  },
+  {
+   "s": "Entonces uno no se compromete, uno dice depende.",
+   "e": "So you do not commit, you say depende."
+  },
+  {
+   "s": "Con depende nadie queda mal si el sábado no abren.",
+   "e": "With depende nobody looks bad if they do not open on Saturday."
+  },
+  {
+   "s": "Y nadie queda mal si abren tampoco.",
+   "e": "And nobody looks bad if they do open either."
+  },
+  {
+   "s": "Marcos me da la lista completa de esas palabras.",
+   "e": "Marcos gives me the complete list of those words."
+  },
+  {
+   "s": "Depende es la primera y la más fuerte.",
+   "e": "Depende is the first and the strongest."
+  },
+  {
+   "s": "Más o menos es la segunda, y esa sirve para todo.",
+   "e": "Más o menos is the second, and that works for everything."
+  },
+  {
+   "s": "Cómo estuvo la comida, más o menos.",
+   "e": "How was the food, más o menos."
+  },
+  {
+   "s": "Cuánta gente había, más o menos cincuenta.",
+   "e": "How many people were there, más o menos fifty."
+  },
+  {
+   "s": "Más o menos no compromete a nada ni a nadie.",
+   "e": "Más o menos commits nothing and nobody."
+  },
+  {
+   "s": "Puede ser es la tercera y suena a sí.",
+   "e": "Puede ser is the third and it sounds like yes."
+  },
+  {
+   "s": "Pero puede ser no es un sí, es una duda amable.",
+   "e": "But puede ser is not a yes, it is a polite doubt."
+  },
+  {
+   "s": "Digamos que es la cuarta y esa es de gente leída.",
+   "e": "Digamos que is the fourth and that one is for educated people."
+  },
+  {
+   "s": "Digamos que sí, digamos que no tanto.",
+   "e": "Let us say yes, let us say not so much."
+  },
+  {
+   "s": "Fíjese que es la quinta y ya viene con excusa.",
+   "e": "Fíjese que is the fifth and it comes with an excuse already."
+  },
+  {
+   "s": "Todas hacen lo mismo: le quitan el filo a la respuesta.",
+   "e": "They all do the same thing: they take the edge off the answer."
+  },
+  {
+   "s": "Yo le digo a Marcos que eso es dar rodeos.",
+   "e": "I tell Marcos that is going round in circles."
+  },
+  {
+   "s": "Él me dice que un rodeo no es una mentira.",
+   "e": "He tells me a rodeo is not a lie."
+  },
+  {
+   "s": "Que un rodeo es una manera de no cerrar la puerta.",
+   "e": "That a rodeo is a way of not closing the door."
+  },
+  {
+   "s": "Si yo digo que sí y después no puedo, mentí.",
+   "e": "If I say yes and then I cannot, I lied."
+  },
+  {
+   "s": "Si yo digo depende, nadie mintió nunca.",
+   "e": "If I say depende, nobody ever lied."
+  },
+  {
+   "s": "El rodeo protege al que habla y al que escucha.",
+   "e": "The rodeo protects the speaker and the listener."
+  },
+  {
+   "s": "Después me explica la otra mitad del asunto.",
+   "e": "Then he explains the other half of the matter."
+  },
+  {
+   "s": "Una respuesta muy segura suena a presumido.",
+   "e": "A very certain answer sounds boastful."
+  },
+  {
+   "s": "El que habla con certeza de todo se cree mucho.",
+   "e": "The one who speaks with certainty about everything thinks a lot of himself."
+  },
+  {
+   "s": "Y aquí creerse mucho es el peor defecto.",
+   "e": "And here thinking a lot of yourself is the worst fault."
+  },
+  {
+   "s": "Por eso hasta el que sabe contesta con duda.",
+   "e": "That is why even the one who knows answers with doubt."
+  },
+  {
+   "s": "El doctor dice puede ser aunque esté seguro.",
+   "e": "The doctor says puede ser even when he is certain."
+  },
+  {
+   "s": "El mecánico dice depende aunque ya vio el motor.",
+   "e": "The mechanic says depende even though he has already seen the engine."
+  },
+  {
+   "s": "La duda es educación, no es ignorancia.",
+   "e": "The doubt is good manners, not ignorance."
+  },
+  {
+   "s": "Yo pruebo a hablar así durante una semana.",
+   "e": "I try talking like that for a week."
+  },
+  {
+   "s": "Al principio me da miedo no comprometerme con nada.",
+   "e": "At first it frightens me not to commit to anything."
+  },
+  {
+   "s": "Se siente como si uno no estuviera diciendo nada.",
+   "e": "It feels as if you were saying nothing."
+  },
+  {
+   "s": "Pero después descubro lo que hace por dentro.",
+   "e": "But then I discover what it does underneath."
+  },
+  {
+   "s": "Cuando digo depende, la otra persona sigue hablando.",
+   "e": "When I say depende, the other person goes on talking."
+  },
+  {
+   "s": "Cuando digo un sí definitivo, la conversación se acaba.",
+   "e": "When I say a definite yes, the conversation ends."
+  },
+  {
+   "s": "El depende deja la puerta abierta a más conversación.",
+   "e": "Depende leaves the door open to more conversation."
+  },
+  {
+   "s": "Y aquí la conversación es lo que importa.",
+   "e": "And here the conversation is what matters."
+  },
+  {
+   "s": "El sábado llego al taller a las siete.",
+   "e": "On Saturday I get to the workshop at seven."
+  },
+  {
+   "s": "Está abierto y hay cuatro hombres trabajando.",
+   "e": "It is open and there are four men working."
+  },
+  {
+   "s": "El jefe me ve entrar y no dice nada del jueves.",
+   "e": "The boss sees me come in and says nothing about Thursday."
+  },
+  {
+   "s": "Porque él nunca me dijo que no íbamos a abrir.",
+   "e": "Because he never told me we were not going to open."
+  },
+  {
+   "s": "Y nunca me dijo que sí, tampoco.",
+   "e": "And he never told me we were, either."
+  },
+  {
+   "s": "Yo llegué porque entendí lo que quería decir depende.",
+   "e": "I came because I understood what depende meant."
+  },
+  {
+   "s": "Depende quería decir que probablemente sí.",
+   "e": "Depende meant probably yes."
+  },
+  {
+   "s": "Eso también hay que aprender a oírlo.",
+   "e": "That has to be learned by ear as well."
+  }
+ ]
+}

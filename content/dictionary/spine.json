@@ -101,6 +101,11 @@
   "en": "to clear up",
   "pos": "v"
  },
+ "acomodado": {
+  "en": "comfortably off",
+  "pos": "adj",
+  "note": "What you say instead of rico, which sounds like a complaint"
+ },
  "acomodarse": {
   "en": "to settle in",
   "pos": "v"
@@ -311,6 +316,11 @@
   "en": "tall/high",
   "pos": "adj"
  },
+ "altura": {
+  "en": "altitude",
+  "pos": "n",
+  "g": "f"
+ },
  "amable": {
   "en": "kind",
   "pos": "adj"
@@ -387,6 +397,10 @@
  "anunciar": {
   "en": "to announce",
   "pos": "v"
+ },
+ "anónimo": {
+  "en": "anonymous",
+  "pos": "adj"
  },
  "apagar": {
   "en": "to turn off/to put out",
@@ -533,6 +547,10 @@
   "en": "to choke",
   "pos": "v"
  },
+ "atrasarse": {
+  "en": "to be late, to fall behind",
+  "pos": "v"
+ },
  "atraso": {
   "en": "lateness",
   "pos": "n",
@@ -545,6 +563,12 @@
  "atrás": {
   "en": "behind/at the back",
   "pos": "adv"
+ },
+ "autonomía": {
+  "en": "autonomy",
+  "pos": "n",
+  "g": "f",
+  "note": "The Caribbean regions have had their own government since 1987"
  },
  "avisar": {
   "en": "to let somebody know",
@@ -868,6 +892,11 @@
   "en": "to fall",
   "pos": "v"
  },
+ "cafetal": {
+  "en": "coffee farm",
+  "pos": "n",
+  "g": "m"
+ },
  "café": {
   "en": "coffee",
   "g": "m",
@@ -1078,6 +1107,11 @@
   "en": "to get married",
   "pos": "v"
  },
+ "casilla": {
+  "en": "box on a form",
+  "pos": "n",
+  "g": "f"
+ },
  "caso": {
   "en": "case",
   "g": "m",
@@ -1176,6 +1210,17 @@
  "cerrar": {
   "en": "to close",
   "pos": "v"
+ },
+ "cerro": {
+  "en": "hill",
+  "pos": "n",
+  "g": "m"
+ },
+ "certeza": {
+  "en": "certainty",
+  "pos": "n",
+  "g": "f",
+  "note": "Speaking with certeza about everything sounds boastful here"
  },
  "cerveza": {
   "en": "beer",
@@ -1317,6 +1362,11 @@
   "en": "light/clear",
   "pos": "adj"
  },
+ "clase": {
+  "en": "class",
+  "pos": "n",
+  "g": "f"
+ },
  "clave": {
   "en": "key/crucial point",
   "g": "f",
@@ -1331,6 +1381,11 @@
   "en": "weather/climate",
   "g": "m",
   "pos": "n"
+ },
+ "cobija": {
+  "en": "blanket",
+  "pos": "n",
+  "g": "f"
  },
  "cobrar": {
   "en": "to charge",
@@ -1483,6 +1538,10 @@
   "en": "to spoil/to indulge",
   "pos": "v"
  },
+ "consolar": {
+  "en": "to comfort",
+  "pos": "v"
+ },
  "construcción": {
   "en": "construction",
   "g": "f",
@@ -1513,6 +1572,11 @@
   "en": "context",
   "g": "m",
   "pos": "n"
+ },
+ "contradecir": {
+  "en": "to contradict",
+  "pos": "v",
+  "note": "Not forbidden - forbidden in front of other people"
  },
  "contrario": {
   "en": "opposite",
@@ -1829,6 +1893,10 @@
   "note": "The verb used for coping here, as if living were something you stand up to",
   "pos": "v"
  },
+ "definitivo": {
+  "en": "definite, final",
+  "pos": "adj"
+ },
  "delantal": {
   "en": "apron",
   "pos": "n",
@@ -1836,6 +1904,10 @@
  },
  "delatar": {
   "en": "to give away",
+  "pos": "v"
+ },
+ "deletrear": {
+  "en": "to spell out",
   "pos": "v"
  },
  "delgado": {
@@ -1850,6 +1922,12 @@
  "denunciar": {
   "en": "to report",
   "pos": "v"
+ },
+ "departamento": {
+  "en": "department",
+  "pos": "n",
+  "g": "m",
+  "note": "Nicaragua's provinces. Small enough to cross three in a morning"
  },
  "depender": {
   "en": "to depend",
@@ -1892,6 +1970,11 @@
  "descansar": {
   "en": "to rest",
   "pos": "v"
+ },
+ "descanso": {
+  "en": "break, rest",
+  "pos": "n",
+  "g": "m"
  },
  "descomponerse": {
   "en": "to break down",
@@ -2030,6 +2113,10 @@
  },
  "discutir": {
   "en": "to argue",
+  "pos": "v"
+ },
+ "disimular": {
+  "en": "to cover up, to not let it show",
   "pos": "v"
  },
  "disolverse": {
@@ -2254,6 +2341,11 @@
   "en": "to go in/to come in",
   "pos": "v"
  },
+ "entrega": {
+  "en": "delivery",
+  "pos": "n",
+  "g": "f"
+ },
  "entregar": {
   "en": "to hand in",
   "pos": "v"
@@ -2395,6 +2487,10 @@
   "en": "evangelical",
   "pos": "adj"
  },
+ "evitar": {
+  "en": "to avoid",
+  "pos": "v"
+ },
  "exactamente": {
   "en": "exactly",
   "pos": "adv"
@@ -2527,6 +2623,11 @@
   "en": "queue",
   "g": "f",
   "pos": "n"
+ },
+ "filo": {
+  "en": "edge",
+  "pos": "n",
+  "g": "m"
  },
  "firma": {
   "en": "signature",
@@ -2714,6 +2815,11 @@
   "pos": "n",
   "g": "f",
   "note": "The three-metre dancing doll of the December streets, strongest in Leon"
+ },
+ "gobierno": {
+  "en": "government",
+  "pos": "n",
+  "g": "m"
  },
  "gofio": {
   "en": "maize sweet",
@@ -3087,6 +3193,12 @@
   "g": "m",
   "pos": "n"
  },
+ "jerarquía": {
+  "en": "hierarchy",
+  "pos": "n",
+  "g": "f",
+  "note": "The written one and the real one. Age and time inside outrank a job title"
+ },
  "jerga": {
   "en": "slang",
   "pos": "n",
@@ -3168,6 +3280,10 @@
  },
  "lejos": {
   "en": "far",
+  "pos": "adv"
+ },
+ "lentamente": {
+  "en": "slowly",
   "pos": "adv"
  },
  "letanía": {
@@ -3451,6 +3567,11 @@
   "en": "to chew",
   "pos": "v"
  },
+ "materno": {
+  "en": "maternal",
+  "pos": "adj",
+  "note": "The second surname. Everybody here has two"
+ },
  "mayo": {
   "en": "May",
   "g": "m",
@@ -3472,6 +3593,11 @@
  },
  "mecate": {
   "en": "cord, string",
+  "pos": "n",
+  "g": "m"
+ },
+ "mecánico": {
+  "en": "mechanic",
   "pos": "n",
   "g": "m"
  },
@@ -3567,6 +3693,11 @@
   "en": "metre",
   "g": "m",
   "pos": "n"
+ },
+ "mezcla": {
+  "en": "mixture",
+  "pos": "n",
+  "g": "f"
  },
  "mezclar": {
   "en": "to mix",
@@ -3678,6 +3809,12 @@
   "en": "counter",
   "g": "m",
   "pos": "n"
+ },
+ "motivo": {
+  "en": "reason",
+  "pos": "n",
+  "g": "m",
+  "note": "A delay with a motivo is only a delay. Without one it is disrespect"
  },
  "moto": {
   "en": "motorbike",
@@ -3803,6 +3940,12 @@
   "g": "f",
   "pos": "n"
  },
+ "neblina": {
+  "en": "mist",
+  "pos": "n",
+  "g": "f",
+  "note": "It comes down at four in Jinotega and gets under the door"
+ },
  "negar": {
   "en": "to refuse/to deny",
   "pos": "v"
@@ -3857,6 +4000,11 @@
   "en": "north",
   "g": "m",
   "pos": "n"
+ },
+ "norteño": {
+  "en": "northerner",
+  "pos": "n",
+  "g": "m"
  },
  "nota": {
   "en": "note",
@@ -4144,6 +4292,12 @@
   "g": "f",
   "pos": "n"
  },
+ "partida": {
+  "en": "certificate",
+  "pos": "n",
+  "g": "f",
+  "note": "Partida de nacimiento - birth certificate"
+ },
  "partido": {
   "en": "split",
   "pos": "adj"
@@ -4172,6 +4326,10 @@
   "en": "tablet",
   "g": "f",
   "pos": "n"
+ },
+ "paterno": {
+  "en": "paternal",
+  "pos": "adj"
  },
  "patio": {
   "en": "yard/patio",
@@ -4253,6 +4411,11 @@
   "en": "shame/embarrassment",
   "g": "f",
   "pos": "n"
+ },
+ "pensión": {
+  "en": "boarding house",
+  "pos": "n",
+  "g": "f"
  },
  "perder": {
   "en": "to lose",
@@ -4501,6 +4664,10 @@
   "en": "to worry",
   "pos": "v"
  },
+ "preparar": {
+  "en": "to prepare",
+  "pos": "v"
+ },
  "presentar": {
   "en": "to introduce",
   "pos": "v"
@@ -4513,6 +4680,15 @@
   "en": "to lend",
   "pos": "v"
  },
+ "presumido": {
+  "en": "boastful",
+  "pos": "adj"
+ },
+ "pretexto": {
+  "en": "pretext",
+  "pos": "n",
+  "g": "m"
+ },
  "primo": {
   "en": "cousin",
   "g": "m",
@@ -4521,6 +4697,11 @@
  "principal": {
   "en": "main",
   "pos": "adj"
+ },
+ "prioridad": {
+  "en": "priority",
+  "pos": "n",
+  "g": "f"
  },
  "prisa": {
   "en": "hurry",
@@ -4697,6 +4878,11 @@
   "en": "to tear",
   "pos": "v"
  },
+ "rastra": {
+  "en": "lorry, articulated truck",
+  "pos": "n",
+  "g": "f"
+ },
  "rato": {
   "en": "a while",
   "g": "m",
@@ -4799,6 +4985,11 @@
   "en": "to tell off",
   "pos": "v"
  },
+ "región": {
+  "en": "region",
+  "pos": "n",
+  "g": "f"
+ },
  "regla": {
   "en": "rule",
   "g": "f",
@@ -4813,6 +5004,12 @@
   "en": "grille/bars",
   "g": "f",
   "pos": "n"
+ },
+ "relación": {
+  "en": "relationship",
+  "pos": "n",
+  "g": "f",
+  "note": "What an excuse is protecting. The job stays just as late"
  },
  "religión": {
   "en": "religion",
@@ -4834,6 +5031,10 @@
   "g": "f",
   "note": "Money from a relative abroad. Half the street lives on it",
   "pos": "n"
+ },
+ "renunciar": {
+  "en": "to resign",
+  "pos": "v"
  },
  "repartir": {
   "en": "to hand out",
@@ -5239,6 +5440,11 @@
   "g": "m",
   "pos": "n"
  },
+ "soldadura": {
+  "en": "welding",
+  "pos": "n",
+  "g": "f"
+ },
  "soldar": {
   "en": "to weld",
   "pos": "v"
@@ -5290,6 +5496,11 @@
  "suave": {
   "en": "soft/gentle",
   "pos": "adj"
+ },
+ "suavizar": {
+  "en": "to soften",
+  "pos": "v",
+  "note": "The imperfect does it: queria preguntarle, not quiero"
  },
  "subir": {
   "en": "to get on/to go up",
@@ -5483,6 +5694,11 @@
   "g": "m",
   "pos": "n"
  },
+ "territorio": {
+  "en": "territory",
+  "pos": "n",
+  "g": "m"
+ },
  "testigo": {
   "en": "witness",
   "g": "m",
@@ -5518,6 +5734,12 @@
   "en": "to be somebody's turn",
   "note": "'Me toca' - it is my turn. Being whose turn it is means you are inside",
   "pos": "v"
+ },
+ "tocayo": {
+  "en": "somebody with your name",
+  "pos": "n",
+  "g": "m",
+  "note": "Not a coincidence here - a relationship. Two tocayos use the word instead of the name"
  },
  "tomate": {
   "en": "tomato",
