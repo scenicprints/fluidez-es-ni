@@ -1,0 +1,284 @@
+{
+ "id": "p0-05",
+ "title": "El cuarto",
+ "desc": "A room with a fan and no hot water",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "cuarto",
+  "cama",
+  "ventana",
+  "pila",
+  "abanico",
+  "ropa",
+  "agua",
+  "jabón",
+  "balde"
+ ],
+ "sn": [
+  {
+   "s": "Mi cuarto es pequeño.",
+   "e": "My room is small."
+  },
+  {
+   "s": "En el cuarto hay una cama.",
+   "e": "In the room there is a bed."
+  },
+  {
+   "s": "La cama es dura.",
+   "e": "The bed is hard."
+  },
+  {
+   "s": "Al lado de la cama hay una silla.",
+   "e": "Next to the bed there is a chair."
+  },
+  {
+   "s": "En la silla pongo mi ropa.",
+   "e": "I put my clothes on the chair."
+  },
+  {
+   "s": "No hay más muebles en el cuarto.",
+   "e": "There is no other furniture in the room."
+  },
+  {
+   "s": "El cuarto tiene una ventana.",
+   "e": "The room has a window."
+  },
+  {
+   "s": "La ventana no tiene vidrio.",
+   "e": "The window has no glass."
+  },
+  {
+   "s": "La ventana siempre está abierta.",
+   "e": "The window is always open."
+  },
+  {
+   "s": "Por la ventana entra el calor.",
+   "e": "The heat comes in through the window."
+  },
+  {
+   "s": "Por la ventana entran los ruidos de la calle.",
+   "e": "The noises of the street come in through the window."
+  },
+  {
+   "s": "Por la ventana entra la música del vecino.",
+   "e": "The neighbour's music comes in through the window."
+  },
+  {
+   "s": "Arriba de la cama hay un abanico.",
+   "e": "Above the bed there is a fan."
+  },
+  {
+   "s": "El abanico da vueltas toda la noche.",
+   "e": "The fan turns all night."
+  },
+  {
+   "s": "Sin el abanico no puedo dormir.",
+   "e": "Without the fan I cannot sleep."
+  },
+  {
+   "s": "Con el abanico duermo bien.",
+   "e": "With the fan I sleep well."
+  },
+  {
+   "s": "El abanico hace un ruido pequeño.",
+   "e": "The fan makes a small noise."
+  },
+  {
+   "s": "Ese ruido ya me gusta.",
+   "e": "I have come to like that noise."
+  },
+  {
+   "s": "El baño está afuera del cuarto.",
+   "e": "The bathroom is outside the room."
+  },
+  {
+   "s": "En el baño no hay agua caliente.",
+   "e": "In the bathroom there is no hot water."
+  },
+  {
+   "s": "En ninguna casa hay agua caliente.",
+   "e": "There is no hot water in any house."
+  },
+  {
+   "s": "Roberto no entiende mi pregunta.",
+   "e": "Roberto does not understand my question."
+  },
+  {
+   "s": "\"¿Agua caliente? ¿Para qué?\", dice.",
+   "e": "\"Hot water? What for?\" he says."
+  },
+  {
+   "s": "\"Hace calor todo el año.\"",
+   "e": "\"It is hot all year.\""
+  },
+  {
+   "s": "Tiene razón.",
+   "e": "He is right."
+  },
+  {
+   "s": "En el baño hay una pila.",
+   "e": "In the bathroom there is a pila."
+  },
+  {
+   "s": "La pila es de cemento.",
+   "e": "The pila is made of cement."
+  },
+  {
+   "s": "La pila siempre está llena de agua.",
+   "e": "The pila is always full of water."
+  },
+  {
+   "s": "Al lado de la pila hay un balde.",
+   "e": "Next to the pila there is a bucket."
+  },
+  {
+   "s": "El balde es azul.",
+   "e": "The bucket is blue."
+  },
+  {
+   "s": "El balde siempre está al lado de la pila.",
+   "e": "The bucket is always next to the pila."
+  },
+  {
+   "s": "Sin balde uno no se puede bañar.",
+   "e": "Without a bucket you cannot wash."
+  },
+  {
+   "s": "Uno no se mete en la pila.",
+   "e": "You do not get into the pila."
+  },
+  {
+   "s": "Eso lo aprendo el primer día.",
+   "e": "I learn that on the first day."
+  },
+  {
+   "s": "Uno saca el agua de la pila con el balde.",
+   "e": "You take the water out of the pila with the bucket."
+  },
+  {
+   "s": "Después uno se echa el agua encima.",
+   "e": "Then you pour the water over yourself."
+  },
+  {
+   "s": "El agua está fría.",
+   "e": "The water is cold."
+  },
+  {
+   "s": "La primera vez es horrible.",
+   "e": "The first time it is horrible."
+  },
+  {
+   "s": "La segunda vez es menos horrible.",
+   "e": "The second time it is less horrible."
+  },
+  {
+   "s": "Después uno se acostumbra.",
+   "e": "Then you get used to it."
+  },
+  {
+   "s": "Con este calor el agua fría es buena.",
+   "e": "In this heat cold water is good."
+  },
+  {
+   "s": "Me baño con el balde en la mañana.",
+   "e": "I bathe with the bucket in the morning."
+  },
+  {
+   "s": "Me baño con el balde en la noche.",
+   "e": "I bathe with the bucket at night."
+  },
+  {
+   "s": "A veces me baño tres veces al día.",
+   "e": "Sometimes I bathe three times a day."
+  },
+  {
+   "s": "El jabón está en una taza al lado de la pila.",
+   "e": "The soap is in a cup next to the pila."
+  },
+  {
+   "s": "El jabón es azul y grande.",
+   "e": "The soap is blue and big."
+  },
+  {
+   "s": "Ese jabón sirve para todo.",
+   "e": "That soap is for everything."
+  },
+  {
+   "s": "Con ese jabón me baño.",
+   "e": "I bathe with that soap."
+  },
+  {
+   "s": "Con ese jabón lavo mi ropa.",
+   "e": "I wash my clothes with that soap."
+  },
+  {
+   "s": "Doña Carmen lava la ropa en la pila.",
+   "e": "Doña Carmen washes clothes in the pila."
+  },
+  {
+   "s": "Lava la ropa todos los días.",
+   "e": "She washes clothes every day."
+  },
+  {
+   "s": "La ropa se seca rápido con este calor.",
+   "e": "Clothes dry fast in this heat."
+  },
+  {
+   "s": "Mi ropa se seca en dos horas.",
+   "e": "My clothes dry in two hours."
+  },
+  {
+   "s": "La primera semana lavo mal mi ropa.",
+   "e": "The first week I wash my clothes badly."
+  },
+  {
+   "s": "Doña Carmen me ve y se ríe.",
+   "e": "Doña Carmen sees me and laughs."
+  },
+  {
+   "s": "\"Así no, mijo\", dice ella.",
+   "e": "\"Not like that, mijo,\" she says."
+  },
+  {
+   "s": "Me enseña cómo lavar la ropa en la pila.",
+   "e": "She shows me how to wash clothes in the pila."
+  },
+  {
+   "s": "Ahora lavo mi ropa mejor.",
+   "e": "Now I wash my clothes better."
+  },
+  {
+   "s": "En la noche cierro la puerta del cuarto.",
+   "e": "At night I close the door of the room."
+  },
+  {
+   "s": "La ventana no la cierro.",
+   "e": "I do not close the window."
+  },
+  {
+   "s": "No se puede cerrar la ventana con este calor.",
+   "e": "You cannot close the window in this heat."
+  },
+  {
+   "s": "Prendo el abanico.",
+   "e": "I turn on the fan."
+  },
+  {
+   "s": "Me acuesto en la cama dura.",
+   "e": "I lie down on the hard bed."
+  },
+  {
+   "s": "Oigo la calle por la ventana.",
+   "e": "I hear the street through the window."
+  },
+  {
+   "s": "Oigo el abanico arriba de la cama.",
+   "e": "I hear the fan above the bed."
+  },
+  {
+   "s": "Y me duermo.",
+   "e": "And I fall asleep."
+  }
+ ]
+}

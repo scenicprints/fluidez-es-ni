@@ -28,7 +28,10 @@ caminas compras pagas ayudas cierras pierdes sirves repites eliges
 
 # Tu imperatives. "se" and "ve" are left out on purpose: they collide with
 # saber and ver, which are everywhere and perfectly correct.
-TU_IMPERATIVES = u"ten ven haz pon sal di oye".split()
+# "ven" is also they-see, "oye" is he-hears, "di" is I-gave, and "sal" is
+# salt. All four are ordinary Nicaraguan words far more often than they are
+# tu imperatives, and flagging them means flagging correct prose.
+TU_IMPERATIVES = u"ten haz pon".split()
 
 # Only the vosotros forms Nicaragua does NOT also use.
 #

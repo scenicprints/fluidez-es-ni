@@ -43,6 +43,8 @@ TOKEN = re.compile(r"[^\W\d_]+", re.UNICODE)
 SPINE_ID = re.compile(r"^p[0-7]-\d\d$")
 
 COVERAGE_MIN = 0.88
+COVERAGE_START = 0.60   # what story four is held to
+RAMP = 25               # stories over which the bar climbs to COVERAGE_MIN
 DENSITY_MIN = 5
 RETURN_MIN = 6
 RETURN_WINDOW = 25
@@ -110,13 +112,19 @@ def check(pack, spine_order=None):
         seen_before = len(c) - len(fresh)
         coverage = seen_before / float(len(c))
 
-        # The opening stories have nothing behind them, so coverage cannot
-        # apply until there is a course to be covered by.
-        if i >= 3 and coverage < COVERAGE_MIN:
+        # Coverage has to ramp. Story four cannot have 88% of its words already
+        # known, because there are three stories' worth of Spanish in
+        # existence. A real graded course introduces heavily at the start and
+        # then lives off what it built. So the bar climbs from 60% to the full
+        # 88% over the first RAMP stories and holds there for the rest.
+        need = COVERAGE_MIN
+        if i < RAMP:
+            need = COVERAGE_START + (COVERAGE_MIN - COVERAGE_START) * (i / float(RAMP))
+        if i >= 3 and coverage < need:
             problems.append(
                 u"%s: only %.0f%% of its words were introduced earlier (need %.0f%%). "
                 u"%d new words in one story is too many to infer."
-                % (sid, 100 * coverage, 100 * COVERAGE_MIN, len(fresh)))
+                % (sid, 100 * coverage, 100 * need, len(fresh)))
 
         for w in fresh:
             introduced[w] = i
@@ -127,6 +135,18 @@ def check(pack, spine_order=None):
         # case and shows up here as 0 uses.
         for raw in lesson.get("wu") or lesson.get("warmup") or []:
             w = raw.lower()
+            if " " in w:
+                # "gallo pinto" is one dictionary entry and two tokens, so a
+                # word counter can never see it. Count the phrase in the raw
+                # text instead. Nicaraguan speech is full of these - dale pues,
+                # va pues, por favor - so this is not a special case for one
+                # breakfast.
+                hits = sum(
+                    (sn.get("s") or sn.get("es") or u"").lower().count(w)
+                    for sn in lesson.get("sn") or lesson.get("sentences") or [])
+                if hits < DENSITY_MIN:
+                    thin.append((sid, raw, hits))
+                continue
             w = w if w in dictionary else forms.get(w, w)
             if c.get(w, 0) < DENSITY_MIN:
                 thin.append((sid, raw, c.get(w, 0)))
@@ -147,12 +167,16 @@ def check(pack, spine_order=None):
     for w, at in introduced.items():
         if not is_content(w, dictionary):
             continue
-        window = range(at + 1, min(at + 1 + RETURN_WINDOW, last + 1))
-        if not window:
-            continue                      # introduced too late to have a window
+        window = list(range(at + 1, min(at + 1 + RETURN_WINDOW, last + 1)))
+        # Judge a word only once its whole window exists. While the course is
+        # being written the last stories always have a short tail, and scaling
+        # the requirement down for them ends up demanding that EVERY remaining
+        # story contain EVERY word - which flagged 109 words in story one when
+        # six stories existed.
+        if len(window) < RETURN_WINDOW:
+            continue
         came_back = sum(1 for j in window if counts[j].get(w))
-        needed = min(RETURN_MIN, len(list(window)))
-        if came_back < needed:
+        if came_back < RETURN_MIN:
             weak.append((lessons[at].get("id"), w, came_back, needed))
 
     if weak:

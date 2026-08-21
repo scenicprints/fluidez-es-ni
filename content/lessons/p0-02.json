@@ -1,0 +1,347 @@
+{
+ "id": "p0-02",
+ "title": "Buenas",
+ "desc": "One word does the work of ten",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "buenas",
+  "casa",
+  "calle",
+  "gente",
+  "puerta",
+  "saludar",
+  "vecino",
+  "chavalo"
+ ],
+ "sn": [
+  {
+   "s": "Es mi segundo día en Nicaragua.",
+   "e": "It is my second day in Nicaragua."
+  },
+  {
+   "s": "Salgo de la casa por la mañana.",
+   "e": "I leave the house in the morning."
+  },
+  {
+   "s": "Hace calor otra vez.",
+   "e": "It is hot again."
+  },
+  {
+   "s": "Camino por la calle.",
+   "e": "I walk down the street."
+  },
+  {
+   "s": "En la calle hay mucha gente.",
+   "e": "There are a lot of people in the street."
+  },
+  {
+   "s": "Un señor está en la puerta de su casa.",
+   "e": "A man is in the doorway of his house."
+  },
+  {
+   "s": "El señor me ve.",
+   "e": "The man sees me."
+  },
+  {
+   "s": "\"Buenas\", me dice.",
+   "e": "\"Buenas,\" he says to me."
+  },
+  {
+   "s": "Yo no digo nada.",
+   "e": "I say nothing."
+  },
+  {
+   "s": "Camino más rápido.",
+   "e": "I walk faster."
+  },
+  {
+   "s": "Una señora barre la puerta de su casa.",
+   "e": "A woman sweeps her doorway."
+  },
+  {
+   "s": "\"Buenas\", me dice la señora.",
+   "e": "\"Buenas,\" the woman says to me."
+  },
+  {
+   "s": "Yo no digo nada otra vez.",
+   "e": "Again I say nothing."
+  },
+  {
+   "s": "Dos chavalos están en la calle.",
+   "e": "Two kids are in the street."
+  },
+  {
+   "s": "\"Buenas\", dicen los chavalos.",
+   "e": "\"Buenas,\" the kids say."
+  },
+  {
+   "s": "Yo sigo caminando.",
+   "e": "I keep walking."
+  },
+  {
+   "s": "Siento algo raro.",
+   "e": "I feel something strange."
+  },
+  {
+   "s": "La gente me mira.",
+   "e": "The people look at me."
+  },
+  {
+   "s": "No sé por qué.",
+   "e": "I do not know why."
+  },
+  {
+   "s": "Un chavalo camina conmigo.",
+   "e": "A kid walks along with me."
+  },
+  {
+   "s": "\"¿Por qué no saluda?\", me pregunta.",
+   "e": "\"Why don't you say hello?\" he asks me."
+  },
+  {
+   "s": "\"¿Saludar?\", digo yo.",
+   "e": "\"Say hello?\" I say."
+  },
+  {
+   "s": "\"Sí. Aquí uno saluda.\"",
+   "e": "\"Yes. Here you say hello.\""
+  },
+  {
+   "s": "\"¿A quién?\", pregunto.",
+   "e": "\"To who?\" I ask."
+  },
+  {
+   "s": "\"A todos\", dice el chavalo.",
+   "e": "\"To everyone,\" the kid says."
+  },
+  {
+   "s": "\"¿A toda la gente de la calle?\"",
+   "e": "\"To all the people in the street?\""
+  },
+  {
+   "s": "\"A toda la gente\", dice.",
+   "e": "\"To everyone,\" he says."
+  },
+  {
+   "s": "Roberto me explica cómo saludar.",
+   "e": "Roberto explains to me how to say hello."
+  },
+  {
+   "s": "Uno saluda al vecino de al lado.",
+   "e": "You greet the neighbour next door."
+  },
+  {
+   "s": "Uno saluda al vecino de enfrente.",
+   "e": "You greet the neighbour opposite."
+  },
+  {
+   "s": "Uno saluda hasta al que no conoce.",
+   "e": "You even greet the one you do not know."
+  },
+  {
+   "s": "\"Saludar no cuesta nada\", dice el chavalo.",
+   "e": "\"Saying hello costs nothing,\" the kid says."
+  },
+  {
+   "s": "Otro chavalo pasa y me saluda.",
+   "e": "Another kid goes past and greets me."
+  },
+  {
+   "s": "Los chavalos de esta calle saludan a todos.",
+   "e": "The kids on this street greet everybody."
+  },
+  {
+   "s": "El chavalo se llama Roberto.",
+   "e": "The kid is called Roberto."
+  },
+  {
+   "s": "Roberto tiene doce años.",
+   "e": "Roberto is twelve years old."
+  },
+  {
+   "s": "Roberto vive en la casa de al lado.",
+   "e": "Roberto lives in the house next door."
+  },
+  {
+   "s": "Entonces Roberto es mi vecino.",
+   "e": "So Roberto is my neighbour."
+  },
+  {
+   "s": "\"Yo soy tu vecino\", dice Roberto.",
+   "e": "\"I'm your neighbour,\" Roberto says."
+  },
+  {
+   "s": "\"Y mi mamá es tu vecina.\"",
+   "e": "\"And my mum is your neighbour too.\""
+  },
+  {
+   "s": "Un vecino es el que vive al lado.",
+   "e": "A neighbour is the one who lives next door."
+  },
+  {
+   "s": "Aquí uno conoce a todos sus vecinos.",
+   "e": "Here you know all your neighbours."
+  },
+  {
+   "s": "Roberto me enseña.",
+   "e": "Roberto teaches me."
+  },
+  {
+   "s": "\"En la mañana se dice buenos días.\"",
+   "e": "\"In the morning you say buenos días.\""
+  },
+  {
+   "s": "\"En la tarde se dice buenas tardes.\"",
+   "e": "\"In the afternoon you say buenas tardes.\""
+  },
+  {
+   "s": "\"En la noche se dice buenas noches.\"",
+   "e": "\"At night you say buenas noches.\""
+  },
+  {
+   "s": "\"Pero uno casi siempre dice buenas.\"",
+   "e": "\"But you nearly always just say buenas.\""
+  },
+  {
+   "s": "\"¿Buenas y nada más?\", pregunto.",
+   "e": "\"Just buenas and nothing else?\" I ask."
+  },
+  {
+   "s": "\"Buenas y nada más\", dice Roberto.",
+   "e": "\"Buenas and nothing else,\" Roberto says."
+  },
+  {
+   "s": "\"Buenas sirve en la mañana.\"",
+   "e": "\"Buenas works in the morning.\""
+  },
+  {
+   "s": "\"Buenas sirve en la tarde.\"",
+   "e": "\"Buenas works in the afternoon.\""
+  },
+  {
+   "s": "\"Y buenas sirve en la noche.\"",
+   "e": "\"And buenas works at night.\""
+  },
+  {
+   "s": "Volvemos por la misma calle.",
+   "e": "We go back down the same street."
+  },
+  {
+   "s": "Los dos chavalos están en la puerta.",
+   "e": "The two kids are in the doorway."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "\"Buenas\", dicen ellos.",
+   "e": "\"Buenas,\" they say."
+  },
+  {
+   "s": "La señora sigue en la puerta de su casa.",
+   "e": "The woman is still in her doorway."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "La señora sonríe.",
+   "e": "The woman smiles."
+  },
+  {
+   "s": "\"Buenas tardes, joven\", me dice.",
+   "e": "\"Good afternoon, young man,\" she says to me."
+  },
+  {
+   "s": "El señor está en su puerta.",
+   "e": "The man is in his doorway."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "\"Buenas\", dice el señor.",
+   "e": "\"Buenas,\" the man says."
+  },
+  {
+   "s": "Y ahora la calle es otra calle.",
+   "e": "And now the street is a different street."
+  },
+  {
+   "s": "La misma gente, la misma calle.",
+   "e": "The same people, the same street."
+  },
+  {
+   "s": "Pero ahora la gente me habla.",
+   "e": "But now the people talk to me."
+  },
+  {
+   "s": "Roberto me lleva a su casa.",
+   "e": "Roberto takes me to his house."
+  },
+  {
+   "s": "En la puerta está su mamá.",
+   "e": "His mum is in the doorway."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "\"Buenas\", dice ella. \"¿Cómo se llama usted?\"",
+   "e": "\"Buenas,\" she says. \"What's your name?\""
+  },
+  {
+   "s": "Le digo mi nombre.",
+   "e": "I tell her my name."
+  },
+  {
+   "s": "Ella dice su nombre: Carmen.",
+   "e": "She says her name: Carmen."
+  },
+  {
+   "s": "\"Doña Carmen\", dice Roberto.",
+   "e": "\"Doña Carmen,\" Roberto says."
+  },
+  {
+   "s": "\"Aquí a las señoras se les dice doña.\"",
+   "e": "\"Here you call women doña.\""
+  },
+  {
+   "s": "\"Y a los señores se les dice don.\"",
+   "e": "\"And you call men don.\""
+  },
+  {
+   "s": "Doña Carmen me da un vaso de agua.",
+   "e": "Doña Carmen gives me a glass of water."
+  },
+  {
+   "s": "\"Gracias, doña Carmen\", digo yo.",
+   "e": "\"Thank you, doña Carmen,\" I say."
+  },
+  {
+   "s": "En la noche pienso en la calle.",
+   "e": "At night I think about the street."
+  },
+  {
+   "s": "Ayer la gente no me habló.",
+   "e": "Yesterday the people did not talk to me."
+  },
+  {
+   "s": "Hoy la gente me habló.",
+   "e": "Today the people talked to me."
+  },
+  {
+   "s": "Y sólo dije una palabra.",
+   "e": "And I only said one word."
+  },
+  {
+   "s": "Buenas.",
+   "e": "Buenas."
+  }
+ ]
+}

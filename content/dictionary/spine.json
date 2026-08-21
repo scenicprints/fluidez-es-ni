@@ -1,4 +1,10 @@
 {
+ "abanico": {
+  "en": "fan",
+  "g": "m",
+  "note": "Nicaragua says abanico, not ventilador",
+  "pos": "n"
+ },
  "abril": {
   "en": "April",
   "g": "m",
@@ -7,6 +13,14 @@
  },
  "acercarse": {
   "en": "to come closer/to approach",
+  "pos": "v"
+ },
+ "acostarse": {
+  "en": "to lie down/to go to bed",
+  "pos": "v"
+ },
+ "acostumbrarse": {
+  "en": "to get used to",
   "pos": "v"
  },
  "aeropuerto": {
@@ -25,17 +39,129 @@
   "note": "'No tiene aire' about a car means no air conditioning",
   "pos": "n"
  },
+ "apagar": {
+  "en": "to turn off/to put out",
+  "pos": "v"
+ },
  "avión": {
   "en": "plane/aeroplane",
   "g": "m",
   "pos": "n"
  },
+ "año": {
+  "en": "year",
+  "g": "m",
+  "pos": "n"
+ },
+ "balde": {
+  "en": "bucket",
+  "g": "m",
+  "pos": "n"
+ },
+ "barato": {
+  "en": "cheap",
+  "pos": "adj"
+ },
+ "barrer": {
+  "en": "to sweep",
+  "pos": "v"
+ },
+ "bañarse": {
+  "en": "to bathe/to wash yourself",
+  "pos": "v"
+ },
+ "baño": {
+  "en": "bathroom",
+  "g": "m",
+  "pos": "n"
+ },
+ "billete": {
+  "en": "note/bill",
+  "g": "m",
+  "pos": "n"
+ },
+ "boca": {
+  "en": "mouth",
+  "g": "f",
+  "pos": "n"
+ },
+ "béisbol": {
+  "en": "baseball",
+  "g": "m",
+  "note": "The national sport. Not football",
+  "pos": "n"
+ },
+ "café": {
+  "en": "coffee",
+  "g": "m",
+  "pos": "n"
+ },
+ "cama": {
+  "en": "bed",
+  "g": "f",
+  "pos": "n"
+ },
+ "caminar": {
+  "en": "to walk",
+  "pos": "v"
+ },
+ "cemento": {
+  "en": "cement",
+  "g": "m",
+  "pos": "n"
+ },
+ "cerrar": {
+  "en": "to close",
+  "pos": "v"
+ },
  "cierto": {
   "en": "true/certain",
   "pos": "adj"
  },
+ "cobrar": {
+  "en": "to charge",
+  "pos": "v"
+ },
+ "cocina": {
+  "en": "kitchen",
+  "g": "f",
+  "pos": "n"
+ },
  "color": {
   "en": "colour",
+  "g": "m",
+  "pos": "n"
+ },
+ "comprar": {
+  "en": "to buy",
+  "pos": "v"
+ },
+ "contar": {
+  "en": "to count/to tell",
+  "pos": "v"
+ },
+ "costar": {
+  "en": "to cost",
+  "pos": "v"
+ },
+ "cuajada": {
+  "en": "fresh salty cheese",
+  "g": "f",
+  "pos": "n"
+ },
+ "cuarto": {
+  "en": "room",
+  "g": "m",
+  "pos": "n"
+ },
+ "córdoba": {
+  "en": "córdoba",
+  "g": "m",
+  "note": "The currency. Written córdoba, said peso",
+  "pos": "n"
+ },
+ "desayuno": {
+  "en": "breakfast",
   "g": "m",
   "pos": "n"
  },
@@ -45,18 +171,100 @@
   "note": "An address here is landmarks, not a street and number",
   "pos": "n"
  },
+ "dulce": {
+  "en": "sweet",
+  "pos": "adj"
+ },
+ "duro": {
+  "en": "hard",
+  "pos": "adj"
+ },
  "enero": {
   "en": "January",
   "g": "m",
   "pos": "n"
  },
+ "enojarse": {
+  "en": "to get angry",
+  "pos": "v"
+ },
  "entrar": {
   "en": "to go in/to come in",
   "pos": "v"
  },
+ "esperar": {
+  "en": "to wait/to hope",
+  "pos": "v"
+ },
+ "esquina": {
+  "en": "corner",
+  "g": "f",
+  "pos": "n"
+ },
  "esto": {
   "en": "this/this thing",
   "pos": "pron"
+ },
+ "flaco": {
+  "en": "thin/skinny",
+  "pos": "adj"
+ },
+ "frijol": {
+  "en": "bean",
+  "g": "m",
+  "pos": "n"
+ },
+ "fruta": {
+  "en": "fruit",
+  "g": "f",
+  "pos": "n"
+ },
+ "fósforo": {
+  "en": "match",
+  "g": "m",
+  "pos": "n"
+ },
+ "gallo pinto": {
+  "en": "rice and beans",
+  "note": "The national breakfast. Eaten most mornings of most lives",
+  "pos": "phrase"
+ },
+ "grave": {
+  "en": "serious",
+  "pos": "adj"
+ },
+ "grueso": {
+  "en": "thick",
+  "pos": "adj"
+ },
+ "hambre": {
+  "en": "hunger",
+  "g": "f",
+  "note": "'Tengo hambre' - I am hungry",
+  "pos": "n"
+ },
+ "horrible": {
+  "en": "horrible",
+  "pos": "adj"
+ },
+ "jabón": {
+  "en": "soap",
+  "g": "m",
+  "pos": "n"
+ },
+ "lavar": {
+  "en": "to wash",
+  "pos": "v"
+ },
+ "lleno": {
+  "en": "full",
+  "pos": "adj"
+ },
+ "luz": {
+  "en": "light/electricity",
+  "g": "f",
+  "note": "'Se fue la luz' - the power went. Said with no drama at all",
+  "pos": "n"
  },
  "maleta": {
   "en": "suitcase",
@@ -68,9 +276,57 @@
   "note": "Nicaragua says manejar, not conducir",
   "pos": "v"
  },
+ "mesa": {
+  "en": "table",
+  "g": "f",
+  "pos": "n"
+ },
+ "meter": {
+  "en": "to put in",
+  "pos": "v"
+ },
+ "mijo": {
+  "en": "son/love",
+  "g": "m",
+  "note": "From 'mi hijo'. Warmth, not literal. Being called it means something",
+  "pos": "n"
+ },
+ "mirar": {
+  "en": "to look at/to watch",
+  "pos": "v"
+ },
+ "mueble": {
+  "en": "piece of furniture",
+  "g": "m",
+  "pos": "n"
+ },
+ "música": {
+  "en": "music",
+  "g": "f",
+  "pos": "n"
+ },
+ "nombre": {
+  "en": "name",
+  "g": "m",
+  "pos": "n"
+ },
  "normal": {
   "en": "normal/ordinary",
   "pos": "adj"
+ },
+ "olor": {
+  "en": "smell",
+  "g": "m",
+  "pos": "n"
+ },
+ "oscuro": {
+  "en": "dark",
+  "pos": "adj"
+ },
+ "pan": {
+  "en": "bread",
+  "g": "m",
+  "pos": "n"
  },
  "papel": {
   "en": "paper/piece of paper",
@@ -86,13 +342,98 @@
   "en": "to weigh",
   "pos": "v"
  },
+ "peso": {
+  "en": "peso",
+  "g": "m",
+  "note": "What everyone actually calls a córdoba out loud",
+  "pos": "n"
+ },
+ "pila": {
+  "en": "water tank/washing basin",
+  "g": "f",
+  "note": "Cement tank kept full. You never get in it - you scoop from it",
+  "pos": "n"
+ },
+ "plato": {
+  "en": "plate/dish",
+  "g": "m",
+  "pos": "n"
+ },
+ "prender": {
+  "en": "to turn on/to light",
+  "note": "Nicaragua says prender, not encender",
+  "pos": "v"
+ },
+ "quejarse": {
+  "en": "to complain",
+  "pos": "v"
+ },
+ "raro": {
+  "en": "strange/odd",
+  "pos": "adj"
+ },
+ "repente": {
+  "en": "suddenly",
+  "g": "m",
+  "note": "Only ever heard as 'de repente'",
+  "pos": "n"
+ },
  "revisar": {
   "en": "to check/to look over",
+  "pos": "v"
+ },
+ "ropa": {
+  "en": "clothes",
+  "g": "f",
+  "pos": "n"
+ },
+ "ruido": {
+  "en": "noise",
+  "g": "m",
+  "pos": "n"
+ },
+ "sacar": {
+  "en": "to take out",
+  "pos": "v"
+ },
+ "salado": {
+  "en": "salty",
+  "pos": "adj"
+ },
+ "saludar": {
+  "en": "to greet/to say hello",
+  "note": "Not greeting somebody you pass is the rudest thing you can do",
+  "pos": "v"
+ },
+ "secarse": {
+  "en": "to dry",
+  "pos": "v"
+ },
+ "seguir": {
+  "en": "to carry on/to follow",
   "pos": "v"
  },
  "segundo": {
   "en": "second",
   "pos": "adj"
+ },
+ "sentarse": {
+  "en": "to sit down",
+  "pos": "v"
+ },
+ "silla": {
+  "en": "chair",
+  "g": "f",
+  "pos": "n"
+ },
+ "sonreír": {
+  "en": "to smile",
+  "pos": "v"
+ },
+ "taza": {
+  "en": "cup",
+  "g": "f",
+  "pos": "n"
  },
  "tercero": {
   "en": "third",
@@ -102,5 +443,48 @@
  "tocar": {
   "en": "to touch/to knock/to play",
   "pos": "v"
+ },
+ "tortilla": {
+  "en": "tortilla",
+  "g": "f",
+  "note": "Thick maize tortilla, not the thin Mexican kind",
+  "pos": "n"
+ },
+ "tranquilo": {
+  "en": "calm/relaxed",
+  "pos": "adj"
+ },
+ "vacío": {
+  "en": "empty",
+  "pos": "adj"
+ },
+ "vecino": {
+  "en": "neighbour",
+  "g": "m",
+  "pos": "n"
+ },
+ "vela": {
+  "en": "candle",
+  "g": "f",
+  "pos": "n"
+ },
+ "ventana": {
+  "en": "window",
+  "g": "f",
+  "pos": "n"
+ },
+ "vidrio": {
+  "en": "glass (the material)",
+  "g": "m",
+  "pos": "n"
+ },
+ "volver": {
+  "en": "to come back/to go back",
+  "pos": "v"
+ },
+ "vuelto": {
+  "en": "change (money back)",
+  "g": "m",
+  "pos": "n"
  }
 }

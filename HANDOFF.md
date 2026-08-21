@@ -200,7 +200,28 @@ opens `frío` and strengthens `frío`. Rules already paid for:
   `sentarse`, `irse` produce nothing at all.
 - Anything ending in `-o` agrees like an adjective whatever its `pos` says
   (`todo` is tagged `pron`, `mucho` is tagged `adv`).
+- **Stem changes are generated speculatively** (o→ue, e→ie, e→i):
+  `costar`→`cuesta`, `pensar`→`piensa`, `volver`→`vuelve`. Over-generating
+  is safe because anything not actually written is thrown away by the
+  corpus filter. Voseo does not stem-change (`vos podés`), and those come
+  from the plain stem, so both spellings are covered.
+- **Never let a plural be its own entry** when the singular exists.
+  `frijol` and `frijoles` were both entries, so every plural counted
+  towards a different memory. `dedupe` merged 28 of these; if you add a
+  word, add the lemma only.
 - Keys starting with `_` in override files are notes, not forms.
+
+### Calibration learned from the first batch
+
+- **Coverage ramps** from 60% at story four to 88% by story 25. Story four
+  cannot have 88% known because three stories of Spanish exist.
+- **Return is only judged once a word's full 25-story window exists.**
+  Scaling it down for short tails demanded that every remaining story
+  contain every word, which flagged 109 words in story one.
+- **Multi-word warm-up entries** (`gallo pinto`) are counted as phrases in
+  the raw text; a word counter can never see them.
+- `ven`, `oye`, `di` and `sal` are NOT banned as tú imperatives - they are
+  they-see, he-hears, I-gave and salt far more often.
 
 ---
 

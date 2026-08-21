@@ -1,0 +1,356 @@
+{
+ "id": "p0-04",
+ "title": "Gallo pinto",
+ "desc": "Breakfast, and there is no other option",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "gallo pinto",
+  "comer",
+  "arroz",
+  "frijol",
+  "tortilla",
+  "café",
+  "rico",
+  "cocina",
+  "plato"
+ ],
+ "sn": [
+  {
+   "s": "Es temprano.",
+   "e": "It is early."
+  },
+  {
+   "s": "Todavía no hace calor.",
+   "e": "It is not hot yet."
+  },
+  {
+   "s": "Doña Carmen está en la cocina.",
+   "e": "Doña Carmen is in the kitchen."
+  },
+  {
+   "s": "De la cocina viene un olor rico.",
+   "e": "A good smell comes from the kitchen."
+  },
+  {
+   "s": "\"Buenas, doña Carmen\", digo yo.",
+   "e": "\"Buenas, doña Carmen,\" I say."
+  },
+  {
+   "s": "\"Buenas. Venga a comer\", dice ella.",
+   "e": "\"Buenas. Come and eat,\" she says."
+  },
+  {
+   "s": "\"No tengo hambre\", digo yo.",
+   "e": "\"I am not hungry,\" I say."
+  },
+  {
+   "s": "Doña Carmen no me oye.",
+   "e": "Doña Carmen does not hear me."
+  },
+  {
+   "s": "O no me quiere oír.",
+   "e": "Or does not want to hear me."
+  },
+  {
+   "s": "Pone un plato en la mesa.",
+   "e": "She puts a plate on the table."
+  },
+  {
+   "s": "En el plato hay arroz con frijoles.",
+   "e": "On the plate there is rice with beans."
+  },
+  {
+   "s": "El arroz y los frijoles están juntos.",
+   "e": "The rice and the beans are together."
+  },
+  {
+   "s": "\"Esto se llama gallo pinto\", dice.",
+   "e": "\"This is called gallo pinto,\" she says."
+  },
+  {
+   "s": "\"¿Gallo pinto?\", pregunto yo.",
+   "e": "\"Gallo pinto?\" I ask."
+  },
+  {
+   "s": "\"Gallo pinto. Arroz y frijoles.\"",
+   "e": "\"Gallo pinto. Rice and beans.\""
+  },
+  {
+   "s": "El gallo pinto se come en la mañana.",
+   "e": "Gallo pinto is eaten in the morning."
+  },
+  {
+   "s": "El gallo pinto lleva arroz y frijoles.",
+   "e": "Gallo pinto has rice and beans in it."
+  },
+  {
+   "s": "Los frijoles son rojos y pequeños.",
+   "e": "The beans are red and small."
+  },
+  {
+   "s": "Sin frijoles no hay gallo pinto.",
+   "e": "Without beans there is no gallo pinto."
+  },
+  {
+   "s": "Doña Carmen cocina los frijoles en la cocina.",
+   "e": "Doña Carmen cooks the beans in the kitchen."
+  },
+  {
+   "s": "En la cocina hay una olla grande de frijoles.",
+   "e": "In the kitchen there is a big pot of beans."
+  },
+  {
+   "s": "En la cocina huele a café.",
+   "e": "The kitchen smells of coffee."
+  },
+  {
+   "s": "El café se toma dulce aquí.",
+   "e": "Coffee is drunk sweet here."
+  },
+  {
+   "s": "Tomo el café y como la tortilla.",
+   "e": "I drink the coffee and eat the tortilla."
+  },
+  {
+   "s": "Comer en la mañana es importante.",
+   "e": "Eating in the morning is important."
+  },
+  {
+   "s": "Aquí se come temprano.",
+   "e": "Here people eat early."
+  },
+  {
+   "s": "Se come en la casa, no en la calle.",
+   "e": "People eat at home, not in the street."
+  },
+  {
+   "s": "Comer solo aquí es raro.",
+   "e": "Eating alone is a strange thing here."
+  },
+  {
+   "s": "Y se come mucho.",
+   "e": "And they eat a lot."
+  },
+  {
+   "s": "Doña Carmen pone otro plato en la mesa.",
+   "e": "Doña Carmen puts another plate on the table."
+  },
+  {
+   "s": "Ese plato es para Roberto.",
+   "e": "That plate is for Roberto."
+  },
+  {
+   "s": "Al lado del gallo pinto hay una tortilla.",
+   "e": "Next to the gallo pinto there is a tortilla."
+  },
+  {
+   "s": "La tortilla es gruesa y está caliente.",
+   "e": "The tortilla is thick and hot."
+  },
+  {
+   "s": "También hay cuajada.",
+   "e": "There is cuajada too."
+  },
+  {
+   "s": "La cuajada es blanca y salada.",
+   "e": "Cuajada is white and salty."
+  },
+  {
+   "s": "Y hay café en un vaso.",
+   "e": "And there is coffee in a glass."
+  },
+  {
+   "s": "El café está muy dulce.",
+   "e": "The coffee is very sweet."
+  },
+  {
+   "s": "Doña Carmen se sienta.",
+   "e": "Doña Carmen sits down."
+  },
+  {
+   "s": "Roberto también se sienta a comer.",
+   "e": "Roberto sits down to eat too."
+  },
+  {
+   "s": "Roberto come rápido.",
+   "e": "Roberto eats fast."
+  },
+  {
+   "s": "Doña Carmen come poco.",
+   "e": "Doña Carmen eats little."
+  },
+  {
+   "s": "Ella prefiere ver comer a los demás.",
+   "e": "She would rather watch other people eat."
+  },
+  {
+   "s": "Yo como despacio.",
+   "e": "I eat slowly."
+  },
+  {
+   "s": "El gallo pinto está rico.",
+   "e": "The gallo pinto is good."
+  },
+  {
+   "s": "Está muy rico.",
+   "e": "It is really good."
+  },
+  {
+   "s": "\"¿Le gusta?\", pregunta doña Carmen.",
+   "e": "\"Do you like it?\" doña Carmen asks."
+  },
+  {
+   "s": "\"Me gusta mucho\", digo yo.",
+   "e": "\"I like it a lot,\" I say."
+  },
+  {
+   "s": "\"Está muy rico\", digo.",
+   "e": "\"It is very good,\" I say."
+  },
+  {
+   "s": "Doña Carmen sonríe.",
+   "e": "Doña Carmen smiles."
+  },
+  {
+   "s": "Pone más gallo pinto en mi plato.",
+   "e": "She puts more gallo pinto on my plate."
+  },
+  {
+   "s": "\"Doña Carmen, ya no\", digo yo.",
+   "e": "\"Doña Carmen, no more,\" I say."
+  },
+  {
+   "s": "Ella pone más de todos modos.",
+   "e": "She puts more on anyway."
+  },
+  {
+   "s": "\"Coma\", dice. \"Está flaco.\"",
+   "e": "\"Eat,\" she says. \"You're thin.\""
+  },
+  {
+   "s": "Roberto se ríe con la boca llena.",
+   "e": "Roberto laughs with his mouth full."
+  },
+  {
+   "s": "\"Mi mamá siempre dice eso\", dice.",
+   "e": "\"My mum always says that,\" he says."
+  },
+  {
+   "s": "Como todo el gallo pinto.",
+   "e": "I eat all the gallo pinto."
+  },
+  {
+   "s": "Como toda la tortilla.",
+   "e": "I eat all the tortilla."
+  },
+  {
+   "s": "Tomo todo el café.",
+   "e": "I drink all the coffee."
+  },
+  {
+   "s": "\"¿Y mañana qué se come?\", pregunto.",
+   "e": "\"And what do we eat tomorrow?\" I ask."
+  },
+  {
+   "s": "Roberto me mira raro.",
+   "e": "Roberto gives me a strange look."
+  },
+  {
+   "s": "\"Gallo pinto\", dice.",
+   "e": "\"Gallo pinto,\" he says."
+  },
+  {
+   "s": "\"¿Y pasado mañana?\", pregunto yo.",
+   "e": "\"And the day after?\" I ask."
+  },
+  {
+   "s": "\"Gallo pinto\", dice Roberto.",
+   "e": "\"Gallo pinto,\" Roberto says."
+  },
+  {
+   "s": "\"¿Siempre gallo pinto?\"",
+   "e": "\"Always gallo pinto?\""
+  },
+  {
+   "s": "\"Siempre\", dice doña Carmen desde la cocina.",
+   "e": "\"Always,\" doña Carmen says from the kitchen."
+  },
+  {
+   "s": "\"En la mañana, gallo pinto.\"",
+   "e": "\"In the morning, gallo pinto.\""
+  },
+  {
+   "s": "\"Y a veces en la noche también.\"",
+   "e": "\"And sometimes at night as well.\""
+  },
+  {
+   "s": "Pienso que eso va a ser mucho arroz.",
+   "e": "I think that is going to be a lot of rice."
+  },
+  {
+   "s": "Mucho arroz y muchos frijoles.",
+   "e": "A lot of rice and a lot of beans."
+  },
+  {
+   "s": "Pero no digo nada.",
+   "e": "But I say nothing."
+  },
+  {
+   "s": "El gallo pinto está rico.",
+   "e": "The gallo pinto is good."
+  },
+  {
+   "s": "Doña Carmen me da otra tortilla.",
+   "e": "Doña Carmen gives me another tortilla."
+  },
+  {
+   "s": "\"Para el camino\", dice.",
+   "e": "\"For the road,\" she says."
+  },
+  {
+   "s": "\"Gracias, doña Carmen.\"",
+   "e": "\"Thank you, doña Carmen.\""
+  },
+  {
+   "s": "\"De nada, mijo\", dice ella.",
+   "e": "\"You're welcome, mijo,\" she says."
+  },
+  {
+   "s": "Es la primera vez que me dice mijo.",
+   "e": "It is the first time she calls me mijo."
+  },
+  {
+   "s": "Roberto me explica en la calle.",
+   "e": "Roberto explains it to me in the street."
+  },
+  {
+   "s": "\"Mijo es como hijo\", dice.",
+   "e": "\"Mijo is like son,\" he says."
+  },
+  {
+   "s": "\"Mi mamá le dice mijo a todos.\"",
+   "e": "\"My mum calls everyone mijo.\""
+  },
+  {
+   "s": "Pero yo llegué hace tres días.",
+   "e": "But I arrived three days ago."
+  },
+  {
+   "s": "Y ya como en su cocina.",
+   "e": "And I already eat in her kitchen."
+  },
+  {
+   "s": "Y ya me dice mijo.",
+   "e": "And she already calls me mijo."
+  },
+  {
+   "s": "Aquí la comida es una puerta.",
+   "e": "Here food is a door."
+  },
+  {
+   "s": "Uno come y ya está adentro.",
+   "e": "You eat and you are inside."
+  }
+ ]
+}

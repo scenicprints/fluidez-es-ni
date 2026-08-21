@@ -48,6 +48,33 @@ ACCENT_MAP = {"as":u"ás","es":u"és","is":u"í s".replace(" ",""),
               "ia":u"ía","ias":u"ías","iamos":u"íamos","ian":u"ían",
               "abamos":u"ábamos","emos":u"émos"}
 
+def stem_changed(inf):
+    """Speculative o->ue / e->ie / e->i variants of the stem.
+
+    Spanish changes the stem vowel wherever the stress lands on it: costar ->
+    cuesta, poder -> puede, pensar -> piensa, pedir -> pide. Without this,
+    "cuesta" resolved to nothing at all, and this is one of the largest verb
+    classes in the language.
+
+    Nicaraguan voseo does NOT stem-change - it is "vos podes", never "vos
+    puedes" - and those forms are generated from the plain stem anyway, so
+    both spellings are covered.
+
+    Over-generating is safe here: anything that is not actually written in the
+    course is thrown away by the corpus filter, and anything two lemmas could
+    both produce is dropped as ambiguous. So a wrong guess costs nothing while
+    a right one rescues a whole verb.
+    """
+    stem, tail = inf[:-2], inf[-2:]
+    out = []
+    for old, new in ((u"o", u"ue"), (u"e", u"ie"), (u"e", u"i"), (u"u", u"ue")):
+        at = stem.rfind(old)
+        if at < 0:
+            continue
+        out.append(stem[:at] + new + stem[at + 1:] + tail)
+    return out
+
+
 def verb_forms(inf):
     """Every regular form of one infinitive, accent variants included.
 
@@ -156,7 +183,10 @@ def build(dictionary, texts, verbs=None):
         if " " in lemma:            # multi-word phrases do not inflect here
             continue
         if pos == "v" and lemma in irregular: gen = []   # verbs.json already said
-        elif pos == "v": gen = verb_forms(lemma)
+        elif pos == "v":
+            gen = verb_forms(lemma)
+            for variant in stem_changed(lemma):
+                gen.extend(verb_forms(variant))
         elif pos == "n": gen = noun_forms(lemma)
         elif pos == "adj": gen = adj_forms(lemma)
         # Anything ending in -o agrees like an adjective whatever it is tagged.

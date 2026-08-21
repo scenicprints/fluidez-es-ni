@@ -1,0 +1,336 @@
+{
+ "id": "p0-06",
+ "title": "Se fue la luz",
+ "desc": "The power goes and nobody reacts",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "luz",
+  "oscuro",
+  "vela",
+  "apagar",
+  "prender",
+  "silla",
+  "afuera",
+  "gente",
+  "calle"
+ ],
+ "sn": [
+  {
+   "s": "Son las ocho de la noche.",
+   "e": "It is eight at night."
+  },
+  {
+   "s": "Estoy en mi cuarto.",
+   "e": "I am in my room."
+  },
+  {
+   "s": "El abanico da vueltas.",
+   "e": "The fan is turning."
+  },
+  {
+   "s": "La luz está prendida.",
+   "e": "The light is on."
+  },
+  {
+   "s": "De repente todo se apaga.",
+   "e": "Suddenly everything goes off."
+  },
+  {
+   "s": "Se apaga la luz.",
+   "e": "The light goes off."
+  },
+  {
+   "s": "Se apaga el abanico.",
+   "e": "The fan goes off."
+  },
+  {
+   "s": "Se apagan las luces de toda la calle.",
+   "e": "The lights of the whole street go off."
+  },
+  {
+   "s": "Se apaga la música del vecino.",
+   "e": "The neighbour's music goes off."
+  },
+  {
+   "s": "El cuarto queda oscuro.",
+   "e": "The room goes dark."
+  },
+  {
+   "s": "Todo queda oscuro.",
+   "e": "Everything goes dark."
+  },
+  {
+   "s": "No veo nada.",
+   "e": "I cannot see anything."
+  },
+  {
+   "s": "Espero un momento.",
+   "e": "I wait a moment."
+  },
+  {
+   "s": "La luz no vuelve.",
+   "e": "The light does not come back."
+  },
+  {
+   "s": "Salgo del cuarto en lo oscuro.",
+   "e": "I leave the room in the dark."
+  },
+  {
+   "s": "Toda la casa está oscura.",
+   "e": "The whole house is dark."
+  },
+  {
+   "s": "Voy hacia la puerta.",
+   "e": "I go towards the door."
+  },
+  {
+   "s": "Afuera también está oscuro.",
+   "e": "Outside it is dark too."
+  },
+  {
+   "s": "Toda la calle está oscura.",
+   "e": "The whole street is dark."
+  },
+  {
+   "s": "Todas las casas están oscuras.",
+   "e": "All the houses are dark."
+  },
+  {
+   "s": "Pienso que es algo grave.",
+   "e": "I think it is something serious."
+  },
+  {
+   "s": "Pero la gente está tranquila.",
+   "e": "But the people are calm."
+  },
+  {
+   "s": "Doña Carmen sale con una vela.",
+   "e": "Doña Carmen comes out with a candle."
+  },
+  {
+   "s": "Prende la vela con un fósforo.",
+   "e": "She lights the candle with a match."
+  },
+  {
+   "s": "Pone la vela en la mesa.",
+   "e": "She puts the candle on the table."
+  },
+  {
+   "s": "Prende otra vela para la cocina.",
+   "e": "She lights another candle for the kitchen."
+  },
+  {
+   "s": "\"¿Qué pasó?\", pregunto yo.",
+   "e": "\"What happened?\" I ask."
+  },
+  {
+   "s": "\"Se fue la luz\", dice doña Carmen.",
+   "e": "\"The power went,\" doña Carmen says."
+  },
+  {
+   "s": "Lo dice tranquila.",
+   "e": "She says it calmly."
+  },
+  {
+   "s": "Como si no fuera nada.",
+   "e": "As if it were nothing."
+  },
+  {
+   "s": "\"¿Y cuándo vuelve?\", pregunto.",
+   "e": "\"And when does it come back?\" I ask."
+  },
+  {
+   "s": "\"Vuelve cuando vuelve\", dice ella.",
+   "e": "\"It comes back when it comes back,\" she says."
+  },
+  {
+   "s": "Roberto saca dos sillas a la calle.",
+   "e": "Roberto takes two chairs out to the street."
+  },
+  {
+   "s": "Saca una silla para él.",
+   "e": "He takes out one chair for himself."
+  },
+  {
+   "s": "Saca una silla para su mamá.",
+   "e": "He takes out one chair for his mum."
+  },
+  {
+   "s": "Después saca una silla más.",
+   "e": "Then he takes out one more chair."
+  },
+  {
+   "s": "\"Esta silla es para vos\", me dice.",
+   "e": "\"This chair is for you,\" he says to me."
+  },
+  {
+   "s": "Es la primera vez que me dice vos.",
+   "e": "It is the first time he says vos to me."
+  },
+  {
+   "s": "Nos sentamos afuera en las sillas.",
+   "e": "We sit outside on the chairs."
+  },
+  {
+   "s": "Los vecinos también sacan sillas.",
+   "e": "The neighbours take out chairs too."
+  },
+  {
+   "s": "Toda la calle está afuera.",
+   "e": "The whole street is outside."
+  },
+  {
+   "s": "Adentro de las casas hace más calor.",
+   "e": "It is hotter inside the houses."
+  },
+  {
+   "s": "Sin abanico, adentro no se puede estar.",
+   "e": "Without a fan you cannot stay inside."
+  },
+  {
+   "s": "Afuera corre un poco de aire.",
+   "e": "Outside there is a bit of a breeze."
+  },
+  {
+   "s": "La gente habla de una casa a otra.",
+   "e": "People talk from one house to another."
+  },
+  {
+   "s": "Nadie habla de la luz.",
+   "e": "Nobody talks about the power."
+  },
+  {
+   "s": "Hablan de otras cosas.",
+   "e": "They talk about other things."
+  },
+  {
+   "s": "Hablan del calor.",
+   "e": "They talk about the heat."
+  },
+  {
+   "s": "Hablan de la comida.",
+   "e": "They talk about food."
+  },
+  {
+   "s": "Un señor habla del béisbol.",
+   "e": "A man talks about baseball."
+  },
+  {
+   "s": "Yo escucho y no entiendo todo.",
+   "e": "I listen and do not understand everything."
+  },
+  {
+   "s": "Pero entiendo un poco.",
+   "e": "But I understand a little."
+  },
+  {
+   "s": "Cada día entiendo un poco más.",
+   "e": "Every day I understand a little more."
+  },
+  {
+   "s": "Las velas se ven en todas las puertas.",
+   "e": "Candles can be seen in every doorway."
+  },
+  {
+   "s": "La calle está oscura y llena de gente.",
+   "e": "The street is dark and full of people."
+  },
+  {
+   "s": "Pasan dos horas.",
+   "e": "Two hours go by."
+  },
+  {
+   "s": "Nadie se queja.",
+   "e": "Nobody complains."
+  },
+  {
+   "s": "Nadie llama a nadie.",
+   "e": "Nobody calls anyone."
+  },
+  {
+   "s": "Sólo esperan.",
+   "e": "They just wait."
+  },
+  {
+   "s": "Yo espero con ellos.",
+   "e": "I wait with them."
+  },
+  {
+   "s": "De repente vuelve la luz.",
+   "e": "Suddenly the power comes back."
+  },
+  {
+   "s": "Se prenden las luces de la calle.",
+   "e": "The street lights come on."
+  },
+  {
+   "s": "Se prenden los abanicos.",
+   "e": "The fans come on."
+  },
+  {
+   "s": "En las casas suena la música otra vez.",
+   "e": "Music starts again in the houses."
+  },
+  {
+   "s": "La gente dice \"¡ah!\" y se ríe.",
+   "e": "People say \"ah!\" and laugh."
+  },
+  {
+   "s": "Roberto apaga la vela con la mano.",
+   "e": "Roberto puts out the candle with his hand."
+  },
+  {
+   "s": "Doña Carmen apaga la otra vela.",
+   "e": "Doña Carmen puts out the other candle."
+  },
+  {
+   "s": "Los vecinos apagan sus velas también.",
+   "e": "The neighbours put out their candles too."
+  },
+  {
+   "s": "Nadie apaga el abanico esa noche.",
+   "e": "Nobody turns off the fan that night."
+  },
+  {
+   "s": "Uno no apaga el abanico nunca.",
+   "e": "You never turn off the fan."
+  },
+  {
+   "s": "Todos meten las sillas a las casas.",
+   "e": "Everyone takes the chairs back into the houses."
+  },
+  {
+   "s": "En cinco minutos la calle está vacía.",
+   "e": "In five minutes the street is empty."
+  },
+  {
+   "s": "Vuelvo a mi cuarto.",
+   "e": "I go back to my room."
+  },
+  {
+   "s": "Prendo el abanico otra vez.",
+   "e": "I turn the fan on again."
+  },
+  {
+   "s": "Pienso en las dos horas afuera.",
+   "e": "I think about the two hours outside."
+  },
+  {
+   "s": "Se fue la luz y nadie se enojó.",
+   "e": "The power went and nobody got angry."
+  },
+  {
+   "s": "Se fue la luz y la calle se llenó de gente.",
+   "e": "The power went and the street filled with people."
+  },
+  {
+   "s": "En mi país eso sería un problema.",
+   "e": "In my country that would be a problem."
+  },
+  {
+   "s": "Aquí es una noche normal.",
+   "e": "Here it is an ordinary night."
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "id": "p0-03",
+ "title": "Córdobas",
+ "desc": "Money that is not yours yet",
+ "ph": 0,
+ "diff": 1,
+ "wu": [
+  "cuánto",
+  "costar",
+  "peso",
+  "caro",
+  "barato",
+  "comprar",
+  "pagar",
+  "agua"
+ ],
+ "sn": [
+  {
+   "s": "Necesito comprar agua.",
+   "e": "I need to buy water."
+  },
+  {
+   "s": "Aquí uno compra el agua en bolsa o en botella.",
+   "e": "Here you buy water in a bag or a bottle."
+  },
+  {
+   "s": "Voy a comprar agua y algo de comer.",
+   "e": "I am going to buy water and something to eat."
+  },
+  {
+   "s": "Hace calor y no tengo agua en el cuarto.",
+   "e": "It is hot and I have no water in my room."
+  },
+  {
+   "s": "Doña Carmen me dice dónde comprar.",
+   "e": "Doña Carmen tells me where to buy it."
+  },
+  {
+   "s": "\"En la esquina\", dice ella.",
+   "e": "\"On the corner,\" she says."
+  },
+  {
+   "s": "Voy a la esquina de la calle.",
+   "e": "I go to the corner of the street."
+  },
+  {
+   "s": "Hay una señora con una mesa.",
+   "e": "There is a woman with a table."
+  },
+  {
+   "s": "En la mesa hay agua, pan y fruta.",
+   "e": "On the table there is water, bread and fruit."
+  },
+  {
+   "s": "\"Buenas\", digo yo.",
+   "e": "\"Buenas,\" I say."
+  },
+  {
+   "s": "\"Buenas\", dice la señora.",
+   "e": "\"Buenas,\" the woman says."
+  },
+  {
+   "s": "\"¿Cuánto cuesta el agua?\", pregunto.",
+   "e": "\"How much does the water cost?\" I ask."
+  },
+  {
+   "s": "\"Quince\", dice la señora.",
+   "e": "\"Fifteen,\" the woman says."
+  },
+  {
+   "s": "\"¿Quince qué?\", pregunto yo.",
+   "e": "\"Fifteen what?\" I ask."
+  },
+  {
+   "s": "La señora se ríe.",
+   "e": "The woman laughs."
+  },
+  {
+   "s": "\"Quince pesos, joven.\"",
+   "e": "\"Fifteen pesos, young man.\""
+  },
+  {
+   "s": "Yo no entiendo.",
+   "e": "I do not understand."
+  },
+  {
+   "s": "Aquí la plata se llama córdoba.",
+   "e": "Here the money is called the córdoba."
+  },
+  {
+   "s": "Pero la gente dice pesos.",
+   "e": "But people say pesos."
+  },
+  {
+   "s": "Córdoba en el papel, peso en la boca.",
+   "e": "Córdoba on the paper, peso in the mouth."
+  },
+  {
+   "s": "Le doy un billete de cien córdobas.",
+   "e": "I give her a hundred-córdoba note."
+  },
+  {
+   "s": "La señora me da el vuelto.",
+   "e": "The woman gives me my change."
+  },
+  {
+   "s": "Cuento el vuelto despacio.",
+   "e": "I count the change slowly."
+  },
+  {
+   "s": "Ochenta y cinco córdobas.",
+   "e": "Eighty-five córdobas."
+  },
+  {
+   "s": "Está bien.",
+   "e": "That is right."
+  },
+  {
+   "s": "\"Gracias\", digo yo.",
+   "e": "\"Thank you,\" I say."
+  },
+  {
+   "s": "Después compro pan.",
+   "e": "Then I buy bread."
+  },
+  {
+   "s": "\"¿Cuánto cuesta el pan?\", pregunto.",
+   "e": "\"How much does the bread cost?\" I ask."
+  },
+  {
+   "s": "\"Diez pesos\", dice la señora.",
+   "e": "\"Ten pesos,\" the woman says."
+  },
+  {
+   "s": "Comprar pan cuesta poco.",
+   "e": "Buying bread costs little."
+  },
+  {
+   "s": "Comprar agua cuesta un poco más.",
+   "e": "Buying water costs a little more."
+  },
+  {
+   "s": "Todo lo que compro hoy es barato.",
+   "e": "Everything I buy today is cheap."
+  },
+  {
+   "s": "Yo pago con un billete grande.",
+   "e": "I pay with a big note."
+  },
+  {
+   "s": "La señora dice que no es caro.",
+   "e": "The woman says it is not expensive."
+  },
+  {
+   "s": "Aquí las cosas cuestan poco.",
+   "e": "Here things cost little."
+  },
+  {
+   "s": "Un vaso de agua no cuesta nada.",
+   "e": "A glass of water costs nothing."
+  },
+  {
+   "s": "Pero un taxi puede costar mucho.",
+   "e": "But a taxi can cost a lot."
+  },
+  {
+   "s": "Pero uno tiene que preguntar cuánto cuesta.",
+   "e": "But you have to ask how much it costs."
+  },
+  {
+   "s": "Y después uno paga.",
+   "e": "And then you pay."
+  },
+  {
+   "s": "Nunca se paga antes de preguntar.",
+   "e": "You never pay before asking."
+  },
+  {
+   "s": "Eso es barato y eso es caro.",
+   "e": "That is cheap and that is expensive."
+  },
+  {
+   "s": "Diez córdobas por el pan.",
+   "e": "Ten córdobas for the bread."
+  },
+  {
+   "s": "Eso es barato.",
+   "e": "That is cheap."
+  },
+  {
+   "s": "Todo aquí es barato para mí.",
+   "e": "Everything here is cheap for me."
+  },
+  {
+   "s": "Pero no es barato para la gente de aquí.",
+   "e": "But it is not cheap for the people here."
+  },
+  {
+   "s": "Eso lo entiendo después.",
+   "e": "I understand that later."
+  },
+  {
+   "s": "Aquí hay que saber lo que cuesta cada cosa.",
+   "e": "Here you have to know what each thing costs."
+  },
+  {
+   "s": "En la casa le enseño el pan a Roberto.",
+   "e": "At the house I show Roberto the bread."
+  },
+  {
+   "s": "\"¿Cuánto pagaste?\", pregunta Roberto.",
+   "e": "\"How much did you pay?\" Roberto asks."
+  },
+  {
+   "s": "\"Diez pesos\", digo yo.",
+   "e": "\"Ten pesos,\" I say."
+  },
+  {
+   "s": "\"Está bien\", dice Roberto.",
+   "e": "\"That is right,\" Roberto says."
+  },
+  {
+   "s": "\"¿Y el agua?\", pregunta.",
+   "e": "\"And the water?\" he asks."
+  },
+  {
+   "s": "\"Quince pesos.\"",
+   "e": "\"Fifteen pesos.\""
+  },
+  {
+   "s": "\"También está bien.\"",
+   "e": "\"That is right too.\""
+  },
+  {
+   "s": "Entonces Roberto me pregunta por el taxi.",
+   "e": "Then Roberto asks me about the taxi."
+  },
+  {
+   "s": "\"¿Cuánto pagaste del aeropuerto?\"",
+   "e": "\"How much did you pay from the airport?\""
+  },
+  {
+   "s": "No me acuerdo bien del número.",
+   "e": "I do not remember the number properly."
+  },
+  {
+   "s": "Le enseño lo que tengo en la mano.",
+   "e": "I show him what I have in my hand."
+  },
+  {
+   "s": "Roberto abre los ojos.",
+   "e": "Roberto's eyes open wide."
+  },
+  {
+   "s": "\"¡Ideay! Eso es muy caro.\"",
+   "e": "\"Ideay! That is very expensive.\""
+  },
+  {
+   "s": "\"¿Caro?\", pregunto yo.",
+   "e": "\"Expensive?\" I ask."
+  },
+  {
+   "s": "\"Muy caro. Pagaste cuatro veces.\"",
+   "e": "\"Very expensive. You paid four times over.\""
+  },
+  {
+   "s": "Doña Carmen se ríe desde la cocina.",
+   "e": "Doña Carmen laughs from the kitchen."
+  },
+  {
+   "s": "\"Al chele siempre le cobran caro\", dice.",
+   "e": "\"They always charge the chele more,\" she says."
+  },
+  {
+   "s": "Roberto me enseña una cosa.",
+   "e": "Roberto teaches me one thing."
+  },
+  {
+   "s": "\"Primero pregunte cuánto cuesta.\"",
+   "e": "\"First ask how much it costs.\""
+  },
+  {
+   "s": "\"Siempre. Antes de subir al taxi.\"",
+   "e": "\"Always. Before you get in the taxi.\""
+  },
+  {
+   "s": "\"Y si es muy caro, uno no paga.\"",
+   "e": "\"And if it is too expensive, you do not pay.\""
+  },
+  {
+   "s": "\"¿Y qué digo?\", pregunto yo.",
+   "e": "\"And what do I say?\" I ask."
+  },
+  {
+   "s": "\"Diga: está muy caro.\"",
+   "e": "\"Say: that's too expensive.\""
+  },
+  {
+   "s": "\"Está muy caro\", digo yo.",
+   "e": "\"That's too expensive,\" I say."
+  },
+  {
+   "s": "\"Así\", dice Roberto. \"Otra vez.\"",
+   "e": "\"Like that,\" Roberto says. \"Again.\""
+  },
+  {
+   "s": "\"Está muy caro.\"",
+   "e": "\"That's too expensive.\""
+  },
+  {
+   "s": "\"Ahora sí\", dice Roberto.",
+   "e": "\"Now you've got it,\" Roberto says."
+  },
+  {
+   "s": "Esa noche cuento mi plata.",
+   "e": "That night I count my money."
+  },
+  {
+   "s": "Tengo menos plata de la que pensaba.",
+   "e": "I have less money than I thought."
+  },
+  {
+   "s": "El taxi me costó mucho.",
+   "e": "The taxi cost me a lot."
+  },
+  {
+   "s": "El agua me costó quince pesos.",
+   "e": "The water cost me fifteen pesos."
+  },
+  {
+   "s": "El pan me costó diez pesos.",
+   "e": "The bread cost me ten pesos."
+  },
+  {
+   "s": "Y ahora sé cuánto cuestan las cosas.",
+   "e": "And now I know how much things cost."
+  },
+  {
+   "s": "Mañana voy a preguntar primero.",
+   "e": "Tomorrow I am going to ask first."
+  }
+ ]
+}

@@ -2,11 +2,11 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**1 of 185 stories written** - 479 of ~148,000 running words.
+**6 of 185 stories written** - 2,652 of ~148,000 running words.
 
 | Phase | Written | Total |
 |---|---|---|
-| 0 | 1 | 16 |
+| 0 | 6 | 16 |
 | 1 | 0 | 18 |
 | 2 | 0 | 26 |
 | 3 | 0 | 26 |
@@ -17,11 +17,6 @@ Written by `stage.py`. Do not edit by hand.
 
 ## Next to write
 
-- `p0-02` **Buenas** - One word does the work of ten
-- `p0-03` **Cordobas** - Money that is not yours yet
-- `p0-04` **Gallo pinto** - Breakfast, and there is no other option
-- `p0-05` **El cuarto** - A room with a fan and no hot water
-- `p0-06` **Se fue la luz** - The power goes and nobody reacts
 - `p0-07` **El agua** - Water has a schedule
 - `p0-08` **Vos** - Nobody says tu here
 - `p0-09` **La pulperia** - The shop is somebody's front window
@@ -37,4 +32,9 @@ Written by `stage.py`. Do not edit by hand.
 - `p1-03` **Regateando** - Arguing about price without being rude
 - `p1-04` **La ruta 110** - Buses, properly this time
 - `p1-05` **El mototaxi** - Three wheels and no doors
-- ... and 164 more in `plan/spine.json`
+- `p1-06` **Un chip Claro** - Getting a phone that works
+- `p1-07` **El mercado Oriental** - The biggest market in Central America
+- `p1-08` **Vigoron** - Granada on a banana leaf
+- `p1-09` **Leon y Granada** - Two cities that do not like each other
+- `p1-10` **El lago Cocibolca** - A freshwater sea
+- ... and 159 more in `plan/spine.json`
