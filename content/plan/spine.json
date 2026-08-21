@@ -1,0 +1,1667 @@
+[
+ {
+  "id": "p0-01",
+  "phase": 0,
+  "title": "El calor",
+  "desc": "You land, and the heat decides everything",
+  "spanish": "greetings; ser vs estar for who you are and how you are; hace calor",
+  "nicaragua": "Augusto C. Sandino airport; why Managua stops at midday; the dry season",
+  "beat": "Arrival. Your first words are to a man you cannot understand."
+ },
+ {
+  "id": "p0-02",
+  "phase": 0,
+  "title": "Buenas",
+  "desc": "One word does the work of ten",
+  "spanish": "buenas / buenos dias / adios; usted vs vos as a first choice",
+  "nicaragua": "Greeting everyone you pass, including strangers; not greeting is the rudest thing you can do",
+  "beat": "You walk past three people in silence and feel the temperature drop."
+ },
+ {
+  "id": "p0-03",
+  "phase": 0,
+  "title": "Cordobas",
+  "desc": "Money that is not yours yet",
+  "spanish": "numbers 1-100; cuanto cuesta; pagar, costar, valer",
+  "nicaragua": "The cordoba, called pesos in speech; why prices are said in tens",
+  "beat": "You overpay a taxi four times over and only find out at dinner."
+ },
+ {
+  "id": "p0-04",
+  "phase": 0,
+  "title": "Gallo pinto",
+  "desc": "Breakfast, and there is no other option",
+  "spanish": "food nouns; me gusta as a first taste of gustar; querer + noun",
+  "nicaragua": "Gallo pinto, cuajada, tortilla, tiste; the Nicaraguan breakfast table",
+  "beat": "Dona Carmen feeds you before she asks your name."
+ },
+ {
+  "id": "p0-05",
+  "phase": 0,
+  "title": "El cuarto",
+  "desc": "A room with a fan and no hot water",
+  "spanish": "hay; there is / there is not; house vocabulary; prepositions of place",
+  "nicaragua": "Renting a cuarto; nobody has hot water; the pila and what it is for",
+  "beat": "You learn to bathe from a bowl and stop mentioning it."
+ },
+ {
+  "id": "p0-06",
+  "phase": 0,
+  "title": "Se fue la luz",
+  "desc": "The power goes and nobody reacts",
+  "spanish": "irse; the preterite of a handful of verbs, met whole, not explained",
+  "nicaragua": "Power cuts as ordinary life; candles by the door; Disnorte",
+  "beat": "The whole street carries on in the dark and you are the only one startled."
+ },
+ {
+  "id": "p0-07",
+  "phase": 0,
+  "title": "El agua",
+  "desc": "Water has a schedule",
+  "spanish": "days of the week; time; tener que + infinitive",
+  "nicaragua": "Water rationing; storing water; ENACAL; why the pila is always full",
+  "beat": "You empty a barrel washing a shirt and learn what that costs."
+ },
+ {
+  "id": "p0-08",
+  "phase": 0,
+  "title": "Vos",
+  "desc": "Nobody says tu here",
+  "spanish": "voseo present of the verbs you already met: sos, tenes, queres, podes",
+  "nicaragua": "Vos as the everyday form; usted for respect and distance; tu as foreign",
+  "beat": "You say tu and a nine-year-old corrects you, kindly."
+ },
+ {
+  "id": "p0-09",
+  "phase": 0,
+  "title": "La pulperia",
+  "desc": "The shop is somebody's front window",
+  "spanish": "quantities; un poco, una bolsa, uno solo; dame / deme",
+  "nicaragua": "Pulperias; buying one egg, one cigarette, one bag of water",
+  "beat": "You discover you can buy anything in the smallest amount that exists."
+ },
+ {
+  "id": "p0-10",
+  "phase": 0,
+  "title": "Chele",
+  "desc": "They have a name for you already",
+  "spanish": "adjectives of description; ser + adjective; agreement",
+  "nicaragua": "Chele and what it does and does not mean; nicknames by appearance",
+  "beat": "Named by strangers, and deciding it is not an insult."
+ },
+ {
+  "id": "p0-11",
+  "phase": 0,
+  "title": "La fritanga",
+  "desc": "Dinner comes off a grill on the sidewalk",
+  "spanish": "ordering; quiero, deme, con, sin; food vocabulary widened",
+  "nicaragua": "Fritanga; carne asada, maiz, tajadas, gallo pinto; eating standing up",
+  "beat": "You order by pointing and it works perfectly."
+ },
+ {
+  "id": "p0-12",
+  "phase": 0,
+  "title": "Tengo hambre",
+  "desc": "Saying what your body needs",
+  "spanish": "tener hambre, sed, sueno, frio, calor, miedo, prisa",
+  "nicaragua": "Why nobody lets a hungry person leave the house",
+  "beat": "Hunger teaches you five expressions in one afternoon."
+ },
+ {
+  "id": "p0-13",
+  "phase": 0,
+  "title": "Los vecinos",
+  "desc": "You have neighbours whether you want them or not",
+  "spanish": "question words; the questions strangers ask; short answers",
+  "nicaragua": "Dona and don; shared patios; children everywhere; why the questions are not intrusive",
+  "beat": "In four minutes they know your age, your job and whether you are married."
+ },
+ {
+  "id": "p0-14",
+  "phase": 0,
+  "title": "El bus",
+  "desc": "Getting on is the hard part",
+  "spanish": "ir; a / para / hasta; giving and taking directions in one word",
+  "nicaragua": "Rutas in Managua; the ayudante shouting the route; paying as you leave",
+  "beat": "You take the wrong bus and it costs you an hour and nothing else."
+ },
+ {
+  "id": "p0-15",
+  "phase": 0,
+  "title": "Ideay",
+  "desc": "Small words that carry a lot",
+  "spanish": "ideay, dale, pues, va, fijate; the fillers that make speech sound Nica",
+  "nicaragua": "How Nicaraguans actually punctuate a sentence out loud",
+  "beat": "You use ideay correctly by accident and get a laugh."
+ },
+ {
+  "id": "p0-16",
+  "phase": 0,
+  "title": "La primera semana",
+  "desc": "Looking back at seven days",
+  "spanish": "recycling everything; the preterite of the week you just had",
+  "nicaragua": "The shape of a Nicaraguan day, start to finish",
+  "beat": "You realise you have not spoken English in three days."
+ },
+ {
+  "id": "p1-01",
+  "phase": 1,
+  "title": "Dos cuadras al lago",
+  "desc": "Directions with no street names",
+  "spanish": "al lago, al sur, arriba, abajo; cuadras; landmarks as grammar",
+  "nicaragua": "The Nicaraguan address system and why it works without street names",
+  "beat": "You are given an address naming a tree that was cut down in 1998."
+ },
+ {
+  "id": "p1-02",
+  "phase": 1,
+  "title": "Donde fue el arbol",
+  "desc": "Places that no longer exist are still directions",
+  "spanish": "donde fue / donde estaba; imperfect met as a landmark, not a rule",
+  "nicaragua": "Landmarks that are gone and still used; how everyone knows anyway",
+  "beat": "You find the house. You still do not understand how."
+ },
+ {
+  "id": "p1-03",
+  "phase": 1,
+  "title": "Regateando",
+  "desc": "Arguing about price without being rude",
+  "spanish": "comparatives; mas barato, muy caro; conditional softeners",
+  "nicaragua": "Where you bargain and where you never do; the rhythm of it",
+  "beat": "You pay full price twice before somebody teaches you the dance."
+ },
+ {
+  "id": "p1-04",
+  "phase": 1,
+  "title": "La ruta 110",
+  "desc": "Buses, properly this time",
+  "spanish": "voseo imperatives: subite, bajate, agarrate, fijate",
+  "nicaragua": "Managua rutas; interlocales to other cities; fare and etiquette",
+  "beat": "An old woman offers you her seat and you have to refuse correctly."
+ },
+ {
+  "id": "p1-05",
+  "phase": 1,
+  "title": "El mototaxi",
+  "desc": "Three wheels and no doors",
+  "spanish": "agreeing a price; cuanto me cobra; antes de + infinitive",
+  "nicaragua": "Mototaxis and caponeras; settling the fare before you sit down",
+  "beat": "You agree the price first. That is the entire lesson."
+ },
+ {
+  "id": "p1-06",
+  "phase": 1,
+  "title": "Un chip Claro",
+  "desc": "Getting a phone that works",
+  "spanish": "necesitar, servir, funcionar; numbers said aloud in long strings",
+  "nicaragua": "Claro and Tigo; recargas at the pulperia; data as how people talk",
+  "beat": "You learn six words about recharging because you have no choice."
+ },
+ {
+  "id": "p1-07",
+  "phase": 1,
+  "title": "El mercado Oriental",
+  "desc": "The biggest market in Central America",
+  "spanish": "clothing and household nouns; buscar, encontrar, perderse",
+  "nicaragua": "How the Oriental is laid out; going with a list; going with somebody",
+  "beat": "You get lost somewhere that has no map."
+ },
+ {
+  "id": "p1-08",
+  "phase": 1,
+  "title": "Vigoron",
+  "desc": "Granada on a banana leaf",
+  "spanish": "food widened; llevar, probar, servir; se sirve",
+  "nicaragua": "Vigoron and Granada; yuca, chicharron, curtido; eating with your hands",
+  "beat": "A day trip turns into a lesson taught by one dish."
+ },
+ {
+  "id": "p1-09",
+  "phase": 1,
+  "title": "Leon y Granada",
+  "desc": "Two cities that do not like each other",
+  "spanish": "comparisons between places; mas...que; opinions with creer",
+  "nicaragua": "The Leon and Granada rivalry; liberal and conservative history in the streets",
+  "beat": "Each city tells you the other one is arrogant."
+ },
+ {
+  "id": "p1-10",
+  "phase": 1,
+  "title": "El lago Cocibolca",
+  "desc": "A freshwater sea",
+  "spanish": "geography vocabulary; weather; ir a + infinitive for plans",
+  "nicaragua": "Lake Cocibolca; Ometepe and its two volcanoes; the ferry from San Jorge",
+  "beat": "You cross to Ometepe and the water is rougher than anyone warned."
+ },
+ {
+  "id": "p1-11",
+  "phase": 1,
+  "title": "La epoca seca",
+  "desc": "Two seasons, and this is the hard one",
+  "spanish": "weather; hace / hay / esta; months; cuando + present",
+  "nicaragua": "Dry season and green season; dust, burning, the first rain",
+  "beat": "You finally understand why everyone talks about rain constantly."
+ },
+ {
+  "id": "p1-12",
+  "phase": 1,
+  "title": "En la ferreteria",
+  "desc": "Buying things by describing them",
+  "spanish": "describing an object you cannot name; para + infinitive; chunche, cosa",
+  "nicaragua": "Hardware shops; chunche and cosa as universal nouns",
+  "beat": "You do not know the word, so you describe it, and that turns out to be enough."
+ },
+ {
+  "id": "p1-13",
+  "phase": 1,
+  "title": "Los mangos",
+  "desc": "Fruit falls on the roof for a month",
+  "spanish": "fruit; too much / enough; demasiado, bastante, suficiente",
+  "nicaragua": "Mango season; roadside fruit; green mango with salt and vinegar",
+  "beat": "You are given more mangoes than one person can eat and cannot refuse."
+ },
+ {
+  "id": "p1-14",
+  "phase": 1,
+  "title": "El almuerzo",
+  "desc": "Lunch is the real meal",
+  "spanish": "telling time loosely; a eso de; ya, todavia, ahorita",
+  "nicaragua": "Comedorias; the buffet by pointing; why lunch is at noon and matters",
+  "beat": "You eat at noon like everyone else and stop being hungry at odd hours."
+ },
+ {
+  "id": "p1-15",
+  "phase": 1,
+  "title": "Un mandado",
+  "desc": "Being sent to do errands",
+  "spanish": "favours; me hace un favor; ir a traer; poder + infinitive",
+  "nicaragua": "How a mandado is not really a request, and why being asked is good news",
+  "beat": "Dona Carmen sends you for tortillas, which means she trusts you."
+ },
+ {
+  "id": "p1-16",
+  "phase": 1,
+  "title": "El domingo",
+  "desc": "The week has a shape",
+  "spanish": "routines; reflexive verbs met whole; los domingos",
+  "nicaragua": "Sunday: church, family, the beach, baseball; why nothing is open",
+  "beat": "You try to do business on a Sunday and learn not to."
+ },
+ {
+  "id": "p1-17",
+  "phase": 1,
+  "title": "Pinolillo",
+  "desc": "The drink the country is named after",
+  "spanish": "drinks; hacer with recipes; se hace con",
+  "nicaragua": "Pinolillo, tiste, cacao, chicha; why Nicaraguans call themselves pinoleros",
+  "beat": "You are told that if you drink it you belong to them now."
+ },
+ {
+  "id": "p1-18",
+  "phase": 1,
+  "title": "Ya se llegar",
+  "desc": "You can get anywhere now",
+  "spanish": "giving directions yourself; imperatives recycled; saber + infinitive",
+  "nicaragua": "Reading a city with no addresses; knowing your own barrio",
+  "beat": "Somebody asks YOU for directions, and you answer without thinking."
+ },
+ {
+  "id": "p2-01",
+  "phase": 2,
+  "title": "Como te llamas de verdad",
+  "desc": "Names, and all the ones you get given",
+  "spanish": "llamarse; apodos; possessive adjectives",
+  "nicaragua": "Nicknames for everyone; why your real name may never be used again",
+  "beat": "You acquire a nickname and have no say in it."
+ },
+ {
+  "id": "p2-02",
+  "phase": 2,
+  "title": "La familia de Roberto",
+  "desc": "Everyone is somebody's cousin",
+  "spanish": "family vocabulary; de for relationships; tener + family",
+  "nicaragua": "How wide a Nicaraguan family is; who counts as family",
+  "beat": "You are introduced to eleven people and told they are all his brothers."
+ },
+ {
+  "id": "p2-03",
+  "phase": 2,
+  "title": "Pase adelante",
+  "desc": "Being invited in, and not being able to refuse",
+  "spanish": "formal imperatives with usted; pase, sientese, sirvase",
+  "nicaragua": "Hospitality as obligation; why refusing food is refusing the person",
+  "beat": "You say you are not hungry. It changes nothing at all."
+ },
+ {
+  "id": "p2-04",
+  "phase": 2,
+  "title": "Me cae bien",
+  "desc": "Liking a person is a different verb",
+  "spanish": "caer bien / mal; gustar-type verbs properly; indirect object pronouns",
+  "nicaragua": "How Nicaraguans say they like somebody without saying it",
+  "beat": "You say me gustas to a friend and learn the difference the hard way."
+ },
+ {
+  "id": "p2-05",
+  "phase": 2,
+  "title": "De donde sos",
+  "desc": "The question everyone asks",
+  "spanish": "origin; ser de; nationalities; adjectives of place",
+  "nicaragua": "What Nicaraguans want to know about your country and why",
+  "beat": "You explain snow to somebody who has never been cold."
+ },
+ {
+  "id": "p2-06",
+  "phase": 2,
+  "title": "Contame",
+  "desc": "Telling somebody what happened",
+  "spanish": "the preterite, properly this time; regular and the common irregulars",
+  "nicaragua": "Storytelling as the main social currency; how a Nica tells a story",
+  "beat": "You tell your first real story in Spanish and they laugh in the right place."
+ },
+ {
+  "id": "p2-07",
+  "phase": 2,
+  "title": "Ahorita",
+  "desc": "A word that means four different things",
+  "spanish": "ahorita, ya, ahora, al rato; time as intention rather than measurement",
+  "nicaragua": "Why ahorita can mean now, soon, later, or never",
+  "beat": "You wait two hours for an ahorita and learn to read the tone."
+ },
+ {
+  "id": "p2-08",
+  "phase": 2,
+  "title": "El cumpleanos",
+  "desc": "A birthday, and you are expected",
+  "spanish": "celebration vocabulary; felicidades; que cumplas muchos mas",
+  "nicaragua": "Nicaraguan birthdays; the cake, the song, the mananitas, who pays",
+  "beat": "You are handed the knife and do not know what that means."
+ },
+ {
+  "id": "p2-09",
+  "phase": 2,
+  "title": "Chavalos",
+  "desc": "Children are everywhere and they are everyone's",
+  "spanish": "diminutives; -ito and -ita as affection, not size",
+  "nicaragua": "Chinear; how children move between houses; who disciplines whom",
+  "beat": "A child you have never met falls asleep on you and nobody thinks it strange."
+ },
+ {
+  "id": "p2-10",
+  "phase": 2,
+  "title": "La iglesia",
+  "desc": "Faith is not a private matter here",
+  "spanish": "belief and hope; creer, esperar, rezar; si Dios quiere",
+  "nicaragua": "Catholic and evangelical Nicaragua; primero Dios in ordinary speech",
+  "beat": "You notice that every plan anyone makes has a condition attached to it."
+ },
+ {
+  "id": "p2-11",
+  "phase": 2,
+  "title": "El beisbol",
+  "desc": "Not football. Baseball.",
+  "spanish": "sports; ganar, perder, jugar; team vocabulary",
+  "nicaragua": "Baseball as the national sport; the Bosco, Dennis Martinez, the leagues",
+  "beat": "You call it a strange choice and the room goes quiet."
+ },
+ {
+  "id": "p2-12",
+  "phase": 2,
+  "title": "Un favor",
+  "desc": "Asking for something and owing something",
+  "spanish": "polite requests; podrias, me hace el favor; conditional as courtesy",
+  "nicaragua": "How favours circulate; why nobody keeps a ledger and everybody remembers",
+  "beat": "You ask for help and immediately owe something you cannot name."
+ },
+ {
+  "id": "p2-13",
+  "phase": 2,
+  "title": "Que hiciste ayer",
+  "desc": "Yesterday, and the day before",
+  "spanish": "preterite in conversation; time markers; ayer, anoche, la semana pasada",
+  "nicaragua": "What an ordinary Nicaraguan week actually contains",
+  "beat": "You describe your week and realise it sounds like somebody else's."
+ },
+ {
+  "id": "p2-14",
+  "phase": 2,
+  "title": "Cuando era chavalo",
+  "desc": "How people talk about the past that was ongoing",
+  "spanish": "the imperfect; era, tenia, vivia; imperfect against preterite",
+  "nicaragua": "Childhood in Nicaragua as it gets described; the countryside, the abuela",
+  "beat": "Roberto tells you about growing up and you follow all of it."
+ },
+ {
+  "id": "p2-15",
+  "phase": 2,
+  "title": "La Gritería",
+  "desc": "December 7, and the whole country shouts",
+  "spanish": "call and response; que + noun; celebration vocabulary",
+  "nicaragua": "La Purisima and La Griteria; Quien causa tanta alegria; altars, gorras, gofio",
+  "beat": "You are pushed to the front of a doorway and told to shout the answer."
+ },
+ {
+  "id": "p2-16",
+  "phase": 2,
+  "title": "El mes de la patria",
+  "desc": "September belongs to the country",
+  "spanish": "history vocabulary; dates; the preterite of historical events",
+  "nicaragua": "September 14 and 15; San Jacinto; the torch from Guatemala; bandas de guerra",
+  "beat": "A school parade closes your street for three hours and nobody minds."
+ },
+ {
+  "id": "p2-17",
+  "phase": 2,
+  "title": "Flores amarillas",
+  "desc": "September 21, and you had better not forget",
+  "spanish": "giving and receiving; regalar, dar, traer; para + person",
+  "nicaragua": "Yellow flowers on the 21st; who gives them, who expects them, what it means",
+  "beat": "You see every man on the street carrying the same flowers and understand you are late."
+ },
+ {
+  "id": "p2-18",
+  "phase": 2,
+  "title": "El dia de la madre",
+  "desc": "May 30, and it is not negotiable",
+  "spanish": "affection and respect; usted with your elders; querer vs amar",
+  "nicaragua": "Mother's Day on May 30; why it outranks almost everything else in the year",
+  "beat": "You learn the date exists, from somebody appalled that you did not know."
+ },
+ {
+  "id": "p2-19",
+  "phase": 2,
+  "title": "Vamos a la playa",
+  "desc": "Making a plan with six people",
+  "spanish": "future with ir a; suggestions; vamos, dale pues, nos vemos",
+  "nicaragua": "Pochomil, Masachapa, Poneloya; how a Nicaraguan plan actually forms",
+  "beat": "The plan changes four times and still happens."
+ },
+ {
+  "id": "p2-20",
+  "phase": 2,
+  "title": "Te presento a",
+  "desc": "Introducing one person to another",
+  "spanish": "presentations; mucho gusto, el gusto es mio; formal and informal registers",
+  "nicaragua": "Who gets introduced first; the handshake, the kiss, the nod",
+  "beat": "You get the order wrong and somebody quietly fixes it for you."
+ },
+ {
+  "id": "p2-21",
+  "phase": 2,
+  "title": "No seas malo",
+  "desc": "Teasing, and being teased",
+  "spanish": "negative imperatives with vos; no seas, no digas, no te vayas",
+  "nicaragua": "Vacilar; how affection is expressed as mockery here",
+  "beat": "You are made fun of for an hour and slowly understand it is a welcome."
+ },
+ {
+  "id": "p2-22",
+  "phase": 2,
+  "title": "Salud",
+  "desc": "A first night out",
+  "spanish": "drinks; invitar; yo invito; rounds and who pays",
+  "nicaragua": "Flor de Cana, Toña, Victoria; the guaro culture; who buys and when",
+  "beat": "You try to pay separately and cause genuine offence."
+ },
+ {
+  "id": "p2-23",
+  "phase": 2,
+  "title": "Estoy enfermo",
+  "desc": "Being ill somewhere you do not know the words",
+  "spanish": "body parts; me duele; doler as another gustar-type verb",
+  "nicaragua": "Farmacias, the doctor, home remedies, what an abuela prescribes",
+  "beat": "Three different people give you three different cures and all are offended if refused."
+ },
+ {
+  "id": "p2-24",
+  "phase": 2,
+  "title": "Mi amigo",
+  "desc": "When somebody stops being an acquaintance",
+  "spanish": "friendship vocabulary; hermano, maje, broder as address",
+  "nicaragua": "What maje means and who you can say it to; the line between friendly and rude",
+  "beat": "Roberto calls you maje for the first time and it is a promotion."
+ },
+ {
+  "id": "p2-25",
+  "phase": 2,
+  "title": "Extraño mi casa",
+  "desc": "Missing a place you chose to leave",
+  "spanish": "extranar; emotions; estar + adjective; me siento",
+  "nicaragua": "How Nicaraguans talk about the family members who left",
+  "beat": "You admit you are homesick and get an answer you did not expect."
+ },
+ {
+  "id": "p2-26",
+  "phase": 2,
+  "title": "Ya sos de aqui",
+  "desc": "The first time somebody says you belong",
+  "spanish": "everything recycled; ser vs estar as identity vs state, revisited",
+  "nicaragua": "What it takes to stop being a visitor",
+  "beat": "Somebody introduces you as their friend and not as the chele."
+ },
+ {
+  "id": "p3-01",
+  "phase": 3,
+  "title": "Alquilando una casa",
+  "desc": "Your own place, and a contract you half understand",
+  "spanish": "housing vocabulary; conditions; si + present; deposito, alquiler, servicios",
+  "nicaragua": "Renting without an agency; the handshake as the contract; what a landlord expects",
+  "beat": "You agree to something you did not fully follow and it holds anyway."
+ },
+ {
+  "id": "p3-02",
+  "phase": 3,
+  "title": "El recibo",
+  "desc": "A bill that is wrong",
+  "spanish": "complaining politely; hay un error; deberia ser; conditional",
+  "nicaragua": "Disnorte and ENACAL bills; how a Nicaraguan disputes one",
+  "beat": "You are charged for a month you were not there."
+ },
+ {
+  "id": "p3-03",
+  "phase": 3,
+  "title": "Un tramite",
+  "desc": "Paperwork, and the whole day gone",
+  "spanish": "bureaucratic vocabulary; hay que, se necesita, falta",
+  "nicaragua": "Migracion, the cedula, residencia; why you bring copies of everything twice",
+  "beat": "You are sent home for a document nobody mentioned."
+ },
+ {
+  "id": "p3-04",
+  "phase": 3,
+  "title": "Otra vez manana",
+  "desc": "Being told to come back",
+  "spanish": "the subjunctive arrives: quiere que venga, necesito que traiga",
+  "nicaragua": "Institutional time; how people cope; who you ask instead",
+  "beat": "The third visit works, and you never learn why the first two did not."
+ },
+ {
+  "id": "p3-05",
+  "phase": 3,
+  "title": "Me cobraron de mas",
+  "desc": "Being overcharged, and saying so",
+  "spanish": "standing your ground; eso no es lo que dijimos; past reference in argument",
+  "nicaragua": "The chele price; how to close it down without making an enemy",
+  "beat": "You push back for the first time and it works."
+ },
+ {
+  "id": "p3-06",
+  "phase": 3,
+  "title": "No estoy de acuerdo",
+  "desc": "Disagreeing without wrecking the room",
+  "spanish": "opinion verbs; creo que, me parece que, la verdad es que",
+  "nicaragua": "How disagreement is signalled here; the softeners that come first",
+  "beat": "You disagree bluntly and watch it land badly."
+ },
+ {
+  "id": "p3-07",
+  "phase": 3,
+  "title": "Fijate que no",
+  "desc": "Saying no without saying no",
+  "spanish": "fijate que; indirect refusal; es que; the excuse as a form",
+  "nicaragua": "Why a flat no is rude and what replaces it",
+  "beat": "Somebody says yes to you for two weeks and means no the whole time."
+ },
+ {
+  "id": "p3-08",
+  "phase": 3,
+  "title": "Un trabajo",
+  "desc": "Work, and what is expected of you",
+  "spanish": "work vocabulary; schedules; obligation with tener que and deber",
+  "nicaragua": "How work is found here; who recommends you; informality and its rules",
+  "beat": "You are hired by somebody who never asks for a CV."
+ },
+ {
+  "id": "p3-09",
+  "phase": 3,
+  "title": "La quincena",
+  "desc": "Money arrives twice a month and leaves faster",
+  "spanish": "money verbs; ahorrar, gastar, prestar, deber; numbers in the thousands",
+  "nicaragua": "The quincena; why everywhere is full on the 15th and the 30th",
+  "beat": "You learn to shop on the right day of the month."
+ },
+ {
+  "id": "p3-10",
+  "phase": 3,
+  "title": "Me prestas",
+  "desc": "Being asked for money",
+  "spanish": "lending and borrowing; prestar vs pedir prestado; obligation and refusal",
+  "nicaragua": "How lending works between friends and family; what is really being asked",
+  "beat": "A friend asks and you do not know what saying no would cost."
+ },
+ {
+  "id": "p3-11",
+  "phase": 3,
+  "title": "El mecanico",
+  "desc": "Something is broken and you cannot name it",
+  "spanish": "describing faults; se descompuso, no sirve, hace un ruido raro",
+  "nicaragua": "Talleres; fixing rather than replacing; the man who can fix anything",
+  "beat": "You describe the noise with your mouth and he understands immediately."
+ },
+ {
+  "id": "p3-12",
+  "phase": 3,
+  "title": "Tuve un problema",
+  "desc": "Explaining what went wrong",
+  "spanish": "preterite and imperfect together properly; narrating a mishap",
+  "nicaragua": "How much detail a Nicaraguan story carries before the point arrives",
+  "beat": "You tell it too fast and are made to start again."
+ },
+ {
+  "id": "p3-13",
+  "phase": 3,
+  "title": "Cuidado",
+  "desc": "Safety, and how people talk about it",
+  "spanish": "warnings; imperatives; no vayas, ten cuidado, mejor no",
+  "nicaragua": "Which barrios, which hours, what people actually watch for",
+  "beat": "You are warned off a street and take the warning seriously."
+ },
+ {
+  "id": "p3-14",
+  "phase": 3,
+  "title": "Me robaron",
+  "desc": "Something taken",
+  "spanish": "the passive se; se me perdio, se me cayo, me robaron",
+  "nicaragua": "Reporting or not reporting; what people do instead",
+  "beat": "You lose a phone and learn a grammar that puts the blame nowhere."
+ },
+ {
+  "id": "p3-15",
+  "phase": 3,
+  "title": "En el hospital",
+  "desc": "Serious this time",
+  "spanish": "medical vocabulary; symptoms; the subjunctive after es necesario que",
+  "nicaragua": "Public and private care; who waits with you; why nobody comes alone",
+  "beat": "Four people you barely know sit in the corridor all night."
+ },
+ {
+  "id": "p3-16",
+  "phase": 3,
+  "title": "Que harias vos",
+  "desc": "Asking for advice",
+  "spanish": "the conditional properly; yo que vos; deberias",
+  "nicaragua": "How advice is given here; why it arrives whether you asked or not",
+  "beat": "You ask one person and end up with five opinions."
+ },
+ {
+  "id": "p3-17",
+  "phase": 3,
+  "title": "Es que no me entendiste",
+  "desc": "A misunderstanding that becomes an argument",
+  "spanish": "repair and clarification; lo que quise decir; no es eso",
+  "nicaragua": "How a Nicaraguan de-escalates; the role of humour in stopping a fight",
+  "beat": "You realise the argument is about something said three days ago."
+ },
+ {
+  "id": "p3-18",
+  "phase": 3,
+  "title": "Estoy arrecho",
+  "desc": "Being angry out loud",
+  "spanish": "anger; arrecho, arrechera, molesto; intensity without insult",
+  "nicaragua": "Arrecho as furious and as excellent; how the tone decides",
+  "beat": "You use the word correctly and everyone stops talking."
+ },
+ {
+  "id": "p3-19",
+  "phase": 3,
+  "title": "Perdon",
+  "desc": "Apologising properly",
+  "spanish": "apology register; perdoname, disculpame, fue mi culpa, no fue mi intencion",
+  "nicaragua": "What an apology has to contain here to actually count",
+  "beat": "Your first apology is not accepted, and you learn what was missing."
+ },
+ {
+  "id": "p3-20",
+  "phase": 3,
+  "title": "Hablemos",
+  "desc": "Choosing to have the conversation",
+  "spanish": "nosotros commands; hablemos, veamos, dejemos; the subjunctive as invitation",
+  "nicaragua": "Who initiates a hard conversation and where it happens",
+  "beat": "You ask for the talk instead of waiting, and it goes better."
+ },
+ {
+  "id": "p3-21",
+  "phase": 3,
+  "title": "Prometiste",
+  "desc": "A promise not kept",
+  "spanish": "reproach; dijiste que, prometiste que; reported speech in the past",
+  "nicaragua": "How seriously a spoken promise is taken; what excuses are accepted",
+  "beat": "Somebody lets you down and you have to decide how much to say."
+ },
+ {
+  "id": "p3-22",
+  "phase": 3,
+  "title": "No es tan facil",
+  "desc": "Somebody explains their situation",
+  "spanish": "listening; empathy phrases; te entiendo, que barbaro, que jodido",
+  "nicaragua": "Economic reality most Nicaraguans live with; what is not said aloud",
+  "beat": "You stop giving advice and just listen, which turns out to be the point."
+ },
+ {
+  "id": "p3-23",
+  "phase": 3,
+  "title": "Las remesas",
+  "desc": "Money that crosses a border every month",
+  "spanish": "sending and receiving; mandar, recibir, alcanzar; monthly obligation",
+  "nicaragua": "Remittances from Costa Rica, the US, Spain; who is supporting whom",
+  "beat": "You learn how much of the street is paid for from somewhere else."
+ },
+ {
+  "id": "p3-24",
+  "phase": 3,
+  "title": "Se fue para el sur",
+  "desc": "Somebody leaves",
+  "spanish": "departure and absence; irse, quedarse, volver; future uncertainty",
+  "nicaragua": "Migration to Costa Rica and beyond; the families left in the middle",
+  "beat": "A friend leaves and the goodbye is deliberately small."
+ },
+ {
+  "id": "p3-25",
+  "phase": 3,
+  "title": "Aqui se hace asi",
+  "desc": "Being corrected on how things are done",
+  "spanish": "impersonal se; se hace, se dice, se usa; norms as grammar",
+  "nicaragua": "The unwritten rules a foreigner keeps breaking",
+  "beat": "You are told, kindly, that you have been doing something wrong for months."
+ },
+ {
+  "id": "p3-26",
+  "phase": 3,
+  "title": "Ya me defiendo",
+  "desc": "You can handle yourself now",
+  "spanish": "everything recycled in argument and negotiation",
+  "nicaragua": "What competence looks like from the outside",
+  "beat": "You sort out a problem alone that would have needed help in February."
+ },
+ {
+  "id": "p4-01",
+  "phase": 4,
+  "title": "La conoci",
+  "desc": "Meeting somebody who matters",
+  "spanish": "narrating a meeting; preterite and imperfect together; first impressions",
+  "nicaragua": "Where people meet; the role of the group; who introduces whom",
+  "beat": "An ordinary evening turns out later to have been the important one."
+ },
+ {
+  "id": "p4-02",
+  "phase": 4,
+  "title": "Me gusta ella",
+  "desc": "Saying you like somebody, and getting it right",
+  "spanish": "gustar with people; me gusta vs me cae bien vs la quiero",
+  "nicaragua": "How interest is signalled here; what is direct and what is not",
+  "beat": "You get the verb right this time and it is understood."
+ },
+ {
+  "id": "p4-03",
+  "phase": 4,
+  "title": "Una seña",
+  "desc": "Reading the signals",
+  "spanish": "indirect language; hints; parece que, creo que le gusto",
+  "nicaragua": "Flirting as indirection; the role of friends as messengers",
+  "beat": "Everybody around you knows before you do."
+ },
+ {
+  "id": "p4-04",
+  "phase": 4,
+  "title": "Salimos",
+  "desc": "A first evening alone",
+  "spanish": "invitations; te gustaria; conditional as courtship",
+  "nicaragua": "What a date looks like; who pays; what time you bring her home",
+  "beat": "You ask, badly, and she says yes anyway."
+ },
+ {
+  "id": "p4-05",
+  "phase": 4,
+  "title": "Mi amor",
+  "desc": "The words people actually use",
+  "spanish": "terms of endearment; mi amor, mi vida, mi cielo, mi reina",
+  "nicaragua": "Why gordo and gorda are affectionate, and what happens if you assume otherwise",
+  "beat": "She calls you gordo and you have to be told it is a good thing."
+ },
+ {
+  "id": "p4-06",
+  "phase": 4,
+  "title": "Chinearme",
+  "desc": "Tenderness has its own grammar",
+  "spanish": "diminutives as affection; -ito, -ita on anything; chinear",
+  "nicaragua": "How Nicaraguans express care physically and verbally",
+  "beat": "You notice everything has become smaller: cafecito, ratito, amorcito."
+ },
+ {
+  "id": "p4-07",
+  "phase": 4,
+  "title": "Te quiero",
+  "desc": "Querer and amar are not the same size",
+  "spanish": "querer vs amar; degrees of declaration; when each is used",
+  "nicaragua": "What is said early, what is saved, and what is never said aloud at all",
+  "beat": "You say the bigger word first and she goes quiet."
+ },
+ {
+  "id": "p4-08",
+  "phase": 4,
+  "title": "Conoce a mi mama",
+  "desc": "Meeting her mother",
+  "spanish": "usted as respect; formal register; mucho gusto, senora",
+  "nicaragua": "What the mother is assessing; who you greet first; what you bring",
+  "beat": "You are polite in the wrong register and she notices immediately."
+ },
+ {
+  "id": "p4-09",
+  "phase": 4,
+  "title": "La suegra",
+  "desc": "The most important relationship you have now",
+  "spanish": "deference; asking permission; le puedo, con su permiso",
+  "nicaragua": "The suegra's authority; why the daughter's mother outranks you indefinitely",
+  "beat": "You win one small point with her and it takes four months."
+ },
+ {
+  "id": "p4-10",
+  "phase": 4,
+  "title": "Los cuñados",
+  "desc": "Her brothers, and the test",
+  "spanish": "banter; insults as affection; maje, no seas; teasing you can return",
+  "nicaragua": "How brothers-in-law establish where you stand",
+  "beat": "You are mocked for two hours and pass by not minding."
+ },
+ {
+  "id": "p4-11",
+  "phase": 4,
+  "title": "Que son tus intenciones",
+  "desc": "Being asked directly",
+  "spanish": "stating intent; pienso, quiero, voy a; future as commitment",
+  "nicaragua": "When and how the question comes; who asks it",
+  "beat": "Her father asks the question in front of everyone."
+ },
+ {
+  "id": "p4-12",
+  "phase": 4,
+  "title": "El dia de la madre",
+  "desc": "May 30, from the inside",
+  "spanish": "formal affection; congratulation; agradecer",
+  "nicaragua": "Mother's Day on May 30; the serenata, the food, who cooks and who does not",
+  "beat": "You understand for the first time how large this day is."
+ },
+ {
+  "id": "p4-13",
+  "phase": 4,
+  "title": "Flores amarillas",
+  "desc": "The 21st, and you did not forget this year",
+  "spanish": "giving; te traje, es para vos; anticipation and surprise",
+  "nicaragua": "Yellow flowers on September 21; what it means to be remembered",
+  "beat": "You are the one holding the flowers this time."
+ },
+ {
+  "id": "p4-14",
+  "phase": 4,
+  "title": "Estoy celoso",
+  "desc": "Jealousy, said out loud",
+  "spanish": "the subjunctive of emotion; me molesta que, no me gusta que",
+  "nicaragua": "How jealousy is talked about here; what is normal and what is not",
+  "beat": "You say the small true thing instead of the large false one."
+ },
+ {
+  "id": "p4-15",
+  "phase": 4,
+  "title": "No es lo que pensas",
+  "desc": "A misunderstanding between two people",
+  "spanish": "clarifying under pressure; no quise decir; entendiste mal",
+  "nicaragua": "How a couple argues here; volume, and what volume does not mean",
+  "beat": "You are shouted at and learn it is not the end of anything."
+ },
+ {
+  "id": "p4-16",
+  "phase": 4,
+  "title": "La plata",
+  "desc": "An argument about money",
+  "spanish": "financial argument; alcanzar, gastar, hace falta; reproach",
+  "nicaragua": "Whose money is whose; obligations to both families",
+  "beat": "The argument is not about the amount and you both know it."
+ },
+ {
+  "id": "p4-17",
+  "phase": 4,
+  "title": "Tu familia o la mia",
+  "desc": "An argument about family",
+  "spanish": "obligation and loyalty; tener que, deber, primero",
+  "nicaragua": "Why her family's claim on her is not negotiable",
+  "beat": "You ask her to choose and immediately wish you had not."
+ },
+ {
+  "id": "p4-18",
+  "phase": 4,
+  "title": "Perdoname",
+  "desc": "Repairing it",
+  "spanish": "apology under real weight; me equivoque, tenes razon, no vuelvo a",
+  "nicaragua": "What repair looks like; the gesture that goes with the words",
+  "beat": "You apologise properly, and this one is accepted."
+ },
+ {
+  "id": "p4-19",
+  "phase": 4,
+  "title": "Hablemos de nosotros",
+  "desc": "The conversation about what this is",
+  "spanish": "the future; plans together; cuando + subjunctive",
+  "nicaragua": "How couples here talk about the future; what is assumed rather than agreed",
+  "beat": "You discover you had different timelines and neither had said so."
+ },
+ {
+  "id": "p4-20",
+  "phase": 4,
+  "title": "Se acabo",
+  "desc": "It ends",
+  "spanish": "breaking up; ya no, se acabo, lo nuestro; the imperfect of what used to be",
+  "nicaragua": "How an ending is handled; who is told, and in what order",
+  "beat": "You use the past tense about a person for the first time."
+ },
+ {
+  "id": "p4-21",
+  "phase": 4,
+  "title": "Me duele",
+  "desc": "Heartbreak",
+  "spanish": "pain as an experience that happens to you; doler, extranar, faltar",
+  "nicaragua": "Where you go, who feeds you, what the friends do",
+  "beat": "Nobody asks if you want company. They just arrive."
+ },
+ {
+  "id": "p4-22",
+  "phase": 4,
+  "title": "Volvimos",
+  "desc": "Or it does not end",
+  "spanish": "reconciliation; volver a, otra vez, empezar de nuevo",
+  "nicaragua": "Second chances and who has to speak first",
+  "beat": "The making-up is quieter than the argument was."
+ },
+ {
+  "id": "p4-23",
+  "phase": 4,
+  "title": "Pedir la mano",
+  "desc": "Asking her family",
+  "spanish": "formal request; quisiera, le pido, con todo respeto",
+  "nicaragua": "Asking for her hand; who is present; what is served afterwards",
+  "beat": "You rehearse a sentence for a week and say a different one."
+ },
+ {
+  "id": "p4-24",
+  "phase": 4,
+  "title": "La boda",
+  "desc": "A wedding",
+  "spanish": "ceremony vocabulary; vows; the subjunctive in wishes",
+  "nicaragua": "Church and civil; padrinos; who pays for what; the hora nica",
+  "beat": "It starts two hours late and nobody but you had expected otherwise."
+ },
+ {
+  "id": "p4-25",
+  "phase": 4,
+  "title": "Ahora somos familia",
+  "desc": "What changes after",
+  "spanish": "in-law vocabulary; suegro, cunado, concuno; belonging verbs",
+  "nicaragua": "How you are addressed once you are family; what is now expected of you",
+  "beat": "Her mother calls you mijo and you have to leave the room."
+ },
+ {
+  "id": "p4-26",
+  "phase": 4,
+  "title": "La casa poco a poco",
+  "desc": "Building something slowly",
+  "spanish": "progress over time; ir + gerund; poco a poco, ya casi",
+  "nicaragua": "Building a house room by room over years; why nothing is finished",
+  "beat": "You understand why so many houses have rebar sticking out of the roof."
+ },
+ {
+  "id": "p4-27",
+  "phase": 4,
+  "title": "El bautizo",
+  "desc": "You are asked to be a godparent",
+  "spanish": "acceptance and obligation; aceptar, comprometerse; formal thanks",
+  "nicaragua": "Compadrazgo; what a padrino actually owes a child for life",
+  "beat": "You say yes before understanding what you have agreed to."
+ },
+ {
+  "id": "p4-28",
+  "phase": 4,
+  "title": "Un chavalito",
+  "desc": "A baby in the family",
+  "spanish": "baby vocabulary; the language people use with infants; diminutives again",
+  "nicaragua": "Who holds the baby, who visits, the forty days",
+  "beat": "The house fills with women and you are given nothing to do."
+ },
+ {
+  "id": "p4-29",
+  "phase": 4,
+  "title": "Se puso malo",
+  "desc": "Somebody is seriously ill",
+  "spanish": "worry; the subjunctive of doubt; ojala que, espero que",
+  "nicaragua": "How bad news travels; who is told and how carefully",
+  "beat": "You learn the phrases people use to avoid saying the word."
+ },
+ {
+  "id": "p4-30",
+  "phase": 4,
+  "title": "El novenario",
+  "desc": "Nine nights",
+  "spanish": "condolence; mi pesame, lo siento mucho, que en paz descanse",
+  "nicaragua": "The nine nights of prayer after a death; food, chairs, who comes",
+  "beat": "You go every night because leaving after one would be noticed."
+ },
+ {
+  "id": "p4-31",
+  "phase": 4,
+  "title": "Los difuntos",
+  "desc": "November 2, at the cemetery",
+  "spanish": "remembrance; the imperfect for a person who is gone",
+  "nicaragua": "Dia de los Difuntos; painting the graves; taking food and flowers",
+  "beat": "You meet a grandmother you never met."
+ },
+ {
+  "id": "p4-32",
+  "phase": 4,
+  "title": "Como era el",
+  "desc": "Talking about somebody who died",
+  "spanish": "the imperfect as memory; era, tenia, siempre decia",
+  "nicaragua": "How families keep somebody present in conversation",
+  "beat": "She tells you about her father and you understand all of it."
+ },
+ {
+  "id": "p4-33",
+  "phase": 4,
+  "title": "Te lo agradezco",
+  "desc": "Gratitude that means something",
+  "spanish": "real thanks; agradecer, deber, no se como pagarte",
+  "nicaragua": "Why thanks is often refused, and what is said instead",
+  "beat": "You try to thank somebody and they refuse to accept it."
+ },
+ {
+  "id": "p4-34",
+  "phase": 4,
+  "title": "Mi mujer",
+  "desc": "How you refer to her now",
+  "spanish": "possessives with people; mi mujer, mi esposa, mi señora; register",
+  "nicaragua": "What each word implies here and who uses which",
+  "beat": "You hear yourself say it in a shop and it lands strangely well."
+ },
+ {
+  "id": "p4-35",
+  "phase": 4,
+  "title": "Ya sos parte",
+  "desc": "Belonging to a family, not a country",
+  "spanish": "everything recycled in the emotional register",
+  "nicaragua": "What a Nicaraguan family means by family",
+  "beat": "You are given a job at a family gathering, which is the whole point."
+ },
+ {
+  "id": "p5-01",
+  "phase": 5,
+  "title": "Que tuani",
+  "desc": "Slang that dates you if you get it wrong",
+  "spanish": "Nica slang core; tuani, deacachimba, chocho, jodido",
+  "nicaragua": "Who says what; slang by age and place",
+  "beat": "You use a word you learned from a teenager on somebody's grandmother."
+ },
+ {
+  "id": "p5-02",
+  "phase": 5,
+  "title": "Hablan rapidisimo",
+  "desc": "Fast speech, and what disappears in it",
+  "spanish": "reductions; the aspirated s; loh amigoh; dropped d in colorao",
+  "nicaragua": "The Managua accent, described so you recognise it",
+  "beat": "You realise you have been hearing a different language to the written one."
+ },
+ {
+  "id": "p5-03",
+  "phase": 5,
+  "title": "El doble sentido",
+  "desc": "Nothing means only one thing",
+  "spanish": "double meanings; innuendo; how a straight sentence turns",
+  "nicaragua": "Albur and doble sentido in ordinary conversation",
+  "beat": "The table laughs at something you said and you have to be told why."
+ },
+ {
+  "id": "p5-04",
+  "phase": 5,
+  "title": "Vacilando",
+  "desc": "Mockery as affection, at speed",
+  "spanish": "comebacks; insult formulas that are not insults",
+  "nicaragua": "How to give it back, and where the line is",
+  "beat": "You land your first comeback and get applause."
+ },
+ {
+  "id": "p5-05",
+  "phase": 5,
+  "title": "Semana Santa",
+  "desc": "The whole country goes to the beach",
+  "spanish": "holiday plans; the future; crowds and logistics",
+  "nicaragua": "Semana Santa; processions and the coast; the alfombras",
+  "beat": "You cannot get a bus anywhere for six days."
+ },
+ {
+  "id": "p5-06",
+  "phase": 5,
+  "title": "Santo Domingo",
+  "desc": "Managua's own saint",
+  "spanish": "celebration and crowd vocabulary; promises and vows",
+  "nicaragua": "Santo Domingo de Guzman, August 1 and 10; Minguito; the tope",
+  "beat": "You are carried along by a crowd for a mile without choosing to be."
+ },
+ {
+  "id": "p5-07",
+  "phase": 5,
+  "title": "La Gigantona",
+  "desc": "A giant woman and a big-headed dwarf",
+  "spanish": "verse and rhythm; the enano's recited coplas",
+  "nicaragua": "La Gigantona y el Enano Cabezon, especially Leon in December",
+  "beat": "A child recites forty lines of verse at you for coins."
+ },
+ {
+  "id": "p5-08",
+  "phase": 5,
+  "title": "Palo de Mayo",
+  "desc": "The other Nicaragua",
+  "spanish": "vocabulary from the Caribbean side; loanwords",
+  "nicaragua": "Bluefields, the Caribbean coast, Creole and Miskito; May and the maypole",
+  "beat": "You discover a whole half of the country you had not accounted for."
+ },
+ {
+  "id": "p5-09",
+  "phase": 5,
+  "title": "El ano viejo",
+  "desc": "Burning the year",
+  "spanish": "new year; resolutions; the subjunctive in wishes",
+  "nicaragua": "Ano viejo effigies; grapes; what people do at midnight",
+  "beat": "You help build a dummy of a man and set fire to it in the street."
+ },
+ {
+  "id": "p5-10",
+  "phase": 5,
+  "title": "La purisima otra vez",
+  "desc": "December 7, but you know it now",
+  "spanish": "the call and response by heart; the songs",
+  "nicaragua": "Purisima from the inside: building the altar, buying the gorras",
+  "beat": "You are on the giving side of the door this year."
+ },
+ {
+  "id": "p5-11",
+  "phase": 5,
+  "title": "Los quince",
+  "desc": "A fifteenth birthday",
+  "spanish": "ceremony and compliment; formal congratulation",
+  "nicaragua": "The quinceanera; the dress, the waltz, the cost, the padrinos",
+  "beat": "You are asked to contribute and learn how these are financed."
+ },
+ {
+  "id": "p5-12",
+  "phase": 5,
+  "title": "El refran",
+  "desc": "Sayings, and why they end arguments",
+  "spanish": "refranes; fixed expressions; when a proverb is a reply",
+  "nicaragua": "The sayings Nicaraguans reach for; what each one shuts down",
+  "beat": "An argument ends because somebody quoted a proverb."
+ },
+ {
+  "id": "p5-13",
+  "phase": 5,
+  "title": "Puro cuento",
+  "desc": "Exaggeration as an art form",
+  "spanish": "hyperbole; un monton, cachimbo de, ni de vara",
+  "nicaragua": "How a Nicaraguan story grows in the telling and why nobody minds",
+  "beat": "You catch somebody exaggerating and are told to enjoy it instead."
+ },
+ {
+  "id": "p5-14",
+  "phase": 5,
+  "title": "Ideay pues",
+  "desc": "The words that hold a conversation together",
+  "spanish": "discourse markers in depth; pues, va, fijate, imaginate, mira",
+  "nicaragua": "What each one signals; how they replace whole sentences",
+  "beat": "You have a two-minute exchange made almost entirely of filler."
+ },
+ {
+  "id": "p5-15",
+  "phase": 5,
+  "title": "La cerveza esta helada",
+  "desc": "An evening that goes long",
+  "spanish": "drinking vocabulary; states; ya esta, andate, quedate",
+  "nicaragua": "How a Nicaraguan night out actually runs and when it ends",
+  "beat": "You stay later than you meant to and something important gets said."
+ },
+ {
+  "id": "p5-16",
+  "phase": 5,
+  "title": "El chisme",
+  "desc": "Gossip, and how it moves",
+  "spanish": "reported speech; dice que, dicen que, me contaron que",
+  "nicaragua": "How information travels through a barrio",
+  "beat": "Something you said in confidence reaches you back, improved."
+ },
+ {
+  "id": "p5-17",
+  "phase": 5,
+  "title": "No me hallo",
+  "desc": "Feeling out of place, in their words",
+  "spanish": "hallarse; expressing unease; me siento raro",
+  "nicaragua": "A verb Nicaraguans use for belonging that has no clean English",
+  "beat": "You learn the exact word for the thing you have been feeling for a year."
+ },
+ {
+  "id": "p5-18",
+  "phase": 5,
+  "title": "Un baile",
+  "desc": "Dancing, and not being able to",
+  "spanish": "movement and instruction; imperatives; asi no, asi si",
+  "nicaragua": "What is danced here; who leads; why sitting down is not an option",
+  "beat": "You are pulled up and taught in front of everybody."
+ },
+ {
+  "id": "p5-19",
+  "phase": 5,
+  "title": "La comida de la abuela",
+  "desc": "Food that only exists in houses",
+  "spanish": "cooking; recipes; se le pone, se deja",
+  "nicaragua": "Indio viejo, baho, nacatamal, sopa de mondongo; Sunday food",
+  "beat": "You are taught a recipe by somebody who measures nothing."
+ },
+ {
+  "id": "p5-20",
+  "phase": 5,
+  "title": "El nacatamal del domingo",
+  "desc": "Sunday morning, and the whole street smells the same",
+  "spanish": "routine and ritual; los domingos; ir a traer",
+  "nicaragua": "The nacatamal as a Sunday institution; who makes them, who buys",
+  "beat": "You are sent for six and come back with eight."
+ },
+ {
+  "id": "p5-21",
+  "phase": 5,
+  "title": "Bromas pesadas",
+  "desc": "A joke that goes too far",
+  "spanish": "apology after teasing; era broma, no fue en serio",
+  "nicaragua": "Where the line is and how it is repaired when crossed",
+  "beat": "You go one step past funny and have to walk it back."
+ },
+ {
+  "id": "p5-22",
+  "phase": 5,
+  "title": "Ese es mi barrio",
+  "desc": "Where you live means something",
+  "spanish": "place identity; ser de, vivir en; pride and defensiveness",
+  "nicaragua": "How barrios are ranked and what people assume from yours",
+  "beat": "You defend your neighbourhood to somebody from a better one."
+ },
+ {
+  "id": "p5-23",
+  "phase": 5,
+  "title": "Hora nica",
+  "desc": "Time is a suggestion and everyone knows it",
+  "spanish": "lateness; ya voy, ya casi, en camino; the gap between saying and doing",
+  "nicaragua": "Hora nica; when a time is real and when it is not",
+  "beat": "You arrive on time to a party and help set up."
+ },
+ {
+  "id": "p5-24",
+  "phase": 5,
+  "title": "Andate ya",
+  "desc": "Leaving without being rude",
+  "spanish": "departure formulas; ya me voy, nos vemos, cuidate; the long goodbye",
+  "nicaragua": "Why leaving takes forty minutes and how to start it early enough",
+  "beat": "You announce you are leaving and leave an hour later."
+ },
+ {
+  "id": "p5-25",
+  "phase": 5,
+  "title": "Me hablan normal",
+  "desc": "They stop slowing down for you",
+  "spanish": "comprehension at full speed; everything recycled",
+  "nicaragua": "The moment people forget you are foreign",
+  "beat": "Nobody repeats anything for you all evening and you only notice afterwards."
+ },
+ {
+  "id": "p5-26",
+  "phase": 5,
+  "title": "Sos nica adoptivo",
+  "desc": "Being claimed",
+  "spanish": "identity; adoption of a person by a place; ser vs estar one last time",
+  "nicaragua": "What Nicaraguans mean when they say somebody is nica de corazon",
+  "beat": "Somebody says it about you in front of other people."
+ },
+ {
+  "id": "p6-01",
+  "phase": 6,
+  "title": "Depende",
+  "desc": "The answer that is not an answer",
+  "spanish": "hedging; depende, mas o menos, puede ser, digamos que",
+  "nicaragua": "Why a straight answer can be a rudeness; how certainty is avoided",
+  "beat": "You ask a yes-or-no question and get twenty minutes."
+ },
+ {
+  "id": "p6-02",
+  "phase": 6,
+  "title": "Tal vez despues",
+  "desc": "Refusing something you were never going to do",
+  "spanish": "soft refusal; the subjunctive after tal vez and quizas",
+  "nicaragua": "The vocabulary of a polite no and how everyone hears it correctly",
+  "beat": "You finally recognise a no that was given to you last March."
+ },
+ {
+  "id": "p6-03",
+  "phase": 6,
+  "title": "Con todo respeto",
+  "desc": "Disagreeing with somebody above you",
+  "spanish": "deferential disagreement; con todo respeto, si me permite, yo diria que",
+  "nicaragua": "Hierarchy in ordinary conversation; age, position, and who yields",
+  "beat": "You correct somebody older and do it correctly for once."
+ },
+ {
+  "id": "p6-04",
+  "phase": 6,
+  "title": "Es que fijese",
+  "desc": "The excuse as a social form",
+  "spanish": "fijese que; usted register of the indirect refusal",
+  "nicaragua": "Why the reason matters more than the refusal it carries",
+  "beat": "You give an excuse instead of a reason and it works better."
+ },
+ {
+  "id": "p6-05",
+  "phase": 6,
+  "title": "No hallaba como decirle",
+  "desc": "Saying a hard thing gently",
+  "spanish": "softening; the imperfect as distance; queria preguntarle",
+  "nicaragua": "How bad news and hard requests are wrapped before delivery",
+  "beat": "You spend four sentences arriving at a question."
+ },
+ {
+  "id": "p6-06",
+  "phase": 6,
+  "title": "Del norte",
+  "desc": "Nicaragua is not one accent",
+  "spanish": "regional variation; vocabulary that changes by department",
+  "nicaragua": "Esteli, Matagalpa, the north; coffee country; how they sound different",
+  "beat": "You meet somebody from Jinotega and understand two thirds of it."
+ },
+ {
+  "id": "p6-07",
+  "phase": 6,
+  "title": "La costa",
+  "desc": "The Caribbean side is another country",
+  "spanish": "contact vocabulary; loanwords; code-switching",
+  "nicaragua": "The RACCS and RACCN; Creole English, Miskito, Rama; autonomy",
+  "beat": "Somebody answers you in English and you did not expect it."
+ },
+ {
+  "id": "p6-08",
+  "phase": 6,
+  "title": "Los apellidos",
+  "desc": "Names carry history",
+  "spanish": "two surnames; formal address; don and dona with a first name",
+  "nicaragua": "What surnames signal here; family, region, and sometimes more",
+  "beat": "You are asked your mother's surname and do not have an answer ready."
+ },
+ {
+  "id": "p6-09",
+  "phase": 6,
+  "title": "La plata y el color",
+  "desc": "Things that are noticed and not said",
+  "spanish": "careful description; euphemism; moreno, chele, humilde",
+  "nicaragua": "How class and colour are talked around in Nicaragua",
+  "beat": "You use a plain word and watch the room adjust."
+ },
+ {
+  "id": "p6-10",
+  "phase": 6,
+  "title": "Uno nunca sabe",
+  "desc": "Impersonal uno, and hiding behind it",
+  "spanish": "uno as a way of saying I without saying I",
+  "nicaragua": "When a Nicaraguan switches to uno and what it is protecting",
+  "beat": "You notice somebody talking about themselves in the third person."
+ },
+ {
+  "id": "p6-11",
+  "phase": 6,
+  "title": "De eso mejor no",
+  "desc": "Subjects that get closed",
+  "spanish": "changing the subject; mejor hablemos de; deflection",
+  "nicaragua": "Political conversation and how carefully it is handled; who talks, where",
+  "beat": "You raise something and the conversation moves without anyone refusing."
+ },
+ {
+  "id": "p6-12",
+  "phase": 6,
+  "title": "El 79",
+  "desc": "History everyone carries",
+  "spanish": "historical narration; the preterite at length; dates and eras",
+  "nicaragua": "The revolution, Somoza, Sandino; what different generations say about it",
+  "beat": "An old man tells you where he was, and stops before the end."
+ },
+ {
+  "id": "p6-13",
+  "phase": 6,
+  "title": "Los que se fueron",
+  "desc": "A country with a diaspora",
+  "spanish": "absence and distance; hace anos que, desde que",
+  "nicaragua": "Emigration across generations; Costa Rica, Miami, Spain; who is left",
+  "beat": "Almost every family you know is missing somebody."
+ },
+ {
+  "id": "p6-14",
+  "phase": 6,
+  "title": "Ruben Dario",
+  "desc": "The poet is on the money",
+  "spanish": "literary register; reading something written to be read aloud",
+  "nicaragua": "Ruben Dario; why a poet is a national figure; what children memorise",
+  "beat": "Somebody recites four lines from memory and expects you to know them."
+ },
+ {
+  "id": "p6-15",
+  "phase": 6,
+  "title": "Que va a querer",
+  "desc": "Politeness in a shop, at full speed",
+  "spanish": "commercial register; the future as courtesy; que le doy",
+  "nicaragua": "How service language actually sounds when nobody slows down",
+  "beat": "You are served entirely in formulas and understand every one."
+ },
+ {
+  "id": "p6-16",
+  "phase": 6,
+  "title": "Sabe que",
+  "desc": "Getting somebody's attention properly",
+  "spanish": "openers; sabe que, fijese que, ideay; register by relationship",
+  "nicaragua": "How you open a request depending on who you are talking to",
+  "beat": "You choose the right opener without thinking about it."
+ },
+ {
+  "id": "p6-17",
+  "phase": 6,
+  "title": "Como quien no quiere",
+  "desc": "Saying something sideways",
+  "spanish": "indirect suggestion; como quien no quiere la cosa; hinting",
+  "nicaragua": "Asking for something without asking; how the hint is answered",
+  "beat": "You get what you needed and never actually asked for it."
+ },
+ {
+  "id": "p6-18",
+  "phase": 6,
+  "title": "Ni modo",
+  "desc": "Accepting what cannot be changed",
+  "spanish": "resignation; ni modo, que se le va a hacer, asi es la vida",
+  "nicaragua": "Fatalism as a social skill; what it protects people from",
+  "beat": "Something goes badly wrong and the reaction is a shrug you now understand."
+ },
+ {
+  "id": "p6-19",
+  "phase": 6,
+  "title": "Hablando de eso",
+  "desc": "Steering a conversation",
+  "spanish": "transitions; hablando de, volviendo a, por cierto",
+  "nicaragua": "How a Nicaraguan conversation actually moves between topics",
+  "beat": "You steer a conversation somewhere useful and nobody notices you did."
+ },
+ {
+  "id": "p6-20",
+  "phase": 6,
+  "title": "Me suena raro",
+  "desc": "Hearing a mistake before you can explain it",
+  "spanish": "intuition about the language; suena mal, no se dice asi",
+  "nicaragua": "The point where correctness becomes feel rather than rule",
+  "beat": "You correct somebody else's Spanish and turn out to be right."
+ },
+ {
+  "id": "p7-01",
+  "phase": 7,
+  "title": "El chiste que no explicaron",
+  "desc": "Getting a joke in real time",
+  "spanish": "humour at speed; the timing; why explaining kills it",
+  "nicaragua": "What Nicaraguans find funny and what they never joke about",
+  "beat": "You laugh at the right moment and it is not performance."
+ },
+ {
+  "id": "p7-02",
+  "phase": 7,
+  "title": "Juego de palabras",
+  "desc": "Wordplay",
+  "spanish": "puns; sound-alike words; deliberate misreading",
+  "nicaragua": "The pleasure Nicaraguans take in twisting a phrase",
+  "beat": "You make a pun in Spanish and somebody repeats it to somebody else."
+ },
+ {
+  "id": "p7-03",
+  "phase": 7,
+  "title": "Como decia mi abuela",
+  "desc": "Quoting the dead as an argument",
+  "spanish": "quotation; the imperfect for habitual speech; refranes in context",
+  "nicaragua": "Grandmothers as the source of authority in a disagreement",
+  "beat": "You quote somebody else's grandmother and it is accepted."
+ },
+ {
+  "id": "p7-04",
+  "phase": 7,
+  "title": "Hablando en serio",
+  "desc": "Switching from joking to real",
+  "spanish": "register shift; ya en serio, la verdad; marking a change of tone",
+  "nicaragua": "How Nicaraguans signal that the joking has stopped",
+  "beat": "A conversation turns serious in one word and you catch it."
+ },
+ {
+  "id": "p7-05",
+  "phase": 7,
+  "title": "Una carta",
+  "desc": "Writing something formal",
+  "spanish": "written register; formulas; atentamente, por medio de la presente",
+  "nicaragua": "When writing is required and how different it is from speech",
+  "beat": "You write a letter and it sounds like a different language."
+ },
+ {
+  "id": "p7-06",
+  "phase": 7,
+  "title": "En la radio",
+  "desc": "Listening to something not aimed at you",
+  "spanish": "broadcast register; news vocabulary; speed with no visual help",
+  "nicaragua": "What Nicaraguan radio sounds like; the announcers, the adverts",
+  "beat": "You follow a whole segment without meaning to."
+ },
+ {
+  "id": "p7-07",
+  "phase": 7,
+  "title": "Discutiendo de futbol y beisbol",
+  "desc": "Arguing about nothing, at length",
+  "spanish": "sustained argument; interruption; holding the floor",
+  "nicaragua": "Arguing as entertainment; how to interrupt without offending",
+  "beat": "You hold your own in an argument that does not matter at all."
+ },
+ {
+  "id": "p7-08",
+  "phase": 7,
+  "title": "El campo",
+  "desc": "Rural Spanish is older",
+  "spanish": "rural vocabulary; older forms; usted between spouses",
+  "nicaragua": "The countryside; farms, cattle, coffee; a different pace of speech",
+  "beat": "An old couple address each other as usted and it is tenderness."
+ },
+ {
+  "id": "p7-09",
+  "phase": 7,
+  "title": "Palabras que no existen afuera",
+  "desc": "Words with no translation",
+  "spanish": "untranslatable items; explaining a word in the language itself",
+  "nicaragua": "Nicaraguan words that die at the border; what they cover",
+  "beat": "You try to translate a word for somebody at home and cannot."
+ },
+ {
+  "id": "p7-10",
+  "phase": 7,
+  "title": "Lo que no se dice",
+  "desc": "Silence as content",
+  "spanish": "implicature; what a pause carries; incomplete sentences",
+  "nicaragua": "When not finishing a sentence is the polite thing",
+  "beat": "Somebody stops mid-sentence and you understand the rest."
+ },
+ {
+  "id": "p7-11",
+  "phase": 7,
+  "title": "La bulla",
+  "desc": "Noise, and living inside it",
+  "spanish": "sound vocabulary; complaint that is not complaint",
+  "nicaragua": "Volume as normal; music, dogs, church, the neighbour's speaker",
+  "beat": "You realise the noise stopped bothering you some months ago."
+ },
+ {
+  "id": "p7-12",
+  "phase": 7,
+  "title": "Ideay, y vos que",
+  "desc": "Being asked what you think, and meaning it",
+  "spanish": "opinion at length; qualification; building an argument aloud",
+  "nicaragua": "When a foreigner's opinion is actually wanted",
+  "beat": "You are asked about Nicaragua and answer as somebody who lives there."
+ },
+ {
+  "id": "p7-13",
+  "phase": 7,
+  "title": "Los amigos de siempre",
+  "desc": "Friendship over years",
+  "spanish": "long-term time; desde hace, ya van, todos estos anos",
+  "nicaragua": "How old friendships work here; obligations that never expire",
+  "beat": "You count the years and there are more than you expected."
+ },
+ {
+  "id": "p7-14",
+  "phase": 7,
+  "title": "Volviendo de afuera",
+  "desc": "Coming back from somewhere else",
+  "spanish": "return and comparison; alla vs aca; the imperfect of another life",
+  "nicaragua": "What returning Nicaraguans notice; what you notice now",
+  "beat": "You land, smell the air, and something in your chest settles."
+ },
+ {
+  "id": "p7-15",
+  "phase": 7,
+  "title": "Explicandole a otro chele",
+  "desc": "Teaching somebody who just arrived",
+  "spanish": "explanation; instruction; the impersonal se; everything recycled",
+  "nicaragua": "Seeing the country through new eyes again",
+  "beat": "You catch yourself saying aqui se hace asi."
+ },
+ {
+  "id": "p7-16",
+  "phase": 7,
+  "title": "Mi pais y este pais",
+  "desc": "Belonging to two places badly",
+  "spanish": "complex comparison; concession; aunque, sin embargo, a pesar de",
+  "nicaragua": "What it costs to have a foot in two countries",
+  "beat": "You have no clean answer to where are you from and stop wanting one."
+ },
+ {
+  "id": "p7-17",
+  "phase": 7,
+  "title": "Hablas como de aqui",
+  "desc": "Somebody says it plainly",
+  "spanish": "the whole language, unmarked",
+  "nicaragua": "What sounding Nicaraguan actually means to Nicaraguans",
+  "beat": "A stranger does not ask where you are from, and that is the whole moment."
+ },
+ {
+  "id": "p7-18",
+  "phase": 7,
+  "title": "Ya sos nica",
+  "desc": "The last one",
+  "spanish": "everything, recycled and unremarked",
+  "nicaragua": "What the country asks of the people who stay",
+  "beat": "Nobody explains anything to you any more, and you do not need them to."
+ }
+]
