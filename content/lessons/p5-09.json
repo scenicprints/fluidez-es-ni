@@ -1,0 +1,262 @@
+{
+ "id": "p5-09",
+ "title": "El año viejo",
+ "desc": "Burning the year",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "muñeco",
+  "pólvora",
+  "uva",
+  "medianoche",
+  "quemar",
+  "cada",
+  "deseo"
+ ],
+ "sn": [
+  {
+   "s": "El treinta y uno de diciembre amanece distinto.",
+   "e": "The thirty-first of December dawns differently."
+  },
+  {
+   "s": "Roberto llega a la casa temprano con una idea.",
+   "e": "Roberto arrives at the house early with an idea."
+  },
+  {
+   "s": "Me dice que hay que hacer el muñeco.",
+   "e": "He tells me we have to make the dummy."
+  },
+  {
+   "s": "Yo pregunto qué muñeco es ese.",
+   "e": "I ask what dummy that is."
+  },
+  {
+   "s": "Él me mira como si yo hubiera nacido ayer.",
+   "e": "He looks at me as if I were born yesterday."
+  },
+  {
+   "s": "El muñeco del año viejo, dice él.",
+   "e": "The old-year dummy, he says."
+  },
+  {
+   "s": "Todas las casas hacen uno para el treinta y uno.",
+   "e": "Every house makes one for the thirty-first."
+  },
+  {
+   "s": "Un muñeco de ropa vieja lleno de papel.",
+   "e": "A dummy of old clothes stuffed with paper."
+  },
+  {
+   "s": "Se sienta en la acera y se quema a medianoche.",
+   "e": "It sits on the pavement and is burned at midnight."
+  },
+  {
+   "s": "Yo pregunto si eso es en serio.",
+   "e": "I ask if that is serious."
+  },
+  {
+   "s": "Roberto dice que es lo más serio del año.",
+   "e": "Roberto says it is the most serious thing of the year."
+  },
+  {
+   "s": "Buscamos ropa vieja en toda la casa.",
+   "e": "We look for old clothes all over the house."
+  },
+  {
+   "s": "Lucía saca una camisa mía que ella odia.",
+   "e": "Lucía brings out a shirt of mine that she hates."
+  },
+  {
+   "s": "Yo digo que esa camisa todavía sirve.",
+   "e": "I say that shirt is still fine."
+  },
+  {
+   "s": "Ella dice que por eso mismo la va a quemar.",
+   "e": "She says that is exactly why she is going to burn it."
+  },
+  {
+   "s": "Llenamos la camisa y el pantalón de papel.",
+   "e": "We stuff the shirt and the trousers with paper."
+  },
+  {
+   "s": "Le hacemos una cabeza con una bolsa.",
+   "e": "We make it a head out of a bag."
+  },
+  {
+   "s": "Roberto le pinta una cara de hombre viejo.",
+   "e": "Roberto paints it the face of an old man."
+  },
+  {
+   "s": "El muñeco queda sentado en una silla afuera.",
+   "e": "The dummy ends up sitting on a chair outside."
+  },
+  {
+   "s": "Toda la cuadra tiene su muñeco en la acera.",
+   "e": "The whole block has its dummy on the pavement."
+  },
+  {
+   "s": "Salgo a mirarlos en la tarde.",
+   "e": "I go out to look at them in the afternoon."
+  },
+  {
+   "s": "Cada muñeco es distinto y cada uno es alguien.",
+   "e": "Each dummy is different and each one is somebody."
+  },
+  {
+   "s": "Hay un muñeco vestido de policía.",
+   "e": "There is a dummy dressed as a policeman."
+  },
+  {
+   "s": "Hay uno vestido de jefe con corbata.",
+   "e": "There is one dressed as a boss with a tie."
+  },
+  {
+   "s": "Doña Chepa hizo el suyo con un letrero.",
+   "e": "Doña Chepa made hers with a sign."
+  },
+  {
+   "s": "El letrero dice el nombre de un año malo.",
+   "e": "The sign says the name of a bad year."
+  },
+  {
+   "s": "Roberto me explica el sentido de todo esto.",
+   "e": "Roberto explains the meaning of all this to me."
+  },
+  {
+   "s": "El muñeco es el año que se va.",
+   "e": "The dummy is the year that is leaving."
+  },
+  {
+   "s": "Todo lo malo del año se le mete adentro.",
+   "e": "Everything bad from the year is stuffed inside it."
+  },
+  {
+   "s": "Y a medianoche se quema con el año.",
+   "e": "And at midnight it is burned along with the year."
+  },
+  {
+   "s": "Al día siguiente uno empieza limpio.",
+   "e": "The next day you start clean."
+  },
+  {
+   "s": "En la noche Lucía saca las uvas.",
+   "e": "At night Lucía takes out the grapes."
+  },
+  {
+   "s": "Doce uvas para cada persona de la casa.",
+   "e": "Twelve grapes for each person in the house."
+  },
+  {
+   "s": "Una uva por cada mes del año.",
+   "e": "One grape for each month of the year."
+  },
+  {
+   "s": "Se come una uva por cada campanada.",
+   "e": "You eat one grape for each stroke of the bell."
+  },
+  {
+   "s": "Y con cada uva se pide un deseo.",
+   "e": "And with each grape you make a wish."
+  },
+  {
+   "s": "Yo digo que doce deseos son muchos deseos.",
+   "e": "I say twelve wishes are a lot of wishes."
+  },
+  {
+   "s": "Lucía dice que un año es largo.",
+   "e": "Lucía says a year is long."
+  },
+  {
+   "s": "Faltan diez minutos para medianoche.",
+   "e": "It is ten minutes to midnight."
+  },
+  {
+   "s": "Nadie se duerme antes de medianoche esta noche.",
+   "e": "Nobody goes to sleep before midnight tonight."
+  },
+  {
+   "s": "La pólvora ya empezó en el barrio de al lado.",
+   "e": "The fireworks have already started in the next barrio."
+  },
+  {
+   "s": "La pólvora aquí no es como en otros lados.",
+   "e": "Fireworks here are not like in other places."
+  },
+  {
+   "s": "No es bonita, es ruido puro.",
+   "e": "They are not pretty, they are pure noise."
+  },
+  {
+   "s": "El niño se despierta con la pólvora y llora.",
+   "e": "The baby wakes up with the fireworks and cries."
+  },
+  {
+   "s": "Lucía lo carga y lo saca al patio.",
+   "e": "Lucía picks him up and takes him out to the yard."
+  },
+  {
+   "s": "A medianoche la pólvora se vuelve una sola cosa.",
+   "e": "At midnight the fireworks become one single thing."
+  },
+  {
+   "s": "No se oye nada más en toda Managua.",
+   "e": "Nothing else can be heard in all Managua."
+  },
+  {
+   "s": "Yo como mis doce uvas muy rápido.",
+   "e": "I eat my twelve grapes very fast."
+  },
+  {
+   "s": "Y no alcanzo a pedir ningún deseo.",
+   "e": "And I do not manage to make a single wish."
+  },
+  {
+   "s": "Lucía se ríe y me dice que perdí el año.",
+   "e": "Lucía laughs and tells me I lost the year."
+  },
+  {
+   "s": "Salimos a la acera con un fósforo.",
+   "e": "We go out to the pavement with a match."
+  },
+  {
+   "s": "El muñeco se quema en menos de un minuto.",
+   "e": "The dummy burns in less than a minute."
+  },
+  {
+   "s": "Toda la cuadra quema el suyo al mismo tiempo.",
+   "e": "The whole block burns theirs at the same time."
+  },
+  {
+   "s": "Veinte fuegos en una calle de tierra.",
+   "e": "Twenty fires on one dirt street."
+  },
+  {
+   "s": "La gente se abraza entre el humo y la pólvora.",
+   "e": "People hug each other between the smoke and the fireworks."
+  },
+  {
+   "s": "Don Beto me abraza y me desea buen año.",
+   "e": "Don Beto hugs me and wishes me a good year."
+  },
+  {
+   "s": "Mi camisa se quema con el año adentro.",
+   "e": "My shirt burns with the year inside it."
+  },
+  {
+   "s": "Lucía me dice al oído cuál fue su deseo.",
+   "e": "Lucía says in my ear what her wish was."
+  },
+  {
+   "s": "No lo escribo aquí porque un deseo dicho no se cumple.",
+   "e": "I do not write it here because a wish spoken does not come true."
+  },
+  {
+   "s": "Al día siguiente la calle amanece con manchas negras.",
+   "e": "The next day the street dawns with black marks."
+  },
+  {
+   "s": "Veinte manchas de un año que ya no está.",
+   "e": "Twenty marks of a year that is no longer there."
+  }
+ ]
+}

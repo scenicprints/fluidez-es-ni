@@ -1,0 +1,279 @@
+{
+ "id": "p5-03",
+ "title": "El doble sentido",
+ "desc": "Nothing means only one thing",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "malicia",
+  "inocente",
+  "picardía",
+  "carcajada",
+  "doble",
+  "sentido",
+  "mesa",
+  "frase"
+ ],
+ "sn": [
+  {
+   "s": "Estamos comiendo en el patio de doña Elena.",
+   "e": "We are eating in doña Elena's yard."
+  },
+  {
+   "s": "Somos como diez personas alrededor de la mesa.",
+   "e": "We are about ten people around the table."
+  },
+  {
+   "s": "Están Julio, Chino, Lucía, el niño y las tías.",
+   "e": "Julio, Chino, Lucía, the baby and the aunts are there."
+  },
+  {
+   "s": "Yo estoy contando algo del trabajo.",
+   "e": "I am telling something about work."
+  },
+  {
+   "s": "Una cosa aburrida sobre una máquina.",
+   "e": "A boring thing about a machine."
+  },
+  {
+   "s": "Digo que la máquina no me quiso agarrar el tubo.",
+   "e": "I say the machine would not take the pipe for me."
+  },
+  {
+   "s": "Y la mesa entera suelta una carcajada.",
+   "e": "And the whole table lets out a roar of laughter."
+  },
+  {
+   "s": "No una risa, una carcajada de las grandes.",
+   "e": "Not a laugh, a proper big roar."
+  },
+  {
+   "s": "Chino casi se atraganta con el arroz.",
+   "e": "Chino nearly chokes on his rice."
+  },
+  {
+   "s": "Yo me quedo con el tenedor en el aire.",
+   "e": "I sit there with my fork in the air."
+  },
+  {
+   "s": "Me siento raro, como cuando llegué al país.",
+   "e": "I feel strange, like when I first arrived in the country."
+  },
+  {
+   "s": "No dije nada gracioso, digo yo.",
+   "e": "I did not say anything funny, I say."
+  },
+  {
+   "s": "Y eso los hace reír todavía más.",
+   "e": "And that makes them laugh even harder."
+  },
+  {
+   "s": "Lucía me mira con lástima y no explica nada.",
+   "e": "Lucía looks at me with pity and explains nothing."
+  },
+  {
+   "s": "Julio se limpia los ojos de tanta carcajada.",
+   "e": "Julio wipes his eyes from laughing so hard."
+  },
+  {
+   "s": "Al final es doña Elena la que me explica.",
+   "e": "In the end it is doña Elena who explains it to me."
+  },
+  {
+   "s": "Ella dice que aquí nada significa una sola cosa.",
+   "e": "She says that here nothing means only one thing."
+  },
+  {
+   "s": "Toda palabra tiene su doble sentido.",
+   "e": "Every word has its double meaning."
+  },
+  {
+   "s": "Y la mitad de la gente lo está buscando.",
+   "e": "And half the people are looking for it."
+  },
+  {
+   "s": "El doble sentido no está en la palabra.",
+   "e": "The double meaning is not in the word."
+  },
+  {
+   "s": "Está en el que escucha.",
+   "e": "It is in the one listening."
+  },
+  {
+   "s": "Una frase sola puede tener doble fondo.",
+   "e": "A single sentence can have a double bottom."
+  },
+  {
+   "s": "Y el doble fondo casi nunca es el limpio.",
+   "e": "And the double bottom is almost never the clean one."
+  },
+  {
+   "s": "Yo dije una frase inocente sobre un tubo.",
+   "e": "I said an innocent sentence about a pipe."
+  },
+  {
+   "s": "La frase era inocente de verdad.",
+   "e": "The sentence really was innocent."
+  },
+  {
+   "s": "Pero la mesa le puso otro sentido.",
+   "e": "But the table gave it another meaning."
+  },
+  {
+   "s": "Y ese otro sentido no era inocente.",
+   "e": "And that other meaning was not innocent."
+  },
+  {
+   "s": "Entonces pregunto cómo se evita eso.",
+   "e": "So I ask how you avoid that."
+  },
+  {
+   "s": "Doña Elena dice que no se evita.",
+   "e": "Doña Elena says you do not avoid it."
+  },
+  {
+   "s": "Que uno aprende a oírlo antes de hablar.",
+   "e": "That you learn to hear it before you speak."
+  },
+  {
+   "s": "Julio me da la regla del barrio.",
+   "e": "Julio gives me the rule of the barrio."
+  },
+  {
+   "s": "Si una palabra puede tener malicia, va a tenerla.",
+   "e": "If a word can carry a dirty sense, it will."
+  },
+  {
+   "s": "La malicia no la pone el que habla.",
+   "e": "The dirty sense is not put there by the speaker."
+  },
+  {
+   "s": "La malicia la pone el que oye.",
+   "e": "It is put there by the one who hears."
+  },
+  {
+   "s": "Y aquí todos oyen con malicia, dice él.",
+   "e": "And here everybody hears with a dirty ear, he says."
+  },
+  {
+   "s": "No es grosero, es picardía.",
+   "e": "It is not rude, it is mischief."
+  },
+  {
+   "s": "La picardía es un juego, no un insulto.",
+   "e": "Mischief is a game, not an insult."
+  },
+  {
+   "s": "Nadie quiere ofender con la picardía.",
+   "e": "Nobody wants to offend with mischief."
+  },
+  {
+   "s": "La picardía se hace entre gente de confianza.",
+   "e": "Mischief is done among people who trust each other."
+  },
+  {
+   "s": "Solo quieren ver si uno se da cuenta.",
+   "e": "They just want to see if you catch it."
+  },
+  {
+   "s": "Chino me pone una prueba ahí mismo.",
+   "e": "Chino puts me to the test right there."
+  },
+  {
+   "s": "Me dice una frase de la cocina, muy normal.",
+   "e": "He says a sentence about the kitchen, very ordinary."
+  },
+  {
+   "s": "Yo no me río porque no entiendo nada.",
+   "e": "I do not laugh because I understand nothing."
+  },
+  {
+   "s": "Él me la explica y me pongo rojo.",
+   "e": "He explains it to me and I go red."
+  },
+  {
+   "s": "Toda la mesa aplaude mi cara.",
+   "e": "The whole table applauds my face."
+  },
+  {
+   "s": "Con la cara roja ya estoy adentro del juego.",
+   "e": "With a red face I am already inside the game."
+  },
+  {
+   "s": "Doña Elena dice que ese es el primer paso.",
+   "e": "Doña Elena says that is the first step."
+  },
+  {
+   "s": "Primero uno no oye la malicia.",
+   "e": "First you do not hear the dirty sense."
+  },
+  {
+   "s": "Después la oye pero tarde.",
+   "e": "Then you hear it but late."
+  },
+  {
+   "s": "Después la oye a tiempo y suelta la carcajada.",
+   "e": "Then you hear it in time and let out the roar."
+  },
+  {
+   "s": "Y al final uno la pone.",
+   "e": "And in the end you put it there yourself."
+  },
+  {
+   "s": "Uno deja de ser el inocente de la mesa.",
+   "e": "You stop being the innocent one at the table."
+  },
+  {
+   "s": "Esa noche pruebo el último paso.",
+   "e": "That night I try the last step."
+  },
+  {
+   "s": "Digo una frase con doble sentido a propósito.",
+   "e": "I say a sentence with a double meaning on purpose."
+  },
+  {
+   "s": "Una frase inocente sobre el pan del desayuno.",
+   "e": "An innocent sentence about the breakfast bread."
+  },
+  {
+   "s": "Lucía deja de lavar los platos.",
+   "e": "Lucía stops washing the dishes."
+  },
+  {
+   "s": "Se voltea despacio y me mira.",
+   "e": "She turns around slowly and looks at me."
+  },
+  {
+   "s": "Dice que quién me enseñó eso.",
+   "e": "She asks who taught me that."
+  },
+  {
+   "s": "Yo digo que su familia entera.",
+   "e": "I say her entire family."
+  },
+  {
+   "s": "Ella se ríe con una carcajada igual a la de Julio.",
+   "e": "She laughs with a roar just like Julio's."
+  },
+  {
+   "s": "Y me dice que ya no me puede dejar solo con ellos.",
+   "e": "And she tells me she can no longer leave me alone with them."
+  },
+  {
+   "s": "Pero en su risa hay orgullo.",
+   "e": "But there is pride in her laugh."
+  },
+  {
+   "s": "La picardía no se enseña en la escuela.",
+   "e": "Mischief is not taught at school."
+  },
+  {
+   "s": "Se aprende en una mesa con diez personas.",
+   "e": "It is learned at a table with ten people."
+  },
+  {
+   "s": "Y se aprende poniendo la cara roja una vez.",
+   "e": "And it is learned by going red in the face once."
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "id": "p5-04",
+ "title": "Vacilando",
+ "desc": "Mockery as affection, at speed",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "vacilón",
+  "acertar",
+  "aplauso",
+  "gracia",
+  "devolver",
+  "jugar",
+  "tarde",
+  "banca",
+  "vacilar"
+ ],
+ "sn": [
+  {
+   "s": "Los domingos jugamos béisbol en el campo del barrio.",
+   "e": "On Sundays we play baseball in the barrio field."
+  },
+  {
+   "s": "No jugamos bien, pero jugamos toda la tarde.",
+   "e": "We do not play well, but we play all afternoon."
+  },
+  {
+   "s": "Lo mejor del domingo no es el juego.",
+   "e": "The best part of Sunday is not the game."
+  },
+  {
+   "s": "Lo mejor es el vacilón de la banca.",
+   "e": "The best part is the joking on the bench."
+  },
+  {
+   "s": "El vacilón empieza antes que el partido.",
+   "e": "The joking starts before the game does."
+  },
+  {
+   "s": "Y sigue mucho después de que termina.",
+   "e": "And it goes on long after it finishes."
+  },
+  {
+   "s": "Aquí el vacilón es una manera de quererse.",
+   "e": "Here the joking is a way of caring about each other."
+  },
+  {
+   "s": "Al que nadie vacila es al que nadie conoce.",
+   "e": "The one nobody teases is the one nobody knows."
+  },
+  {
+   "s": "A mí me vacilan desde el primer domingo.",
+   "e": "They have teased me since the first Sunday."
+  },
+  {
+   "s": "Me dicen chele, me dicen perdido, me dicen turista.",
+   "e": "They call me chele, they call me perdido, they call me tourist."
+  },
+  {
+   "s": "Durante un año yo me quedé callado.",
+   "e": "For a year I stayed quiet."
+  },
+  {
+   "s": "Me reía con ellos y me callaba.",
+   "e": "I laughed with them and kept quiet."
+  },
+  {
+   "s": "Callarse no es malo al principio.",
+   "e": "Keeping quiet is not bad at the start."
+  },
+  {
+   "s": "Callarse un año es otra cosa.",
+   "e": "Keeping quiet for a year is another thing."
+  },
+  {
+   "s": "Pero si uno se calla siempre, queda afuera.",
+   "e": "But if you always keep quiet, you stay outside."
+  },
+  {
+   "s": "Yo me quedé afuera por callarme.",
+   "e": "I stayed outside because I kept quiet."
+  },
+  {
+   "s": "Marcos me lo dice un domingo en la banca.",
+   "e": "Marcos tells me so one Sunday on the bench."
+  },
+  {
+   "s": "Me dice que tengo que devolver el golpe.",
+   "e": "He tells me I have to give it back."
+  },
+  {
+   "s": "No devolver con rabia, devolver con gracia.",
+   "e": "Not give it back with anger, give it back with wit."
+  },
+  {
+   "s": "La gracia es lo único que importa.",
+   "e": "The wit is the only thing that matters."
+  },
+  {
+   "s": "Si uno devuelve con rabia, se acabó el juego.",
+   "e": "If you give it back with anger, the game is over."
+  },
+  {
+   "s": "Si uno devuelve con gracia, ganó la ronda.",
+   "e": "If you give it back with wit, you won the round."
+  },
+  {
+   "s": "Marcos me explica que hay fórmulas fijas.",
+   "e": "Marcos explains that there are set formulas."
+  },
+  {
+   "s": "Uno no inventa nada, uno usa lo que ya existe.",
+   "e": "You do not invent anything, you use what already exists."
+  },
+  {
+   "s": "Sos más lento que un domingo, por ejemplo.",
+   "e": "You are slower than a Sunday, for example."
+  },
+  {
+   "s": "Ese está más perdido que yo, por ejemplo.",
+   "e": "That one is more lost than me, for example."
+  },
+  {
+   "s": "Las fórmulas se cambian y se usan otra vez.",
+   "e": "The formulas get changed and used again."
+  },
+  {
+   "s": "Lo difícil no es la frase, es acertar el momento.",
+   "e": "The hard part is not the sentence, it is the timing."
+  },
+  {
+   "s": "Hay que acertar en el segundo justo.",
+   "e": "You have to land it at the exact second."
+  },
+  {
+   "s": "Si uno acierta tarde, no tiene gracia.",
+   "e": "If you land it late, it has no wit."
+  },
+  {
+   "s": "Un vacilón tarde es peor que ninguno.",
+   "e": "A late joke is worse than none."
+  },
+  {
+   "s": "Practico solo, en la casa, como un tonto.",
+   "e": "I practise alone, at home, like a fool."
+  },
+  {
+   "s": "Lucía me oye hablando solo mientras lava la ropa.",
+   "e": "Lucía hears me talking to myself while she washes the clothes."
+  },
+  {
+   "s": "Le explico y ella no dice nada, pero me ayuda.",
+   "e": "I explain and she says nothing, but she helps me."
+  },
+  {
+   "s": "Me tira frases y yo tengo que devolverlas.",
+   "e": "She throws me lines and I have to give them back."
+  },
+  {
+   "s": "Al principio devuelvo todo tarde y feo.",
+   "e": "At first I give everything back late and badly."
+  },
+  {
+   "s": "Después empiezo a acertar una de cada cinco.",
+   "e": "Then I start landing one in five."
+  },
+  {
+   "s": "El domingo siguiente estoy listo en la banca.",
+   "e": "The following Sunday I am ready on the bench."
+  },
+  {
+   "s": "Chino llega y me dice que corro como abuela.",
+   "e": "Chino arrives and says I run like a grandmother."
+  },
+  {
+   "s": "Yo le digo que su abuela me gana corriendo.",
+   "e": "I tell him his grandmother beats me at running."
+  },
+  {
+   "s": "Y que por eso él no la invita a jugar.",
+   "e": "And that is why he does not invite her to play."
+  },
+  {
+   "s": "La banca entera se cae de la risa.",
+   "e": "The whole bench falls over laughing."
+  },
+  {
+   "s": "Es un aplauso de verdad, con las manos.",
+   "e": "It is a real round of applause, with hands."
+  },
+  {
+   "s": "Nunca había oído un aplauso así por mí.",
+   "e": "I had never heard applause like that for me."
+  },
+  {
+   "s": "En un año entero no gané un solo aplauso.",
+   "e": "In a whole year I did not win a single round of applause."
+  },
+  {
+   "s": "Y este aplauso no es por jugar bien.",
+   "e": "And this applause is not for playing well."
+  },
+  {
+   "s": "Chino se ríe más que nadie y me da la mano.",
+   "e": "Chino laughs harder than anyone and shakes my hand."
+  },
+  {
+   "s": "Eso es lo raro del vacilón de aquí.",
+   "e": "That is the strange thing about the joking here."
+  },
+  {
+   "s": "El que pierde la ronda aplaude también.",
+   "e": "The one who loses the round applauds as well."
+  },
+  {
+   "s": "Marcos me dice que acerté el momento.",
+   "e": "Marcos tells me I got the timing right."
+  },
+  {
+   "s": "Y que la frase no era gran cosa.",
+   "e": "And that the line itself was nothing special."
+  },
+  {
+   "s": "Pero que el momento fue perfecto.",
+   "e": "But that the timing was perfect."
+  },
+  {
+   "s": "Después me explica dónde está la línea.",
+   "e": "Then he explains to me where the line is."
+  },
+  {
+   "s": "No se vacila con la madre de nadie.",
+   "e": "You do not joke about anybody's mother."
+  },
+  {
+   "s": "No se vacila con la plata que falta en la casa.",
+   "e": "You do not joke about money missing at home."
+  },
+  {
+   "s": "No se vacila con un muerto reciente.",
+   "e": "You do not joke about somebody recently dead."
+  },
+  {
+   "s": "Todo lo demás está abierto.",
+   "e": "Everything else is open."
+  },
+  {
+   "s": "Y si uno se pasa, se calla y pide perdón rápido.",
+   "e": "And if you go too far, you shut up and apologise fast."
+  },
+  {
+   "s": "Callarse a tiempo también es parte del juego.",
+   "e": "Shutting up in time is also part of the game."
+  },
+  {
+   "s": "Esa noche camino a la casa contento.",
+   "e": "That night I walk home happy."
+  },
+  {
+   "s": "No por el aplauso de la banca.",
+   "e": "Not because of the bench's applause."
+  },
+  {
+   "s": "Sino porque el vacilón ya me sale sin pensar.",
+   "e": "But because the joking comes out now without thinking."
+  },
+  {
+   "s": "Un año callado y una tarde de gracia.",
+   "e": "A year of keeping quiet and one afternoon of wit."
+  },
+  {
+   "s": "Así es como uno entra.",
+   "e": "That is how you get in."
+  }
+ ]
+}

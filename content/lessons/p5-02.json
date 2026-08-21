@@ -1,0 +1,290 @@
+{
+ "id": "p5-02",
+ "title": "Hablan rapidísimo",
+ "desc": "Fast speech, and what disappears in it",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "sonido",
+  "velocidad",
+  "tragarse",
+  "sílaba",
+  "letra",
+  "acento",
+  "entiendo"
+ ],
+ "sn": [
+  {
+   "s": "Hay algo que me molesta desde hace meses.",
+   "e": "There is something that has bothered me for months."
+  },
+  {
+   "s": "Yo leo bien el español.",
+   "e": "I read Spanish well."
+  },
+  {
+   "s": "Leo el periódico entero sin problema.",
+   "e": "I read the whole newspaper without a problem."
+  },
+  {
+   "s": "Pero cuando la gente habla, entiendo la mitad.",
+   "e": "But when people talk, I understand half."
+  },
+  {
+   "s": "Al principio pensaba que era la velocidad.",
+   "e": "At first I thought it was the speed."
+  },
+  {
+   "s": "Que hablaban rápido y nada más.",
+   "e": "That they talked fast and nothing more."
+  },
+  {
+   "s": "Pero la velocidad no explica todo.",
+   "e": "But speed does not explain everything."
+  },
+  {
+   "s": "La velocidad de doña Chepa es la de un bus.",
+   "e": "Doña Chepa's speed is that of a bus."
+  },
+  {
+   "s": "Y a doña Chepa tampoco le entiendo bien.",
+   "e": "And doña Chepa I do not understand well either."
+  },
+  {
+   "s": "Marcos me habla despacio y tampoco entiendo.",
+   "e": "Marcos talks to me slowly and I still do not understand."
+  },
+  {
+   "s": "Un día le pido que repita una frase.",
+   "e": "One day I ask him to repeat a sentence."
+  },
+  {
+   "s": "Él la repite igual de rápido.",
+   "e": "He repeats it just as fast."
+  },
+  {
+   "s": "Le pido que la repita otra vez, mucho más despacio.",
+   "e": "I ask him to repeat it again, much more slowly."
+  },
+  {
+   "s": "Y ahí, despacio, la frase es otra.",
+   "e": "And there, slowly, the sentence is a different one."
+  },
+  {
+   "s": "Lo que él dice rápido no tiene los mismos sonidos.",
+   "e": "What he says fast does not have the same sounds."
+  },
+  {
+   "s": "Se traga letras enteras.",
+   "e": "He swallows whole letters."
+  },
+  {
+   "s": "Se traga la ese del final de las palabras.",
+   "e": "He swallows the s at the end of words."
+  },
+  {
+   "s": "Los amigos suena como loh amigoh.",
+   "e": "Los amigos sounds like loh amigoh."
+  },
+  {
+   "s": "Vamos pues suena como vamoh pueh.",
+   "e": "Vamos pues sounds like vamoh pueh."
+  },
+  {
+   "s": "La letra no desaparece del todo.",
+   "e": "The letter does not disappear entirely."
+  },
+  {
+   "s": "Queda un aire, un sonido suave al final.",
+   "e": "An air is left, a soft sound at the end."
+  },
+  {
+   "s": "Pero si uno busca la letra entera, no la encuentra.",
+   "e": "But if you look for the whole letter, you do not find it."
+  },
+  {
+   "s": "Y por eso no reconozco palabras que sí conozco.",
+   "e": "And that is why I do not recognise words I do know."
+  },
+  {
+   "s": "Marcos se ríe cuando le explico esto.",
+   "e": "Marcos laughs when I explain this to him."
+  },
+  {
+   "s": "Él nunca lo había pensado en su vida.",
+   "e": "He had never thought about it in his life."
+  },
+  {
+   "s": "Para él hay una sola manera de hablar.",
+   "e": "For him there is only one way of talking."
+  },
+  {
+   "s": "Después descubro otra letra que se traga.",
+   "e": "Afterwards I discover another letter that gets swallowed."
+  },
+  {
+   "s": "La de del medio de algunas palabras.",
+   "e": "The d in the middle of some words."
+  },
+  {
+   "s": "Colorado suena colorao.",
+   "e": "Colorado sounds like colorao."
+  },
+  {
+   "s": "Pescado suena pescao.",
+   "e": "Pescado sounds like pescao."
+  },
+  {
+   "s": "Cansado suena cansao.",
+   "e": "Cansado sounds like cansao."
+  },
+  {
+   "s": "Todas las palabras que terminan en ado hacen lo mismo.",
+   "e": "All the words that end in ado do the same thing."
+  },
+  {
+   "s": "Y no es gente sin educación.",
+   "e": "And it is not people without education."
+  },
+  {
+   "s": "Lo hace el jefe y lo hace el doctor.",
+   "e": "The boss does it and the doctor does it."
+  },
+  {
+   "s": "Lo hace la maestra de la escuela.",
+   "e": "The schoolteacher does it."
+  },
+  {
+   "s": "Es el acento del país entero.",
+   "e": "It is the accent of the whole country."
+  },
+  {
+   "s": "El acento no es un error de nadie.",
+   "e": "The accent is nobody's mistake."
+  },
+  {
+   "s": "El acento es la lengua, no un descuido de ella.",
+   "e": "The accent is the language, not a slip in it."
+  },
+  {
+   "s": "Y este acento se traga cosas desde hace siglos.",
+   "e": "And this accent has been swallowing things for centuries."
+  },
+  {
+   "s": "Después viene la velocidad de verdad.",
+   "e": "Then comes the real speed."
+  },
+  {
+   "s": "Dos palabras se pegan y suenan como una.",
+   "e": "Two words stick together and sound like one."
+  },
+  {
+   "s": "Para acá se vuelve pacá.",
+   "e": "Para acá becomes pacá."
+  },
+  {
+   "s": "Para allá se vuelve pallá.",
+   "e": "Para allá becomes pallá."
+  },
+  {
+   "s": "Cada sílaba que se puede quitar, se quita.",
+   "e": "Every syllable that can be dropped is dropped."
+  },
+  {
+   "s": "La velocidad se gana quitando, no corriendo.",
+   "e": "The speed is won by dropping, not by rushing."
+  },
+  {
+   "s": "Me pongo a contar sílabas cuando escucho.",
+   "e": "I start counting syllables when I listen."
+  },
+  {
+   "s": "Una frase escrita tiene doce sílabas.",
+   "e": "A written sentence has twelve syllables."
+  },
+  {
+   "s": "La misma frase hablada tiene ocho sílabas.",
+   "e": "The same spoken sentence has eight syllables."
+  },
+  {
+   "s": "Faltan cuatro sílabas y nadie las echa de menos.",
+   "e": "Four syllables are missing and nobody misses them."
+  },
+  {
+   "s": "Entonces entiendo el problema entero.",
+   "e": "Then I understand the whole problem."
+  },
+  {
+   "s": "Yo aprendí el español escrito.",
+   "e": "I learned written Spanish."
+  },
+  {
+   "s": "Y ellos hablan otro, que se parece al mío.",
+   "e": "And they speak another one, which resembles mine."
+  },
+  {
+   "s": "No es que hablen mal ni demasiado rápido.",
+   "e": "It is not that they talk badly or too fast."
+  },
+  {
+   "s": "Es que hablan un idioma que yo no estudié.",
+   "e": "It is that they speak a language I did not study."
+  },
+  {
+   "s": "Le pregunto a Lucía si ella oye la ese.",
+   "e": "I ask Lucía if she hears the s."
+  },
+  {
+   "s": "Ella dice que sí, que la oye clarita.",
+   "e": "She says yes, that she hears it clear as day."
+  },
+  {
+   "s": "Yo no oigo ningún sonido ahí.",
+   "e": "I do not hear any sound there."
+  },
+  {
+   "s": "Ella oye una letra que para mí no existe.",
+   "e": "She hears a letter that for me does not exist."
+  },
+  {
+   "s": "Le pregunto si ella sabe que se traga la ese.",
+   "e": "I ask her if she knows she swallows the s."
+  },
+  {
+   "s": "Me dice que ella no se traga nada.",
+   "e": "She tells me she does not swallow anything."
+  },
+  {
+   "s": "Y el acento de ella es el más fuerte de la casa.",
+   "e": "And her accent is the strongest in the house."
+  },
+  {
+   "s": "Desde ese día escucho de otra manera.",
+   "e": "From that day I listen differently."
+  },
+  {
+   "s": "Ya no busco la palabra que aprendí.",
+   "e": "I no longer look for the word I learned."
+  },
+  {
+   "s": "Busco el sonido que quedó de ella.",
+   "e": "I look for the sound left over from it."
+  },
+  {
+   "s": "Y de repente entiendo mucho más.",
+   "e": "And suddenly I understand a lot more."
+  },
+  {
+   "s": "No porque sepa más palabras que antes.",
+   "e": "Not because I know more words than before."
+  },
+  {
+   "s": "Sino porque dejé de esperar la palabra entera.",
+   "e": "But because I stopped waiting for the whole word."
+  },
+  {
+   "s": "El sonido basta, si uno lo conoce.",
+   "e": "The sound is enough, if you know it."
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "id": "p5-01",
+ "title": "Qué tuani",
+ "desc": "Slang that dates you if you get it wrong",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "tuani",
+  "deacachimba",
+  "chocho",
+  "jerga",
+  "moda",
+  "usar"
+ ],
+ "sn": [
+  {
+   "s": "Roberto ya tiene diecisiete años.",
+   "e": "Roberto is seventeen now."
+  },
+  {
+   "s": "Habla distinto a como hablaba de chavalo.",
+   "e": "He talks differently from how he talked as a kid."
+  },
+  {
+   "s": "Ahora usa una jerga que yo no conozco.",
+   "e": "Now he uses a slang I do not know."
+  },
+  {
+   "s": "Toda esa jerga viene de sus amigos del barrio.",
+   "e": "All that slang comes from his friends in the barrio."
+  },
+  {
+   "s": "Yo le pregunto qué significa cada palabra.",
+   "e": "I ask him what each word means."
+  },
+  {
+   "s": "Él se ríe y me explica despacio.",
+   "e": "He laughs and explains to me slowly."
+  },
+  {
+   "s": "Me dice que toda jerga tiene sus reglas.",
+   "e": "He tells me that all slang has its rules."
+  },
+  {
+   "s": "La primera palabra es tuani.",
+   "e": "The first word is tuani."
+  },
+  {
+   "s": "Tuani quiere decir bueno, bonito, agradable.",
+   "e": "Tuani means good, nice, pleasant."
+  },
+  {
+   "s": "Una camisa tuani, una fiesta tuani.",
+   "e": "A tuani shirt, a tuani party."
+  },
+  {
+   "s": "Todo lo que le gusta a él es tuani.",
+   "e": "Everything he likes is tuani."
+  },
+  {
+   "s": "La segunda es deacachimba.",
+   "e": "The second one is deacachimba."
+  },
+  {
+   "s": "Deacachimba es lo mismo pero mucho más fuerte.",
+   "e": "Deacachimba is the same but much stronger."
+  },
+  {
+   "s": "Si algo es deacachimba, es lo mejor del mundo.",
+   "e": "If something is deacachimba, it is the best in the world."
+  },
+  {
+   "s": "Y la tercera es chocho.",
+   "e": "And the third is chocho."
+  },
+  {
+   "s": "Chocho no significa nada por sí solo.",
+   "e": "Chocho does not mean anything on its own."
+  },
+  {
+   "s": "Chocho es lo que uno dice cuando algo lo sorprende.",
+   "e": "Chocho is what you say when something surprises you."
+  },
+  {
+   "s": "Chocho, qué caro, dice Roberto en la pulpería.",
+   "e": "Chocho, how expensive, says Roberto in the shop."
+  },
+  {
+   "s": "Chocho, qué calor, dice cuando sale el sol.",
+   "e": "Chocho, how hot, he says when the sun comes out."
+  },
+  {
+   "s": "Yo me aprendo las tres palabras en un día.",
+   "e": "I learn all three words in one day."
+  },
+  {
+   "s": "Y las empiezo a usar en todas partes.",
+   "e": "And I start using them everywhere."
+  },
+  {
+   "s": "Le digo a Marcos que su carro está tuani.",
+   "e": "I tell Marcos his car is tuani."
+  },
+  {
+   "s": "Marcos se ríe pero me entiende bien.",
+   "e": "Marcos laughs but he understands me fine."
+  },
+  {
+   "s": "Le digo a Lucía que la sopa está deacachimba.",
+   "e": "I tell Lucía the soup is deacachimba."
+  },
+  {
+   "s": "Ella me mira raro y no dice nada.",
+   "e": "She gives me a strange look and says nothing."
+  },
+  {
+   "s": "Yo no sé cómo suena eso en la boca de ella.",
+   "e": "I do not know how that sounds in her mouth."
+  },
+  {
+   "s": "Debí poner atención a esa mirada.",
+   "e": "I should have paid attention to that look."
+  },
+  {
+   "s": "El sábado voy a la pulpería de doña Chepa.",
+   "e": "On Saturday I go to doña Chepa's shop."
+  },
+  {
+   "s": "Hay una señora mayor comprando pan.",
+   "e": "There is an older lady buying bread."
+  },
+  {
+   "s": "Es la mamá de doña Carmen, que vino de Masaya.",
+   "e": "It is doña Carmen's mother, who came from Masaya."
+  },
+  {
+   "s": "Tiene como ochenta años y me saluda con cariño.",
+   "e": "She is about eighty and greets me warmly."
+  },
+  {
+   "s": "Me pregunta cómo me va aquí en Managua.",
+   "e": "She asks me how things are going for me here in Managua."
+  },
+  {
+   "s": "Yo quiero decirle que me va muy bien.",
+   "e": "I want to tell her things are going very well."
+  },
+  {
+   "s": "Pero digo que todo está deacachimba.",
+   "e": "But I say everything is deacachimba."
+  },
+  {
+   "s": "La pulpería se queda callada.",
+   "e": "The shop goes quiet."
+  },
+  {
+   "s": "Doña Chepa deja la bolsa en el mostrador.",
+   "e": "Doña Chepa puts the bag down on the counter."
+  },
+  {
+   "s": "La señora me mira y no se ríe.",
+   "e": "The lady looks at me and does not laugh."
+  },
+  {
+   "s": "Dice ah, qué bueno, mijo, y se va despacio.",
+   "e": "She says ah, how nice, son, and leaves slowly."
+  },
+  {
+   "s": "Yo me quedo ahí sin entender nada.",
+   "e": "I stand there not understanding a thing."
+  },
+  {
+   "s": "Doña Chepa espera a que la señora salga.",
+   "e": "Doña Chepa waits for the lady to leave."
+  },
+  {
+   "s": "Y entonces me explica cuál es el problema.",
+   "e": "And then she explains what the problem is."
+  },
+  {
+   "s": "La palabra no está mala, dice ella.",
+   "e": "The word is not a bad one, she says."
+  },
+  {
+   "s": "El problema es quién la dice y a quién.",
+   "e": "The problem is who says it and to whom."
+  },
+  {
+   "s": "Deacachimba suena bien entre chavalos.",
+   "e": "Deacachimba sounds fine among kids."
+  },
+  {
+   "s": "En la boca de un hombre casado suena distinto.",
+   "e": "In the mouth of a married man it sounds different."
+  },
+  {
+   "s": "Y delante de una señora de ochenta años suena peor.",
+   "e": "And in front of an eighty-year-old lady it sounds worse."
+  },
+  {
+   "s": "Tuani sí lo puedo usar, me dice ella.",
+   "e": "Tuani I can use, she tells me."
+  },
+  {
+   "s": "Tuani ya es de todos, hasta de los viejos.",
+   "e": "Tuani belongs to everyone now, even to old people."
+  },
+  {
+   "s": "Chocho también, si no lo grito en la iglesia.",
+   "e": "Chocho too, as long as I do not shout it in church."
+  },
+  {
+   "s": "Pero cada jerga tiene su edad y su lugar.",
+   "e": "But every slang has its age and its place."
+  },
+  {
+   "s": "Y cada moda de hablar pasa, como pasa la ropa.",
+   "e": "And every fashion of speaking passes, like clothes pass."
+  },
+  {
+   "s": "Doña Chepa me cuenta una moda de sus años.",
+   "e": "Doña Chepa tells me about a fashion from her day."
+  },
+  {
+   "s": "Una palabra que ya nadie usa y que suena vieja.",
+   "e": "A word nobody uses any more and that sounds old."
+  },
+  {
+   "s": "Si yo la digo hoy, todos saben mi edad.",
+   "e": "If I say it today, everybody knows my age."
+  },
+  {
+   "s": "Esa moda pasó hace treinta años, dice ella.",
+   "e": "That fashion passed thirty years ago, she says."
+  },
+  {
+   "s": "Una moda de palabras dura menos que una camisa.",
+   "e": "A fashion in words lasts less than a shirt."
+  },
+  {
+   "s": "Cada generación tiene su moda y la defiende.",
+   "e": "Every generation has its fashion and defends it."
+  },
+  {
+   "s": "La jerga dice de dónde viene uno.",
+   "e": "Slang says where you come from."
+  },
+  {
+   "s": "Y dice también en qué año aprendió a hablar.",
+   "e": "And it also says what year you learned to talk."
+  },
+  {
+   "s": "Esa noche le cuento todo a Lucía.",
+   "e": "That night I tell Lucía everything."
+  },
+  {
+   "s": "Ella se ríe por fin y me dice la verdad.",
+   "e": "She finally laughs and tells me the truth."
+  },
+  {
+   "s": "Ella ya sabía, pero quería ver qué pasaba.",
+   "e": "She already knew, but she wanted to see what would happen."
+  },
+  {
+   "s": "Desde entonces pregunto antes de usar una palabra nueva.",
+   "e": "Since then I ask before using a new word."
+  },
+  {
+   "s": "Pregunto quién la dice y delante de quién.",
+   "e": "I ask who says it and in front of whom."
+  },
+  {
+   "s": "Y pregunto cómo suena si la digo yo.",
+   "e": "And I ask how it sounds if I am the one saying it."
+  }
+ ]
+}

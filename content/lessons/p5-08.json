@@ -1,0 +1,276 @@
+{
+ "id": "p5-08",
+ "title": "Palo de Mayo",
+ "desc": "The other Nicaragua",
+ "ph": 5,
+ "diff": 5,
+ "wu": [
+  "costeño",
+  "criollo",
+  "cinta",
+  "rondón",
+  "palo",
+  "habla",
+  "país",
+  "bailar",
+  "coco"
+ ],
+ "sn": [
+  {
+   "s": "En el trabajo entra un compañero nuevo.",
+   "e": "A new workmate starts at work."
+  },
+  {
+   "s": "Se llama Delroy y viene de Bluefields.",
+   "e": "His name is Delroy and he comes from Bluefields."
+  },
+  {
+   "s": "Es nicaragüense, pero no habla como nosotros.",
+   "e": "He is Nicaraguan, but he does not talk like us."
+  },
+  {
+   "s": "Habla español y habla otra cosa también.",
+   "e": "He speaks Spanish and he speaks something else too."
+  },
+  {
+   "s": "La otra cosa se llama criollo.",
+   "e": "The other thing is called Creole."
+  },
+  {
+   "s": "El criollo suena a inglés pero no es inglés.",
+   "e": "Creole sounds like English but it is not English."
+  },
+  {
+   "s": "Yo lo escucho hablar por teléfono en criollo.",
+   "e": "I hear him talking on the phone in Creole."
+  },
+  {
+   "s": "Entiendo tres palabras y pierdo el resto.",
+   "e": "I understand three words and lose the rest."
+  },
+  {
+   "s": "El criollo tampoco se aprende en un libro.",
+   "e": "Creole is not learned from a book either."
+  },
+  {
+   "s": "Él se ríe cuando ve mi cara.",
+   "e": "He laughs when he sees my face."
+  },
+  {
+   "s": "Delroy es costeño, del lado del Caribe.",
+   "e": "Delroy is a costeño, from the Caribbean side."
+  },
+  {
+   "s": "Un costeño es nicaragüense igual que Marcos.",
+   "e": "A costeño is as Nicaraguan as Marcos is."
+  },
+  {
+   "s": "Pero un costeño no come ni habla igual.",
+   "e": "But a costeño does not eat or talk the same."
+  },
+  {
+   "s": "Yo no sabía que había otro lado.",
+   "e": "I did not know there was another side."
+  },
+  {
+   "s": "En el mapa el país se ve chiquito.",
+   "e": "On the map the country looks small."
+  },
+  {
+   "s": "Pero la mitad del país es la Costa Caribe.",
+   "e": "But half the country is the Caribbean Coast."
+  },
+  {
+   "s": "Y en esa mitad casi no vive nadie.",
+   "e": "And almost nobody lives in that half."
+  },
+  {
+   "s": "Delroy me dice que no hay carretera derecha.",
+   "e": "Delroy tells me there is no straight road."
+  },
+  {
+   "s": "Que de Managua a Bluefields se va en bus y en panga.",
+   "e": "That from Managua to Bluefields you go by bus and by boat."
+  },
+  {
+   "s": "Dos días de viaje dentro del mismo país.",
+   "e": "Two days of travel inside the same country."
+  },
+  {
+   "s": "En el Caribe se habla criollo, inglés y miskito.",
+   "e": "On the Caribbean they speak Creole, English and Miskito."
+  },
+  {
+   "s": "El español es el cuarto idioma de la casa.",
+   "e": "Spanish is the fourth language in the house."
+  },
+  {
+   "s": "Yo llevo dos años aquí y no lo sabía.",
+   "e": "I have been here two years and did not know it."
+  },
+  {
+   "s": "Delroy me pregunta si conozco el Palo de Mayo.",
+   "e": "Delroy asks me if I know Palo de Mayo."
+  },
+  {
+   "s": "Yo digo que no, y él se pone contento.",
+   "e": "I say no, and he brightens up."
+  },
+  {
+   "s": "Me explica que es la fiesta de mayo en el Caribe.",
+   "e": "He explains it is the May festival on the Caribbean."
+  },
+  {
+   "s": "Se pone un palo alto en el centro del parque.",
+   "e": "A tall pole is put up in the middle of the park."
+  },
+  {
+   "s": "Del palo cuelgan cintas de muchos colores.",
+   "e": "Ribbons of many colours hang from the pole."
+  },
+  {
+   "s": "Cada persona agarra una cinta y baila.",
+   "e": "Each person grabs a ribbon and dances."
+  },
+  {
+   "s": "Bailando, las cintas se van tejiendo en el palo.",
+   "e": "As they dance, the ribbons weave onto the pole."
+  },
+  {
+   "s": "Al final el palo queda vestido de cintas.",
+   "e": "At the end the pole is left dressed in ribbons."
+  },
+  {
+   "s": "Cada cinta tiene su color y su persona.",
+   "e": "Each ribbon has its colour and its person."
+  },
+  {
+   "s": "Y después se baila al revés para soltar las cintas.",
+   "e": "And afterwards you dance backwards to release the ribbons."
+  },
+  {
+   "s": "Le pregunto si el baile es tranquilo.",
+   "e": "I ask him if the dance is a calm one."
+  },
+  {
+   "s": "Delroy se ríe fuerte y dice que no.",
+   "e": "Delroy laughs loudly and says no."
+  },
+  {
+   "s": "Dice que el Palo de Mayo es otra cosa.",
+   "e": "He says Palo de Mayo is another thing."
+  },
+  {
+   "s": "Que la música es tambor y el baile es del cuerpo.",
+   "e": "That the music is drums and the dance is of the body."
+  },
+  {
+   "s": "Que en el Pacífico se escandalizan cuando lo ven.",
+   "e": "That on the Pacific side people are scandalised when they see it."
+  },
+  {
+   "s": "Y que a los costeños eso les da risa.",
+   "e": "And that costeños find that funny."
+  },
+  {
+   "s": "Delroy me trae comida de su casa un lunes.",
+   "e": "Delroy brings me food from his house one Monday."
+  },
+  {
+   "s": "Me dice que se llama rondón.",
+   "e": "He tells me it is called rondón."
+  },
+  {
+   "s": "El rondón lleva pescado, yuca y plátano.",
+   "e": "Rondón has fish, yuca and plantain."
+  },
+  {
+   "s": "Y lleva leche de coco, mucha leche de coco.",
+   "e": "And it has coconut milk, a lot of coconut milk."
+  },
+  {
+   "s": "Todo se cocina junto en una olla grande.",
+   "e": "Everything is cooked together in one big pot."
+  },
+  {
+   "s": "El coco cambia todo el sabor de la comida.",
+   "e": "The coconut changes the whole flavour of the food."
+  },
+  {
+   "s": "No sabe a nada que yo haya comido aquí.",
+   "e": "It tastes like nothing I have eaten here."
+  },
+  {
+   "s": "En Managua no se cocina con coco.",
+   "e": "In Managua people do not cook with coconut."
+  },
+  {
+   "s": "En el Caribe el coco está en todo.",
+   "e": "On the Caribbean the coconut is in everything."
+  },
+  {
+   "s": "Hasta el arroz se hace con coco allá.",
+   "e": "Even the rice is made with coconut over there."
+  },
+  {
+   "s": "Delroy dice que el rondón es comida de domingo.",
+   "e": "Delroy says rondón is Sunday food."
+  },
+  {
+   "s": "Que un rondón se cocina despacio y se come despacio.",
+   "e": "That a rondón is cooked slowly and eaten slowly."
+  },
+  {
+   "s": "Que el rondón de su mamá lleva cuatro horas.",
+   "e": "That his mother's rondón takes four hours."
+  },
+  {
+   "s": "Le pregunto si extraña Bluefields.",
+   "e": "I ask him if he misses Bluefields."
+  },
+  {
+   "s": "Él se queda callado un rato largo.",
+   "e": "He goes quiet for a long while."
+  },
+  {
+   "s": "Después dice que en Managua le dicen negro.",
+   "e": "Then he says that in Managua they call him black."
+  },
+  {
+   "s": "Y que en Bluefields él es solo Delroy.",
+   "e": "And that in Bluefields he is just Delroy."
+  },
+  {
+   "s": "Que un costeño en el Pacífico siempre es de afuera.",
+   "e": "That a costeño on the Pacific is always from outside."
+  },
+  {
+   "s": "Yo le digo que yo también soy de afuera.",
+   "e": "I tell him that I am from outside too."
+  },
+  {
+   "s": "Él dice que no es lo mismo.",
+   "e": "He says it is not the same."
+  },
+  {
+   "s": "Que a mí me van a soltar el chele algún día.",
+   "e": "That some day they will drop the chele with me."
+  },
+  {
+   "s": "Y a él no le van a soltar lo otro.",
+   "e": "And with him they will not drop the other thing."
+  },
+  {
+   "s": "Esa noche busco el mapa del país otra vez.",
+   "e": "That night I look at the map of the country again."
+  },
+  {
+   "s": "Miro la mitad que no conozco.",
+   "e": "I look at the half I do not know."
+  },
+  {
+   "s": "Y me doy cuenta de que estaba aprendiendo medio país.",
+   "e": "And I realise I was learning half a country."
+  }
+ ]
+}

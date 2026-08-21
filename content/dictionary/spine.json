@@ -1,9 +1,4 @@
 {
- "Dios": {
-  "en": "God",
-  "g": "m",
-  "pos": "n"
- },
  "abajo": {
   "en": "down/west",
   "note": "In an address, abajo means west - where the sun goes down",
@@ -56,6 +51,11 @@
   "en": "to run out",
   "pos": "v"
  },
+ "aceite": {
+  "en": "oil",
+  "pos": "n",
+  "g": "m"
+ },
  "acento": {
   "en": "accent",
   "g": "m",
@@ -76,6 +76,10 @@
  },
  "acercarse": {
   "en": "to come closer/to approach",
+  "pos": "v"
+ },
+ "acertar": {
+  "en": "to get it right, to land it",
   "pos": "v"
  },
  "achicar": {
@@ -174,6 +178,11 @@
   "g": "f",
   "pos": "n"
  },
+ "agosto": {
+  "en": "August",
+  "pos": "n",
+  "g": "m"
+ },
  "agradecer": {
   "en": "to thank",
   "pos": "v"
@@ -222,6 +231,12 @@
   "g": "f",
   "note": "'¿Quién causa tanta alegría?' - the Gritería call",
   "pos": "n"
+ },
+ "alfombra": {
+  "en": "carpet",
+  "pos": "n",
+  "g": "f",
+  "note": "In Semana Santa, a carpet of dyed sawdust laid in the street for the procession to walk over"
  },
  "alma": {
   "en": "soul",
@@ -356,6 +371,11 @@
   "en": "to clap",
   "pos": "v"
  },
+ "aplauso": {
+  "en": "applause",
+  "pos": "n",
+  "g": "m"
+ },
  "aplicar": {
   "en": "to apply",
   "pos": "v"
@@ -437,6 +457,11 @@
  "asentir": {
   "en": "to nod",
   "pos": "v"
+ },
+ "aserrín": {
+  "en": "sawdust",
+  "pos": "n",
+  "g": "m"
  },
  "asiento": {
   "en": "seat",
@@ -678,6 +703,10 @@
   "en": "pretty/nice",
   "pos": "adj"
  },
+ "borrar": {
+  "en": "to rub out",
+  "pos": "v"
+ },
  "botar": {
   "en": "to throw away",
   "pos": "v"
@@ -839,6 +868,11 @@
   "g": "f",
   "pos": "n"
  },
+ "campanada": {
+  "en": "stroke of a bell",
+  "pos": "n",
+  "g": "f"
+ },
  "campo": {
   "en": "countryside",
   "g": "m",
@@ -915,6 +949,11 @@
   "g": "f",
   "pos": "n"
  },
+ "carretera": {
+  "en": "highway",
+  "pos": "n",
+  "g": "f"
+ },
  "carretilla": {
   "en": "barrow",
   "g": "f",
@@ -929,6 +968,11 @@
   "en": "wallet/handbag",
   "g": "f",
   "pos": "n"
+ },
+ "cartón": {
+  "en": "cardboard",
+  "pos": "n",
+  "g": "m"
  },
  "casado": {
   "en": "married",
@@ -1127,6 +1171,11 @@
   "g": "m",
   "pos": "n"
  },
+ "cinta": {
+  "en": "ribbon",
+  "pos": "n",
+  "g": "f"
+ },
  "cinturón": {
   "en": "belt",
   "g": "m",
@@ -1176,6 +1225,17 @@
  "cocinar": {
   "en": "to cook",
   "pos": "v"
+ },
+ "coco": {
+  "en": "coconut",
+  "pos": "n",
+  "g": "m",
+  "note": "Cooking with coco is Caribbean-coast, not Managua"
+ },
+ "codazo": {
+  "en": "a nudge with the elbow",
+  "pos": "n",
+  "g": "m"
  },
  "cohete": {
   "en": "firework",
@@ -1234,6 +1294,10 @@
   "en": "company",
   "g": "f",
   "pos": "n"
+ },
+ "competir": {
+  "en": "to compete",
+  "pos": "v"
  },
  "completo": {
   "en": "complete",
@@ -1363,6 +1427,17 @@
   "en": "to copy",
   "pos": "v"
  },
+ "copla": {
+  "en": "rhymed verse",
+  "pos": "n",
+  "g": "f",
+  "note": "What the Enano Cabezon shouts at your door in December"
+ },
+ "corbata": {
+  "en": "tie",
+  "pos": "n",
+  "g": "f"
+ },
  "corrección": {
   "en": "correction",
   "g": "f",
@@ -1389,6 +1464,12 @@
   "en": "to cost",
   "pos": "v"
  },
+ "costeño": {
+  "en": "person from the Caribbean coast",
+  "pos": "n",
+  "g": "m",
+  "note": "Half the country, and a different set of languages"
+ },
  "costumbre": {
   "en": "custom/habit",
   "g": "f",
@@ -1411,6 +1492,17 @@
  "criar": {
   "en": "to raise",
   "pos": "v"
+ },
+ "criollo": {
+  "en": "Creole",
+  "pos": "n",
+  "g": "m",
+  "note": "The English-based language of Bluefields - not Spanish"
+ },
+ "cruz": {
+  "en": "cross",
+  "pos": "n",
+  "g": "f"
  },
  "cruzar": {
   "en": "to cross",
@@ -1625,6 +1717,10 @@
   "g": "m",
   "pos": "n"
  },
+ "desaparecer": {
+  "en": "to disappear",
+  "pos": "v"
+ },
  "desayuno": {
   "en": "breakfast",
   "g": "m",
@@ -1647,10 +1743,19 @@
   "en": "to describe",
   "pos": "v"
  },
+ "descubrir": {
+  "en": "to discover",
+  "pos": "v"
+ },
  "descuido": {
   "en": "carelessness",
   "g": "m",
   "pos": "n"
+ },
+ "deseo": {
+  "en": "wish",
+  "pos": "n",
+  "g": "m"
  },
  "desfile": {
   "en": "parade",
@@ -1693,6 +1798,12 @@
   "en": "to give back",
   "pos": "v"
  },
+ "devoto": {
+  "en": "devotee",
+  "pos": "n",
+  "g": "m",
+  "note": "Somebody paying a promise to a saint with their body"
+ },
  "diciembre": {
   "en": "December",
   "g": "m",
@@ -1721,6 +1832,11 @@
   "en": "diminutive",
   "g": "m",
   "note": "Does not shrink the thing. It brings it closer",
+  "pos": "n"
+ },
+ "Dios": {
+  "en": "God",
+  "g": "m",
   "pos": "n"
  },
  "dirección": {
@@ -1882,6 +1998,12 @@
  "empujar": {
   "en": "to push",
   "pos": "v"
+ },
+ "enano": {
+  "en": "dwarf",
+  "pos": "n",
+  "g": "m",
+  "note": "El Enano Cabezon - the big-headed boy who recites beside the Gigantona"
  },
  "encima": {
   "en": "on top",
@@ -2164,6 +2286,11 @@
   "g": "f",
   "pos": "n"
  },
+ "feriado": {
+  "en": "public holiday",
+  "pos": "n",
+  "g": "m"
+ },
  "ferretería": {
   "en": "hardware shop",
   "g": "f",
@@ -2188,6 +2315,11 @@
   "en": "party",
   "g": "f",
   "pos": "n"
+ },
+ "figura": {
+  "en": "figure, design",
+  "pos": "n",
+  "g": "f"
  },
  "fijarse": {
   "en": "to notice",
@@ -2283,6 +2415,11 @@
   "en": "cold",
   "pos": "adj"
  },
+ "fuego": {
+  "en": "fire",
+  "pos": "n",
+  "g": "m"
+ },
  "fuerza": {
   "en": "force/strength",
   "g": "f",
@@ -2306,6 +2443,11 @@
   "en": "factory",
   "g": "f",
   "pos": "n"
+ },
+ "fórmula": {
+  "en": "set phrase, formula",
+  "pos": "n",
+  "g": "f"
  },
  "fósforo": {
   "en": "match",
@@ -2365,6 +2507,12 @@
   "g": "m",
   "pos": "n"
  },
+ "gigantona": {
+  "en": "the giant woman",
+  "pos": "n",
+  "g": "f",
+  "note": "The three-metre dancing doll of the December streets, strongest in Leon"
+ },
  "gofio": {
   "en": "maize sweet",
   "g": "m",
@@ -2385,6 +2533,12 @@
   "en": "cap",
   "g": "f",
   "pos": "n"
+ },
+ "gracia": {
+  "en": "wit, charm",
+  "pos": "n",
+  "g": "f",
+  "note": "Tener gracia is to be funny, not to be graceful"
  },
  "gracioso": {
   "en": "funny",
@@ -2573,6 +2727,12 @@
   "en": "the same/anyway",
   "pos": "adv"
  },
+ "imagen": {
+  "en": "religious image, carried statue",
+  "pos": "n",
+  "g": "f",
+  "note": "Not a photograph - the wooden figure of a saint carried in a procession"
+ },
  "imaginar": {
   "en": "to imagine",
   "pos": "v"
@@ -2598,6 +2758,11 @@
  "indicar": {
   "en": "to point out",
   "pos": "v"
+ },
+ "indio": {
+  "en": "indian",
+  "pos": "n",
+  "g": "m"
  },
  "indirecta": {
   "en": "hint",
@@ -2648,6 +2813,10 @@
   "g": "m",
   "pos": "n"
  },
+ "inventar": {
+  "en": "to invent, to make up",
+  "pos": "v"
+ },
  "invierno": {
   "en": "winter/the rainy season",
   "g": "m",
@@ -2688,6 +2857,11 @@
   "en": "boss",
   "g": "m",
   "pos": "n"
+ },
+ "jerga": {
+  "en": "slang",
+  "pos": "n",
+  "g": "f"
  },
  "jodido": {
   "en": "rough/tough",
@@ -2766,6 +2940,11 @@
   "en": "letter",
   "g": "f",
   "pos": "n"
+ },
+ "letrero": {
+  "en": "sign",
+  "pos": "n",
+  "g": "m"
  },
  "levantar": {
   "en": "to lift",
@@ -2872,6 +3051,11 @@
   "g": "m",
   "pos": "n"
  },
+ "luto": {
+  "en": "mourning",
+  "pos": "n",
+  "g": "m"
+ },
  "luz": {
   "en": "light/electricity",
   "g": "f",
@@ -2882,6 +3066,11 @@
   "en": "lamp",
   "g": "f",
   "pos": "n"
+ },
+ "lástima": {
+  "en": "pity",
+  "pos": "n",
+  "g": "f"
  },
  "línea": {
   "en": "line",
@@ -2922,6 +3111,11 @@
   "en": "mum",
   "g": "f",
   "pos": "n"
+ },
+ "mancha": {
+  "en": "stain, mark",
+  "pos": "n",
+  "g": "f"
  },
  "mandado": {
   "en": "errand",
@@ -2988,6 +3182,11 @@
   "g": "m",
   "pos": "n"
  },
+ "marzo": {
+  "en": "March",
+  "pos": "n",
+  "g": "m"
+ },
  "masticar": {
   "en": "to chew",
   "pos": "v"
@@ -3001,10 +3200,20 @@
   "en": "older/elder",
   "pos": "adj"
  },
+ "mayoría": {
+  "en": "majority, most of them",
+  "pos": "n",
+  "g": "f"
+ },
  "maíz": {
   "en": "maize/corn",
   "g": "m",
   "pos": "n"
+ },
+ "medianoche": {
+  "en": "midnight",
+  "pos": "n",
+  "g": "f"
  },
  "medicina": {
   "en": "medicine",
@@ -3129,6 +3338,11 @@
   "g": "m",
   "pos": "n"
  },
+ "moda": {
+  "en": "fashion, trend",
+  "pos": "n",
+  "g": "f"
+ },
  "molestar": {
   "en": "to bother/to annoy",
   "pos": "v"
@@ -3147,6 +3361,11 @@
   "g": "m",
   "pos": "n"
  },
+ "moneda": {
+  "en": "coin",
+  "pos": "n",
+  "g": "f"
+ },
  "mono": {
   "en": "monkey",
   "g": "m",
@@ -3161,6 +3380,11 @@
   "en": "scrub/bush",
   "g": "m",
   "pos": "n"
+ },
+ "morado": {
+  "en": "purple",
+  "pos": "adj",
+  "note": "The colour of Semana Santa"
  },
  "moreno": {
   "en": "dark-skinned",
@@ -3227,6 +3451,17 @@
   "en": "world",
   "g": "m",
   "pos": "n"
+ },
+ "muñeca": {
+  "en": "doll",
+  "pos": "n",
+  "g": "f"
+ },
+ "muñeco": {
+  "en": "dummy, doll",
+  "pos": "n",
+  "g": "m",
+  "note": "The ano viejo muneco sits on the pavement and burns at midnight"
  },
  "máquina": {
   "en": "machine",
@@ -3395,6 +3630,10 @@
   "en": "busy",
   "pos": "adj"
  },
+ "odiar": {
+  "en": "to hate",
+  "pos": "v"
+ },
  "oeste": {
   "en": "west",
   "g": "m",
@@ -3412,6 +3651,11 @@
  "ofrecer": {
   "en": "to offer",
   "pos": "v"
+ },
+ "ofrenda": {
+  "en": "offering",
+  "pos": "n",
+  "g": "f"
  },
  "ojalá": {
   "en": "I hope/if only",
@@ -3508,6 +3752,17 @@
   "en": "bakery",
   "g": "f",
   "pos": "n"
+ },
+ "panga": {
+  "en": "small open boat",
+  "pos": "n",
+  "g": "f",
+  "note": "How you finish the journey to Bluefields"
+ },
+ "pantalón": {
+  "en": "trousers",
+  "pos": "n",
+  "g": "m"
  },
  "papa": {
   "en": "potato",
@@ -3691,6 +3946,11 @@
   "note": "Apologise once. Repeating it loads it back on them",
   "pos": "v"
  },
+ "periódico": {
+  "en": "newspaper",
+  "pos": "n",
+  "g": "m"
+ },
  "permiso": {
   "en": "permission",
   "g": "m",
@@ -3815,6 +4075,11 @@
   "g": "f",
   "pos": "n"
  },
+ "pluma": {
+  "en": "feather",
+  "pos": "n",
+  "g": "f"
+ },
  "plástico": {
   "en": "plastic",
   "g": "m",
@@ -3838,6 +4103,11 @@
   "en": "poet",
   "g": "m",
   "pos": "n"
+ },
+ "policía": {
+  "en": "police, policeman",
+  "pos": "n",
+  "g": "m"
  },
  "pollo": {
   "en": "chicken",
@@ -3925,6 +4195,11 @@
   "g": "m",
   "pos": "n"
  },
+ "procesión": {
+  "en": "procession",
+  "pos": "n",
+  "g": "f"
+ },
  "promesa": {
   "en": "promise",
   "g": "f",
@@ -3997,6 +4272,12 @@
   "g": "m",
   "note": "'Mi pésame' and a handshake. Not that she is in a better place",
   "pos": "n"
+ },
+ "pólvora": {
+  "en": "fireworks",
+  "pos": "n",
+  "g": "f",
+  "note": "Nicaraguan polvora is about noise, not light"
  },
  "público": {
   "en": "public",
@@ -4105,6 +4386,10 @@
   "g": "m",
   "pos": "n"
  },
+ "recitar": {
+  "en": "to recite",
+  "pos": "v"
+ },
  "reclamar": {
   "en": "to complain/to claim",
   "pos": "v"
@@ -4149,6 +4434,10 @@
   "en": "present",
   "g": "m",
   "pos": "n"
+ },
+ "regar": {
+  "en": "to scatter, to water",
+  "pos": "v"
  },
  "regatear": {
   "en": "to haggle",
@@ -4273,6 +4562,12 @@
   "en": "to check/to look over",
   "pos": "v"
  },
+ "revés": {
+  "en": "reverse",
+  "pos": "n",
+  "g": "m",
+  "note": "Al reves - backwards, inside out"
+ },
  "rezar": {
   "en": "to pray",
   "pos": "v"
@@ -4281,6 +4576,10 @@
   "en": "prayer",
   "g": "m",
   "pos": "n"
+ },
+ "reírse": {
+  "en": "to laugh",
+  "pos": "v"
  },
  "risa": {
   "en": "laughter",
@@ -4302,6 +4601,11 @@
   "g": "m",
   "pos": "n"
  },
+ "rodilla": {
+  "en": "knee",
+  "pos": "n",
+  "g": "f"
+ },
  "rojo": {
   "en": "red",
   "pos": "adj"
@@ -4310,6 +4614,12 @@
   "en": "round",
   "g": "f",
   "pos": "n"
+ },
+ "rondón": {
+  "en": "rundown",
+  "pos": "n",
+  "g": "m",
+  "note": "Caribbean coast stew: fish, yuca, plantain and coconut milk"
  },
  "ropa": {
   "en": "clothes",
@@ -4562,6 +4872,11 @@
   "g": "f",
   "pos": "n"
  },
+ "sonar": {
+  "en": "to sound",
+  "pos": "v",
+  "note": "Stem-changing: suena. Used constantly about how a word lands"
+ },
  "sonreír": {
   "en": "to smile",
   "pos": "v"
@@ -4662,6 +4977,11 @@
   "g": "f",
   "pos": "n"
  },
+ "sílaba": {
+  "en": "syllable",
+  "pos": "n",
+  "g": "f"
+ },
  "tajada": {
   "en": "green plantain crisp",
   "g": "f",
@@ -4719,6 +5039,10 @@
   "en": "roof",
   "g": "m",
   "pos": "n"
+ },
+ "tejer": {
+  "en": "to weave",
+  "pos": "v"
  },
  "teléfono": {
   "en": "telephone",
@@ -4814,6 +5138,12 @@
   "en": "silly/stupid",
   "pos": "adj"
  },
+ "tope": {
+  "en": "the meeting of the saints",
+  "pos": "n",
+  "g": "m",
+  "note": "Managua, August 1: Santo Domingo comes down from Las Sierritas into the city"
+ },
  "torcido": {
   "en": "crooked",
   "pos": "adj"
@@ -4891,6 +5221,11 @@
   "g": "m",
   "pos": "n"
  },
+ "tubo": {
+  "en": "pipe",
+  "pos": "n",
+  "g": "m"
+ },
  "tumba": {
   "en": "grave",
   "g": "f",
@@ -4925,6 +5260,11 @@
   "g": "m",
   "pos": "n"
  },
+ "túnica": {
+  "en": "tunic",
+  "pos": "n",
+  "g": "f"
+ },
  "unido": {
   "en": "connected/close",
   "pos": "adj"
@@ -4933,6 +5273,10 @@
   "en": "uniform",
   "g": "m",
   "pos": "n"
+ },
+ "untar": {
+  "en": "to smear, to rub on",
+  "pos": "v"
  },
  "urgencia": {
   "en": "emergency",
@@ -4947,6 +5291,12 @@
   "en": "to use",
   "pos": "v"
  },
+ "uva": {
+  "en": "grape",
+  "pos": "n",
+  "g": "f",
+  "note": "Twelve at midnight, one wish with each"
+ },
  "vaca": {
   "en": "cow",
   "g": "f",
@@ -4956,6 +5306,12 @@
   "en": "to tease",
   "note": "Done to the people you like. Being spared it means you are still a guest",
   "pos": "v"
+ },
+ "vacilón": {
+  "en": "joking around, banter",
+  "pos": "n",
+  "g": "m",
+  "note": "From vacilar. Teasing done as affection - the one nobody vacila is the one nobody knows"
  },
  "vacío": {
   "en": "empty",
@@ -4986,6 +5342,11 @@
   "en": "candle",
   "g": "f",
   "pos": "n"
+ },
+ "velocidad": {
+  "en": "speed",
+  "pos": "n",
+  "g": "f"
  },
  "velorio": {
   "en": "wake",
@@ -5035,6 +5396,10 @@
   "en": "embarrassment/shame",
   "g": "f",
   "pos": "n"
+ },
+ "viajar": {
+  "en": "to travel",
+  "pos": "v"
  },
  "viaje": {
   "en": "journey",
