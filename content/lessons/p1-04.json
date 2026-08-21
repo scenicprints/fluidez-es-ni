@@ -1,0 +1,222 @@
+{
+ "id": "p1-04",
+ "title": "El interlocal",
+ "desc": "Leaving Managua for the first time",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "ventanilla",
+  "salir",
+  "lleno"
+ ],
+ "sn": [
+  {
+   "s": "Hoy salgo de Managua por primera vez.",
+   "e": "Today I leave Managua for the first time."
+  },
+  {
+   "s": "Voy a Granada con Roberto.",
+   "e": "I am going to Granada with Roberto."
+  },
+  {
+   "s": "Los buses entre ciudades se llaman interlocales.",
+   "e": "The buses between cities are called interlocales."
+  },
+  {
+   "s": "El interlocal sale del mercado.",
+   "e": "The interlocal leaves from the market."
+  },
+  {
+   "s": "No hay horario en la pared.",
+   "e": "There is no timetable on the wall."
+  },
+  {
+   "s": "El interlocal sale cuando está lleno.",
+   "e": "The interlocal leaves when it is full."
+  },
+  {
+   "s": "\"¿Y a qué hora está lleno?\", pregunto.",
+   "e": "\"And what time is it full?\" I ask."
+  },
+  {
+   "s": "\"Cuando esté lleno\", dice Roberto.",
+   "e": "\"When it is full,\" Roberto says."
+  },
+  {
+   "s": "Subimos y buscamos asiento.",
+   "e": "We get on and look for a seat."
+  },
+  {
+   "s": "Consigo un asiento junto a la ventanilla.",
+   "e": "I get a seat by the window."
+  },
+  {
+   "s": "La ventanilla está abierta.",
+   "e": "The window is open."
+  },
+  {
+   "s": "La ventanilla no se puede cerrar.",
+   "e": "The window cannot be closed."
+  },
+  {
+   "s": "Por la ventanilla entra aire caliente.",
+   "e": "Hot air comes in through the window."
+  },
+  {
+   "s": "Es mejor que no entre nada.",
+   "e": "It is better than nothing coming in."
+  },
+  {
+   "s": "El bus se va llenando.",
+   "e": "The bus fills up gradually."
+  },
+  {
+   "s": "Se llena y se sigue llenando.",
+   "e": "It fills up and keeps filling up."
+  },
+  {
+   "s": "La gente va apretada en el pasillo.",
+   "e": "People stand packed in the aisle."
+  },
+  {
+   "s": "Yo pensaba que lleno era lleno.",
+   "e": "I thought full meant full."
+  },
+  {
+   "s": "Aquí lleno quiere decir otra cosa.",
+   "e": "Here full means something else."
+  },
+  {
+   "s": "Una señora me pone una bolsa en las piernas.",
+   "e": "A woman puts a bag on my legs."
+  },
+  {
+   "s": "No me pregunta. Me la pone.",
+   "e": "She does not ask. She just puts it there."
+  },
+  {
+   "s": "Yo se la sostengo todo el viaje.",
+   "e": "I hold it for her the whole journey."
+  },
+  {
+   "s": "Eso también es normal.",
+   "e": "That is normal too."
+  },
+  {
+   "s": "Por fin el interlocal sale.",
+   "e": "At last the interlocal leaves."
+  },
+  {
+   "s": "El viaje es de una hora y media.",
+   "e": "The journey is an hour and a half."
+  },
+  {
+   "s": "Salimos de la ciudad despacio.",
+   "e": "We leave the city slowly."
+  },
+  {
+   "s": "Después el camino se abre.",
+   "e": "Then the road opens up."
+  },
+  {
+   "s": "Y aparece el campo.",
+   "e": "And the countryside appears."
+  },
+  {
+   "s": "El campo es verde y grande.",
+   "e": "The countryside is green and big."
+  },
+  {
+   "s": "Hay vacas en el campo.",
+   "e": "There are cows in the countryside."
+  },
+  {
+   "s": "Hay casas pequeñas de madera.",
+   "e": "There are small wooden houses."
+  },
+  {
+   "s": "A lo lejos se ven dos volcanes.",
+   "e": "In the distance you can see two volcanoes."
+  },
+  {
+   "s": "Nunca había visto un volcán.",
+   "e": "I had never seen a volcano."
+  },
+  {
+   "s": "En cada parada sube un vendedor.",
+   "e": "At every stop a seller gets on."
+  },
+  {
+   "s": "Un vendedor vende agua en bolsa.",
+   "e": "One seller sells water in bags."
+  },
+  {
+   "s": "Otro vendedor vende quesillo.",
+   "e": "Another sells quesillo."
+  },
+  {
+   "s": "Otro vende rosquillas en una canasta.",
+   "e": "Another sells rosquillas from a basket."
+  },
+  {
+   "s": "El vendedor grita el nombre de lo que vende.",
+   "e": "The seller shouts the name of what he is selling."
+  },
+  {
+   "s": "\"¡Agua, agua, agua fría!\"",
+   "e": "\"Water, water, cold water!\""
+  },
+  {
+   "s": "Compro quesillo por la ventanilla.",
+   "e": "I buy quesillo through the window."
+  },
+  {
+   "s": "El quesillo viene en una bolsa con crema.",
+   "e": "The quesillo comes in a bag with cream."
+  },
+  {
+   "s": "Se come con la mano y se ensucia todo.",
+   "e": "You eat it with your hand and get in a mess."
+  },
+  {
+   "s": "Está muy rico.",
+   "e": "It is very good."
+  },
+  {
+   "s": "El vendedor se baja en la siguiente parada.",
+   "e": "The seller gets off at the next stop."
+  },
+  {
+   "s": "Y sube otro con otra cosa.",
+   "e": "And another gets on with something else."
+  },
+  {
+   "s": "Llegamos a Granada al mediodía.",
+   "e": "We arrive in Granada at midday."
+  },
+  {
+   "s": "Bajamos apretados y con calor.",
+   "e": "We get off cramped and hot."
+  },
+  {
+   "s": "Tengo la espalda mojada.",
+   "e": "My back is wet."
+  },
+  {
+   "s": "Pero salí de Managua.",
+   "e": "But I left Managua."
+  },
+  {
+   "s": "Y el viaje costó cuarenta pesos.",
+   "e": "And the journey cost forty pesos."
+  },
+  {
+   "s": "Cuarenta pesos por hora y media.",
+   "e": "Forty pesos for an hour and a half."
+  },
+  {
+   "s": "Ahora entiendo cómo se mueve la gente aquí.",
+   "e": "Now I understand how people move around here."
+  }
+ ]
+}

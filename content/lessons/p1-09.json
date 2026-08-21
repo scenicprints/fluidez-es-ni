@@ -1,0 +1,216 @@
+{
+ "id": "p1-09",
+ "title": "León y Granada",
+ "desc": "Two cities that do not like each other",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "ciudad"
+ ],
+ "sn": [
+  {
+   "s": "En Nicaragua hay dos ciudades viejas.",
+   "e": "In Nicaragua there are two old cities."
+  },
+  {
+   "s": "León y Granada.",
+   "e": "León and Granada."
+  },
+  {
+   "s": "Las dos ciudades son coloniales.",
+   "e": "Both cities are colonial."
+  },
+  {
+   "s": "Las dos tienen iglesias antiguas.",
+   "e": "Both have old churches."
+  },
+  {
+   "s": "Las dos tienen una catedral grande.",
+   "e": "Both have a big cathedral."
+  },
+  {
+   "s": "Y las dos ciudades no se quieren.",
+   "e": "And the two cities do not like each other."
+  },
+  {
+   "s": "En Granada me hablan de León.",
+   "e": "In Granada they talk to me about León."
+  },
+  {
+   "s": "\"En León hace más calor\", dice un señor.",
+   "e": "\"It is hotter in León,\" a man says."
+  },
+  {
+   "s": "\"Y la gente de León es peleona.\"",
+   "e": "\"And people from León are argumentative.\""
+  },
+  {
+   "s": "En León me hablan de Granada.",
+   "e": "In León they talk to me about Granada."
+  },
+  {
+   "s": "\"Los de Granada se creen mucho\", dice otro.",
+   "e": "\"Granada people think a lot of themselves,\" another says."
+  },
+  {
+   "s": "\"Se creen los dueños del país.\"",
+   "e": "\"They think they own the country.\""
+  },
+  {
+   "s": "Cada ciudad dice lo mismo de la otra.",
+   "e": "Each city says the same thing about the other."
+  },
+  {
+   "s": "Le pregunto a Roberto por qué.",
+   "e": "I ask Roberto why."
+  },
+  {
+   "s": "\"Es historia vieja\", dice él.",
+   "e": "\"It is old history,\" he says."
+  },
+  {
+   "s": "Y me cuenta la historia.",
+   "e": "And he tells me the history."
+  },
+  {
+   "s": "Granada era de los conservadores.",
+   "e": "Granada belonged to the conservatives."
+  },
+  {
+   "s": "León era de los liberales.",
+   "e": "León belonged to the liberals."
+  },
+  {
+   "s": "Las dos ciudades peleaban por el país.",
+   "e": "The two cities fought over the country."
+  },
+  {
+   "s": "La pelea duró muchos años.",
+   "e": "The fight lasted many years."
+  },
+  {
+   "s": "Hubo guerras entre las dos ciudades.",
+   "e": "There were wars between the two cities."
+  },
+  {
+   "s": "Al final ninguna ganó.",
+   "e": "In the end neither won."
+  },
+  {
+   "s": "Pusieron la capital en el medio.",
+   "e": "They put the capital in the middle."
+  },
+  {
+   "s": "Y el medio es Managua.",
+   "e": "And the middle is Managua."
+  },
+  {
+   "s": "Por eso Managua es la capital.",
+   "e": "That is why Managua is the capital."
+  },
+  {
+   "s": "No porque fuera importante.",
+   "e": "Not because it was important."
+  },
+  {
+   "s": "Sino porque estaba en el medio de la pelea.",
+   "e": "But because it was in the middle of the fight."
+  },
+  {
+   "s": "Eso me parece increíble.",
+   "e": "That seems unbelievable to me."
+  },
+  {
+   "s": "Una capital escogida para no discutir.",
+   "e": "A capital chosen to avoid an argument."
+  },
+  {
+   "s": "La pelea terminó hace mucho.",
+   "e": "The fight ended a long time ago."
+  },
+  {
+   "s": "Pero el orgullo no terminó.",
+   "e": "But the pride did not end."
+  },
+  {
+   "s": "El orgullo de cada ciudad sigue vivo.",
+   "e": "The pride of each city is still alive."
+  },
+  {
+   "s": "En León están orgullosos de sus poetas.",
+   "e": "In León they are proud of their poets."
+  },
+  {
+   "s": "En León está enterrado Rubén Darío.",
+   "e": "Rubén Darío is buried in León."
+  },
+  {
+   "s": "En Granada están orgullosos de sus casas.",
+   "e": "In Granada they are proud of their houses."
+  },
+  {
+   "s": "Y del lago que tienen al lado.",
+   "e": "And of the lake they have beside them."
+  },
+  {
+   "s": "Yo digo algo tonto en Granada.",
+   "e": "I say something silly in Granada."
+  },
+  {
+   "s": "Digo que León me pareció bonito.",
+   "e": "I say that León seemed nice to me."
+  },
+  {
+   "s": "El señor me mira serio.",
+   "e": "The man gives me a serious look."
+  },
+  {
+   "s": "\"Bonito\", dice él. \"Pero caliente.\"",
+   "e": "\"Nice,\" he says. \"But hot.\""
+  },
+  {
+   "s": "Y no dice nada más.",
+   "e": "And he says nothing more."
+  },
+  {
+   "s": "Roberto me explica después.",
+   "e": "Roberto explains it to me afterwards."
+  },
+  {
+   "s": "\"Aquí no se discute con la gente de aquí.\"",
+   "e": "\"Here you do not argue with the local people.\""
+  },
+  {
+   "s": "\"Uno puede discutir de béisbol.\"",
+   "e": "\"You can argue about baseball.\""
+  },
+  {
+   "s": "\"Uno puede discutir de política, con cuidado.\"",
+   "e": "\"You can argue about politics, carefully.\""
+  },
+  {
+   "s": "\"Pero no de León y Granada.\"",
+   "e": "\"But not about León and Granada.\""
+  },
+  {
+   "s": "\"Esa pelea no se gana nunca.\"",
+   "e": "\"That fight is never won.\""
+  },
+  {
+   "s": "Desde ese día no opino.",
+   "e": "From that day on I do not give an opinion."
+  },
+  {
+   "s": "Cuando me preguntan cuál me gusta más, digo las dos.",
+   "e": "When they ask which I like better, I say both."
+  },
+  {
+   "s": "Nadie queda contento con esa respuesta.",
+   "e": "Nobody is happy with that answer."
+  },
+  {
+   "s": "Pero nadie se enoja tampoco.",
+   "e": "But nobody gets angry either."
+  }
+ ]
+}

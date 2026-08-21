@@ -1,0 +1,230 @@
+{
+ "id": "p1-02",
+ "title": "Donde fue el árbol",
+ "desc": "Places that no longer exist are still directions",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "árbol",
+  "dirección",
+  "fue"
+ ],
+ "sn": [
+  {
+   "s": "Necesito ir a una ferretería.",
+   "e": "I need to go to a hardware shop."
+  },
+  {
+   "s": "Don Beto me da la dirección.",
+   "e": "Don Beto gives me the address."
+  },
+  {
+   "s": "\"Donde fue el árbol de mango.\"",
+   "e": "\"Where the mango tree was.\""
+  },
+  {
+   "s": "\"Dos cuadras arriba de donde fue el árbol.\"",
+   "e": "\"Two blocks arriba from where the tree was.\""
+  },
+  {
+   "s": "Yo me quedo callado.",
+   "e": "I stay quiet."
+  },
+  {
+   "s": "\"¿Donde fue el árbol?\", pregunto.",
+   "e": "\"Where the tree was?\" I ask."
+  },
+  {
+   "s": "\"Sí, donde fue el árbol de mango.\"",
+   "e": "\"Yes, where the mango tree was.\""
+  },
+  {
+   "s": "\"¿Y dónde está ese árbol?\"",
+   "e": "\"And where is that tree?\""
+  },
+  {
+   "s": "\"Ya no está\", dice don Beto.",
+   "e": "\"It is not there any more,\" don Beto says."
+  },
+  {
+   "s": "\"Lo quitaron hace muchos años.\"",
+   "e": "\"They took it out many years ago.\""
+  },
+  {
+   "s": "Entonces la referencia ya no existe.",
+   "e": "So the landmark does not exist any more."
+  },
+  {
+   "s": "El árbol no existe y sigue siendo la dirección.",
+   "e": "The tree does not exist and it is still the address."
+  },
+  {
+   "s": "\"¿Y cómo lo encuentro?\", pregunto.",
+   "e": "\"And how do I find it?\" I ask."
+  },
+  {
+   "s": "\"Pregunte. Todos saben\", dice él.",
+   "e": "\"Ask. Everybody knows,\" he says."
+  },
+  {
+   "s": "Salgo a buscar un árbol que no existe.",
+   "e": "I go out to look for a tree that does not exist."
+  },
+  {
+   "s": "En la calle le pregunto a un señor viejo.",
+   "e": "In the street I ask an old man."
+  },
+  {
+   "s": "\"¿Dónde fue el árbol de mango?\"",
+   "e": "\"Where was the mango tree?\""
+  },
+  {
+   "s": "El señor no duda ni un segundo.",
+   "e": "The man does not hesitate for a second."
+  },
+  {
+   "s": "\"Tres cuadras abajo\", dice.",
+   "e": "\"Three blocks abajo,\" he says."
+  },
+  {
+   "s": "Y me señala con la mano.",
+   "e": "And he points with his hand."
+  },
+  {
+   "s": "Camino tres cuadras abajo.",
+   "e": "I walk three blocks abajo."
+  },
+  {
+   "s": "Le pregunto a una señora.",
+   "e": "I ask a woman."
+  },
+  {
+   "s": "\"¿Aquí fue el árbol de mango?\"",
+   "e": "\"Was the mango tree here?\""
+  },
+  {
+   "s": "\"Aquí mismo\", dice ella.",
+   "e": "\"Right here,\" she says."
+  },
+  {
+   "s": "Miro el lugar.",
+   "e": "I look at the place."
+  },
+  {
+   "s": "No hay árbol.",
+   "e": "There is no tree."
+  },
+  {
+   "s": "Hay un edificio pequeño y una acera.",
+   "e": "There is a small building and a pavement."
+  },
+  {
+   "s": "Nada dice que aquí hubo un árbol.",
+   "e": "Nothing says there was a tree here."
+  },
+  {
+   "s": "Pero todos lo recuerdan.",
+   "e": "But everybody remembers it."
+  },
+  {
+   "s": "Subo dos cuadras y encuentro la ferretería.",
+   "e": "I go two blocks up and I find the hardware shop."
+  },
+  {
+   "s": "Adentro le cuento al dueño.",
+   "e": "Inside I tell the owner."
+  },
+  {
+   "s": "Él se ríe.",
+   "e": "He laughs."
+  },
+  {
+   "s": "\"Ese árbol lo quitaron en el noventa y ocho.\"",
+   "e": "\"They took that tree out in ninety-eight.\""
+  },
+  {
+   "s": "\"¿Y todavía lo usan de referencia?\"",
+   "e": "\"And they still use it as a landmark?\""
+  },
+  {
+   "s": "\"Todavía\", dice él.",
+   "e": "\"Still,\" he says."
+  },
+  {
+   "s": "\"Aquí las cosas se quitan y se quedan.\"",
+   "e": "\"Here things are taken away and they stay.\""
+  },
+  {
+   "s": "Después aprendo que hay muchas así.",
+   "e": "Later I learn that there are many like that."
+  },
+  {
+   "s": "Hay direcciones con un cine que ya no existe.",
+   "e": "There are addresses with a cinema that is gone."
+  },
+  {
+   "s": "Hay direcciones con un edificio que se cayó.",
+   "e": "There are addresses with a building that fell down."
+  },
+  {
+   "s": "Hay direcciones con una fábrica vieja.",
+   "e": "There are addresses with an old factory."
+  },
+  {
+   "s": "La fábrica cerró hace veinte años.",
+   "e": "The factory closed twenty years ago."
+  },
+  {
+   "s": "Y la fábrica sigue siendo el punto.",
+   "e": "And the factory is still the point."
+  },
+  {
+   "s": "Roberto me lo explica esa noche.",
+   "e": "Roberto explains it to me that night."
+  },
+  {
+   "s": "\"La ciudad se cayó en un terremoto.\"",
+   "e": "\"The city fell down in an earthquake.\""
+  },
+  {
+   "s": "\"Se cayó casi todo el centro viejo.\"",
+   "e": "\"Nearly all the old centre fell down.\""
+  },
+  {
+   "s": "\"Después la gente siguió diciendo lo mismo.\"",
+   "e": "\"Afterwards people carried on saying the same things.\""
+  },
+  {
+   "s": "Entonces no es que sean tontos.",
+   "e": "So it is not that they are being silly."
+  },
+  {
+   "s": "Es que la ciudad cambió y la gente recordó.",
+   "e": "It is that the city changed and the people remembered."
+  },
+  {
+   "s": "Una dirección aquí no es un lugar.",
+   "e": "An address here is not a place."
+  },
+  {
+   "s": "Una dirección aquí es una memoria.",
+   "e": "An address here is a memory."
+  },
+  {
+   "s": "Y hay que preguntar para leerla.",
+   "e": "And you have to ask in order to read it."
+  },
+  {
+   "s": "Ahora yo también digo donde fue el árbol.",
+   "e": "Now I say where the tree was too."
+  },
+  {
+   "s": "Nunca vi ese árbol.",
+   "e": "I never saw that tree."
+  },
+  {
+   "s": "Pero sé exactamente dónde estaba.",
+   "e": "But I know exactly where it was."
+  }
+ ]
+}

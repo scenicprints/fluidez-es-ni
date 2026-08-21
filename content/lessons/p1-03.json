@@ -1,0 +1,246 @@
+{
+ "id": "p1-03",
+ "title": "Regateando",
+ "desc": "Arguing about price without being rude",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "precio",
+  "vendedor",
+  "regatear"
+ ],
+ "sn": [
+  {
+   "s": "En el mercado nada tiene precio escrito.",
+   "e": "In the market nothing has a written price."
+  },
+  {
+   "s": "El precio está en la boca del vendedor.",
+   "e": "The price is in the seller's mouth."
+  },
+  {
+   "s": "Y el precio cambia según quién pregunta.",
+   "e": "And the price changes depending on who is asking."
+  },
+  {
+   "s": "Roberto me lleva a comprar una camisa.",
+   "e": "Roberto takes me to buy a shirt."
+  },
+  {
+   "s": "Yo veo una camisa que me gusta.",
+   "e": "I see a shirt I like."
+  },
+  {
+   "s": "\"¿Cuánto?\", pregunto yo.",
+   "e": "\"How much?\" I ask."
+  },
+  {
+   "s": "\"Doscientos\", dice el vendedor.",
+   "e": "\"Two hundred,\" the seller says."
+  },
+  {
+   "s": "Yo digo que sí y saco la plata.",
+   "e": "I say yes and take out my money."
+  },
+  {
+   "s": "Roberto me agarra la mano.",
+   "e": "Roberto grabs my hand."
+  },
+  {
+   "s": "\"No\", me dice bajito. \"Esperá.\"",
+   "e": "\"No,\" he says quietly. \"Wait.\""
+  },
+  {
+   "s": "Roberto habla con el vendedor.",
+   "e": "Roberto talks to the seller."
+  },
+  {
+   "s": "\"Está caro, hombre\", dice Roberto.",
+   "e": "\"That's dear, man,\" Roberto says."
+  },
+  {
+   "s": "\"Es buena camisa\", dice el vendedor.",
+   "e": "\"It's a good shirt,\" the seller says."
+  },
+  {
+   "s": "\"Sí, pero está caro.\"",
+   "e": "\"Yes, but it's dear.\""
+  },
+  {
+   "s": "\"¿Cuánto quiere pagar?\", pregunta el vendedor.",
+   "e": "\"How much do you want to pay?\" the seller asks."
+  },
+  {
+   "s": "\"Ciento veinte\", dice Roberto.",
+   "e": "\"A hundred and twenty,\" Roberto says."
+  },
+  {
+   "s": "Eso es un poco más de la mitad.",
+   "e": "That is a bit more than half."
+  },
+  {
+   "s": "El vendedor hace una cara.",
+   "e": "The seller pulls a face."
+  },
+  {
+   "s": "\"No puedo. Ciento ochenta.\"",
+   "e": "\"I can't. A hundred and eighty.\""
+  },
+  {
+   "s": "\"Ciento cuarenta\", dice Roberto.",
+   "e": "\"A hundred and forty,\" Roberto says."
+  },
+  {
+   "s": "\"Ciento sesenta y se la lleva.\"",
+   "e": "\"A hundred and sixty and it's yours.\""
+  },
+  {
+   "s": "\"Ciento cincuenta\", dice Roberto.",
+   "e": "\"A hundred and fifty,\" Roberto says."
+  },
+  {
+   "s": "\"Ciento cincuenta y es mi último precio.\"",
+   "e": "\"A hundred and fifty and that's my last price.\""
+  },
+  {
+   "s": "\"Dale pues\", dice Roberto.",
+   "e": "\"Dale pues,\" Roberto says."
+  },
+  {
+   "s": "Pago ciento cincuenta.",
+   "e": "I pay a hundred and fifty."
+  },
+  {
+   "s": "Ahorré cincuenta pesos en dos minutos.",
+   "e": "I saved fifty pesos in two minutes."
+  },
+  {
+   "s": "Afuera Roberto me explica.",
+   "e": "Outside Roberto explains it to me."
+  },
+  {
+   "s": "\"El primer precio nunca es el precio.\"",
+   "e": "\"The first price is never the price.\""
+  },
+  {
+   "s": "\"El primer precio es para empezar.\"",
+   "e": "\"The first price is to start with.\""
+  },
+  {
+   "s": "\"Uno ofrece la mitad o un poco más.\"",
+   "e": "\"You offer half or a bit more.\""
+  },
+  {
+   "s": "\"Y después se van juntando.\"",
+   "e": "\"And then you come together.\""
+  },
+  {
+   "s": "\"¿Y si dice que no?\", pregunto yo.",
+   "e": "\"And if he says no?\" I ask."
+  },
+  {
+   "s": "\"Entonces uno se va despacio.\"",
+   "e": "\"Then you walk away slowly.\""
+  },
+  {
+   "s": "\"Si el precio era posible, lo llaman.\"",
+   "e": "\"If the price was possible, they call you back.\""
+  },
+  {
+   "s": "\"Y si no lo llaman, era su último precio.\"",
+   "e": "\"And if they do not, it was their last price.\""
+  },
+  {
+   "s": "Pero Roberto me dice algo más importante.",
+   "e": "But Roberto tells me something more important."
+  },
+  {
+   "s": "\"Regatear no es pelear.\"",
+   "e": "\"Bargaining is not fighting.\""
+  },
+  {
+   "s": "\"Uno regatea con respeto y con broma.\"",
+   "e": "\"You bargain with respect and with a joke.\""
+  },
+  {
+   "s": "\"El vendedor tiene que quedar contento.\"",
+   "e": "\"The seller has to end up happy.\""
+  },
+  {
+   "s": "\"Si el vendedor se enoja, uno regateó mal.\"",
+   "e": "\"If the seller gets angry, you bargained badly.\""
+  },
+  {
+   "s": "Después me dice dónde no se regatea.",
+   "e": "Then he tells me where you do not bargain."
+  },
+  {
+   "s": "En la pulpería no se regatea.",
+   "e": "At the pulpería you do not bargain."
+  },
+  {
+   "s": "En la fritanga no se regatea.",
+   "e": "At the fritanga you do not bargain."
+  },
+  {
+   "s": "En el bus no se regatea.",
+   "e": "On the bus you do not bargain."
+  },
+  {
+   "s": "El precio de la comida es el precio.",
+   "e": "The price of food is the price."
+  },
+  {
+   "s": "Se regatea la ropa y las cosas.",
+   "e": "You bargain over clothes and things."
+  },
+  {
+   "s": "Se regatea el taxi antes de subir.",
+   "e": "You bargain the taxi before getting in."
+  },
+  {
+   "s": "Se regatea en el mercado grande.",
+   "e": "You bargain in the big market."
+  },
+  {
+   "s": "La semana siguiente lo hago solo.",
+   "e": "The next week I do it on my own."
+  },
+  {
+   "s": "Quiero comprar un balde.",
+   "e": "I want to buy a bucket."
+  },
+  {
+   "s": "\"¿Cuánto cuesta el balde?\", pregunto.",
+   "e": "\"How much is the bucket?\" I ask."
+  },
+  {
+   "s": "\"Ochenta\", dice la vendedora.",
+   "e": "\"Eighty,\" the seller says."
+  },
+  {
+   "s": "\"Está caro\", digo yo. \"¿Cincuenta?\"",
+   "e": "\"That's dear,\" I say. \"Fifty?\""
+  },
+  {
+   "s": "\"Setenta\", dice ella.",
+   "e": "\"Seventy,\" she says."
+  },
+  {
+   "s": "\"Sesenta y me lo llevo.\"",
+   "e": "\"Sixty and I'll take it.\""
+  },
+  {
+   "s": "La señora se ríe y me lo deja en sesenta.",
+   "e": "The woman laughs and lets me have it for sixty."
+  },
+  {
+   "s": "\"Ya aprendió el chele\", dice ella.",
+   "e": "\"The chele has learned,\" she says."
+  },
+  {
+   "s": "Y eso me gusta más que los veinte pesos.",
+   "e": "And I like that more than the twenty pesos."
+  }
+ ]
+}

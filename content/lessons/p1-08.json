@@ -1,0 +1,224 @@
+{
+ "id": "p1-08",
+ "title": "Vigorón",
+ "desc": "Granada on a banana leaf",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "vigorón",
+  "yuca",
+  "chicharrón",
+  "curtido",
+  "probar"
+ ],
+ "sn": [
+  {
+   "s": "En el parque de Granada hay muchas señoras.",
+   "e": "In the park in Granada there are a lot of women."
+  },
+  {
+   "s": "Cada señora tiene una mesa.",
+   "e": "Each woman has a table."
+  },
+  {
+   "s": "Todas venden lo mismo.",
+   "e": "They all sell the same thing."
+  },
+  {
+   "s": "Todas venden vigorón.",
+   "e": "They all sell vigorón."
+  },
+  {
+   "s": "\"Tenés que probar el vigorón\", dice Roberto.",
+   "e": "\"You have to try the vigorón,\" Roberto says."
+  },
+  {
+   "s": "\"¿Qué lleva el vigorón?\", pregunto.",
+   "e": "\"What is in vigorón?\" I ask."
+  },
+  {
+   "s": "\"Yuca, chicharrón y curtido.\"",
+   "e": "\"Yuca, pork crackling and curtido.\""
+  },
+  {
+   "s": "Yo no conozco ninguna de las tres cosas.",
+   "e": "I do not know any of the three things."
+  },
+  {
+   "s": "Nos sentamos en una banca del parque.",
+   "e": "We sit on a bench in the park."
+  },
+  {
+   "s": "Una señora nos trae dos vigorones.",
+   "e": "A woman brings us two vigorones."
+  },
+  {
+   "s": "Viene en una hoja de plátano.",
+   "e": "It comes on a plantain leaf."
+  },
+  {
+   "s": "Otra vez la hoja es el plato.",
+   "e": "Again the leaf is the plate."
+  },
+  {
+   "s": "Abajo está la yuca.",
+   "e": "Underneath there is the yuca."
+  },
+  {
+   "s": "La yuca es blanca y suave.",
+   "e": "Yuca is white and soft."
+  },
+  {
+   "s": "La yuca es como una papa larga.",
+   "e": "Yuca is like a long potato."
+  },
+  {
+   "s": "La yuca se cuece en agua con sal.",
+   "e": "Yuca is boiled in salted water."
+  },
+  {
+   "s": "Encima de la yuca va el chicharrón.",
+   "e": "On top of the yuca goes the chicharrón."
+  },
+  {
+   "s": "El chicharrón es piel de cerdo frita.",
+   "e": "Chicharrón is fried pork skin."
+  },
+  {
+   "s": "El chicharrón está duro y salado.",
+   "e": "Chicharrón is hard and salty."
+  },
+  {
+   "s": "A veces el chicharrón trae carne de cerdo.",
+   "e": "Sometimes the chicharrón has pork meat on it."
+  },
+  {
+   "s": "Ese chicharrón es el mejor.",
+   "e": "That chicharrón is the best."
+  },
+  {
+   "s": "Y encima de todo va el curtido.",
+   "e": "And on top of everything goes the curtido."
+  },
+  {
+   "s": "El curtido es repollo con vinagre.",
+   "e": "Curtido is cabbage with vinegar."
+  },
+  {
+   "s": "El curtido lleva tomate y chile.",
+   "e": "Curtido has tomato and chilli in it."
+  },
+  {
+   "s": "El vinagre corta la grasa del cerdo.",
+   "e": "The vinegar cuts the fat of the pork."
+  },
+  {
+   "s": "Por eso van juntos.",
+   "e": "That is why they go together."
+  },
+  {
+   "s": "Probé el vigorón con la mano.",
+   "e": "I tried the vigorón with my hand."
+  },
+  {
+   "s": "No hay tenedor y no hace falta.",
+   "e": "There is no fork and none is needed."
+  },
+  {
+   "s": "Primero probé la yuca sola.",
+   "e": "First I tried the yuca on its own."
+  },
+  {
+   "s": "La yuca sola es suave y no sabe a mucho.",
+   "e": "Yuca on its own is soft and does not taste of much."
+  },
+  {
+   "s": "Después probé el chicharrón.",
+   "e": "Then I tried the chicharrón."
+  },
+  {
+   "s": "El chicharrón solo es muy salado.",
+   "e": "Chicharrón on its own is very salty."
+  },
+  {
+   "s": "Después probé el curtido.",
+   "e": "Then I tried the curtido."
+  },
+  {
+   "s": "El curtido solo es puro vinagre.",
+   "e": "Curtido on its own is pure vinegar."
+  },
+  {
+   "s": "Pero los tres juntos son otra cosa.",
+   "e": "But the three together are something else."
+  },
+  {
+   "s": "Los tres juntos están muy ricos.",
+   "e": "The three together are very good."
+  },
+  {
+   "s": "Roberto me ve la cara y se ríe.",
+   "e": "Roberto sees my face and laughs."
+  },
+  {
+   "s": "\"Te dije\", dice él.",
+   "e": "\"I told you,\" he says."
+  },
+  {
+   "s": "Comemos en la banca sin hablar.",
+   "e": "We eat on the bench without talking."
+  },
+  {
+   "s": "Alrededor del parque hay iglesias amarillas.",
+   "e": "Around the park there are yellow churches."
+  },
+  {
+   "s": "Y casas de colores fuertes.",
+   "e": "And houses in strong colours."
+  },
+  {
+   "s": "Granada es más bonita que Managua.",
+   "e": "Granada is prettier than Managua."
+  },
+  {
+   "s": "Eso lo dicen hasta los de Managua.",
+   "e": "Even people from Managua say so."
+  },
+  {
+   "s": "Aunque no lo dicen fuerte.",
+   "e": "Although they do not say it loudly."
+  },
+  {
+   "s": "La señora nos pregunta si queremos más.",
+   "e": "The woman asks if we want more."
+  },
+  {
+   "s": "Roberto dice que sí.",
+   "e": "Roberto says yes."
+  },
+  {
+   "s": "Yo también digo que sí.",
+   "e": "I say yes too."
+  },
+  {
+   "s": "Nos comemos dos vigorones cada uno.",
+   "e": "We eat two vigorones each."
+  },
+  {
+   "s": "Después no puedo caminar rápido.",
+   "e": "Afterwards I cannot walk fast."
+  },
+  {
+   "s": "Nos quedamos en la banca una hora.",
+   "e": "We stay on the bench for an hour."
+  },
+  {
+   "s": "Viendo pasar a la gente.",
+   "e": "Watching the people go past."
+  },
+  {
+   "s": "Eso también es Granada.",
+   "e": "That is Granada too."
+  }
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "id": "p1-01",
+ "title": "Dos cuadras al lago",
+ "desc": "Directions with no street names",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "cuadra",
+  "lago",
+  "sur",
+  "arriba",
+  "abajo",
+  "encontrar",
+  "cuadras",
+  "contar",
+  "sol"
+ ],
+ "sn": [
+  {
+   "s": "Tengo que buscar una casa.",
+   "e": "I have to look for a house."
+  },
+  {
+   "s": "Roberto me da la dirección.",
+   "e": "Roberto gives me the address."
+  },
+  {
+   "s": "\"De la iglesia, dos cuadras al lago.\"",
+   "e": "\"From the church, two blocks towards the lake.\""
+  },
+  {
+   "s": "\"Y una cuadra abajo.\"",
+   "e": "\"And one block down.\""
+  },
+  {
+   "s": "Yo no entiendo nada.",
+   "e": "I do not understand a thing."
+  },
+  {
+   "s": "\"¿Y el nombre de la calle?\", pregunto.",
+   "e": "\"And the name of the street?\" I ask."
+  },
+  {
+   "s": "\"Las calles no tienen nombre\", dice él.",
+   "e": "\"The streets do not have names,\" he says."
+  },
+  {
+   "s": "\"¿Ninguna calle tiene nombre?\"",
+   "e": "\"No street has a name?\""
+  },
+  {
+   "s": "\"Algunas sí. Pero nadie las usa.\"",
+   "e": "\"Some do. But nobody uses them.\""
+  },
+  {
+   "s": "Entonces aquí uno busca de otra manera.",
+   "e": "So here you look for things another way."
+  },
+  {
+   "s": "Uno busca desde un punto conocido.",
+   "e": "You look from a known point."
+  },
+  {
+   "s": "Una iglesia, una escuela, una pulpería.",
+   "e": "A church, a school, a pulpería."
+  },
+  {
+   "s": "Y después se cuentan las cuadras.",
+   "e": "And then you count the blocks."
+  },
+  {
+   "s": "Una cuadra es de esquina a esquina.",
+   "e": "A block is corner to corner."
+  },
+  {
+   "s": "Dos cuadras son dos esquinas.",
+   "e": "Two blocks are two corners."
+  },
+  {
+   "s": "Tres cuadras son tres esquinas.",
+   "e": "Three blocks are three corners."
+  },
+  {
+   "s": "Contar cuadras es fácil.",
+   "e": "Counting blocks is easy."
+  },
+  {
+   "s": "Lo difícil es lo otro.",
+   "e": "The hard part is the other thing."
+  },
+  {
+   "s": "\"Al lago\" quiere decir al norte.",
+   "e": "\"Al lago\" means to the north."
+  },
+  {
+   "s": "El lago está al norte de Managua.",
+   "e": "The lake is to the north of Managua."
+  },
+  {
+   "s": "Todo el mundo sabe dónde está el lago.",
+   "e": "Everybody knows where the lake is."
+  },
+  {
+   "s": "Entonces el lago es el norte.",
+   "e": "So the lake is north."
+  },
+  {
+   "s": "Y lo contrario del lago es al sur.",
+   "e": "And the opposite of the lake is south."
+  },
+  {
+   "s": "\"Al sur\" quiere decir para las montañas.",
+   "e": "\"Al sur\" means towards the mountains."
+  },
+  {
+   "s": "Después está arriba y abajo.",
+   "e": "Then there is arriba and abajo."
+  },
+  {
+   "s": "Arriba es al este, donde sale el sol.",
+   "e": "Arriba is east, where the sun comes up."
+  },
+  {
+   "s": "Abajo es al oeste, donde se mete el sol.",
+   "e": "Abajo is west, where the sun goes down."
+  },
+  {
+   "s": "Arriba y abajo no son montañas.",
+   "e": "Arriba and abajo are not hills."
+  },
+  {
+   "s": "Arriba y abajo son el sol.",
+   "e": "Arriba and abajo are the sun."
+  },
+  {
+   "s": "Roberto me lo repite despacio.",
+   "e": "Roberto repeats it to me slowly."
+  },
+  {
+   "s": "\"Al lago, al norte. Al sur, al sur.\"",
+   "e": "\"Al lago is north. Al sur is south.\""
+  },
+  {
+   "s": "\"Arriba, al este. Abajo, al oeste.\"",
+   "e": "\"Arriba is east. Abajo is west.\""
+  },
+  {
+   "s": "Yo lo escribo en un papel.",
+   "e": "I write it on a piece of paper."
+  },
+  {
+   "s": "Salgo a buscar la casa.",
+   "e": "I go out to look for the house."
+  },
+  {
+   "s": "Encuentro la iglesia rápido.",
+   "e": "I find the church quickly."
+  },
+  {
+   "s": "Desde la iglesia camino al lago.",
+   "e": "From the church I walk towards the lake."
+  },
+  {
+   "s": "Cuento una cuadra.",
+   "e": "I count one block."
+  },
+  {
+   "s": "Cuento dos cuadras.",
+   "e": "I count two blocks."
+  },
+  {
+   "s": "Después tengo que ir una cuadra abajo.",
+   "e": "Then I have to go one block abajo."
+  },
+  {
+   "s": "Miro el sol para saber dónde es abajo.",
+   "e": "I look at the sun to know where abajo is."
+  },
+  {
+   "s": "El sol está bajando, entonces ese lado es abajo.",
+   "e": "The sun is going down, so that side is abajo."
+  },
+  {
+   "s": "Camino esa cuadra.",
+   "e": "I walk that block."
+  },
+  {
+   "s": "Y encuentro la casa.",
+   "e": "And I find the house."
+  },
+  {
+   "s": "La encuentro a la primera.",
+   "e": "I find it first time."
+  },
+  {
+   "s": "Estoy contento como un niño.",
+   "e": "I am as pleased as a child."
+  },
+  {
+   "s": "Al otro día me pierdo igual.",
+   "e": "The next day I get lost anyway."
+  },
+  {
+   "s": "Busco una casa y no la encuentro.",
+   "e": "I look for a house and I do not find it."
+  },
+  {
+   "s": "Estoy perdido en una calle sin nombre.",
+   "e": "I am lost in a street with no name."
+  },
+  {
+   "s": "Le pregunto a una señora.",
+   "e": "I ask a woman."
+  },
+  {
+   "s": "Ella me da otra dirección con cuadras.",
+   "e": "She gives me another address in blocks."
+  },
+  {
+   "s": "\"Tres cuadras arriba y media cuadra al sur.\"",
+   "e": "\"Three blocks arriba and half a block south.\""
+  },
+  {
+   "s": "Media cuadra.",
+   "e": "Half a block."
+  },
+  {
+   "s": "Aquí hasta las medias cuadras cuentan.",
+   "e": "Here even half blocks count."
+  },
+  {
+   "s": "Sigo sus cuadras y encuentro la casa.",
+   "e": "I follow her blocks and I find the house."
+  },
+  {
+   "s": "Ya no estoy perdido.",
+   "e": "I am not lost any more."
+  },
+  {
+   "s": "Al final el sistema funciona.",
+   "e": "In the end the system works."
+  },
+  {
+   "s": "Funciona si uno sabe dónde está el lago.",
+   "e": "It works if you know where the lake is."
+  },
+  {
+   "s": "Y yo ya sé dónde está el lago.",
+   "e": "And I know where the lake is now."
+  }
+ ]
+}

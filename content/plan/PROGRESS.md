@@ -2,12 +2,12 @@
 
 Written by `stage.py`. Do not edit by hand.
 
-**16 of 185 stories written** - 5,710 of ~148,000 running words.
+**25 of 185 stories written** - 8,544 of ~148,000 running words.
 
 | Phase | Written | Total |
 |---|---|---|
 | 0 | 16 | 16 |
-| 1 | 0 | 18 |
+| 1 | 9 | 18 |
 | 2 | 0 | 26 |
 | 3 | 0 | 26 |
 | 4 | 0 | 35 |
@@ -17,15 +17,6 @@ Written by `stage.py`. Do not edit by hand.
 
 ## Next to write
 
-- `p1-01` **Dos cuadras al lago** - Directions with no street names
-- `p1-02` **Donde fue el arbol** - Places that no longer exist are still directions
-- `p1-03` **Regateando** - Arguing about price without being rude
-- `p1-04` **La ruta 110** - Buses, properly this time
-- `p1-05` **El mototaxi** - Three wheels and no doors
-- `p1-06` **Un chip Claro** - Getting a phone that works
-- `p1-07` **El mercado Oriental** - The biggest market in Central America
-- `p1-08` **Vigoron** - Granada on a banana leaf
-- `p1-09` **Leon y Granada** - Two cities that do not like each other
 - `p1-10` **El lago Cocibolca** - A freshwater sea
 - `p1-11` **La epoca seca** - Two seasons, and this is the hard one
 - `p1-12` **En la ferreteria** - Buying things by describing them
@@ -37,4 +28,13 @@ Written by `stage.py`. Do not edit by hand.
 - `p1-18` **Ya se llegar** - You can get anywhere now
 - `p2-01` **Como te llamas de verdad** - Names, and all the ones you get given
 - `p2-02` **La familia de Roberto** - Everyone is somebody's cousin
-- ... and 149 more in `plan/spine.json`
+- `p2-03` **Pase adelante** - Being invited in, and not being able to refuse
+- `p2-04` **Me cae bien** - Liking a person is a different verb
+- `p2-05` **De donde sos** - The question everyone asks
+- `p2-06` **Contame** - Telling somebody what happened
+- `p2-07` **Ahorita** - A word that means four different things
+- `p2-08` **El cumpleanos** - A birthday, and you are expected
+- `p2-09` **Chavalos** - Children are everywhere and they are everyone's
+- `p2-10` **La iglesia** - Faith is not a private matter here
+- `p2-11` **El beisbol** - Not football. Baseball.
+- ... and 140 more in `plan/spine.json`

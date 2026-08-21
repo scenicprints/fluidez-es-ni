@@ -1,0 +1,229 @@
+{
+ "id": "p1-06",
+ "title": "Un chip Claro",
+ "desc": "Getting a phone that works",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "chip",
+  "celular",
+  "saldo",
+  "número",
+  "nota",
+  "voz"
+ ],
+ "sn": [
+  {
+   "s": "Mi celular no funciona aquí.",
+   "e": "My phone does not work here."
+  },
+  {
+   "s": "No tiene señal y no tiene número.",
+   "e": "It has no signal and no number."
+  },
+  {
+   "s": "Necesito un chip de aquí.",
+   "e": "I need a chip from here."
+  },
+  {
+   "s": "Roberto me lleva a una tienda pequeña.",
+   "e": "Roberto takes me to a small shop."
+  },
+  {
+   "s": "Hay dos compañías: Claro y Tigo.",
+   "e": "There are two companies: Claro and Tigo."
+  },
+  {
+   "s": "Casi todos tienen Claro.",
+   "e": "Nearly everybody has Claro."
+  },
+  {
+   "s": "Yo compro un chip Claro.",
+   "e": "I buy a Claro chip."
+  },
+  {
+   "s": "El chip cuesta muy poco.",
+   "e": "The chip costs very little."
+  },
+  {
+   "s": "El señor pone el chip en mi celular.",
+   "e": "The man puts the chip in my phone."
+  },
+  {
+   "s": "El celular prende y busca señal.",
+   "e": "The phone starts up and looks for a signal."
+  },
+  {
+   "s": "Ahora mi celular tiene un número de aquí.",
+   "e": "Now my phone has a local number."
+  },
+  {
+   "s": "El número tiene ocho cifras.",
+   "e": "The number has eight digits."
+  },
+  {
+   "s": "Le doy mi número a Roberto.",
+   "e": "I give my number to Roberto."
+  },
+  {
+   "s": "Roberto me da su número.",
+   "e": "Roberto gives me his."
+  },
+  {
+   "s": "Le doy mi número a doña Carmen.",
+   "e": "I give my number to doña Carmen."
+  },
+  {
+   "s": "El chip no viene con nada adentro.",
+   "e": "The chip comes with nothing on it."
+  },
+  {
+   "s": "Hay que ponerle saldo.",
+   "e": "You have to put credit on it."
+  },
+  {
+   "s": "Sin saldo el celular no sirve.",
+   "e": "Without credit the phone is no use."
+  },
+  {
+   "s": "El saldo se compra en la pulpería.",
+   "e": "Credit is bought at the pulpería."
+  },
+  {
+   "s": "No hay que ir a una tienda especial.",
+   "e": "You do not have to go to a special shop."
+  },
+  {
+   "s": "Doña Chepa vende recargas.",
+   "e": "Doña Chepa sells top-ups."
+  },
+  {
+   "s": "Todas las pulperías venden recargas.",
+   "e": "All the pulperías sell top-ups."
+  },
+  {
+   "s": "Voy donde doña Chepa.",
+   "e": "I go to doña Chepa's."
+  },
+  {
+   "s": "\"Buenas. Una recarga de cincuenta.\"",
+   "e": "\"Buenas. A fifty top-up.\""
+  },
+  {
+   "s": "\"¿Qué número?\", pregunta ella.",
+   "e": "\"What number?\" she asks."
+  },
+  {
+   "s": "Le digo mi número despacio.",
+   "e": "I say my number to her slowly."
+  },
+  {
+   "s": "Ella lo escribe en su celular.",
+   "e": "She types it into her phone."
+  },
+  {
+   "s": "En un momento me llega un mensaje.",
+   "e": "A moment later a message arrives."
+  },
+  {
+   "s": "El mensaje dice que tengo saldo.",
+   "e": "The message says I have credit."
+  },
+  {
+   "s": "Cincuenta pesos de saldo.",
+   "e": "Fifty pesos of credit."
+  },
+  {
+   "s": "Así de fácil.",
+   "e": "That easy."
+  },
+  {
+   "s": "No hay tarjeta ni papel.",
+   "e": "There is no card and no paper."
+  },
+  {
+   "s": "Antes había tarjetas de recarga.",
+   "e": "There used to be top-up cards."
+  },
+  {
+   "s": "Ahora todo se hace por el celular.",
+   "e": "Now it is all done by phone."
+  },
+  {
+   "s": "Con saldo puedo hacer una llamada.",
+   "e": "With credit I can make a call."
+  },
+  {
+   "s": "Pero casi nadie hace llamadas.",
+   "e": "But hardly anybody makes calls."
+  },
+  {
+   "s": "Todo el mundo manda mensajes.",
+   "e": "Everybody sends messages."
+  },
+  {
+   "s": "Y todo el mundo manda notas de voz.",
+   "e": "And everybody sends voice notes."
+  },
+  {
+   "s": "Doña Carmen manda notas de voz largas.",
+   "e": "Doña Carmen sends long voice notes."
+  },
+  {
+   "s": "Notas de voz de dos minutos.",
+   "e": "Two-minute voice notes."
+  },
+  {
+   "s": "Roberto también manda notas de voz.",
+   "e": "Roberto sends voice notes too."
+  },
+  {
+   "s": "Nadie escribe si puede hablar.",
+   "e": "Nobody writes if they can talk."
+  },
+  {
+   "s": "Para mí eso es bueno y es malo.",
+   "e": "For me that is good and bad."
+  },
+  {
+   "s": "Es malo porque hablan rápido.",
+   "e": "It is bad because they talk fast."
+  },
+  {
+   "s": "Es bueno porque puedo oírlo otra vez.",
+   "e": "It is good because I can hear it again."
+  },
+  {
+   "s": "Oigo cada nota de voz tres veces.",
+   "e": "I listen to each voice note three times."
+  },
+  {
+   "s": "La primera vez no entiendo casi nada.",
+   "e": "The first time I understand almost nothing."
+  },
+  {
+   "s": "La segunda vez entiendo la mitad.",
+   "e": "The second time I understand half."
+  },
+  {
+   "s": "La tercera vez entiendo casi todo.",
+   "e": "The third time I understand nearly all of it."
+  },
+  {
+   "s": "El saldo se acaba rápido con los datos.",
+   "e": "The credit runs out fast with data."
+  },
+  {
+   "s": "Hay que recargar cada semana.",
+   "e": "You have to top up every week."
+  },
+  {
+   "s": "Y así uno vuelve a la pulpería.",
+   "e": "And so you go back to the pulpería."
+  },
+  {
+   "s": "Todo aquí vuelve a la pulpería.",
+   "e": "Everything here comes back to the pulpería."
+  }
+ ]
+}

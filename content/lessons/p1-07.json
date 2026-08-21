@@ -1,0 +1,221 @@
+{
+ "id": "p1-07",
+ "title": "El mercado Oriental",
+ "desc": "The biggest market in Central America",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "puesto",
+  "pasillo"
+ ],
+ "sn": [
+  {
+   "s": "El mercado Oriental es enorme.",
+   "e": "The Oriental market is enormous."
+  },
+  {
+   "s": "Es el mercado más grande de Centroamérica.",
+   "e": "It is the biggest market in Central America."
+  },
+  {
+   "s": "No es un edificio.",
+   "e": "It is not a building."
+  },
+  {
+   "s": "Es un barrio entero de puestos.",
+   "e": "It is a whole neighbourhood of stalls."
+  },
+  {
+   "s": "Hay miles de puestos.",
+   "e": "There are thousands of stalls."
+  },
+  {
+   "s": "Cada puesto vende una cosa.",
+   "e": "Each stall sells one thing."
+  },
+  {
+   "s": "Un puesto vende sólo cebollas.",
+   "e": "One stall sells only onions."
+  },
+  {
+   "s": "El puesto de al lado vende sólo tomates.",
+   "e": "The stall next door sells only tomatoes."
+  },
+  {
+   "s": "Otro puesto vende sólo zapatos.",
+   "e": "Another stall sells only shoes."
+  },
+  {
+   "s": "Los puestos están juntos por tipo.",
+   "e": "The stalls are grouped by type."
+  },
+  {
+   "s": "Todas las verduras están en un lado.",
+   "e": "All the vegetables are on one side."
+  },
+  {
+   "s": "Toda la ropa está en otro lado.",
+   "e": "All the clothes are on another side."
+  },
+  {
+   "s": "La carne está en otro tramo.",
+   "e": "The meat is in another section."
+  },
+  {
+   "s": "Cada tramo tiene su olor.",
+   "e": "Each section has its own smell."
+  },
+  {
+   "s": "Los pasillos son estrechos.",
+   "e": "The aisles are narrow."
+  },
+  {
+   "s": "Dos personas apenas caben en un pasillo.",
+   "e": "Two people barely fit in an aisle."
+  },
+  {
+   "s": "Y por esos pasillos pasan carretillas.",
+   "e": "And barrows come through those aisles."
+  },
+  {
+   "s": "\"¡Permiso, permiso!\", grita el de la carretilla.",
+   "e": "\"Coming through!\" shouts the barrow man."
+  },
+  {
+   "s": "Uno se pega a la pared y lo deja pasar.",
+   "e": "You press against the wall and let him past."
+  },
+  {
+   "s": "Roberto me lleva la primera vez.",
+   "e": "Roberto takes me the first time."
+  },
+  {
+   "s": "Roberto es mi guía.",
+   "e": "Roberto is my guide."
+  },
+  {
+   "s": "Sin guía yo no entro ahí.",
+   "e": "Without a guide I do not go in there."
+  },
+  {
+   "s": "\"No te sueltes\", me dice él.",
+   "e": "\"Don't let go,\" he says to me."
+  },
+  {
+   "s": "Yo lo sigo por los pasillos.",
+   "e": "I follow him through the aisles."
+  },
+  {
+   "s": "Doblamos a la derecha.",
+   "e": "We turn right."
+  },
+  {
+   "s": "Doblamos a la izquierda.",
+   "e": "We turn left."
+  },
+  {
+   "s": "Doblamos otra vez y ya estoy perdido.",
+   "e": "We turn again and I am already lost."
+  },
+  {
+   "s": "Todos los pasillos son iguales.",
+   "e": "All the aisles look the same."
+  },
+  {
+   "s": "Pero Roberto sabe exactamente dónde está.",
+   "e": "But Roberto knows exactly where he is."
+  },
+  {
+   "s": "\"Aquí venden las verduras baratas\", dice.",
+   "e": "\"They sell cheap vegetables here,\" he says."
+  },
+  {
+   "s": "Compramos tomates y cebollas.",
+   "e": "We buy tomatoes and onions."
+  },
+  {
+   "s": "Compramos un repollo grande.",
+   "e": "We buy a big cabbage."
+  },
+  {
+   "s": "Todo cuesta la mitad que en la pulpería.",
+   "e": "Everything costs half what it does at the pulpería."
+  },
+  {
+   "s": "Por eso doña Carmen viene aquí.",
+   "e": "That is why doña Carmen comes here."
+  },
+  {
+   "s": "Viene una vez por semana.",
+   "e": "She comes once a week."
+  },
+  {
+   "s": "Viene temprano, a las seis.",
+   "e": "She comes early, at six."
+  },
+  {
+   "s": "\"¿Por qué tan temprano?\", pregunto.",
+   "e": "\"Why so early?\" I ask."
+  },
+  {
+   "s": "\"Porque está fresco y hay menos gente.\"",
+   "e": "\"Because it's cool and there are fewer people.\""
+  },
+  {
+   "s": "Al mediodía el mercado es un horno.",
+   "e": "At midday the market is an oven."
+  },
+  {
+   "s": "Un mes después voy solo.",
+   "e": "A month later I go on my own."
+  },
+  {
+   "s": "Entro por la misma esquina de siempre.",
+   "e": "I go in by the same corner as always."
+  },
+  {
+   "s": "Sigo el pasillo de las verduras.",
+   "e": "I follow the vegetable aisle."
+  },
+  {
+   "s": "Doblo donde está el puesto del queso.",
+   "e": "I turn where the cheese stall is."
+  },
+  {
+   "s": "Y encuentro a la señora de los tomates.",
+   "e": "And I find the tomato woman."
+  },
+  {
+   "s": "\"Buenas, chele\", me dice ella.",
+   "e": "\"Buenas, chele,\" she says to me."
+  },
+  {
+   "s": "Ya me conoce.",
+   "e": "She knows me now."
+  },
+  {
+   "s": "Le compro tomates y le pregunto por su hija.",
+   "e": "I buy tomatoes and ask after her daughter."
+  },
+  {
+   "s": "Salgo del mercado sin perderme.",
+   "e": "I come out of the market without getting lost."
+  },
+  {
+   "s": "No sé el nombre de ningún pasillo.",
+   "e": "I do not know the name of a single aisle."
+  },
+  {
+   "s": "Los pasillos no tienen nombre.",
+   "e": "The aisles do not have names."
+  },
+  {
+   "s": "Yo me guío por los puestos.",
+   "e": "I find my way by the stalls."
+  },
+  {
+   "s": "Como todo el mundo aquí.",
+   "e": "Like everybody here."
+  }
+ ]
+}

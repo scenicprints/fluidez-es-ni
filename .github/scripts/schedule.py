@@ -44,7 +44,10 @@ SPINE_ID = re.compile(r"^p[0-7]-\d\d$")
 
 COVERAGE_MIN = 0.88
 COVERAGE_START = 0.60   # what story four is held to
-RAMP = 25               # stories over which the bar climbs to COVERAGE_MIN
+RAMP = 50               # stories over which the bar climbs to COVERAGE_MIN
+#   50, not 25: phases 0 and 1 are where the base vocabulary is built, and
+#   they are 34 stories between them. Demanding 88% known while the course is
+#   still assembling its first thousand words just blocks the words arriving.
 DENSITY_MIN = 5
 RETURN_MIN = 6
 RETURN_WINDOW = 25

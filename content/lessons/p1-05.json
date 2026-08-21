@@ -1,0 +1,233 @@
+{
+ "id": "p1-05",
+ "title": "El mototaxi",
+ "desc": "Three wheels and no doors",
+ "ph": 1,
+ "diff": 2,
+ "wu": [
+  "mototaxi",
+  "caponera"
+ ],
+ "sn": [
+  {
+   "s": "En Granada casi no hay taxis normales.",
+   "e": "In Granada there are hardly any normal taxis."
+  },
+  {
+   "s": "Hay mototaxis.",
+   "e": "There are mototaxis."
+  },
+  {
+   "s": "Un mototaxi tiene tres ruedas.",
+   "e": "A mototaxi has three wheels."
+  },
+  {
+   "s": "Una rueda adelante y dos ruedas atrás.",
+   "e": "One wheel at the front and two at the back."
+  },
+  {
+   "s": "El mototaxi no tiene puertas.",
+   "e": "The mototaxi has no doors."
+  },
+  {
+   "s": "El motor suena fuerte.",
+   "e": "The engine is loud."
+  },
+  {
+   "s": "El motor suena como una máquina de coser.",
+   "e": "The engine sounds like a sewing machine."
+  },
+  {
+   "s": "Aquí al mototaxi le dicen caponera.",
+   "e": "Here they call the mototaxi a caponera."
+  },
+  {
+   "s": "Caponera es la palabra de la gente.",
+   "e": "Caponera is the word people use."
+  },
+  {
+   "s": "Mototaxi es la palabra del papel.",
+   "e": "Mototaxi is the word on paper."
+  },
+  {
+   "s": "Roberto llama una caponera con la mano.",
+   "e": "Roberto waves a caponera down."
+  },
+  {
+   "s": "La caponera para en la esquina.",
+   "e": "The caponera stops at the corner."
+  },
+  {
+   "s": "Roberto no sube todavía.",
+   "e": "Roberto does not get in yet."
+  },
+  {
+   "s": "Primero habla con el señor.",
+   "e": "First he talks to the man."
+  },
+  {
+   "s": "\"¿Cuánto al parque?\", pregunta.",
+   "e": "\"How much to the park?\" he asks."
+  },
+  {
+   "s": "\"Treinta\", dice el señor.",
+   "e": "\"Thirty,\" the man says."
+  },
+  {
+   "s": "\"¿Treinta? Está cerca, hombre.\"",
+   "e": "\"Thirty? It's close, man.\""
+  },
+  {
+   "s": "\"Está bien, veinticinco.\"",
+   "e": "\"All right, twenty-five.\""
+  },
+  {
+   "s": "\"Dale\", dice Roberto.",
+   "e": "\"Dale,\" Roberto says."
+  },
+  {
+   "s": "Y ahora sí subimos.",
+   "e": "And now we get in."
+  },
+  {
+   "s": "Ese es el acuerdo.",
+   "e": "That is the agreement."
+  },
+  {
+   "s": "El acuerdo se hace antes de subir.",
+   "e": "The agreement is made before getting in."
+  },
+  {
+   "s": "Nunca después.",
+   "e": "Never afterwards."
+  },
+  {
+   "s": "Si uno sube sin acuerdo, paga lo que digan.",
+   "e": "If you get in without an agreement, you pay whatever they say."
+  },
+  {
+   "s": "Y lo que digan va a ser más.",
+   "e": "And whatever they say is going to be more."
+  },
+  {
+   "s": "Roberto me lo dice claro.",
+   "e": "Roberto says it plainly."
+  },
+  {
+   "s": "\"El acuerdo primero. Siempre.\"",
+   "e": "\"The agreement first. Always.\""
+  },
+  {
+   "s": "\"Aunque sea cerca. Aunque sea corto.\"",
+   "e": "\"Even if it is close. Even if it is short.\""
+  },
+  {
+   "s": "El viaje es corto.",
+   "e": "The journey is short."
+  },
+  {
+   "s": "Son cinco cuadras nada más.",
+   "e": "It is only five blocks."
+  },
+  {
+   "s": "Pero con este calor cinco cuadras es lejos.",
+   "e": "But in this heat five blocks is far."
+  },
+  {
+   "s": "Adentro de la caponera corre el aire.",
+   "e": "Inside the caponera the air moves."
+  },
+  {
+   "s": "Sin puertas, el aire entra por todos lados.",
+   "e": "With no doors, the air comes in from everywhere."
+  },
+  {
+   "s": "Eso es lo bueno de no tener puertas.",
+   "e": "That is the good thing about having no doors."
+  },
+  {
+   "s": "Vamos rápido entre los carros.",
+   "e": "We go fast between the cars."
+  },
+  {
+   "s": "La caponera pasa por donde no cabe un carro.",
+   "e": "The caponera goes where a car does not fit."
+  },
+  {
+   "s": "Yo me agarro fuerte.",
+   "e": "I hold on tight."
+  },
+  {
+   "s": "Roberto va tranquilo, como en su casa.",
+   "e": "Roberto sits calmly, as if at home."
+  },
+  {
+   "s": "Llegamos al parque en tres minutos.",
+   "e": "We arrive at the park in three minutes."
+  },
+  {
+   "s": "Le pago veinticinco pesos al señor.",
+   "e": "I pay the man twenty-five pesos."
+  },
+  {
+   "s": "Exactamente lo que dijimos.",
+   "e": "Exactly what we said."
+  },
+  {
+   "s": "Sin discusión y sin problema.",
+   "e": "With no argument and no trouble."
+  },
+  {
+   "s": "Al otro día tomo una caponera solo.",
+   "e": "The next day I take a caponera on my own."
+  },
+  {
+   "s": "\"¿Cuánto al mercado?\", pregunto.",
+   "e": "\"How much to the market?\" I ask."
+  },
+  {
+   "s": "\"Cincuenta\", dice el señor.",
+   "e": "\"Fifty,\" the man says."
+  },
+  {
+   "s": "Yo sé que el mercado está cerca.",
+   "e": "I know the market is close."
+  },
+  {
+   "s": "\"Está cerca. ¿Treinta?\", digo yo.",
+   "e": "\"It's close. Thirty?\" I say."
+  },
+  {
+   "s": "El señor me mira un momento.",
+   "e": "The man looks at me for a moment."
+  },
+  {
+   "s": "\"Treinta y cinco.\"",
+   "e": "\"Thirty-five.\""
+  },
+  {
+   "s": "\"Dale pues\", digo yo.",
+   "e": "\"Dale pues,\" I say."
+  },
+  {
+   "s": "Y subo.",
+   "e": "And I get in."
+  },
+  {
+   "s": "Treinta y cinco, no cincuenta.",
+   "e": "Thirty-five, not fifty."
+  },
+  {
+   "s": "Quince pesos no son nada.",
+   "e": "Fifteen pesos are nothing."
+  },
+  {
+   "s": "Pero yo no pagué de chele.",
+   "e": "But I did not pay a chele's price."
+  },
+  {
+   "s": "Pagué de aquí.",
+   "e": "I paid a local one."
+  }
+ ]
+}
