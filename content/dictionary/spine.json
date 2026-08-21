@@ -65,12 +65,20 @@
   "en": "to come closer/to approach",
   "pos": "v"
  },
+ "aclarar": {
+  "en": "to clear up",
+  "pos": "v"
+ },
  "acomodarse": {
   "en": "to settle in",
   "pos": "v"
  },
  "acompañar": {
   "en": "to go with",
+  "pos": "v"
+ },
+ "aconsejar": {
+  "en": "to advise",
   "pos": "v"
  },
  "acordar": {
@@ -99,6 +107,10 @@
   "g": "m",
   "note": "Agree the fare before you get in. Always",
   "pos": "n"
+ },
+ "acusar": {
+  "en": "to accuse",
+  "pos": "v"
  },
  "adelantar": {
   "en": "to move forward",
@@ -130,6 +142,11 @@
  "agarrarse": {
   "en": "to hold on",
   "pos": "v"
+ },
+ "agencia": {
+  "en": "agency",
+  "g": "f",
+  "pos": "n"
  },
  "aguantar": {
   "en": "to stand/to put up with",
@@ -234,6 +251,10 @@
   "en": "last night",
   "pos": "adv"
  },
+ "anterior": {
+  "en": "previous",
+  "pos": "adj"
+ },
  "antes": {
   "en": "before",
   "pos": "adv"
@@ -307,9 +328,28 @@
   "en": "to build/to put up",
   "pos": "v"
  },
+ "arrancar": {
+  "en": "to pull away/to start",
+  "pos": "v"
+ },
+ "arrechera": {
+  "en": "rage",
+  "g": "f",
+  "pos": "n"
+ },
+ "arrecho": {
+  "en": "furious - or excellent",
+  "note": "Both, and the tone decides. Never with elders, never in front of a lady",
+  "pos": "adj"
+ },
  "arreglar": {
   "en": "to fix",
   "pos": "v"
+ },
+ "arreglo": {
+  "en": "the fix/arrangement",
+  "g": "m",
+  "pos": "n"
  },
  "arriba": {
   "en": "up/east",
@@ -336,6 +376,10 @@
  },
  "asustarse": {
   "en": "to get scared",
+  "pos": "v"
+ },
+ "atacar": {
+  "en": "to attack",
   "pos": "v"
  },
  "atención": {
@@ -522,6 +566,11 @@
   "note": "Water and juice are sold in bags here, not bottles",
   "pos": "n"
  },
+ "bolsillo": {
+  "en": "pocket",
+  "g": "m",
+  "pos": "n"
+ },
  "bombillo": {
   "en": "light bulb",
   "g": "m",
@@ -562,6 +611,11 @@
   "en": "to toast",
   "note": "Touch every bottle, and look them in the face",
   "pos": "v"
+ },
+ "brocha": {
+  "en": "brush",
+  "g": "f",
+  "pos": "n"
  },
  "broma": {
   "en": "joke",
@@ -621,6 +675,11 @@
   "g": "f",
   "pos": "n"
  },
+ "calamidad": {
+  "en": "disaster",
+  "g": "f",
+  "pos": "n"
+ },
  "calcetín": {
   "en": "sock",
   "g": "m",
@@ -630,10 +689,19 @@
   "en": "hot",
   "pos": "adj"
  },
+ "callarse": {
+  "en": "to go quiet",
+  "pos": "v"
+ },
  "calma": {
   "en": "calm",
   "g": "f",
   "pos": "n"
+ },
+ "calmarse": {
+  "en": "to calm down",
+  "note": "Telling somebody to is pouring petrol on it",
+  "pos": "v"
  },
  "cama": {
   "en": "bed",
@@ -736,6 +804,11 @@
   "g": "m",
   "pos": "n"
  },
+ "cartera": {
+  "en": "wallet/handbag",
+  "g": "f",
+  "pos": "n"
+ },
  "casado": {
   "en": "married",
   "pos": "adj"
@@ -793,8 +866,9 @@
   "pos": "n"
  },
  "cerca": {
-  "en": "near/close",
-  "pos": "adv"
+  "en": "fence",
+  "g": "f",
+  "pos": "n"
  },
  "cerdo": {
   "en": "pig/pork",
@@ -940,6 +1014,11 @@
   "g": "m",
   "pos": "n"
  },
+ "cola": {
+  "en": "queue/tail",
+  "g": "f",
+  "pos": "n"
+ },
  "colonial": {
   "en": "colonial",
   "pos": "adj"
@@ -1017,6 +1096,15 @@
   "en": "to spoil/to indulge",
   "pos": "v"
  },
+ "construcción": {
+  "en": "construction",
+  "g": "f",
+  "pos": "n"
+ },
+ "construir": {
+  "en": "to build",
+  "pos": "v"
+ },
  "consumo": {
   "en": "consumption",
   "g": "m",
@@ -1074,6 +1162,11 @@
  "copiar": {
   "en": "to copy",
   "pos": "v"
+ },
+ "corrección": {
+  "en": "correction",
+  "g": "f",
+  "pos": "n"
  },
  "corregir": {
   "en": "to correct",
@@ -1237,9 +1330,19 @@
   "en": "to owe/must",
   "pos": "v"
  },
+ "debilidad": {
+  "en": "weakness",
+  "g": "f",
+  "pos": "n"
+ },
  "decidir": {
   "en": "to decide",
   "pos": "v"
+ },
+ "decisión": {
+  "en": "decision",
+  "g": "f",
+  "pos": "n"
  },
  "dedo": {
   "en": "finger",
@@ -1247,7 +1350,12 @@
   "pos": "n"
  },
  "defenderse": {
-  "en": "to defend yourself",
+  "en": "to get by/to hold your own",
+  "note": "The verb used for coping here, as if living were something you stand up to",
+  "pos": "v"
+ },
+ "denunciar": {
+  "en": "to report",
   "pos": "v"
  },
  "depender": {
@@ -1274,6 +1382,11 @@
   "g": "m",
   "pos": "n"
  },
+ "desagüe": {
+  "en": "drain",
+  "g": "m",
+  "pos": "n"
+ },
  "desayuno": {
   "en": "breakfast",
   "g": "m",
@@ -1291,6 +1404,11 @@
   "en": "to describe",
   "pos": "v"
  },
+ "descuido": {
+  "en": "carelessness",
+  "g": "m",
+  "pos": "n"
+ },
  "desfile": {
   "en": "parade",
   "g": "m",
@@ -1300,6 +1418,19 @@
   "en": "disorder",
   "g": "m",
   "pos": "n"
+ },
+ "despedida": {
+  "en": "send-off",
+  "g": "f",
+  "pos": "n"
+ },
+ "despedirse": {
+  "en": "to say goodbye",
+  "pos": "v"
+ },
+ "destapar": {
+  "en": "to unblock",
+  "pos": "v"
  },
  "detalle": {
   "en": "detail",
@@ -1334,15 +1465,30 @@
   "g": "f",
   "pos": "n"
  },
+ "difícil": {
+  "en": "hard/difficult",
+  "pos": "adj"
+ },
  "dirección": {
   "en": "address/direction",
   "g": "f",
   "note": "An address here is landmarks, not a street and number",
   "pos": "n"
  },
+ "disculpa": {
+  "en": "apology",
+  "g": "f",
+  "note": "Three parts: what you did, that it was your fault, what you will do",
+  "pos": "n"
+ },
  "disculpar": {
   "en": "to excuse",
   "pos": "v"
+ },
+ "discurso": {
+  "en": "speech",
+  "g": "m",
+  "pos": "n"
  },
  "discusión": {
   "en": "argument",
@@ -1388,6 +1534,11 @@
  "dormido": {
   "en": "asleep",
   "pos": "adj"
+ },
+ "duda": {
+  "en": "doubt",
+  "g": "f",
+  "pos": "n"
  },
  "dudar": {
   "en": "to hesitate/to doubt",
@@ -1439,6 +1590,11 @@
   "g": "m",
   "pos": "n"
  },
+ "emergencia": {
+  "en": "emergency",
+  "g": "f",
+  "pos": "n"
+ },
  "empezar": {
   "en": "to start",
   "pos": "v"
@@ -1465,6 +1621,11 @@
   "g": "m",
   "pos": "n"
  },
+ "enfermera": {
+  "en": "nurse",
+  "g": "f",
+  "pos": "n"
+ },
  "enfermo": {
   "en": "ill",
   "pos": "adj"
@@ -1472,6 +1633,10 @@
  "enfrente": {
   "en": "opposite/across",
   "pos": "adv"
+ },
+ "enojado": {
+  "en": "angry",
+  "pos": "adj"
  },
  "enojarse": {
   "en": "to get angry",
@@ -1580,6 +1745,10 @@
   "g": "f",
   "pos": "n"
  },
+ "estable": {
+  "en": "stable",
+  "pos": "adj"
+ },
  "estación": {
   "en": "season/station",
   "g": "f",
@@ -1654,6 +1823,10 @@
   "en": "stranger/strange",
   "g": "m",
   "pos": "n"
+ },
+ "fallar": {
+  "en": "to let somebody down",
+  "pos": "v"
  },
  "faltar": {
   "en": "to be missing/to be left",
@@ -1775,6 +1948,11 @@
   "note": "Sets up at dusk. You eat standing in the street",
   "pos": "n"
  },
+ "frontera": {
+  "en": "border",
+  "g": "f",
+  "pos": "n"
+ },
  "fruta": {
   "en": "fruit",
   "g": "f",
@@ -1783,6 +1961,11 @@
  "funcionar": {
   "en": "to work/to function",
   "pos": "v"
+ },
+ "furia": {
+  "en": "fury",
+  "g": "f",
+  "pos": "n"
  },
  "futuro": {
   "en": "future",
@@ -1826,6 +2009,11 @@
  },
  "gaseosa": {
   "en": "fizzy drink",
+  "g": "f",
+  "pos": "n"
+ },
+ "gasolina": {
+  "en": "petrol",
   "g": "f",
   "pos": "n"
  },
@@ -1889,6 +2077,11 @@
  "grosero": {
   "en": "rude",
   "pos": "adj"
+ },
+ "grosería": {
+  "en": "a coarse word",
+  "g": "f",
+  "pos": "n"
  },
  "grueso": {
   "en": "thick",
@@ -2066,6 +2259,11 @@
   "g": "f",
   "pos": "n"
  },
+ "insulto": {
+  "en": "insult",
+  "g": "m",
+  "pos": "n"
+ },
  "intención": {
   "en": "intention",
   "g": "f",
@@ -2136,6 +2334,10 @@
   "en": "to collect/to gather",
   "pos": "v"
  },
+ "justo": {
+  "en": "fair",
+  "pos": "adj"
+ },
  "jícara": {
   "en": "gourd cup",
   "g": "f",
@@ -2154,6 +2356,11 @@
  "lavar": {
   "en": "to wash",
   "pos": "v"
+ },
+ "lección": {
+  "en": "lesson",
+  "g": "f",
+  "pos": "n"
  },
  "leche": {
   "en": "milk",
@@ -2369,6 +2576,11 @@
   "g": "f",
   "pos": "n"
  },
+ "medida": {
+  "en": "measurement",
+  "g": "f",
+  "pos": "n"
+ },
  "mediodía": {
   "en": "midday",
   "g": "m",
@@ -2388,10 +2600,18 @@
   "g": "f",
   "pos": "n"
  },
+ "mencionar": {
+  "en": "to mention",
+  "pos": "v"
+ },
  "mensaje": {
   "en": "message",
   "g": "m",
   "pos": "n"
+ },
+ "mensual": {
+  "en": "monthly",
+  "pos": "adj"
  },
  "mentir": {
   "en": "to lie",
@@ -2643,6 +2863,11 @@
   "g": "f",
   "pos": "n"
  },
+ "noticia": {
+  "en": "news",
+  "g": "f",
+  "pos": "n"
+ },
  "novia": {
   "en": "girlfriend",
   "g": "f",
@@ -2726,8 +2951,21 @@
   "en": "to forget",
   "pos": "v"
  },
+ "operar": {
+  "en": "to operate",
+  "pos": "v"
+ },
  "opinar": {
   "en": "to give an opinion",
+  "pos": "v"
+ },
+ "opinión": {
+  "en": "opinion",
+  "g": "f",
+  "pos": "n"
+ },
+ "organizar": {
+  "en": "to organise",
   "pos": "v"
  },
  "orgullo": {
@@ -2766,6 +3004,11 @@
  },
  "papel": {
   "en": "paper/piece of paper",
+  "g": "m",
+  "pos": "n"
+ },
+ "papeles": {
+  "en": "papers",
   "g": "m",
   "pos": "n"
  },
@@ -2896,6 +3139,11 @@
   "en": "lost",
   "pos": "adj"
  },
+ "perdonar": {
+  "en": "to forgive",
+  "note": "Apologise once. Repeating it loads it back on them",
+  "pos": "v"
+ },
  "permiso": {
   "en": "permission/excuse me",
   "g": "m",
@@ -2977,6 +3225,10 @@
   "g": "m",
   "note": "The national drink. Stir it or you drink sweet water",
   "pos": "n"
+ },
+ "pintar": {
+  "en": "to paint",
+  "pos": "v"
  },
  "pintura": {
   "en": "paint",
@@ -3272,6 +3524,10 @@
   "note": "Worth more than a CV. Whoever recommends you answers for you",
   "pos": "v"
  },
+ "reconocer": {
+  "en": "to acknowledge/to recognise",
+  "pos": "v"
+ },
  "recordar": {
   "en": "to remember",
   "pos": "v"
@@ -3334,6 +3590,12 @@
   "g": "m",
   "pos": "n"
  },
+ "remesa": {
+  "en": "remittance",
+  "g": "f",
+  "note": "Money from a relative abroad. Half the street lives on it",
+  "pos": "n"
+ },
  "repartir": {
   "en": "to hand out",
   "pos": "v"
@@ -3363,6 +3625,10 @@
   "en": "beef",
   "g": "f",
   "pos": "n"
+ },
+ "resolver": {
+  "en": "to sort out",
+  "pos": "v"
  },
  "respeto": {
   "en": "respect",
@@ -3401,6 +3667,11 @@
  },
  "rezar": {
   "en": "to pray",
+  "pos": "v"
+ },
+ "robar": {
+  "en": "to steal",
+  "note": "'Me robaron' - it was stolen from me, never 'I lost it'",
   "pos": "v"
  },
  "robo": {
@@ -3455,6 +3726,11 @@
  "sacar": {
   "en": "to take out",
   "pos": "v"
+ },
+ "sacrificio": {
+  "en": "sacrifice",
+  "g": "m",
+  "pos": "n"
  },
  "sal": {
   "en": "salt",
@@ -3585,6 +3861,11 @@
   "en": "next",
   "pos": "adj"
  },
+ "silencio": {
+  "en": "silence",
+  "g": "m",
+  "pos": "n"
+ },
  "silla": {
   "en": "chair",
   "g": "f",
@@ -3597,6 +3878,11 @@
  "sistema": {
   "en": "system",
   "g": "m",
+  "pos": "n"
+ },
+ "situación": {
+  "en": "situation",
+  "g": "f",
   "pos": "n"
  },
  "sobrar": {
@@ -3664,8 +3950,17 @@
   "en": "to get on/to go up",
   "pos": "v"
  },
+ "sucio": {
+  "en": "dirty",
+  "pos": "adj"
+ },
  "sueldo": {
   "en": "wage",
+  "g": "m",
+  "pos": "n"
+ },
+ "suelo": {
+  "en": "floor/ground",
   "g": "m",
   "pos": "n"
  },
@@ -3688,6 +3983,10 @@
  "suficiente": {
   "en": "enough",
   "pos": "adj"
+ },
+ "suponer": {
+  "en": "to assume",
+  "pos": "v"
  },
  "sur": {
   "en": "south",
@@ -3729,9 +4028,18 @@
   "g": "m",
   "pos": "n"
  },
+ "tapar": {
+  "en": "to block/to cover",
+  "pos": "v"
+ },
  "tardar": {
   "en": "to take time",
   "pos": "v"
+ },
+ "tarea": {
+  "en": "task",
+  "g": "f",
+  "pos": "n"
  },
  "tarjeta": {
   "en": "card",
@@ -3781,6 +4089,11 @@
   "en": "earthquake",
   "g": "m",
   "note": "The 1972 earthquake flattened central Managua. The addresses outlived the buildings",
+  "pos": "n"
+ },
+ "terreno": {
+  "en": "plot of land",
+  "g": "m",
   "pos": "n"
  },
  "testigo": {
@@ -3938,6 +4251,15 @@
   "g": "m",
   "pos": "n"
  },
+ "urgencia": {
+  "en": "emergency",
+  "g": "f",
+  "pos": "n"
+ },
+ "usado": {
+  "en": "second-hand",
+  "pos": "adj"
+ },
  "usar": {
   "en": "to use",
   "pos": "v"
@@ -3964,6 +4286,12 @@
  "vela": {
   "en": "candle",
   "g": "f",
+  "pos": "n"
+ },
+ "velorio": {
+  "en": "wake",
+  "g": "m",
+  "note": "You go, even if you did not know them",
   "pos": "n"
  },
  "vendedor": {

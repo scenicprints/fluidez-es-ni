@@ -1,0 +1,194 @@
+{
+ "id": "p3-24",
+ "title": "Se fue para el sur",
+ "desc": "Somebody leaves",
+ "ph": 3,
+ "diff": 3,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Un compañero del trabajo se va.",
+   "e": "A workmate is leaving."
+  },
+  {
+   "s": "Se va para Costa Rica.",
+   "e": "He is going to Costa Rica."
+  },
+  {
+   "s": "Lo dice un martes, sin aviso.",
+   "e": "He says it on a Tuesday, with no warning."
+  },
+  {
+   "s": "\"Me voy el domingo\", dice él.",
+   "e": "\"I'm going on Sunday,\" he says."
+  },
+  {
+   "s": "Nadie se sorprende mucho.",
+   "e": "Nobody is very surprised."
+  },
+  {
+   "s": "Aquí siempre hay alguien yéndose.",
+   "e": "Here there is always somebody leaving."
+  },
+  {
+   "s": "Le preguntan si tiene papeles.",
+   "e": "They ask him if he has papers."
+  },
+  {
+   "s": "Dice que no, que va a probar.",
+   "e": "He says no, that he is going to try."
+  },
+  {
+   "s": "Le preguntan si tiene a alguien allá.",
+   "e": "They ask if he has anybody there."
+  },
+  {
+   "s": "Dice que un primo lo espera en la frontera.",
+   "e": "He says a cousin is waiting for him at the border."
+  },
+  {
+   "s": "Nadie le dice que no se vaya.",
+   "e": "Nobody tells him not to go."
+  },
+  {
+   "s": "Nadie le dice que se cuide, tampoco.",
+   "e": "Nobody tells him to look after himself either."
+  },
+  {
+   "s": "Le hablan del trabajo que hay allá.",
+   "e": "They talk to him about the work there."
+  },
+  {
+   "s": "Le dicen cuánto se paga en la construcción.",
+   "e": "They tell him what construction pays."
+  },
+  {
+   "s": "Le dicen dónde se alquila barato.",
+   "e": "They tell him where you can rent cheap."
+  },
+  {
+   "s": "Le dan datos, no consejos.",
+   "e": "They give him information, not advice."
+  },
+  {
+   "s": "Eso me llama la atención.",
+   "e": "That strikes me."
+  },
+  {
+   "s": "Después entiendo por qué es así.",
+   "e": "Later I understand why it is like that."
+  },
+  {
+   "s": "Ya está decidido.",
+   "e": "It is already decided."
+  },
+  {
+   "s": "Decirle algo triste no ayuda a nadie.",
+   "e": "Saying something sad helps nobody."
+  },
+  {
+   "s": "El viernes le hacemos una despedida chiquita.",
+   "e": "On Friday we give him a small send-off."
+  },
+  {
+   "s": "Compramos cerveza en la pulpería.",
+   "e": "We buy beer at the pulpería."
+  },
+  {
+   "s": "Nos sentamos afuera del trabajo.",
+   "e": "We sit outside work."
+  },
+  {
+   "s": "Nadie hace un discurso.",
+   "e": "Nobody makes a speech."
+  },
+  {
+   "s": "Nadie dice que lo va a extrañar.",
+   "e": "Nobody says they are going to miss him."
+  },
+  {
+   "s": "Hablan de béisbol casi toda la noche.",
+   "e": "They talk about baseball nearly all night."
+  },
+  {
+   "s": "Al final Marcos le da la mano.",
+   "e": "At the end Marcos shakes his hand."
+  },
+  {
+   "s": "\"Que le vaya bien, hermano\", dice él.",
+   "e": "\"May it go well for you, hermano,\" he says."
+  },
+  {
+   "s": "Y eso es toda la despedida.",
+   "e": "And that is the whole goodbye."
+  },
+  {
+   "s": "Le pregunto a Marcos por qué es tan corta.",
+   "e": "I ask Marcos why it is so short."
+  },
+  {
+   "s": "\"Porque si es larga, uno llora\", dice él.",
+   "e": "\"Because if it's long, somebody cries,\" he says."
+  },
+  {
+   "s": "\"Y llorando no se va nadie tranquilo.\"",
+   "e": "\"And crying, nobody leaves calm.\""
+  },
+  {
+   "s": "El domingo se va con una maleta.",
+   "e": "On Sunday he leaves with one suitcase."
+  },
+  {
+   "s": "Una maleta para una vida entera.",
+   "e": "One suitcase for a whole life."
+  },
+  {
+   "s": "Su mamá lo acompaña hasta el bus.",
+   "e": "His mother goes with him as far as the bus."
+  },
+  {
+   "s": "Eso me lo cuentan después.",
+   "e": "They tell me that afterwards."
+  },
+  {
+   "s": "Que ella no lloró hasta que el bus arrancó.",
+   "e": "That she did not cry until the bus pulled away."
+  },
+  {
+   "s": "Y que después lloró toda la tarde.",
+   "e": "And that then she cried all afternoon."
+  },
+  {
+   "s": "Dos meses después manda un mensaje.",
+   "e": "Two months later he sends a message."
+  },
+  {
+   "s": "Llegó bien y está trabajando.",
+   "e": "He arrived safely and is working."
+  },
+  {
+   "s": "Manda una foto de una casa a medio construir.",
+   "e": "He sends a photo of a half-built house."
+  },
+  {
+   "s": "Ahí trabaja y ahí duerme.",
+   "e": "He works there and sleeps there."
+  },
+  {
+   "s": "El grupo lo lee en el trabajo.",
+   "e": "The group reads it at work."
+  },
+  {
+   "s": "Todos dicen que está bien, que le fue bien.",
+   "e": "Everybody says he is fine, that it went well for him."
+  },
+  {
+   "s": "Y nadie dice lo que todos están pensando.",
+   "e": "And nobody says what everybody is thinking."
+  },
+  {
+   "s": "Que a lo mejor no vuelve nunca.",
+   "e": "That maybe he will never come back."
+  }
+ ]
+}

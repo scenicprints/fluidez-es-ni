@@ -1,0 +1,200 @@
+{
+ "id": "p3-15",
+ "title": "En el hospital",
+ "desc": "Serious this time",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "hospital"
+ ],
+ "sn": [
+  {
+   "s": "Un martes en la noche llaman a doña Carmen.",
+   "e": "One Tuesday night they call doña Carmen."
+  },
+  {
+   "s": "La abuela está mal.",
+   "e": "The grandmother is in a bad way."
+  },
+  {
+   "s": "La llevaron al hospital de emergencia.",
+   "e": "They took her to hospital as an emergency."
+  },
+  {
+   "s": "En veinte minutos la casa está llena.",
+   "e": "In twenty minutes the house is full."
+  },
+  {
+   "s": "Llegan las hermanas, los primos, los vecinos.",
+   "e": "The sisters, the cousins, the neighbours arrive."
+  },
+  {
+   "s": "Nadie llamó a nadie.",
+   "e": "Nobody called anybody."
+  },
+  {
+   "s": "La noticia caminó sola por la calle.",
+   "e": "The news walked down the street by itself."
+  },
+  {
+   "s": "Vamos al hospital seis personas.",
+   "e": "Six of us go to the hospital."
+  },
+  {
+   "s": "Yo pregunto si hace falta que vaya.",
+   "e": "I ask whether I need to go."
+  },
+  {
+   "s": "Doña Marta me mira sin entender la pregunta.",
+   "e": "Doña Marta looks at me not understanding the question."
+  },
+  {
+   "s": "\"Claro que va\", dice ella.",
+   "e": "\"Of course you're going,\" she says."
+  },
+  {
+   "s": "El hospital es viejo y está lleno.",
+   "e": "The hospital is old and full."
+  },
+  {
+   "s": "En el pasillo hay gente sentada en el suelo.",
+   "e": "In the corridor there are people sitting on the floor."
+  },
+  {
+   "s": "Hay familias enteras esperando.",
+   "e": "There are whole families waiting."
+  },
+  {
+   "s": "Cada enfermo tiene cinco personas afuera.",
+   "e": "Every patient has five people outside."
+  },
+  {
+   "s": "Eso no es raro aquí.",
+   "e": "That is not unusual here."
+  },
+  {
+   "s": "Aquí nadie está solo en un hospital.",
+   "e": "Here nobody is alone in a hospital."
+  },
+  {
+   "s": "Nos sentamos en el pasillo a esperar.",
+   "e": "We sit in the corridor and wait."
+  },
+  {
+   "s": "La enfermera sale cada tanto.",
+   "e": "The nurse comes out every so often."
+  },
+  {
+   "s": "Dice poco y se vuelve a meter.",
+   "e": "She says little and goes back in."
+  },
+  {
+   "s": "\"Está estable\", dice ella.",
+   "e": "\"She's stable,\" she says."
+  },
+  {
+   "s": "Nadie sabe qué quiere decir eso.",
+   "e": "Nobody knows what that means."
+  },
+  {
+   "s": "Pero nadie pregunta más.",
+   "e": "But nobody asks more."
+  },
+  {
+   "s": "Doña Marta reparte café en vasos.",
+   "e": "Doña Marta hands out coffee in cups."
+  },
+  {
+   "s": "Alguien trajo pan de una pulpería.",
+   "e": "Somebody brought bread from a pulpería."
+  },
+  {
+   "s": "Se come pan en un pasillo de hospital.",
+   "e": "Bread gets eaten in a hospital corridor."
+  },
+  {
+   "s": "A las dos de la mañana se organizan turnos.",
+   "e": "At two in the morning they organise shifts."
+  },
+  {
+   "s": "Dos se quedan y los demás van a dormir.",
+   "e": "Two stay and the rest go to sleep."
+  },
+  {
+   "s": "En la mañana llegan otros dos.",
+   "e": "In the morning two others arrive."
+  },
+  {
+   "s": "Y así por cuatro días seguidos.",
+   "e": "And like that for four days running."
+  },
+  {
+   "s": "Nunca hay menos de dos personas ahí.",
+   "e": "There are never fewer than two people there."
+  },
+  {
+   "s": "Nadie lo organizó de verdad.",
+   "e": "Nobody really organised it."
+  },
+  {
+   "s": "Se organizó solo.",
+   "e": "It organised itself."
+  },
+  {
+   "s": "Yo hago dos turnos de noche.",
+   "e": "I do two night shifts."
+  },
+  {
+   "s": "No hago nada en esos turnos.",
+   "e": "I do nothing on those shifts."
+  },
+  {
+   "s": "Estoy sentado en un pasillo doce horas.",
+   "e": "I sit in a corridor for twelve hours."
+  },
+  {
+   "s": "Le pregunto a Roberto para qué sirve eso.",
+   "e": "I ask Roberto what use that is."
+  },
+  {
+   "s": "\"Para que ella sepa que estamos\", dice él.",
+   "e": "\"So she knows we're here,\" he says."
+  },
+  {
+   "s": "La abuela sale del hospital el domingo.",
+   "e": "The grandmother comes out of hospital on Sunday."
+  },
+  {
+   "s": "Sale débil pero sale caminando.",
+   "e": "She comes out weak but she walks out."
+  },
+  {
+   "s": "En la casa la esperan veinte personas.",
+   "e": "At the house twenty people are waiting for her."
+  },
+  {
+   "s": "Nadie la deja hacer nada por dos semanas.",
+   "e": "Nobody lets her do anything for two weeks."
+  },
+  {
+   "s": "Y ella se queja todos los días.",
+   "e": "And she complains every day."
+  },
+  {
+   "s": "Meses después le cuento esto a alguien de mi país.",
+   "e": "Months later I tell somebody from my country about this."
+  },
+  {
+   "s": "Le cuento lo de los cuatro días de turnos.",
+   "e": "I tell them about the four days of shifts."
+  },
+  {
+   "s": "Me preguntan por qué no la dejaron sola.",
+   "e": "They ask me why they did not leave her alone."
+  },
+  {
+   "s": "Y no supe cómo explicarlo.",
+   "e": "And I did not know how to explain it."
+  }
+ ]
+}

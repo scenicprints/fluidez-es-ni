@@ -1,0 +1,190 @@
+{
+ "id": "p3-23",
+ "title": "Las remesas",
+ "desc": "Money that crosses a border every month",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "mandar",
+  "mes",
+  "papá"
+ ],
+ "sn": [
+  {
+   "s": "El primer día del mes hay cola en la agencia.",
+   "e": "On the first of the month there is a queue at the agency."
+  },
+  {
+   "s": "La agencia es donde se reciben las remesas.",
+   "e": "The agency is where remittances are collected."
+  },
+  {
+   "s": "Una remesa es plata que manda alguien de afuera.",
+   "e": "A remittance is money sent by somebody abroad."
+  },
+  {
+   "s": "La cola es de señoras casi siempre.",
+   "e": "The queue is nearly always women."
+  },
+  {
+   "s": "Señoras con la cédula en la mano.",
+   "e": "Women with their ID in their hand."
+  },
+  {
+   "s": "Yo pasaba por ahí sin entender qué era.",
+   "e": "I used to walk past without understanding what it was."
+  },
+  {
+   "s": "Doña Carmen recibe una remesa cada mes.",
+   "e": "Doña Carmen receives a remittance every month."
+  },
+  {
+   "s": "Se la manda el papá de Roberto.",
+   "e": "Roberto's father sends it to her."
+  },
+  {
+   "s": "Desde Costa Rica, cada treinta días.",
+   "e": "From Costa Rica, every thirty days."
+  },
+  {
+   "s": "Con esa plata se paga la escuela.",
+   "e": "That money pays for school."
+  },
+  {
+   "s": "Con esa plata se paga la luz.",
+   "e": "That money pays the electricity."
+  },
+  {
+   "s": "Y con lo que sobra se come mejor.",
+   "e": "And what is left over means eating better."
+  },
+  {
+   "s": "Un mes la remesa no llega.",
+   "e": "One month the remittance does not come."
+  },
+  {
+   "s": "Doña Carmen no dice nada de eso.",
+   "e": "Doña Carmen says nothing about it."
+  },
+  {
+   "s": "Pero ese mes no hay carne en la mesa.",
+   "e": "But that month there is no meat on the table."
+  },
+  {
+   "s": "Y hay frijoles todos los días.",
+   "e": "And there are beans every day."
+  },
+  {
+   "s": "Roberto tampoco dice nada.",
+   "e": "Roberto says nothing either."
+  },
+  {
+   "s": "Los dos saben y ninguno lo menciona.",
+   "e": "They both know and neither mentions it."
+  },
+  {
+   "s": "Yo pregunto una vez y Roberto cambia de tema.",
+   "e": "I ask once and Roberto changes the subject."
+  },
+  {
+   "s": "No lo vuelvo a preguntar.",
+   "e": "I do not ask again."
+  },
+  {
+   "s": "Después Marcos me explica el tamaño de esto.",
+   "e": "Later Marcos explains to me how big this is."
+  },
+  {
+   "s": "Casi todas las casas de la calle reciben algo.",
+   "e": "Nearly every house on the street receives something."
+  },
+  {
+   "s": "De Costa Rica, de Estados Unidos, de España.",
+   "e": "From Costa Rica, the United States, Spain."
+  },
+  {
+   "s": "Un hijo, una hermana, un papá.",
+   "e": "A son, a sister, a father."
+  },
+  {
+   "s": "Alguien que se fue y manda cada mes.",
+   "e": "Somebody who left and sends every month."
+  },
+  {
+   "s": "Marcos manda plata también.",
+   "e": "Marcos sends money too."
+  },
+  {
+   "s": "Le manda a su mamá en el campo.",
+   "e": "He sends it to his mother in the countryside."
+  },
+  {
+   "s": "Manda mil córdobas al mes.",
+   "e": "He sends a thousand córdobas a month."
+  },
+  {
+   "s": "Marcos gana poco y manda igual.",
+   "e": "Marcos earns little and sends it anyway."
+  },
+  {
+   "s": "\"Es lo que hay que hacer\", dice él.",
+   "e": "\"It's what you do,\" he says."
+  },
+  {
+   "s": "No lo dice como sacrificio.",
+   "e": "He does not say it as a sacrifice."
+  },
+  {
+   "s": "Lo dice como se dice que hay que respirar.",
+   "e": "He says it the way you say you have to breathe."
+  },
+  {
+   "s": "Yo hago la cuenta una noche.",
+   "e": "I do the sums one night."
+  },
+  {
+   "s": "Si el papá de Roberto deja de mandar, no hay escuela.",
+   "e": "If Roberto's father stops sending, there is no school."
+  },
+  {
+   "s": "Si la mamá de Marcos deja de recibir, no come igual.",
+   "e": "If Marcos's mother stops receiving, she does not eat the same."
+  },
+  {
+   "s": "Media calle depende de gente que no está.",
+   "e": "Half the street depends on people who are not there."
+  },
+  {
+   "s": "Y esa gente no está porque se fue a trabajar.",
+   "e": "And those people are not there because they went to work."
+  },
+  {
+   "s": "Y se fue a trabajar para poder mandar.",
+   "e": "And they went to work so they could send."
+  },
+  {
+   "s": "El papá de Roberto lleva cuatro años afuera.",
+   "e": "Roberto's father has been away four years."
+  },
+  {
+   "s": "Ha visto a su hijo dos veces en cuatro años.",
+   "e": "He has seen his son twice in four years."
+  },
+  {
+   "s": "Manda plata cada mes sin fallar.",
+   "e": "He sends money every month without fail."
+  },
+  {
+   "s": "Roberto tiene una foto de él en el cuarto.",
+   "e": "Roberto has a photo of him in his room."
+  },
+  {
+   "s": "Nunca le he oído hablar mal de su papá.",
+   "e": "I have never heard him speak badly of his father."
+  },
+  {
+   "s": "Ni una vez.",
+   "e": "Not once."
+  }
+ ]
+}

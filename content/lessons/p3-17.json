@@ -1,0 +1,204 @@
+{
+ "id": "p3-17",
+ "title": "Es que no me entendiste",
+ "desc": "A misunderstanding that becomes an argument",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "fue"
+ ],
+ "sn": [
+  {
+   "s": "Un día Roberto no me habla.",
+   "e": "One day Roberto does not talk to me."
+  },
+  {
+   "s": "Llego a la casa y él sale del cuarto.",
+   "e": "I arrive at the house and he leaves the room."
+  },
+  {
+   "s": "Yo no sé qué pasó.",
+   "e": "I do not know what happened."
+  },
+  {
+   "s": "Le pregunto a doña Carmen.",
+   "e": "I ask doña Carmen."
+  },
+  {
+   "s": "Ella dice que no sabe nada.",
+   "e": "She says she knows nothing."
+  },
+  {
+   "s": "Pero se le nota que sí sabe.",
+   "e": "But you can see she does."
+  },
+  {
+   "s": "Pasan tres días así.",
+   "e": "Three days go by like that."
+  },
+  {
+   "s": "Yo pienso que se le va a pasar.",
+   "e": "I think it will pass."
+  },
+  {
+   "s": "No se le pasa.",
+   "e": "It does not pass."
+  },
+  {
+   "s": "Al cuarto día voy a buscarlo.",
+   "e": "On the fourth day I go to find him."
+  },
+  {
+   "s": "Está sentado afuera con la pelota.",
+   "e": "He is sitting outside with the ball."
+  },
+  {
+   "s": "Me siento al lado sin decir nada.",
+   "e": "I sit down next to him without saying anything."
+  },
+  {
+   "s": "Nos quedamos callados un rato largo.",
+   "e": "We stay quiet for a long while."
+  },
+  {
+   "s": "Después le pregunto qué pasó.",
+   "e": "Then I ask him what happened."
+  },
+  {
+   "s": "\"Vos dijiste que yo no sabía\", dice él.",
+   "e": "\"You said I didn't know,\" he says."
+  },
+  {
+   "s": "Yo no me acuerdo de haber dicho eso.",
+   "e": "I do not remember saying that."
+  },
+  {
+   "s": "Le pido que me cuente cuándo fue.",
+   "e": "I ask him to tell me when it was."
+  },
+  {
+   "s": "Fue el domingo, delante de sus primos.",
+   "e": "It was on Sunday, in front of his cousins."
+  },
+  {
+   "s": "Yo estaba explicando algo del trabajo.",
+   "e": "I was explaining something about work."
+  },
+  {
+   "s": "Y dije que él no entendía de eso.",
+   "e": "And I said he did not understand about that."
+  },
+  {
+   "s": "Yo lo dije sin pensarlo.",
+   "e": "I said it without thinking."
+  },
+  {
+   "s": "Para mí era un dato, no un insulto.",
+   "e": "For me it was a fact, not an insult."
+  },
+  {
+   "s": "Para él fue delante de sus primos.",
+   "e": "For him it was in front of his cousins."
+  },
+  {
+   "s": "Y ahí está toda la diferencia.",
+   "e": "And that is the whole difference."
+  },
+  {
+   "s": "Aquí no importa sólo lo que se dice.",
+   "e": "Here it is not only what is said that matters."
+  },
+  {
+   "s": "Importa delante de quién se dice.",
+   "e": "It matters who it is said in front of."
+  },
+  {
+   "s": "Lo mismo a solas no habría sido nada.",
+   "e": "The same thing alone would have been nothing."
+  },
+  {
+   "s": "Yo no sé cómo arreglarlo.",
+   "e": "I do not know how to fix it."
+  },
+  {
+   "s": "Empiezo a explicar que no quise decir eso.",
+   "e": "I start explaining that I did not mean that."
+  },
+  {
+   "s": "Roberto me para.",
+   "e": "Roberto stops me."
+  },
+  {
+   "s": "\"Ya sé que no quisiste\", dice él.",
+   "e": "\"I know you didn't mean it,\" he says."
+  },
+  {
+   "s": "\"Pero lo dijiste.\"",
+   "e": "\"But you said it.\""
+  },
+  {
+   "s": "Entonces explicar no sirve de nada.",
+   "e": "So explaining is no use at all."
+  },
+  {
+   "s": "Explicar es hablar de mi intención.",
+   "e": "Explaining is talking about my intention."
+  },
+  {
+   "s": "Y el problema no fue mi intención.",
+   "e": "And the problem was not my intention."
+  },
+  {
+   "s": "El problema fue delante de los primos.",
+   "e": "The problem was in front of the cousins."
+  },
+  {
+   "s": "Entonces le digo lo único que sirve.",
+   "e": "So I say the only thing that works."
+  },
+  {
+   "s": "\"Tenés razón. Estuvo mal.\"",
+   "e": "\"You're right. That was wrong.\""
+  },
+  {
+   "s": "Y no digo nada más.",
+   "e": "And I say nothing else."
+  },
+  {
+   "s": "No digo pero, no digo es que.",
+   "e": "I do not say but, I do not say the thing is."
+  },
+  {
+   "s": "Roberto se queda callado un momento.",
+   "e": "Roberto stays quiet a moment."
+  },
+  {
+   "s": "Después me pasa la pelota.",
+   "e": "Then he passes me the ball."
+  },
+  {
+   "s": "Y eso fue todo.",
+   "e": "And that was all."
+  },
+  {
+   "s": "El domingo siguiente digo algo delante de los primos.",
+   "e": "The next Sunday I say something in front of the cousins."
+  },
+  {
+   "s": "Digo que Roberto sabe más que yo del barrio.",
+   "e": "I say Roberto knows more than me about the barrio."
+  },
+  {
+   "s": "Lo digo fuerte, para que se oiga.",
+   "e": "I say it loudly, so it is heard."
+  },
+  {
+   "s": "Roberto no dice nada.",
+   "e": "Roberto says nothing."
+  },
+  {
+   "s": "Pero se sienta más cerca.",
+   "e": "But he sits closer."
+  }
+ ]
+}

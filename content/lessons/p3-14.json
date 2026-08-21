@@ -1,0 +1,204 @@
+{
+ "id": "p3-14",
+ "title": "Me robaron",
+ "desc": "Something taken",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "celular"
+ ],
+ "sn": [
+  {
+   "s": "Un viernes me roban el celular.",
+   "e": "One Friday my phone gets stolen."
+  },
+  {
+   "s": "Pasa en el bus, apretado entre la gente.",
+   "e": "It happens on the bus, squeezed among the people."
+  },
+  {
+   "s": "No siento nada.",
+   "e": "I feel nothing."
+  },
+  {
+   "s": "Me bajo y el bolsillo está vacío.",
+   "e": "I get off and my pocket is empty."
+  },
+  {
+   "s": "Lo primero que pienso es en español.",
+   "e": "The first thing I think is in Spanish."
+  },
+  {
+   "s": "Y lo pienso mal.",
+   "e": "And I think it wrong."
+  },
+  {
+   "s": "\"Yo perdí mi celular\", digo yo.",
+   "e": "\"I lost my phone,\" I say."
+  },
+  {
+   "s": "Marcos me corrige enseguida.",
+   "e": "Marcos corrects me straight away."
+  },
+  {
+   "s": "\"No lo perdiste. Te lo robaron.\"",
+   "e": "\"You didn't lose it. It was stolen from you.\""
+  },
+  {
+   "s": "Y ahí hay una lección entera.",
+   "e": "And there is a whole lesson in that."
+  },
+  {
+   "s": "En español las cosas malas le pasan a uno.",
+   "e": "In Spanish bad things happen to you."
+  },
+  {
+   "s": "Uno no las hace.",
+   "e": "You do not do them."
+  },
+  {
+   "s": "Se me perdió la llave.",
+   "e": "The key got lost on me."
+  },
+  {
+   "s": "Se me cayó el vaso.",
+   "e": "The glass fell on me."
+  },
+  {
+   "s": "Se me olvidó el mandado.",
+   "e": "The errand got forgotten on me."
+  },
+  {
+   "s": "Se me quedó la bolsa en la casa.",
+   "e": "The bag stayed behind on me at the house."
+  },
+  {
+   "s": "En todas la culpa está en otro lado.",
+   "e": "In all of them the blame is somewhere else."
+  },
+  {
+   "s": "En mi idioma yo digo yo lo perdí.",
+   "e": "In my language I say I lost it."
+  },
+  {
+   "s": "Aquí se dice que se perdió solo.",
+   "e": "Here you say it lost itself."
+  },
+  {
+   "s": "Al principio eso me parecía una excusa.",
+   "e": "At first that seemed like an excuse to me."
+  },
+  {
+   "s": "Ahora me parece otra cosa.",
+   "e": "Now it seems like something else."
+  },
+  {
+   "s": "Aquí pasan muchas cosas que uno no controla.",
+   "e": "Here a lot of things happen that you do not control."
+  },
+  {
+   "s": "Se va la luz. Se va el agua.",
+   "e": "The power goes. The water goes."
+  },
+  {
+   "s": "Se descompone el bus.",
+   "e": "The bus breaks down."
+  },
+  {
+   "s": "Se cae el techo con la lluvia.",
+   "e": "The roof goes with the rain."
+  },
+  {
+   "s": "Y un idioma que vive así habla así.",
+   "e": "And a language that lives like that talks like that."
+  },
+  {
+   "s": "Doña Carmen me pregunta si voy a denunciar.",
+   "e": "Doña Carmen asks if I am going to report it."
+  },
+  {
+   "s": "\"¿Sirve de algo?\", pregunto yo.",
+   "e": "\"Is it any use?\" I ask."
+  },
+  {
+   "s": "Ella hace una cara.",
+   "e": "She pulls a face."
+  },
+  {
+   "s": "\"Sirve para el papel\", dice ella.",
+   "e": "\"It's useful for the paperwork,\" she says."
+  },
+  {
+   "s": "\"Para el celular, no.\"",
+   "e": "\"For the phone, no.\""
+  },
+  {
+   "s": "No voy a denunciar.",
+   "e": "I do not report it."
+  },
+  {
+   "s": "Nadie de la calle denuncia esas cosas.",
+   "e": "Nobody on the street reports things like that."
+  },
+  {
+   "s": "Roberto me dice lo que se hace.",
+   "e": "Roberto tells me what you do."
+  },
+  {
+   "s": "\"Se compra otro usado y ya.\"",
+   "e": "\"You buy another second-hand one and that's that.\""
+  },
+  {
+   "s": "Al otro día don Beto llega a mi casa.",
+   "e": "The next day don Beto arrives at my house."
+  },
+  {
+   "s": "Trae un celular viejo en la mano.",
+   "e": "He brings an old phone in his hand."
+  },
+  {
+   "s": "\"Era de mi hijo\", dice él.",
+   "e": "\"It was my son's,\" he says."
+  },
+  {
+   "s": "\"Está feo pero sirve.\"",
+   "e": "\"It's ugly but it works.\""
+  },
+  {
+   "s": "Yo trato de pagarle.",
+   "e": "I try to pay him."
+  },
+  {
+   "s": "Don Beto no lo acepta.",
+   "e": "Don Beto will not accept it."
+  },
+  {
+   "s": "\"Después me hace otro favor\", dice él.",
+   "e": "\"You'll do me another favour some time,\" he says."
+  },
+  {
+   "s": "Ese celular me dura dos años.",
+   "e": "That phone lasts me two years."
+  },
+  {
+   "s": "Después Marcos me enseña la otra regla.",
+   "e": "Later Marcos teaches me the other rule."
+  },
+  {
+   "s": "\"El celular en la mano es un regalo.\"",
+   "e": "\"A phone in your hand is a gift.\""
+  },
+  {
+   "s": "\"En el bolsillo de adelante, no.\"",
+   "e": "\"In your front pocket, it isn't.\""
+  },
+  {
+   "s": "Yo lo llevo en el bolsillo de adelante desde entonces.",
+   "e": "I have carried it in my front pocket ever since."
+  },
+  {
+   "s": "Con la mano encima, sin pensarlo.",
+   "e": "With my hand over it, without thinking."
+  }
+ ]
+}

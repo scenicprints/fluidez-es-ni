@@ -1,0 +1,204 @@
+{
+ "id": "p3-21",
+ "title": "Prometiste",
+ "desc": "A promise not kept",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "sábado"
+ ],
+ "sn": [
+  {
+   "s": "Un amigo me falla con algo importante.",
+   "e": "A friend lets me down over something important."
+  },
+  {
+   "s": "Quedamos en que me iba a ayudar el sábado.",
+   "e": "We arranged that he was going to help me on Saturday."
+  },
+  {
+   "s": "Me iba a ayudar a pintar la casa.",
+   "e": "He was going to help me paint the house."
+  },
+  {
+   "s": "Yo compré la pintura el viernes.",
+   "e": "I bought the paint on Friday."
+  },
+  {
+   "s": "El sábado espero toda la mañana.",
+   "e": "On Saturday I wait all morning."
+  },
+  {
+   "s": "No llega y no avisa.",
+   "e": "He does not come and he does not let me know."
+  },
+  {
+   "s": "Pinto solo lo que puedo.",
+   "e": "I paint what I can alone."
+  },
+  {
+   "s": "El lunes lo veo en la calle.",
+   "e": "On Monday I see him in the street."
+  },
+  {
+   "s": "Yo estoy molesto y él lo sabe.",
+   "e": "I am annoyed and he knows it."
+  },
+  {
+   "s": "Antes yo le habría dicho todo de una vez.",
+   "e": "Before, I would have said everything at once."
+  },
+  {
+   "s": "Ahora ya sé que eso no sirve.",
+   "e": "Now I know that is no use."
+  },
+  {
+   "s": "Pero tampoco puedo no decir nada.",
+   "e": "But I cannot say nothing either."
+  },
+  {
+   "s": "Hay una manera de reclamar aquí.",
+   "e": "There is a way of complaining here."
+  },
+  {
+   "s": "Se cuenta lo que pasó, sin acusar.",
+   "e": "You tell what happened, without accusing."
+  },
+  {
+   "s": "\"Te esperé el sábado\", digo yo.",
+   "e": "\"I waited for you on Saturday,\" I say."
+  },
+  {
+   "s": "Nada más eso.",
+   "e": "Nothing more than that."
+  },
+  {
+   "s": "No digo prometiste.",
+   "e": "I do not say you promised."
+  },
+  {
+   "s": "No digo me fallaste.",
+   "e": "I do not say you let me down."
+  },
+  {
+   "s": "Sólo digo que lo esperé.",
+   "e": "I only say that I waited for him."
+  },
+  {
+   "s": "Y me quedo callado.",
+   "e": "And I stay quiet."
+  },
+  {
+   "s": "El silencio hace el resto del trabajo.",
+   "e": "The silence does the rest of the work."
+  },
+  {
+   "s": "Él baja la cabeza.",
+   "e": "He lowers his head."
+  },
+  {
+   "s": "\"Fíjate que se me complicó\", empieza.",
+   "e": "\"The thing is, it got complicated,\" he starts."
+  },
+  {
+   "s": "Y ahí ya sé cómo va a terminar.",
+   "e": "And there I already know how it is going to end."
+  },
+  {
+   "s": "Pero esta vez me cuenta la historia entera.",
+   "e": "But this time he tells me the whole story."
+  },
+  {
+   "s": "Su hermana se puso mal el viernes.",
+   "e": "His sister got ill on Friday."
+  },
+  {
+   "s": "Pasó el sábado en el hospital con ella.",
+   "e": "He spent Saturday in the hospital with her."
+  },
+  {
+   "s": "No tenía saldo para avisarme.",
+   "e": "He had no credit to let me know."
+  },
+  {
+   "s": "Y me quedo sin nada que decir.",
+   "e": "And I am left with nothing to say."
+  },
+  {
+   "s": "Aquí eso pasa mucho.",
+   "e": "That happens a lot here."
+  },
+  {
+   "s": "La gente falla por cosas grandes.",
+   "e": "People fail you over big things."
+  },
+  {
+   "s": "No por descuido, sino por otra urgencia.",
+   "e": "Not through carelessness, but through another emergency."
+  },
+  {
+   "s": "Y la otra urgencia casi siempre es familia.",
+   "e": "And the other emergency is nearly always family."
+  },
+  {
+   "s": "Marcos me lo había dicho antes.",
+   "e": "Marcos had told me before."
+  },
+  {
+   "s": "\"Aquí uno queda mal seguido.\"",
+   "e": "\"Here you let people down often.\""
+  },
+  {
+   "s": "\"Porque siempre hay algo peor pasando.\"",
+   "e": "\"Because there's always something worse happening.\""
+  },
+  {
+   "s": "Y por eso reclamar de golpe es peligroso.",
+   "e": "And that is why complaining bluntly is dangerous."
+  },
+  {
+   "s": "Uno puede estar gritándole a alguien que la pasó mal.",
+   "e": "You could be shouting at somebody who had a bad time."
+  },
+  {
+   "s": "Por eso primero se cuenta y se espera.",
+   "e": "That is why first you tell it and you wait."
+  },
+  {
+   "s": "Primero se le da lugar al otro.",
+   "e": "First you give the other person room."
+  },
+  {
+   "s": "Si no tenía razón, se le nota enseguida.",
+   "e": "If he had no good reason, it shows straight away."
+  },
+  {
+   "s": "Y si tenía, uno se salvó de quedar mal.",
+   "e": "And if he did, you have saved yourself from looking bad."
+  },
+  {
+   "s": "Le pregunto por su hermana.",
+   "e": "I ask him about his sister."
+  },
+  {
+   "s": "Está mejor, dice él.",
+   "e": "She is better, he says."
+  },
+  {
+   "s": "El sábado siguiente llega a las siete.",
+   "e": "The next Saturday he arrives at seven."
+  },
+  {
+   "s": "Llega con dos brochas y un primo.",
+   "e": "He arrives with two brushes and a cousin."
+  },
+  {
+   "s": "Terminamos la casa en un día.",
+   "e": "We finish the house in a day."
+  },
+  {
+   "s": "Y nadie vuelve a hablar del sábado anterior.",
+   "e": "And nobody mentions the previous Saturday again."
+  }
+ ]
+}

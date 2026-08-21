@@ -1,0 +1,192 @@
+{
+ "id": "p3-16",
+ "title": "Qué harías vos",
+ "desc": "Asking for advice",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "consejo"
+ ],
+ "sn": [
+  {
+   "s": "Tengo una decisión difícil que tomar.",
+   "e": "I have a hard decision to make."
+  },
+  {
+   "s": "Me ofrecen un trabajo en otra ciudad.",
+   "e": "I am offered a job in another city."
+  },
+  {
+   "s": "Paga mejor pero es lejos.",
+   "e": "It pays better but it is far away."
+  },
+  {
+   "s": "En mi país yo lo pensaría solo.",
+   "e": "In my country I would think about it alone."
+  },
+  {
+   "s": "Aquí eso no existe.",
+   "e": "Here that does not exist."
+  },
+  {
+   "s": "Le cuento a Roberto en la tarde.",
+   "e": "I tell Roberto in the afternoon."
+  },
+  {
+   "s": "Para la noche lo sabe media calle.",
+   "e": "By evening half the street knows."
+  },
+  {
+   "s": "Y todos tienen una opinión.",
+   "e": "And everybody has an opinion."
+  },
+  {
+   "s": "Nadie espera a que yo pregunte.",
+   "e": "Nobody waits for me to ask."
+  },
+  {
+   "s": "Doña Carmen me da su consejo en la cocina.",
+   "e": "Doña Carmen gives me her advice in the kitchen."
+  },
+  {
+   "s": "\"Yo que usted no me iría\", dice ella.",
+   "e": "\"If I were you I wouldn't go,\" she says."
+  },
+  {
+   "s": "Don Beto me da el contrario.",
+   "e": "Don Beto gives me the opposite."
+  },
+  {
+   "s": "\"Yo que vos me iba\", dice él.",
+   "e": "\"If I were you I'd go,\" he says."
+  },
+  {
+   "s": "Marcos me da un tercero en el trabajo.",
+   "e": "Marcos gives me a third at work."
+  },
+  {
+   "s": "\"Pedí más plata y quedate\", dice él.",
+   "e": "\"Ask for more money and stay,\" he says."
+  },
+  {
+   "s": "Tres personas, tres consejos distintos.",
+   "e": "Three people, three different pieces of advice."
+  },
+  {
+   "s": "Y ninguno me preguntó qué quería yo.",
+   "e": "And none of them asked what I wanted."
+  },
+  {
+   "s": "Eso al principio me molesta.",
+   "e": "That annoys me at first."
+  },
+  {
+   "s": "Después entiendo lo que están haciendo.",
+   "e": "Later I understand what they are doing."
+  },
+  {
+   "s": "No me están diciendo qué hacer.",
+   "e": "They are not telling me what to do."
+  },
+  {
+   "s": "Me están diciendo que les importa.",
+   "e": "They are telling me that they care."
+  },
+  {
+   "s": "Un consejo aquí es una manera de acompañar.",
+   "e": "Advice here is a way of standing with somebody."
+  },
+  {
+   "s": "Y hay una forma de hablar para eso.",
+   "e": "And there is a way of talking for it."
+  },
+  {
+   "s": "\"Yo que vos...\"",
+   "e": "\"If I were you...\""
+  },
+  {
+   "s": "\"Yo en tu lugar...\"",
+   "e": "\"In your place...\""
+  },
+  {
+   "s": "\"Deberías...\"",
+   "e": "\"You should...\""
+  },
+  {
+   "s": "\"Si yo pudiera, yo haría...\"",
+   "e": "\"If I could, I'd do...\""
+  },
+  {
+   "s": "Los verbos cambian otra vez.",
+   "e": "The verbs change again."
+  },
+  {
+   "s": "Haría, sería, iría, podría.",
+   "e": "Would do, would be, would go, could."
+  },
+  {
+   "s": "Esos son los verbos de lo que no pasó.",
+   "e": "Those are the verbs of what did not happen."
+  },
+  {
+   "s": "De lo que uno haría si fuera otro.",
+   "e": "Of what you would do if you were somebody else."
+  },
+  {
+   "s": "Yo los aprendo oyéndolos toda una semana.",
+   "e": "I learn them by hearing them for a whole week."
+  },
+  {
+   "s": "Porque toda la calle me está aconsejando.",
+   "e": "Because the whole street is advising me."
+  },
+  {
+   "s": "Al final pido más plata y me quedo.",
+   "e": "In the end I ask for more money and I stay."
+  },
+  {
+   "s": "Que era el consejo de Marcos.",
+   "e": "Which was Marcos's advice."
+  },
+  {
+   "s": "Pero no me quedo por el consejo.",
+   "e": "But I do not stay because of the advice."
+  },
+  {
+   "s": "Me quedo porque tres personas discutieron una semana.",
+   "e": "I stay because three people argued for a week."
+  },
+  {
+   "s": "Discutieron sobre mi vida como si fuera de ellos.",
+   "e": "They argued about my life as if it were theirs."
+  },
+  {
+   "s": "Y de alguna manera lo es.",
+   "e": "And in some way it is."
+  },
+  {
+   "s": "Le digo a doña Carmen que me quedo.",
+   "e": "I tell doña Carmen I am staying."
+  },
+  {
+   "s": "\"Ya sabía\", dice ella.",
+   "e": "\"I knew,\" she says."
+  },
+  {
+   "s": "\"¿Cómo sabía?\", pregunto yo.",
+   "e": "\"How did you know?\" I ask."
+  },
+  {
+   "s": "\"Porque preguntó\", dice ella.",
+   "e": "\"Because you asked,\" she says."
+  },
+  {
+   "s": "\"El que ya decidió no pregunta.\"",
+   "e": "\"The one who's already decided doesn't ask.\""
+  },
+  {
+   "s": "Y tenía razón.",
+   "e": "And she was right."
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "id": "p3-26",
+ "title": "Ya me defiendo",
+ "desc": "You can handle yourself now",
+ "ph": 3,
+ "diff": 3,
+ "wu": [],
+ "sn": [
+  {
+   "s": "Se me tapa el desagüe de la pila.",
+   "e": "The drain from my pila blocks up."
+  },
+  {
+   "s": "El patio se llena de agua sucia.",
+   "e": "The patio fills with dirty water."
+  },
+  {
+   "s": "Hace un año yo habría llamado a don Beto.",
+   "e": "A year ago I would have called don Beto."
+  },
+  {
+   "s": "Habría esperado a que él lo resolviera.",
+   "e": "I would have waited for him to sort it out."
+  },
+  {
+   "s": "Hoy no llamo a nadie.",
+   "e": "Today I do not call anybody."
+  },
+  {
+   "s": "Voy a la ferretería y describo el problema.",
+   "e": "I go to the hardware shop and describe the problem."
+  },
+  {
+   "s": "Ya no me da pena no saber la palabra.",
+   "e": "It no longer embarrasses me not to know the word."
+  },
+  {
+   "s": "Describo el chunche que necesito.",
+   "e": "I describe the chunche I need."
+  },
+  {
+   "s": "El señor sabe cuál es enseguida.",
+   "e": "The man knows which one straight away."
+  },
+  {
+   "s": "Le pregunto cuánto y me dice un precio.",
+   "e": "I ask how much and he tells me a price."
+  },
+  {
+   "s": "Le digo que está caro.",
+   "e": "I tell him it is dear."
+  },
+  {
+   "s": "Me lo deja en menos sin discutir.",
+   "e": "He lets me have it for less without arguing."
+  },
+  {
+   "s": "Vuelvo y destapo el desagüe solo.",
+   "e": "I go back and unblock the drain myself."
+  },
+  {
+   "s": "Me toma dos horas y queda bien.",
+   "e": "It takes me two hours and it works."
+  },
+  {
+   "s": "En la tarde le cuento a don Beto.",
+   "e": "In the afternoon I tell don Beto."
+  },
+  {
+   "s": "No para que me ayude.",
+   "e": "Not so he will help me."
+  },
+  {
+   "s": "Para contarle, nada más.",
+   "e": "Just to tell him, that is all."
+  },
+  {
+   "s": "Don Beto me escucha y asiente.",
+   "e": "Don Beto listens and nods."
+  },
+  {
+   "s": "\"Ya te defendés solo\", dice él.",
+   "e": "\"You get by on your own now,\" he says."
+  },
+  {
+   "s": "Defenderse.",
+   "e": "Defenderse."
+  },
+  {
+   "s": "Ese es el verbo que se usa aquí.",
+   "e": "That is the verb they use here."
+  },
+  {
+   "s": "No se dice que uno se acostumbró.",
+   "e": "You do not say you got used to it."
+  },
+  {
+   "s": "No se dice que uno aprendió.",
+   "e": "You do not say you learned."
+  },
+  {
+   "s": "Se dice que uno ya se defiende.",
+   "e": "You say that you can hold your own now."
+  },
+  {
+   "s": "Como si vivir aquí fuera algo que empuja.",
+   "e": "As if living here were something that pushes."
+  },
+  {
+   "s": "Y uno tuviera que aguantar de pie.",
+   "e": "And you had to stand up to it."
+  },
+  {
+   "s": "Pienso en todo lo que ya sé hacer.",
+   "e": "I think about everything I can do now."
+  },
+  {
+   "s": "Sé reclamar un recibo sin pelear.",
+   "e": "I know how to query a bill without fighting."
+  },
+  {
+   "s": "Sé hacer un trámite con copias de todo.",
+   "e": "I know how to do paperwork with copies of everything."
+  },
+  {
+   "s": "Sé decir que no sin decir que no.",
+   "e": "I know how to say no without saying no."
+  },
+  {
+   "s": "Sé pedir un favor y sé deber uno.",
+   "e": "I know how to ask a favour and how to owe one."
+  },
+  {
+   "s": "Sé cuándo hablar y cuándo esperar tres días.",
+   "e": "I know when to speak and when to wait three days."
+  },
+  {
+   "s": "Sé pedir perdón con las tres partes.",
+   "e": "I know how to apologise with the three parts."
+  },
+  {
+   "s": "Sé que el que grita pierde.",
+   "e": "I know that whoever shouts loses."
+  },
+  {
+   "s": "Sé que un sí sin detalles es un no.",
+   "e": "I know that a yes with no details is a no."
+  },
+  {
+   "s": "Nada de eso lo aprendí en una clase.",
+   "e": "None of that did I learn in a class."
+  },
+  {
+   "s": "Todo lo aprendí equivocándome.",
+   "e": "I learned all of it by getting it wrong."
+  },
+  {
+   "s": "Y equivocándome delante de gente amable.",
+   "e": "And getting it wrong in front of kind people."
+  },
+  {
+   "s": "Esa es la parte con suerte.",
+   "e": "That is the lucky part."
+  },
+  {
+   "s": "Otro habría aprendido lo mismo peor.",
+   "e": "Somebody else would have learned the same things worse."
+  },
+  {
+   "s": "En la noche doña Carmen me manda un mandado.",
+   "e": "At night doña Carmen sends me on an errand."
+  },
+  {
+   "s": "Un mandado complicado, con tres partes.",
+   "e": "A complicated errand, with three parts."
+  },
+  {
+   "s": "Antes me lo habría explicado dos veces.",
+   "e": "Before she would have explained it to me twice."
+  },
+  {
+   "s": "Ahora me lo dice una sola vez, rápido.",
+   "e": "Now she says it once, fast."
+  },
+  {
+   "s": "Y se da la vuelta y sigue cocinando.",
+   "e": "And she turns around and carries on cooking."
+  },
+  {
+   "s": "Eso es lo que quiere decir defenderse.",
+   "e": "That is what defenderse means."
+  }
+ ]
+}

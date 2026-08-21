@@ -1,0 +1,200 @@
+{
+ "id": "p3-20",
+ "title": "Hablemos",
+ "desc": "Choosing to have the conversation",
+ "ph": 3,
+ "diff": 3,
+ "wu": [
+  "perro"
+ ],
+ "sn": [
+  {
+   "s": "Hay una cosa que aquí se hace tarde.",
+   "e": "There is one thing that gets done late here."
+  },
+  {
+   "s": "Las conversaciones difíciles.",
+   "e": "The hard conversations."
+  },
+  {
+   "s": "Nadie las empieza rápido.",
+   "e": "Nobody starts them quickly."
+  },
+  {
+   "s": "La gente aguanta semanas.",
+   "e": "People put up with things for weeks."
+  },
+  {
+   "s": "Y después hablan.",
+   "e": "And then they talk."
+  },
+  {
+   "s": "Yo estoy acostumbrado a lo contrario.",
+   "e": "I am used to the opposite."
+  },
+  {
+   "s": "En mi país si algo molesta, se dice.",
+   "e": "In my country if something bothers you, you say it."
+  },
+  {
+   "s": "Se dice ese día, en el momento.",
+   "e": "You say it that day, in the moment."
+  },
+  {
+   "s": "Aquí eso se ve como una falta de respeto.",
+   "e": "Here that is seen as a lack of respect."
+  },
+  {
+   "s": "Hablar en caliente es hablar mal.",
+   "e": "Talking while hot is talking badly."
+  },
+  {
+   "s": "Hay un problema con un vecino.",
+   "e": "There is a problem with a neighbour."
+  },
+  {
+   "s": "Su perro entra a mi patio todos los días.",
+   "e": "His dog comes into my patio every day."
+  },
+  {
+   "s": "Rompe cosas y deja un desorden.",
+   "e": "It breaks things and leaves a mess."
+  },
+  {
+   "s": "Yo quiero decirle enseguida.",
+   "e": "I want to tell him straight away."
+  },
+  {
+   "s": "Don Beto me para.",
+   "e": "Don Beto stops me."
+  },
+  {
+   "s": "\"Hoy no\", dice él.",
+   "e": "\"Not today,\" he says."
+  },
+  {
+   "s": "\"¿Por qué no?\", pregunto yo.",
+   "e": "\"Why not?\" I ask."
+  },
+  {
+   "s": "\"Porque hoy estás molesto.\"",
+   "e": "\"Because today you're annoyed.\""
+  },
+  {
+   "s": "Espero tres días.",
+   "e": "I wait three days."
+  },
+  {
+   "s": "Al tercer día ya no estoy tan molesto.",
+   "e": "By the third day I am not so annoyed."
+  },
+  {
+   "s": "Y ahí sí voy a hablar con él.",
+   "e": "And then I do go to talk to him."
+  },
+  {
+   "s": "No lo llamo ni le mando mensaje.",
+   "e": "I do not call him or send a message."
+  },
+  {
+   "s": "Voy a su casa en la tarde.",
+   "e": "I go to his house in the afternoon."
+  },
+  {
+   "s": "Cuando está sentado afuera, tranquilo.",
+   "e": "When he is sitting outside, relaxed."
+  },
+  {
+   "s": "Lo saludo y hablamos de otra cosa primero.",
+   "e": "I greet him and we talk about something else first."
+  },
+  {
+   "s": "Hablamos del calor y del béisbol.",
+   "e": "We talk about the heat and about baseball."
+  },
+  {
+   "s": "Diez minutos de nada.",
+   "e": "Ten minutes of nothing."
+  },
+  {
+   "s": "Eso también es parte de la conversación.",
+   "e": "That is part of the conversation too."
+  },
+  {
+   "s": "Entrar de una vez sería como atacar.",
+   "e": "Going straight in would be like attacking."
+  },
+  {
+   "s": "Después le digo lo del perro.",
+   "e": "Then I tell him about the dog."
+  },
+  {
+   "s": "Se lo digo suave y sin acusar.",
+   "e": "I say it gently and without accusing."
+  },
+  {
+   "s": "\"Fíjese que el perro se me mete al patio.\"",
+   "e": "\"The thing is, the dog gets into my patio.\""
+  },
+  {
+   "s": "Ni siquiera digo que es su perro.",
+   "e": "I do not even say it is his dog."
+  },
+  {
+   "s": "Todos sabemos de quién es el perro.",
+   "e": "We both know whose dog it is."
+  },
+  {
+   "s": "El vecino se ríe y dice que ya sabe.",
+   "e": "The neighbour laughs and says he knows."
+  },
+  {
+   "s": "\"Ese perro es una calamidad\", dice él.",
+   "e": "\"That dog is a disaster,\" he says."
+  },
+  {
+   "s": "Y arreglamos el problema en cinco minutos.",
+   "e": "And we sort the problem out in five minutes."
+  },
+  {
+   "s": "Él va a componer un pedazo de la cerca.",
+   "e": "He is going to fix a bit of the fence."
+  },
+  {
+   "s": "Yo le ayudo el sábado.",
+   "e": "I will help him on Saturday."
+  },
+  {
+   "s": "El sábado componemos la cerca juntos.",
+   "e": "On Saturday we fix the fence together."
+  },
+  {
+   "s": "Y tomamos una cerveza al terminar.",
+   "e": "And have a beer when we finish."
+  },
+  {
+   "s": "Si yo hubiera hablado el primer día, otra cosa.",
+   "e": "If I had spoken on the first day, it would have gone differently."
+  },
+  {
+   "s": "Habría dicho lo mismo, pero enojado.",
+   "e": "I would have said the same, but angry."
+  },
+  {
+   "s": "Y él se habría defendido.",
+   "e": "And he would have defended himself."
+  },
+  {
+   "s": "Y el perro seguiría entrando al patio.",
+   "e": "And the dog would still be getting into the patio."
+  },
+  {
+   "s": "Los tres días no fueron por debilidad.",
+   "e": "The three days were not weakness."
+  },
+  {
+   "s": "Los tres días eran parte del arreglo.",
+   "e": "The three days were part of the fix."
+  }
+ ]
+}
