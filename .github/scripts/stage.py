@@ -20,6 +20,7 @@ import forms as morphology
 import schedule as recycling
 
 SPINE_FILE = re.compile(r"^p[0-7]-\d\d\.json$")
+NEWLINE = chr(10)
 
 
 def read(path):
@@ -100,6 +101,32 @@ def main():
         print("PROBLEM: %s" % p)
     if len(problems) > 25:
         print("PROBLEM: ... and %d more" % (len(problems) - 25))
+
+    # A progress file that cannot go stale, because nobody writes it by hand.
+    # If this work is picked up by a fresh agent with no context, this and
+    # HANDOFF.md are what tell it where things stand.
+    done = [s for s in spine if s["id"] in written]
+    todo = [s for s in spine if s["id"] not in written]
+    lines = [u"# Progress", u"",
+             u"Written by `stage.py`. Do not edit by hand.", u"",
+             u"**%d of %d stories written** - %s of ~148,000 running words."
+             % (len(done), len(spine), format(words, ",")), u""]
+    by_phase = {}
+    for sp in spine:
+        d = by_phase.setdefault(sp["phase"], [0, 0])
+        d[1] += 1
+        if sp["id"] in written:
+            d[0] += 1
+    lines += [u"| Phase | Written | Total |", u"|---|---|---|"]
+    for ph in sorted(by_phase):
+        lines.append(u"| %d | %d | %d |" % (ph, by_phase[ph][0], by_phase[ph][1]))
+    lines += [u"", u"## Next to write", u""]
+    for sp in todo[:20]:
+        lines.append(u"- `%s` **%s** - %s" % (sp["id"], sp["title"], sp["desc"]))
+    if len(todo) > 20:
+        lines.append(u"- ... and %d more in `plan/spine.json`" % (len(todo) - 20))
+    with io.open(os.path.join(content, "plan", "PROGRESS.md"), "w", encoding="utf-8") as f:
+        f.write(NEWLINE.join(lines) + NEWLINE)
 
     if missing:
         out = os.path.join(content, "plan", "needs-entry.txt")
