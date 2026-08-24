@@ -1,0 +1,109 @@
+{
+ "id": "terminal-07",
+ "district": "terminal",
+ "tier": 4,
+ "who": "El estafador",
+ "title": "El que te quiere ver la cara",
+ "goal": "Spot the one who actually is trying it on",
+ "culture": "This is the only person in the whole game who is genuinely at it, and that is the point: almost nobody is, which is exactly why it works when somebody tries. No hay cambio, said after he has your note, is the oldest one at any terminal. The move is to be pleasant and not to move.",
+ "beats": [
+  {
+   "es": "Le cambio los dólares aquí mismo, mejor precio que el banco. ...Uy, fíjese que no hay cambio.",
+   "objective": "Do not accept that",
+   "key": "no hay cambio",
+   "say": "¿No hay cambio?",
+   "en": "No change?",
+   "tiles": [
+    "¿no hay cambio?"
+   ],
+   "extra": [
+    "espere",
+    "yo le doy",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "no hay cambio"
+   ],
+   "teaches": [
+    "no hay cambio"
+   ],
+   "good": "He has your note in his hand and no change in the other. Said as a flat question rather than an accusation, this is where it starts going wrong for him."
+  },
+  {
+   "es": "Ahorita consigo, deme un minutito. Espéreme aquí.",
+   "objective": "Tell HIM to wait",
+   "key": "espere",
+   "say": "Espere. Yo no me muevo.",
+   "en": "Wait. I’m not moving.",
+   "tiles": [
+    "espere",
+    "yo no me muevo"
+   ],
+   "extra": [
+    "no hay cambio",
+    "yo le doy",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "espere yo no me muevo",
+    "espere"
+   ],
+   "teaches": [
+    "espere"
+   ],
+   "good": "Do not follow him and do not leave. Espere, said calmly, standing exactly where you are, ends most of these inside a minute."
+  },
+  {
+   "es": "Bueno, bueno. Deme los otros cien y yo le doy todo junto ahorita.",
+   "objective": "Turn it round",
+   "key": "yo le doy",
+   "say": "Yo le doy cuando tenga el cambio.",
+   "en": "I’ll hand it over when you have the change.",
+   "tiles": [
+    "yo le doy",
+    "cuando tenga el cambio"
+   ],
+   "extra": [
+    "no hay cambio",
+    "espere",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "yo le doy cuando tenga el cambio",
+    "yo le doy"
+   ],
+   "teaches": [
+    "yo le doy"
+   ],
+   "good": "You hand yours over when he has the change in his hand. Said pleasantly it is not an accusation, and there is nothing in it for him to argue with."
+  },
+  {
+   "es": "Ya pues, hombre, tenga. No sea así conmigo.",
+   "objective": "Close it",
+   "key": "no me venga",
+   "say": "No me venga con eso.",
+   "en": "Don’t come at me with that.",
+   "tiles": [
+    "no me venga",
+    "con eso"
+   ],
+   "extra": [
+    "espere",
+    "gracias",
+    "Buenas",
+    "por favor"
+   ],
+   "ok": [
+    "no me venga con eso",
+    "no me venga"
+   ],
+   "teaches": [
+    "no me venga"
+   ],
+   "good": "No me venga con eso is the firmest thing in this entire game, and it is the right amount of firm for exactly one person in it."
+  }
+ ]
+}

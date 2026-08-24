@@ -1,0 +1,110 @@
+{
+ "id": "pantanal-04",
+ "district": "pantanal",
+ "tier": 3,
+ "who": "La señora del fogón",
+ "title": "La leña",
+ "goal": "Buy firewood and carry it further than you expected",
+ "culture": "A great many kitchens here still cook on wood, and wood is sold by the tercio — a bundle, never weighed. Green wood smokes and will not light, so asking for seca is the entire skill, and delivery means as far as the corner.",
+ "beats": [
+  {
+   "es": "¿Qué anda buscando, joven?",
+   "objective": "A bundle of firewood",
+   "key": "un tercio",
+   "say": "Un tercio de leña.",
+   "en": "A bundle of firewood.",
+   "tiles": [
+    "un tercio",
+    "de leña"
+   ],
+   "extra": [
+    "seca",
+    "gracias",
+    "otro día",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "un tercio de lena",
+    "un tercio"
+   ],
+   "teaches": [
+    "un tercio",
+    "de leña"
+   ],
+   "good": "Un tercio is the bundle firewood comes in. Nobody weighs it and nobody ever has."
+  },
+  {
+   "es": "¿Y para qué la quiere? ¿Para cocinar?",
+   "objective": "Yes — and ask for dry",
+   "key": "seca",
+   "say": "Sí. Que sea seca.",
+   "en": "Yes. Dry, if you have it.",
+   "tiles": [
+    "sí",
+    "que sea seca"
+   ],
+   "extra": [
+    "verde",
+    "un tercio",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "si que sea seca",
+    "que sea seca"
+   ],
+   "teaches": [
+    "seca"
+   ],
+   "good": "Seca — dry. Green wood smokes, will not catch, and is exactly what you get if you do not ask for the other kind."
+  },
+  {
+   "es": "Toda mi leña es seca, mire, tóquela.",
+   "objective": "Ask the price",
+   "key": "¿a cómo?",
+   "say": "¿A cómo el tercio?",
+   "en": "How much is the bundle?",
+   "tiles": [
+    "¿a cómo",
+    "el tercio?"
+   ],
+   "extra": [
+    "seca",
+    "de leña",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "a como el tercio",
+    "a como"
+   ],
+   "teaches": [
+    "¿a cómo?"
+   ],
+   "good": "The same three words you used on the mango and the hammock. ¿A cómo? works on everything sold in this country."
+  },
+  {
+   "es": "Cincuenta. Yo se lo llevo hasta la esquina y ahí se lo dejo.",
+   "objective": "So you carry it from the corner",
+   "key": "ahí se la dejo",
+   "say": "¿Ahí me lo deja?",
+   "en": "You’ll leave it there for me?",
+   "tiles": [
+    "¿ahí me lo deja?"
+   ],
+   "extra": [
+    "un tercio",
+    "seca",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "ahi me lo deja"
+   ],
+   "teaches": [
+    "ahí se la dejo"
+   ],
+   "good": "Ahí se lo dejo from her, ahí me lo deja from you. She carries it to the corner and the rest is yours, which is further than it sounds with fifty pounds of wood."
+  }
+ ]
+}

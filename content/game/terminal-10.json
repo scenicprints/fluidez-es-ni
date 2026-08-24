@@ -1,0 +1,110 @@
+{
+ "id": "terminal-10",
+ "district": "terminal",
+ "tier": 5,
+ "who": "El que se va",
+ "title": "El migrante",
+ "goal": "Say goodbye to somebody leaving for good",
+ "culture": "The bus goes to the border and after that nobody at this terminal knows anything. Everybody has somebody on one of these. Nobody says how long, because nobody knows, and the honest no sé is allowed to sit there without being filled in.",
+ "beats": [
+  {
+   "es": "Me voy, pues. Ya está el bus ahí.",
+   "objective": "Check — today?",
+   "key": "se va",
+   "say": "¿Se va hoy?",
+   "en": "You’re going today?",
+   "tiles": [
+    "¿se va",
+    "hoy?"
+   ],
+   "extra": [
+    "¿cuándo vuelve?",
+    "no sé",
+    "cuídese",
+    "con permiso"
+   ],
+   "ok": [
+    "se va hoy",
+    "se va"
+   ],
+   "teaches": [
+    "se va"
+   ],
+   "good": "Se va — he is going. That bus goes to the border, and after the border nobody standing here knows anything."
+  },
+  {
+   "es": "Hoy mismo. A las tres sale.",
+   "objective": "Ask when he is coming back",
+   "key": "¿cuándo vuelve?",
+   "say": "¿Y cuándo vuelve?",
+   "en": "And when will you be back?",
+   "tiles": [
+    "¿y cuándo",
+    "vuelve?"
+   ],
+   "extra": [
+    "se va",
+    "no sé",
+    "cuídese",
+    "fíjese que"
+   ],
+   "ok": [
+    "y cuando vuelve",
+    "cuando vuelve"
+   ],
+   "teaches": [
+    "¿cuándo vuelve?"
+   ],
+   "good": "Ask it. Everybody standing at that gate is thinking it and somebody has to be the one who says it out loud."
+  },
+  {
+   "es": "No sé. De verdad no sé, hermano.",
+   "objective": "Let the answer stand",
+   "key": "no sé",
+   "say": "No sabe. Está bien.",
+   "en": "You don’t know. That’s alright.",
+   "tiles": [
+    "no sabe",
+    "está bien"
+   ],
+   "extra": [
+    "no sé",
+    "se va",
+    "cuídese",
+    "con permiso"
+   ],
+   "ok": [
+    "no sabe esta bien",
+    "no sabe"
+   ],
+   "teaches": [
+    "no sé"
+   ],
+   "good": "No sé is the honest answer and the temptation is to fill the silence after it with something hopeful. Do not. Letting it stand is the respect."
+  },
+  {
+   "es": "Cuídese usted, pues. Cuide la casa.",
+   "objective": "Say the thing there is to say",
+   "key": "que Dios lo acompañe",
+   "say": "Que Dios lo acompañe.",
+   "en": "May God go with you.",
+   "tiles": [
+    "que Dios lo acompañe"
+   ],
+   "extra": [
+    "cuídese",
+    "no sé",
+    "con permiso",
+    "fíjese que"
+   ],
+   "ok": [
+    "que dios lo acompane",
+    "que dios lo acompane cuidese"
+   ],
+   "teaches": [
+    "que Dios lo acompañe"
+   ],
+   "good": "Said to people leaving whether anybody believes it or not, because it is what there is and nothing smaller would do."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "pantanal-05",
+ "district": "pantanal",
+ "tier": 3,
+ "who": "El chavalo descalzo",
+ "title": "El chavalo",
+ "goal": "Be asked for money by a kid, and work out what you think",
+ "culture": "Handing cash to a child is complicated here — it can keep him out of school and there is often somebody older collecting it. Buying him something to eat is unambiguous, ordinary, and nobody will look at you twice for doing it. He gets VOS, because he is a child, and getting that right matters more than the money does.",
+ "beats": [
+  {
+   "es": "Regáleme diez pesos, chele. Para comer.",
+   "objective": "Say you have not got it",
+   "key": "no tengo",
+   "say": "No tengo, chavalo.",
+   "en": "I haven’t got it, kid.",
+   "tiles": [
+    "no tengo",
+    "chavalo"
+   ],
+   "extra": [
+    "te compro algo",
+    "¿comiste?",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "no tengo chavalo",
+    "no tengo"
+   ],
+   "teaches": [
+    "no tengo"
+   ],
+   "good": "The plain truth, said to him rather than past him. Chavalo on the end is friendly — it is what everybody calls him."
+  },
+  {
+   "es": "Ideay. Aunque sea cinco, chele.",
+   "objective": "Offer to buy him food instead",
+   "key": "te compro algo",
+   "say": "Te compro algo de comer.",
+   "en": "I’ll buy you something to eat.",
+   "tiles": [
+    "te compro algo",
+    "de comer"
+   ],
+   "extra": [
+    "no tengo",
+    "¿comiste?",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "te compro algo de comer",
+    "te compro algo"
+   ],
+   "teaches": [
+    "te compro algo"
+   ],
+   "good": "TE compro — vos, because he is a child. Food instead of cash is the ordinary thing to do here and nobody will think it mean."
+  },
+  {
+   "es": "¿De verdad? Va pues, chele.",
+   "objective": "Ask whether he has eaten today",
+   "key": "¿comiste?",
+   "say": "¿Comiste hoy?",
+   "en": "Have you eaten today?",
+   "tiles": [
+    "¿comiste",
+    "hoy?"
+   ],
+   "extra": [
+    "te compro algo",
+    "no tengo",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "comiste hoy",
+    "comiste"
+   ],
+   "teaches": [
+    "¿comiste?"
+   ],
+   "good": "¿Comiste? is spelled the same in vos and in tú, which is why it slips past learners. Asking is not charity; it is what any adult here would ask him."
+  },
+  {
+   "es": "Hoy no todavía. Gracias, chele.",
+   "objective": "Send him off",
+   "key": "andá con cuidado",
+   "say": "Andá con cuidado.",
+   "en": "Mind how you go.",
+   "tiles": [
+    "andá con cuidado"
+   ],
+   "extra": [
+    "cuídese",
+    "gracias",
+    "por favor",
+    "no tengo"
+   ],
+   "ok": [
+    "anda con cuidado"
+   ],
+   "teaches": [
+    "andá con cuidado"
+   ],
+   "good": "Andá, not vaya. He is nine and he gets vos — cuídese to a child would be as odd as calling him sir."
+  }
+ ]
+}

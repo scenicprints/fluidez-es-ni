@@ -1,0 +1,109 @@
+{
+ "id": "pantanal-02",
+ "district": "pantanal",
+ "tier": 2,
+ "who": "La lavandera",
+ "title": "El lavado",
+ "goal": "Get your washing done and agree a day",
+ "culture": "She washes by hand at a pila for a small weekly sum, and it is real work. Name the day, ask what it comes to, pay it and do not haggle — this is the one price in Granada that nobody who lives here would try to push down.",
+ "beats": [
+  {
+   "es": "Buenas, vecino. ¿Qué se le ofrece?",
+   "objective": "Ask her to wash these clothes",
+   "key": "lavar esta ropa",
+   "say": "¿Me puede lavar esta ropa?",
+   "en": "Could you wash these clothes for me?",
+   "tiles": [
+    "¿me puede",
+    "lavar esta ropa?"
+   ],
+   "extra": [
+    "para el viernes",
+    "¿cuánto sale?",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "me puede lavar esta ropa",
+    "lavar esta ropa"
+   ],
+   "teaches": [
+    "lavar esta ropa"
+   ],
+   "good": "Said with the bag held up. She will want to see what it is before she says yes, and that is not suspicion, it is arithmetic."
+  },
+  {
+   "es": "Claro que sí. ¿Para cuándo la ocupa?",
+   "objective": "For Friday",
+   "key": "para el viernes",
+   "say": "Para el viernes.",
+   "en": "For Friday.",
+   "tiles": [
+    "para el viernes"
+   ],
+   "extra": [
+    "para mañana",
+    "sin apuro",
+    "gracias",
+    "así es"
+   ],
+   "ok": [
+    "para el viernes"
+   ],
+   "teaches": [
+    "para el viernes"
+   ],
+   "good": "Ocupar is to need here, not to occupy — ¿la ocupa? is do you need it. Naming the day is the whole arrangement."
+  },
+  {
+   "es": "Va pues, para el viernes se la tengo.",
+   "objective": "Ask what it comes to",
+   "key": "¿cuánto sale?",
+   "say": "¿Y cuánto sale?",
+   "en": "And what does it come to?",
+   "tiles": [
+    "¿y cuánto",
+    "sale?"
+   ],
+   "extra": [
+    "gracias",
+    "sin apuro",
+    "con permiso",
+    "así es"
+   ],
+   "ok": [
+    "y cuanto sale",
+    "cuanto sale"
+   ],
+   "teaches": [
+    "¿cuánto sale?"
+   ],
+   "good": "¿Cuánto sale? asks the total. Ask it, pay it, and do not haggle: this is hand-washing and the price is already low."
+  },
+  {
+   "es": "Doscientos. Y si me atraso un día, fíjese que a veces llueve.",
+   "objective": "Tell her there is no rush",
+   "key": "sin apuro",
+   "say": "Está bien. Sin apuro.",
+   "en": "That’s fine. No rush.",
+   "tiles": [
+    "está bien",
+    "sin apuro"
+   ],
+   "extra": [
+    "para el viernes",
+    "gracias",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "esta bien sin apuro",
+    "sin apuro"
+   ],
+   "teaches": [
+    "sin apuro"
+   ],
+   "good": "Everything dries outside, so rain is a real reason. Sin apuro costs you nothing and she will remember which neighbour said it."
+  }
+ ]
+}

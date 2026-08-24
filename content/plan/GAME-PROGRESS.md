@@ -4,7 +4,7 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**44 of 122 missions written.**
+**64 of 122 missions written.**
 
 ## El Centro (12/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
@@ -74,21 +74,21 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 5 | `guadalupe-09` **El pleito** | El vecino bravo | Get between two neighbours arguing over a wall |
 | x | 5 | `guadalupe-10` **La partera** | La partera | Talk to a midwife who has delivered half the street |
 
-## Pantanal (0/10)
+## Pantanal (10/10)
 *Down by the lake. Poorer, wetter, the part of Granada no postcard shows.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 2 | `pantanal-01` **La lancha** | El pescador | Get taken out on the lake by somebody who works it |
-|   | 2 | `pantanal-02` **El lavado** | La lavandera | Get your washing done and agree a day |
-|   | 3 | `pantanal-03` **No hay agua** | El del agua | Find out when the water is coming back |
-|   | 3 | `pantanal-04` **La leña** | La señora del fogón | Buy firewood and carry it further than you expected |
-|   | 3 | `pantanal-05` **El chavalo** | El chavalo descalzo | Be asked for money by a kid, and work out what you think |
-|   | 4 | `pantanal-06` **La inundación** | Doña Julia | Help bail out a house after the rain and be fed for it |
-|   | 4 | `pantanal-07` **El techo** | El albañil | Help patch a roof with a man who explains nothing |
-|   | 4 | `pantanal-08` **El mal de ojo** | La curandera | Be treated for something you do not believe in |
-|   | 5 | `pantanal-09` **El que volvió** | El que volvió | Talk to a man who went south for work and came back with nothing |
-|   | 5 | `pantanal-10` **El terremoto** | La abuela | Hear about 1972 from somebody who was in it |
+| x | 2 | `pantanal-01` **La lancha** | El pescador | Get taken out on the lake by somebody who works it |
+| x | 2 | `pantanal-02` **El lavado** | La lavandera | Get your washing done and agree a day |
+| x | 3 | `pantanal-03` **No hay agua** | El del agua | Find out when the water is coming back |
+| x | 3 | `pantanal-04` **La leña** | La señora del fogón | Buy firewood and carry it further than you expected |
+| x | 3 | `pantanal-05` **El chavalo** | El chavalo descalzo | Be asked for money by a kid, and work out what you think |
+| x | 4 | `pantanal-06` **La inundación** | Doña Julia | Help bail out a house after the rain and be fed for it |
+| x | 4 | `pantanal-07` **El techo** | El albañil | Help patch a roof with a man who explains nothing |
+| x | 4 | `pantanal-08` **El mal de ojo** | La curandera | Be treated for something you do not believe in |
+| x | 5 | `pantanal-09` **El que volvió** | El que volvió | Talk to a man who went south for work and came back with nothing |
+| x | 5 | `pantanal-10` **El terremoto** | La abuela | Hear about 1972 from somebody who was in it |
 
 ## El Malecón (0/8)
 *The lakefront. Boats, fried fish, Sunday crowds.*
@@ -104,21 +104,21 @@ Written by `game_stage.py`. Do not edit by hand.
 |   | 4 | `malecon-07` **La noche** | El vigilante | Be told, politely, that this is not a good place after dark |
 |   | 5 | `malecon-08` **A Ometepe** | El capitán | Buy a ferry ticket and understand the schedule |
 
-## La Terminal (0/10)
+## La Terminal (10/10)
 *Buses in and out. Everyone here is going somewhere or has just arrived.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `terminal-01` **La ruta** | El cobrador | Take a bus without ending up somewhere else |
-|   | 2 | `terminal-02` **El taxi** | El taxista | Agree the fare before you get in, not after |
-|   | 2 | `terminal-03` **El colectivo** | El del colectivo | Understand that a taxi stopping for others is not a scam |
-|   | 3 | `terminal-04` **El expreso** | La de los boletos | Buy a ticket to Managua and pick the right bus |
-|   | 3 | `terminal-05` **El que vende en el bus** | El vendedor del bus | Buy something from somebody selling in the aisle at speed |
-|   | 4 | `terminal-06` **La encomienda** | El de las encomiendas | Send a package to somebody in another town |
-|   | 4 | `terminal-07` **El que te quiere ver la cara** | El estafador | Spot the one who actually is trying it on |
-|   | 4 | `terminal-08` **Las maletas** | La señora con maletas | Help somebody with bags and refuse the money |
-|   | 5 | `terminal-09` **El chofer** | El chofer | Sit up front and get a driver talking for forty minutes |
-|   | 5 | `terminal-10` **El migrante** | El que se va | Say goodbye to somebody leaving for good |
+| x | 1 | `terminal-01` **La ruta** | El cobrador | Take a bus without ending up somewhere else |
+| x | 2 | `terminal-02` **El taxi** | El taxista | Agree the fare before you get in, not after |
+| x | 2 | `terminal-03` **El colectivo** | El del colectivo | Understand that a taxi stopping for others is not a scam |
+| x | 3 | `terminal-04` **El expreso** | La de los boletos | Buy a ticket to Managua and pick the right bus |
+| x | 3 | `terminal-05` **El que vende en el bus** | El vendedor del bus | Buy something from somebody selling in the aisle at speed |
+| x | 4 | `terminal-06` **La encomienda** | El de las encomiendas | Send a package to somebody in another town |
+| x | 4 | `terminal-07` **El que te quiere ver la cara** | El estafador | Spot the one who actually is trying it on |
+| x | 4 | `terminal-08` **Las maletas** | La señora con maletas | Help somebody with bags and refuse the money |
+| x | 5 | `terminal-09` **El chofer** | El chofer | Sit up front and get a driver talking for forty minutes |
+| x | 5 | `terminal-10` **El migrante** | El que se va | Say goodbye to somebody leaving for good |
 
 ## Tu barrio (0/14)
 *Your own street. The landlady, the pulpería on the corner, neighbours who hear everything.*

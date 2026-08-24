@@ -1,0 +1,108 @@
+{
+ "id": "pantanal-08",
+ "district": "pantanal",
+ "tier": 4,
+ "who": "La curandera",
+ "title": "El mal de ojo",
+ "goal": "Be treated for something you do not believe in",
+ "culture": "Mal de ojo is taken seriously by a great many people here, and the egg is a real, common remedy done for fussing babies all over the country. You are not obliged to believe any of it. You are obliged not to laugh, and that is the whole difference between a guest and a tourist.",
+ "beats": [
+  {
+   "es": "Usted anda ojeado, mi hijo. Se le ve en la cara.",
+   "objective": "Ask what she means",
+   "key": "le hicieron ojo",
+   "say": "¿Me hicieron ojo?",
+   "en": "Someone gave me the evil eye?",
+   "tiles": [
+    "¿me hicieron ojo?"
+   ],
+   "extra": [
+    "un huevo",
+    "no se ría",
+    "gracias",
+    "no ando"
+   ],
+   "ok": [
+    "me hicieron ojo"
+   ],
+   "teaches": [
+    "le hicieron ojo"
+   ],
+   "good": "Le hicieron ojo from her, me hicieron ojo from you. Somebody looked at you with envy, is the idea, and it is not a small matter to her."
+  },
+  {
+   "es": "Se lo quito con un huevo. Aquí mismo, no se mueva.",
+   "objective": "An egg?",
+   "key": "un huevo",
+   "say": "¿Con un huevo?",
+   "en": "With an egg?",
+   "tiles": [
+    "¿con un huevo?"
+   ],
+   "extra": [
+    "le hicieron ojo",
+    "no se ría",
+    "gracias",
+    "ya verá"
+   ],
+   "ok": [
+    "con un huevo"
+   ],
+   "teaches": [
+    "un huevo"
+   ],
+   "good": "A raw egg passed over you and then broken into a glass of water. It is done for babies who will not settle, everywhere, and it is not a trick got up for foreigners."
+  },
+  {
+   "es": "No se ría. Se lo digo en serio, mi hijo.",
+   "objective": "Tell her you are not laughing",
+   "key": "no se ría",
+   "say": "No me río. En serio.",
+   "en": "I’m not laughing. Honestly.",
+   "tiles": [
+    "no me río",
+    "en serio"
+   ],
+   "extra": [
+    "no se ría",
+    "gracias",
+    "cuídese",
+    "ya verá"
+   ],
+   "ok": [
+    "no me rio en serio",
+    "no me rio"
+   ],
+   "teaches": [
+    "no se ría"
+   ],
+   "good": "You do not have to believe it. You do have to not laugh at it, and she asked because plenty of people have."
+  },
+  {
+   "es": "Ya verá que amanece mejor mañana.",
+   "objective": "Leave it open",
+   "key": "ya verá",
+   "say": "Ya veré. Gracias, doña.",
+   "en": "We’ll see. Thank you, doña.",
+   "tiles": [
+    "ya veré",
+    "gracias",
+    "doña"
+   ],
+   "extra": [
+    "no me río",
+    "ya verá",
+    "cuídese",
+    "no ando"
+   ],
+   "ok": [
+    "ya vere gracias dona",
+    "ya vere"
+   ],
+   "teaches": [
+    "ya verá"
+   ],
+   "good": "Ya verá — you will see. Answering ya veré is neither agreeing nor arguing, and it is exactly the right amount of commitment to make."
+  }
+ ]
+}

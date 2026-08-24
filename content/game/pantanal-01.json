@@ -1,0 +1,111 @@
+{
+ "id": "pantanal-01",
+ "district": "pantanal",
+ "tier": 2,
+ "who": "El pescador",
+ "title": "La lancha",
+ "goal": "Get taken out on the lake by somebody who works it",
+ "culture": "The isletas are three hundred and sixty-odd islands left by Mombacho falling into the lake. The tour boats leave from the Centro Turístico and charge in dollars; a fisherman at the shore will take you for córdobas and show you where he actually works. Agree the return before you go, or you will be negotiating it standing on an island.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Anda viendo las isletas?",
+   "objective": "Ask him to take you out",
+   "key": "me lleva",
+   "say": "¿Me lleva a las isletas?",
+   "en": "Would you take me out to the isletas?",
+   "tiles": [
+    "¿me lleva",
+    "a las isletas?"
+   ],
+   "extra": [
+    "una hora",
+    "ida y vuelta",
+    "gracias",
+    "temprano"
+   ],
+   "ok": [
+    "me lleva a las isletas",
+    "me lleva"
+   ],
+   "teaches": [
+    "me lleva"
+   ],
+   "good": "Me lleva asks for the ride. He is not a tour operator and there is no ticket — there is a boat, a price and the two of you."
+  },
+  {
+   "es": "Puedo. ¿Por cuánto tiempo quiere andar?",
+   "objective": "An hour",
+   "key": "una hora",
+   "say": "Una hora está bien.",
+   "en": "An hour would be fine.",
+   "tiles": [
+    "una hora",
+    "está bien"
+   ],
+   "extra": [
+    "ida y vuelta",
+    "temprano",
+    "gracias",
+    "ni modo"
+   ],
+   "ok": [
+    "una hora esta bien",
+    "una hora"
+   ],
+   "teaches": [
+    "una hora"
+   ],
+   "good": "An hour gets you round the near islands and back. Settle the time before the price and the price will make sense."
+  },
+  {
+   "es": "Va. ¿Y lo dejo allá o lo traigo de vuelta?",
+   "objective": "There and back",
+   "key": "ida y vuelta",
+   "say": "Ida y vuelta, por favor.",
+   "en": "There and back, please.",
+   "tiles": [
+    "ida y vuelta",
+    "por favor"
+   ],
+   "extra": [
+    "solo ida",
+    "una hora",
+    "gracias",
+    "temprano"
+   ],
+   "ok": [
+    "ida y vuelta por favor",
+    "ida y vuelta"
+   ],
+   "teaches": [
+    "ida y vuelta"
+   ],
+   "good": "Ida y vuelta — out and back. Agree it now. Agreeing it later means agreeing it while standing on an island."
+  },
+  {
+   "es": "¿Y a qué hora salimos, pues?",
+   "objective": "Early",
+   "key": "temprano",
+   "say": "Temprano. A las seis.",
+   "en": "Early. Six o’clock.",
+   "tiles": [
+    "temprano",
+    "a las seis"
+   ],
+   "extra": [
+    "a las doce",
+    "ida y vuelta",
+    "gracias",
+    "ni modo"
+   ],
+   "ok": [
+    "temprano a las seis",
+    "temprano"
+   ],
+   "teaches": [
+    "temprano"
+   ],
+   "good": "Temprano, before the wind gets up on the lake in the afternoon. He will be there at six and so should you."
+  }
+ ]
+}

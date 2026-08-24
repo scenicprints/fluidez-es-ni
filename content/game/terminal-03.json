@@ -1,0 +1,107 @@
+{
+ "id": "terminal-03",
+ "district": "terminal",
+ "tier": 2,
+ "who": "El del colectivo",
+ "title": "El colectivo",
+ "goal": "Understand that a taxi stopping for others is not a scam",
+ "culture": "A colectivo picks up other passengers along the way and that is why it costs a third of what a private ride would. It is not your taxi and nothing has gone wrong. The only thing worth negotiating is the order of the drop-offs.",
+ "beats": [
+  {
+   "es": "Súbase, pero voy juntando gente, ¿va?",
+   "objective": "Ask if it is full",
+   "key": "va lleno",
+   "say": "¿Va lleno?",
+   "en": "Is it full?",
+   "tiles": [
+    "¿va lleno?"
+   ],
+   "extra": [
+    "yo voy primero",
+    "no importa",
+    "gracias",
+    "así es"
+   ],
+   "ok": [
+    "va lleno"
+   ],
+   "teaches": [
+    "va lleno"
+   ],
+   "good": "Juntando means he is collecting passengers. ¿Va lleno? is really asking how many more he plans to fit, and the answer is always one more."
+  },
+  {
+   "es": "Vamos cuatro. Pero usted va primero, no se preocupe.",
+   "objective": "Check that — you first?",
+   "key": "yo voy primero",
+   "say": "¿Yo voy primero?",
+   "en": "I get dropped first?",
+   "tiles": [
+    "¿yo voy primero?"
+   ],
+   "extra": [
+    "va lleno",
+    "no importa",
+    "gracias",
+    "ni modo"
+   ],
+   "ok": [
+    "yo voy primero"
+   ],
+   "teaches": [
+    "yo voy primero"
+   ],
+   "good": "The order of the drop-offs is the entire negotiation in a colectivo, and it goes to whoever thinks to ask."
+  },
+  {
+   "es": "Ahí voy a recoger a dos más, en la esquina nomás.",
+   "objective": "Say it does not matter",
+   "key": "no importa",
+   "say": "No importa. Está bien.",
+   "en": "It doesn’t matter. That’s fine.",
+   "tiles": [
+    "no importa",
+    "está bien"
+   ],
+   "extra": [
+    "va lleno",
+    "yo voy primero",
+    "gracias",
+    "me da"
+   ],
+   "ok": [
+    "no importa esta bien",
+    "no importa"
+   ],
+   "teaches": [
+    "no importa"
+   ],
+   "good": "It is not your taxi and the fare is a third of what it would be. No importa is both true and the right thing to say."
+  },
+  {
+   "es": "Así es aquí, joven. Todos vamos llegando.",
+   "objective": "Agree with him",
+   "key": "así es aquí",
+   "say": "Así es aquí. Así es.",
+   "en": "That’s how it is here. That’s right.",
+   "tiles": [
+    "así es aquí",
+    "así es"
+   ],
+   "extra": [
+    "no importa",
+    "va lleno",
+    "gracias",
+    "ni modo"
+   ],
+   "ok": [
+    "asi es aqui asi es",
+    "asi es aqui"
+   ],
+   "teaches": [
+    "así es aquí"
+   ],
+   "good": "Así es aquí — that is how it is here. Said with a shrug, it explains a great deal of the country and excuses none of it."
+  }
+ ]
+}

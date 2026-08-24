@@ -1,0 +1,92 @@
+[
+ {
+  "kind": "chavalo en bici",
+  "district": "pantanal",
+  "says": "Si quiere ir a las isletas, no pague el tour. Ahí en la orilla hay pescadores que lo llevan.",
+  "en": "If you want to go to the isletas, do not pay for the tour. There are fishermen on the shore who will take you.",
+  "points_at": [
+   "pantanal-01"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "pantanal",
+  "says": "¿Anda con ropa sucia? La lavandera de la otra cuadra lava bien y cobra poco.",
+  "en": "Got dirty washing? The laundress a block over washes well and charges little.",
+  "points_at": [
+   "pantanal-02"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "pantanal",
+  "says": "Aquí no hay agua desde el martes. Pregúntele al señor de la esquina, él avisa cuando viene.",
+  "en": "There has been no water here since Tuesday. Ask the man on the corner, he lets everyone know when it comes back.",
+  "points_at": [
+   "pantanal-03"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "pantanal",
+  "says": "¿Cocina con leña? La señora del fogón la vende por tercio, y seca.",
+  "en": "Do you cook with wood? The woman with the stove sells it by the bundle, and dry.",
+  "points_at": [
+   "pantanal-04"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "pantanal",
+  "says": "A doña Julia se le metió el agua otra vez anoche. Está sacándola sola, la pobre.",
+  "en": "Doña Julia’s house flooded again last night. She is bailing it out on her own, poor thing.",
+  "points_at": [
+   "pantanal-06"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "pantanal",
+  "says": "El albañil anda en aquel techo y está solo. Si le ayuda, no le va a explicar nada.",
+  "en": "The builder is up on that roof on his own. If you help him, he will not explain a thing.",
+  "points_at": [
+   "pantanal-07"
+  ]
+ },
+ {
+  "kind": "evangélico",
+  "district": "pantanal",
+  "says": "La curandera vive al final. Yo no creo en eso, pero la gente le tiene fe.",
+  "en": "The healer lives at the end of the street. I do not believe in it, but people have faith in her.",
+  "points_at": [
+   "pantanal-08"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "pantanal",
+  "says": "Ese hombre estuvo cinco años en Costa Rica y volvió igual. Pregúntele, le gusta contarlo.",
+  "en": "That man spent five years in Costa Rica and came back the same. Ask him, he likes telling it.",
+  "points_at": [
+   "pantanal-09"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "pantanal",
+  "says": "La abuela de esa casa estaba en Managua en el setenta y dos. Ella sí se acuerda.",
+  "en": "The grandmother in that house was in Managua in ’72. She remembers all of it.",
+  "points_at": [
+   "pantanal-10"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "pantanal",
+  "says": "Ese chavalo anda pidiendo todo el día. No le dé dinero: cómprele de comer, es mejor.",
+  "en": "That kid begs all day. Do not give him money: buy him something to eat, it is better.",
+  "points_at": [
+   "pantanal-05"
+  ]
+ }
+]

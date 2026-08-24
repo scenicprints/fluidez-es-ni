@@ -1,0 +1,107 @@
+{
+ "id": "terminal-02",
+ "district": "terminal",
+ "tier": 2,
+ "who": "El taxista",
+ "title": "El taxi",
+ "goal": "Agree the fare before you get in, not after",
+ "culture": "There is no meter in any taxi in this country and there never has been. The fare is agreed through the window before you open the door, and asking afterwards is a different and much worse conversation with your bags already inside.",
+ "beats": [
+  {
+   "es": "¿Taxi, joven? ¿Para dónde va?",
+   "objective": "To the market",
+   "key": "al mercado",
+   "say": "Al mercado.",
+   "en": "To the market.",
+   "tiles": [
+    "al mercado"
+   ],
+   "extra": [
+    "al parque",
+    "¿cuánto me cobra?",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "al mercado"
+   ],
+   "teaches": [
+    "al mercado"
+   ],
+   "good": "Name the place, never the street. Al mercado is a complete address in this town."
+  },
+  {
+   "es": "Súbase pues, ahí lo llevo.",
+   "objective": "Ask the fare — through the window",
+   "key": "¿cuánto me cobra?",
+   "say": "¿Cuánto me cobra?",
+   "en": "What will you charge me?",
+   "tiles": [
+    "¿cuánto me cobra?"
+   ],
+   "extra": [
+    "al mercado",
+    "está bien",
+    "gracias",
+    "quiero"
+   ],
+   "ok": [
+    "cuanto me cobra"
+   ],
+   "teaches": [
+    "¿cuánto me cobra?"
+   ],
+   "good": "You asked the cargador this in the market and it is the same question here. No meter, so the number happens now or it happens badly later."
+  },
+  {
+   "es": "Cincuenta pesos.",
+   "objective": "Agree",
+   "key": "está bien",
+   "say": "Está bien. Cincuenta.",
+   "en": "Alright. Fifty.",
+   "tiles": [
+    "está bien",
+    "cincuenta"
+   ],
+   "extra": [
+    "cien",
+    "¿cuánto me cobra?",
+    "gracias",
+    "al mercado"
+   ],
+   "ok": [
+    "esta bien cincuenta",
+    "esta bien"
+   ],
+   "teaches": [
+    "está bien"
+   ],
+   "good": "Fifty is a fair town fare. Haggling a taxi here is not the ritual it is in a market — agree it and get in."
+  },
+  {
+   "es": "Así me gusta, que pregunte antes de subir. Muchos no.",
+   "objective": "Say the rule out loud",
+   "key": "antes de subir",
+   "say": "Antes de subir, siempre.",
+   "en": "Before getting in, always.",
+   "tiles": [
+    "antes de subir",
+    "siempre"
+   ],
+   "extra": [
+    "está bien",
+    "al mercado",
+    "gracias",
+    "quiero"
+   ],
+   "ok": [
+    "antes de subir siempre",
+    "antes de subir"
+   ],
+   "teaches": [
+    "antes de subir"
+   ],
+   "good": "Antes de subir — before getting in. He approves because the ones who ask afterwards are the ones who end up arguing on the pavement."
+  }
+ ]
+}

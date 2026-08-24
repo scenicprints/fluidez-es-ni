@@ -1,0 +1,109 @@
+{
+ "id": "terminal-09",
+ "district": "terminal",
+ "tier": 5,
+ "who": "El chofer",
+ "title": "El chofer",
+ "goal": "Sit up front and get a driver talking for forty minutes",
+ "culture": "The seat beside the driver is not off limits and it is cooler. Four questions is all it takes; after that your part is listening, and you will learn more Spanish in forty minutes of it than in a week of anything else.",
+ "beats": [
+  {
+   "es": "Súbase adelante si quiere, joven. Ahí va más fresco.",
+   "objective": "Ask how long he has been driving",
+   "key": "¿cuántos años maneja?",
+   "say": "¿Cuántos años maneja usted?",
+   "en": "How many years have you been driving?",
+   "tiles": [
+    "¿cuántos años",
+    "maneja usted?"
+   ],
+   "extra": [
+    "toda la ruta",
+    "me gusta",
+    "así es",
+    "ni modo"
+   ],
+   "ok": [
+    "cuantos anos maneja usted",
+    "cuantos anos maneja"
+   ],
+   "teaches": [
+    "¿cuántos años maneja?"
+   ],
+   "good": "Manejar is to drive; conducir is what a textbook says and nobody here. Ask a driver his years and you have bought yourself the whole journey."
+  },
+  {
+   "es": "Veintidós años. Toda la ruta me la sé de memoria.",
+   "objective": "The whole route?",
+   "key": "toda la ruta",
+   "say": "¿Toda la ruta?",
+   "en": "The whole route?",
+   "tiles": [
+    "¿toda la ruta?"
+   ],
+   "extra": [
+    "me gusta",
+    "uno se acostumbra",
+    "así es",
+    "me deja en"
+   ],
+   "ok": [
+    "toda la ruta"
+   ],
+   "teaches": [
+    "toda la ruta"
+   ],
+   "good": "De memoria again — the same phrase the poet used about Darío. He means every curve, every tope and every place the police stand."
+  },
+  {
+   "es": "Toda. Y me gusta, fíjese. No lo cambio.",
+   "objective": "Ask whether he really likes it",
+   "key": "me gusta",
+   "say": "¿Le gusta manejar?",
+   "en": "You like driving?",
+   "tiles": [
+    "¿le gusta",
+    "manejar?"
+   ],
+   "extra": [
+    "toda la ruta",
+    "uno se acostumbra",
+    "así es",
+    "ni modo"
+   ],
+   "ok": [
+    "le gusta manejar",
+    "le gusta"
+   ],
+   "teaches": [
+    "me gusta"
+   ],
+   "good": "Me gusta from him, le gusta from you. He said it first and unprompted, which in a job like his is worth noticing out loud."
+  },
+  {
+   "es": "Cansa, eso sí. Pero uno se acostumbra.",
+   "objective": "Agree the way he means it",
+   "key": "uno se acostumbra",
+   "say": "Uno se acostumbra. Así es.",
+   "en": "You get used to it. That’s right.",
+   "tiles": [
+    "uno se acostumbra",
+    "así es"
+   ],
+   "extra": [
+    "me gusta",
+    "toda la ruta",
+    "ni modo",
+    "me deja en"
+   ],
+   "ok": [
+    "uno se acostumbra asi es",
+    "uno se acostumbra"
+   ],
+   "teaches": [
+    "uno se acostumbra"
+   ],
+   "good": "Uno for I, which turns it into something general — it is how people here say the hard part out loud without it counting as a complaint."
+  }
+ ]
+}

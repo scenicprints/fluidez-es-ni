@@ -1,0 +1,93 @@
+[
+ {
+  "kind": "caponero",
+  "district": "terminal",
+  "says": "Pregunte al cobrador para dónde va antes de subirse. Los buses no dicen nada afuera.",
+  "en": "Ask the conductor where it is going before you get on. The buses say nothing on the outside.",
+  "points_at": [
+   "terminal-01"
+  ]
+ },
+ {
+  "kind": "cuidacarros",
+  "district": "terminal",
+  "says": "Los taxis no tienen taxímetro, jefe. Pregunte el precio por la ventana, antes de subir.",
+  "en": "The taxis have no meter, boss. Ask the price through the window, before you get in.",
+  "points_at": [
+   "terminal-02",
+   "terminal-03"
+  ]
+ },
+ {
+  "kind": "policía",
+  "district": "terminal",
+  "says": "Si el taxi recoge a otros no es engaño, es colectivo. Por eso le sale más barato.",
+  "en": "If the taxi picks up other people it is not a trick, it is a colectivo. That is why it costs you less.",
+  "points_at": [
+   "terminal-03"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "terminal",
+  "says": "Los boletos para Managua los venden ahí. Pida el expreso, que el ordinario no llega nunca.",
+  "en": "They sell the Managua tickets there. Ask for the express, the ordinary one never gets there.",
+  "points_at": [
+   "terminal-04"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "terminal",
+  "says": "En el bus se sube gente vendiendo rosquillas. Tenga el billete listo, que se bajan rápido.",
+  "en": "People get on the bus selling rosquillas. Have your money ready, they get off fast.",
+  "points_at": [
+   "terminal-05"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "terminal",
+  "says": "¿Va a mandar algo a otro pueblo? Se manda en el bus, ahí donde las encomiendas.",
+  "en": "Sending something to another town? It goes by bus, over there where the parcels are.",
+  "points_at": [
+   "terminal-06"
+  ]
+ },
+ {
+  "kind": "policía",
+  "district": "terminal",
+  "says": "Cuidado con el que cambia dólares en la terminal. Ese sí le quiere ver la cara.",
+  "en": "Watch out for the man changing dollars in the terminal. That one really is trying it on.",
+  "points_at": [
+   "terminal-07"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "terminal",
+  "says": "Ahí anda una señora con cuatro maletas y nadie la ayuda. Es que aquí todo se cobra.",
+  "en": "There is a woman there with four suitcases and nobody helping her. Everything gets charged for here.",
+  "points_at": [
+   "terminal-08"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "terminal",
+  "says": "Súbase adelante con el chofer. Ese hombre lleva veintidós años en la misma ruta.",
+  "en": "Sit up front with the driver. That man has done the same route for twenty-two years.",
+  "points_at": [
+   "terminal-09"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "terminal",
+  "says": "Ese muchacho se va hoy para el sur. La mamá está ahí y no le dice nada.",
+  "en": "That lad is leaving for the south today. His mother is right there and she is not saying anything.",
+  "points_at": [
+   "terminal-10"
+  ]
+ }
+]

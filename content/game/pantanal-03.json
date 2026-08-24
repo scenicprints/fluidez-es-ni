@@ -1,0 +1,109 @@
+{
+ "id": "pantanal-03",
+ "district": "pantanal",
+ "tier": 3,
+ "who": "El del agua",
+ "title": "No hay agua",
+ "goal": "Find out when the water is coming back",
+ "culture": "The mains go off down here for days at a time and everybody stores water in barrels. Nobody announces anything, so the neighbour who listens to the pipes IS the information system. Getting yourself onto that list is what this mission is for.",
+ "beats": [
+  {
+   "es": "¿Y usted también anda sin agua?",
+   "objective": "Say there is none at your house",
+   "key": "no hay agua",
+   "say": "No hay agua en mi casa.",
+   "en": "There’s no water at my house.",
+   "tiles": [
+    "no hay agua",
+    "en mi casa"
+   ],
+   "extra": [
+    "desde el martes",
+    "¿cuándo viene?",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "no hay agua en mi casa",
+    "no hay agua"
+   ],
+   "teaches": [
+    "no hay agua"
+   ],
+   "good": "No hay agua is a sentence you will say and hear constantly down here. It is not a complaint, it is the weather report."
+  },
+  {
+   "es": "Aquí tampoco. Desde el martes, fíjese.",
+   "objective": "Since Tuesday?",
+   "key": "desde el martes",
+   "say": "¿Desde el martes?",
+   "en": "Since Tuesday?",
+   "tiles": [
+    "¿desde el martes?"
+   ],
+   "extra": [
+    "no hay agua",
+    "¿cuándo viene?",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "desde el martes"
+   ],
+   "teaches": [
+    "desde el martes"
+   ],
+   "good": "Three days already. Repeating the day back is how you find out whether this is bad or normal, and down here it is normal."
+  },
+  {
+   "es": "Desde el martes, sí. Yo tengo dos barriles llenos, gracias a Dios.",
+   "objective": "Ask when it is coming back",
+   "key": "¿cuándo viene?",
+   "say": "¿Y cuándo viene?",
+   "en": "And when is it coming back?",
+   "tiles": [
+    "¿y cuándo",
+    "viene?"
+   ],
+   "extra": [
+    "no hay agua",
+    "gracias",
+    "ya va",
+    "cuídese"
+   ],
+   "ok": [
+    "y cuando viene",
+    "cuando viene"
+   ],
+   "teaches": [
+    "¿cuándo viene?"
+   ],
+   "good": "Nobody from the company will tell you, so asking a neighbour is not a workaround — it is the system, and he will know before they do."
+  },
+  {
+   "es": "Quién sabe. Pero yo oigo el ruido en los tubos y aviso a todos.",
+   "objective": "Ask him to let you know",
+   "key": "avíseme",
+   "say": "Avíseme, por favor.",
+   "en": "Let me know, please.",
+   "tiles": [
+    "avíseme",
+    "por favor"
+   ],
+   "extra": [
+    "gracias",
+    "ya va",
+    "no ando",
+    "cuídese"
+   ],
+   "ok": [
+    "aviseme por favor",
+    "aviseme"
+   ],
+   "teaches": [
+    "avíseme"
+   ],
+   "good": "Avíseme — let me know. Asking to be told is how you get plugged into a barrio that runs entirely on being told things."
+  }
+ ]
+}

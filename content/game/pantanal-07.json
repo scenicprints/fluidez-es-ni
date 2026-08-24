@@ -1,0 +1,107 @@
+{
+ "id": "pantanal-07",
+ "district": "pantanal",
+ "tier": 4,
+ "who": "El albañil",
+ "title": "El techo",
+ "goal": "Help patch a roof with a man who explains nothing",
+ "culture": "He does not explain because the job explains itself and because he is on a roof. Every line he says to you is an imperative, and your whole part is understanding them fast and saying so. This is the listening mission of the district.",
+ "beats": [
+  {
+   "es": "¿Me ayuda tantito, joven? Súbase, pues.",
+   "objective": "Check he means you should come up",
+   "key": "súbase",
+   "say": "¿Que me suba?",
+   "en": "You want me to come up?",
+   "tiles": [
+    "¿que me suba?"
+   ],
+   "extra": [
+    "páseme",
+    "aquí",
+    "quieto",
+    "con permiso"
+   ],
+   "ok": [
+    "que me suba"
+   ],
+   "teaches": [
+    "súbase"
+   ],
+   "good": "Súbase from him, que me suba from you. Repeating an instruction back as a question is how you work with somebody who explains nothing."
+  },
+  {
+   "es": "Sí pues. Ahora páseme esa lámina.",
+   "objective": "This one — and say it is coming",
+   "key": "páseme",
+   "say": "¿Esta? Ya se la paso.",
+   "en": "This one? Coming up.",
+   "tiles": [
+    "¿esta?",
+    "ya se la paso"
+   ],
+   "extra": [
+    "páseme",
+    "quieto",
+    "aquí",
+    "así es"
+   ],
+   "ok": [
+    "esta ya se la paso",
+    "ya se la paso"
+   ],
+   "teaches": [
+    "páseme"
+   ],
+   "good": "Páseme — pass me. Ya se la paso is the answer, and ya does the whole tense on its own: I am doing it now."
+  },
+  {
+   "es": "Póngala aquí. Aquí, aquí.",
+   "objective": "One word, with your hand on the spot",
+   "key": "aquí",
+   "say": "¿Aquí?",
+   "en": "Here?",
+   "tiles": [
+    "¿aquí?"
+   ],
+   "extra": [
+    "páseme",
+    "quieto",
+    "allá",
+    "así es"
+   ],
+   "ok": [
+    "aqui"
+   ],
+   "teaches": [
+    "aquí"
+   ],
+   "good": "One word said as a question, with your hand where you think he means. On a roof that is worth more than a sentence."
+  },
+  {
+   "es": "Ahí. Quieto, quieto... ya. Ya quedó.",
+   "objective": "Tell him you have it",
+   "key": "quieto",
+   "say": "Quieto. Ya lo tengo.",
+   "en": "Holding. I’ve got it.",
+   "tiles": [
+    "quieto",
+    "ya lo tengo"
+   ],
+   "extra": [
+    "páseme",
+    "aquí",
+    "con permiso",
+    "ni modo"
+   ],
+   "ok": [
+    "quieto ya lo tengo",
+    "ya lo tengo"
+   ],
+   "teaches": [
+    "quieto"
+   ],
+   "good": "Quieto is hold still and there is nothing rude in it. Ya lo tengo is the only thing he needs to hear, because it means he can let go."
+  }
+ ]
+}

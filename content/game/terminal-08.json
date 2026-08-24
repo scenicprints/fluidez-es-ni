@@ -1,0 +1,110 @@
+{
+ "id": "terminal-08",
+ "district": "terminal",
+ "tier": 4,
+ "who": "La señora con maletas",
+ "title": "Las maletas",
+ "goal": "Help somebody with bags and refuse the money",
+ "culture": "The mirror of the cargador in the market: there, you paid somebody to carry, and agreeing the price first was the whole etiquette. Here you are the one carrying, and refusing the money is. She will offer, because everybody who lifts a bag in that terminal is paid for it.",
+ "beats": [
+  {
+   "es": "Ay, Dios... perdón, joven, es que son muchas.",
+   "objective": "Offer before she asks",
+   "key": "yo le ayudo",
+   "say": "Yo le ayudo, doña.",
+   "en": "Let me help you, doña.",
+   "tiles": [
+    "yo le ayudo",
+    "doña"
+   ],
+   "extra": [
+    "no es nada",
+    "no se preocupe",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "yo le ayudo dona",
+    "yo le ayudo"
+   ],
+   "teaches": [
+    "yo le ayudo"
+   ],
+   "good": "Offer first. There is no version of this where she asks you, and the offer is the whole of the kindness."
+  },
+  {
+   "es": "¡Ay, mi hijo, gracias! ¿Y cuánto le doy?",
+   "objective": "Refuse the money",
+   "key": "no es nada",
+   "say": "Nada, doña. No es nada.",
+   "en": "Nothing, doña. It’s nothing.",
+   "tiles": [
+    "nada",
+    "doña",
+    "no es nada"
+   ],
+   "extra": [
+    "yo le ayudo",
+    "no se preocupe",
+    "gracias",
+    "me da"
+   ],
+   "ok": [
+    "nada dona no es nada",
+    "no es nada"
+   ],
+   "teaches": [
+    "no es nada"
+   ],
+   "good": "She offers because everybody who lifts a bag in this terminal is paid for it. No es nada declines without leaving her owing you."
+  },
+  {
+   "es": "Pero es que usted se molestó por mí...",
+   "objective": "Tell her not to worry",
+   "key": "no se preocupe",
+   "say": "No se preocupe.",
+   "en": "Don’t worry about it.",
+   "tiles": [
+    "no se preocupe"
+   ],
+   "extra": [
+    "no es nada",
+    "yo le ayudo",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "no se preocupe"
+   ],
+   "teaches": [
+    "no se preocupe"
+   ],
+   "good": "No se preocupe closes it. A third refusal after this would start making it about you."
+  },
+  {
+   "es": "Que Dios se lo pague, mi hijo. De verdad.",
+   "objective": "Say goodbye properly",
+   "key": "que le vaya bien",
+   "say": "Que le vaya bien, doña.",
+   "en": "All the best to you, doña.",
+   "tiles": [
+    "que le vaya bien",
+    "doña"
+   ],
+   "extra": [
+    "no es nada",
+    "gracias",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "que le vaya bien dona",
+    "que le vaya bien"
+   ],
+   "teaches": [
+    "que le vaya bien"
+   ],
+   "good": "Que Dios se lo pague is the largest thank-you there is here and it is not answered in kind. Que le vaya bien is the right size."
+  }
+ ]
+}

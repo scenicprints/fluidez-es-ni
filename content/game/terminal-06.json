@@ -1,0 +1,107 @@
+{
+ "id": "terminal-06",
+ "district": "terminal",
+ "tier": 4,
+ "who": "El de las encomiendas",
+ "title": "La encomienda",
+ "goal": "Send a package to somebody in another town",
+ "culture": "Parcels travel by bus. You hand it over, pay a little, it rides in the same hold as everybody’s shopping, and somebody collects it at the other terminal. There is no tracking of any kind and it works, but only if a real person knows to be there.",
+ "beats": [
+  {
+   "es": "¿Encomienda, joven?",
+   "objective": "Yes — you want to send this",
+   "key": "mandar esto",
+   "say": "Quiero mandar esto.",
+   "en": "I want to send this.",
+   "tiles": [
+    "quiero",
+    "mandar esto"
+   ],
+   "extra": [
+    "a Masaya",
+    "¿llega hoy?",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "quiero mandar esto",
+    "mandar esto"
+   ],
+   "teaches": [
+    "mandar esto"
+   ],
+   "good": "Mandar esto, with the parcel held out. The whole system is a man, a bus and somebody waiting at the other end."
+  },
+  {
+   "es": "¿Y para dónde va?",
+   "objective": "To Masaya",
+   "key": "a Masaya",
+   "say": "A Masaya.",
+   "en": "To Masaya.",
+   "tiles": [
+    "a Masaya"
+   ],
+   "extra": [
+    "a Managua",
+    "mandar esto",
+    "gracias",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "a masaya"
+   ],
+   "teaches": [
+    "a Masaya"
+   ],
+   "good": "The destination is a town, and every town has one terminal. That is the entire address."
+  },
+  {
+   "es": "Va. Sale en el de las tres.",
+   "objective": "Ask whether it gets there today",
+   "key": "¿llega hoy?",
+   "say": "¿Llega hoy?",
+   "en": "Will it get there today?",
+   "tiles": [
+    "¿llega hoy?"
+   ],
+   "extra": [
+    "a Masaya",
+    "mandar esto",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "llega hoy"
+   ],
+   "teaches": [
+    "¿llega hoy?"
+   ],
+   "good": "It will. The bus takes an hour and your parcel is going in the hold with everybody’s shopping."
+  },
+  {
+   "es": "Llega hoy mismo, como a las cuatro.",
+   "objective": "Ask who collects it",
+   "key": "¿quién lo recibe?",
+   "say": "¿Y quién lo recibe?",
+   "en": "And who picks it up?",
+   "tiles": [
+    "¿y quién",
+    "lo recibe?"
+   ],
+   "extra": [
+    "¿llega hoy?",
+    "a Masaya",
+    "gracias",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "y quien lo recibe",
+    "quien lo recibe"
+   ],
+   "teaches": [
+    "¿quién lo recibe?"
+   ],
+   "good": "Ask, because the answer is a person and not an office. Somebody has to be standing at that terminal when the bus pulls in."
+  }
+ ]
+}

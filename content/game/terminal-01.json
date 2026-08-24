@@ -1,0 +1,109 @@
+{
+ "id": "terminal-01",
+ "district": "terminal",
+ "tier": 1,
+ "who": "El cobrador",
+ "title": "La ruta",
+ "goal": "Take a bus without ending up somewhere else",
+ "culture": "The cobrador hangs out of the door shouting the destination and he is the one you pay, not the driver. There are no printed stops: you tell him where you are getting off and he remembers, and you shout before you get there or you see the next town.",
+ "beats": [
+  {
+   "es": "¡Managua, Managua! ¡Masaya, Masaya!",
+   "objective": "Check where it is going",
+   "key": "¿va para?",
+   "say": "¿Va para Masaya?",
+   "en": "Are you going to Masaya?",
+   "tiles": [
+    "¿va para",
+    "Masaya?"
+   ],
+   "extra": [
+    "la parada",
+    "me deja en",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "va para masaya",
+    "va para"
+   ],
+   "teaches": [
+    "¿va para?"
+   ],
+   "good": "Ask from the pavement, before you get on. He is shouting a destination and so is the bus in front of him, which is going somewhere else."
+  },
+  {
+   "es": "¡Sí, Masaya! Súbase, súbase, ya nos vamos.",
+   "objective": "Tell him where to drop you",
+   "key": "me deja en",
+   "say": "Me deja en el mercado.",
+   "en": "Drop me at the market.",
+   "tiles": [
+    "me deja en",
+    "el mercado"
+   ],
+   "extra": [
+    "la parada",
+    "ya voy bajando",
+    "gracias",
+    "no ando"
+   ],
+   "ok": [
+    "me deja en el mercado",
+    "me deja en"
+   ],
+   "teaches": [
+    "me deja en"
+   ],
+   "good": "Me deja en... names your stop. There is no bell and no list — you tell him once and he keeps it in his head along with everybody else’s."
+  },
+  {
+   "es": "Va pues. Son veinte pesos.",
+   "objective": "Ask where the stop actually is",
+   "key": "la parada",
+   "say": "¿Dónde queda la parada?",
+   "en": "Where’s the stop?",
+   "tiles": [
+    "¿dónde queda",
+    "la parada?"
+   ],
+   "extra": [
+    "me deja en",
+    "ya voy bajando",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "donde queda la parada",
+    "la parada"
+   ],
+   "teaches": [
+    "la parada"
+   ],
+   "good": "La parada is wherever people are standing. Asking is faster than looking for a sign, because there is no sign."
+  },
+  {
+   "es": "Ya casi, joven. Ahí adelantito.",
+   "objective": "Call out that you are getting off",
+   "key": "ya voy bajando",
+   "say": "¡Ya voy bajando!",
+   "en": "I’m getting off!",
+   "tiles": [
+    "¡ya voy bajando!"
+   ],
+   "extra": [
+    "la parada",
+    "me deja en",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "ya voy bajando"
+   ],
+   "teaches": [
+    "ya voy bajando"
+   ],
+   "good": "Shout it, and shout it early. Ya voy bajando is the difference between your stop and a long walk back from the next one."
+  }
+ ]
+}

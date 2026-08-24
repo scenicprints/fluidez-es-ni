@@ -1,0 +1,108 @@
+{
+ "id": "pantanal-06",
+ "district": "pantanal",
+ "tier": 4,
+ "who": "Doña Julia",
+ "title": "La inundación",
+ "goal": "Help bail out a house after the rain and be fed for it",
+ "culture": "When it rains hard the water comes into the houses down here, and helping bail is what a neighbour does rather than a kindness worth mentioning. Being fed for it is not optional: refusing the food is the insult, not the eating.",
+ "beats": [
+  {
+   "es": "¡Ay, vecino! Mire cómo quedó esto.",
+   "objective": "Ask whether the water got in",
+   "key": "se metió el agua",
+   "say": "¿Se metió el agua?",
+   "en": "Did the water get in?",
+   "tiles": [
+    "¿se metió el agua?"
+   ],
+   "extra": [
+    "toda la noche",
+    "échele",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "se metio el agua"
+   ],
+   "teaches": [
+    "se metió el agua"
+   ],
+   "good": "Se metió el agua — the water got in. It is the sentence of the whole rainy season in this barrio."
+  },
+  {
+   "es": "Toda la noche estuvo entrando. Desde las dos.",
+   "objective": "All night — say it back",
+   "key": "toda la noche",
+   "say": "¿Toda la noche?",
+   "en": "All night?",
+   "tiles": [
+    "¿toda la noche?"
+   ],
+   "extra": [
+    "se metió el agua",
+    "échele",
+    "gracias",
+    "me da"
+   ],
+   "ok": [
+    "toda la noche"
+   ],
+   "teaches": [
+    "toda la noche"
+   ],
+   "good": "Saying it back is doing something. She has been awake with a bucket since two and somebody noticing is not nothing."
+  },
+  {
+   "es": "Agarre esa cubeta, vecino. Échele para afuera.",
+   "objective": "Get on with it, and say so",
+   "key": "échele",
+   "say": "Échele, pues. Yo le ayudo.",
+   "en": "Keep at it. I’ll give you a hand.",
+   "tiles": [
+    "échele",
+    "yo le ayudo"
+   ],
+   "extra": [
+    "toda la noche",
+    "se metió el agua",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "echele yo le ayudo",
+    "yo le ayudo"
+   ],
+   "teaches": [
+    "échele"
+   ],
+   "good": "Échele is go on, keep at it, throw it out. It is a verb of encouragement that means almost anything, and here it means both of you keep bailing."
+  },
+  {
+   "es": "Ya, ya. Siéntese. Coma algo, aunque sea un poquito.",
+   "objective": "Accept — and turn it round on her",
+   "key": "coma algo",
+   "say": "Coma algo usted también, doña.",
+   "en": "You eat something too, doña.",
+   "tiles": [
+    "coma algo",
+    "usted también",
+    "doña"
+   ],
+   "extra": [
+    "gracias",
+    "está bien",
+    "me da",
+    "no"
+   ],
+   "ok": [
+    "coma algo usted tambien dona",
+    "coma algo usted tambien"
+   ],
+   "teaches": [
+    "coma algo"
+   ],
+   "good": "She will feed you for helping and refusing is the insult. Telling her to eat too is the right answer, because she has not since it started."
+  }
+ ]
+}

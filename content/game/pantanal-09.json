@@ -1,0 +1,109 @@
+{
+ "id": "pantanal-09",
+ "district": "pantanal",
+ "tier": 5,
+ "who": "El que volvió",
+ "title": "El que volvió",
+ "goal": "Talk to a man who went south for work and came back with nothing",
+ "culture": "Half this barrio has somebody in Costa Rica or Panama. Some came back with a house and some came back with nothing, and he is neither a success story nor a warning — he made a decision, it went how it went, and he would like to tell somebody about it without being pitied for it.",
+ "beats": [
+  {
+   "es": "Yo estuve fuera, ¿sabe? Cinco años estuve.",
+   "objective": "Ask where he went",
+   "key": "me fui",
+   "say": "¿A dónde se fue?",
+   "en": "Where did you go?",
+   "tiles": [
+    "¿a dónde",
+    "se fue?"
+   ],
+   "extra": [
+    "allá",
+    "no es como dicen",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "a donde se fue",
+    "a donde"
+   ],
+   "teaches": [
+    "me fui"
+   ],
+   "good": "He will answer me fui a Costa Rica. Se fue from you, me fui from him — the same trip from the two ends of it, which is the pattern this whole game runs on."
+  },
+  {
+   "es": "Me fui a Costa Rica. A cortar café primero, después construcción.",
+   "objective": "Ask what it was like there",
+   "key": "allá",
+   "say": "¿Y cómo era allá?",
+   "en": "And what was it like over there?",
+   "tiles": [
+    "¿y cómo era",
+    "allá?"
+   ],
+   "extra": [
+    "me fui",
+    "aquí estoy mejor",
+    "gracias",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "y como era alla",
+    "como era alla"
+   ],
+   "teaches": [
+    "allá"
+   ],
+   "good": "Allá is over there, wherever there is. In this barrio it means Costa Rica or Panama and nobody has to say which."
+  },
+  {
+   "es": "Uy. No es como dicen, le voy a ser sincero.",
+   "objective": "Ask him what he means",
+   "key": "no es como dicen",
+   "say": "¿No es como dicen?",
+   "en": "It isn’t how they say?",
+   "tiles": [
+    "¿no es como dicen?"
+   ],
+   "extra": [
+    "allá",
+    "aquí estoy mejor",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "no es como dicen"
+   ],
+   "teaches": [
+    "no es como dicen"
+   ],
+   "good": "No es como dicen — it is not how they tell it. He is not warning you off; he is correcting a story the whole street believes."
+  },
+  {
+   "es": "Trabajé bien duro cinco años y volví igual que me fui. Pero aquí estoy mejor.",
+   "objective": "Take him at his word",
+   "key": "aquí estoy mejor",
+   "say": "Aquí está mejor, entonces.",
+   "en": "You’re better off here, then.",
+   "tiles": [
+    "aquí está mejor",
+    "entonces"
+   ],
+   "extra": [
+    "aquí estoy mejor",
+    "allá",
+    "gracias",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "aqui esta mejor entonces",
+    "aqui esta mejor"
+   ],
+   "teaches": [
+    "aquí estoy mejor"
+   ],
+   "good": "Agreement, not sympathy. He did not tell you this to be pitied and aquí estoy mejor is the sentence he came home with — he means it."
+  }
+ ]
+}

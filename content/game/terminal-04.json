@@ -1,0 +1,113 @@
+{
+ "id": "terminal-04",
+ "district": "terminal",
+ "tier": 3,
+ "who": "La de los boletos",
+ "title": "El expreso",
+ "goal": "Buy a ticket to Managua and pick the right bus",
+ "culture": "The expreso does not stop; the ordinario stops for anybody who waves and takes twice as long to save you about a dollar. The timetable on the wall is from another year, so ask the woman and not the wall.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Para dónde le doy?",
+   "objective": "A ticket to Managua",
+   "key": "un boleto",
+   "say": "Un boleto para Managua.",
+   "en": "One ticket to Managua.",
+   "tiles": [
+    "un boleto",
+    "para Managua"
+   ],
+   "extra": [
+    "el expreso",
+    "el próximo",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "un boleto para managua",
+    "un boleto"
+   ],
+   "teaches": [
+    "un boleto"
+   ],
+   "good": "Un boleto — one ticket. In a bus terminal it is very nearly the only sentence you strictly need."
+  },
+  {
+   "es": "¿Ordinario o expreso?",
+   "objective": "The express",
+   "key": "el expreso",
+   "say": "El expreso, por favor.",
+   "en": "The express, please.",
+   "tiles": [
+    "el expreso",
+    "por favor"
+   ],
+   "extra": [
+    "el ordinario",
+    "un boleto",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "el expreso por favor",
+    "el expreso"
+   ],
+   "teaches": [
+    "el expreso"
+   ],
+   "good": "El expreso does not stop. El ordinario stops for everybody who waves at it and takes twice as long to save you about a dollar."
+  },
+  {
+   "es": "Va. Ochenta córdobas el expreso.",
+   "objective": "Ask what time it leaves",
+   "key": "¿a qué hora?",
+   "say": "¿A qué hora sale?",
+   "en": "What time does it leave?",
+   "tiles": [
+    "¿a qué hora",
+    "sale?"
+   ],
+   "extra": [
+    "el próximo",
+    "gracias",
+    "con permiso",
+    "fíjese que"
+   ],
+   "ok": [
+    "a que hora sale",
+    "a que hora"
+   ],
+   "teaches": [
+    "¿a qué hora?"
+   ],
+   "good": "Sale is what buses, papers and photographs all do here. Ask her, because the timetable pinned to the wall is from another year."
+  },
+  {
+   "es": "Ese ya se fue, fíjese. El próximo a las dos.",
+   "objective": "Take the next one",
+   "key": "el próximo",
+   "say": "El próximo, entonces. Está bien.",
+   "en": "The next one, then. That’s fine.",
+   "tiles": [
+    "el próximo",
+    "entonces",
+    "está bien"
+   ],
+   "extra": [
+    "el expreso",
+    "gracias",
+    "con permiso",
+    "un boleto"
+   ],
+   "ok": [
+    "el proximo entonces esta bien",
+    "el proximo entonces",
+    "el proximo"
+   ],
+   "teaches": [
+    "el próximo"
+   ],
+   "good": "El próximo — the next one. There is always a next one, and it leaves when it is full whatever the ticket says."
+  }
+ ]
+}

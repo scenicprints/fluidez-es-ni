@@ -1,0 +1,107 @@
+{
+ "id": "terminal-05",
+ "district": "terminal",
+ "tier": 3,
+ "who": "El vendedor del bus",
+ "title": "El que vende en el bus",
+ "goal": "Buy something from somebody selling in the aisle at speed",
+ "culture": "Vendors board at every stop, work the aisle and jump off before the bus is properly moving. You have about twenty seconds, so the Spanish is short and the money should already be in your hand.",
+ "beats": [
+  {
+   "es": "¡Agua, gaseosa, rosquillas! ¡Rosquillas calientitas!",
+   "objective": "Ask what he has",
+   "key": "¿qué lleva?",
+   "say": "¿Qué lleva?",
+   "en": "What have you got?",
+   "tiles": [
+    "¿qué lleva?"
+   ],
+   "extra": [
+    "deme uno",
+    "aquí tiene",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "que lleva"
+   ],
+   "teaches": [
+    "¿qué lleva?"
+   ],
+   "good": "¿Qué lleva? is what are you carrying, and it is the fastest possible question — which matters, because he is leaving."
+  },
+  {
+   "es": "Rosquillas, agua fría, gaseosa.",
+   "objective": "Ask for one",
+   "key": "deme uno",
+   "say": "Deme uno.",
+   "en": "Give me one.",
+   "tiles": [
+    "deme uno"
+   ],
+   "extra": [
+    "¿qué lleva?",
+    "aquí tiene",
+    "no ando",
+    "gracias"
+   ],
+   "ok": [
+    "deme uno"
+   ],
+   "teaches": [
+    "deme uno"
+   ],
+   "good": "Deme uno — give me one. Shorter than me da and right for the speed this is happening at."
+  },
+  {
+   "es": "Diez pesos, joven.",
+   "objective": "Pay him",
+   "key": "aquí tiene",
+   "say": "Aquí tiene. Diez.",
+   "en": "Here you go. Ten.",
+   "tiles": [
+    "aquí tiene",
+    "diez"
+   ],
+   "extra": [
+    "deme uno",
+    "no ando",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "aqui tiene diez",
+    "aqui tiene"
+   ],
+   "teaches": [
+    "aquí tiene"
+   ],
+   "good": "Have the note ready before you ask. He is getting off at the next corner whether the transaction is finished or not."
+  },
+  {
+   "es": "Ahí tiene. ¡Buen viaje, pues!",
+   "objective": "Thank him as he jumps off",
+   "key": "gracias joven",
+   "say": "Gracias, joven.",
+   "en": "Thanks, lad.",
+   "tiles": [
+    "gracias",
+    "joven"
+   ],
+   "extra": [
+    "aquí tiene",
+    "deme uno",
+    "cuídese",
+    "ya va"
+   ],
+   "ok": [
+    "gracias joven",
+    "gracias"
+   ],
+   "teaches": [
+    "gracias joven"
+   ],
+   "good": "Joven is what you call any young man you are not going to name. He is fourteen and he has three more buses to work before dark."
+  }
+ ]
+}

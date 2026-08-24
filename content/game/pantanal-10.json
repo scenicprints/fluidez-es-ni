@@ -1,0 +1,108 @@
+{
+ "id": "pantanal-10",
+ "district": "pantanal",
+ "tier": 5,
+ "who": "La abuela",
+ "title": "El terremoto",
+ "goal": "Hear about 1972 from somebody who was in it",
+ "culture": "The Managua earthquake struck two days before Christmas in 1972, killed something like ten thousand people and flattened the centre of the capital, which was never rebuilt. Anybody over sixty in this country has a version of that night. This mission is four questions and then listening; there is nothing to say at the end except that you heard her.",
+ "beats": [
+  {
+   "es": "Buenas, mi hijo. ¿Usted es el que anda preguntando cosas viejas?",
+   "objective": "Ask how old she was in ’72",
+   "key": "yo tenía",
+   "say": "¿Cuántos años tenía usted en el setenta y dos?",
+   "en": "How old were you in ’72?",
+   "tiles": [
+    "¿cuántos años tenía usted",
+    "en el setenta y dos?"
+   ],
+   "extra": [
+    "esa noche",
+    "no lo olvido",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "cuantos anos tenia usted en el setenta y dos",
+    "cuantos anos tenia usted"
+   ],
+   "teaches": [
+    "yo tenía"
+   ],
+   "good": "She will answer yo tenía diecinueve. Tenía is the tense for how things were, and this entire conversation happens in it."
+  },
+  {
+   "es": "Yo tenía diecinueve. Estaba en Managua, en casa de mi tía.",
+   "objective": "Ask about that night",
+   "key": "esa noche",
+   "say": "¿Y esa noche?",
+   "en": "And that night?",
+   "tiles": [
+    "¿y esa noche?"
+   ],
+   "extra": [
+    "yo tenía",
+    "se cayó todo",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "y esa noche",
+    "esa noche"
+   ],
+   "teaches": [
+    "esa noche"
+   ],
+   "good": "Esa noche — that night. You do not have to name the earthquake and she will not need you to."
+  },
+  {
+   "es": "Esa noche se cayó todo. Todo, mi hijo. A las doce y media de la noche.",
+   "objective": "Say it back",
+   "key": "se cayó todo",
+   "say": "¿Se cayó todo?",
+   "en": "Everything came down?",
+   "tiles": [
+    "¿se cayó todo?"
+   ],
+   "extra": [
+    "esa noche",
+    "no lo olvido",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "se cayo todo"
+   ],
+   "teaches": [
+    "se cayó todo"
+   ],
+   "good": "Ten thousand people, two days before Christmas, and the centre of Managua still has holes in it. Se cayó todo is not an exaggeration."
+  },
+  {
+   "es": "Todo. Yo no lo olvido. Nunca lo he olvidado.",
+   "objective": "Say the small right thing",
+   "key": "no lo olvido",
+   "say": "No lo olvida usted. Gracias por contarme.",
+   "en": "You don’t forget it. Thank you for telling me.",
+   "tiles": [
+    "no lo olvida usted",
+    "gracias por contarme"
+   ],
+   "extra": [
+    "no lo olvido",
+    "esa noche",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "no lo olvida usted gracias por contarme",
+    "gracias por contarme"
+   ],
+   "teaches": [
+    "no lo olvido"
+   ],
+   "good": "There is nothing to say to this and you should not reach for something. Her own words back, and thanks for the telling, is the whole of your part."
+  }
+ ]
+}
