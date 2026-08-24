@@ -1,0 +1,115 @@
+{
+ "id": "centro-12",
+ "district": "centro",
+ "tier": 5,
+ "who": "El borracho amable",
+ "title": "El del parque",
+ "goal": "Get away from a friendly drunk without insulting him",
+ "culture": "He is harmless and the whole park knows him. Walking off mid-sentence is what a chele does, and the doñas on the benches will see you do it. Leaving properly is a set of fixed phrases and it costs you thirty seconds.",
+ "beats": [
+  {
+   "es": "¡Amigo! ¡Amigo, venga! Yo trabajé ocho años en Miami. Allá sí se gana bien, ¿oyó?",
+   "objective": "Agree, and stay standing",
+   "key": "así es",
+   "say": "Así es. Ocho años.",
+   "en": "Is that right. Eight years.",
+   "tiles": [
+    "así es",
+    "ocho años"
+   ],
+   "extra": [
+    "ya me voy",
+    "no ando",
+    "cuídese",
+    "otro día"
+   ],
+   "ok": [
+    "asi es ocho años",
+    "asi es"
+   ],
+   "teaches": [
+    "así es"
+   ],
+   "good": "Así es agrees with the claim without joining the story, and echoing his number back shows you were listening. Contradicting a drunk is the long way home."
+  },
+  {
+   "es": "Regáleme veinte pesos, hermano, para un fresco. Nada más veinte.",
+   "objective": "Say you have nothing on you",
+   "key": "no ando",
+   "say": "No ando con nada, hermano.",
+   "en": "I haven’t got anything on me, brother.",
+   "tiles": [
+    "no ando con nada",
+    "hermano"
+   ],
+   "extra": [
+    "ya me voy",
+    "otro día",
+    "cuídese",
+    "así es"
+   ],
+   "ok": [
+    "no ando con nada hermano",
+    "no ando con nada"
+   ],
+   "teaches": [
+    "no ando"
+   ],
+   "good": "No ando con nada is honest and unarguable. No tengo invites a discussion about your shoes."
+  },
+  {
+   "es": "Ah, ni modo. Pero óigame esta otra, una historia buenísima...",
+   "objective": "Leave, but leave the door open",
+   "key": "ya me voy",
+   "say": "Ya me voy. Otro día conversamos.",
+   "en": "I’m off now. We’ll talk another day.",
+   "tiles": [
+    "ya me voy",
+    "otro día conversamos"
+   ],
+   "extra": [
+    "cuídese",
+    "que le vaya bien",
+    "no ando",
+    "así es"
+   ],
+   "ok": [
+    "ya me voy otro dia conversamos",
+    "ya me voy",
+    "otro dia conversamos"
+   ],
+   "teaches": [
+    "ya me voy",
+    "otro día conversamos"
+   ],
+   "good": "Ya me voy on its own is abrupt. Otro día conversamos turns leaving into a plan, and he will hold you to it."
+  },
+  {
+   "es": "¡Vaya pues! Es usted buena gente, hermano.",
+   "objective": "Say goodbye the whole way",
+   "key": "cuídese",
+   "say": "Cuídese. Que le vaya bien.",
+   "en": "Take care. All the best.",
+   "tiles": [
+    "cuídese",
+    "que le vaya bien"
+   ],
+   "extra": [
+    "otro día",
+    "ya me voy",
+    "así es",
+    "gracias"
+   ],
+   "ok": [
+    "cuidese que le vaya bien",
+    "cuidese",
+    "que le vaya bien"
+   ],
+   "teaches": [
+    "cuídese",
+    "que le vaya bien"
+   ],
+   "good": "Both at once is the full goodbye: cuídese looks after him, que le vaya bien wishes the rest of his day well. It is what stops leaving reading as escaping."
+  }
+ ]
+}

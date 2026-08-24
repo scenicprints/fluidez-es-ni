@@ -1,0 +1,118 @@
+{
+ "id": "centro-06",
+ "district": "centro",
+ "tier": 2,
+ "who": "El guía",
+ "title": "La catedral",
+ "goal": "Get the story of the cathedral out of somebody who wants paying for it",
+ "culture": "He sells the tower climb, but the history he tells for free, because telling it is the part he likes. Saying you have no money on you today is not a refusal here — it is a fact about today, and it leaves him his dignity and you the story.",
+ "beats": [
+  {
+   "es": "¿Tour de la catedral, amigo? Cinco dólares y subimos a la torre.",
+   "objective": "Say you have no money on you",
+   "key": "no ando",
+   "say": "No ando con dinero.",
+   "en": "I haven’t got any money on me.",
+   "tiles": [
+    "no ando",
+    "con dinero"
+   ],
+   "extra": [
+    "otro día",
+    "está bien",
+    "muy amable",
+    "gracias"
+   ],
+   "ok": [
+    "no ando con dinero",
+    "no ando",
+    "no ando con dinero gracias"
+   ],
+   "teaches": [
+    "no ando"
+   ],
+   "good": "No ando con... is what you have not got on you right now, which is softer than no tengo. It closes nothing."
+  },
+  {
+   "es": "Ah, qué lástima. Y yo me sé toda la historia, desde que la quemaron.",
+   "objective": "Ask him to tell it anyway",
+   "key": "¿me cuenta?",
+   "say": "¿Me cuenta? Por favor.",
+   "en": "Will you tell me? Please.",
+   "tiles": [
+    "¿me cuenta?",
+    "por favor"
+   ],
+   "extra": [
+    "otro día",
+    "no ando",
+    "está bien",
+    "gracias"
+   ],
+   "ok": [
+    "me cuenta por favor",
+    "me cuenta",
+    "por favor me cuenta"
+   ],
+   "teaches": [
+    "¿me cuenta?",
+    "por favor"
+   ],
+   "good": "¿Me cuenta? asks for the story and not the tour, so there is nothing for him to charge for and no reason to say no."
+  },
+  {
+   "es": "Pues mire: la quemaron los filibusteros y la levantaron tres veces. Esa torre es del quince.",
+   "objective": "Thank him for something he gave you free",
+   "key": "muy amable",
+   "say": "Muy amable. Gracias.",
+   "en": "Very kind of you. Thank you.",
+   "tiles": [
+    "muy amable",
+    "gracias"
+   ],
+   "extra": [
+    "otro día",
+    "está bien",
+    "por favor",
+    "no ando"
+   ],
+   "ok": [
+    "muy amable gracias",
+    "muy amable",
+    "gracias muy amable"
+   ],
+   "teaches": [
+    "muy amable",
+    "gracias"
+   ],
+   "good": "Muy amable pays for a favour that had no price on it. It is the nearest thing to a tip you can hand over in words."
+  },
+  {
+   "es": "Y para la torre aquí ando todos los días, desde temprano.",
+   "objective": "Leave the tower for another day",
+   "key": "otro día",
+   "say": "Otro día. Está bien.",
+   "en": "Another day. Alright.",
+   "tiles": [
+    "otro día",
+    "está bien"
+   ],
+   "extra": [
+    "muy amable",
+    "gracias",
+    "no ando",
+    "por favor"
+   ],
+   "ok": [
+    "otro dia esta bien",
+    "otro dia",
+    "esta bien otro dia"
+   ],
+   "teaches": [
+    "otro día",
+    "está bien"
+   ],
+   "good": "Otro día is a real later, not a polite no. It keeps him friendly and keeps the tower on offer."
+  }
+ ]
+}

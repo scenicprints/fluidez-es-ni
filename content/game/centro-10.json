@@ -1,0 +1,117 @@
+{
+ "id": "centro-10",
+ "district": "centro",
+ "tier": 4,
+ "who": "El poeta",
+ "title": "Darío",
+ "goal": "Be told about Rubén Darío by a man who will not stop",
+ "culture": "Darío was born in Metapa and grew up in León, but when a Nicaraguan says he is de aquí he means the country, and he is right. Every schoolchild here has a poem by heart, which is why the man in the park assumes you will learn one too.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Y usted sabe quién fue Rubén Darío?",
+   "objective": "Say who he was",
+   "key": "el poeta",
+   "say": "Buenas. Él es el poeta, ¿verdad?",
+   "en": "Hello. He’s the poet, isn’t he?",
+   "tiles": [
+    "Buenas",
+    "él es el poeta",
+    "¿verdad?"
+   ],
+   "extra": [
+    "de aquí",
+    "de memoria",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "buenas el es el poeta verdad",
+    "el es el poeta verdad",
+    "el es el poeta"
+   ],
+   "teaches": [
+    "el poeta"
+   ],
+   "good": "El poeta with nothing after it is Darío. There is only one, and everybody knows which one you mean."
+  },
+  {
+   "es": "¡El poeta! Padre del modernismo. Y es nuestro, ¿oyó? Nuestro.",
+   "objective": "Agree that he belongs here",
+   "key": "de aquí",
+   "say": "Así es. Es de aquí.",
+   "en": "That’s right. He’s from here.",
+   "tiles": [
+    "así es",
+    "es de aquí"
+   ],
+   "extra": [
+    "de memoria",
+    "el poeta",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "asi es es de aqui",
+    "es de aqui",
+    "es de aqui asi es"
+   ],
+   "teaches": [
+    "de aquí",
+    "así es"
+   ],
+   "good": "De aquí means Nicaragua, not Granada. Agreeing is the right answer; the geography lesson is not."
+  },
+  {
+   "es": "Repita conmigo, pues: «Margarita, está linda la mar». Apréndaselo.",
+   "objective": "Tell him you have got it",
+   "key": "me lo aprendí",
+   "say": "Ya me lo aprendí.",
+   "en": "I’ve learned it now.",
+   "tiles": [
+    "ya",
+    "me lo aprendí"
+   ],
+   "extra": [
+    "de memoria",
+    "otro día",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "ya me lo aprendi",
+    "me lo aprendi",
+    "ya me lo aprendi gracias"
+   ],
+   "teaches": [
+    "me lo aprendí"
+   ],
+   "good": "Me lo aprendí, with the me in it, is learning something for yourself. Aprendí on its own sounds like a school report."
+  },
+  {
+   "es": "¿De memoria? A ver, sin leerlo.",
+   "objective": "By heart, and thank him",
+   "key": "de memoria",
+   "say": "De memoria. Gracias.",
+   "en": "By heart. Thank you.",
+   "tiles": [
+    "de memoria",
+    "gracias"
+   ],
+   "extra": [
+    "me lo aprendí",
+    "otro día",
+    "por favor",
+    "así es"
+   ],
+   "ok": [
+    "de memoria gracias",
+    "de memoria",
+    "gracias de memoria"
+   ],
+   "teaches": [
+    "de memoria"
+   ],
+   "good": "De memoria is by heart, and it is the only way anybody here has ever learned a poem. Saying it tells him you did it his way."
+  }
+ ]
+}

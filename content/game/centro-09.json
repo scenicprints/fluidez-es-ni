@@ -1,0 +1,116 @@
+{
+ "id": "centro-09",
+ "district": "centro",
+ "tier": 3,
+ "who": "La turista perdida",
+ "title": "La gringa perdida",
+ "goal": "Translate for a lost tourist, and feel your accent get worse",
+ "culture": "Standing between two people is the fastest Spanish you will ever be made to do, and it is also the moment you stop being the foreigner in the conversation. Nobody expects it to be elegant — ella pregunta and dice que carry the whole job.",
+ "beats": [
+  {
+   "es": "Excuse me — do you speak English? I’m looking for the boats to the islands and nobody understands me.",
+   "objective": "Tell the vendedora what she is asking",
+   "key": "ella pregunta",
+   "say": "Ella pregunta por los botes.",
+   "en": "She’s asking about the boats.",
+   "tiles": [
+    "ella pregunta",
+    "por los botes"
+   ],
+   "extra": [
+    "yo le explico",
+    "no es aquí",
+    "otro día",
+    "así es"
+   ],
+   "ok": [
+    "ella pregunta por los botes",
+    "ella pregunta"
+   ],
+   "teaches": [
+    "ella pregunta"
+   ],
+   "good": "Ella pregunta... hands somebody else’s question over without you having to act it out or own it."
+  },
+  {
+   "es": "Wait — is it far? Can I walk there?",
+   "objective": "Pass that question on too",
+   "key": "dice que",
+   "say": "Dice que si puede ir caminando.",
+   "en": "She’s asking whether she can walk there.",
+   "tiles": [
+    "dice que",
+    "si puede",
+    "ir caminando"
+   ],
+   "extra": [
+    "no es aquí",
+    "yo le explico",
+    "otro día",
+    "así es"
+   ],
+   "ok": [
+    "dice que si puede ir caminando",
+    "dice que si puede",
+    "dice que"
+   ],
+   "teaches": [
+    "dice que"
+   ],
+   "good": "Dice que carries other people’s words for you. You will use it more than any tense you ever study."
+  },
+  {
+   "es": "Caminando son diez minutos, derechito por la Calzada. Pero de aquí no salen, dígale.",
+   "objective": "Check you understood — this is not the place",
+   "key": "no es aquí",
+   "say": "Entonces no es aquí.",
+   "en": "So it isn’t here.",
+   "tiles": [
+    "entonces",
+    "no es aquí"
+   ],
+   "extra": [
+    "así es",
+    "yo le explico",
+    "otro día",
+    "dice que"
+   ],
+   "ok": [
+    "entonces no es aqui",
+    "no es aqui",
+    "no es aqui entonces"
+   ],
+   "teaches": [
+    "no es aquí"
+   ],
+   "good": "Saying it back as a flat statement is how you check you got it. She answers así es and the matter is settled."
+  },
+  {
+   "es": "Así es. Al final de la Calzada, donde está el muelle. ¿Le digo yo?",
+   "objective": "Take the job — you will explain it",
+   "key": "yo le explico",
+   "say": "No, yo le explico. Gracias.",
+   "en": "No, I’ll explain it to her. Thank you.",
+   "tiles": [
+    "no",
+    "yo le explico",
+    "gracias"
+   ],
+   "extra": [
+    "dice que",
+    "así es",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "no yo le explico gracias",
+    "yo le explico",
+    "yo le explico gracias"
+   ],
+   "teaches": [
+    "yo le explico"
+   ],
+   "good": "Yo le explico takes the job off her. Le is the tourist — one small word does all the naming."
+  }
+ ]
+}

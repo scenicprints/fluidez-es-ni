@@ -4,9 +4,9 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**4 of 122 missions written.**
+**12 of 122 missions written.**
 
-## El Centro (4/12)
+## El Centro (12/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
 
 | | tier | mission | who | what you are doing |
@@ -14,15 +14,15 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 1 | `centro-01` **La primera noche** | El muchacho del hostal | Get a room for your first three nights |
 | x | 1 | `centro-02` **El desayuno** | La muchacha del comedor | Order breakfast and ask what you owe |
 | x | 1 | `centro-03` **En español** | El mesero | Get served in Spanish by somebody who would rather practise English |
-|   | 2 | `centro-04` **El calor** | Doña de la banca | Sit on a bench and talk about the weather and nothing else |
+| x | 2 | `centro-04` **El calor** | Doña de la banca | Sit on a bench and talk about the weather and nothing else |
 | x | 2 | `centro-05` **El cuidacarros** | El cuidacarros | Understand that the man watching your moto has a job, not a racket |
-|   | 2 | `centro-06` **La catedral** | El guía | Get the story of the cathedral out of somebody who wants paying for it |
-|   | 3 | `centro-07` **La foto** | El fotógrafo | Get a photo taken for a document, not for a postcard |
-|   | 3 | `centro-08` **El periódico** | El del kiosco | Buy a paper and get told the news before you read it |
-|   | 3 | `centro-09` **La gringa perdida** | La turista perdida | Translate for a lost tourist, and feel your accent get worse |
-|   | 4 | `centro-10` **Darío** | El poeta | Be told about Rubén Darío by a man who will not stop |
-|   | 4 | `centro-11` **La multa** | El transitero | Talk your way out of a ticket, or find out what not doing so costs |
-|   | 5 | `centro-12` **El del parque** | El borracho amable | Get away from a friendly drunk without insulting him |
+| x | 2 | `centro-06` **La catedral** | El guía | Get the story of the cathedral out of somebody who wants paying for it |
+| x | 3 | `centro-07` **La foto** | El fotógrafo | Get a photo taken for a document, not for a postcard |
+| x | 3 | `centro-08` **El periódico** | El del kiosco | Buy a paper and get told the news before you read it |
+| x | 3 | `centro-09` **La gringa perdida** | La turista perdida | Translate for a lost tourist, and feel your accent get worse |
+| x | 4 | `centro-10` **Darío** | El poeta | Be told about Rubén Darío by a man who will not stop |
+| x | 4 | `centro-11` **La multa** | El transitero | Talk your way out of a ticket, or find out what not doing so costs |
+| x | 5 | `centro-12` **El del parque** | El borracho amable | Get away from a friendly drunk without insulting him |
 
 ## El Mercado (0/12)
 *The municipal market and the streets around it. Loud, cheap, and where you learn what things actually cost.*

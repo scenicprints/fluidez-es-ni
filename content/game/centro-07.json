@@ -1,0 +1,112 @@
+{
+ "id": "centro-07",
+ "district": "centro",
+ "tier": 3,
+ "who": "El fotógrafo",
+ "title": "La foto",
+ "goal": "Get a photo taken for a document, not for a postcard",
+ "culture": "Every trámite in Nicaragua wants photos, and the studio knows the format better than the office that asks for it. Say para un documento and he will get the size, the background and the crop right without you knowing any of the numbers.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Una foto con la catedral atrás?",
+   "objective": "No — a photo for paperwork",
+   "key": "para un documento",
+   "say": "Buenas. Una foto para un documento.",
+   "en": "Hello. A photo for a document.",
+   "tiles": [
+    "Buenas",
+    "una foto",
+    "para un documento"
+   ],
+   "extra": [
+    "con la catedral",
+    "por favor",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "buenas una foto para un documento",
+    "una foto para un documento",
+    "una foto para un documento por favor"
+   ],
+   "teaches": [
+    "para un documento"
+   ],
+   "good": "Para un documento is the entire instruction. He knows the sizes every office wants; you do not have to."
+  },
+  {
+   "es": "Ah, para trámite. ¿Y con qué fondo se la hago?",
+   "objective": "White background",
+   "key": "fondo blanco",
+   "say": "Fondo blanco, por favor.",
+   "en": "White background, please.",
+   "tiles": [
+    "fondo blanco",
+    "por favor"
+   ],
+   "extra": [
+    "fondo azul",
+    "sin lentes",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "fondo blanco por favor",
+    "fondo blanco"
+   ],
+   "teaches": [
+    "fondo blanco"
+   ],
+   "good": "Fondo blanco is what the offices here take. Asking for it now saves you the second trip."
+  },
+  {
+   "es": "Listo. ¿Se quita los lentes o se los deja?",
+   "objective": "Without glasses",
+   "key": "sin lentes",
+   "say": "Sin lentes.",
+   "en": "Without glasses.",
+   "tiles": [
+    "sin lentes"
+   ],
+   "extra": [
+    "con lentes",
+    "fondo blanco",
+    "por favor",
+    "gracias"
+   ],
+   "ok": [
+    "sin lentes",
+    "sin lentes por favor"
+   ],
+   "teaches": [
+    "sin lentes"
+   ],
+   "good": "Lentes, not gafas and not anteojos. Gafas is Spain, anteojos is further south, and both get you a look."
+  },
+  {
+   "es": "Ya está. Le quedaron bien, mire.",
+   "objective": "Ask when they will be ready",
+   "key": "¿cuándo salen?",
+   "say": "¿Cuándo salen?",
+   "en": "When will they be ready?",
+   "tiles": [
+    "¿cuándo",
+    "salen?"
+   ],
+   "extra": [
+    "gracias",
+    "mañana",
+    "por favor",
+    "está bien"
+   ],
+   "ok": [
+    "cuando salen",
+    "cuando salen por favor"
+   ],
+   "teaches": [
+    "¿cuándo salen?"
+   ],
+   "good": "Photos salen, papers salen, results salen. Nobody here says estarán listas."
+  }
+ ]
+}

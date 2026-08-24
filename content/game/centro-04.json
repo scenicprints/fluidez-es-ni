@@ -1,0 +1,92 @@
+{
+ "id": "centro-04",
+ "district": "centro",
+ "tier": 2,
+ "who": "Doña de la banca",
+ "title": "El calor",
+ "goal": "Sit on a bench and talk about the weather and nothing else",
+ "culture": "The heat is not small talk you have to get past — it is the conversation. A doña on a shaded bench expects nothing from you but agreement, and agreeing well is how a stranger turns into somebody she recognises tomorrow.",
+ "beats": [
+  {
+   "es": "Buenas tardes. Siéntese aquí, mijo, que hay sombra.",
+   "objective": "Sit down and say how hot it is",
+   "key": "qué calor",
+   "say": "Gracias. ¡Qué calor!",
+   "en": "Thank you. It’s so hot!",
+   "tiles": [
+    "Gracias",
+    "qué calor"
+   ],
+   "extra": [
+    "ni modo",
+    "está bien",
+    "mañana",
+    "por favor"
+   ],
+   "ok": [
+    "gracias que calor",
+    "que calor",
+    "que calor gracias"
+   ],
+   "teaches": [
+    "qué calor",
+    "gracias"
+   ],
+   "good": "¡Qué calor! is closer to a greeting than a complaint. Say it and you have said exactly the right thing."
+  },
+  {
+   "es": "Uh, y así es todo el año. En abril es peor, fíjese.",
+   "objective": "Agree with her",
+   "key": "así es",
+   "say": "Así es. Todos los días.",
+   "en": "That’s how it is. Every day.",
+   "tiles": [
+    "así es",
+    "todos los días"
+   ],
+   "extra": [
+    "ni modo",
+    "no sé",
+    "otro día",
+    "está bien"
+   ],
+   "ok": [
+    "asi es todos los dias",
+    "asi es",
+    "asi es todos los dias ni modo"
+   ],
+   "teaches": [
+    "así es",
+    "todos los días"
+   ],
+   "good": "Así es is the whole agreement. It sits where English puts \"you’re telling me\", and it never sounds like flattery."
+  },
+  {
+   "es": "Y no llueve. Se secó todo el patio, mire.",
+   "objective": "Shrug it off with her",
+   "key": "ni modo",
+   "say": "Ni modo. Así es.",
+   "en": "Nothing to be done. That’s how it is.",
+   "tiles": [
+    "ni modo",
+    "así es"
+   ],
+   "extra": [
+    "qué calor",
+    "está bien",
+    "por favor",
+    "otro día"
+   ],
+   "ok": [
+    "ni modo asi es",
+    "ni modo",
+    "asi es ni modo"
+   ],
+   "teaches": [
+    "ni modo",
+    "así es"
+   ],
+   "good": "Ni modo closes a complaint without arguing with it. Offering a solution here would be the odd thing to do."
+  }
+ ]
+}

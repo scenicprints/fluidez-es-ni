@@ -53,5 +53,124 @@
   "points_at": [
    "centro-05"
   ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "centro",
+  "says": "Con este calor nadie camina. En el parque, en la banca de la sombra, siempre hay doñas conversando.",
+  "en": "Nobody walks in this heat. In the park, on the shaded bench, there are always ladies talking.",
+  "points_at": [
+   "centro-04"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "centro",
+  "says": "Si le pega el sol, siéntese en el parque. Ahí la doña le conversa todo el día.",
+  "en": "If the sun gets you, sit in the park. The doña there will talk to you all day.",
+  "points_at": [
+   "centro-04"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "centro",
+  "says": "¿Va a la catedral? En la puerta anda un señor que se sabe toda la historia. Le va a pedir plata, pero se la sabe.",
+  "en": "Going to the cathedral? There is a man at the door who knows the whole history. He will ask you for money, but he knows it.",
+  "points_at": [
+   "centro-06"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "centro",
+  "says": "¿Necesita foto para un trámite? El estudio está a media cuadra, con el señor de los lentes.",
+  "en": "Need a photo for paperwork? The studio is half a block away, the man with the glasses.",
+  "points_at": [
+   "centro-07"
+  ]
+ },
+ {
+  "kind": "policía",
+  "district": "centro",
+  "says": "Foto para documento la hacen aquí en el centro. Y la multa se paga en el banco, no aquí.",
+  "en": "They do document photos here in the centre. And a fine is paid at the bank, not here.",
+  "points_at": [
+   "centro-07",
+   "centro-11"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "centro",
+  "says": "El periódico lo venden en el kiosco de la esquina del parque. Y ahí mismo le cuentan lo que dice.",
+  "en": "They sell the paper at the kiosk on the corner of the park. And right there they tell you what it says.",
+  "points_at": [
+   "centro-08"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "centro",
+  "says": "Ahí en la esquina anda una gringa perdida con un mapa. Nadie le entiende, pues.",
+  "en": "There is a lost gringa on the corner with a map. Nobody understands her.",
+  "points_at": [
+   "centro-09"
+  ]
+ },
+ {
+  "kind": "turista",
+  "district": "centro",
+  "says": "Do you speak English? I can’t find the boats and everyone points a different way.",
+  "en": "(She is asking about the boats to the isletas, and somebody has to tell the vendedora what she wants.)",
+  "points_at": [
+   "centro-09"
+  ]
+ },
+ {
+  "kind": "evangélico",
+  "district": "centro",
+  "says": "Vaya a la catedral, hermano. Y si le habla el poeta del sombrero, óigalo, que es buena gente.",
+  "en": "Go to the cathedral, brother. And if the poet in the hat speaks to you, hear him out, he is a good sort.",
+  "points_at": [
+   "centro-06",
+   "centro-10"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "centro",
+  "says": "Al señor del sombrero no le pregunte por Darío. Le recita el poema completo, se lo digo yo.",
+  "en": "Do not ask the man in the hat about Darío. He will recite you the whole poem, I am telling you.",
+  "points_at": [
+   "centro-10"
+  ]
+ },
+ {
+  "kind": "cuidacarros",
+  "district": "centro",
+  "says": "Cuidado con el alto de la esquina, jefe. Ahí se para el transitero todos los días.",
+  "en": "Watch the stop sign on the corner, boss. The traffic officer stands there every day.",
+  "points_at": [
+   "centro-11"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "centro",
+  "says": "En el parque anda el pobre Chepe, tomado desde temprano. No le crea nada, pero salúdelo.",
+  "en": "Poor Chepe is in the park, drinking since early. Believe nothing he says, but greet him.",
+  "points_at": [
+   "centro-12"
+  ]
+ },
+ {
+  "kind": "borracho amable",
+  "district": "centro",
+  "says": "¡Hermano! Venga que le cuento de Miami. Ocho años estuve allá, ocho.",
+  "en": "Brother! Come here and I will tell you about Miami. I was there eight years, eight.",
+  "points_at": [
+   "centro-12"
+  ]
  }
 ]

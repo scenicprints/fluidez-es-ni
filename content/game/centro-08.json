@@ -1,0 +1,117 @@
+{
+ "id": "centro-08",
+ "district": "centro",
+ "tier": 3,
+ "who": "El del kiosco",
+ "title": "El periódico",
+ "goal": "Buy a paper and get told the news before you read it",
+ "culture": "The man at the kiosk reads every paper he sells and will tell you what is in it whether you ask or not. That summary is the better half of what you are buying, and asking for it out loud is what turns a sale into a conversation.",
+ "beats": [
+  {
+   "es": "Buenas, ¿qué anda buscando?",
+   "objective": "Ask for the paper",
+   "key": "el periódico",
+   "say": "Quiero el periódico.",
+   "en": "I want the paper.",
+   "tiles": [
+    "quiero",
+    "el periódico"
+   ],
+   "extra": [
+    "una revista",
+    "por favor",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "quiero el periodico",
+    "el periodico",
+    "quiero el periodico por favor"
+   ],
+   "teaches": [
+    "el periódico",
+    "quiero"
+   ],
+   "good": "Periódico, and on this corner it means La Prensa unless you say otherwise."
+  },
+  {
+   "es": "Aquí tiene. Quince pesos.",
+   "objective": "Ask what the news is today",
+   "key": "¿qué dice?",
+   "say": "¿Y qué dice hoy?",
+   "en": "And what does it say today?",
+   "tiles": [
+    "¿y qué dice",
+    "hoy?"
+   ],
+   "extra": [
+    "mañana",
+    "nada bueno",
+    "está bien",
+    "gracias"
+   ],
+   "ok": [
+    "y que dice hoy",
+    "que dice hoy",
+    "y que dice"
+   ],
+   "teaches": [
+    "¿qué dice?"
+   ],
+   "good": "¿Qué dice? asks the paper and the man at once, and he will answer for both. It is the cheapest conversation in Granada."
+  },
+  {
+   "es": "Uh. Lo de siempre, pues: que suben los precios, que no hay luz en Xalteva.",
+   "objective": "Agree that the news is never good",
+   "key": "nada bueno",
+   "say": "Nada bueno. Ni modo.",
+   "en": "Nothing good. Oh well.",
+   "tiles": [
+    "nada bueno",
+    "ni modo"
+   ],
+   "extra": [
+    "lo de siempre",
+    "está bien",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "nada bueno ni modo",
+    "nada bueno",
+    "ni modo nada bueno"
+   ],
+   "teaches": [
+    "nada bueno",
+    "ni modo"
+   ],
+   "good": "Ni modo after bad news is agreement, not despair. It is how a complaint gets put down here."
+  },
+  {
+   "es": "¿Y mañana le guardo uno?",
+   "objective": "Yes — the usual",
+   "key": "lo de siempre",
+   "say": "Sí, lo de siempre.",
+   "en": "Yes, the usual.",
+   "tiles": [
+    "sí",
+    "lo de siempre"
+   ],
+   "extra": [
+    "nada bueno",
+    "está bien",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "si lo de siempre",
+    "lo de siempre",
+    "lo de siempre esta bien"
+   ],
+   "teaches": [
+    "lo de siempre"
+   ],
+   "good": "Lo de siempre makes you a regular in three words, and it works the same at the comedor and the pulpería."
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": "centro-11",
+ "district": "centro",
+ "tier": 4,
+ "who": "El transitero",
+ "title": "La multa",
+ "goal": "Talk your way out of a ticket, or find out what not doing so costs",
+ "culture": "The transitero keeps your licence and you pay the ticket at a bank, not to him. Offering him money instead is a crime and a worse afternoon. Politeness is the only lever you actually have, and jefe plus an admission is most of it.",
+ "beats": [
+  {
+   "es": "Buenas. Su licencia, por favor. Se pasó el alto.",
+   "objective": "Greet him properly and admit it",
+   "key": "no me di cuenta",
+   "say": "Buenas, jefe. No me di cuenta.",
+   "en": "Hello, boss. I didn’t notice.",
+   "tiles": [
+    "Buenas",
+    "jefe",
+    "no me di cuenta"
+   ],
+   "extra": [
+    "está bien",
+    "ni modo",
+    "otro día",
+    "disculpe"
+   ],
+   "ok": [
+    "buenas jefe no me di cuenta",
+    "no me di cuenta",
+    "buenas jefe no me di cuenta disculpe"
+   ],
+   "teaches": [
+    "jefe",
+    "no me di cuenta"
+   ],
+   "good": "Jefe is respect without grovelling and no me di cuenta admits it without arguing. Both make the next minute cheaper."
+  },
+  {
+   "es": "Es infracción, pues. Enséñeme la licencia y la circulación.",
+   "objective": "You have not got the licence on you",
+   "key": "ando sin",
+   "say": "Ando sin licencia, jefe.",
+   "en": "I haven’t got my licence on me, boss.",
+   "tiles": [
+    "ando sin licencia",
+    "jefe"
+   ],
+   "extra": [
+    "no me di cuenta",
+    "está bien",
+    "ni modo",
+    "disculpe"
+   ],
+   "ok": [
+    "ando sin licencia jefe",
+    "ando sin licencia"
+   ],
+   "teaches": [
+    "ando sin"
+   ],
+   "good": "Ando sin... is not having it on you today, which is a smaller thing than no tengo. Andar is how Nicaragua says what you are carrying."
+  },
+  {
+   "es": "Uh, peor. Entonces son quinientos, y los paga en el banco.",
+   "objective": "Take it without arguing",
+   "key": "ni modo",
+   "say": "Ni modo. Está bien, jefe.",
+   "en": "Oh well. Alright, boss.",
+   "tiles": [
+    "ni modo",
+    "está bien",
+    "jefe"
+   ],
+   "extra": [
+    "no me di cuenta",
+    "ando sin",
+    "otro día",
+    "disculpe"
+   ],
+   "ok": [
+    "ni modo esta bien jefe",
+    "ni modo esta bien",
+    "esta bien jefe"
+   ],
+   "teaches": [
+    "ni modo"
+   ],
+   "good": "Taking it is what keeps it at five hundred. There is no version of this conversation where arguing costs you less."
+  },
+  {
+   "es": "Aquí le va el papel. Tiene ocho días para pagarlo.",
+   "objective": "Apologise for taking up his time",
+   "key": "disculpe la molestia",
+   "say": "Disculpe la molestia, jefe.",
+   "en": "Sorry for the trouble, boss.",
+   "tiles": [
+    "disculpe la molestia",
+    "jefe"
+   ],
+   "extra": [
+    "ni modo",
+    "está bien",
+    "ando sin",
+    "otro día"
+   ],
+   "ok": [
+    "disculpe la molestia jefe",
+    "disculpe la molestia"
+   ],
+   "teaches": [
+    "disculpe la molestia"
+   ],
+   "good": "Disculpe la molestia ends it on your terms. It is what you say to anybody whose day you took up, and it costs nothing."
+  }
+ ]
+}
