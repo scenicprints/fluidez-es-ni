@@ -1,0 +1,111 @@
+{
+ "id": "guadalupe-04",
+ "district": "guadalupe",
+ "tier": 3,
+ "who": "La vecina",
+ "title": "El cumpleaños",
+ "goal": "Be invited to a birthday and turn up with the right thing",
+ "culture": "The invitation is real, not a formality, and not turning up is noticed. Ask what to bring and you will be told nothing, so bring a bottle of something fizzy for the table, which is what everybody else does while saying they brought nothing.",
+ "beats": [
+  {
+   "es": "Vecino, buenas. Fíjese que la niña cumple años el sábado.",
+   "objective": "Ask whose birthday and say congratulations",
+   "key": "cumple años",
+   "say": "¿Cumple años? ¡Felicidades!",
+   "en": "It’s her birthday? Congratulations!",
+   "tiles": [
+    "¿cumple años?",
+    "¡felicidades!"
+   ],
+   "extra": [
+    "¿a qué hora?",
+    "¿llevo algo?",
+    "gracias",
+    "así es"
+   ],
+   "ok": [
+    "cumple anos felicidades",
+    "cumple anos",
+    "felicidades"
+   ],
+   "teaches": [
+    "cumple años",
+    "felicidades"
+   ],
+   "good": "Cumplir años is to complete years, which is a better way of putting it. Felicidades goes to the family as much as to the child."
+  },
+  {
+   "es": "Gracias, vecino. Ahí lo esperamos, pues.",
+   "objective": "Ask what time",
+   "key": "¿a qué hora?",
+   "say": "¿A qué hora?",
+   "en": "What time?",
+   "tiles": [
+    "¿a qué hora?"
+   ],
+   "extra": [
+    "¿llevo algo?",
+    "gracias",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "a que hora"
+   ],
+   "teaches": [
+    "¿a qué hora?"
+   ],
+   "good": "Ask, and take the answer as the earliest possible moment rather than the time. Nobody arrives at three."
+  },
+  {
+   "es": "Como a las tres. Pero llegue cuando pueda.",
+   "objective": "Ask whether to bring something",
+   "key": "¿llevo algo?",
+   "say": "¿Llevo algo?",
+   "en": "Should I bring anything?",
+   "tiles": [
+    "¿llevo algo?"
+   ],
+   "extra": [
+    "¿a qué hora?",
+    "gracias",
+    "con permiso",
+    "ni modo"
+   ],
+   "ok": [
+    "llevo algo"
+   ],
+   "teaches": [
+    "¿llevo algo?"
+   ],
+   "good": "You will be told no. Ask anyway — asking is the courtesy, and then bring a big bottle of gaseosa for the table like everybody else."
+  },
+  {
+   "es": "Nada, vecino. Usted venga nomás.",
+   "objective": "Accept, and confirm you will be there",
+   "key": "así es",
+   "say": "Está bien. Ahí llego, vecina.",
+   "en": "Alright. I’ll be there, vecina.",
+   "tiles": [
+    "está bien",
+    "ahí llego",
+    "vecina"
+   ],
+   "extra": [
+    "ni modo",
+    "otro día",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "esta bien ahi llego vecina",
+    "ahi llego vecina",
+    "ahi llego"
+   ],
+   "teaches": [
+    "así es"
+   ],
+   "good": "Vecino and vecina are what neighbours call each other instead of names, sometimes for years. Ahí llego means you are going, so go."
+  }
+ ]
+}

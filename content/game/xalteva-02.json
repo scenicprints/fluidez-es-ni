@@ -1,0 +1,113 @@
+{
+ "id": "xalteva-02",
+ "district": "xalteva",
+ "tier": 2,
+ "who": "El sacristán",
+ "title": "La iglesia",
+ "goal": "Get into a church that is shut, and be told why",
+ "culture": "The old churches are locked between services because they have been robbed. The sacristán is not turning you away — he is telling you the hour to come back, and if you take it he will let you in and tell you what you are looking at.",
+ "beats": [
+  {
+   "es": "No, no. Está cerrado, joven.",
+   "objective": "Ask when it opens",
+   "key": "está cerrado",
+   "say": "¿Está cerrado? ¿A qué hora abre?",
+   "en": "It’s closed? What time does it open?",
+   "tiles": [
+    "¿está cerrado?",
+    "¿a qué hora abre?"
+   ],
+   "extra": [
+    "con permiso",
+    "gracias",
+    "otro día",
+    "venga después"
+   ],
+   "ok": [
+    "esta cerrado a que hora abre",
+    "a que hora abre",
+    "esta cerrado"
+   ],
+   "teaches": [
+    "está cerrado"
+   ],
+   "good": "Está cerrado is a fact, not a refusal. The next question is always the hour, and he is expecting you to ask it."
+  },
+  {
+   "es": "A las cinco, para la misa. Antes no.",
+   "objective": "Say it back — five",
+   "key": "a las cinco",
+   "say": "A las cinco, entonces.",
+   "en": "At five, then.",
+   "tiles": [
+    "a las cinco",
+    "entonces"
+   ],
+   "extra": [
+    "a las tres",
+    "gracias",
+    "otro día",
+    "venga después"
+   ],
+   "ok": [
+    "a las cinco entonces",
+    "a las cinco"
+   ],
+   "teaches": [
+    "a las cinco"
+   ],
+   "good": "Hours here are said plainly and meant loosely, except for mass, which starts when it says it will."
+  },
+  {
+   "es": "Venga después de la misa y se la enseño toda.",
+   "objective": "Accept the offer",
+   "key": "venga después",
+   "say": "Vengo después. Muy amable.",
+   "en": "I’ll come afterwards. That’s very kind.",
+   "tiles": [
+    "vengo después",
+    "muy amable"
+   ],
+   "extra": [
+    "otro día",
+    "gracias",
+    "con permiso",
+    "a las cinco"
+   ],
+   "ok": [
+    "vengo despues muy amable",
+    "vengo despues"
+   ],
+   "teaches": [
+    "venga después",
+    "muy amable"
+   ],
+   "good": "He says venga, you say vengo — the same trip from the two ends of it. Turning his invitation into your plan is what gets you the tour."
+  },
+  {
+   "es": "Ahí lo espero, pues. Con permiso.",
+   "objective": "Excuse yourself properly",
+   "key": "con permiso",
+   "say": "Con permiso. Gracias.",
+   "en": "Excuse me. Thank you.",
+   "tiles": [
+    "con permiso",
+    "gracias"
+   ],
+   "extra": [
+    "otro día",
+    "cuídese",
+    "a las cinco",
+    "muy amable"
+   ],
+   "ok": [
+    "con permiso gracias",
+    "con permiso"
+   ],
+   "teaches": [
+    "con permiso"
+   ],
+   "good": "Con permiso is how you leave, how you pass somebody in a doorway and how you interrupt. Not saying it is the rudest thing a quiet person can do here."
+  }
+ ]
+}

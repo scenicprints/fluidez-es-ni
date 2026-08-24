@@ -1,0 +1,112 @@
+{
+ "id": "guadalupe-10",
+ "district": "guadalupe",
+ "tier": 5,
+ "who": "La partera",
+ "title": "La partera",
+ "goal": "Talk to a midwife who has delivered half the street",
+ "culture": "The parteras delivered most people over forty in this barrio, at home, without a doctor, and they are respected accordingly. She is not a folk curiosity and this is not a mission about quaintness — she did a hard job well for fifty years and she is the right person to ask about it.",
+ "beats": [
+  {
+   "es": "Siéntese, mi hijo. ¿Usted es el que anda preguntando por el barrio?",
+   "objective": "Ask how long she has been doing it",
+   "key": "¿cuántos años?",
+   "say": "Sí. ¿Cuántos años tiene de partera?",
+   "en": "Yes. How many years have you been a midwife?",
+   "tiles": [
+    "sí",
+    "¿cuántos años",
+    "tiene de partera?"
+   ],
+   "extra": [
+    "aquí nacieron",
+    "sin doctor",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "si cuantos anos tiene de partera",
+    "cuantos anos tiene de partera",
+    "cuantos anos"
+   ],
+   "teaches": [
+    "¿cuántos años?"
+   ],
+   "good": "¿Cuántos años? asks the number and gets you the life. It is the same question you ask about a house, a job or a marriage here."
+  },
+  {
+   "es": "Cincuenta y dos años, mi hijo. Desde los diecinueve.",
+   "objective": "Ask about the children of this street",
+   "key": "aquí nacieron",
+   "say": "¿Y aquí nacieron todos?",
+   "en": "And they were all born here?",
+   "tiles": [
+    "¿y aquí nacieron",
+    "todos?"
+   ],
+   "extra": [
+    "sin doctor",
+    "gracias",
+    "está bien",
+    "por favor"
+   ],
+   "ok": [
+    "y aqui nacieron todos",
+    "aqui nacieron todos",
+    "aqui nacieron"
+   ],
+   "teaches": [
+    "aquí nacieron"
+   ],
+   "good": "Aquí nacieron — they were born here, in these rooms, on this street. Half the people you have met in this district came through her hands."
+  },
+  {
+   "es": "Aquí mismo. En sus casas, en su cama.",
+   "objective": "Without a doctor?",
+   "key": "sin doctor",
+   "say": "¿Sin doctor?",
+   "en": "Without a doctor?",
+   "tiles": [
+    "¿sin doctor?"
+   ],
+   "extra": [
+    "aquí nacieron",
+    "gracias",
+    "está bien",
+    "por favor"
+   ],
+   "ok": [
+    "sin doctor"
+   ],
+   "teaches": [
+    "sin doctor"
+   ],
+   "good": "Ask it plainly. It is not a challenge and she will not take it as one — the hospital was far and there was petrol money to find."
+  },
+  {
+   "es": "Sin doctor. Y nunca se me murió ninguno, gracias a Dios. Ninguno.",
+   "objective": "Say something equal to that",
+   "key": "nunca se me murió",
+   "say": "Nunca se le murió ninguno. Qué grande.",
+   "en": "You never lost one. That’s something.",
+   "tiles": [
+    "nunca se le murió ninguno",
+    "qué grande"
+   ],
+   "extra": [
+    "sin doctor",
+    "gracias",
+    "está bien",
+    "aquí nacieron"
+   ],
+   "ok": [
+    "nunca se le murio ninguno que grande",
+    "nunca se le murio ninguno"
+   ],
+   "teaches": [
+    "nunca se me murió"
+   ],
+   "good": "Nunca se me murió from her, nunca se le murió from you — the same fact, and the little pronoun carries the whole weight of it. Qué grande is admiration, not size."
+  }
+ ]
+}

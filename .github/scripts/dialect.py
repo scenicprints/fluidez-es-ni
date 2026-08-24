@@ -33,6 +33,31 @@ caminas compras pagas ayudas cierras pierdes sirves repites eliges
 # tu imperatives, and flagging them means flagging correct prose.
 TU_IMPERATIVES = u"ten haz pon".split()
 
+# Tu imperatives with the pronoun stuck on the end, which is where they hide.
+# The bare forms above are only three words because most tu imperatives collide
+# with something ordinary -- but once a pronoun is attached, the stress moves
+# and the accent goes on the STEM, and the vos form accents the ending instead:
+# tu pasamela / vos pasamela with the accent one syllable later, tu cuentame /
+# vos contame, tu fijate / vos fijate. Those pairs never collide, so they are
+# safe to ban outright.
+#
+# This list exists because "pasamela" was sitting in the game spine, accented
+# the Madrid way, and the gate could not see it. Anything ambiguous is left
+# out: "damelo" and "dame" are identical in both dialects, so they are not here.
+TU_IMPERATIVES += u"""
+pásame pásamela pásamelo pásalo pásala mírame míralo mírala escúchame
+escúchalo tómalo tómala tómate cuéntame cuéntamelo cuéntalo espérame
+espérate llévame llévalo déjame déjalo déjame déjate ayúdame búscame
+búscalo llámame llámalo cómpralo créeme dilo dime dímelo hazlo hazme
+hazlos ponlo ponla ponte sígueme síguelo cállate fíjate levántate
+siéntate quédate apúrate acuéstate vuélvete piénsalo ciérralo ábrelo
+súbete bájate acércate
+""".split()
+# NOT "vamonos". It is the nosotros imperative -- let's go -- and it is correct
+# in every Spanish there is, Nicaraguan included. It was in this list for one
+# run and it flagged two perfectly good lines of the published course.
+TU_IMPERATIVES = [w for w in TU_IMPERATIVES if "?" not in w]
+
 # Only the vosotros forms Nicaragua does NOT also use.
 #
 # Every -ir verb collides: "decis", "venis", "vivis", "salis" are vosotros in

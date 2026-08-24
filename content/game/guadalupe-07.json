@@ -1,0 +1,111 @@
+{
+ "id": "guadalupe-07",
+ "district": "guadalupe",
+ "tier": 4,
+ "who": "El evangélico",
+ "title": "El culto",
+ "goal": "Decline an invitation to church without giving offence",
+ "culture": "He is inviting you because he thinks it would be good for you, which is a kindness by his lights. Thank him for the invitation rather than arguing with the premise, and you will keep a neighbour who genuinely knows the barrio.",
+ "beats": [
+  {
+   "es": "Hermano, buenas. Lo invito al culto el domingo. Es aquí cerquita.",
+   "objective": "Thank him for the invitation",
+   "key": "le agradezco",
+   "say": "Le agradezco, hermano.",
+   "en": "I appreciate it, brother.",
+   "tiles": [
+    "le agradezco",
+    "hermano"
+   ],
+   "extra": [
+    "no soy de esa",
+    "quizás otro día",
+    "gracias",
+    "respeto"
+   ],
+   "ok": [
+    "le agradezco hermano",
+    "le agradezco"
+   ],
+   "teaches": [
+    "le agradezco"
+   ],
+   "good": "Le agradezco thanks him for the thought before you answer it. It buys the rest of the conversation a friendly tone."
+  },
+  {
+   "es": "¿Y viene, pues? Cantamos, hay predicación.",
+   "objective": "Say it is not your church",
+   "key": "no soy de esa",
+   "say": "No soy de esa iglesia.",
+   "en": "I’m not of that church.",
+   "tiles": [
+    "no soy de esa",
+    "iglesia"
+   ],
+   "extra": [
+    "respeto",
+    "quizás otro día",
+    "gracias",
+    "le agradezco"
+   ],
+   "ok": [
+    "no soy de esa iglesia",
+    "no soy de esa"
+   ],
+   "teaches": [
+    "no soy de esa"
+   ],
+   "good": "A fact about you rather than a judgement about him. Arguing the theology is the one move that turns a neighbour into a project."
+  },
+  {
+   "es": "Ah. ¿Y usted es católico?",
+   "objective": "Say you respect it either way",
+   "key": "respeto",
+   "say": "Lo respeto igual.",
+   "en": "I respect it all the same.",
+   "tiles": [
+    "lo respeto",
+    "igual"
+   ],
+   "extra": [
+    "no soy de esa",
+    "quizás otro día",
+    "gracias",
+    "hermano"
+   ],
+   "ok": [
+    "lo respeto igual",
+    "lo respeto"
+   ],
+   "teaches": [
+    "respeto"
+   ],
+   "good": "Respect without joining. It is the same move as with the beata in Xalteva, and it works for the same reason."
+  },
+  {
+   "es": "Bueno, hermano. Ahí queda la invitación.",
+   "objective": "Leave the door open",
+   "key": "quizás otro día",
+   "say": "Quizás otro día. Gracias.",
+   "en": "Maybe another day. Thank you.",
+   "tiles": [
+    "quizás otro día",
+    "gracias"
+   ],
+   "extra": [
+    "nunca",
+    "le agradezco",
+    "respeto",
+    "hermano"
+   ],
+   "ok": [
+    "quizas otro dia gracias",
+    "quizas otro dia"
+   ],
+   "teaches": [
+    "quizás otro día"
+   ],
+   "good": "Quizás otro día is a no that leaves everybody their dignity. He will ask again in a month and that is fine."
+  }
+ ]
+}

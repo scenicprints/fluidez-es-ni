@@ -7,7 +7,7 @@
  "steps": [
   {
    "speaker": "Marcos",
-   "es": "Fíjate que te quería preguntar algo.",
+   "es": "Fijate que te quería preguntar algo.",
    "en": "The thing is, I wanted to ask you something.",
    "options": [
     {
@@ -48,7 +48,7 @@
      "feedback": "He has been working up to it for twenty minutes. He is sure."
     },
     {
-     "es": "Déjame pensarlo.",
+     "es": "Dejame pensarlo.",
      "en": "Let me think about it.",
      "verdict": "bad",
      "feedback": "An honest answer that will land as a no, and he will never ask again."

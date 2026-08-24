@@ -1,0 +1,109 @@
+{
+ "id": "xalteva-03",
+ "district": "xalteva",
+ "tier": 2,
+ "who": "La beata",
+ "title": "La misa",
+ "goal": "Talk about mass without pretending to be devout",
+ "culture": "She will ask, and lying is worse than saying no. The honest answer given respectfully is completely acceptable here — what is not acceptable is being dismissive about it. Primero Dios is said by believers and non-believers alike; it means we will see.",
+ "beats": [
+  {
+   "es": "¿Y usted no viene a misa, joven? No lo he visto.",
+   "objective": "Say you are not from here",
+   "key": "no soy de aquí",
+   "say": "No soy de aquí, doña.",
+   "en": "I’m not from here, doña.",
+   "tiles": [
+    "no soy de aquí",
+    "doña"
+   ],
+   "extra": [
+    "primero Dios",
+    "gracias",
+    "algún día",
+    "cuídese"
+   ],
+   "ok": [
+    "no soy de aqui dona",
+    "no soy de aqui"
+   ],
+   "teaches": [
+    "no soy de aquí"
+   ],
+   "good": "It is the true answer and it is not a brush-off. Doña on the end is what makes it courteous rather than defensive."
+  },
+  {
+   "es": "Ah, pero Dios está en todas partes, mi hijo.",
+   "objective": "Say you respect it",
+   "key": "respeto mucho",
+   "say": "Lo respeto mucho.",
+   "en": "I have a lot of respect for it.",
+   "tiles": [
+    "lo respeto mucho"
+   ],
+   "extra": [
+    "no soy de aquí",
+    "algún día",
+    "gracias",
+    "primero Dios"
+   ],
+   "ok": [
+    "lo respeto mucho"
+   ],
+   "teaches": [
+    "respeto mucho"
+   ],
+   "good": "Respect without agreement, said plainly. She will accept it, because it is the answer she was actually asking for."
+  },
+  {
+   "es": "Bueno. Ahí lo espero un domingo.",
+   "objective": "Leave it open — some day",
+   "key": "algún día",
+   "say": "Algún día, doña.",
+   "en": "One of these days, doña.",
+   "tiles": [
+    "algún día",
+    "doña"
+   ],
+   "extra": [
+    "nunca",
+    "primero Dios",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "algun dia dona",
+    "algun dia"
+   ],
+   "teaches": [
+    "algún día"
+   ],
+   "good": "Algún día is a soft maybe that neither of you will hold the other to. Saying never would be answering a question she did not ask."
+  },
+  {
+   "es": "Primero Dios, mi hijo. Primero Dios.",
+   "objective": "Answer it the way it is meant",
+   "key": "primero Dios",
+   "say": "Primero Dios. Cuídese.",
+   "en": "God willing. Take care.",
+   "tiles": [
+    "primero Dios",
+    "cuídese"
+   ],
+   "extra": [
+    "algún día",
+    "gracias",
+    "no soy de aquí",
+    "otro día"
+   ],
+   "ok": [
+    "primero dios cuidese",
+    "primero dios"
+   ],
+   "teaches": [
+    "primero Dios"
+   ],
+   "good": "Primero Dios is said by everybody here, devout or not. It means we will see, and answering it back closes the conversation warmly and commits you to nothing."
+  }
+ ]
+}

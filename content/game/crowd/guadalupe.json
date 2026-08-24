@@ -1,0 +1,92 @@
+[
+ {
+  "kind": "chavalo en bici",
+  "district": "guadalupe",
+  "says": "Todo lo chiquito lo hay en la pulpería de la esquina. Jabón, huevos, lo que sea.",
+  "en": "Everything small is at the corner shop. Soap, eggs, whatever you need.",
+  "points_at": [
+   "guadalupe-01"
+  ]
+ },
+ {
+  "kind": "cuidacarros",
+  "district": "guadalupe",
+  "says": "¿Le suena raro la moto? Ahí abajo está el taller. Ese hombre la oye y ya sabe.",
+  "en": "Is your moto making a strange noise? The workshop is down there. That man hears it and he knows.",
+  "points_at": [
+   "guadalupe-02"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "guadalupe",
+  "says": "A las cuatro armamos mejenga en la esquina. Caiga, si quiere jugar.",
+  "en": "At four we get a game going on the corner. Come by if you want to play.",
+  "points_at": [
+   "guadalupe-03"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "guadalupe",
+  "says": "La niña de la vecina cumple años el sábado. Van a invitar a toda la cuadra.",
+  "en": "The neighbour’s little girl has her birthday on Saturday. They are inviting the whole block.",
+  "points_at": [
+   "guadalupe-04"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "guadalupe",
+  "says": "Si necesita un mueble, el carpintero se lo hace. Pero no lo apure, que es despacio.",
+  "en": "If you need furniture, the carpenter will make it. But do not rush him, he is slow.",
+  "points_at": [
+   "guadalupe-05"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "guadalupe",
+  "says": "Ese perro no es de nadie, aquí anda desde chiquito. No muerde, no le tenga miedo.",
+  "en": "That dog belongs to nobody, it has been around since it was small. It does not bite, do not be afraid of it.",
+  "points_at": [
+   "guadalupe-06"
+  ]
+ },
+ {
+  "kind": "evangélico",
+  "district": "guadalupe",
+  "says": "Hermano, lo invito al culto. Y si no puede, ahí queda la invitación, sin compromiso.",
+  "en": "Brother, I invite you to the service. And if you cannot, the invitation stands, no obligation.",
+  "points_at": [
+   "guadalupe-07"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "guadalupe",
+  "says": "Doña Chepa sabe todo lo que pasa en esta cuadra. Todo, todo.",
+  "en": "Doña Chepa knows everything that happens on this block. Everything.",
+  "points_at": [
+   "guadalupe-08"
+  ]
+ },
+ {
+  "kind": "policía",
+  "district": "guadalupe",
+  "says": "Ahí están otra vez peleando por la pared. Si pasa, dígales que se calmen.",
+  "en": "They are arguing about that wall again. If you go past, tell them to calm down.",
+  "points_at": [
+   "guadalupe-09"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "guadalupe",
+  "says": "La partera de esta cuadra trajo al mundo a medio barrio. A mí también.",
+  "en": "The midwife on this block brought half the barrio into the world. Me as well.",
+  "points_at": [
+   "guadalupe-10"
+  ]
+ }
+]

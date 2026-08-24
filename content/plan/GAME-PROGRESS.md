@@ -4,7 +4,7 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**24 of 122 missions written.**
+**44 of 122 missions written.**
 
 ## El Centro (12/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
@@ -42,37 +42,37 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 4 | `mercado-11` **La comadre** | La comadre | Be recognised, and become somebody who comes here |
 | x | 5 | `mercado-12` **El regateo** | El regateador | Haggle properly, which is neither arguing nor accepting |
 
-## Xalteva (0/10)
+## Xalteva (10/10)
 *The old quarter west of the centre. Churches, quiet streets, old people with time to talk.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `xalteva-01` **¿Por dónde?** | Doña de los caites | Ask the way and get an answer with no street names in it |
-|   | 2 | `xalteva-02` **La iglesia** | El sacristán | Get into a church that is shut, and be told why |
-|   | 2 | `xalteva-03` **La misa** | La beata | Talk about mass without pretending to be devout |
-|   | 3 | `xalteva-04` **El viejo de la esquina** | Don Chombo | Let an old man tell you what this street used to be |
-|   | 3 | `xalteva-05` **El pantalón** | La costurera | Get trousers taken up and agree when they are ready |
-|   | 3 | `xalteva-06` **El mandado** | El niño de la bici | Send a kid on an errand and get the change back |
-|   | 4 | `xalteva-07` **La escuela** | La maestra | Be asked to say hello to a class in English |
-|   | 4 | `xalteva-08` **El cementerio** | El del cementerio | Walk a cemetery with the man who looks after it |
-|   | 5 | `xalteva-09` **La rezadora** | Doña Rosa | Be invited to a novena and know what is expected |
-|   | 5 | `xalteva-10` **Las murallas** | El historiador | Hear why this quarter is called Xalteva |
+| x | 1 | `xalteva-01` **¿Por dónde?** | Doña de los caites | Ask the way and get an answer with no street names in it |
+| x | 2 | `xalteva-02` **La iglesia** | El sacristán | Get into a church that is shut, and be told why |
+| x | 2 | `xalteva-03` **La misa** | La beata | Talk about mass without pretending to be devout |
+| x | 3 | `xalteva-04` **El viejo de la esquina** | Don Chombo | Let an old man tell you what this street used to be |
+| x | 3 | `xalteva-05` **El pantalón** | La costurera | Get trousers taken up and agree when they are ready |
+| x | 3 | `xalteva-06` **El mandado** | El niño de la bici | Send a kid on an errand and get the change back |
+| x | 4 | `xalteva-07` **La escuela** | La maestra | Be asked to say hello to a class in English |
+| x | 4 | `xalteva-08` **El cementerio** | El del cementerio | Walk a cemetery with the man who looks after it |
+| x | 5 | `xalteva-09` **La rezadora** | Doña Rosa | Be invited to a novena and know what is expected |
+| x | 5 | `xalteva-10` **Las murallas** | El historiador | Hear why this quarter is called Xalteva |
 
-## Guadalupe (0/10)
+## Guadalupe (10/10)
 *East, sloping toward the water. Families, workshops, kids in the street.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `guadalupe-01` **La pulpería** | El pulpero | Buy the small things at the shop on the corner |
-|   | 2 | `guadalupe-02` **El taller de motos** | El de las motos | Describe a noise without knowing the word for it |
-|   | 2 | `guadalupe-03` **La mejenga** | Los chavalos | Get picked for a game on the corner pitch |
-|   | 3 | `guadalupe-04` **El cumpleaños** | La vecina | Be invited to a birthday and turn up with the right thing |
-|   | 3 | `guadalupe-05` **La mesa** | El carpintero | Order a table and describe the size with your hands |
-|   | 3 | `guadalupe-06` **El perro** | La señora del perro | Deal with a dog that has decided your gate is its gate |
-|   | 4 | `guadalupe-07` **El culto** | El evangélico | Decline an invitation to church without giving offence |
-|   | 4 | `guadalupe-08` **El chisme** | Doña Chepa | Hear gossip and pass it on without getting it wrong |
-|   | 5 | `guadalupe-09` **El pleito** | El vecino bravo | Get between two neighbours arguing over a wall |
-|   | 5 | `guadalupe-10` **La partera** | La partera | Talk to a midwife who has delivered half the street |
+| x | 1 | `guadalupe-01` **La pulpería** | El pulpero | Buy the small things at the shop on the corner |
+| x | 2 | `guadalupe-02` **El taller de motos** | El de las motos | Describe a noise without knowing the word for it |
+| x | 2 | `guadalupe-03` **La mejenga** | Los chavalos | Get picked for a game on the corner pitch |
+| x | 3 | `guadalupe-04` **El cumpleaños** | La vecina | Be invited to a birthday and turn up with the right thing |
+| x | 3 | `guadalupe-05` **La mesa** | El carpintero | Order a table and describe the size with your hands |
+| x | 3 | `guadalupe-06` **El perro** | La señora del perro | Deal with a dog that has decided your gate is its gate |
+| x | 4 | `guadalupe-07` **El culto** | El evangélico | Decline an invitation to church without giving offence |
+| x | 4 | `guadalupe-08` **El chisme** | Doña Chepa | Hear gossip and pass it on without getting it wrong |
+| x | 5 | `guadalupe-09` **El pleito** | El vecino bravo | Get between two neighbours arguing over a wall |
+| x | 5 | `guadalupe-10` **La partera** | La partera | Talk to a midwife who has delivered half the street |
 
 ## Pantanal (0/10)
 *Down by the lake. Poorer, wetter, the part of Granada no postcard shows.*

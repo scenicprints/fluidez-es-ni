@@ -1,0 +1,115 @@
+{
+ "id": "guadalupe-08",
+ "district": "guadalupe",
+ "tier": 4,
+ "who": "Doña Chepa",
+ "title": "El chisme",
+ "goal": "Hear gossip and pass it on without getting it wrong",
+ "culture": "Chisme is how a barrio keeps track of itself and being told any is a sign you are inside it. The grammar of it matters: dicen que and fíjese que mark what you heard rather than what you know, and using them is the difference between passing on news and starting a rumour.",
+ "beats": [
+  {
+   "es": "Vecino, ¿supo lo de la casa de la esquina?",
+   "objective": "No — ask what they are saying",
+   "key": "dicen que",
+   "say": "No. ¿Qué dicen?",
+   "en": "No. What are they saying?",
+   "tiles": [
+    "no",
+    "¿qué dicen?"
+   ],
+   "extra": [
+    "dicen que",
+    "fíjese que",
+    "¿de verdad?",
+    "no sea así"
+   ],
+   "ok": [
+    "no que dicen",
+    "que dicen"
+   ],
+   "teaches": [
+    "dicen que"
+   ],
+   "good": "Dicen que — they say that. The whole of this mission is learning to mark where a thing came from."
+  },
+  {
+   "es": "Fíjese que la vendieron. Y dicen que fue a un extranjero.",
+   "objective": "Show you are listening",
+   "key": "fíjese que",
+   "say": "¿Fíjese? ¿De verdad?",
+   "en": "Really? Truly?",
+   "tiles": [
+    "¿fíjese?",
+    "¿de verdad?"
+   ],
+   "extra": [
+    "dicen que",
+    "no sea así",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "fijese de verdad",
+    "de verdad"
+   ],
+   "teaches": [
+    "fíjese que",
+    "¿de verdad?"
+   ],
+   "good": "Fíjese que opens a piece of news and is one of the most Nicaraguan phrases there is. Note the accent: fíjese is usted. To a friend it is fijate, with no accent at all."
+  },
+  {
+   "es": "De verdad. Y la doña se fue sin decirle a nadie, imagínese.",
+   "objective": "Do not join in the unkind part",
+   "key": "no sea así",
+   "say": "Ay, no sea así, doña.",
+   "en": "Oh, don’t be like that, doña.",
+   "tiles": [
+    "ay",
+    "no sea así",
+    "doña"
+   ],
+   "extra": [
+    "dicen que",
+    "¿de verdad?",
+    "gracias",
+    "fíjese que"
+   ],
+   "ok": [
+    "ay no sea asi dona",
+    "no sea asi dona",
+    "no sea asi"
+   ],
+   "teaches": [
+    "no sea así"
+   ],
+   "good": "No sea así is a smiling reproach — do not be like that. It lets you decline the cruel half of the gossip without declining the gossip."
+  },
+  {
+   "es": "Ay, vecino, usted es muy bueno. Pero es la verdad, pues.",
+   "objective": "Pass it on carefully — mark it as hearsay",
+   "key": "dicen que",
+   "say": "Bueno. Dicen que la vendieron.",
+   "en": "Well. They say it was sold.",
+   "tiles": [
+    "bueno",
+    "dicen que",
+    "la vendieron"
+   ],
+   "extra": [
+    "fíjese que",
+    "¿de verdad?",
+    "gracias",
+    "no sea así"
+   ],
+   "ok": [
+    "bueno dicen que la vendieron",
+    "dicen que la vendieron"
+   ],
+   "teaches": [
+    "dicen que"
+   ],
+   "good": "Dicen que in front of it is what keeps you out of trouble. Drop those two words and the story becomes yours, and so does the row when it turns out to be wrong."
+  }
+ ]
+}

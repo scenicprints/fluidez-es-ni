@@ -1,0 +1,111 @@
+{
+ "id": "xalteva-04",
+ "district": "xalteva",
+ "tier": 3,
+ "who": "Don Chombo",
+ "title": "El viejo de la esquina",
+ "goal": "Let an old man tell you what this street used to be",
+ "culture": "He has all afternoon and the only thing being asked of you is that you stay for it. There is nothing to win here and no transaction — this is the mission that teaches you that listening is a thing you do in Spanish too.",
+ "beats": [
+  {
+   "es": "¿Usted vive aquí ahora? Esta calle antes era otra cosa.",
+   "objective": "Ask what it was like before",
+   "key": "antes",
+   "say": "¿Cómo era antes?",
+   "en": "What was it like before?",
+   "tiles": [
+    "¿cómo era",
+    "antes?"
+   ],
+   "extra": [
+    "ya no es igual",
+    "gracias",
+    "otro día",
+    "en aquel tiempo"
+   ],
+   "ok": [
+    "como era antes",
+    "antes"
+   ],
+   "teaches": [
+    "antes"
+   ],
+   "good": "Antes does the work of a whole tense here. Ask it once and you have twenty minutes of answer."
+  },
+  {
+   "es": "Uy. En aquel tiempo esto era todo de tierra. No pasaba un carro.",
+   "objective": "Say it back with wonder",
+   "key": "en aquel tiempo",
+   "say": "¿En aquel tiempo no había carros?",
+   "en": "Back then there were no cars?",
+   "tiles": [
+    "¿en aquel tiempo",
+    "no había carros?"
+   ],
+   "extra": [
+    "antes",
+    "ya no es igual",
+    "gracias",
+    "usted no vio eso"
+   ],
+   "ok": [
+    "en aquel tiempo no habia carros",
+    "en aquel tiempo"
+   ],
+   "teaches": [
+    "en aquel tiempo"
+   ],
+   "good": "En aquel tiempo is his phrase, not yours yet. Using it back tells him you are following, and he will keep going."
+  },
+  {
+   "es": "Ni uno. Y la gente se sentaba afuera. Ahora ya no es igual.",
+   "objective": "Agree that it has changed",
+   "key": "ya no es igual",
+   "say": "Ya no es igual, dice usted.",
+   "en": "It’s not the same any more, you say.",
+   "tiles": [
+    "ya no es igual",
+    "dice usted"
+   ],
+   "extra": [
+    "antes",
+    "en aquel tiempo",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "ya no es igual dice usted",
+    "ya no es igual"
+   ],
+   "teaches": [
+    "ya no es igual"
+   ],
+   "good": "Agreeing with the complaint is the correct move and it is free. He is not asking you to fix anything."
+  },
+  {
+   "es": "Usted no vio eso. Usted no lo vio.",
+   "objective": "Admit it — you did not",
+   "key": "usted no vio eso",
+   "say": "No, yo no vi eso.",
+   "en": "No, I didn’t see that.",
+   "tiles": [
+    "no",
+    "yo no vi eso"
+   ],
+   "extra": [
+    "ya no es igual",
+    "antes",
+    "gracias",
+    "en aquel tiempo"
+   ],
+   "ok": [
+    "no yo no vi eso",
+    "yo no vi eso"
+   ],
+   "teaches": [
+    "usted no vio eso"
+   ],
+   "good": "Usted no vio eso from him, yo no vi eso from you. He is not scoring a point — he is telling you that you had to be there, and agreeing is the whole of your part."
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": "guadalupe-02",
+ "district": "guadalupe",
+ "tier": 2,
+ "who": "El de las motos",
+ "title": "El taller de motos",
+ "goal": "Describe a noise without knowing the word for it",
+ "culture": "The workshop is half the pavement and he will look at it now, not on Tuesday. You do not need the vocabulary for the part — you need where it is and when it happens, and he does the rest.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Qué le pasa a la moto?",
+   "objective": "It is making a noise",
+   "key": "hace un ruido",
+   "say": "Buenas. Hace un ruido.",
+   "en": "Hello. It’s making a noise.",
+   "tiles": [
+    "Buenas",
+    "hace un ruido"
+   ],
+   "extra": [
+    "aquí atrás",
+    "cuando freno",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "buenas hace un ruido",
+    "hace un ruido"
+   ],
+   "teaches": [
+    "hace un ruido"
+   ],
+   "good": "Hace un ruido is enough to start with. You do not need the word for the part and you are not expected to have it."
+  },
+  {
+   "es": "¿Un ruido de qué tipo? ¿Dónde?",
+   "objective": "Point — back here",
+   "key": "aquí atrás",
+   "say": "Aquí atrás.",
+   "en": "Back here.",
+   "tiles": [
+    "aquí atrás"
+   ],
+   "extra": [
+    "aquí adelante",
+    "cuando freno",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "aqui atras"
+   ],
+   "teaches": [
+    "aquí atrás"
+   ],
+   "good": "Where it comes from is worth more than what it sounds like. Put your hand on the place and say aquí atrás."
+  },
+  {
+   "es": "¿Y suena siempre, o cuándo?",
+   "objective": "When you brake",
+   "key": "cuando freno",
+   "say": "Cuando freno.",
+   "en": "When I brake.",
+   "tiles": [
+    "cuando freno"
+   ],
+   "extra": [
+    "cuando acelero",
+    "aquí atrás",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "cuando freno"
+   ],
+   "teaches": [
+    "cuando freno"
+   ],
+   "good": "When it happens is the diagnosis. Cuando freno and aquí atrás together have already told him what it is."
+  },
+  {
+   "es": "Ah, son las balatas. Se las cambio ahorita.",
+   "objective": "Ask if it is serious",
+   "key": "¿es grave?",
+   "say": "¿Es grave?",
+   "en": "Is it serious?",
+   "tiles": [
+    "¿es grave?"
+   ],
+   "extra": [
+    "gracias",
+    "cuando freno",
+    "por favor",
+    "aquí atrás"
+   ],
+   "ok": [
+    "es grave"
+   ],
+   "teaches": [
+    "¿es grave?"
+   ],
+   "good": "¿Es grave? works for a moto, a tooth and a relative. Ask it and you get a straight answer, because he wants the work either way and there is plenty of it."
+  }
+ ]
+}

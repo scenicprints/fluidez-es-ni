@@ -1,0 +1,112 @@
+{
+ "id": "xalteva-08",
+ "district": "xalteva",
+ "tier": 4,
+ "who": "El del cementerio",
+ "title": "El cementerio",
+ "goal": "Walk a cemetery with the man who looks after it",
+ "culture": "The municipal cemetery is full of marble brought from Italy by families that no longer exist, and one man cuts the grass round all of it. He is proud of it and almost nobody asks him about it. This is a mission with nothing to buy and nothing to win.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Busca a alguien?",
+   "objective": "No — ask how long he has worked here",
+   "key": "toda mi vida",
+   "say": "No. ¿Usted trabaja aquí?",
+   "en": "No. Do you work here?",
+   "tiles": [
+    "no",
+    "¿usted trabaja aquí?"
+   ],
+   "extra": [
+    "toda mi vida",
+    "gracias",
+    "no ando",
+    "ya va"
+   ],
+   "ok": [
+    "no usted trabaja aqui",
+    "usted trabaja aqui"
+   ],
+   "teaches": [
+    "toda mi vida"
+   ],
+   "good": "Ask the man his work and you get his life. He has been waiting years for somebody to ask."
+  },
+  {
+   "es": "Toda mi vida, joven. Desde chavalo con mi papá.",
+   "objective": "His whole life — say it back",
+   "key": "aquí están",
+   "say": "¿Y aquí están todos?",
+   "en": "And they’re all here?",
+   "tiles": [
+    "¿y aquí están",
+    "todos?"
+   ],
+   "extra": [
+    "toda mi vida",
+    "los cuido",
+    "gracias",
+    "nadie viene"
+   ],
+   "ok": [
+    "y aqui estan todos",
+    "aqui estan todos",
+    "aqui estan"
+   ],
+   "teaches": [
+    "aquí están"
+   ],
+   "good": "Toda mi vida from him, aquí están from you: he is talking about the families, and the right thing to do is keep him talking."
+  },
+  {
+   "es": "Todititos. Los grandes de Granada están aquí, mire ese mármol.",
+   "objective": "Ask whether he looks after them all",
+   "key": "los cuido",
+   "say": "¿Y usted los cuida?",
+   "en": "And you look after them?",
+   "tiles": [
+    "¿y usted",
+    "los cuida?"
+   ],
+   "extra": [
+    "los cuido",
+    "nadie viene",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "y usted los cuida",
+    "usted los cuida"
+   ],
+   "teaches": [
+    "los cuido"
+   ],
+   "good": "Los cuido is what he will answer, and it is the sentence the whole mission is for. Cuidar is minding, watching, tending — the cuidacarros does it to a moto and he does it to the dead."
+  },
+  {
+   "es": "Yo los cuido. Corto el monte, limpio. Pero ya nadie viene.",
+   "objective": "Nobody comes — say something true",
+   "key": "nadie viene",
+   "say": "¿Nadie viene? Qué lástima.",
+   "en": "Nobody comes? That’s a shame.",
+   "tiles": [
+    "¿nadie viene?",
+    "qué lástima"
+   ],
+   "extra": [
+    "los cuido",
+    "gracias",
+    "otro día",
+    "toda mi vida"
+   ],
+   "ok": [
+    "nadie viene que lastima",
+    "nadie viene"
+   ],
+   "teaches": [
+    "nadie viene"
+   ],
+   "good": "Qué lástima is the right size of answer. Anything bigger would be about you, and this is not about you."
+  }
+ ]
+}

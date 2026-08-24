@@ -1,0 +1,109 @@
+{
+ "id": "xalteva-06",
+ "district": "xalteva",
+ "tier": 3,
+ "who": "El niño de la bici",
+ "title": "El mandado",
+ "goal": "Send a kid on an errand and get the change back",
+ "culture": "Sending a chavalo to the pulpería is completely normal and he expects a few córdobas for going. This is also the first person in Granada you address as VOS instead of usted: a child, and later a friend. Getting that switch right is most of sounding Nicaraguan.",
+ "beats": [
+  {
+   "es": "¿Le hago mandado, señor? Ando en la bici.",
+   "objective": "Ask him to run an errand",
+   "key": "me hace un mandado",
+   "say": "¿Me hace un mandado?",
+   "en": "Would you run an errand for me?",
+   "tiles": [
+    "¿me hace un mandado?"
+   ],
+   "extra": [
+    "aquí está",
+    "gracias",
+    "para vos",
+    "me trae el vuelto"
+   ],
+   "ok": [
+    "me hace un mandado"
+   ],
+   "teaches": [
+    "me hace un mandado"
+   ],
+   "good": "Un mandado is an errand and the whole arrangement is in the word. He will already know which pulpería."
+  },
+  {
+   "es": "Sí pues. ¿Qué le traigo?",
+   "objective": "Hand him the money",
+   "key": "aquí está",
+   "say": "Aquí está. Cien pesos.",
+   "en": "Here you go. A hundred córdobas.",
+   "tiles": [
+    "aquí está",
+    "cien pesos"
+   ],
+   "extra": [
+    "para vos",
+    "gracias",
+    "me trae el vuelto",
+    "está bien"
+   ],
+   "ok": [
+    "aqui esta cien pesos",
+    "aqui esta"
+   ],
+   "teaches": [
+    "aquí está"
+   ],
+   "good": "Aquí está hands something over. Pesos in the street, córdobas on the note, and everybody says pesos."
+  },
+  {
+   "es": "Va. Ya vengo.",
+   "objective": "Ask for the change back",
+   "key": "me trae el vuelto",
+   "say": "Y me trae el vuelto.",
+   "en": "And bring me the change.",
+   "tiles": [
+    "y",
+    "me trae el vuelto"
+   ],
+   "extra": [
+    "para vos",
+    "aquí está",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "y me trae el vuelto",
+    "me trae el vuelto"
+   ],
+   "teaches": [
+    "me trae el vuelto"
+   ],
+   "good": "El vuelto is the change. Say it lightly and it is not an accusation — it is the arrangement, and it is why he gets tipped rather than skimming."
+  },
+  {
+   "es": "Aquí está todo, señor. Conté bien.",
+   "objective": "Give him something for going",
+   "key": "para vos",
+   "say": "Diez para vos.",
+   "en": "Ten for you.",
+   "tiles": [
+    "diez",
+    "para vos"
+   ],
+   "extra": [
+    "para usted",
+    "gracias",
+    "el vuelto",
+    "está bien"
+   ],
+   "ok": [
+    "diez para vos",
+    "para vos"
+   ],
+   "teaches": [
+    "para vos"
+   ],
+   "good": "Para VOS, not para usted. He is a child, so he gets vos — and this is the first time in the whole game you use it. Getting that switch right matters more than any verb ending you will study."
+  }
+ ]
+}

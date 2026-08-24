@@ -1,0 +1,111 @@
+{
+ "id": "xalteva-10",
+ "district": "xalteva",
+ "tier": 5,
+ "who": "El historiador",
+ "title": "Las murallas",
+ "goal": "Hear why this quarter is called Xalteva",
+ "culture": "Xalteva was the indigenous town, and the Spanish built their city beside it rather than on it. The low walls along the street are what is left of the boundary between the two, and people walk past them every day without knowing that is what they are.",
+ "beats": [
+  {
+   "es": "¿Ve esa pared baja? Eso no es de ahora, joven.",
+   "objective": "Ask who was here before",
+   "key": "los indios",
+   "say": "¿Aquí vivían los indios?",
+   "en": "Did the indigenous people live here?",
+   "tiles": [
+    "¿aquí vivían",
+    "los indios?"
+   ],
+   "extra": [
+    "la muralla",
+    "antes de",
+    "gracias",
+    "lo que queda"
+   ],
+   "ok": [
+    "aqui vivian los indios",
+    "vivian los indios"
+   ],
+   "teaches": [
+    "los indios"
+   ],
+   "good": "Los indios is the ordinary word here and carries no sting in this sentence. He will use it himself and so does the history he is about to give you."
+  },
+  {
+   "es": "Aquí era el pueblo de ellos. Xalteva se llamaba, antes de que llegaran los españoles.",
+   "objective": "Before the Spanish, then",
+   "key": "antes de",
+   "say": "¿Antes de los españoles?",
+   "en": "Before the Spanish?",
+   "tiles": [
+    "¿antes de",
+    "los españoles?"
+   ],
+   "extra": [
+    "los indios",
+    "la muralla",
+    "gracias",
+    "lo que queda"
+   ],
+   "ok": [
+    "antes de los espanoles",
+    "antes de"
+   ],
+   "teaches": [
+    "antes de"
+   ],
+   "good": "Antes de puts a date on something without needing one, which is how this history is told: before the Spanish, before the earthquake, before the war."
+  },
+  {
+   "es": "Antes. Y los españoles levantaron su ciudad al lado, y una muralla en medio.",
+   "objective": "Ask about the wall",
+   "key": "la muralla",
+   "say": "¿Y esta es la muralla?",
+   "en": "And this is the wall?",
+   "tiles": [
+    "¿y esta es",
+    "la muralla?"
+   ],
+   "extra": [
+    "antes de",
+    "los indios",
+    "gracias",
+    "lo que queda"
+   ],
+   "ok": [
+    "y esta es la muralla",
+    "esta es la muralla"
+   ],
+   "teaches": [
+    "la muralla"
+   ],
+   "good": "La muralla divided the two towns. What is standing is a fraction of it and nobody has signposted a metre of it."
+  },
+  {
+   "es": "Un pedazo. Es lo que queda, joven. Lo demás se lo llevaron para hacer casas.",
+   "objective": "That is what is left",
+   "key": "lo que queda",
+   "say": "Lo que queda. Gracias por contarme.",
+   "en": "What’s left. Thank you for telling me.",
+   "tiles": [
+    "lo que queda",
+    "gracias por contarme"
+   ],
+   "extra": [
+    "la muralla",
+    "antes de",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "lo que queda gracias por contarme",
+    "lo que queda"
+   ],
+   "teaches": [
+    "lo que queda"
+   ],
+   "good": "Lo que queda — what is left. Thanking him for the telling rather than for the wall is the difference between a tourist and a neighbour."
+  }
+ ]
+}

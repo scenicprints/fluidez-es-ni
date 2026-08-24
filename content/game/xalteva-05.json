@@ -1,0 +1,111 @@
+{
+ "id": "xalteva-05",
+ "district": "xalteva",
+ "tier": 3,
+ "who": "La costurera",
+ "title": "El pantalón",
+ "goal": "Get trousers taken up and agree when they are ready",
+ "culture": "Everything gets mended here rather than replaced, and there is a costurera on nearly every block doing it for the price of a coffee. Point at the length you want and name a day: both of those are more reliable than any measurement.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Qué se le ofrece?",
+   "objective": "Ask her to take them up",
+   "key": "me lo arregla",
+   "say": "Buenas. ¿Me lo arregla?",
+   "en": "Hello. Could you alter this for me?",
+   "tiles": [
+    "Buenas",
+    "¿me lo arregla?"
+   ],
+   "extra": [
+    "gracias",
+    "por favor",
+    "el jueves",
+    "aquí"
+   ],
+   "ok": [
+    "buenas me lo arregla",
+    "me lo arregla"
+   ],
+   "teaches": [
+    "me lo arregla"
+   ],
+   "good": "Me lo arregla covers taking up, letting out, patching and mending. Show her the garment and the verb does the rest."
+  },
+  {
+   "es": "¿De dónde? ¿Del ruedo?",
+   "objective": "Point — here",
+   "key": "aquí",
+   "say": "Aquí, por favor.",
+   "en": "Here, please.",
+   "tiles": [
+    "aquí",
+    "por favor"
+   ],
+   "extra": [
+    "el jueves",
+    "gracias",
+    "me lo arregla",
+    "más"
+   ],
+   "ok": [
+    "aqui por favor",
+    "aqui"
+   ],
+   "teaches": [
+    "aquí"
+   ],
+   "good": "Aquí with a finger on the cloth beats any number of centimetres, and it is what she would rather you did."
+  },
+  {
+   "es": "Va pues. Se lo dejo bien.",
+   "objective": "Ask when it will be ready",
+   "key": "¿para cuándo?",
+   "say": "¿Para cuándo?",
+   "en": "When for?",
+   "tiles": [
+    "¿para cuándo?"
+   ],
+   "extra": [
+    "gracias",
+    "el jueves",
+    "por favor",
+    "aquí"
+   ],
+   "ok": [
+    "para cuando"
+   ],
+   "teaches": [
+    "¿para cuándo?"
+   ],
+   "good": "¿Para cuándo? asks the day it will be done. Ask now, because ahorita is not a time and you will be told ahorita."
+  },
+  {
+   "es": "Véngase el jueves, después de las tres.",
+   "objective": "Fix the day",
+   "key": "el jueves",
+   "say": "El jueves, entonces. Gracias.",
+   "en": "Thursday, then. Thank you.",
+   "tiles": [
+    "el jueves",
+    "entonces",
+    "gracias"
+   ],
+   "extra": [
+    "mañana",
+    "aquí",
+    "por favor",
+    "¿para cuándo?"
+   ],
+   "ok": [
+    "el jueves entonces gracias",
+    "el jueves entonces",
+    "el jueves"
+   ],
+   "teaches": [
+    "el jueves"
+   ],
+   "good": "Name the day back and it becomes an appointment. Leave it vague and it becomes Thursday anyway, but you will have walked there twice."
+  }
+ ]
+}

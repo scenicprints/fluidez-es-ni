@@ -1,0 +1,109 @@
+{
+ "id": "xalteva-07",
+ "district": "xalteva",
+ "tier": 4,
+ "who": "La maestra",
+ "title": "La escuela",
+ "goal": "Be asked to say hello to a class in English",
+ "culture": "A foreigner walking past a school is a free English lesson and she will ask. Saying yes costs five minutes and buys you the whole street; saying no is fine too, but say it as a no to today rather than a no to her.",
+ "beats": [
+  {
+   "es": "¡Joven! Disculpe. ¿Usted habla inglés? ¿Es maestro?",
+   "objective": "You are not a teacher",
+   "key": "no soy maestro",
+   "say": "No soy maestro, pero sí hablo inglés.",
+   "en": "I’m not a teacher, but I do speak English.",
+   "tiles": [
+    "no soy maestro",
+    "pero sí hablo inglés"
+   ],
+   "extra": [
+    "con mucho gusto",
+    "una vez nada más",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "no soy maestro pero si hablo ingles",
+    "no soy maestro"
+   ],
+   "teaches": [
+    "no soy maestro"
+   ],
+   "good": "Correct the assumption and answer the real question in the same breath. She is not asking for your credentials."
+  },
+  {
+   "es": "¿Y no me les habla tantito a los chavalos? Cinco minutos.",
+   "objective": "Say yes, gladly",
+   "key": "con mucho gusto",
+   "say": "Con mucho gusto.",
+   "en": "Gladly.",
+   "tiles": [
+    "con mucho gusto"
+   ],
+   "extra": [
+    "no puedo",
+    "una vez nada más",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "con mucho gusto"
+   ],
+   "teaches": [
+    "con mucho gusto"
+   ],
+   "good": "Con mucho gusto is a warm yes and it is used constantly here — for favours, for introductions, for handing somebody the salt."
+  },
+  {
+   "es": "¡Ay, gracias! Pase, pase.",
+   "objective": "Ask what to say to them",
+   "key": "¿qué les digo?",
+   "say": "¿Y qué les digo?",
+   "en": "And what should I say to them?",
+   "tiles": [
+    "¿y qué",
+    "les digo?"
+   ],
+   "extra": [
+    "con mucho gusto",
+    "gracias",
+    "una vez nada más",
+    "con permiso"
+   ],
+   "ok": [
+    "y que les digo",
+    "que les digo"
+   ],
+   "teaches": [
+    "¿qué les digo?"
+   ],
+   "good": "Ask before you are in front of thirty children. She has a plan and she will tell you in four words."
+  },
+  {
+   "es": "Cualquier cosa. Salúdelos y que le oigan el acento.",
+   "objective": "Agree — but just the once",
+   "key": "una vez nada más",
+   "say": "Está bien. Una vez nada más.",
+   "en": "Alright. Just this once.",
+   "tiles": [
+    "está bien",
+    "una vez nada más"
+   ],
+   "extra": [
+    "con mucho gusto",
+    "gracias",
+    "otro día",
+    "con permiso"
+   ],
+   "ok": [
+    "esta bien una vez nada mas",
+    "una vez nada mas"
+   ],
+   "teaches": [
+    "una vez nada más"
+   ],
+   "good": "Una vez nada más sets the limit while still saying yes. Without it you are the English teacher of Xalteva by Friday."
+  }
+ ]
+}

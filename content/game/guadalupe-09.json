@@ -1,0 +1,111 @@
+{
+ "id": "guadalupe-09",
+ "district": "guadalupe",
+ "tier": 5,
+ "who": "El vecino bravo",
+ "title": "El pleito",
+ "goal": "Get between two neighbours arguing over a wall",
+ "culture": "A shouting match on the street is public and everybody watches, which is also what settles it: nobody wants to be the one who would not calm down. A third person saying no es para tanto is a recognised role, and it is not interfering.",
+ "beats": [
+  {
+   "es": "¡Esa pared es mía! ¡Yo la levanté con mi plata!",
+   "objective": "Calm him down",
+   "key": "cálmese",
+   "say": "Cálmese, vecino.",
+   "en": "Calm down, neighbour.",
+   "tiles": [
+    "cálmese",
+    "vecino"
+   ],
+   "extra": [
+    "no es para tanto",
+    "ya estuvo",
+    "Buenas",
+    "otro día"
+   ],
+   "ok": [
+    "calmese vecino",
+    "calmese"
+   ],
+   "teaches": [
+    "cálmese"
+   ],
+   "good": "Cálmese, usted, and with vecino after it. The word alone can sound like an order; with vecino it is somebody on his side."
+  },
+  {
+   "es": "¡Es que me corrió la cerca! ¡Medio metro me quitó!",
+   "objective": "Say it is not that big a thing",
+   "key": "no es para tanto",
+   "say": "No es para tanto, hombre.",
+   "en": "It’s not such a big deal, man.",
+   "tiles": [
+    "no es para tanto",
+    "hombre"
+   ],
+   "extra": [
+    "cálmese",
+    "ya estuvo",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "no es para tanto hombre",
+    "no es para tanto"
+   ],
+   "teaches": [
+    "no es para tanto"
+   ],
+   "good": "No es para tanto shrinks it, and shrinking it is the entire job. You are not judging who is right and nobody has asked you to."
+  },
+  {
+   "es": "¡Es que usted no sabe! ¡Toda la vida hemos vivido aquí!",
+   "objective": "Say it can be talked out",
+   "key": "hablando se arregla",
+   "say": "Hablando se arregla, vecino.",
+   "en": "It can be sorted out by talking, neighbour.",
+   "tiles": [
+    "hablando se arregla",
+    "vecino"
+   ],
+   "extra": [
+    "no es para tanto",
+    "cálmese",
+    "gracias",
+    "ya estuvo"
+   ],
+   "ok": [
+    "hablando se arregla vecino",
+    "hablando se arregla"
+   ],
+   "teaches": [
+    "hablando se arregla"
+   ],
+   "good": "Hablando se arregla — talking sorts it out. It is a proverb and it works because it hands both of them a way to stop without losing."
+  },
+  {
+   "es": "...Bueno. Bueno pues. Que venga y hablamos.",
+   "objective": "Close it off",
+   "key": "ya estuvo",
+   "say": "Ya estuvo, pues.",
+   "en": "That’s that, then.",
+   "tiles": [
+    "ya estuvo",
+    "pues"
+   ],
+   "extra": [
+    "cálmese",
+    "no es para tanto",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "ya estuvo pues",
+    "ya estuvo"
+   ],
+   "teaches": [
+    "ya estuvo"
+   ],
+   "good": "Ya estuvo ends it: that is enough, it is over, done. Said at the right moment it lets everybody walk away having agreed to stop rather than having given in."
+  }
+ ]
+}

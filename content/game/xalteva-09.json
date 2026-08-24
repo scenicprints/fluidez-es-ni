@@ -1,0 +1,110 @@
+{
+ "id": "xalteva-09",
+ "district": "xalteva",
+ "tier": 5,
+ "who": "Doña Rosa",
+ "title": "La rezadora",
+ "goal": "Be invited to a novena and know what is expected",
+ "culture": "A novena is nine nights of prayer for somebody who died, and the rezadora leads it. Going is a kindness to the family and nobody will test your faith at the door. Do not turn up with flowers or wine — there is coffee and bread and that is the form.",
+ "beats": [
+  {
+   "es": "Buenas noches. ¿Usted es el vecino nuevo? Estamos rezando aquí al lado.",
+   "objective": "Ask how many nights",
+   "key": "nueve noches",
+   "say": "¿Son nueve noches?",
+   "en": "Is it nine nights?",
+   "tiles": [
+    "¿son nueve noches?"
+   ],
+   "extra": [
+    "a las siete",
+    "gracias",
+    "no hace falta",
+    "otro día"
+   ],
+   "ok": [
+    "son nueve noches",
+    "nueve noches"
+   ],
+   "teaches": [
+    "nueve noches"
+   ],
+   "good": "Nine nights, one for each, ending on the ninth with the biggest one. Knowing that is knowing what you are being invited to."
+  },
+  {
+   "es": "Nueve, sí. Desde que se nos fue don Ramón.",
+   "objective": "Ask what time",
+   "key": "a las siete",
+   "say": "¿Y a qué hora? ¿A las siete?",
+   "en": "And what time? Seven?",
+   "tiles": [
+    "¿y a qué hora?",
+    "¿a las siete?"
+   ],
+   "extra": [
+    "nueve noches",
+    "gracias",
+    "no hace falta",
+    "otro día"
+   ],
+   "ok": [
+    "y a que hora a las siete",
+    "a que hora a las siete",
+    "a las siete"
+   ],
+   "teaches": [
+    "a las siete"
+   ],
+   "good": "Seven, after work and before the heat drops. It will start at ten past and nobody minds."
+  },
+  {
+   "es": "A las siete. Y véngase, aunque sea un ratito.",
+   "objective": "Ask whether to bring anything",
+   "key": "no hace falta",
+   "say": "¿Llevo algo?",
+   "en": "Should I bring something?",
+   "tiles": [
+    "¿llevo algo?"
+   ],
+   "extra": [
+    "no hace falta",
+    "con eso basta",
+    "gracias",
+    "a las siete"
+   ],
+   "ok": [
+    "llevo algo"
+   ],
+   "teaches": [
+    "no hace falta"
+   ],
+   "good": "Ask, and the answer will be no hace falta — there is no need. Ask anyway: not asking is what would be rude."
+  },
+  {
+   "es": "No hace falta nada, mi hijo. Con que venga, con eso basta.",
+   "objective": "Accept it as given",
+   "key": "con eso basta",
+   "say": "Con eso basta. Ahí llego.",
+   "en": "That’s enough, then. I’ll be there.",
+   "tiles": [
+    "con eso basta",
+    "ahí llego"
+   ],
+   "extra": [
+    "no hace falta",
+    "otro día",
+    "gracias",
+    "a las siete"
+   ],
+   "ok": [
+    "con eso basta ahi llego",
+    "con eso basta",
+    "ahi llego"
+   ],
+   "teaches": [
+    "con eso basta"
+   ],
+   "good": "Con eso basta — that is enough. Turning up IS the gift, and ahí llego is a promise you should keep."
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "id": "guadalupe-03",
+ "district": "guadalupe",
+ "tier": 2,
+ "who": "Los chavalos",
+ "title": "La mejenga",
+ "goal": "Get picked for a game on the corner pitch",
+ "culture": "A mejenga is a pick-up game and anybody can ask. These are the other people you address as VOS — kids, and now teammates. Pasámela is the vos imperative; pásamela with the accent early is Mexican television, and they will hear it.",
+ "beats": [
+  {
+   "es": "¡Ey! ¿Juega o solo mira?",
+   "objective": "Ask to join",
+   "key": "¿puedo jugar?",
+   "say": "¿Puedo jugar?",
+   "en": "Can I play?",
+   "tiles": [
+    "¿puedo jugar?"
+   ],
+   "extra": [
+    "de este lado",
+    "buena esa",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "puedo jugar"
+   ],
+   "teaches": [
+    "¿puedo jugar?"
+   ],
+   "good": "Just ask. Nobody is picking teams by ability and there is always room for one more."
+  },
+  {
+   "es": "Dale pues. ¿De qué lado se pone?",
+   "objective": "This side",
+   "key": "de este lado",
+   "say": "De este lado.",
+   "en": "On this side.",
+   "tiles": [
+    "de este lado"
+   ],
+   "extra": [
+    "de aquel lado",
+    "¿puedo jugar?",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "de este lado"
+   ],
+   "teaches": [
+    "de este lado"
+   ],
+   "good": "Dale is yes, go on, alright, get on with it. You will hear it forty times an hour in this district."
+  },
+  {
+   "es": "¡Va! Estás con nosotros.",
+   "objective": "Call for the ball",
+   "key": "pasámela",
+   "say": "¡Pasámela!",
+   "en": "Pass it to me!",
+   "tiles": [
+    "¡pasámela!"
+   ],
+   "extra": [
+    "de este lado",
+    "buena esa",
+    "está bien",
+    "aquí"
+   ],
+   "ok": [
+    "pasamela"
+   ],
+   "teaches": [
+    "pasámela"
+   ],
+   "good": "Pasámela, with the stress on the MA — that is the vos imperative and it is what they say. Pásamela, stressed early, is Mexican television and they will hear it instantly."
+  },
+  {
+   "es": "¡Ahí va! ¡Ahí va!",
+   "objective": "Somebody scores — say so",
+   "key": "buena esa",
+   "say": "¡Buena esa!",
+   "en": "Nice one!",
+   "tiles": [
+    "¡buena esa!"
+   ],
+   "extra": [
+    "pasámela",
+    "de este lado",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "buena esa"
+   ],
+   "teaches": [
+    "buena esa"
+   ],
+   "good": "Buena esa is what you shout when somebody does something good, on a pitch or anywhere else. Two words, and it makes you one of them for the afternoon."
+  }
+ ]
+}

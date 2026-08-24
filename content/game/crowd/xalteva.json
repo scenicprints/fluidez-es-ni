@@ -1,0 +1,93 @@
+[
+ {
+  "kind": "doña en la puerta",
+  "district": "xalteva",
+  "says": "¿Anda buscando algo? Pregúntele a la doña de la esquina, ella sabe dónde queda todo.",
+  "en": "Looking for something? Ask the lady on the corner, she knows where everything is.",
+  "points_at": [
+   "xalteva-01"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "xalteva",
+  "says": "La iglesia la abren a las cinco, para la misa. Antes está cerrada.",
+  "en": "They open the church at five, for mass. Before that it is shut.",
+  "points_at": [
+   "xalteva-02"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "xalteva",
+  "says": "A la doña Rosa no le diga que no cree. Ella pregunta, pero no juzga.",
+  "en": "Do not tell doña Rosa you are not a believer. She asks, but she does not judge.",
+  "points_at": [
+   "xalteva-03",
+   "xalteva-09"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "xalteva",
+  "says": "Don Chombo está en la esquina desde las seis. Si tiene tiempo, siéntese con él.",
+  "en": "Don Chombo has been on the corner since six. If you have time, sit with him.",
+  "points_at": [
+   "xalteva-04"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "xalteva",
+  "says": "¿Le queda largo el pantalón? La costurera está a media cuadra, cobra poquito.",
+  "en": "Are your trousers too long? The seamstress is half a block away, she charges very little.",
+  "points_at": [
+   "xalteva-05"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "xalteva",
+  "says": "La maestra anda buscando quién le hable inglés a los chavalos. Ahí en la escuela.",
+  "en": "The teacher is looking for somebody to speak English to the kids. There at the school.",
+  "points_at": [
+   "xalteva-07"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "xalteva",
+  "says": "En el cementerio hay un señor que lo cuida todo solo. Ese sabe quién es quién.",
+  "en": "There is a man at the cemetery who looks after all of it alone. He knows who is who.",
+  "points_at": [
+   "xalteva-08"
+  ]
+ },
+ {
+  "kind": "evangélico",
+  "district": "xalteva",
+  "says": "Están rezando la novena de don Ramón, nueve noches. Puede llegar aunque no sea de aquí.",
+  "en": "They are praying don Ramón’s novena, nine nights. You can go even if you are not from here.",
+  "points_at": [
+   "xalteva-09"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "xalteva",
+  "says": "¿Ve esas paredes bajas? Pregúntele al señor de los libros qué son. Le va a encantar.",
+  "en": "See those low walls? Ask the man with the books what they are. He will love it.",
+  "points_at": [
+   "xalteva-10"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "xalteva",
+  "says": "Si necesita algo de la pulpería, el chavalo de la bici le hace el mandado. Es honrado.",
+  "en": "If you need something from the shop, the lad on the bike will run the errand for you. He is honest.",
+  "points_at": [
+   "xalteva-06"
+  ]
+ }
+]

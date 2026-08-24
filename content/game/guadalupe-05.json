@@ -1,0 +1,110 @@
+{
+ "id": "guadalupe-05",
+ "district": "guadalupe",
+ "tier": 3,
+ "who": "El carpintero",
+ "title": "La mesa",
+ "goal": "Order a table and describe the size with your hands",
+ "culture": "He will build it from what he has and he will not write anything down. Hands are an accepted unit of measurement here and sin prisa is a real instruction — say it and mean it, because saying it and then chasing him is worse than not saying it.",
+ "beats": [
+  {
+   "es": "Buenas. ¿En qué le sirvo?",
+   "objective": "You want a table made",
+   "key": "¿me la hace?",
+   "say": "Quiero una mesa. ¿Me la hace?",
+   "en": "I want a table. Could you make me one?",
+   "tiles": [
+    "quiero una mesa",
+    "¿me la hace?"
+   ],
+   "extra": [
+    "así de grande",
+    "de madera",
+    "gracias",
+    "sin prisa"
+   ],
+   "ok": [
+    "quiero una mesa me la hace",
+    "me la hace"
+   ],
+   "teaches": [
+    "¿me la hace?"
+   ],
+   "good": "¿Me la hace? asks him to make you one. There is no catalogue and no price list, and that is not a problem to be solved."
+  },
+  {
+   "es": "¿De qué tamaño la quiere?",
+   "objective": "Show him with your hands",
+   "key": "así de grande",
+   "say": "Así de grande.",
+   "en": "About this big.",
+   "tiles": [
+    "así de grande"
+   ],
+   "extra": [
+    "de madera",
+    "sin prisa",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "asi de grande"
+   ],
+   "teaches": [
+    "así de grande"
+   ],
+   "good": "Hands are a unit here and he would rather have them than a number. Así de grande with your arms out is a specification."
+  },
+  {
+   "es": "¿Y de qué material? Tengo pino y tengo cedro.",
+   "objective": "Wood — the cedar",
+   "key": "de madera",
+   "say": "De madera. De cedro.",
+   "en": "Wood. Cedar.",
+   "tiles": [
+    "de madera",
+    "de cedro"
+   ],
+   "extra": [
+    "de pino",
+    "así de grande",
+    "gracias",
+    "sin prisa"
+   ],
+   "ok": [
+    "de madera de cedro",
+    "de madera",
+    "de cedro"
+   ],
+   "teaches": [
+    "de madera"
+   ],
+   "good": "Cedro is the good one and he asked because it costs more. Saying which is how you avoid finding out in a fortnight."
+  },
+  {
+   "es": "Va pues. Démela en quince días, ¿le corre prisa?",
+   "objective": "No rush — and mean it",
+   "key": "sin prisa",
+   "say": "Sin prisa. Cuando pueda.",
+   "en": "No hurry. Whenever you can.",
+   "tiles": [
+    "sin prisa",
+    "cuando pueda"
+   ],
+   "extra": [
+    "para mañana",
+    "gracias",
+    "de madera",
+    "por favor"
+   ],
+   "ok": [
+    "sin prisa cuando pueda",
+    "sin prisa"
+   ],
+   "teaches": [
+    "sin prisa"
+   ],
+   "good": "Sin prisa is a real instruction and he will take it at face value. Say it and then chase him and you have taught him you did not mean it."
+  }
+ ]
+}

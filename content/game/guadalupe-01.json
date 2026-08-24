@@ -1,0 +1,89 @@
+{
+ "id": "guadalupe-01",
+ "district": "guadalupe",
+ "tier": 1,
+ "who": "El pulpero",
+ "title": "La pulpería",
+ "goal": "Buy the small things at the shop on the corner",
+ "culture": "A pulpería is a front room with a grille, and it sells one of everything: soap, eggs, a single cigarette, rice by the pound. You do not go in — you stand at the window and say me da.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Qué va a llevar?",
+   "objective": "Ask for a bar of soap",
+   "key": "me da",
+   "say": "Me da un jabón.",
+   "en": "Give me a bar of soap.",
+   "tiles": [
+    "me da",
+    "un jabón"
+   ],
+   "extra": [
+    "y una gaseosa",
+    "nada más",
+    "por favor",
+    "quiero"
+   ],
+   "ok": [
+    "me da un jabon",
+    "me da un jabon por favor"
+   ],
+   "teaches": [
+    "me da",
+    "un jabón"
+   ],
+   "good": "Me da is how you ask for things across a counter — softer than quiero and shorter than everything else. It is the single most useful phrase in this district."
+  },
+  {
+   "es": "¿Cuál? ¿De bañarse o de lavar?",
+   "objective": "Add a fizzy drink",
+   "key": "y una gaseosa",
+   "say": "De bañarse. Y una gaseosa.",
+   "en": "For washing myself. And a fizzy drink.",
+   "tiles": [
+    "de bañarse",
+    "y una gaseosa"
+   ],
+   "extra": [
+    "de lavar",
+    "nada más",
+    "gracias",
+    "me da"
+   ],
+   "ok": [
+    "de banarse y una gaseosa",
+    "y una gaseosa"
+   ],
+   "teaches": [
+    "y una gaseosa"
+   ],
+   "good": "Two kinds of soap and he will always ask which. Gaseosa is any fizzy drink; if you want a Coca-Cola you say Coca and he will not be surprised."
+  },
+  {
+   "es": "¿Fría o del tiempo?",
+   "objective": "Cold, and that is all",
+   "key": "nada más",
+   "say": "Fría. Nada más, gracias.",
+   "en": "Cold. That’s all, thanks.",
+   "tiles": [
+    "fría",
+    "nada más",
+    "gracias"
+   ],
+   "extra": [
+    "del tiempo",
+    "y una gaseosa",
+    "me da",
+    "por favor"
+   ],
+   "ok": [
+    "fria nada mas gracias",
+    "nada mas gracias",
+    "nada mas"
+   ],
+   "teaches": [
+    "nada más"
+   ],
+   "good": "Nada más closes the order. Del tiempo means room temperature and is what you get if you do not say fría."
+  }
+ ]
+}

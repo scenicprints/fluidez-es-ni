@@ -1,0 +1,115 @@
+{
+ "id": "xalteva-01",
+ "district": "xalteva",
+ "tier": 1,
+ "who": "Doña de los caites",
+ "title": "¿Por dónde?",
+ "goal": "Ask the way and get an answer with no street names in it",
+ "culture": "Nobody here navigates by street names, even the ones that have them. Directions are blocks, and the two fixed points are the lake and the mountain: al lago is east and arriba is west, towards Mombacho. Learn those two words and the city becomes legible.",
+ "beats": [
+  {
+   "es": "Buenas tardes, mi hijo. ¿Anda perdido?",
+   "objective": "Ask where the church is",
+   "key": "¿dónde queda?",
+   "say": "Buenas. ¿Dónde queda la iglesia?",
+   "en": "Hello. Where’s the church?",
+   "tiles": [
+    "Buenas",
+    "¿dónde queda",
+    "la iglesia?"
+   ],
+   "extra": [
+    "gracias",
+    "al lago",
+    "cuídese",
+    "no ando"
+   ],
+   "ok": [
+    "buenas donde queda la iglesia",
+    "donde queda la iglesia",
+    "donde queda"
+   ],
+   "teaches": [
+    "¿dónde queda?"
+   ],
+   "good": "¿Dónde queda? is where something is located, and it is the question you will ask most often in your first month."
+  },
+  {
+   "es": "Ahí nomás. Dos cuadras al lago y ya la ve.",
+   "objective": "Say it back to be sure",
+   "key": "dos cuadras",
+   "say": "¿Dos cuadras al lago?",
+   "en": "Two blocks towards the lake?",
+   "tiles": [
+    "¿dos cuadras",
+    "al lago?"
+   ],
+   "extra": [
+    "arriba",
+    "gracias",
+    "cuídese",
+    "no ando"
+   ],
+   "ok": [
+    "dos cuadras al lago",
+    "dos cuadras"
+   ],
+   "teaches": [
+    "dos cuadras",
+    "al lago"
+   ],
+   "good": "Al lago means east, because the lake is east of everything in this city. Repeating the direction back is how you avoid walking twenty minutes the wrong way."
+  },
+  {
+   "es": "Al lago, sí. Y si se pasa, se devuelve para arriba.",
+   "objective": "Check the other direction too",
+   "key": "arriba",
+   "say": "¿Y arriba es para allá?",
+   "en": "And arriba is that way?",
+   "tiles": [
+    "¿y arriba",
+    "es para allá?"
+   ],
+   "extra": [
+    "al lago",
+    "dos cuadras",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "y arriba es para alla",
+    "arriba es para alla"
+   ],
+   "teaches": [
+    "arriba"
+   ],
+   "good": "Arriba is west, towards Mombacho, and it has nothing to do with up. Al lago and arriba are the whole compass here."
+  },
+  {
+   "es": "Así es, mi hijo. Vaya con cuidado.",
+   "objective": "Thank her and go",
+   "key": "cuídese",
+   "say": "Gracias. Cuídese.",
+   "en": "Thank you. Take care.",
+   "tiles": [
+    "gracias",
+    "cuídese"
+   ],
+   "extra": [
+    "otro día",
+    "al lago",
+    "no ando",
+    "arriba"
+   ],
+   "ok": [
+    "gracias cuidese",
+    "cuidese",
+    "gracias"
+   ],
+   "teaches": [
+    "cuídese"
+   ],
+   "good": "Cuídese back at somebody who has just looked after you is the whole of good manners here, and it costs one word."
+  }
+ ]
+}

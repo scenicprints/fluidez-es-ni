@@ -1,0 +1,110 @@
+{
+ "id": "guadalupe-06",
+ "district": "guadalupe",
+ "tier": 3,
+ "who": "La señora del perro",
+ "title": "El perro",
+ "goal": "Deal with a dog that has decided your gate is its gate",
+ "culture": "Street dogs here belong to the street rather than to nobody, and several houses feed the same one. Asking whose it is gets you a shrug: it is aquí anda — it is around. It is also almost certainly harmless.",
+ "beats": [
+  {
+   "es": "¿Le está molestando ese perro?",
+   "objective": "Ask whether it is hers",
+   "key": "ese perro",
+   "say": "¿Ese perro es suyo?",
+   "en": "Is that dog yours?",
+   "tiles": [
+    "¿ese perro",
+    "es suyo?"
+   ],
+   "extra": [
+    "no es mío",
+    "aquí anda",
+    "gracias",
+    "no muerde"
+   ],
+   "ok": [
+    "ese perro es suyo",
+    "ese perro"
+   ],
+   "teaches": [
+    "ese perro"
+   ],
+   "good": "Ese perro, said with a nod at it. Whose it is turns out to be a harder question than you expect."
+  },
+  {
+   "es": "No, no es mío. De nadie es.",
+   "objective": "So whose is it?",
+   "key": "no es mío",
+   "say": "¿No es suyo? ¿Y de quién es?",
+   "en": "Not yours? Then whose is it?",
+   "tiles": [
+    "¿no es suyo?",
+    "¿y de quién es?"
+   ],
+   "extra": [
+    "aquí anda",
+    "no muerde",
+    "gracias",
+    "ese perro"
+   ],
+   "ok": [
+    "no es suyo y de quien es",
+    "y de quien es",
+    "no es suyo"
+   ],
+   "teaches": [
+    "no es mío"
+   ],
+   "good": "No es mío from her, no es suyo from you. The dog is fed by four houses and belongs to none of them, which is a normal arrangement."
+  },
+  {
+   "es": "De nadie, pues. Aquí anda desde chiquito.",
+   "objective": "It is just around, then",
+   "key": "aquí anda",
+   "say": "Aquí anda nomás.",
+   "en": "It just hangs around here.",
+   "tiles": [
+    "aquí anda",
+    "nomás"
+   ],
+   "extra": [
+    "no es mío",
+    "no muerde",
+    "gracias",
+    "ese perro"
+   ],
+   "ok": [
+    "aqui anda nomas",
+    "aqui anda"
+   ],
+   "teaches": [
+    "aquí anda"
+   ],
+   "good": "Aquí anda — it is around. Andar is doing a great deal of work in this country and almost none of it is walking."
+  },
+  {
+   "es": "No le haga caso. No muerde ese, es bien manso.",
+   "objective": "Check that — it does not bite?",
+   "key": "no muerde",
+   "say": "¿No muerde?",
+   "en": "It doesn’t bite?",
+   "tiles": [
+    "¿no muerde?"
+   ],
+   "extra": [
+    "aquí anda",
+    "gracias",
+    "otro día",
+    "no es mío"
+   ],
+   "ok": [
+    "no muerde"
+   ],
+   "teaches": [
+    "no muerde"
+   ],
+   "good": "No muerde is the reassurance you will be given about every dog in Nicaragua, and it is nearly always true."
+  }
+ ]
+}
