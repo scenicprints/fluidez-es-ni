@@ -1,0 +1,109 @@
+{
+ "id": "sc124",
+ "title": "No me hallo",
+ "desc": "A word for something you have been feeling for a year",
+ "setting": "You have left a party of thirty people to stand in the patio, and Lucía has come out to find you.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "¿Y vos qué hacés aquí afuera? ¿Estás bien?",
+   "en": "And what are you doing out here? Are you all right?",
+   "options": [
+    {
+     "es": "Sí, pero no me hallo. Así, de repente.",
+     "en": "Yes, but I do not feel right. Just like that, suddenly.",
+     "verdict": "good",
+     "feedback": "No me hallo is the word and there is no clean English for it. It is not sadness and not anger, it is not finding your place in a room, and everybody here knows it."
+    },
+    {
+     "es": "Ando raro. No sé.",
+     "en": "I feel odd. I do not know.",
+     "verdict": "ok",
+     "feedback": "Close, and it will do. Raro is what you say when you have not got the word yet."
+    },
+    {
+     "es": "Estoy extraño aquí.",
+     "en": "I feel strange here.",
+     "verdict": "bad",
+     "feedback": "Extraño is for a smell or a noise, and said about yourself in a house full of your wife's family it sounds like you feel foreign in it."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Ah, no te hallás. Eso le pasa a todo el mundo, gordo.",
+   "en": "Ah, you are not finding your place. That happens to everybody, gordo.",
+   "options": [
+    {
+     "es": "¿A todo el mundo? Yo creía que era por ser de afuera.",
+     "en": "To everybody? I thought it was from being a foreigner.",
+     "verdict": "good",
+     "feedback": "It is not. Nicaraguans say no me hallo about a new job, a new barrio, a party full of their own cousins. The word was never about you being foreign."
+    },
+    {
+     "es": "Qué bueno saber que no soy solo yo.",
+     "en": "Good to know it is not just me.",
+     "verdict": "ok",
+     "feedback": "True. Ask her when it happens to her and you will get the whole shape of the word."
+    },
+    {
+     "es": "A vos no te pasa, seguro.",
+     "en": "It does not happen to you, surely.",
+     "verdict": "bad",
+     "feedback": "It does. Deciding on her behalf that she has never felt it closes the conversation you came out here for."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Claro que sí. Yo no me hallaba en el trabajo nuevo por meses.",
+   "en": "Of course it does. I did not find my feet in the new job for months.",
+   "options": [
+    {
+     "es": "¿Y qué hiciste? ¿Se te quitó solo?",
+     "en": "And what did you do? Did it go on its own?",
+     "verdict": "good",
+     "feedback": "Ask, because the answer is usually time and nothing else. Se me quitó is how you say a feeling left you, as though it had come by itself."
+    },
+    {
+     "es": "No sabía eso de vos.",
+     "en": "I did not know that about you.",
+     "verdict": "ok",
+     "feedback": "Warm. There was a practical question sitting right there."
+    },
+    {
+     "es": "Pero eso es distinto.",
+     "en": "But that is different.",
+     "verdict": "bad",
+     "feedback": "She just handed you her own version of it. Telling her it does not count is the wrong thing to do with that."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Se me fue solo. Entrá, que ya van a servir.",
+   "en": "It went on its own. Come in, they are about to serve.",
+   "options": [
+    {
+     "es": "Ya voy. Dame dos minutos y entro.",
+     "en": "Coming. Give me two minutes and I will come in.",
+     "verdict": "good",
+     "feedback": "You are not being asked to be cured, only to come back in. Two minutes and the plate is the whole treatment."
+    },
+    {
+     "es": "Dale, ya entro.",
+     "en": "All right, I am coming in.",
+     "verdict": "ok",
+     "feedback": "Fine. Taking the two minutes you actually need is allowed."
+    },
+    {
+     "es": "Entrá vos, yo me quedo aquí.",
+     "en": "You go in, I will stay here.",
+     "verdict": "bad",
+     "feedback": "Standing alone in a patio while thirty people eat is how not finding your place turns into being outside it."
+    }
+   ]
+  }
+ ]
+}

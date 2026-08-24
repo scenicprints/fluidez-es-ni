@@ -9,39 +9,32 @@
  ],
  "scenarios": [
   {
-   "id": "sc01",
-   "title": "Ordering at the fritanga",
-   "desc": "Order food from doña Carmen",
+   "id": "sc96",
+   "title": "Buenas",
+   "desc": "Four people between you and the pulpería, and none of them can be passed in silence",
    "phase": 0,
-   "path": "scenarios/sc01.json"
+   "path": "scenarios/sc96.json"
   },
   {
-   "id": "sc02",
-   "title": "Meeting Roberto",
-   "desc": "Introduce yourself to a new friend",
+   "id": "sc97",
+   "title": "El gallo pinto",
+   "desc": "You are fed before anybody asks your name",
    "phase": 0,
-   "path": "scenarios/sc02.json"
+   "path": "scenarios/sc97.json"
   },
   {
-   "id": "sc03",
-   "title": "At the pharmacy",
-   "desc": "You're not feeling well",
+   "id": "sc98",
+   "title": "Aquí nadie dice tú",
+   "desc": "A boy of twelve corrects your Spanish, kindly",
    "phase": 0,
-   "path": "scenarios/sc03.json"
+   "path": "scenarios/sc98.json"
   },
   {
-   "id": "sc04",
-   "title": "Taking a taxi",
-   "desc": "Get across town and agree on a price",
+   "id": "sc99",
+   "title": "¿Y es casado usted?",
+   "desc": "In four minutes they know your age, your work and whether you are married",
    "phase": 0,
-   "path": "scenarios/sc04.json"
-  },
-  {
-   "id": "sc05",
-   "title": "At the market",
-   "desc": "Buy fruit at the mercado",
-   "phase": 0,
-   "path": "scenarios/sc05.json"
+   "path": "scenarios/sc99.json"
   },
   {
    "id": "sc41",
@@ -65,39 +58,18 @@
    "path": "scenarios/sc43.json"
   },
   {
-   "id": "sc06",
-   "title": "Haggling for a shirt",
-   "desc": "Negotiate a price at the market",
-   "phase": 1,
-   "path": "scenarios/sc06.json"
+   "id": "sc100",
+   "title": "La ruta equivocada",
+   "desc": "The wrong bus, and an hour you do not get back",
+   "phase": 0,
+   "path": "scenarios/sc100.json"
   },
   {
-   "id": "sc07",
-   "title": "Asking for directions",
-   "desc": "Find your way Nica-style",
+   "id": "sc101",
+   "title": "Donde fue el árbol",
+   "desc": "An address that names a tree cut down in 1998",
    "phase": 1,
-   "path": "scenarios/sc07.json"
-  },
-  {
-   "id": "sc08",
-   "title": "Catching the bus",
-   "desc": "Ride the urban bus and pay the fare",
-   "phase": 1,
-   "path": "scenarios/sc08.json"
-  },
-  {
-   "id": "sc09",
-   "title": "Ordering lunch",
-   "desc": "Order a full meal at a comedor",
-   "phase": 1,
-   "path": "scenarios/sc09.json"
-  },
-  {
-   "id": "sc10",
-   "title": "Making plans",
-   "desc": "Arrange to meet a friend",
-   "phase": 1,
-   "path": "scenarios/sc10.json"
+   "path": "scenarios/sc101.json"
   },
   {
    "id": "sc44",
@@ -114,11 +86,32 @@
    "path": "scenarios/sc45.json"
   },
   {
+   "id": "sc103",
+   "title": "El almuerzo del comedor",
+   "desc": "Midday, a counter, and no menu anywhere",
+   "phase": 1,
+   "path": "scenarios/sc103.json"
+  },
+  {
    "id": "sc46",
    "title": "En la ferretería",
    "desc": "Buying a thing whose name you do not know",
    "phase": 1,
    "path": "scenarios/sc46.json"
+  },
+  {
+   "id": "sc104",
+   "title": "Una recarga",
+   "desc": "Phone credit, bought across a counter, said out loud",
+   "phase": 1,
+   "path": "scenarios/sc104.json"
+  },
+  {
+   "id": "sc102",
+   "title": "Un mandado",
+   "desc": "Being sent for tortillas, which means you are trusted",
+   "phase": 1,
+   "path": "scenarios/sc102.json"
   },
   {
    "id": "sc47",
@@ -128,39 +121,18 @@
    "path": "scenarios/sc47.json"
   },
   {
-   "id": "sc11",
-   "title": "Talking about yourself",
-   "desc": "Share your life with a new friend",
-   "phase": 2,
-   "path": "scenarios/sc11.json"
+   "id": "sc105",
+   "title": "Pinolillo",
+   "desc": "Drink it and you belong to them now",
+   "phase": 1,
+   "path": "scenarios/sc105.json"
   },
   {
-   "id": "sc12",
-   "title": "How was your weekend?",
-   "desc": "Talk about the past",
+   "id": "sc106",
+   "title": "Me caés bien",
+   "desc": "One verb between a friendship and a declaration",
    "phase": 2,
-   "path": "scenarios/sc12.json"
-  },
-  {
-   "id": "sc13",
-   "title": "Dinner at a friend's house",
-   "desc": "Be a gracious guest",
-   "phase": 2,
-   "path": "scenarios/sc13.json"
-  },
-  {
-   "id": "sc14",
-   "title": "What do you like?",
-   "desc": "Share hobbies and tastes",
-   "phase": 2,
-   "path": "scenarios/sc14.json"
-  },
-  {
-   "id": "sc15",
-   "title": "A heart-to-heart",
-   "desc": "Open up about a hard day",
-   "phase": 2,
-   "path": "scenarios/sc15.json"
+   "path": "scenarios/sc106.json"
   },
   {
    "id": "sc48",
@@ -177,11 +149,18 @@
    "path": "scenarios/sc49.json"
   },
   {
-   "id": "sc50",
-   "title": "La Gritería",
-   "desc": "December 7, and the shouting arrives at your door",
+   "id": "sc107",
+   "title": "Que cumplás muchos más",
+   "desc": "A birthday in the patio, and a piece of cake you did not expect",
    "phase": 2,
-   "path": "scenarios/sc50.json"
+   "path": "scenarios/sc107.json"
+  },
+  {
+   "id": "sc108",
+   "title": "Primero Dios",
+   "desc": "Every plan anybody makes has a condition attached to it",
+   "phase": 2,
+   "path": "scenarios/sc108.json"
   },
   {
    "id": "sc51",
@@ -198,6 +177,20 @@
    "path": "scenarios/sc52.json"
   },
   {
+   "id": "sc50",
+   "title": "La Gritería",
+   "desc": "December 7, and the shouting arrives at your door",
+   "phase": 2,
+   "path": "scenarios/sc50.json"
+  },
+  {
+   "id": "sc109",
+   "title": "Yo invito",
+   "desc": "Reaching for your share and getting it badly wrong",
+   "phase": 2,
+   "path": "scenarios/sc109.json"
+  },
+  {
    "id": "sc53",
    "title": "No seás malo",
    "desc": "The first time you are teased, and the first time you answer",
@@ -205,39 +198,18 @@
    "path": "scenarios/sc53.json"
   },
   {
-   "id": "sc16",
-   "title": "Making a complaint",
-   "desc": "Return a broken product",
-   "phase": 3,
-   "path": "scenarios/sc16.json"
+   "id": "sc110",
+   "title": "Extraño mi casa",
+   "desc": "Admitting it out loud, and getting an answer you did not expect",
+   "phase": 2,
+   "path": "scenarios/sc110.json"
   },
   {
-   "id": "sc17",
-   "title": "At the bank",
-   "desc": "Open an account",
+   "id": "sc112",
+   "title": "El alquiler",
+   "desc": "A house, a price, and a handshake instead of a contract",
    "phase": 3,
-   "path": "scenarios/sc17.json"
-  },
-  {
-   "id": "sc18",
-   "title": "Clearing the air",
-   "desc": "Resolve a misunderstanding with a friend",
-   "phase": 3,
-   "path": "scenarios/sc18.json"
-  },
-  {
-   "id": "sc19",
-   "title": "Asking a big favor",
-   "desc": "Borrow something important",
-   "phase": 3,
-   "path": "scenarios/sc19.json"
-  },
-  {
-   "id": "sc20",
-   "title": "The job interview",
-   "desc": "Present yourself with confidence",
-   "phase": 3,
-   "path": "scenarios/sc20.json"
+   "path": "scenarios/sc112.json"
   },
   {
    "id": "sc54",
@@ -254,6 +226,13 @@
    "path": "scenarios/sc55.json"
   },
   {
+   "id": "sc111",
+   "title": "Acordamos ochenta",
+   "desc": "The price doubles at the end of the journey",
+   "phase": 3,
+   "path": "scenarios/sc111.json"
+  },
+  {
    "id": "sc56",
    "title": "Me prestás",
    "desc": "Somebody asks you for money",
@@ -266,6 +245,20 @@
    "desc": "Something is broken and you cannot name it",
    "phase": 3,
    "path": "scenarios/sc57.json"
+  },
+  {
+   "id": "sc113",
+   "title": "No lo perdiste",
+   "desc": "A phone gone, and a grammar that puts the blame nowhere",
+   "phase": 3,
+   "path": "scenarios/sc113.json"
+  },
+  {
+   "id": "sc114",
+   "title": "Arrecho",
+   "desc": "One word, two opposite meanings, and only the tone to go on",
+   "phase": 3,
+   "path": "scenarios/sc114.json"
   },
   {
    "id": "sc58",
@@ -282,39 +275,11 @@
    "path": "scenarios/sc59.json"
   },
   {
-   "id": "sc21",
-   "title": "Meeting someone special",
-   "desc": "Show genuine interest",
-   "phase": 4,
-   "path": "scenarios/sc21.json"
-  },
-  {
-   "id": "sc22",
-   "title": "Saying how you feel",
-   "desc": "Express affection to your partner",
-   "phase": 4,
-   "path": "scenarios/sc22.json"
-  },
-  {
-   "id": "sc23",
-   "title": "Meeting the family",
-   "desc": "Make a good impression",
-   "phase": 4,
-   "path": "scenarios/sc23.json"
-  },
-  {
-   "id": "sc24",
-   "title": "A vulnerable moment",
-   "desc": "Open up about something hard",
-   "phase": 4,
-   "path": "scenarios/sc24.json"
-  },
-  {
-   "id": "sc25",
-   "title": "Making up after a fight",
-   "desc": "Repair things with someone you love",
-   "phase": 4,
-   "path": "scenarios/sc25.json"
+   "id": "sc115",
+   "title": "Con las manos vacías",
+   "desc": "A year of doing something wrong, and the day somebody finally says so",
+   "phase": 3,
+   "path": "scenarios/sc115.json"
   },
   {
    "id": "sc60",
@@ -322,6 +287,20 @@
    "desc": "Reading a signal you are not sure is one",
    "phase": 4,
    "path": "scenarios/sc60.json"
+  },
+  {
+   "id": "sc116",
+   "title": "Te quiero",
+   "desc": "Two words for one thing, and the bigger one said first",
+   "phase": 4,
+   "path": "scenarios/sc116.json"
+  },
+  {
+   "id": "sc117",
+   "title": "Gordo",
+   "desc": "Affection that arrives sounding like an insult",
+   "phase": 4,
+   "path": "scenarios/sc117.json"
   },
   {
    "id": "sc61",
@@ -373,6 +352,48 @@
    "path": "scenarios/sc67.json"
   },
   {
+   "id": "sc119",
+   "title": "La serenata",
+   "desc": "Midnight on the twenty-ninth of May, three musicians, and a woman pretending to be surprised",
+   "phase": 4,
+   "path": "scenarios/sc119.json"
+  },
+  {
+   "id": "sc118",
+   "title": "La casa poco a poco",
+   "desc": "A Sunday, a bag of cement, and nobody charging anybody",
+   "phase": 4,
+   "path": "scenarios/sc118.json"
+  },
+  {
+   "id": "sc71",
+   "title": "El bautizo",
+   "desc": "Being asked to be a godparent",
+   "phase": 4,
+   "path": "scenarios/sc71.json"
+  },
+  {
+   "id": "sc73",
+   "title": "Le tocaba a alguien",
+   "desc": "The suegra asks you, and not her own sons",
+   "phase": 4,
+   "path": "scenarios/sc73.json"
+  },
+  {
+   "id": "sc120",
+   "title": "¿Cómo sigue?",
+   "desc": "Nobody in the house will say the word out loud",
+   "phase": 4,
+   "path": "scenarios/sc120.json"
+  },
+  {
+   "id": "sc70",
+   "title": "Se puso malo",
+   "desc": "A hospital corridor at eleven at night",
+   "phase": 4,
+   "path": "scenarios/sc70.json"
+  },
+  {
    "id": "sc68",
    "title": "El novenario",
    "desc": "Nine nights in somebody else’s house",
@@ -387,20 +408,6 @@
    "path": "scenarios/sc69.json"
   },
   {
-   "id": "sc70",
-   "title": "Se puso malo",
-   "desc": "A hospital corridor at eleven at night",
-   "phase": 4,
-   "path": "scenarios/sc70.json"
-  },
-  {
-   "id": "sc71",
-   "title": "El bautizo",
-   "desc": "Being asked to be a godparent",
-   "phase": 4,
-   "path": "scenarios/sc71.json"
-  },
-  {
    "id": "sc72",
    "title": "Te lo agradezco",
    "desc": "Thanking somebody so that it counts",
@@ -408,53 +415,18 @@
    "path": "scenarios/sc72.json"
   },
   {
-   "id": "sc73",
-   "title": "Le tocaba a alguien",
-   "desc": "The suegra asks you, and not her own sons",
-   "phase": 4,
-   "path": "scenarios/sc73.json"
-  },
-  {
-   "id": "sc26",
-   "title": "Talking like a local",
-   "desc": "Keep up with casual slang",
-   "phase": 5,
-   "path": "scenarios/sc26.json"
-  },
-  {
-   "id": "sc27",
-   "title": "Getting teased",
-   "desc": "Give as good as you get",
-   "phase": 5,
-   "path": "scenarios/sc27.json"
-  },
-  {
-   "id": "sc28",
-   "title": "Reading between the lines",
-   "desc": "Catch what isn't said",
-   "phase": 5,
-   "path": "scenarios/sc28.json"
-  },
-  {
-   "id": "sc29",
-   "title": "At the juntada",
-   "desc": "Hang out, slang and all",
-   "phase": 5,
-   "path": "scenarios/sc29.json"
-  },
-  {
-   "id": "sc30",
-   "title": "You sound like a local",
-   "desc": "Receive the ultimate compliment",
-   "phase": 5,
-   "path": "scenarios/sc30.json"
-  },
-  {
    "id": "sc74",
    "title": "Qué tuani",
    "desc": "A word you learned from a teenager, said to a grandmother",
    "phase": 5,
    "path": "scenarios/sc74.json"
+  },
+  {
+   "id": "sc121",
+   "title": "Semana Santa",
+   "desc": "Six days when the whole country stops and nobody warned you",
+   "phase": 5,
+   "path": "scenarios/sc121.json"
   },
   {
    "id": "sc75",
@@ -492,11 +464,32 @@
    "path": "scenarios/sc79.json"
   },
   {
+   "id": "sc122",
+   "title": "La masa del sábado",
+   "desc": "Saturday night, fifty nacatamales, and an arm that stops working",
+   "phase": 5,
+   "path": "scenarios/sc122.json"
+  },
+  {
+   "id": "sc123",
+   "title": "A las doce en punto",
+   "desc": "Arriving on time, and being put to work for two hours",
+   "phase": 5,
+   "path": "scenarios/sc123.json"
+  },
+  {
    "id": "sc80",
    "title": "Una birra",
    "desc": "One beer, and the door that opens after eleven",
    "phase": 5,
    "path": "scenarios/sc80.json"
+  },
+  {
+   "id": "sc125",
+   "title": "Se me pasó la mano",
+   "desc": "One step past funny, in a patio that has gone quiet",
+   "phase": 5,
+   "path": "scenarios/sc125.json"
   },
   {
    "id": "sc81",
@@ -506,46 +499,18 @@
    "path": "scenarios/sc81.json"
   },
   {
+   "id": "sc124",
+   "title": "No me hallo",
+   "desc": "A word for something you have been feeling for a year",
+   "phase": 5,
+   "path": "scenarios/sc124.json"
+  },
+  {
    "id": "sc82",
    "title": "Andate ya",
    "desc": "Leaving a house, which takes forty minutes",
    "phase": 5,
    "path": "scenarios/sc82.json"
-  },
-  {
-   "id": "sc31",
-   "title": "A deep conversation",
-   "desc": "Discuss an abstract idea",
-   "phase": 6,
-   "path": "scenarios/sc31.json"
-  },
-  {
-   "id": "sc32",
-   "title": "The hypothetical game",
-   "desc": "Play with 'what if'",
-   "phase": 6,
-   "path": "scenarios/sc32.json"
-  },
-  {
-   "id": "sc33",
-   "title": "Holding a debate",
-   "desc": "Argue a point with structure",
-   "phase": 6,
-   "path": "scenarios/sc33.json"
-  },
-  {
-   "id": "sc34",
-   "title": "Catching the irony",
-   "desc": "Read tone and respond in kind",
-   "phase": 6,
-   "path": "scenarios/sc34.json"
-  },
-  {
-   "id": "sc35",
-   "title": "Speaking for a cause",
-   "desc": "Persuade a group with conviction",
-   "phase": 6,
-   "path": "scenarios/sc35.json"
   },
   {
    "id": "sc83",
@@ -576,11 +541,46 @@
    "path": "scenarios/sc86.json"
   },
   {
+   "id": "sc127",
+   "title": "Del norte",
+   "desc": "A country you thought had one accent",
+   "phase": 6,
+   "path": "scenarios/sc127.json"
+  },
+  {
+   "id": "sc128",
+   "title": "Los dos apellidos",
+   "desc": "A window, a form, and a surname you have not got",
+   "phase": 6,
+   "path": "scenarios/sc128.json"
+  },
+  {
+   "id": "sc129",
+   "title": "El del billete",
+   "desc": "Four years of paying with his face and never once looking",
+   "phase": 6,
+   "path": "scenarios/sc129.json"
+  },
+  {
    "id": "sc87",
    "title": "De eso mejor no",
    "desc": "A subject that closes without anybody refusing",
    "phase": 6,
    "path": "scenarios/sc87.json"
+  },
+  {
+   "id": "sc126",
+   "title": "El setenta y nueve",
+   "desc": "An old man tells you where he was, and stops before the end",
+   "phase": 6,
+   "path": "scenarios/sc126.json"
+  },
+  {
+   "id": "sc130",
+   "title": "Uno nunca sabe",
+   "desc": "Saying I without saying I",
+   "phase": 6,
+   "path": "scenarios/sc130.json"
   },
   {
    "id": "sc88",
@@ -595,41 +595,6 @@
    "desc": "The drain is still blocked and the water is in the house",
    "phase": 6,
    "path": "scenarios/sc89.json"
-  },
-  {
-   "id": "sc36",
-   "title": "Trading proverbs",
-   "desc": "Match wits with a grandmother",
-   "phase": 7,
-   "path": "scenarios/sc36.json"
-  },
-  {
-   "id": "sc37",
-   "title": "Discussing poetry",
-   "desc": "Talk about Darío with feeling",
-   "phase": 7,
-   "path": "scenarios/sc37.json"
-  },
-  {
-   "id": "sc38",
-   "title": "A battle of wits",
-   "desc": "Keep up with rapid wordplay",
-   "phase": 7,
-   "path": "scenarios/sc38.json"
-  },
-  {
-   "id": "sc39",
-   "title": "Speaking with eloquence",
-   "desc": "Give a toast worth remembering",
-   "phase": 7,
-   "path": "scenarios/sc39.json"
-  },
-  {
-   "id": "sc40",
-   "title": "They think you're a native",
-   "desc": "The journey comes full circle",
-   "phase": 7,
-   "path": "scenarios/sc40.json"
   },
   {
    "id": "sc90",
@@ -660,6 +625,34 @@
    "path": "scenarios/sc93.json"
   },
   {
+   "id": "sc131",
+   "title": "La bulla",
+   "desc": "A speaker on the pavement at one in the morning",
+   "phase": 7,
+   "path": "scenarios/sc131.json"
+  },
+  {
+   "id": "sc134",
+   "title": "¿Y usted de dónde es?",
+   "desc": "The same question as always, answered in a different order",
+   "phase": 7,
+   "path": "scenarios/sc134.json"
+  },
+  {
+   "id": "sc132",
+   "title": "Ideay, y vos qué",
+   "desc": "Five years before anybody asks you what you actually think",
+   "phase": 7,
+   "path": "scenarios/sc132.json"
+  },
+  {
+   "id": "sc133",
+   "title": "Confianza",
+   "desc": "Explaining a word to somebody who arrived last week",
+   "phase": 7,
+   "path": "scenarios/sc133.json"
+  },
+  {
    "id": "sc94",
    "title": "Otro chele",
    "desc": "Somebody arrives with the notebook you used to have",
@@ -672,6 +665,13 @@
    "desc": "Ten minutes at a bus stop",
    "phase": 7,
    "path": "scenarios/sc95.json"
+  },
+  {
+   "id": "sc135",
+   "title": "Ya sos nica",
+   "desc": "An ordinary Saturday, and somebody says it out loud",
+   "phase": 7,
+   "path": "scenarios/sc135.json"
   }
  ],
  "lessons": [

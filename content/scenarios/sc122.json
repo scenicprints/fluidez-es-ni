@@ -1,0 +1,109 @@
+{
+ "id": "sc122",
+ "title": "La masa del sábado",
+ "desc": "Saturday night, fifty nacatamales, and an arm that stops working",
+ "setting": "It is nine at night, doña Chepa's kitchen is full of steam, and somebody has handed you a wooden spoon.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Doña Chepa",
+   "es": "Venga, mijo. Batí esa masa un rato que a mí ya se me murió el brazo.",
+   "en": "Come here, love. Beat that dough a while, my arm is dead already.",
+   "options": [
+    {
+     "es": "Deme acá, doña. ¿Hasta cuándo la bato?",
+     "en": "Give it here, doña. How long do I beat it for?",
+     "verdict": "good",
+     "feedback": "Take it and ask how you will know when it is done. The answer is by hand and by look, which is why she has to show you."
+    },
+    {
+     "es": "Yo no sé hacer eso.",
+     "en": "I do not know how to do that.",
+     "verdict": "ok",
+     "feedback": "Nobody is asking you to know. You are being asked because there are fifty of these to make before morning."
+    },
+    {
+     "es": "¿Y no hay una máquina?",
+     "en": "And is there no machine for it?",
+     "verdict": "bad",
+     "feedback": "There is, and hers is by hand, and that is the reason people buy hers. Say that in that kitchen and see how it lands."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Hasta que quede suave. Maíz molido, manteca y sal, nada más.",
+   "en": "Until it goes smooth. Ground maize, lard and salt, nothing else.",
+   "options": [
+    {
+     "es": "¿Y por qué solo los domingos, doña?",
+     "en": "And why only on Sundays, doña?",
+     "verdict": "good",
+     "feedback": "The right question while your arm is busy. A nacatamal is Sunday-morning food and nobody makes one on a Wednesday."
+    },
+    {
+     "es": "Suave. Ya voy.",
+     "en": "Smooth. I am getting there.",
+     "verdict": "ok",
+     "feedback": "You are working, which is what the kitchen needs. She is in a talking mood and you are not using it."
+    },
+    {
+     "es": "Esto lleva un montón de trabajo.",
+     "en": "This is an awful lot of work.",
+     "verdict": "bad",
+     "feedback": "The work is the entire reason it means something. Say that in that kitchen and watch her face."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Porque es comida de domingo, pues. Y porque una no puede todos los días.",
+   "en": "Because it is Sunday food. And because a woman cannot do this every day.",
+   "options": [
+    {
+     "es": "Con razón la cuadra huele igual los domingos.",
+     "en": "No wonder the whole block smells the same on Sundays.",
+     "verdict": "good",
+     "feedback": "You put two things together out loud. Three houses on this street are doing exactly this tonight and by nine tomorrow the smell is the same in all of them."
+    },
+    {
+     "es": "Se entiende, doña.",
+     "en": "That makes sense, doña.",
+     "verdict": "ok",
+     "feedback": "Fair. There was a better sentence in you about the smell of the street."
+    },
+    {
+     "es": "Podría hacerlos entre semana y vender más.",
+     "en": "You could make them midweek and sell more.",
+     "verdict": "bad",
+     "feedback": "Nobody would buy one. Advising a woman of sixty on her own business is a fast way to be handed back the spoon."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Mañana a las siete le guardo uno. Con su pedazo de cerdo.",
+   "en": "Tomorrow at seven I will keep one for you. With its piece of pork.",
+   "options": [
+    {
+     "es": "Ahí estoy a las siete, doña. Con gaseosa roja.",
+     "en": "I will be there at seven, doña. With a red fizzy drink.",
+     "verdict": "good",
+     "feedback": "Seven in the morning, and the red gaseosa beside it. You have just described a Nicaraguan Sunday exactly as it is."
+    },
+    {
+     "es": "Gracias, doña. Ahí llego.",
+     "en": "Thank you, doña. I will be there.",
+     "verdict": "ok",
+     "feedback": "Fine. Naming the hour tells her you know it will be gone by nine."
+    },
+    {
+     "es": "¿Me lo puede guardar para el mediodía?",
+     "en": "Could you keep it for me until midday?",
+     "verdict": "bad",
+     "feedback": "By midday there are none left anywhere in the barrio. That is the one rule of the nacatamal."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc105",
+ "title": "Pinolillo",
+ "desc": "Drink it and you belong to them now",
+ "setting": "Don Beto has handed you a jícara of something the colour of wet earth and is watching your face.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Don Beto",
+   "es": "Tómeselo. Eso es pinolillo, hecho de maíz y cacao.",
+   "en": "Drink it. That is pinolillo, made of maize and cacao.",
+   "options": [
+    {
+     "es": "¿De maíz? A ver. Gracias, don Beto.",
+     "en": "Made of maize? Let us see. Thank you, don Beto.",
+     "verdict": "good",
+     "feedback": "Curiosity and then the drink. He is not offering you a drink, he is offering you the country."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "Take it and drink it. The thanks matters less than the first swallow, which he is waiting for."
+    },
+    {
+     "es": "¿Y eso qué lleva?",
+     "en": "And what is in that?",
+     "verdict": "bad",
+     "feedback": "He just told you. Asking again sounds like you are looking for a reason not to."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "¿Y entonces? Diga la verdad.",
+   "en": "Well? Tell the truth.",
+   "options": [
+    {
+     "es": "Está bueno. Un poco espeso, pero está bueno.",
+     "en": "It is good. A bit thick, but it is good.",
+     "verdict": "good",
+     "feedback": "Honest and warm at once. He asked for the truth and thick is the truth, so say it and then say you like it."
+    },
+    {
+     "es": "Está rico.",
+     "en": "It is delicious.",
+     "verdict": "ok",
+     "feedback": "He will take it. He asked for the truth because he expected a face."
+    },
+    {
+     "es": "Es raro.",
+     "en": "It is strange.",
+     "verdict": "bad",
+     "feedback": "It is his childhood in a cup. Raro is not the word to reach for first."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Es que hay que batirlo bien. Si no, se va todo al fondo.",
+   "en": "The thing is you have to stir it well. If you do not, it all goes to the bottom.",
+   "options": [
+    {
+     "es": "Ah, por eso. ¿Y usted lo hace en la casa?",
+     "en": "Ah, that is why. And do you make it at home?",
+     "verdict": "good",
+     "feedback": "You took the correction and asked him about his own. That is how an old man's afternoon opens up."
+    },
+    {
+     "es": "Ya entiendo.",
+     "en": "I see.",
+     "verdict": "ok",
+     "feedback": "Correct. He had another twenty minutes on this subject and you did not ask for them."
+    },
+    {
+     "es": "En mi país no se toma esto.",
+     "en": "In my country nobody drinks this.",
+     "verdict": "bad",
+     "feedback": "True and beside the point. He is telling you how it is made here, not asking about there."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Por eso decimos que somos pinoleros. Del pinol, pues.",
+   "en": "That is why we say we are pinoleros. From pinol, you see.",
+   "options": [
+    {
+     "es": "Entonces ya soy medio pinolero.",
+     "en": "So I am half a pinolero now.",
+     "verdict": "good",
+     "feedback": "The joke he was waiting for. Pinolero is what Nicaraguans call themselves, and claiming a bit of it is allowed once you have drunk it."
+    },
+    {
+     "es": "Ah, qué bueno.",
+     "en": "Ah, how nice.",
+     "verdict": "ok",
+     "feedback": "Polite and a little cold for a man who has just explained where his name for himself comes from."
+    },
+    {
+     "es": "¿Y eso qué significa?",
+     "en": "And what does that mean?",
+     "verdict": "bad",
+     "feedback": "He said it in the same sentence: del pinol. Listening to the end is half of this."
+    }
+   ]
+  }
+ ]
+}

@@ -7,8 +7,8 @@
  "steps": [
   {
    "speaker": "Conductor",
-   "es": "¿Para dónde, jefe?",
-   "en": "Where to, boss?",
+   "es": "¿Para dónde, joven?",
+   "en": "Where to, young man?",
    "options": [
     {
      "es": "A la parada de buses. ¿Cuánto me cobra?",
@@ -48,8 +48,8 @@
      "feedback": "He expected you to try. Taking the first number marks you out."
     },
     {
-     "es": "Eso es un robo.",
-     "en": "That is robbery.",
+     "es": "Eso no se lo pago.",
+     "en": "I am not paying you that.",
      "verdict": "bad",
      "feedback": "Too hard. Haggling here is a game, not an accusation."
     }

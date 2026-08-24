@@ -36,10 +36,10 @@
    "en": "Let me look again. What is your name?",
    "options": [
     {
-     "es": "Con mucho gusto. Se lo deletreo.",
-     "en": "Gladly. I will spell it for you.",
+     "es": "Con mucho gusto. Se lo repito despacio.",
+     "en": "Gladly. I will say it again slowly.",
      "verdict": "good",
-     "feedback": "Foreign surnames get written wrong at every window in this country. Offering to spell it saves the fourth trip."
+     "feedback": "Foreign surnames get written wrong at every window in this country. Offering to repeat it slowly saves the fourth trip."
     },
     {
      "es": "Me llamo como dice ahí.",

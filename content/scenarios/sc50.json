@@ -32,14 +32,14 @@
   },
   {
    "speaker": "Niños",
-   "es": "¡Feliz día! ¿Y el brindis?",
-   "en": "Happy day! And the brindis?",
+   "es": "¡Feliz día! ¿Y las gorras?",
+   "en": "Happy day! And the gorras?",
    "options": [
     {
-     "es": "Ya voy, ya voy. Traigo caramelos y cajeta.",
-     "en": "Coming, coming. I have sweets and cajeta.",
+     "es": "Ya voy, ya voy. Traigo gofio y rosquillas.",
+     "en": "Coming, coming. I have gofio and rosquillas.",
      "verdict": "good",
-     "feedback": "Naming the brindis is half the fun, and coming straight away is the other half."
+     "feedback": "The gorras are the little gifts handed out at the door, not hats. Naming what you are bringing is half the fun."
     },
     {
      "es": "Sí, esperen un momento.",
@@ -57,8 +57,8 @@
   },
   {
    "speaker": "Niños",
-   "es": "¡Chocho, hay chischiles también!",
-   "en": "Chocho, there are rattles too!",
+   "es": "¡Ideay, hay caña también!",
+   "en": "Ideay, there is sugar cane as well!",
    "options": [
     {
      "es": "Uno para cada uno, no peleen.",
@@ -70,11 +70,11 @@
      "es": "Sí, agarren.",
      "en": "Yes, take them.",
      "verdict": "ok",
-     "feedback": "It works. Twelve children and no rule is how the rattles end up with four of them."
+     "feedback": "It works. Twelve children and no rule is how it all ends up with four of them."
     },
     {
-     "es": "Los chischiles son para después.",
-     "en": "The rattles are for later.",
+     "es": "La caña es para después.",
+     "en": "The cane is for later.",
      "verdict": "bad",
      "feedback": "There is no later. The next house is waiting for them."
     }
@@ -82,20 +82,20 @@
   },
   {
    "speaker": "Niños",
-   "es": "¡Gracias! ¡Feliz Purísima!",
-   "en": "Thank you! Happy Purísima!",
+   "es": "¡Gracias! Ya nos vamos a la otra casa.",
+   "en": "Thank you! We are off to the next house.",
    "options": [
     {
-     "es": "¡Feliz Purísima! Vayan con cuidado.",
-     "en": "Happy Purísima! Go carefully.",
+     "es": "¡Vayan con cuidado! Y feliz noche.",
+     "en": "Go carefully! And have a good night.",
      "verdict": "good",
-     "feedback": "You returned the greeting and sent them off like a neighbour, not a stranger."
+     "feedback": "Sending them off with a word is what a neighbour does, and they are running to the next gate."
     },
     {
      "es": "De nada.",
      "en": "You are welcome.",
      "verdict": "ok",
-     "feedback": "Correct Spanish, wrong night. The greeting is what comes back."
+     "feedback": "Correct Spanish, and flat for a doorway with fifteen children in it."
     },
     {
      "es": "Ya no queda más.",

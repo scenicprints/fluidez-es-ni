@@ -7,7 +7,7 @@
  "steps": [
   {
    "speaker": "Vendedor",
-   "es": "Buenas. ¿En qué le ayudo?",
+   "es": "Buenas. ¿En qué le sirvo?",
    "en": "Afternoon. How can I help you?",
    "options": [
     {
@@ -61,7 +61,7 @@
    "en": "Ah, I know which one. Half an inch or one inch?",
    "options": [
     {
-     "es": "No sé, fíjese. ¿Me puede enseñar los dos?",
+     "es": "No sé, la verdad. ¿Me puede enseñar los dos?",
      "en": "I do not know, look. Can you show me both?",
      "verdict": "good",
      "feedback": "Fíjese buys you a second and admits what you do not know. He offered - take the offer."
@@ -82,12 +82,12 @@
   },
   {
    "speaker": "Vendedor",
-   "es": "Este es el que le sirve. Lleve dos por si acaso.",
+   "es": "Este es el que le sirve. Lleve dos, mejor.",
    "en": "This is the one you want. Take two just in case.",
    "options": [
     {
-     "es": "Buena idea. Deme dos entonces.",
-     "en": "Good idea. Give me two then.",
+     "es": "Tiene razón. Deme dos entonces.",
+     "en": "You are right. Give me two then.",
      "verdict": "good",
      "feedback": "You took the advice of the man who knows, which is the whole point of the shop."
     },

@@ -315,6 +315,13 @@ Three independent update lanes, all working:
 - [x] **Scenes** — 95, weighted 0:8 1:9 2:11 3:11 4:19 5:14 6:12 7:11. Replies
       are Spanish-only. NOTE: `screens.js` speaks `step.es` aloud, so a step
       prompt must be a line somebody says; options are only tapped.
+      **Rewritten 2026-08-24:** forty of them were the old course's scenes,
+      re-tagged into the new phases and never rewritten — job titles instead of
+      the cast, the tourist arc, and 7.5% of the words on the page taught later
+      or never. `sc01`–`sc40` deleted, `sc96`–`sc135` written to replace them.
+      The section in `NEXT.md` has the three rules they were written to; the
+      important one is that **no gate checks a scene's vocabulary against the
+      phase it sits in**, so that has to be checked by hand.
 - [x] **Patterns** — 52. A trigger must be a dictionary LEMMA the course can
       teach: exposures are keyed on the resolved lemma, so a conjugated form
       can never be met. Two of the original five were dead for that reason.

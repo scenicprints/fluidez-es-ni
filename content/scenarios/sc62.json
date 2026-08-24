@@ -82,8 +82,8 @@
   },
   {
    "speaker": "Chino",
-   "es": "Ideay, respondió sin temblar.",
-   "en": "Ideay, he answered without shaking.",
+   "es": "Ideay, respondió sin miedo.",
+   "en": "Ideay, he answered with no fear at all.",
    "options": [
     {
      "es": "Ustedes preguntaron derecho, yo contesté derecho.",
@@ -98,8 +98,8 @@
      "feedback": "Fine, and it treats a verdict like a compliment."
     },
     {
-     "es": "No tenía por qué temblar.",
-     "en": "I had no reason to shake.",
+     "es": "No tenía por qué tener miedo.",
+     "en": "I had no reason to be afraid.",
      "verdict": "bad",
      "feedback": "True and hard. The moment was warm until you made it a competition."
     }

@@ -1,0 +1,109 @@
+{
+ "id": "sc132",
+ "title": "Ideay, y vos qué",
+ "desc": "Five years before anybody asks you what you actually think",
+ "setting": "You are on the corner with Marcos, he has been talking about a cousin who wants to leave, and he has turned to face you.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "Ideay, ¿y vos qué? ¿Vos qué pensás de este país?",
+   "en": "Ideay, and you? What do you think of this country?",
+   "options": [
+    {
+     "es": "¿De verdad querés que te diga?",
+     "en": "Do you really want me to tell you?",
+     "verdict": "good",
+     "feedback": "Check first, because for five years that question has meant do you like the lake. This time it does not, and he will say so."
+    },
+    {
+     "es": "Me gusta mucho, de verdad.",
+     "en": "I like it a lot, honestly.",
+     "verdict": "bad",
+     "feedback": "That is the tourist answer and he has heard you give it two hundred times. He asked a different question tonight."
+    },
+    {
+     "es": "Es una pregunta grande, maje.",
+     "en": "That is a big question, maje.",
+     "verdict": "ok",
+     "feedback": "It is, and he knows. Buying a second does no harm as long as you then answer it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Sí, hombre. De verdad. Ya llevás cinco años aquí.",
+   "en": "Yes, man. Really. You have been here five years now.",
+   "options": [
+    {
+     "es": "Que es el país más difícil que conozco y no me quiero ir.",
+     "en": "That it is the hardest country I know and I do not want to leave.",
+     "verdict": "good",
+     "feedback": "Both halves in one sentence. Anything that is only praise or only complaint tells him you are still outside it."
+    },
+    {
+     "es": "Que la gente es lo mejor que tiene.",
+     "en": "That the people are the best thing about it.",
+     "verdict": "ok",
+     "feedback": "True and it is what every visitor says. He is standing there waiting for the other half."
+    },
+    {
+     "es": "Que le falta mucho todavía.",
+     "en": "That it still has a long way to go.",
+     "verdict": "bad",
+     "feedback": "A verdict on somebody else's country delivered from the corner. Even when it is true, that sentence needs to be his, not yours."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Difícil por qué. Contame.",
+   "en": "Hard why. Tell me.",
+   "options": [
+    {
+     "es": "Por lo que le pasa a tu primo. Por eso se va.",
+     "en": "Because of what is happening to your cousin. That is why he is going.",
+     "verdict": "good",
+     "feedback": "You answered with the thing he was already talking about instead of a general opinion. That is arguing about a country from inside it."
+    },
+    {
+     "es": "Por la plata, sobre todo.",
+     "en": "Because of the money, above all.",
+     "verdict": "ok",
+     "feedback": "Right and broad. Naming his cousin would have made it a conversation instead of an assessment."
+    },
+    {
+     "es": "Por muchas cosas que mejor no digo.",
+     "en": "For a lot of reasons I had better not say.",
+     "verdict": "bad",
+     "feedback": "He asked you straight after five years of not asking. Hiding behind mejor no digo wastes the one time it was a real question."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Ideay. Y aun así te quedás.",
+   "en": "Ideay. And even so you stay.",
+   "options": [
+    {
+     "es": "Aquí está mi mujer, mi hijo y vos. ¿Para dónde me voy a ir?",
+     "en": "My wife is here, my son is here and so are you. Where would I go?",
+     "verdict": "good",
+     "feedback": "The answer is a list of people, which is the only answer that means anything on that corner."
+    },
+    {
+     "es": "Me quedo, sí.",
+     "en": "I am staying, yes.",
+     "verdict": "ok",
+     "feedback": "Enough. He gave you the whole opening and you used four words of it."
+    },
+    {
+     "es": "Por ahora, veremos después.",
+     "en": "For now, we will see later.",
+     "verdict": "bad",
+     "feedback": "Said to a man whose cousin is leaving next month, por ahora sounds like one foot already out of the door."
+    }
+   ]
+  }
+ ]
+}

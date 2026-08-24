@@ -23,8 +23,8 @@
      "feedback": "Fair question on day one, but you have one in your own yard and he can see it."
     },
     {
-     "es": "Yo tengo agua en la llave.",
-     "en": "I have water in the tap.",
+     "es": "Yo tengo agua en la casa.",
+     "en": "I have water at the house.",
      "verdict": "bad",
      "feedback": "That is the point - today you do, tomorrow you will not."
     }
@@ -57,8 +57,8 @@
   },
   {
    "speaker": "Roberto",
-   "es": "Agarrá el balde. Yo te ayudo.",
-   "en": "Grab the bucket. I will help you.",
+   "es": "Agarrá el balde. Yo te lo lleno.",
+   "en": "Grab the bucket. I will fill it for you.",
    "options": [
     {
      "es": "Dale pues. Gracias, Roberto.",
@@ -82,12 +82,12 @@
   },
   {
    "speaker": "Roberto",
-   "es": "Listo. Con esto aguantás hasta el jueves.",
+   "es": "Ya está. Con esto tenés hasta el jueves.",
    "en": "Done. This will see you through to Thursday.",
    "options": [
     {
-     "es": "Te debo una, vos.",
-     "en": "I owe you one.",
+     "es": "Ya me tocará a mí, vos.",
+     "en": "It will be my turn next.",
      "verdict": "good",
      "feedback": "Perfect. The debt is the point, and vos is exactly right with him."
     },

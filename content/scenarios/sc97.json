@@ -1,0 +1,109 @@
+{
+ "id": "sc97",
+ "title": "El gallo pinto",
+ "desc": "You are fed before anybody asks your name",
+ "setting": "You have been inside doña Carmen's house four minutes and there is already a plate on the table.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "Siéntese pues. ¿Come huevo?",
+   "en": "Sit down then. Do you eat egg?",
+   "options": [
+    {
+     "es": "Gracias, doña. Como de todo.",
+     "en": "Thank you, doña. I eat everything.",
+     "verdict": "good",
+     "feedback": "Como de todo is the answer that makes you easy to feed, and being easy to feed is most of it."
+    },
+    {
+     "es": "Sí, gracias.",
+     "en": "Yes, thank you.",
+     "verdict": "ok",
+     "feedback": "Correct and small. She was offering more than an egg."
+    },
+    {
+     "es": "No tengo hambre.",
+     "en": "I am not hungry.",
+     "verdict": "bad",
+     "feedback": "In this house that is not about food. Nobody lets a person leave without eating, and refusing is refusing her."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Aquí tiene. Gallo pinto, cuajada y tortilla.",
+   "en": "Here you are. Gallo pinto, cuajada and tortilla.",
+   "options": [
+    {
+     "es": "Qué rico. ¿Esto es la cuajada?",
+     "en": "That looks good. Is this the cuajada?",
+     "verdict": "good",
+     "feedback": "You praised the plate and asked about the one thing you did not know. Both go down well at a table like this."
+    },
+    {
+     "es": "Gracias, doña.",
+     "en": "Thank you, doña.",
+     "verdict": "ok",
+     "feedback": "Polite. A word about the food itself is worth more here than the thanks."
+    },
+    {
+     "es": "¿Y no hay pan?",
+     "en": "And is there no bread?",
+     "verdict": "bad",
+     "feedback": "Asking for something else at somebody's table reads as a complaint, whatever your tone was."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "¿Le sirvo más?",
+   "en": "Shall I serve you some more?",
+   "options": [
+    {
+     "es": "Un poco más, doña. Está muy rico.",
+     "en": "A little more, doña. It is very good.",
+     "verdict": "good",
+     "feedback": "A second plate is the compliment. Taking a little and saying why is better than taking a lot in silence."
+    },
+    {
+     "es": "No, gracias. Ya estoy lleno.",
+     "en": "No, thank you. I am full.",
+     "verdict": "ok",
+     "feedback": "Allowed, and she will ask twice more. Saying you are full is the polite version of no."
+    },
+    {
+     "es": "Ya no quiero.",
+     "en": "I do not want any more.",
+     "verdict": "bad",
+     "feedback": "Flat refusal with nothing softening it. Ya no quiero is for a child who has had enough."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "¿Y de dónde es usted?",
+   "en": "And where are you from?",
+   "options": [
+    {
+     "es": "De los Estados Unidos, doña. Pero aquí estoy muy bien.",
+     "en": "From the United States, doña. But I am very happy here.",
+     "verdict": "good",
+     "feedback": "She waited until you had eaten to ask who you are. Answering warmly is how you tell her the meal worked."
+    },
+    {
+     "es": "De los Estados Unidos.",
+     "en": "From the United States.",
+     "verdict": "ok",
+     "feedback": "Correct. It is an answer rather than a conversation, and she was starting one."
+    },
+    {
+     "es": "De muy lejos.",
+     "en": "From very far away.",
+     "verdict": "bad",
+     "feedback": "It sounds like you would rather not say. She asked because she is interested, not because she is checking."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc103",
+ "title": "El almuerzo del comedor",
+ "desc": "Midday, a counter, and no menu anywhere",
+ "setting": "It is noon, the comedor is full, and there are six pots on the counter with no names on them.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Cocinera",
+   "es": "Buenas. ¿Qué le sirvo?",
+   "en": "Afternoon. What shall I serve you?",
+   "options": [
+    {
+     "es": "Buenas. ¿Qué hay hoy?",
+     "en": "Afternoon. What is there today?",
+     "verdict": "good",
+     "feedback": "There is no menu and there never will be. What is there today is the question that gets you the list."
+    },
+    {
+     "es": "Deme el almuerzo.",
+     "en": "Give me the lunch.",
+     "verdict": "ok",
+     "feedback": "You will get a plate, and it will be whatever she decides. Some days that is the better outcome."
+    },
+    {
+     "es": "¿Tiene menú?",
+     "en": "Do you have a menu?",
+     "verdict": "bad",
+     "feedback": "The pots are the menu. Asking for paper marks you out before you have ordered."
+    }
+   ]
+  },
+  {
+   "speaker": "Cocinera",
+   "es": "Hay pollo, res y pescado. Con arroz y frijoles.",
+   "en": "There is chicken, beef and fish. With rice and beans.",
+   "options": [
+    {
+     "es": "Pollo, por favor. ¿Y me da ensalada?",
+     "en": "Chicken, please. And could you give me salad?",
+     "verdict": "good",
+     "feedback": "Pick one and add the thing you want. The salad is usually cabbage with vinegar and it comes for nothing."
+    },
+    {
+     "es": "Pollo.",
+     "en": "Chicken.",
+     "verdict": "ok",
+     "feedback": "Clear enough. She is holding the spoon over four other pots waiting for you to say more."
+    },
+    {
+     "es": "¿Cómo está el pescado?",
+     "en": "How is the fish?",
+     "verdict": "bad",
+     "feedback": "There are nine people behind you. At midday the question is what, not how."
+    }
+   ]
+  },
+  {
+   "speaker": "Cocinera",
+   "es": "¿Le pongo tajadas o plátano maduro?",
+   "en": "Shall I put plantain crisps or sweet plantain on it?",
+   "options": [
+    {
+     "es": "Maduro, por favor. Y un fresco de calala.",
+     "en": "Sweet plantain, please. And a passion fruit drink.",
+     "verdict": "good",
+     "feedback": "You answered and ordered the drink in the same breath, which is what she was going to ask next anyway."
+    },
+    {
+     "es": "Tajadas.",
+     "en": "Crisps.",
+     "verdict": "ok",
+     "feedback": "Correct. The drink is coming whether you order it or not, so you may as well choose it."
+    },
+    {
+     "es": "Los dos.",
+     "en": "Both.",
+     "verdict": "ok",
+     "feedback": "She will do it and charge you for it. It is not wrong, only more lunch than one person needs."
+    }
+   ]
+  },
+  {
+   "speaker": "Cocinera",
+   "es": "Son ochenta pesos. Siéntese, ya se lo llevo.",
+   "en": "That is eighty. Sit down, I will bring it over.",
+   "options": [
+    {
+     "es": "Gracias. ¿Le pago ahora o después?",
+     "en": "Thank you. Do I pay you now or afterwards?",
+     "verdict": "good",
+     "feedback": "It changes from place to place and asking costs nothing. In most comedores you pay when you leave."
+    },
+    {
+     "es": "Aquí tiene.",
+     "en": "Here you are.",
+     "verdict": "ok",
+     "feedback": "Paying up front is never wrong. Her hands are full and she may wave you off until later."
+    },
+    {
+     "es": "¿Ochenta? Está caro.",
+     "en": "Eighty? That is expensive.",
+     "verdict": "bad",
+     "feedback": "A comedor lunch has a fixed price and nobody haggles over it. That is for the market, not for food on a plate."
+    }
+   ]
+  }
+ ]
+}

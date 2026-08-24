@@ -1,0 +1,109 @@
+{
+ "id": "sc118",
+ "title": "La casa poco a poco",
+ "desc": "A Sunday, a bag of cement, and nobody charging anybody",
+ "setting": "It is eight in the morning on a Sunday and four men you are related to by marriage are standing on your bit of land.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Julio",
+   "es": "Ideay, cuñado. Trajimos los bloques. ¿Por dónde empezamos?",
+   "en": "Ideay, brother-in-law. We brought the blocks. Where do we start?",
+   "options": [
+    {
+     "es": "Por el primer cuarto. Con techo y puerta y ahí vivimos.",
+     "en": "With the first room. With a roof and a door and we live in that.",
+     "verdict": "good",
+     "feedback": "One room first, live in it, and the rest can take ten years. Almost every house on the street was built exactly like this."
+    },
+    {
+     "es": "Donde vos digás.",
+     "en": "Wherever you say.",
+     "verdict": "ok",
+     "feedback": "They will decide and it will be fine. It is your house, and having a plan for it is worth saying out loud."
+    },
+    {
+     "es": "Yo quería hacerla toda de una vez.",
+     "en": "I wanted to build the whole thing at once.",
+     "verdict": "bad",
+     "feedback": "Nobody has the money to build a whole house at once, and everybody has a house. Saying that out loud reads as showing off or as not understanding."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Venga, le enseño a mezclar. Arena, cemento y agua, pero no de un solo.",
+   "en": "Come here, I will show you how to mix. Sand, cement and water, but not all at once.",
+   "options": [
+    {
+     "es": "Enséñeme, don Beto. Yo nunca he hecho esto.",
+     "en": "Show me, don Beto. I have never done this.",
+     "verdict": "good",
+     "feedback": "He is seventy-two and he has come on a Sunday to teach you. Admitting you cannot do it is the whole reason he is enjoying himself."
+    },
+    {
+     "es": "Ya sé más o menos.",
+     "en": "I sort of know already.",
+     "verdict": "ok",
+     "feedback": "You do not. He will let you get it wrong once and then show you, which takes longer for everybody."
+    },
+    {
+     "es": "Mejor lo hace usted.",
+     "en": "Better if you do it.",
+     "verdict": "bad",
+     "feedback": "It is your house. Standing back while other men work on it for nothing is the one thing you cannot do today."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Aquí nadie cobra, cuñado. Pero a mediodía queremos comer.",
+   "en": "Nobody charges here, brother-in-law. But at midday we want to eat.",
+   "options": [
+    {
+     "es": "Ya está todo listo. Comida y cerveza a las doce.",
+     "en": "Already sorted. Food and beer at twelve.",
+     "verdict": "good",
+     "feedback": "That is the payment and everybody knows it. A man who feeds the people who came is a man they will come back for next Sunday."
+    },
+    {
+     "es": "Yo pago el almuerzo, claro.",
+     "en": "I will pay for lunch, of course.",
+     "verdict": "ok",
+     "feedback": "Right idea. It sounds better as food you have arranged than as money you are handing over."
+    },
+    {
+     "es": "Les puedo dar algo por el día.",
+     "en": "I can give you something for the day.",
+     "verdict": "bad",
+     "feedback": "Offering your wife's brothers a wage for coming to help turns family into labour. Chino just told you the price and it was lunch."
+    }
+   ]
+  },
+  {
+   "speaker": "Julio",
+   "es": "El otro domingo venimos otra vez. Vamos a ir levantando poco a poco.",
+   "en": "We will come again next Sunday. We will get it up bit by bit.",
+   "options": [
+    {
+     "es": "Poco a poco, pues. Aquí los espero.",
+     "en": "Bit by bit, then. I will be waiting for you.",
+     "verdict": "good",
+     "feedback": "Poco a poco is not resignation here, it is the method. Say it back and you are agreeing to the next ten Sundays."
+    },
+    {
+     "es": "Gracias, de verdad.",
+     "en": "Thank you, truly.",
+     "verdict": "ok",
+     "feedback": "Warm. Thanks are slightly beside the point for something they consider ordinary."
+    },
+    {
+     "es": "¿Y cuándo creen que se termina?",
+     "en": "And when do you think it will be finished?",
+     "verdict": "bad",
+     "feedback": "It does not finish. That is why half the roofs on this street have iron rods sticking out of them, waiting for a second floor."
+    }
+   ]
+  }
+ ]
+}

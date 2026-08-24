@@ -82,8 +82,8 @@
   },
   {
    "speaker": "Lucía",
-   "es": "Tonto no. Pero preguntame la próxima vez.",
-   "en": "Not stupid. But ask me next time.",
+   "es": "Tonto no. Pero preguntame antes.",
+   "en": "Not stupid. But ask me first.",
    "options": [
     {
      "es": "Te lo prometo. Prefiero preguntar que andar así.",
@@ -98,7 +98,7 @@
      "feedback": "Accepted. She said something worth answering properly."
     },
     {
-     "es": "Si no me das motivos, no pregunto.",
+     "es": "Si no me das razones, no pregunto.",
      "en": "If you do not give me reasons, I will not ask.",
      "verdict": "bad",
      "feedback": "That puts the condition on her. It undoes the whole conversation."

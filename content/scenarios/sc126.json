@@ -1,0 +1,109 @@
+{
+ "id": "sc126",
+ "title": "El setenta y nueve",
+ "desc": "An old man tells you where he was, and stops before the end",
+ "setting": "Everybody else has gone inside and don Beto has stayed on the acera with you and half a queque.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Don Beto",
+   "es": "Yo tenía veintisiete años en esa época.",
+   "en": "I was twenty-seven back then.",
+   "options": [
+    {
+     "es": "¿Y dónde estaba usted, don Beto?",
+     "en": "And where were you, don Beto?",
+     "verdict": "good",
+     "feedback": "He opened the door himself after four years, so walk through it slowly. Dónde estaba usted is the question people here ask about that year."
+    },
+    {
+     "es": "¿En el setenta y nueve?",
+     "en": "In seventy-nine?",
+     "verdict": "ok",
+     "feedback": "You know which year he means and so does he. Asking him to confirm it makes him say it out loud, which he was avoiding."
+    },
+    {
+     "es": "¿Usted peleó en la guerra?",
+     "en": "Did you fight in the war?",
+     "verdict": "bad",
+     "feedback": "He has not used that word and he is not going to. Putting it in his mouth is how this conversation ends early."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Aquí mismo. Trabajaba en una ferretería por el mercado oriental.",
+   "en": "Right here. I worked in a hardware shop over by the eastern market.",
+   "options": [
+    {
+     "es": "¿Y cómo se puso la ciudad esos días?",
+     "en": "And what was the city like in those days?",
+     "verdict": "good",
+     "feedback": "Esos días, la época, cuando pasó lo que pasó. Use his words back at him and he keeps talking; use yours and he stops."
+    },
+    {
+     "es": "¿Y siguió trabajando?",
+     "en": "And did you keep working?",
+     "verdict": "ok",
+     "feedback": "A small question, and he will answer it. He is telling you something bigger than his job."
+    },
+    {
+     "es": "¿Y usted de qué lado estaba?",
+     "en": "And which side were you on?",
+     "verdict": "bad",
+     "feedback": "That is the question nobody asks in this country, and certainly not of a man of seventy-two on his own doorstep."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Rara. La gente joven no se veía de día. Aparecía de noche, en otras partes.",
+   "en": "Strange. You did not see the young people by day. They turned up at night, in other places.",
+   "options": [
+    {
+     "es": "Ya.",
+     "en": "I see.",
+     "verdict": "good",
+     "feedback": "One syllable and then nothing. He is telling the whole thing without a single big word and the only right answer is to let him."
+    },
+    {
+     "es": "¿Y usted era joven también?",
+     "en": "And you were young too?",
+     "verdict": "ok",
+     "feedback": "He said twenty-seven a minute ago. He is deciding how much more to say and a question moves him along faster than he wants to go."
+    },
+    {
+     "es": "Qué jodido lo que pasó aquí.",
+     "en": "How terrible, what happened here.",
+     "verdict": "bad",
+     "feedback": "It is his country and his year. A foreigner summing it up in one sentence closes the subject for good."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Bueno. Ya está bueno de eso. ¿Le sirvo más queque?",
+   "en": "Well. That is enough of that. Shall I give you more cake?",
+   "options": [
+    {
+     "es": "Sírvame, don Beto. Y gracias por contarme.",
+     "en": "Go on then, don Beto. And thank you for telling me.",
+     "verdict": "good",
+     "feedback": "He changed the subject and you let him, and you thanked him for the part he did tell. Four years to get that far, and it ends when he says it ends."
+    },
+    {
+     "es": "Sí, gracias.",
+     "en": "Yes, thank you.",
+     "verdict": "ok",
+     "feedback": "You took the exit with him, which is right. A word about what he told you would have cost nothing."
+    },
+    {
+     "es": "¿Y qué pasó después, don Beto?",
+     "en": "And what happened next, don Beto?",
+     "verdict": "bad",
+     "feedback": "He just told you he is finished. Ya está bueno de eso is a full stop, not a pause."
+    }
+   ]
+  }
+ ]
+}

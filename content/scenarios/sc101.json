@@ -1,0 +1,109 @@
+{
+ "id": "sc101",
+ "title": "Donde fue el árbol",
+ "desc": "An address that names a tree cut down in 1998",
+ "setting": "You have an address written on a piece of paper and it mentions no street at all.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Señora",
+   "es": "¿Anda perdido, joven?",
+   "en": "Are you lost, young man?",
+   "options": [
+    {
+     "es": "Sí, señora. Busco esta dirección: de la iglesia, dos cuadras al lago.",
+     "en": "Yes, madam. I am looking for this address: from the church, two blocks towards the lake.",
+     "verdict": "good",
+     "feedback": "You read her the address as it is written. Landmark, number of blocks, direction — that is the whole system."
+    },
+    {
+     "es": "Sí, ando perdido.",
+     "en": "Yes, I am lost.",
+     "verdict": "ok",
+     "feedback": "She will help you anyway, but she needs the paper read out before she can."
+    },
+    {
+     "es": "No, gracias.",
+     "en": "No, thank you.",
+     "verdict": "bad",
+     "feedback": "You are standing on a corner turning a piece of paper around. She asked because it was obvious."
+    }
+   ]
+  },
+  {
+   "speaker": "Señora",
+   "es": "Ah, sí. Del árbol de mango, una cuadra abajo.",
+   "en": "Ah, yes. From the mango tree, one block down.",
+   "options": [
+    {
+     "es": "¿Y dónde está el árbol de mango?",
+     "en": "And where is the mango tree?",
+     "verdict": "good",
+     "feedback": "Ask, because you will not find it. Half the landmarks in Managua are things that are no longer there."
+    },
+    {
+     "es": "Está bien, gracias.",
+     "en": "All right, thank you.",
+     "verdict": "ok",
+     "feedback": "You have half an address. The half you are missing is the one that matters."
+    },
+    {
+     "es": "No veo ningún árbol.",
+     "en": "I do not see any tree.",
+     "verdict": "bad",
+     "feedback": "Correct, and it sounds like you are telling her she is wrong. She is not."
+    }
+   ]
+  },
+  {
+   "speaker": "Señora",
+   "es": "El árbol ya no está, pero ahí fue. Todos saben.",
+   "en": "The tree is not there any more, but that is where it was. Everybody knows.",
+   "options": [
+    {
+     "es": "Ya. Entonces una cuadra abajo de donde estaba el árbol.",
+     "en": "Right. So one block down from where the tree was.",
+     "verdict": "good",
+     "feedback": "You said it back in the past tense, which is exactly how Nicaraguans say these. Donde fue and donde estaba are addresses."
+    },
+    {
+     "es": "Ya entendí, gracias.",
+     "en": "I understand, thank you.",
+     "verdict": "ok",
+     "feedback": "Probably. Repeating a landmark out loud is what stops you losing it at the next corner."
+    },
+    {
+     "es": "¿Y cómo lo voy a saber yo?",
+     "en": "And how am I supposed to know that?",
+     "verdict": "bad",
+     "feedback": "Fair, and useless. Everybody in the barrio does know, and by next year you will too."
+    }
+   ]
+  },
+  {
+   "speaker": "Señora",
+   "es": "Eso. Y al lago es para el norte, ¿oyó?",
+   "en": "That is it. And towards the lake is north, all right?",
+   "options": [
+    {
+     "es": "Al lago es al norte y arriba es al este. Gracias, señora.",
+     "en": "Towards the lake is north and up is east. Thank you, madam.",
+     "verdict": "good",
+     "feedback": "Four words that replace a map: al lago, al sur, arriba, abajo. Learn them once and the whole city opens."
+    },
+    {
+     "es": "Sí, señora. Gracias.",
+     "en": "Yes, madam. Thank you.",
+     "verdict": "ok",
+     "feedback": "Polite. She was giving you the compass, and it was worth repeating."
+    },
+    {
+     "es": "¿El norte para dónde queda?",
+     "en": "Which way is north?",
+     "verdict": "bad",
+     "feedback": "She just told you: the lake. In Managua the lake is always north and you can see where it is."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc110",
+ "title": "Extraño mi casa",
+ "desc": "Admitting it out loud, and getting an answer you did not expect",
+ "setting": "It is the second evening in a row you have not gone out, and doña Carmen has noticed.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "¿Y usted por qué anda tan callado, mijo?",
+   "en": "And why are you so quiet, love?",
+   "options": [
+    {
+     "es": "Es que extraño mi casa, doña. Nada más.",
+     "en": "It is that I miss home, doña. That is all.",
+     "verdict": "good",
+     "feedback": "Say it plainly. Extrañar is the word, and this is a house where somebody is always missing somebody."
+    },
+    {
+     "es": "Estoy cansado.",
+     "en": "I am tired.",
+     "verdict": "ok",
+     "feedback": "She will let it go and she will not believe it. There is no cost here to saying the true thing."
+    },
+    {
+     "es": "No es nada.",
+     "en": "It is nothing.",
+     "verdict": "bad",
+     "feedback": "She asked because she could see it was something. Nothing closes a door that was opened for you."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Ay, mijo. Mi hijo mayor tiene ocho años de estar en Costa Rica.",
+   "en": "Oh, love. My eldest son has been in Costa Rica for eight years.",
+   "options": [
+    {
+     "es": "No sabía, doña. ¿Y lo ha podido ver?",
+     "en": "I did not know, doña. And have you been able to see him?",
+     "verdict": "good",
+     "feedback": "She did not say that to compare. She said it because almost every house on this street is missing somebody, and now you know which one hers is."
+    },
+    {
+     "es": "Qué duro, doña.",
+     "en": "That is hard, doña.",
+     "verdict": "ok",
+     "feedback": "Kind and short. A question would have let her keep talking, which is what she was doing."
+    },
+    {
+     "es": "Pero él sí puede volver.",
+     "en": "But he can come back.",
+     "verdict": "bad",
+     "feedback": "Eight years says he cannot, for reasons nobody in the room needs explained."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Una vez. Ya tiene dos hijos que no conozco.",
+   "en": "Once. He has two children now that I have never met.",
+   "options": [
+    {
+     "es": "Qué pesar, doña. De verdad.",
+     "en": "How sad, doña. Truly.",
+     "verdict": "good",
+     "feedback": "Nothing else is required. She was not looking for advice and there is none to give."
+    },
+    {
+     "es": "¿Y no puede ir usted?",
+     "en": "And can you not go?",
+     "verdict": "ok",
+     "feedback": "A fair question with an obvious answer. She will explain the money to you kindly."
+    },
+    {
+     "es": "Con el celular ya casi es igual.",
+     "en": "With the phone it is nearly the same now.",
+     "verdict": "bad",
+     "feedback": "It is not the same and she knows exactly how much it is not."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Por eso, mijo. Aquí usted tiene casa. Coma con nosotros.",
+   "en": "That is why, love. You have a home here. Eat with us.",
+   "options": [
+    {
+     "es": "Gracias, doña. Se lo digo de verdad.",
+     "en": "Thank you, doña. I mean that.",
+     "verdict": "good",
+     "feedback": "She has just told you that missing your family is the ordinary condition of the whole street, and that you belong to hers now. Take it as it was given."
+    },
+    {
+     "es": "Gracias, doña.",
+     "en": "Thank you, doña.",
+     "verdict": "ok",
+     "feedback": "Enough, and small for what was just said to you."
+    },
+    {
+     "es": "No quiero molestar.",
+     "en": "I do not want to be a bother.",
+     "verdict": "bad",
+     "feedback": "She offered you a place at her table and you argued with it. That is not modesty here, it is a refusal."
+    }
+   ]
+  }
+ ]
+}

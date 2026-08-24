@@ -1,0 +1,109 @@
+{
+ "id": "sc106",
+ "title": "Me caés bien",
+ "desc": "One verb between a friendship and a declaration",
+ "setting": "You have been trying to tell Roberto you like him for a full minute and his face has changed.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Roberto",
+   "es": "¿Cómo que yo te gusto? Ideay, maje.",
+   "en": "What do you mean you fancy me? Ideay, maje.",
+   "options": [
+    {
+     "es": "No, no. Quise decir que me caés bien.",
+     "en": "No, no. I meant that I like you.",
+     "verdict": "good",
+     "feedback": "Caer bien is liking a person. Gustar with a person is wanting them, and there is no soft version of that mistake."
+    },
+    {
+     "es": "Que sos buena gente.",
+     "en": "That you are a good sort.",
+     "verdict": "ok",
+     "feedback": "True and it changes the subject. The word you actually needed was caer."
+    },
+    {
+     "es": "Sí, me gustás.",
+     "en": "Yes, I fancy you.",
+     "verdict": "bad",
+     "feedback": "You have now said it twice. Whatever happens next, this is the story he tells for the rest of the year."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Ah, que te caigo bien. Eso es otra cosa, maje.",
+   "en": "Ah, that you like me. That is a different thing entirely, maje.",
+   "options": [
+    {
+     "es": "Otra cosa muy distinta, sí.",
+     "en": "A very different thing, yes.",
+     "verdict": "good",
+     "feedback": "Take the correction and laugh at it. Nothing fixes a mistake here faster than agreeing it was funny."
+    },
+    {
+     "es": "Perdón, todavía me equivoco.",
+     "en": "Sorry, I still get it wrong.",
+     "verdict": "ok",
+     "feedback": "Honest. There was nothing to apologise for and he had already forgiven it."
+    },
+    {
+     "es": "En inglés es igual.",
+     "en": "In English it is the same.",
+     "verdict": "bad",
+     "feedback": "It is not, and explaining your own language is a slow way out of a joke."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "¿Y quién más te cae bien de aquí?",
+   "en": "And who else around here do you like?",
+   "options": [
+    {
+     "es": "Doña Chepa me cae muy bien. Habla con todo el mundo.",
+     "en": "I like doña Chepa a lot. She talks to everybody.",
+     "verdict": "good",
+     "feedback": "You used it about somebody else straight away. The second time you say a word is when it becomes yours."
+    },
+    {
+     "es": "Todos, la verdad.",
+     "en": "Everyone, honestly.",
+     "verdict": "ok",
+     "feedback": "Safe. He was hoping for a name and something about them."
+    },
+    {
+     "es": "Me gusta doña Chepa.",
+     "en": "I fancy doña Chepa.",
+     "verdict": "bad",
+     "feedback": "Doña Chepa is sixty and this street has a very fast postal service."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Ya pues, vos también me caés bien.",
+   "en": "Right then, I like you too.",
+   "options": [
+    {
+     "es": "Qué bueno, porque no me pienso ir.",
+     "en": "Good, because I am not planning on leaving.",
+     "verdict": "good",
+     "feedback": "He said the thing he does not say often. Answering warmly without making it heavy is exactly the right size."
+    },
+    {
+     "es": "Gracias, Roberto.",
+     "en": "Thanks, Roberto.",
+     "verdict": "ok",
+     "feedback": "Fine, and slightly formal for a friend who has just spent ten minutes teasing you."
+    },
+    {
+     "es": "Ya lo sabía.",
+     "en": "I already knew that.",
+     "verdict": "bad",
+     "feedback": "You did not, and he has just said something he meant. Take it."
+    }
+   ]
+  }
+ ]
+}

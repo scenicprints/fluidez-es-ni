@@ -32,8 +32,8 @@
   },
   {
    "speaker": "Doña Carmen",
-   "es": "¿Querés un fresco?",
-   "en": "Would you like a cold drink?",
+   "es": "¿Querés agua?",
+   "en": "Would you like some water?",
    "options": [
     {
      "es": "Sí, gracias. Y disculpe, ¿dónde está el baño?",
@@ -51,14 +51,14 @@
      "es": "No quiero nada.",
      "en": "I do not want anything.",
      "verdict": "bad",
-     "feedback": "Refusing a drink outright is colder than you mean it. Take the fresco."
+     "feedback": "Refusing a drink outright is colder than you mean it. Take the water."
     }
    ]
   },
   {
    "speaker": "Doña Carmen",
-   "es": "Al fondo, a la derecha. Cuidado con el escalón.",
-   "en": "At the back, on the right. Watch the step.",
+   "es": "Detrás de la cocina. Cuidado que está oscuro.",
+   "en": "Behind the kitchen. Careful, it is dark.",
    "options": [
     {
      "es": "Gracias, doña. Ya vengo.",
@@ -82,14 +82,14 @@
   },
   {
    "speaker": "Doña Carmen",
-   "es": "Aquí te dejo el fresco en la mesa.",
-   "en": "I will leave the drink here on the table for you.",
+   "es": "Aquí te pongo el agua en la mesa.",
+   "en": "I will put the water here on the table for you.",
    "options": [
     {
-     "es": "Muy amable, doña. Se lo agradezco.",
-     "en": "That is very kind, doña. I appreciate it.",
+     "es": "Muchas gracias, doña. De verdad.",
+     "en": "Thank you very much, doña. Truly.",
      "verdict": "good",
-     "feedback": "Se lo agradezco is warm and correct with a señora you have just met."
+     "feedback": "Warm and plain, which is right with a señora you have only just met."
     },
     {
      "es": "Gracias.",

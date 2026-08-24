@@ -1,0 +1,109 @@
+{
+ "id": "sc115",
+ "title": "Con las manos vacías",
+ "desc": "A year of doing something wrong, and the day somebody finally says so",
+ "setting": "You are on your way out to Marcos's house and doña Carmen has stopped you at the gate.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "¿Y usted va así? ¿Sin llevar nada?",
+   "en": "And you are going like that? Without taking anything?",
+   "options": [
+    {
+     "es": "¿Cómo así, doña? ¿Qué tengo que llevar?",
+     "en": "How do you mean, doña? What should I take?",
+     "verdict": "good",
+     "feedback": "She has finally said it. Ask, because you are about to learn something you have been getting wrong since the day you arrived."
+    },
+    {
+     "es": "Es que es solo Marcos.",
+     "en": "It is only Marcos, though.",
+     "verdict": "ok",
+     "feedback": "It makes no difference whose house it is. She is not going to let you out of the gate on that."
+    },
+    {
+     "es": "En mi país no se lleva nada.",
+     "en": "Where I am from you do not take anything.",
+     "verdict": "bad",
+     "feedback": "She knows. That is exactly why she has waited a year to mention it, and defending the habit wastes the moment."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Algo, mijo. Aunque sea una gaseosa. Aunque sea pan.",
+   "en": "Something, love. Even a fizzy drink. Even bread.",
+   "options": [
+    {
+     "es": "Ya. Entonces paso por la pulpería primero.",
+     "en": "Right. Then I will stop at the pulpería first.",
+     "verdict": "good",
+     "feedback": "Fix it immediately and out loud. A bag of bread from the pulpería on the corner does the whole job."
+    },
+    {
+     "es": "La otra vez llevo algo.",
+     "en": "Next time I will take something.",
+     "verdict": "ok",
+     "feedback": "Next time is not today, and today you are already at the gate with your hands empty."
+    },
+    {
+     "es": "Marcos no va a decir nada.",
+     "en": "Marcos will not say anything.",
+     "verdict": "bad",
+     "feedback": "Nobody ever says anything. That is precisely how you have managed to do it for a year."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Eso.",
+   "en": "That is it.",
+   "options": [
+    {
+     "es": "¿Y por qué no me lo había dicho antes, doña?",
+     "en": "And why had you not told me before, doña?",
+     "verdict": "good",
+     "feedback": "Ask her. The answer is the real lesson, and it is not about bread."
+    },
+    {
+     "es": "Gracias, doña.",
+     "en": "Thank you, doña.",
+     "verdict": "ok",
+     "feedback": "Warm and it ends there. There was one more thing she was ready to tell you."
+    },
+    {
+     "es": "Debió decírmelo antes.",
+     "en": "You should have told me before.",
+     "verdict": "bad",
+     "feedback": "She did you a kindness. Turning it into a complaint against her is a poor way to receive it."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Porque usted era visita. A la visita no se le corrige.",
+   "en": "Because you were a guest. You do not correct a guest.",
+   "options": [
+    {
+     "es": "Entonces ya no soy visita.",
+     "en": "So I am not a guest any more.",
+     "verdict": "good",
+     "feedback": "That is what she just told you. Being corrected is the promotion, and she waited a year to give it to you."
+    },
+    {
+     "es": "Ah, ya entiendo.",
+     "en": "Ah, I see.",
+     "verdict": "ok",
+     "feedback": "You have the rule. The thing she was actually saying about you went past."
+    },
+    {
+     "es": "Yo prefiero que me corrijan siempre.",
+     "en": "I would rather always be corrected.",
+     "verdict": "bad",
+     "feedback": "That is not on offer. Correction here is a sign of where you stand, not a service you can request."
+    }
+   ]
+  }
+ ]
+}

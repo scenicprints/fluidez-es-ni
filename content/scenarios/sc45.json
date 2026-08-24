@@ -36,7 +36,7 @@
    "en": "Thirty-five. Get in at the front.",
    "options": [
     {
-     "es": "Aquí tiene. ¿Me avisa cuando lleguemos?",
+     "es": "Aquí tiene. ¿Me dice cuando lleguemos?",
      "en": "Here you go. Will you let me know when we arrive?",
      "verdict": "good",
      "feedback": "Paid, and asked the man who knows. That is exactly what an ayudante is there for."
@@ -57,7 +57,7 @@
   },
   {
    "speaker": "Ayudante",
-   "es": "Tranquilo, yo le aviso. ¿Primera vez que va?",
+   "es": "Tranquilo, yo le digo. ¿Primera vez que va?",
    "en": "Relax, I will tell you. First time going?",
    "options": [
     {
@@ -82,8 +82,8 @@
   },
   {
    "speaker": "Ayudante",
-   "es": "Ah, entonces se baja conmigo. Yo también voy allá.",
-   "en": "Ah, then you get off with me. I am going there too.",
+   "es": "Ah, entonces se baja conmigo. Yo también voy para ese lado.",
+   "en": "Ah, then you get off with me. I am going that way as well.",
    "options": [
     {
      "es": "Qué bueno. Muchas gracias, vos.",

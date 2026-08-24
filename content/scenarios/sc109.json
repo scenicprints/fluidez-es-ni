@@ -1,0 +1,109 @@
+{
+ "id": "sc109",
+ "title": "Yo invito",
+ "desc": "Reaching for your share and getting it badly wrong",
+ "setting": "There are four empty bottles on the table and you have just put your hand in your pocket.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "¿Qué hacés? Guardá esa plata, hombre.",
+   "en": "What are you doing? Put that money away, man.",
+   "options": [
+    {
+     "es": "Ideay, dejame ayudar aunque sea.",
+     "en": "Ideay, at least let me chip in.",
+     "verdict": "ok",
+     "feedback": "You are still splitting the bill. It is friendly, and it is not how a round works here."
+    },
+    {
+     "es": "Está bien. Entonces la otra la pago yo.",
+     "en": "All right. Then the next one is on me.",
+     "verdict": "good",
+     "feedback": "That is the answer. You do not divide a bill here, you take the next one, and everybody keeps count without a word."
+    },
+    {
+     "es": "No, cada quien lo suyo.",
+     "en": "No, everyone pays their own.",
+     "verdict": "bad",
+     "feedback": "Said out loud at a table of friends, that is close to an insult. It tells them tonight was a transaction."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Eso. Hoy yo invito. ¿Otra Toña?",
+   "en": "That is it. Today it is on me. Another Toña?",
+   "options": [
+    {
+     "es": "Dale pues, una más y ya.",
+     "en": "Go on then, one more and that is it.",
+     "verdict": "good",
+     "feedback": "Accept and set your own limit in the same sentence. Nobody minds when you stop, only how you stop."
+    },
+    {
+     "es": "Bueno.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "The bottle is coming. Saying how many more you want is the part that saves you at midnight."
+    },
+    {
+     "es": "No, ya no quiero nada.",
+     "en": "No, I do not want anything else.",
+     "verdict": "bad",
+     "feedback": "Cutting it off flat while he is buying reads as leaving. Una más y ya does the same job warmly."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Salud pues. Por los amigos.",
+   "en": "Cheers then. To friends.",
+   "options": [
+    {
+     "es": "¡Salud! Por los amigos y por Nicaragua.",
+     "en": "Cheers! To friends and to Nicaragua.",
+     "verdict": "good",
+     "feedback": "Answer a toast with a toast and add one thing. That is the whole form and it never fails at this table."
+    },
+    {
+     "es": "Salud.",
+     "en": "Cheers.",
+     "verdict": "ok",
+     "feedback": "Correct. A second clause costs nothing and it is what everybody else adds."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thanks.",
+     "verdict": "bad",
+     "feedback": "He raised a bottle, not a favour. Thanking a toast leaves his arm in the air."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "¿Y vos por qué querías pagar la mitad?",
+   "en": "And why did you want to pay half?",
+   "options": [
+    {
+     "es": "Porque en mi país se hace así. Ya aprendí.",
+     "en": "Because that is how it is done where I am from. I have learned now.",
+     "verdict": "good",
+     "feedback": "Name the difference, say you have got it, move on. That answer ends the subject and keeps the evening."
+    },
+    {
+     "es": "No sé, costumbre.",
+     "en": "I do not know, habit.",
+     "verdict": "ok",
+     "feedback": "True enough. He asked because he was curious about where you come from, not to tell you off."
+    },
+    {
+     "es": "Porque no me gusta deber nada.",
+     "en": "Because I do not like owing anybody anything.",
+     "verdict": "bad",
+     "feedback": "Here you are supposed to owe people. A favour that is never repaid is what a friendship is made of."
+    }
+   ]
+  }
+ ]
+}

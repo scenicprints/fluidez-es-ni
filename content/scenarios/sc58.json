@@ -42,10 +42,10 @@
      "feedback": "Fijate plus a reason that is not about him. Nobody loses anything."
     },
     {
-     "es": "Es que estoy ocupado ese día.",
-     "en": "The thing is I am busy that day.",
+     "es": "Es que ese día no puedo.",
+     "en": "The thing is I cannot that day.",
      "verdict": "ok",
-     "feedback": "The right shape. Busy with nothing named sounds like what it is."
+     "feedback": "The right shape. A no with nothing named behind it sounds like what it is."
     },
     {
      "es": "Los domingos no hago nada.",

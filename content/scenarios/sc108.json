@@ -1,0 +1,109 @@
+{
+ "id": "sc108",
+ "title": "Primero Dios",
+ "desc": "Every plan anybody makes has a condition attached to it",
+ "setting": "You are agreeing a time with doña Chepa and she keeps adding two words to the end.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Doña Chepa",
+   "es": "Mañana le traigo el queso, primero Dios.",
+   "en": "I will bring you the cheese tomorrow, God willing.",
+   "options": [
+    {
+     "es": "Primero Dios, doña. Aquí la espero.",
+     "en": "God willing, doña. I will wait for you here.",
+     "verdict": "good",
+     "feedback": "Say it back. It is not a religious statement so much as the way a plan is closed here, and leaving it out sounds abrupt."
+    },
+    {
+     "es": "Está bien, mañana.",
+     "en": "All right, tomorrow.",
+     "verdict": "ok",
+     "feedback": "Agreed and fine. You answered the plan and not the phrase."
+    },
+    {
+     "es": "¿Y si Dios no quiere?",
+     "en": "And if God does not want to?",
+     "verdict": "bad",
+     "feedback": "It is a joke you can make in year three, not in month five. Right now it lands as making fun of her."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Si Dios me da vida, le hago un quesillo también.",
+   "en": "If God grants me life, I will make you a quesillo as well.",
+   "options": [
+    {
+     "es": "Que Dios le dé mucha, doña.",
+     "en": "May He grant you plenty, doña.",
+     "verdict": "good",
+     "feedback": "You answered inside her own words. That is worth more here than any compliment you could have invented."
+    },
+    {
+     "es": "Gracias, doña.",
+     "en": "Thank you, doña.",
+     "verdict": "ok",
+     "feedback": "Warm and safe. There was an opening there and you walked past it."
+    },
+    {
+     "es": "Usted está bien de salud.",
+     "en": "You are in good health.",
+     "verdict": "bad",
+     "feedback": "She was not asking for a medical opinion. Si Dios me da vida is a formula, not a worry."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "¿Y usted va a misa el domingo?",
+   "en": "And are you going to mass on Sunday?",
+   "options": [
+    {
+     "es": "Casi no voy, doña, pero respeto mucho.",
+     "en": "I hardly go, doña, but I have a lot of respect for it.",
+     "verdict": "good",
+     "feedback": "Honest and not dismissive. Nobody needs you to believe, and everybody notices if you sneer."
+    },
+    {
+     "es": "A veces.",
+     "en": "Sometimes.",
+     "verdict": "ok",
+     "feedback": "Vague enough to end it. She was making conversation, not counting attendance."
+    },
+    {
+     "es": "No creo en eso.",
+     "en": "I do not believe in that.",
+     "verdict": "bad",
+     "feedback": "In a country this Catholic that is a sentence with a lot of weight in it, said to a woman who feeds you."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Ay, mijo. Bueno, nos vemos mañana, si Dios quiere.",
+   "en": "Oh, love. Well, see you tomorrow, God willing.",
+   "options": [
+    {
+     "es": "Si Dios quiere, doña. Que le vaya bien.",
+     "en": "God willing, doña. Take care.",
+     "verdict": "good",
+     "feedback": "Two formulas, both hers, both returned. This is what fluency actually looks like from the outside."
+    },
+    {
+     "es": "Nos vemos, doña.",
+     "en": "See you, doña.",
+     "verdict": "ok",
+     "feedback": "Perfectly normal. You have now heard the phrase four times and not used it once."
+    },
+    {
+     "es": "Entonces mañana a las tres en punto.",
+     "en": "Tomorrow at three o'clock sharp, then.",
+     "verdict": "bad",
+     "feedback": "Nailing it to a minute is exactly what her two words exist to avoid. Nothing here is agreed that firmly, and pretending otherwise only sets you up to be annoyed."
+    }
+   ]
+  }
+ ]
+}

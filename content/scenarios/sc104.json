@@ -1,0 +1,109 @@
+{
+ "id": "sc104",
+ "title": "Una recarga",
+ "desc": "Phone credit, bought across a counter, said out loud",
+ "setting": "Your phone has been showing no saldo since yesterday and the pulpería is the shop.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Doña Chepa",
+   "es": "Buenas. ¿Qué le doy?",
+   "en": "Afternoon. What can I give you?",
+   "options": [
+    {
+     "es": "Buenas, doña. ¿Hace recargas de Claro?",
+     "en": "Afternoon, doña. Do you do Claro top-ups?",
+     "verdict": "good",
+     "feedback": "Every pulpería does them and none of them advertise it. Ask by the company name and she will reach for her phone."
+    },
+    {
+     "es": "Necesito saldo.",
+     "en": "I need credit.",
+     "verdict": "ok",
+     "feedback": "She will understand. She still needs to know whether you are on Claro or Tigo."
+    },
+    {
+     "es": "¿Vende tarjetas?",
+     "en": "Do you sell cards?",
+     "verdict": "bad",
+     "feedback": "Nobody has sold a scratch card here in years. It goes from her phone to yours."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Sí. ¿De cuánto?",
+   "en": "Yes. How much for?",
+   "options": [
+    {
+     "es": "De cien, doña.",
+     "en": "A hundred, doña.",
+     "verdict": "good",
+     "feedback": "De cien, de cincuenta, de veinte. The de is how the amount is said and it will come back at you all day."
+    },
+    {
+     "es": "Cien pesos.",
+     "en": "A hundred pesos.",
+     "verdict": "ok",
+     "feedback": "Understood. De cien is what she asked for and what everybody else says."
+    },
+    {
+     "es": "El más grande.",
+     "en": "The biggest one.",
+     "verdict": "bad",
+     "feedback": "There is no biggest one. You name the number and she sends exactly that."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Deme su número.",
+   "en": "Give me your number.",
+   "options": [
+    {
+     "es": "Ocho, siete, cuatro, dos... ¿se lo repito?",
+     "en": "Eight, seven, four, two... shall I say it again?",
+     "verdict": "good",
+     "feedback": "Digit by digit and offer to repeat it. Numbers said in pairs are what everybody gets wrong in a second language."
+    },
+    {
+     "es": "Ochenta y siete, cuarenta y dos...",
+     "en": "Eighty-seven, forty-two...",
+     "verdict": "ok",
+     "feedback": "That is how a Nicaraguan says it and it is faster than she can type. Slower is safer while your ear is new."
+    },
+    {
+     "es": "Se lo escribo.",
+     "en": "I will write it down for you.",
+     "verdict": "ok",
+     "feedback": "It works, and it skips the only useful part of this errand, which is saying the numbers out loud."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Ya está. Ya le llegó, ¿verdad?",
+   "en": "Done. It has arrived, has it not?",
+   "options": [
+    {
+     "es": "Ya me llegó. Gracias, doña.",
+     "en": "It has arrived. Thank you, doña.",
+     "verdict": "good",
+     "feedback": "Check before you walk off and say so. She wants to hear it landed as much as you do."
+    },
+    {
+     "es": "Creo que sí.",
+     "en": "I think so.",
+     "verdict": "ok",
+     "feedback": "Look at the phone. If it has not arrived she can fix it now and cannot fix it tomorrow."
+    },
+    {
+     "es": "Después reviso.",
+     "en": "I will check later.",
+     "verdict": "bad",
+     "feedback": "Later means coming back and arguing about a message neither of you can find."
+    }
+   ]
+  }
+ ]
+}

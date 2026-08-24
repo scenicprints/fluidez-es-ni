@@ -1,0 +1,109 @@
+{
+ "id": "sc100",
+ "title": "La ruta equivocada",
+ "desc": "The wrong bus, and an hour you do not get back",
+ "setting": "You are standing in the door of a moving bus and the ayudante is looking at you.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Ayudante",
+   "es": "¡Suba, suba! ¿Para dónde va?",
+   "en": "Get on, get on! Where are you going?",
+   "options": [
+    {
+     "es": "¿Esta ruta pasa por el centro?",
+     "en": "Does this route go through the centre?",
+     "verdict": "good",
+     "feedback": "Ask before your foot leaves the ground. He is shouting the route at every corner and he will tell you straight."
+    },
+    {
+     "es": "Al centro.",
+     "en": "To the centre.",
+     "verdict": "ok",
+     "feedback": "He now knows where you want to go. You still do not know whether this bus goes there."
+    },
+    {
+     "es": "Sí, sí.",
+     "en": "Yes, yes.",
+     "verdict": "bad",
+     "feedback": "You answered a question he did not ask and got on a bus nobody has checked."
+    }
+   ]
+  },
+  {
+   "speaker": "Ayudante",
+   "es": "No, esta va para el otro lado. Bájese en la esquina.",
+   "en": "No, this one goes the other way. Get off at the corner.",
+   "options": [
+    {
+     "es": "Ah, ideay. ¿Y qué bus tomo?",
+     "en": "Ah, ideay. And which bus do I take?",
+     "verdict": "good",
+     "feedback": "You took the mistake without fuss and asked the only useful question. He answers these forty times a day."
+    },
+    {
+     "es": "Está bien, me bajo.",
+     "en": "All right, I will get off.",
+     "verdict": "ok",
+     "feedback": "You are off the wrong bus, which is progress. You are also on a corner you do not know."
+    },
+    {
+     "es": "Pero yo pregunté.",
+     "en": "But I asked.",
+     "verdict": "bad",
+     "feedback": "Arguing with the ayudante costs you the corner he was going to point at."
+    }
+   ]
+  },
+  {
+   "speaker": "Ayudante",
+   "es": "La 110. En la esquina de las frutas.",
+   "en": "The 110. At the fruit corner.",
+   "options": [
+    {
+     "es": "¿En la esquina de las frutas? Ya. Gracias.",
+     "en": "At the fruit corner? Right. Thanks.",
+     "verdict": "good",
+     "feedback": "You repeated the landmark back. Managua has no street names, so the landmark is the address."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thanks.",
+     "verdict": "ok",
+     "feedback": "Polite. Say the landmark out loud once and you will still have it in two minutes."
+    },
+    {
+     "es": "¿Y la dirección?",
+     "en": "And the address?",
+     "verdict": "bad",
+     "feedback": "That was the address. The fruit lady is more use to you here than any street name."
+    }
+   ]
+  },
+  {
+   "speaker": "Ayudante",
+   "es": "Va pues. Son cinco pesos.",
+   "en": "Off you go then. That is five pesos.",
+   "options": [
+    {
+     "es": "Aquí tiene. Gracias, joven.",
+     "en": "Here you are. Thanks, mate.",
+     "verdict": "good",
+     "feedback": "You pay on the way out, not on the way in, and joven is what you call a man his age."
+    },
+    {
+     "es": "Ya le pagué.",
+     "en": "I already paid you.",
+     "verdict": "bad",
+     "feedback": "You did not. On these buses the money changes hands when you get off."
+    },
+    {
+     "es": "Tome.",
+     "en": "Here.",
+     "verdict": "ok",
+     "feedback": "It works. One word more and it would have sounded like you had done it before."
+    }
+   ]
+  }
+ ]
+}

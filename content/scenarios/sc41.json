@@ -7,8 +7,8 @@
  "steps": [
   {
    "speaker": "Doña Chepa",
-   "es": "Ideay, se fue la luz otra vez. ¿Qué andás buscando?",
-   "en": "Ideay, the power has gone again. What are you after?",
+   "es": "Ideay, se fue la luz otra vez. ¿Y usted qué necesita?",
+   "en": "Ideay, the power has gone again. And what do you need?",
    "options": [
     {
      "es": "Buenas, doña. ¿Vende candelas?",
@@ -82,8 +82,8 @@
   },
   {
    "speaker": "Doña Chepa",
-   "es": "Dicen que como a las once. Cuidado con el fuego, mijo.",
-   "en": "They say about eleven. Careful with the fire, son.",
+   "es": "Dicen que como a las diez. Cuidado con la vela, mijo.",
+   "en": "They say about ten. Careful with the candle, son.",
    "options": [
     {
      "es": "Va pues, doña. Que pase buena noche.",
@@ -98,8 +98,8 @@
      "feedback": "Adiós sounds like forever here. Save it for somebody leaving the country."
     },
     {
-     "es": "No hay problema, yo sé de fuego.",
-     "en": "No problem, I know about fire.",
+     "es": "No hay problema, yo sé cuidarme.",
+     "en": "No problem, I can look after myself.",
      "verdict": "bad",
      "feedback": "She was looking after you. Brushing it off is not the way to take it."
     }

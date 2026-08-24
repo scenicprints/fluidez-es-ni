@@ -1,0 +1,109 @@
+{
+ "id": "sc125",
+ "title": "Se me pasó la mano",
+ "desc": "One step past funny, in a patio that has gone quiet",
+ "setting": "You said something about Chino's new job and the six men in the patio have all stopped talking at once.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "Ideay, maje...",
+   "en": "Ideay, maje...",
+   "options": [
+    {
+     "es": "Se me pasó la mano. Perdoname, Chino.",
+     "en": "I went too far. Forgive me, Chino.",
+     "verdict": "good",
+     "feedback": "Say it in the same ten seconds, to the man himself, by name. Se me pasó la mano is the exact phrase for having gone one step past the line."
+    },
+    {
+     "es": "Era broma, hombre.",
+     "en": "It was a joke, man.",
+     "verdict": "ok",
+     "feedback": "Everybody knows it was a joke. That is not what went wrong and saying it does not fix it."
+    },
+    {
+     "es": "¿Qué? ¿Dije algo?",
+     "en": "What? Did I say something?",
+     "verdict": "bad",
+     "feedback": "You did, everyone heard it, and pretending not to notice leaves it lying in the middle of the patio all afternoon."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "No, tranquilo. Si es verdad que del otro me botaron.",
+   "en": "No, it is fine. It is true they did sack me from the other one.",
+   "options": [
+    {
+     "es": "Igual estuvo de más. No debí decirlo.",
+     "en": "It was still out of order. I should not have said it.",
+     "verdict": "good",
+     "feedback": "He let you off and you did not take it. Refusing the easy exit once is what makes the apology count."
+    },
+    {
+     "es": "Bueno, ya pasó.",
+     "en": "All right, it is done.",
+     "verdict": "ok",
+     "feedback": "You took the exit he offered. It closes the afternoon and it does not close the thing itself."
+    },
+    {
+     "es": "Ves, entonces no fue tan grave.",
+     "en": "See, so it was not that bad.",
+     "verdict": "bad",
+     "feedback": "He was being generous. Using his generosity as proof that you were right is worse than the joke was."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "El vacilón es del trabajo viejo, no del nuevo. Del nuevo no se toca.",
+   "en": "The teasing is about the old job, not the new one. You do not touch the new one.",
+   "options": [
+    {
+     "es": "Ya entendí. Lo que le duele hoy no se toca.",
+     "en": "I understand. What still hurts today is off limits.",
+     "verdict": "good",
+     "feedback": "That is the line and nobody was ever going to explain it to you in advance. Everything is fair game except the thing that is still open."
+    },
+    {
+     "es": "Es difícil saber hasta dónde se puede.",
+     "en": "It is hard to know where the line is.",
+     "verdict": "ok",
+     "feedback": "It is, and you have just been told where it is for this table. That is as close to a rule as you will get."
+    },
+    {
+     "es": "Aquí se dicen cosas peores.",
+     "en": "You lot say worse things to each other.",
+     "verdict": "bad",
+     "feedback": "They do, and they have twenty years of knowing what each other can take. You have four."
+    }
+   ]
+  },
+  {
+   "speaker": "Chino",
+   "es": "Ya, ya. Andá a traerme una birra y quedamos a mano.",
+   "en": "All right, all right. Go and get me a beer and we are even.",
+   "options": [
+    {
+     "es": "Dos te traigo. Y la otra me toca a mí aguantar.",
+     "en": "I will bring you two. And next time it is my turn to take it.",
+     "verdict": "good",
+     "feedback": "The beer is the repair and offering yourself as the next target is the receipt. That is how it is finished here, not with a long conversation."
+    },
+    {
+     "es": "Ya te la traigo.",
+     "en": "I will bring it right now.",
+     "verdict": "ok",
+     "feedback": "Good enough. He has ended it and you are doing what he asked."
+    },
+    {
+     "es": "Traigo la birra, pero de verdad me quedé mal.",
+     "en": "I will bring the beer, but I really do feel bad.",
+     "verdict": "ok",
+     "feedback": "You already apologised twice. A third one asks him to keep forgiving you when he has said it is over."
+    }
+   ]
+  }
+ ]
+}

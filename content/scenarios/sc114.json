@@ -1,0 +1,109 @@
+{
+ "id": "sc114",
+ "title": "Arrecho",
+ "desc": "One word, two opposite meanings, and only the tone to go on",
+ "setting": "Marcos said the word twice in five minutes and meant something different each time.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "Ese carro está arrecho, maje.",
+   "en": "That car is brilliant, maje.",
+   "options": [
+    {
+     "es": "¿Arrecho bueno o arrecho enojado?",
+     "en": "Arrecho good or arrecho angry?",
+     "verdict": "good",
+     "feedback": "Ask straight out. Everybody has to have this explained once, and the answer is that the tone decides."
+    },
+    {
+     "es": "Sí, está bonito.",
+     "en": "Yes, it is nice.",
+     "verdict": "ok",
+     "feedback": "You guessed right from his face. Guessing works until the day it does not."
+    },
+    {
+     "es": "¿Y por qué está enojado el carro?",
+     "en": "And why is the car angry?",
+     "verdict": "bad",
+     "feedback": "A joke that only works if you already know the word. Right now it just looks like you have lost the thread."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "No, hombre. Ahí quiere decir que está bueno. Depende del tono.",
+   "en": "No, man. There it means it is great. It depends on the tone.",
+   "options": [
+    {
+     "es": "Siempre depende del tono en este país.",
+     "en": "It always depends on the tone in this country.",
+     "verdict": "good",
+     "feedback": "You have noticed the pattern behind the word, which is the actual lesson. Half of Nicaraguan Spanish is carried by how it is said."
+    },
+    {
+     "es": "Ah, ya.",
+     "en": "Ah, right.",
+     "verdict": "ok",
+     "feedback": "Understood. He gave you a rule that covers dozens of other words and you took it as one fact."
+    },
+    {
+     "es": "Eso es muy difícil.",
+     "en": "That is very hard.",
+     "verdict": "bad",
+     "feedback": "It is, and saying so ends the explanation early. He was about to give you the other half."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Pero si yo te digo estoy arrecho con vos, ahí sí cuidado.",
+   "en": "But if I say to you I am arrecho with you, then watch out.",
+   "options": [
+    {
+     "es": "Entonces con alguien es enojo. Sin nadie es bueno.",
+     "en": "So with somebody it is anger. With nobody it is good.",
+     "verdict": "good",
+     "feedback": "You worked out the rule from two examples and said it back. Estar arrecho con alguien is the version nobody says lightly."
+    },
+    {
+     "es": "Entiendo, con vos es peor.",
+     "en": "I see, with you it is worse.",
+     "verdict": "ok",
+     "feedback": "Half of it. The half you have is the half that will get you in trouble."
+    },
+    {
+     "es": "Yo nunca me arrecho.",
+     "en": "I never get angry.",
+     "verdict": "bad",
+     "feedback": "Everybody does, and saying you do not is the kind of claim that gets tested at a table like this."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Ya la sabés, pues. Usala, pero con cuidado.",
+   "en": "You have got it now. Use it, but carefully.",
+   "options": [
+    {
+     "es": "Va pues. Ese carro sí está arrecho.",
+     "en": "Right then. That car really is arrecho.",
+     "verdict": "good",
+     "feedback": "Straight into the good meaning, on something harmless. That is exactly how you try out a word with two edges."
+    },
+    {
+     "es": "La voy a usar.",
+     "en": "I will use it.",
+     "verdict": "ok",
+     "feedback": "Say one now, while he is here to tell you if the tone was wrong."
+    },
+    {
+     "es": "Mejor no la uso.",
+     "en": "Better if I do not use it.",
+     "verdict": "bad",
+     "feedback": "It is one of the most Nicaraguan words there is. Leaving it on the shelf keeps you sounding foreign."
+    }
+   ]
+  }
+ ]
+}

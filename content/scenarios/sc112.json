@@ -1,0 +1,109 @@
+{
+ "id": "sc112",
+ "title": "El alquiler",
+ "desc": "A house, a price, and a handshake instead of a contract",
+ "setting": "You are standing in the patio of a small house three blocks away, and don Beto has come with you.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Dueño",
+   "es": "Cuatro mil al mes, sin el agua.",
+   "en": "Four thousand a month, not counting the water.",
+   "options": [
+    {
+     "es": "¿Y la luz? ¿Esa también la pago yo?",
+     "en": "And the electricity? Do I pay that too?",
+     "verdict": "good",
+     "feedback": "Ask about every service one by one before you agree a number. What is and is not included decides what four thousand actually costs you."
+    },
+    {
+     "es": "Cuatro mil está bien.",
+     "en": "Four thousand is fine.",
+     "verdict": "ok",
+     "feedback": "You have agreed to a number you do not yet understand. Don Beto is looking at the roof and saying nothing."
+    },
+    {
+     "es": "Es mucho para esta casa.",
+     "en": "That is a lot for this house.",
+     "verdict": "bad",
+     "feedback": "That is don Beto's line to say, not yours. He came precisely so that the foreigner would not have to."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Está caro para este barrio, don. Tres mil quinientos.",
+   "en": "That is dear for this neighbourhood, don. Three thousand five hundred.",
+   "options": [
+    {
+     "es": "Yo confío en lo que diga don Beto.",
+     "en": "I trust whatever don Beto says.",
+     "verdict": "good",
+     "feedback": "Let him do it. He knows the barrio prices, the landlord knows he knows, and neither of them wants you in the middle of it."
+    },
+    {
+     "es": "Tres mil quinientos me parece justo.",
+     "en": "Three thousand five hundred seems fair to me.",
+     "verdict": "ok",
+     "feedback": "You backed him up, which is harmless. The strongest thing you can do here is stay quiet."
+    },
+    {
+     "es": "Yo puedo pagar los cuatro mil.",
+     "en": "I can pay the four thousand.",
+     "verdict": "bad",
+     "feedback": "You have just undone the man who came here for you, in front of him. That will be remembered longer than the money."
+    }
+   ]
+  },
+  {
+   "speaker": "Dueño",
+   "es": "Tres mil ochocientos y hay trato. Un mes de depósito.",
+   "en": "Three thousand eight hundred and we have a deal. One month deposit.",
+   "options": [
+    {
+     "es": "¿El depósito me lo devuelve al final?",
+     "en": "Do I get the deposit back at the end?",
+     "verdict": "good",
+     "feedback": "Ask it now, out loud, with a witness standing next to you. That is what a witness is for when there is no paper."
+    },
+    {
+     "es": "Dale pues, tres mil ochocientos.",
+     "en": "Right then, three thousand eight hundred.",
+     "verdict": "ok",
+     "feedback": "Agreed. The deposit is a month of your money and you did not ask a single question about it."
+    },
+    {
+     "es": "¿Y el contrato?",
+     "en": "And the contract?",
+     "verdict": "ok",
+     "feedback": "You can ask, and often there is none. Around here the handshake and the neighbour standing beside you do that job."
+    }
+   ]
+  },
+  {
+   "speaker": "Dueño",
+   "es": "Se lo devuelvo si deja la casa como está. ¿Estamos?",
+   "en": "You get it back if you leave the house as it is. Are we agreed?",
+   "options": [
+    {
+     "es": "Estamos. Gracias, don.",
+     "en": "We are. Thank you, don.",
+     "verdict": "good",
+     "feedback": "Estamos closes it, and you shake his hand on it. That handshake is the contract and everyone in the patio treats it as one."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "Agreed, and flat. Estamos is the word that answers the question he actually asked."
+    },
+    {
+     "es": "Lo pensamos y le aviso.",
+     "en": "We will think about it and I will let you know.",
+     "verdict": "bad",
+     "feedback": "Don Beto has just spent his own standing getting you a price. Walking away now spends it for nothing."
+    }
+   ]
+  }
+ ]
+}

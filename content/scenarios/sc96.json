@@ -1,0 +1,109 @@
+{
+ "id": "sc96",
+ "title": "Buenas",
+ "desc": "Four people between you and the pulpería, and none of them can be passed in silence",
+ "setting": "It is seven in the morning and you have to walk the length of your own street.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Don Beto",
+   "es": "Buenas, joven. ¿Cómo está?",
+   "en": "Morning, young man. How are you?",
+   "options": [
+    {
+     "es": "Buenas, don Beto. Bien, gracias. ¿Y usted?",
+     "en": "Morning, don Beto. Fine, thanks. And you?",
+     "verdict": "good",
+     "feedback": "His name, the don, and the question back. To a man of seventy the usted is not optional."
+    },
+    {
+     "es": "Buenas.",
+     "en": "Morning.",
+     "verdict": "ok",
+     "feedback": "You greeted him, which is the main thing. It is short for a neighbour who has known you a month."
+    },
+    {
+     "es": "Hola, ¿cómo estás?",
+     "en": "Hi, how are you?",
+     "verdict": "bad",
+     "feedback": "Vos to a man that age. He will answer you anyway and he will file it away."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "¡Ideay, vecino! ¿Ya comió?",
+   "en": "Ideay, neighbour! Have you eaten?",
+   "options": [
+    {
+     "es": "Todavía no, doña. Voy saliendo.",
+     "en": "Not yet, doña. I am just heading out.",
+     "verdict": "good",
+     "feedback": "She is not really asking about breakfast. Answering the question and saying where you are going is the whole exchange."
+    },
+    {
+     "es": "Sí, ya comí.",
+     "en": "Yes, I have eaten.",
+     "verdict": "ok",
+     "feedback": "Perfectly fine. It closes the conversation a little faster than she wanted."
+    },
+    {
+     "es": "¿Por qué?",
+     "en": "Why?",
+     "verdict": "bad",
+     "feedback": "Nobody is checking up on you. Have you eaten is a greeting here, not an enquiry."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "¿Qué pasó? ¿Para dónde va?",
+   "en": "What is up? Where are you off to?",
+   "options": [
+    {
+     "es": "A la pulpería. ¿Y vos?",
+     "en": "To the pulpería. And you?",
+     "verdict": "good",
+     "feedback": "Vos back to a chavalo of twelve is exactly right, and the question back is what turns a greeting into a conversation."
+    },
+    {
+     "es": "Voy a la pulpería.",
+     "en": "I am going to the pulpería.",
+     "verdict": "ok",
+     "feedback": "True, and a bit flat. He asked partly so you would ask him."
+    },
+    {
+     "es": "A la pulpería, señor.",
+     "en": "To the pulpería, sir.",
+     "verdict": "bad",
+     "feedback": "He is twelve. Señor will make him laugh at you for a week."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "¡Adiós!",
+   "en": "Hello there!",
+   "options": [
+    {
+     "es": "¡Adiós, doña Carmen!",
+     "en": "Hello there, doña Carmen!",
+     "verdict": "good",
+     "feedback": "Adiós shouted across a street is a greeting, not a goodbye. It is what you say to somebody you are not going to stop for."
+    },
+    {
+     "es": "¡Buenas, doña!",
+     "en": "Morning, doña!",
+     "verdict": "ok",
+     "feedback": "Understood everywhere and never wrong. Adiós would have matched her exactly."
+    },
+    {
+     "es": "Adiós. Ya me voy.",
+     "en": "Goodbye. I am leaving now.",
+     "verdict": "bad",
+     "feedback": "You heard it as a farewell and explained yourself. She was only saying hello from her door."
+    }
+   ]
+  }
+ ]
+}

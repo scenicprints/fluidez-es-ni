@@ -1,0 +1,109 @@
+{
+ "id": "sc113",
+ "title": "No lo perdiste",
+ "desc": "A phone gone, and a grammar that puts the blame nowhere",
+ "setting": "You got off the bus with an empty pocket and you are telling Marcos about it badly.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "¿Qué pasó, hombre? Traés una cara.",
+   "en": "What happened, man? Look at your face.",
+   "options": [
+    {
+     "es": "Me robaron el celular en el bus.",
+     "en": "They stole my phone on the bus.",
+     "verdict": "good",
+     "feedback": "Me robaron, with no subject at all. Spanish tells this whole story without ever naming who did it."
+    },
+    {
+     "es": "Perdí mi celular.",
+     "en": "I lost my phone.",
+     "verdict": "bad",
+     "feedback": "You did not lose it. Marcos is about to correct you, and the correction is worth more than the phone."
+    },
+    {
+     "es": "Alguien agarró mi celular.",
+     "en": "Somebody took my phone.",
+     "verdict": "ok",
+     "feedback": "Understood, and constructed like English. Nobody here says it that way."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "No lo perdiste, maje. Te lo robaron. No es lo mismo.",
+   "en": "You did not lose it, maje. It was stolen from you. Not the same thing.",
+   "options": [
+    {
+     "es": "Cierto. Se me olvida esa diferencia.",
+     "en": "True. I keep forgetting that difference.",
+     "verdict": "good",
+     "feedback": "And listen to what you just said: se me olvida. The language keeps doing it to you, which is exactly the point he is making."
+    },
+    {
+     "es": "Ah, tenés razón.",
+     "en": "Ah, you are right.",
+     "verdict": "ok",
+     "feedback": "Fine. He was opening a door onto a whole piece of grammar and you closed it politely."
+    },
+    {
+     "es": "Es igual, ya no lo tengo.",
+     "en": "It is the same, I do not have it any more.",
+     "verdict": "bad",
+     "feedback": "Not to him. Here the bad things happen to you, and the words are arranged to say so."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Aquí las cosas malas le pasan a uno. Se me cayó, se me perdió, se me olvidó.",
+   "en": "Here the bad things happen to you. It fell on me, it got lost on me, it slipped my mind.",
+   "options": [
+    {
+     "es": "Entonces se me quedó la bolsa en la casa.",
+     "en": "So my bag got left at the house on me.",
+     "verdict": "good",
+     "feedback": "You built one yourself out of a different verb. That is the moment a pattern stops being a rule and starts being yours."
+    },
+    {
+     "es": "Ya entiendo cómo funciona.",
+     "en": "I see how it works now.",
+     "verdict": "ok",
+     "feedback": "Probably. Saying one of your own out loud is what makes it true."
+    },
+    {
+     "es": "Suena como una excusa.",
+     "en": "It sounds like an excuse.",
+     "verdict": "bad",
+     "feedback": "It is not an excuse, it is how the language is built. A dropped glass has no culprit in Spanish."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "¿Y ahora qué vas a hacer?",
+   "en": "And what are you going to do now?",
+   "options": [
+    {
+     "es": "Nada. Se me fue y ya. ¿O vos qué harías?",
+     "en": "Nothing. It is gone and that is that. Or what would you do?",
+     "verdict": "good",
+     "feedback": "Se me fue, again with no culprit, and then you asked the man who lives here. He will tell you what people actually do, which is mostly nothing."
+    },
+    {
+     "es": "Voy a comprar otro mañana.",
+     "en": "I am going to buy another one tomorrow.",
+     "verdict": "ok",
+     "feedback": "Practical. He was asking a slightly bigger question than that."
+    },
+    {
+     "es": "Voy a buscar al que me lo robó.",
+     "en": "I am going to go looking for whoever stole it.",
+     "verdict": "bad",
+     "feedback": "In a bus with forty people in it there is nobody to look for. Marcos will spend ten minutes talking you out of this."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc119",
+ "title": "La serenata",
+ "desc": "Midnight on the twenty-ninth of May, three musicians, and a woman pretending to be surprised",
+ "setting": "It is five to twelve at night, you are standing in the street outside doña Elena's door, and Julio has paid the musicians.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Julio",
+   "es": "A las doce en punto empiezan. Vos cantás con nosotros, cuñado.",
+   "en": "They start at twelve on the dot. You sing with us, brother-in-law.",
+   "options": [
+    {
+     "es": "Yo canto muy mal, pero canto.",
+     "en": "I sing terribly, but I will sing.",
+     "verdict": "good",
+     "feedback": "So do her three sons, every year. Singing badly in the street at midnight is the entire point of a serenata."
+    },
+    {
+     "es": "Yo no me sé la canción.",
+     "en": "I do not know the song.",
+     "verdict": "ok",
+     "feedback": "Nor does half the street. Stand with them and move your mouth."
+    },
+    {
+     "es": "Mejor los escucho.",
+     "en": "Better if I just listen.",
+     "verdict": "bad",
+     "feedback": "You are her daughter's husband standing in the street at midnight. There is no version of tonight where you watch."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "¡Ay, Dios mío! ¿Y esto qué es? ¡A esta hora!",
+   "en": "Oh my goodness! And what is this? At this hour!",
+   "options": [
+    {
+     "es": "¡Feliz día, doña Elena!",
+     "en": "Happy Mother's Day, doña Elena!",
+     "verdict": "good",
+     "feedback": "She knew. She has known since March, she is standing at the door in her dressing gown, and everybody pretends every year. Play it straight."
+    },
+    {
+     "es": "Es su serenata, doña.",
+     "en": "It is your serenade, doña.",
+     "verdict": "ok",
+     "feedback": "Obviously. Explaining it takes the air out of the surprise she is performing."
+    },
+    {
+     "es": "Usted ya sabía, doña.",
+     "en": "You already knew, doña.",
+     "verdict": "bad",
+     "feedback": "Of course she knew. Saying so is the one thing that can spoil the twelve minutes she waits all year for."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Pasen, pasen. Voy a hacer café.",
+   "en": "Come in, come in. I will make coffee.",
+   "options": [
+    {
+     "es": "Con permiso, doña. Yo le ayudo con las tazas.",
+     "en": "Excuse me, doña. I will help you with the cups.",
+     "verdict": "good",
+     "feedback": "Half past midnight and she is making coffee for eight people. Getting up to help is worth more to her than the song was."
+    },
+    {
+     "es": "Gracias, doña.",
+     "en": "Thank you, doña.",
+     "verdict": "ok",
+     "feedback": "Fine. Everyone else has already sat down and she is on her feet."
+    },
+    {
+     "es": "No se moleste, doña, ya nos vamos.",
+     "en": "Do not trouble yourself, doña, we are going now.",
+     "verdict": "bad",
+     "feedback": "Nobody is going anywhere. The coffee at one in the morning is the second half of the serenata."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Y usted, mijo. Gracias por venir con ellos.",
+   "en": "And you, son. Thank you for coming with them.",
+   "options": [
+    {
+     "es": "Es lo menos que puedo hacer, doña. Y con mucho cariño.",
+     "en": "It is the least I can do, doña. And gladly.",
+     "verdict": "good",
+     "feedback": "That is the right register and it is not a cold one here. She has just called you mijo, which is the thing that actually happened tonight."
+    },
+    {
+     "es": "No hay de qué, doña.",
+     "en": "Not at all, doña.",
+     "verdict": "ok",
+     "feedback": "Polite. She said something to you that she does not say lightly and you answered a formula."
+    },
+    {
+     "es": "Julio me dijo que viniera.",
+     "en": "Julio told me to come.",
+     "verdict": "bad",
+     "feedback": "True and disastrous. You have just told her you came because you were told to."
+    }
+   ]
+  }
+ ]
+}

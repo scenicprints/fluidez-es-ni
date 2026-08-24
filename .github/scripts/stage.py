@@ -278,6 +278,42 @@ def main():
              " ".join("%s:%d" % (k, by_phase[k]) for k in sorted(by_phase))))
     for p_ in scene_problems[:25]:
         print("PROBLEM: %s" % p_)
+
+    # A scene is the payoff of the phase it sits in, so it may only use words a
+    # lesson at or before that phase has taught. Nothing else checks this: the
+    # block above checks a scene's SHAPE and dialect.py checks its Spanish, and
+    # neither looks at the schedule. That is how forty scenes carried over from
+    # the old 78-lesson course sat in the new phases for months with 7.5% of
+    # their words unteachable at the point you meet them.
+    first_phase = {}
+    for lesson in lessons:
+        ph = lesson.get("ph")
+        raw = list(lesson.get("wu") or [])
+        for sn in lesson.get("sn") or lesson.get("sentences") or []:
+            raw.extend(morphology.tokens(sn.get("s") or sn.get("es") or ""))
+        for w in raw:
+            w = w.lower()
+            lem = w if w in dictionary else word_forms.get(w)
+            if lem is not None and lem not in first_phase:
+                first_phase[lem] = ph
+    ahead = []
+    for sc in scenes:
+        ph = sc.get("ph")
+        for st in sc.get("steps") or []:
+            texts = [st.get("es") or ""]
+            texts.extend(o.get("es") or "" for o in st.get("options") or [])
+            for text in texts:
+                for w in morphology.tokens(text):
+                    w = w.lower()
+                    lem = w if w in dictionary else word_forms.get(w)
+                    if lem is None:
+                        continue
+                    if first_phase.get(lem) is not None and first_phase[lem] > ph:
+                        ahead.append((sc.get("id"), ph, w, lem, first_phase[lem]))
+    print("scene words %d used before the course teaches them" % len(ahead))
+    for sid, ph, w, lem, fp in sorted(set(ahead))[:25]:
+        print("           %s (phase %d) says %r, and %s is first taught in phase %d"
+              % (sid, ph, w, lem, fp))
     print("patterns   %d written (%d published)"
           % (len(patterns), sum(1 for x in patterns if x.get("id") in core_ids)))
     for p_ in pattern_problems[:25]:

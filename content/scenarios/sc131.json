@@ -1,0 +1,109 @@
+{
+ "id": "sc131",
+ "title": "La bulla",
+ "desc": "A speaker on the pavement at one in the morning",
+ "setting": "The neighbour's music has been going since nine and you have come out to the acera, where doña Chepa is already sitting.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Doña Chepa",
+   "es": "Ideay, ¿y usted despierto a esta hora?",
+   "en": "Ideay, and you awake at this hour?",
+   "options": [
+    {
+     "es": "Con esa bulla, doña, ¿quién duerme?",
+     "en": "With that racket, doña, who is sleeping?",
+     "verdict": "good",
+     "feedback": "Bulla is not a complaint word here, it is a weather word. Saying it like that puts you on the pavement with her instead of above it."
+    },
+    {
+     "es": "No puedo dormir con ese ruido.",
+     "en": "I cannot sleep with that noise.",
+     "verdict": "ok",
+     "feedback": "True, and ruido is the neutral word. Bulla is the one this street uses and it carries no accusation."
+    },
+    {
+     "es": "Eso debería estar prohibido.",
+     "en": "That ought to be banned.",
+     "verdict": "bad",
+     "feedback": "You are five years in and proposing a law about the neighbour's speaker. Doña Chepa will remember that sentence."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Es el cumpleaños de la nieta. Una vez al año, pues.",
+   "en": "It is the granddaughter's birthday. Once a year, after all.",
+   "options": [
+    {
+     "es": "Ah, con razón. Entonces que la pasen bien.",
+     "en": "Ah, that explains it. Let them enjoy it, then.",
+     "verdict": "good",
+     "feedback": "The reason changes everything and it always exists. Once you have it, the noise stops being an offence and becomes somebody's party."
+    },
+    {
+     "es": "No sabía. Ya al menos entiendo.",
+     "en": "I did not know. At least now I understand.",
+     "verdict": "ok",
+     "feedback": "Fair. Half a step short of wishing them well, which is the part that gets repeated tomorrow."
+    },
+    {
+     "es": "Una vez al año hasta las tres de la mañana.",
+     "en": "Once a year until three in the morning.",
+     "verdict": "bad",
+     "feedback": "She gave you the reason so that you would let it go. Answering with the hour tells her you have not."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Mi hija dice que a las doce lo bajan. Vamos a ver.",
+   "en": "My daughter says they will turn it down at twelve. We will see.",
+   "options": [
+    {
+     "es": "Vamos a ver, doña. Aquí me quedo un rato con usted.",
+     "en": "We will see, doña. I will sit out here with you a while.",
+     "verdict": "good",
+     "feedback": "Vamos a ver means it is not happening and both of you know it. Sitting down instead of going in is the only real solution anybody has found."
+    },
+    {
+     "es": "Ojalá que sí.",
+     "en": "Let us hope so.",
+     "verdict": "ok",
+     "feedback": "Kind. It will not go down at twelve and she was warning you rather than promising."
+    },
+    {
+     "es": "¿Y si les pedimos que le bajen?",
+     "en": "And what if we ask them to turn it down?",
+     "verdict": "bad",
+     "feedback": "Nobody asks. It is a fifteen-year-old's birthday and asking makes an enemy on a street you will live on for another twenty years."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "Al principio usted no aguantaba nada de bulla. ¿Se acuerda?",
+   "en": "At the start you could not stand any noise at all. Do you remember?",
+   "options": [
+    {
+     "es": "La primera noche no dormí nada, doña. Ya ni la oigo.",
+     "en": "The first night I did not sleep at all, doña. Now I do not even hear it.",
+     "verdict": "good",
+     "feedback": "That is the whole five years in one sentence. The noise was the first thing that nearly sent you home, and you stopped noticing it some year you cannot name."
+    },
+    {
+     "es": "Sí, ya me acostumbré.",
+     "en": "Yes, I got used to it.",
+     "verdict": "ok",
+     "feedback": "True. She asked because she has been watching it happen and wanted to hear you say it."
+    },
+    {
+     "es": "Todavía no me acostumbro del todo.",
+     "en": "I am still not entirely used to it.",
+     "verdict": "ok",
+     "feedback": "Honest, and you are sitting on a pavement at one in the morning talking to a neighbour instead of lying awake being angry. That is used to it."
+    }
+   ]
+  }
+ ]
+}

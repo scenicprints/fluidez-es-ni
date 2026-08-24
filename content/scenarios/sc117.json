@@ -1,0 +1,109 @@
+{
+ "id": "sc117",
+ "title": "Gordo",
+ "desc": "Affection that arrives sounding like an insult",
+ "setting": "Lucía has called you gordo twice this week and Roberto has explained why you must not be offended.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "¿Qué hacés, gordo?",
+   "en": "What are you up to, gordo?",
+   "options": [
+    {
+     "es": "Aquí, esperándote, negra.",
+     "en": "Here, waiting for you, negra.",
+     "verdict": "good",
+     "feedback": "Answer in the same currency. Gordo, negra, flaco: they all sound like insults and none of them are, and using one back says you have understood."
+    },
+    {
+     "es": "Nada, aquí. ¿Y vos?",
+     "en": "Nothing much. And you?",
+     "verdict": "ok",
+     "feedback": "Perfectly normal. She used the affectionate word and you did not, which she will notice without saying so."
+    },
+    {
+     "es": "No me digás gordo.",
+     "en": "Do not call me gordo.",
+     "verdict": "bad",
+     "feedback": "That is the nicest thing she has said to you all week. Refusing it tells her the door is closed."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Ay, mirá vos. ¿Y quién te enseñó eso?",
+   "en": "Well, look at you. And who taught you that?",
+   "options": [
+    {
+     "es": "Roberto, que se rió de mí media hora.",
+     "en": "Roberto, who laughed at me for half an hour.",
+     "verdict": "good",
+     "feedback": "Telling her you had to be taught is funnier and warmer than pretending you knew. Nobody expects a chele to arrive knowing this."
+    },
+    {
+     "es": "Ya voy aprendiendo.",
+     "en": "I am learning.",
+     "verdict": "ok",
+     "feedback": "True and a little pleased with itself. The story of how you learned it is the better answer."
+    },
+    {
+     "es": "Nadie, siempre lo supe.",
+     "en": "Nobody, I always knew it.",
+     "verdict": "bad",
+     "feedback": "You went silent for two hours the first time she said it. She will find that out eventually and it will be better if she hears it from you."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "La primera vez no me contestaste en dos horas, gordo.",
+   "en": "The first time you did not answer me for two hours, gordo.",
+   "options": [
+    {
+     "es": "Es que en mi país eso se toma feo. Ya aprendí.",
+     "en": "It is that where I am from that is taken badly. I have learned now.",
+     "verdict": "good",
+     "feedback": "Name the difference once, say you have got it, and let it go. Here affection is said backwards on purpose, and that is precisely what makes it affection."
+    },
+    {
+     "es": "Perdón por eso.",
+     "en": "Sorry about that.",
+     "verdict": "ok",
+     "feedback": "Fine. She was teasing rather than complaining, and an explanation would have been better than an apology."
+    },
+    {
+     "es": "Es que fue un poco fuerte.",
+     "en": "It was a bit strong, though.",
+     "verdict": "bad",
+     "feedback": "You are still arguing that she was rude. She was not, and you have already been told so by two different people."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Vení a la casa el domingo. Mi mamá quiere conocerte bien.",
+   "en": "Come to the house on Sunday. My mother wants to get to know you properly.",
+   "options": [
+    {
+     "es": "Ahí estaré. ¿Qué llevo?",
+     "en": "I will be there. What shall I bring?",
+     "verdict": "good",
+     "feedback": "You said yes and asked the only question that matters. Arriving at doña Elena's house with your hands empty is not a mistake you get to make twice."
+    },
+    {
+     "es": "Dale, ahí llego.",
+     "en": "Right, I will be there.",
+     "verdict": "ok",
+     "feedback": "You are going, which is the main thing. What you carry through that door is half of what she is judging."
+    },
+    {
+     "es": "¿Y tengo que ir?",
+     "en": "And do I have to go?",
+     "verdict": "bad",
+     "feedback": "It was not really an invitation. Her mother wanting to see you is the next step and there is no version where you decline it."
+    }
+   ]
+  }
+ ]
+}

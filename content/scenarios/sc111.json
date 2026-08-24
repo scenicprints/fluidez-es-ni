@@ -1,0 +1,109 @@
+{
+ "id": "sc111",
+ "title": "Acordamos ochenta",
+ "desc": "The price doubles at the end of the journey",
+ "setting": "You are standing at the open door of the taxi and the number he has just said is not the number you agreed.",
+ "ph": 3,
+ "steps": [
+  {
+   "speaker": "Taxista",
+   "es": "Son ciento veinte, jefe.",
+   "en": "That is a hundred and twenty, boss.",
+   "options": [
+    {
+     "es": "Acordamos ochenta.",
+     "en": "We agreed eighty.",
+     "verdict": "good",
+     "feedback": "Four words, no heat, no explanation. This is the sentence and you are going to say it again in a moment."
+    },
+    {
+     "es": "Pero usted me dijo ochenta antes de subir.",
+     "en": "But you told me eighty before I got in.",
+     "verdict": "ok",
+     "feedback": "True, and longer than it needs to be. Every extra word is a door he can push on."
+    },
+    {
+     "es": "¿Cómo que ciento veinte?",
+     "en": "What do you mean a hundred and twenty?",
+     "verdict": "bad",
+     "feedback": "You asked him a question, so now he gets to answer it. Do not hand him the floor."
+    }
+   ]
+  },
+  {
+   "speaker": "Taxista",
+   "es": "Es que había mucho tráfico, hombre.",
+   "en": "The thing is there was a lot of traffic, man.",
+   "options": [
+    {
+     "es": "Acordamos ochenta.",
+     "en": "We agreed eighty.",
+     "verdict": "good",
+     "feedback": "The same sentence, in the same tone. Repeating it is what wins this, and arguing about the traffic is what loses it."
+    },
+    {
+     "es": "El tráfico no era mi culpa.",
+     "en": "The traffic was not my fault.",
+     "verdict": "ok",
+     "feedback": "Reasonable, and you have started discussing the traffic. That is the conversation he wanted."
+    },
+    {
+     "es": "Todos los taxistas hacen lo mismo.",
+     "en": "All taxi drivers do the same thing.",
+     "verdict": "bad",
+     "feedback": "Now it is personal and he has something to defend. This was about eighty córdobas thirty seconds ago."
+    }
+   ]
+  },
+  {
+   "speaker": "Taxista",
+   "es": "Deme cien y quedamos bien.",
+   "en": "Give me a hundred and we are square.",
+   "options": [
+    {
+     "es": "Ochenta, como acordamos. Aquí tiene.",
+     "en": "Eighty, as we agreed. Here you are.",
+     "verdict": "good",
+     "feedback": "Hold the number and put the money in his hand at the same time. The transaction ends while he is still deciding."
+    },
+    {
+     "es": "Bueno, cien.",
+     "en": "All right, a hundred.",
+     "verdict": "ok",
+     "feedback": "You paid twenty for the lesson. He will try it on the next foreigner because it half works."
+    },
+    {
+     "es": "No le voy a dar nada.",
+     "en": "I am not giving you anything.",
+     "verdict": "bad",
+     "feedback": "You owe him eighty and you agreed to it. Refusing the whole fare turns you into the one in the wrong."
+    }
+   ]
+  },
+  {
+   "speaker": "Taxista",
+   "es": "Ideay. Está bien pues.",
+   "en": "Ideay. Fine then.",
+   "options": [
+    {
+     "es": "Gracias, hombre. Que le vaya bien.",
+     "en": "Thanks, man. Take care.",
+     "verdict": "good",
+     "feedback": "You won and you closed it warmly, which costs nothing. Nobody here needs the other person to feel beaten."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thanks.",
+     "verdict": "ok",
+     "feedback": "Fine. A second half to that sentence would have taken the edge off the whole exchange."
+    },
+    {
+     "es": "Así debió ser desde el principio.",
+     "en": "That is how it should have been from the start.",
+     "verdict": "bad",
+     "feedback": "You had already won. Saying so out loud is the only thing left that can go wrong."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc128",
+ "title": "Los dos apellidos",
+ "desc": "A window, a form, and a surname you have not got",
+ "setting": "You are at a window applying for your residence cédula and the woman behind the glass has stopped writing.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Empleada",
+   "es": "Su segundo apellido.",
+   "en": "Your second surname.",
+   "options": [
+    {
+     "es": "Fíjese que yo solo tengo uno. Así es en mi país.",
+     "en": "The thing is I only have one. That is how it is where I am from.",
+     "verdict": "good",
+     "feedback": "Fíjese que is the softener that buys you the next thirty seconds. The answer is still going to cause her a problem, and it will cause it politely."
+    },
+    {
+     "es": "No tengo segundo apellido.",
+     "en": "I do not have a second surname.",
+     "verdict": "ok",
+     "feedback": "True and flat. She is going to look at you as though you had said you have no mother."
+    },
+    {
+     "es": "Ponga cualquiera.",
+     "en": "Put anything.",
+     "verdict": "bad",
+     "feedback": "It goes on the cédula, on every form after it, and on your children's papers. There is no anything."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleada",
+   "es": "¿Cómo que uno solo? ¿Y el de su mamá?",
+   "en": "What do you mean only one? And your mother's?",
+   "options": [
+    {
+     "es": "Mi mamá tiene el suyo, pero allá no se pone.",
+     "en": "My mother has hers, but over there it does not go on.",
+     "verdict": "good",
+     "feedback": "Explain the system rather than yourself. Here the first surname is the father's and the second is the mother's, and it is the law of the registry, not a custom."
+    },
+    {
+     "es": "Es que allá se usa uno solo.",
+     "en": "Over there only one is used.",
+     "verdict": "ok",
+     "feedback": "Enough to move things along. She has never had to fill this box with nothing before."
+    },
+    {
+     "es": "Aquí es complicado con dos apellidos.",
+     "en": "It is complicated here with two surnames.",
+     "verdict": "bad",
+     "feedback": "It is not complicated, it is her entire filing system, and she has heard it from every foreigner who reaches that window."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleada",
+   "es": "Entonces le pongo solo el paterno. ¿Y su esposa?",
+   "en": "Then I will put only the paternal one. And your wife?",
+   "options": [
+    {
+     "es": "Lucía Mendoza Espinoza. Mendoza del papá, Espinoza de la mamá.",
+     "en": "Lucía Mendoza Espinoza. Mendoza from her father, Espinoza from her mother.",
+     "verdict": "good",
+     "feedback": "Both, in order, and you named which is which. Knowing your wife's two surnames in the right order is not optional here."
+    },
+    {
+     "es": "Lucía Mendoza.",
+     "en": "Lucía Mendoza.",
+     "verdict": "ok",
+     "feedback": "Half her name. She will ask you for the other half and you will look like a man who does not know it."
+    },
+    {
+     "es": "Ella se llama Lucía, como yo de apellido.",
+     "en": "She is called Lucía, with my surname.",
+     "verdict": "bad",
+     "feedback": "She does not take your surname here. A woman keeps both of hers for life, on every document she will ever sign."
+    }
+   ]
+  },
+  {
+   "speaker": "Empleada",
+   "es": "Ah, Mendoza. ¿No será de los Mendoza de Masaya?",
+   "en": "Ah, Mendoza. She would not be one of the Mendoza family from Masaya?",
+   "options": [
+    {
+     "es": "Puede ser, quién sabe. Le voy a preguntar.",
+     "en": "Could be, who knows. I will ask her.",
+     "verdict": "good",
+     "feedback": "Two surnames tell people where a family is from and who it might be. This is not small talk, it is her reading the name."
+    },
+    {
+     "es": "No creo, doña.",
+     "en": "I do not think so.",
+     "verdict": "ok",
+     "feedback": "Possibly not. You have no idea, and the honest answer keeps the conversation warm."
+    },
+    {
+     "es": "Eso no importa para el trámite.",
+     "en": "That does not matter for the paperwork.",
+     "verdict": "bad",
+     "feedback": "It does not, and she is the person stamping your paperwork. She was being friendly."
+    }
+   ]
+  }
+ ]
+}

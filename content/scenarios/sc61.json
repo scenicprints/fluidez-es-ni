@@ -7,8 +7,8 @@
  "steps": [
   {
    "speaker": "Doña Elena",
-   "es": "Con que vos sos el famoso.",
-   "en": "So you are the famous one.",
+   "es": "Con que vos sos el chele del que tanto hablan.",
+   "en": "So you are the chele they all talk about.",
    "options": [
     {
      "es": "Mucho gusto, doña Elena. Gracias por recibirme.",
@@ -61,8 +61,8 @@
    "en": "And what do you do? What is your work?",
    "options": [
     {
-     "es": "Trabajo en un taller, doña. Soldadura.",
-     "en": "I work in a workshop, doña. Welding.",
+     "es": "Trabajo en un taller, doña. Arreglando cosas.",
+     "en": "I work in a workshop, doña. Fixing things.",
      "verdict": "good",
      "feedback": "Plain, exact, no decoration. She is not testing your job, she is testing whether you dress it up."
     },

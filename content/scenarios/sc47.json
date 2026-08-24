@@ -48,7 +48,7 @@
      "feedback": "You have taken the news and dropped the conversation."
     },
     {
-     "es": "Voy a cortar el árbol.",
+     "es": "Voy a botar el árbol.",
      "en": "I am going to cut down the tree.",
      "verdict": "bad",
      "feedback": "Say that on this street and you will be remembered for it."
@@ -82,8 +82,8 @@
   },
   {
    "speaker": "Don Beto",
-   "es": "Con sal y limón. Vas a ver que te gusta.",
-   "en": "With salt and lemon. You will see that you like it.",
+   "es": "Con sal y vinagre. Vas a ver que te gusta.",
+   "en": "With salt and vinegar. You will see that you like it.",
    "options": [
     {
      "es": "Si usted lo dice, don Beto, yo le creo.",
@@ -98,8 +98,8 @@
      "feedback": "Fine. He was offering now."
     },
     {
-     "es": "No me gusta el limón.",
-     "en": "I do not like lemon.",
+     "es": "No me gusta el vinagre.",
+     "en": "I do not like vinegar.",
      "verdict": "bad",
      "feedback": "You have closed off the whole thing over one ingredient."
     }

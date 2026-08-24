@@ -1,0 +1,109 @@
+{
+ "id": "sc98",
+ "title": "Aquí nadie dice tú",
+ "desc": "A boy of twelve corrects your Spanish, kindly",
+ "setting": "You are sitting on the step with Roberto and you have just used a word you learned from a book.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Roberto",
+   "es": "Ideay, ¿por qué me habla así? Aquí nadie dice tú.",
+   "en": "Ideay, why are you talking to me like that? Nobody here says tú.",
+   "options": [
+    {
+     "es": "¿Ah, no? ¿Y cómo se dice?",
+     "en": "Oh, no? And how do you say it?",
+     "verdict": "good",
+     "feedback": "You let a child of twelve teach you. That is how nearly all of this gets learned, and he will remember that you asked."
+    },
+    {
+     "es": "Perdón, así aprendí.",
+     "en": "Sorry, that is how I learned it.",
+     "verdict": "ok",
+     "feedback": "Honest, but it closes the door. He was offering to fix it for you."
+    },
+    {
+     "es": "Así se dice en español.",
+     "en": "That is how you say it in Spanish.",
+     "verdict": "bad",
+     "feedback": "You have just told a Nicaraguan how his own language works. It is also not true here."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Se dice vos. Vos tenés, vos querés, vos sos.",
+   "en": "You say vos. Vos tenés, vos querés, vos sos.",
+   "options": [
+    {
+     "es": "Vos tenés. Vos querés. Ya, así.",
+     "en": "Vos tenés. Vos querés. Right, like that.",
+     "verdict": "good",
+     "feedback": "Say it back out loud. The accent is the whole difference between comés and comes, and your ear needs it more than your eye does."
+    },
+    {
+     "es": "Ah, ya entendí.",
+     "en": "Ah, I understand now.",
+     "verdict": "ok",
+     "feedback": "Understood is not the same as said. Repeating it once now saves you a month."
+    },
+    {
+     "es": "Es igual, ¿no?",
+     "en": "It is the same thing, no?",
+     "verdict": "bad",
+     "feedback": "It is not. Tú marks you as foreign in every sentence you say for as long as you keep it."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Pero a mi mamá no le diga vos. A ella usted.",
+   "en": "But do not say vos to my mother. To her, usted.",
+   "options": [
+    {
+     "es": "Entonces a ella usted y a vos vos.",
+     "en": "So usted to her and vos to you.",
+     "verdict": "good",
+     "feedback": "That is the rule in one sentence: vos for the people beside you, usted for the people above you."
+    },
+    {
+     "es": "Está bien, a ella usted.",
+     "en": "All right, usted to her.",
+     "verdict": "ok",
+     "feedback": "Correct as far as it goes. The half you left out is the half you will get wrong."
+    },
+    {
+     "es": "¿Y a don Beto?",
+     "en": "And to don Beto?",
+     "verdict": "ok",
+     "feedback": "Good question, and the answer is usted. Ask it out loud like that and people will keep telling you."
+    }
+   ]
+  },
+  {
+   "speaker": "Roberto",
+   "es": "Dale pues, a ver. Hablame con vos.",
+   "en": "Go on then, let us hear it. Talk to me with vos.",
+   "options": [
+    {
+     "es": "¿Vos querés ir a la pulpería conmigo?",
+     "en": "Do you want to come to the pulpería with me?",
+     "verdict": "good",
+     "feedback": "Querés, not quieres, and you used it on the person who just taught it to you. That is the fastest way it sticks."
+    },
+    {
+     "es": "Vos sos mi amigo.",
+     "en": "You are my friend.",
+     "verdict": "ok",
+     "feedback": "Right form, and he will take it. He asked for a sentence, not a declaration."
+    },
+    {
+     "es": "¿Cómo estás tú?",
+     "en": "How are you?",
+     "verdict": "bad",
+     "feedback": "The verb is fine and the tú at the end undoes it. That pronoun is the tell."
+    }
+   ]
+  }
+ ]
+}

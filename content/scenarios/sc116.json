@@ -1,0 +1,109 @@
+{
+ "id": "sc116",
+ "title": "Te quiero",
+ "desc": "Two words for one thing, and the bigger one said first",
+ "setting": "You are on the phone with Lucía at night and she has just said something soft.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "Me gusta cuando hablás así, gordo.",
+   "en": "I like it when you talk like that, gordo.",
+   "options": [
+    {
+     "es": "Te quiero, Lucía.",
+     "en": "I love you, Lucía.",
+     "verdict": "good",
+     "feedback": "Te quiero is the everyday one and it is the one people actually say. It is not the small version, whatever the dictionary suggests."
+    },
+    {
+     "es": "Yo también.",
+     "en": "Me too.",
+     "verdict": "ok",
+     "feedback": "Safe. She left you an opening the size of a door and you stood in it."
+    },
+    {
+     "es": "Te amo.",
+     "en": "I love you.",
+     "verdict": "bad",
+     "feedback": "Te amo is enormous here and belongs in songs. A lot of Nicaraguans go a whole life without saying it once, and she has gone quiet."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Ideay. ¿Y por qué me decís así de repente?",
+   "en": "Ideay. And why are you saying that all of a sudden?",
+   "options": [
+    {
+     "es": "Porque de verdad lo pienso. Nada más.",
+     "en": "Because I really do mean it. Nothing more.",
+     "verdict": "good",
+     "feedback": "Plain and short. Explaining it further would make it into a speech, and a speech is not what she asked for."
+    },
+    {
+     "es": "Perdón, ¿lo dije muy pronto?",
+     "en": "Sorry, did I say it too soon?",
+     "verdict": "ok",
+     "feedback": "Honest. Apologising for it half takes it back, and she was not asking for an apology."
+    },
+    {
+     "es": "Así se dice en mi país.",
+     "en": "That is how we say it where I am from.",
+     "verdict": "bad",
+     "feedback": "You have turned a moment into a translation problem. She was not asking about your country."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Es que aquí eso casi no se dice. Mi papá nunca se lo dijo a mi mamá.",
+   "en": "It is just that here that is hardly ever said. My father never said it to my mother.",
+   "options": [
+    {
+     "es": "¿Y cómo sabía ella entonces?",
+     "en": "And how did she know, then?",
+     "verdict": "good",
+     "feedback": "The right question, and the answer is everything else: who cooks, who waits up, who is still there. Words are not the main channel here."
+    },
+    {
+     "es": "Qué triste.",
+     "en": "How sad.",
+     "verdict": "bad",
+     "feedback": "She was not telling you a sad story. She was telling you how her parents' marriage worked."
+    },
+    {
+     "es": "Entonces yo se lo voy a decir siempre.",
+     "en": "Then I will say it to you always.",
+     "verdict": "ok",
+     "feedback": "Sweet, and it talks over what she just told you about her own house."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Yo también te quiero, tonto. Pero decímelo despacio.",
+   "en": "I love you too, silly. But say it to me slowly.",
+   "options": [
+    {
+     "es": "Va pues. Te quiero, Lucía.",
+     "en": "All right then. I love you, Lucía.",
+     "verdict": "good",
+     "feedback": "She asked for the smaller word said properly, and she gave you hers first. Do exactly what she asked."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "She just said it back to you. That deserved more than two words."
+    },
+    {
+     "es": "¿Despacio cómo?",
+     "en": "Slowly how?",
+     "verdict": "bad",
+     "feedback": "It was not an instruction about speed. Asking her to explain it is the surest way to end the evening."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc121",
+ "title": "Semana Santa",
+ "desc": "Six days when the whole country stops and nobody warned you",
+ "setting": "You have just told Lucía you are thinking of travelling next week and she has put her cup down.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Lucía",
+   "es": "¿La otra semana? Gordo, es Semana Santa. Ni lo intentés.",
+   "en": "Next week? Gordo, it is Semana Santa. Do not even try.",
+   "options": [
+    {
+     "es": "Ideay, ¿tan jodido está? Contame.",
+     "en": "Ideay, is it that bad? Tell me.",
+     "verdict": "good",
+     "feedback": "Ask before you argue. Six days when nobody in the country works is not a long weekend with extra traffic."
+    },
+    {
+     "es": "Pero solo son unos días.",
+     "en": "But it is only a few days.",
+     "verdict": "ok",
+     "feedback": "It is six, and they are the six when every bus in Nicaragua is already full."
+    },
+    {
+     "es": "Yo saco pasaje temprano y ya.",
+     "en": "I will buy a ticket early and that is that.",
+     "verdict": "bad",
+     "feedback": "Early was February. From the Saturday before, there is no seat to anywhere at any price."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Desde el sábado no hay pasaje para ningún lado. Todo el mundo va a la playa.",
+   "en": "From Saturday there are no tickets anywhere. Everybody goes to the beach.",
+   "options": [
+    {
+     "es": "Entonces vamos a la playa nosotros también.",
+     "en": "Then we go to the beach as well.",
+     "verdict": "good",
+     "feedback": "The only sensible answer. If the whole country is going to Pochomil or Poneloya, the week is much better spent with them than against them."
+    },
+    {
+     "es": "Va pues, me quedo en la casa.",
+     "en": "All right then, I will stay home.",
+     "verdict": "ok",
+     "feedback": "Restful and slightly sad. Managua in Semana Santa is the emptiest you will ever see it."
+    },
+    {
+     "es": "No entiendo por qué todos salen el mismo día.",
+     "en": "I do not understand why everybody leaves on the same day.",
+     "verdict": "bad",
+     "feedback": "Because it is the only week of the year nobody works. There is nothing to understand and nothing to fix."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Pero el viernes en la mañana no. El viernes vamos al cementerio.",
+   "en": "But not Friday morning. On Friday we go to the cemetery.",
+   "options": [
+    {
+     "es": "¿A limpiar la tumba antes de irnos?",
+     "en": "To clean the grave before we go?",
+     "verdict": "good",
+     "feedback": "You already knew. Cemetery in the morning, beach in the afternoon, and nobody in the country finds that a strange order."
+    },
+    {
+     "es": "Está bien, yo voy con vos.",
+     "en": "All right, I will go with you.",
+     "verdict": "ok",
+     "feedback": "Going is the whole thing. Knowing what is done there is the part you are still learning."
+    },
+    {
+     "es": "¿Y eso qué tiene que ver con la playa?",
+     "en": "And what has that got to do with the beach?",
+     "verdict": "bad",
+     "feedback": "Nothing, and both happen on the same day every year. It is not a contradiction to anybody but you."
+    }
+   ]
+  },
+  {
+   "speaker": "Lucía",
+   "es": "Y llevá gorra, que el sol de esa semana está bravo.",
+   "en": "And take a cap, the sun that week is fierce.",
+   "options": [
+    {
+     "es": "Gorra, agua y sombra. Ya aprendí, negra.",
+     "en": "Cap, water and shade. I have learned, negra.",
+     "verdict": "good",
+     "feedback": "March is the end of the dry season and the hottest week of the year. Listing it back is how you show her you are not going to be carried home red."
+    },
+    {
+     "es": "Dale, llevo gorra.",
+     "en": "All right, I will take a cap.",
+     "verdict": "ok",
+     "feedback": "Fine. She will pack the water anyway."
+    },
+    {
+     "es": "A mí el sol no me hace nada.",
+     "en": "The sun does not affect me.",
+     "verdict": "bad",
+     "feedback": "You are the palest person on that beach. Everybody there has watched a chele learn this once."
+    }
+   ]
+  }
+ ]
+}

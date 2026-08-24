@@ -1,0 +1,109 @@
+{
+ "id": "sc107",
+ "title": "Que cumplás muchos más",
+ "desc": "A birthday in the patio, and a piece of cake you did not expect",
+ "setting": "Roberto is thirteen today, the whole street has arrived uninvited, and the pastel is in the middle of the table.",
+ "ph": 2,
+ "steps": [
+  {
+   "speaker": "Roberto",
+   "es": "¡Ideay, viniste! ¿Y eso qué traés ahí?",
+   "en": "Ideay, you came! And what have you got there?",
+   "options": [
+    {
+     "es": "Felicidades, Roberto. Es una gorra, a ver si te gusta.",
+     "en": "Congratulations, Roberto. It is a cap, let us see if you like it.",
+     "verdict": "good",
+     "feedback": "Felicidades first and then the present. A gorra is the safest gift there is for a chavalo of thirteen, and it will not come off his head all night."
+    },
+    {
+     "es": "Un regalo para vos.",
+     "en": "A present for you.",
+     "verdict": "ok",
+     "feedback": "Fine. The word everybody says as they hand it over is felicidades, and you skipped it."
+    },
+    {
+     "es": "No es nada.",
+     "en": "It is nothing.",
+     "verdict": "bad",
+     "feedback": "You came to his birthday with something in your hand. Talking it down on the doorstep is a foreign habit."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Que cumplás muchos más, chavalo. Dígale usted también.",
+   "en": "May you have many more, lad. You say it to him as well.",
+   "options": [
+    {
+     "es": "Que cumplás muchos más, Roberto.",
+     "en": "May you have many more, Roberto.",
+     "verdict": "good",
+     "feedback": "That is the sentence. It is what everybody says at a birthday here, it is the vos form, and nobody will explain it to you twice."
+    },
+    {
+     "es": "Feliz cumpleaños.",
+     "en": "Happy birthday.",
+     "verdict": "ok",
+     "feedback": "Understood everywhere and it is on the cake. Don Beto handed you the local one and you used the international one."
+    },
+    {
+     "es": "Ya se lo dije.",
+     "en": "I already told him.",
+     "verdict": "bad",
+     "feedback": "You said felicidades, which is not the same phrase. Don Beto was teaching you something, not checking up on you."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "¡Mírelo! Le empujaron la cara en el pastel. Eso se hace siempre, mijo.",
+   "en": "Look at him! They pushed his face into the cake. That is always done, love.",
+   "options": [
+    {
+     "es": "¿Y eso se lo hacen a todos? Ideay.",
+     "en": "And they do that to everyone? Ideay.",
+     "verdict": "good",
+     "feedback": "You laughed and asked instead of judging. The answer is yes, to everybody, and Roberto is laughing harder than anyone."
+    },
+    {
+     "es": "Ay, no me lo esperaba.",
+     "en": "Oh, I was not expecting that.",
+     "verdict": "ok",
+     "feedback": "Honest and warm. Doña Chepa was inviting you to ask about it."
+    },
+    {
+     "es": "Pobre chavalo.",
+     "en": "Poor lad.",
+     "verdict": "bad",
+     "feedback": "He is thirteen and delighted. Feeling sorry for him marks the custom as cruel, which is not how anybody in the patio sees it."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "El primer pedazo para la abuela. Y el segundo para usted, que viene de más lejos.",
+   "en": "The first piece for the grandmother. And the second for you, who has come the furthest.",
+   "options": [
+    {
+     "es": "Gracias, doña. Eso no me lo esperaba.",
+     "en": "Thank you, doña. I was not expecting that.",
+     "verdict": "good",
+     "feedback": "The order of the pieces is the ranking of the room: the oldest, then the visitor who travelled furthest. Being second is being placed."
+    },
+    {
+     "es": "Gracias, doña.",
+     "en": "Thank you, doña.",
+     "verdict": "ok",
+     "feedback": "Enough. Something was just said about where you stand in that patio and it deserved a word."
+    },
+    {
+     "es": "Que coman los chavalos primero.",
+     "en": "Let the children eat first.",
+     "verdict": "bad",
+     "feedback": "It sounds generous and it undoes what she just did. She chose the order in front of everybody."
+    }
+   ]
+  }
+ ]
+}

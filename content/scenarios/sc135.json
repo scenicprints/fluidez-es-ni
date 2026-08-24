@@ -1,0 +1,109 @@
+{
+ "id": "sc135",
+ "title": "Ya sos nica",
+ "desc": "An ordinary Saturday, and somebody says it out loud",
+ "setting": "It is eleven thirty on a Saturday at doña Elena's, there are twenty people between the patio and the kitchen, and nothing is being celebrated.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "Póngale sal a esa olla, mijo. Usted ya sabe cuánto.",
+   "en": "Put salt in that pot, son. You know how much by now.",
+   "options": [
+    {
+     "es": "Tres dedos, como usted.",
+     "en": "Three fingers, like you.",
+     "verdict": "good",
+     "feedback": "She stopped measuring years ago and so have you. Nobody in that kitchen is going to remark on it, which is the point."
+    },
+    {
+     "es": "¿Como cuánto, doña?",
+     "en": "About how much, doña?",
+     "verdict": "ok",
+     "feedback": "You know. Asking hands the decision back to her when she has just handed it to you."
+    },
+    {
+     "es": "Mejor póngale usted.",
+     "en": "Better if you put it in.",
+     "verdict": "bad",
+     "feedback": "She asked because it does not matter any more who does it. Handing the pot back puts you two years into the past."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Ideay, ¿y este a qué hora llegó?",
+   "en": "Ideay, and what time did this one get here?",
+   "options": [
+    {
+     "es": "A las once y media, don Beto. La hora buena.",
+     "en": "Half past eleven, don Beto. The right hour.",
+     "verdict": "good",
+     "feedback": "They said eleven. You came at half past, which is the hour the invitation actually meant, and saying so out loud is the joke he was setting up."
+    },
+    {
+     "es": "Hace ratito.",
+     "en": "A little while ago.",
+     "verdict": "ok",
+     "feedback": "Fine. The half hour is the funny part and you left it out."
+    },
+    {
+     "es": "A las once, como dijeron.",
+     "en": "At eleven, like they said.",
+     "verdict": "bad",
+     "feedback": "You did not, and everybody saw you arrive. Five years ago you would have, and that is the joke."
+    }
+   ]
+  },
+  {
+   "speaker": "Don Beto",
+   "es": "Miren a este. Ya sos nica, vos.",
+   "en": "Look at this one. You are a nica now, you are.",
+   "options": [
+    {
+     "es": "Nica adoptivo, don Beto.",
+     "en": "An adopted nica, don Beto.",
+     "verdict": "good",
+     "feedback": "Take it and hand a bit of it back. Claiming it whole would be too much and refusing it would be worse, and adoptivo is the word people use."
+    },
+    {
+     "es": "Gracias, don Beto. De verdad.",
+     "en": "Thank you, don Beto. Truly.",
+     "verdict": "ok",
+     "feedback": "Warm, and it treats it as a compliment. It is more like a decision the room has made."
+    },
+    {
+     "es": "Todavía no, don Beto.",
+     "en": "Not yet, don Beto.",
+     "verdict": "bad",
+     "feedback": "He said it in front of twenty people, which is how these things are made official here. Arguing with it argues with all of them."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "¿Y ese chavalo suyo dónde anda? Que venga a comer.",
+   "en": "And where is that boy of yours? Tell him to come and eat.",
+   "options": [
+    {
+     "es": "Ahí anda con los primos. Ya lo llamo, doña.",
+     "en": "He is off with his cousins. I will call him, doña.",
+     "verdict": "good",
+     "feedback": "Your son is somewhere in a house full of people who are all his family. Nobody has explained anything to you in about two years and you did not need it."
+    },
+    {
+     "es": "Está jugando afuera.",
+     "en": "He is playing outside.",
+     "verdict": "ok",
+     "feedback": "True. Con los primos is the part that says where he actually belongs."
+    },
+    {
+     "es": "Ya comió en la casa.",
+     "en": "He ate at home.",
+     "verdict": "bad",
+     "feedback": "That has never once been an acceptable answer in this kitchen, and you learned it in your first month."
+    }
+   ]
+  }
+ ]
+}

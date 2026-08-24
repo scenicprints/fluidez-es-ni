@@ -1,0 +1,109 @@
+{
+ "id": "sc123",
+ "title": "A las doce en punto",
+ "desc": "Arriving on time, and being put to work for two hours",
+ "setting": "The invitation said twelve, it is twelve, and doña Carmen is in the patio with a broom and wet hair.",
+ "ph": 5,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "¡Ideay! ¿Ya vinieron? Si todavía no hay nada listo.",
+   "en": "Ideay! You are here already? There is nothing ready yet.",
+   "options": [
+    {
+     "es": "Llegamos temprano, doña. Póngame a hacer algo.",
+     "en": "We came early, doña. Put me to work.",
+     "verdict": "good",
+     "feedback": "You are two hours early by local reckoning and there is only one way out of that: pick up a chair and start carrying."
+    },
+    {
+     "es": "La invitación decía a las doce.",
+     "en": "The invitation said twelve.",
+     "verdict": "bad",
+     "feedback": "It did, and twelve meant about two. Producing the evidence is the most foreign thing you could do standing in her patio."
+    },
+    {
+     "es": "Perdón, doña. ¿Volvemos más tarde?",
+     "en": "Sorry, doña. Shall we come back later?",
+     "verdict": "ok",
+     "feedback": "You will not be allowed to leave. Staying and helping is what happens next either way."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Ay, mijo, agarrá esas sillas y ponelas alrededor.",
+   "en": "Oh, love, grab those chairs and put them round.",
+   "options": [
+    {
+     "es": "Va pues. ¿Cuántas pongo?",
+     "en": "Right then. How many shall I put out?",
+     "verdict": "good",
+     "feedback": "Punctuality has a price here and this is it. Two hours of work, and by the end you know where everything in her kitchen lives."
+    },
+    {
+     "es": "Ya voy.",
+     "en": "Coming.",
+     "verdict": "ok",
+     "feedback": "Fine. You will put out the wrong number and carry them twice."
+    },
+    {
+     "es": "Lucía me dijo que era muy temprano.",
+     "en": "Lucía told me it was too early.",
+     "verdict": "bad",
+     "feedback": "She did, three times. Saying so now in front of everybody helps nobody, least of all you."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "El primer invitado llega a la una y media, vas a ver.",
+   "en": "The first guest will arrive at half past one, you will see.",
+   "options": [
+    {
+     "es": "Entonces la hora nica es la de verdad y la otra es la escrita.",
+     "en": "So the real time is the Nica one and the other is the written one.",
+     "verdict": "good",
+     "feedback": "That is it exactly. Nobody is being rude and nobody is late, because everybody except you is reading the same clock."
+    },
+    {
+     "es": "Ya me di cuenta.",
+     "en": "I have noticed.",
+     "verdict": "ok",
+     "feedback": "You have, at the cost of two hours of chairs."
+    },
+    {
+     "es": "Eso es una falta de respeto con usted.",
+     "en": "That is disrespectful to you.",
+     "verdict": "bad",
+     "feedback": "She does not think so and she would have been horrified if they had turned up at twelve, because nothing was ready."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Así es aquí, mijo. Pero ya sabés: para la otra, venite a la una.",
+   "en": "That is how it is here, love. But now you know: next time, come at one.",
+   "options": [
+    {
+     "es": "A la una y media, mejor. Con hambre.",
+     "en": "Half past one, better. Hungry.",
+     "verdict": "good",
+     "feedback": "You went one better than she did, which is the joke she was fishing for. Arriving hungry is the other half of getting this right."
+    },
+    {
+     "es": "A la una entonces.",
+     "en": "One o'clock then.",
+     "verdict": "ok",
+     "feedback": "Agreed. She gave you the number, and by now you can work out the real one yourself."
+    },
+    {
+     "es": "Yo prefiero ser puntual.",
+     "en": "I prefer to be on time.",
+     "verdict": "bad",
+     "feedback": "You have just spent two hours carrying chairs for preferring to be on time. The lesson was free and you have refused it."
+    }
+   ]
+  }
+ ]
+}

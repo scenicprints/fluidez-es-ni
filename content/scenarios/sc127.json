@@ -1,0 +1,109 @@
+{
+ "id": "sc127",
+ "title": "Del norte",
+ "desc": "A country you thought had one accent",
+ "setting": "There is a new man at the workshop, he has said three sentences, and you have understood about half.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Wilmer",
+   "es": "Buenas. Yo soy Wilmer, vengo de Jinotega.",
+   "en": "Morning. I am Wilmer, I come from Jinotega.",
+   "options": [
+    {
+     "es": "Mucho gusto, Wilmer. ¿De Jinotega mismo o de por ahí?",
+     "en": "Pleased to meet you, Wilmer. From Jinotega itself or from thereabouts?",
+     "verdict": "good",
+     "feedback": "Asking whether it is the town or the department is a local question, and it tells him you know the north is not one place."
+    },
+    {
+     "es": "Mucho gusto. Yo soy de aquí de Managua.",
+     "en": "Pleased to meet you. I am from here in Managua.",
+     "verdict": "ok",
+     "feedback": "A fair swap, and after four years you have earned de aquí. He will still hear where you started."
+    },
+    {
+     "es": "¿Jinotega? ¿Y eso queda en Nicaragua?",
+     "en": "Jinotega? And is that in Nicaragua?",
+     "verdict": "bad",
+     "feedback": "It is three hours away and it grows most of the coffee in the country. That question does not land as a joke."
+    }
+   ]
+  },
+  {
+   "speaker": "Wilmer",
+   "es": "De un cafetal por allá arriba. Hablo despacio, dicen aquí.",
+   "en": "From a coffee farm a bit further up. I talk slowly, they say here.",
+   "options": [
+    {
+     "es": "Despacio sí, pero yo todavía le agarro poco. Tenga paciencia.",
+     "en": "Slowly yes, but I still only catch a bit. Bear with me.",
+     "verdict": "good",
+     "feedback": "Honest and it puts you both on the same side. Slower and harder to follow at once is exactly what a different department sounds like."
+    },
+    {
+     "es": "Yo le entiendo bien.",
+     "en": "I understand you fine.",
+     "verdict": "ok",
+     "feedback": "You do not, yet. Saying so now means the next four sentences go past unrepaired."
+    },
+    {
+     "es": "Es que usted habla raro.",
+     "en": "It is that you talk oddly.",
+     "verdict": "bad",
+     "feedback": "He talks like Jinotega. To him it is Managua that talks oddly, and he is being polite about it."
+    }
+   ]
+  },
+  {
+   "speaker": "Wilmer",
+   "es": "Es que allá se habla distinto. Cada departamento tiene lo suyo.",
+   "en": "Up there they talk differently. Every department has its own.",
+   "options": [
+    {
+     "es": "Yo creía que era un solo acento en todo el país.",
+     "en": "I thought there was one accent for the whole country.",
+     "verdict": "good",
+     "feedback": "Admit the wrong idea out loud. The country is small enough to cross three departments in a morning and they do not sound the same."
+    },
+    {
+     "es": "Sí, ya me habían dicho.",
+     "en": "Yes, they had told me.",
+     "verdict": "ok",
+     "feedback": "Fine. He was offering to explain the north to you and you said you already had it."
+    },
+    {
+     "es": "Managua es el acento correcto, pues.",
+     "en": "Managua is the correct accent, though.",
+     "verdict": "bad",
+     "feedback": "Said to a man from the north on his first morning, that is a poor start and it is not true either."
+    }
+   ]
+  },
+  {
+   "speaker": "Wilmer",
+   "es": "Ideay, y usted no es de aquí tampoco, ¿verdad?",
+   "en": "Ideay, and you are not from here either, are you?",
+   "options": [
+    {
+     "es": "No, pero ya llevo cuatro años. Los dos venimos de afuera.",
+     "en": "No, but I have been here four years now. We both come from somewhere else.",
+     "verdict": "good",
+     "feedback": "He has just put the two of you in the same boat on purpose. Taking it is worth more on a first morning than anything you could say about yourself."
+    },
+    {
+     "es": "No, yo vengo de más lejos que usted.",
+     "en": "No, I come from much further away than you.",
+     "verdict": "ok",
+     "feedback": "True, and it makes the distance the point. He was offering you something else."
+    },
+    {
+     "es": "¿Se me nota mucho?",
+     "en": "Is it that obvious?",
+     "verdict": "ok",
+     "feedback": "It is, and always will be a bit. He asked kindly and there was a warmer answer available."
+    }
+   ]
+  }
+ ]
+}

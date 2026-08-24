@@ -1,0 +1,109 @@
+{
+ "id": "sc134",
+ "title": "¿Y usted de dónde es?",
+ "desc": "The same question as always, answered in a different order",
+ "setting": "Somebody you have never met has sat down beside you at a lunch and asked the question everybody asks.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Desconocido",
+   "es": "¿Y usted de dónde es?",
+   "en": "And where are you from?",
+   "options": [
+    {
+     "es": "Vivo aquí, en el barrio de abajo. Vine de afuera hace cinco años.",
+     "en": "I live here, in the barrio down the road. I came from abroad five years ago.",
+     "verdict": "good",
+     "feedback": "That order is the whole trick. Where you live first, where you came from second, and the conversation goes somewhere instead of stopping to look at you."
+    },
+    {
+     "es": "Yo soy de afuera, pero vivo aquí.",
+     "en": "I am from abroad, but I live here.",
+     "verdict": "ok",
+     "feedback": "The same two facts the other way round, and now the next four questions are about your country."
+    },
+    {
+     "es": "De muy lejos.",
+     "en": "From very far away.",
+     "verdict": "bad",
+     "feedback": "It sounds mysterious and it makes him work. He asked the first friendly question anybody asks in this country."
+    }
+   ]
+  },
+  {
+   "speaker": "Desconocido",
+   "es": "Ah, ¿del barrio de abajo? ¿Y por dónde vive exactamente?",
+   "en": "Ah, the barrio down the road? And whereabouts exactly do you live?",
+   "options": [
+    {
+     "es": "De la iglesia dos cuadras al lago y media abajo.",
+     "en": "From the church two blocks towards the lake and half a block down.",
+     "verdict": "good",
+     "feedback": "Landmark, blocks, direction. Five years ago that sentence was a puzzle and now it comes out of you without thinking."
+    },
+    {
+     "es": "Cerca de la iglesia.",
+     "en": "Near the church.",
+     "verdict": "ok",
+     "feedback": "He will nod and he will not know where you live. The full address takes six words more."
+    },
+    {
+     "es": "Le puedo mandar el mapa.",
+     "en": "I can send you a map.",
+     "verdict": "bad",
+     "feedback": "Nobody sends a pin at a lunch table. He was placing you in the city, not trying to find your gate."
+    }
+   ]
+  },
+  {
+   "speaker": "Desconocido",
+   "es": "¡Ideay! Yo tengo una hermana por ahí. ¿Conoce a los Espinoza?",
+   "en": "Ideay! I have a sister over there. Do you know the Espinoza family?",
+   "options": [
+    {
+     "es": "Espinoza es el apellido de mi suegra. Vaya a saber si son.",
+     "en": "Espinoza is my mother-in-law's surname. Who knows if they are the same lot.",
+     "verdict": "good",
+     "feedback": "This is what surnames are for. Two people who have never met can place each other in about four moves, and you have just made yours."
+    },
+    {
+     "es": "No, no los conozco.",
+     "en": "No, I do not know them.",
+     "verdict": "ok",
+     "feedback": "Probably true. Espinoza is also your mother-in-law's name, which was worth mentioning."
+    },
+    {
+     "es": "Es un apellido muy común, ¿no?",
+     "en": "That is a very common surname, is it not?",
+     "verdict": "bad",
+     "feedback": "It is, and that is not the game. He is trying to find the person you both know and you have just closed the search."
+    }
+   ]
+  },
+  {
+   "speaker": "Desconocido",
+   "es": "Puede ser, puede ser. ¿Y hace cuánto me dijo que vino?",
+   "en": "Could be, could be. And how long did you say you have been here?",
+   "options": [
+    {
+     "es": "Cinco años ya. Aunque a veces se siente que más.",
+     "en": "Five years now. Though sometimes it feels like more.",
+     "verdict": "good",
+     "feedback": "Short and it opens a door without leaning on it. He has stopped asking about your country entirely, which is what the reordering was for."
+    },
+    {
+     "es": "Cinco años.",
+     "en": "Five years.",
+     "verdict": "ok",
+     "feedback": "Accurate. Half a sentence more and he would have had something to answer."
+    },
+    {
+     "es": "Cinco años, pero todavía me falta mucho.",
+     "en": "Five years, but I still have a long way to go.",
+     "verdict": "ok",
+     "feedback": "Modest, and it puts you back outside. He had already stopped treating you as a visitor."
+    }
+   ]
+  }
+ ]
+}

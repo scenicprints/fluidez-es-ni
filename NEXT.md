@@ -9,7 +9,7 @@ reasoning behind them. This file is the short version.
 | | | |
 |---|---|---|
 | Stories | **185** | 77,544 running words |
-| Scenes | **95** | four steps, three options, phase-gated |
+| Scenes | **95** | four steps, three options, phase-gated, all written for this course |
 | Patterns | **52** | every trigger a lemma the course can teach |
 | Verbs | **123 verbs, 6 tenses** | voseo-correct |
 | Lookups | **97.9%** | of the words on the page can be tapped |
@@ -73,6 +73,46 @@ to main, so a plain push is rejected.
    live with it. Do not reopen this, do not swap the voice.
 
 ---
+
+## The scenes were rewritten to match the course (2026-08-24)
+
+Forty of the ninety-five were the original scenes from the old 78-lesson
+course, re-tagged into the new eight phases and otherwise untouched. Kevin
+spotted it. They used job titles for speakers instead of the cast (Vendedora,
+Cajero, Gerente), they still told the tourist arc — five of them repeated
+phase 4's beats with nobody in them — and 7.5% of the words on the page were
+words the course teaches later or never. `sc01`–`sc40` are gone and
+`sc96`–`sc135` replace them, five per phase, so the weighting is unchanged.
+
+**New ids rather than reusing `sc01`–`sc40` on purpose.** `scenariosDone` is
+keyed on the id, so writing new content under an old id would tick a scene the
+learner has never seen.
+
+Three rules the rewrite was written to, and the next batch should be too:
+
+- **A scene may only use words a lesson at or before its phase teaches.** This
+  is not gated by `stage.py` — `stage.py` checks scene *shape* (four steps,
+  three options, one good answer, valid verdicts) and `dialect.py` checks the
+  Spanish, and neither looks at the schedule. Check it by resolving every token
+  with `forms.build` and comparing against the phase of the first lesson that
+  uses that lemma.
+- **Read the lesson before writing the scene that pays it off.** The first
+  draft of the birthday scene had the guest cutting the cake and singing *las
+  Mañanitas*; `p2-08` has the host cutting it, the first piece going to the
+  grandmother and the second to whoever travelled furthest, and deliberately
+  does not name the song. The lesson is the authority.
+- **Use the cast.** Role speakers (Conductor, Cocinera, Empleada) are fine for
+  a genuine one-off stranger, which is how the kept fifty-five use them.
+
+Nineteen of the kept fifty-five also used a word from a later phase and were
+patched one line at a time. Four instances remain on purpose: `permiso` and
+`disculpe` in `sc43`, which is the scene that teaches them, and `unidos` in
+`sc97`, which is half of *Estados Unidos*.
+
+**Still open, and it is a course gap rather than a scene one:** `ustedes` is
+used in seven scenes and no lesson in the course ever teaches it, and
+`puchica`, `jaja`, `ajá` and `aló` are in the same position. The words are in
+the dictionary, so they are tappable; nothing introduces them.
 
 ## Making a word tappable — how it works now
 

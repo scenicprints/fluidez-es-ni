@@ -1,0 +1,109 @@
+{
+ "id": "sc129",
+ "title": "El del billete",
+ "desc": "Four years of paying with his face and never once looking",
+ "setting": "You have handed Marcos a hundred-córdoba note and asked him who the man on it is.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Marcos",
+   "es": "¿Que quién es? Maje. Es Rubén Darío.",
+   "en": "Who is it? Maje. It is Rubén Darío.",
+   "options": [
+    {
+     "es": "Perdoname la ignorancia. ¿Y qué hizo él?",
+     "en": "Forgive my ignorance. And what did he do?",
+     "verdict": "good",
+     "feedback": "Own it and ask. Everybody in this country learned him at school and nobody expects to have to explain who he is."
+    },
+    {
+     "es": "Ah, sí, algo había oído.",
+     "en": "Ah, yes, I had heard something.",
+     "verdict": "ok",
+     "feedback": "You had not. He can tell, and pretending costs you the explanation."
+    },
+    {
+     "es": "¿Y por qué no ponen un presidente?",
+     "en": "And why do they not put a president on it?",
+     "verdict": "bad",
+     "feedback": "Because they put the poet instead, and that choice is the thing you are supposed to notice."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Es el poeta, maje. No un poeta. El poeta.",
+   "en": "He is the poet, maje. Not a poet. The poet.",
+   "options": [
+    {
+     "es": "Ya entendí la diferencia. ¿Y qué escribió?",
+     "en": "I understand the difference. And what did he write?",
+     "verdict": "good",
+     "feedback": "The article was the whole correction. He is not one poet among several, he is the reason this country thinks of itself as a country of poets."
+    },
+    {
+     "es": "Está bien, el poeta.",
+     "en": "All right, the poet.",
+     "verdict": "ok",
+     "feedback": "You repeated it back without asking anything. He is waiting to be asked."
+    },
+    {
+     "es": "En mi país nadie conoce poetas.",
+     "en": "In my country nobody knows any poets.",
+     "verdict": "bad",
+     "feedback": "That is exactly the thing not to say to a Nicaraguan holding a banknote with a poet on it."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Vos preguntale a Lucía. Ella se sabe los versos de memoria.",
+   "en": "You ask Lucía. She knows the lines by heart.",
+   "options": [
+    {
+     "es": "¿De memoria? ¿Se los enseñaron en la escuela?",
+     "en": "By heart? Did they teach them at school?",
+     "verdict": "good",
+     "feedback": "They did, to everybody, and most people can still say four lines thirty years later. That is the part that is hard to believe from outside."
+    },
+    {
+     "es": "Le voy a preguntar en la noche.",
+     "en": "I will ask her tonight.",
+     "verdict": "ok",
+     "feedback": "Do. The surprise is not the poem, it is that she will not have to look it up."
+    },
+    {
+     "es": "Seguro se acuerda de una sola.",
+     "en": "I bet she only remembers one.",
+     "verdict": "bad",
+     "feedback": "She will recite you three and then be annoyed. This is not a small piece of the education here."
+    }
+   ]
+  },
+  {
+   "speaker": "Marcos",
+   "es": "Cuatro años cargando su cara en la bolsa y ni sabías.",
+   "en": "Four years carrying his face in your pocket and you did not even know.",
+   "options": [
+    {
+     "es": "Cuatro años, sí. Ya me toca ponerle atención al billete.",
+     "en": "Four years, yes. About time I paid attention to the note.",
+     "verdict": "good",
+     "feedback": "Take the ribbing. He is not really talking about money, he is telling you there is a whole layer of this place you have been walking past."
+    },
+    {
+     "es": "Es que nadie me lo había dicho.",
+     "en": "Nobody had told me.",
+     "verdict": "ok",
+     "feedback": "Nobody tells you what everybody knows. That is what makes it worth noticing yourself."
+    },
+    {
+     "es": "Es solo un billete, maje.",
+     "en": "It is just a banknote, maje.",
+     "verdict": "bad",
+     "feedback": "It is the biggest note in ordinary use and it has a man who wrote poems on it. That is not nothing here."
+    }
+   ]
+  }
+ ]
+}

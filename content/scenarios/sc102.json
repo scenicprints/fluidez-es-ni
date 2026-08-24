@@ -1,0 +1,109 @@
+{
+ "id": "sc102",
+ "title": "Un mandado",
+ "desc": "Being sent for tortillas, which means you are trusted",
+ "setting": "Doña Carmen is at the stove and she has not turned around to ask you.",
+ "ph": 1,
+ "steps": [
+  {
+   "speaker": "Doña Carmen",
+   "es": "Mijo, ¿me hace un favor? Vaya a traer tortillas.",
+   "en": "Love, will you do me a favour? Go and fetch some tortillas.",
+   "options": [
+    {
+     "es": "Claro que sí, doña. ¿Cuántas?",
+     "en": "Of course, doña. How many?",
+     "verdict": "good",
+     "feedback": "Yes first, question second. A mandado is not really a request, and being asked is good news."
+    },
+    {
+     "es": "Está bien.",
+     "en": "All right.",
+     "verdict": "ok",
+     "feedback": "You are going, which is what she needed. You will be back on the doorstep asking how many."
+    },
+    {
+     "es": "¿Ahora?",
+     "en": "Right now?",
+     "verdict": "bad",
+     "feedback": "The word for right now is going. Asking whether she means now reads as looking for a way out."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Ocho. Dígale a doña Chepa que son para mí.",
+   "en": "Eight. Tell doña Chepa they are for me.",
+   "options": [
+    {
+     "es": "Ocho, y que son para usted. Va pues.",
+     "en": "Eight, and that they are for you. Right then.",
+     "verdict": "good",
+     "feedback": "You repeated the order back. Saying whose they are matters: doña Chepa will pick the good ones."
+    },
+    {
+     "es": "Ocho tortillas. Ya vengo.",
+     "en": "Eight tortillas. I will be right back.",
+     "verdict": "ok",
+     "feedback": "The number is right and you left out her name, which was half the instruction."
+    },
+    {
+     "es": "¿Y por qué le tengo que decir eso?",
+     "en": "And why do I have to tell her that?",
+     "verdict": "bad",
+     "feedback": "Because names carry weight in a barrio. You do not need the reason to carry the message."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "¿Ocho? ¿Y esas para quién son?",
+   "en": "Eight? And who are those for?",
+   "options": [
+    {
+     "es": "Para doña Carmen. Me mandó ella.",
+     "en": "For doña Carmen. She sent me.",
+     "verdict": "good",
+     "feedback": "Me mandó ella is the sentence. It tells her whose house you are in and where you stand in it."
+    },
+    {
+     "es": "Para la casa.",
+     "en": "For the house.",
+     "verdict": "ok",
+     "feedback": "She will guess right. Naming doña Carmen would have got you the tortillas off the top of the stack."
+    },
+    {
+     "es": "Para mí.",
+     "en": "For me.",
+     "verdict": "bad",
+     "feedback": "Eight tortillas for one man will be talked about on this street until Thursday."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Carmen",
+   "es": "Gracias, mijo. Coma una, que está caliente.",
+   "en": "Thank you, love. Eat one, it is hot.",
+   "options": [
+    {
+     "es": "Gracias, doña. Está bien caliente.",
+     "en": "Thank you, doña. It is properly hot.",
+     "verdict": "good",
+     "feedback": "The tortilla is the wage. Taking it closes the errand properly."
+    },
+    {
+     "es": "Gracias.",
+     "en": "Thank you.",
+     "verdict": "ok",
+     "feedback": "Fine. Eating it in front of her would have been better than thanking her for it."
+    },
+    {
+     "es": "No, doña, son para usted.",
+     "en": "No, doña, they are for you.",
+     "verdict": "bad",
+     "feedback": "Refusing the one she held out turns a favour into a transaction, which is the opposite of what happened."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "sc99",
+ "title": "¿Y es casado usted?",
+ "desc": "In four minutes they know your age, your work and whether you are married",
+ "setting": "You sat down on the patio to wait for Roberto and three women have arrived instead.",
+ "ph": 0,
+ "steps": [
+  {
+   "speaker": "Doña Chepa",
+   "es": "¿Y usted vive solo en ese cuarto?",
+   "en": "And do you live alone in that room?",
+   "options": [
+    {
+     "es": "Solo, doña. Con mi maleta y nada más.",
+     "en": "On my own, doña. With my suitcase and nothing else.",
+     "verdict": "good",
+     "feedback": "Answer and give her one detail more than she asked for. That is what turns a question into a conversation here."
+    },
+    {
+     "es": "Sí, solo.",
+     "en": "Yes, alone.",
+     "verdict": "ok",
+     "feedback": "Fine. In a patio full of people a second word keeps it friendly."
+    },
+    {
+     "es": "¿Por qué quiere saber?",
+     "en": "Why do you want to know?",
+     "verdict": "bad",
+     "feedback": "Nothing is being asked of you. Where you live, your work and your family are the first three questions anyone gets."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "¿Y es casado?",
+   "en": "And are you married?",
+   "options": [
+    {
+     "es": "No, doña. Soltero.",
+     "en": "No, doña. Single.",
+     "verdict": "good",
+     "feedback": "One word and no explanation. You will be asked this by everybody you meet for the next year."
+    },
+    {
+     "es": "No.",
+     "en": "No.",
+     "verdict": "ok",
+     "feedback": "True. Soltero is the word she was waiting for and it costs you nothing."
+    },
+    {
+     "es": "Eso no le importa.",
+     "en": "That is none of your business.",
+     "verdict": "bad",
+     "feedback": "Refusing the question is far stranger here than the question. She asked because she likes you."
+    }
+   ]
+  },
+  {
+   "speaker": "Vecina",
+   "es": "¡Ay, soltero! ¿Y no quiere una mujer nica?",
+   "en": "Oh, single! And you do not want a Nicaraguan wife?",
+   "options": [
+    {
+     "es": "Ideay, doña, ¿y usted qué dice?",
+     "en": "Ideay, doña, what do you say?",
+     "verdict": "good",
+     "feedback": "She is teasing you and you played. Being teased is being included, and answering in kind ends it well."
+    },
+    {
+     "es": "Después, doña.",
+     "en": "Later, doña.",
+     "verdict": "ok",
+     "feedback": "A calm answer to a joke. Nothing goes wrong and nothing happens either."
+    },
+    {
+     "es": "No, gracias.",
+     "en": "No, thank you.",
+     "verdict": "bad",
+     "feedback": "You answered a joke as if it were an offer. The patio will go quiet for a second."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Chepa",
+   "es": "¿Y en qué trabaja?",
+   "en": "And what do you do?",
+   "options": [
+    {
+     "es": "Trabajo en mi casa, doña. Casi todo el día.",
+     "en": "I work at home, doña. Most of the day.",
+     "verdict": "good",
+     "feedback": "Plain and concrete. Working from the house needs saying, or the whole street will wonder why you are always in."
+    },
+    {
+     "es": "En mi casa.",
+     "en": "At home.",
+     "verdict": "ok",
+     "feedback": "Enough. Where you work matters as much as what you do, on a street where everyone sees everyone."
+    },
+    {
+     "es": "No sé cómo decirle.",
+     "en": "I do not know how to explain it to you.",
+     "verdict": "bad",
+     "feedback": "That answer travels. By tonight nobody on the block will be sure what you do for money."
+    }
+   ]
+  }
+ ]
+}

@@ -23,7 +23,7 @@
      "feedback": "True, and it stops a conversation he opened to include you."
     },
     {
-     "es": "Es demasiado.",
+     "es": "Es mucho.",
      "en": "It is too much.",
      "verdict": "bad",
      "feedback": "Said out loud in September that is not an opinion, it is an insult."
@@ -98,8 +98,8 @@
      "feedback": "Trying is what people say when they mean no. He will hear it that way."
     },
     {
-     "es": "Tal vez después.",
-     "en": "Maybe later.",
+     "es": "Otro día.",
+     "en": "Another day.",
      "verdict": "bad",
      "feedback": "That is the polite no, and he will understand it perfectly."
     }

@@ -1,0 +1,109 @@
+{
+ "id": "sc130",
+ "title": "Uno nunca sabe",
+ "desc": "Saying I without saying I",
+ "setting": "Doña Elena has asked you something at the sink that you would rather answer sideways.",
+ "ph": 6,
+ "steps": [
+  {
+   "speaker": "Doña Elena",
+   "es": "¿Y usted no piensa volver a su país algún día?",
+   "en": "And are you not thinking of going back to your country one day?",
+   "options": [
+    {
+     "es": "Uno nunca sabe, doña. Uno hace planes y después...",
+     "en": "One never knows, doña. You make plans and then...",
+     "verdict": "good",
+     "feedback": "Uno is the most useful word in the language. It means I and it does not say I, and it leaves the sentence unfinished on purpose."
+    },
+    {
+     "es": "No sé, doña. La verdad no sé.",
+     "en": "I do not know, doña. Honestly I do not know.",
+     "verdict": "ok",
+     "feedback": "Honest and exposed. Uno would have said the same thing with a door still open."
+    },
+    {
+     "es": "No, nunca.",
+     "en": "No, never.",
+     "verdict": "bad",
+     "feedback": "Nobody says never about that in this house. Half the family is abroad and the word costs more than you think."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Es que uno se queda pensando en esas cosas.",
+   "en": "It is that one is left thinking about those things.",
+   "options": [
+    {
+     "es": "Sí, doña. A uno le da vueltas y no lo dice.",
+     "en": "Yes, doña. It goes round and round and you do not say it.",
+     "verdict": "good",
+     "feedback": "She used uno and you answered in uno. Both of you are talking about yourselves and neither of you has admitted it, which is exactly the arrangement."
+    },
+    {
+     "es": "A mí me pasa igual.",
+     "en": "The same happens to me.",
+     "verdict": "ok",
+     "feedback": "Warm and it drops the cover. She was speaking about herself behind that word and you have just stepped out from behind it."
+    },
+    {
+     "es": "¿Usted piensa en su hijo, doña?",
+     "en": "Are you thinking about your son, doña?",
+     "verdict": "bad",
+     "feedback": "She was, and she was talking about him in the third person for a reason. Naming him out loud undoes the whole thing."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Y uno se acostumbra, pero no se olvida.",
+   "en": "And one gets used to it, but one does not forget.",
+   "options": [
+    {
+     "es": "Así es, doña.",
+     "en": "That is how it is, doña.",
+     "verdict": "good",
+     "feedback": "Nothing else needed. She has said the hardest thing she is going to say and she said it about nobody in particular."
+    },
+    {
+     "es": "Con el tiempo se pasa.",
+     "en": "With time it passes.",
+     "verdict": "bad",
+     "feedback": "She has just told you it does not. Telling a woman her own feeling will pass is not a comfort here."
+    },
+    {
+     "es": "Uno aprende a vivir con eso.",
+     "en": "One learns to live with it.",
+     "verdict": "ok",
+     "feedback": "Correct word, and you have just paraphrased her back at her. Silence would have carried more."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Elena",
+   "es": "Bueno. ¿Me ayuda con esa cebolla, mijo?",
+   "en": "Well. Will you give me a hand with that onion, son?",
+   "options": [
+    {
+     "es": "Ya le ayudo, doña.",
+     "en": "I will give you a hand, doña.",
+     "verdict": "good",
+     "feedback": "She has closed it with the onion and you take the onion. Nobody in this kitchen is going to say another word about it."
+    },
+    {
+     "es": "Claro que sí, doña.",
+     "en": "Of course, doña.",
+     "verdict": "ok",
+     "feedback": "Fine. Say the thing you are doing and the subject is properly buried."
+    },
+    {
+     "es": "¿Y no quiere seguir hablando de eso?",
+     "en": "And do you not want to keep talking about that?",
+     "verdict": "bad",
+     "feedback": "No. The onion is the answer, and asking her to reopen it makes her say out loud that she does not want to."
+    }
+   ]
+  }
+ ]
+}

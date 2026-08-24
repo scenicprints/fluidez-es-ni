@@ -1,0 +1,109 @@
+{
+ "id": "sc120",
+ "title": "¿Cómo sigue?",
+ "desc": "Nobody in the house will say the word out loud",
+ "setting": "Don Beto has not got out of bed in a week and his house is full of people you have never met.",
+ "ph": 4,
+ "steps": [
+  {
+   "speaker": "Doña Rosa",
+   "es": "Pase, mijo. Está delicado.",
+   "en": "Come in, love. He is delicate.",
+   "options": [
+    {
+     "es": "¿Y cómo sigue, doña?",
+     "en": "And how is he getting on, doña?",
+     "verdict": "good",
+     "feedback": "Cómo sigue, not cómo está. One asks after a person over time and the other asks for a fact, and everybody who walks through that door asks the first."
+    },
+    {
+     "es": "¿Cómo está él?",
+     "en": "How is he?",
+     "verdict": "ok",
+     "feedback": "Understood, and it sounds like a form being filled in. Cómo sigue is what the room is saying."
+    },
+    {
+     "es": "¿Es grave, doña?",
+     "en": "Is it serious, doña?",
+     "verdict": "bad",
+     "feedback": "Nobody says grave out loud. She said delicado, which is how it is said, and saying the other word feels like calling it down on him."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Rosa",
+   "es": "Ahí va. Anoche durmió un poco.",
+   "en": "He is getting there. Last night he slept a little.",
+   "options": [
+    {
+     "es": "Qué bueno, doña. Primero Dios se compone.",
+     "en": "That is good, doña. God willing he will pick up.",
+     "verdict": "good",
+     "feedback": "Take the small good news and add the formula. In a house like this nobody is asking you for a prognosis, only for hope said correctly."
+    },
+    {
+     "es": "Ojalá se mejore pronto.",
+     "en": "Hopefully he gets better soon.",
+     "verdict": "ok",
+     "feedback": "Kind and correct. Componerse is the verb people use for coming back from an illness like this one."
+    },
+    {
+     "es": "¿Y qué dijo el doctor exactamente?",
+     "en": "And what exactly did the doctor say?",
+     "verdict": "bad",
+     "feedback": "She has been avoiding that sentence all week on purpose. Asking for the detail asks her to say the thing nobody is saying."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Rosa",
+   "es": "Siéntese un rato. Está lleno de gente pero él la oye.",
+   "en": "Sit down for a while. It is full of people but he can hear it.",
+   "options": [
+    {
+     "es": "Aquí me quedo un rato, doña.",
+     "en": "I will stay a while, doña.",
+     "verdict": "good",
+     "feedback": "That is the whole visit. Nobody comes to say anything clever, they come to be in the house and to be counted."
+    },
+    {
+     "es": "Solo vine a saludar.",
+     "en": "I only came to say hello.",
+     "verdict": "ok",
+     "feedback": "Nobody only comes to say hello here. Staying half an hour costs you nothing and is noticed."
+    },
+    {
+     "es": "No quiero molestar con tanta gente.",
+     "en": "I do not want to be in the way with so many people.",
+     "verdict": "bad",
+     "feedback": "The point is the number of people. An empty house at a time like this is the thing everybody is working to prevent."
+    }
+   ]
+  },
+  {
+   "speaker": "Doña Rosa",
+   "es": "¿Y usted quiere pasar a verlo?",
+   "en": "And do you want to go in and see him?",
+   "options": [
+    {
+     "es": "Si él puede, sí. Solo un momento.",
+     "en": "If he is able, yes. Only for a moment.",
+     "verdict": "good",
+     "feedback": "Yes, and short. You leave the decision with her and you do not sit at the bed for an hour."
+    },
+    {
+     "es": "Como usted diga, doña.",
+     "en": "Whatever you say, doña.",
+     "verdict": "ok",
+     "feedback": "Respectful. She asked because she wanted an answer, not the decision back."
+    },
+    {
+     "es": "Mejor no, para no cansarlo.",
+     "en": "Better not, so as not to tire him out.",
+     "verdict": "bad",
+     "feedback": "She offered because he would want to see you. Refusing spares him nothing and it is the one thing he will hear about."
+    }
+   ]
+  }
+ ]
+}

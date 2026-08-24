@@ -1,0 +1,109 @@
+{
+ "id": "sc133",
+ "title": "Confianza",
+ "desc": "Explaining a word to somebody who arrived last week",
+ "setting": "Tom got here nine days ago, he has a notebook, and he has just asked you what confianza means.",
+ "ph": 7,
+ "steps": [
+  {
+   "speaker": "Tom",
+   "es": "¿Qué es eso de confianza? Yo lo entiendo como confiar, ¿verdad?",
+   "en": "What is this confianza thing? I take it as confiar, right?",
+   "options": [
+    {
+     "es": "Más o menos, pero no. Es un permiso que se gana con años.",
+     "en": "More or less, but no. It is a permission you earn over years.",
+     "verdict": "good",
+     "feedback": "Confiar is what a bank does. Confianza is being able to walk in without knocking, and there is no word for that on the other side."
+    },
+    {
+     "es": "Sí, es más o menos eso.",
+     "en": "Yes, it is more or less that.",
+     "verdict": "ok",
+     "feedback": "It is not, and he will spend a year using it wrong because you did not want to complicate his ninth day."
+    },
+    {
+     "es": "No se puede traducir.",
+     "en": "It cannot be translated.",
+     "verdict": "bad",
+     "feedback": "True and useless. It cannot be translated, so explain it in Spanish, which is what you now know how to do."
+    }
+   ]
+  },
+  {
+   "speaker": "Tom",
+   "es": "¿Un permiso para qué?",
+   "en": "A permission for what?",
+   "options": [
+    {
+     "es": "Para entrar sin tocar. Para agarrar un vaso sin pedirlo.",
+     "en": "To walk in without knocking. To take a glass without asking for it.",
+     "verdict": "good",
+     "feedback": "Two concrete pictures beat any definition. That is how you explain a word inside the language instead of around it."
+    },
+    {
+     "es": "Para tratar a alguien sin tanto cuidado.",
+     "en": "To deal with somebody less carefully.",
+     "verdict": "ok",
+     "feedback": "Accurate and abstract. Nine days in, he needs the door and the glass."
+    },
+    {
+     "es": "Ya lo vas a ir sintiendo.",
+     "en": "You will get a feel for it.",
+     "verdict": "bad",
+     "feedback": "He will, in about two years. He asked now and you have the answer now."
+    }
+   ]
+  },
+  {
+   "speaker": "Tom",
+   "es": "¿Y cómo sé si alguien me tiene confianza?",
+   "en": "And how do I know if somebody has confianza with me?",
+   "options": [
+    {
+     "es": "Cuando te empiecen a corregir. A la visita no se le corrige.",
+     "en": "When they start correcting you. You do not correct a guest.",
+     "verdict": "good",
+     "feedback": "That is the test and somebody had to tell you it too. Being corrected is the promotion, and until then everything you do wrong is politely absorbed."
+    },
+    {
+     "es": "Cuando te inviten a comer sin avisar.",
+     "en": "When they feed you without warning you.",
+     "verdict": "ok",
+     "feedback": "A good sign and it happens on day one, to everybody. The correction is the one that only happens later."
+    },
+    {
+     "es": "Cuando te digan que sí a todo.",
+     "en": "When they say yes to everything.",
+     "verdict": "bad",
+     "feedback": "That is the opposite. Yes to everything is what people say to somebody they are still being careful with."
+    }
+   ]
+  },
+  {
+   "speaker": "Tom",
+   "es": "Ideay. Voy a apuntar eso.",
+   "en": "Ideay. I am going to write that down.",
+   "options": [
+    {
+     "es": "Apuntalo, sí. Yo tenía un cuaderno igual.",
+     "en": "Write it down, yes. I had a notebook just like that.",
+     "verdict": "good",
+     "feedback": "You had one, you filled it, and somebody stood on a corner explaining words to you. This is the same afternoon from the other side."
+    },
+    {
+     "es": "Dale, apuntalo.",
+     "en": "Go on, write it down.",
+     "verdict": "ok",
+     "feedback": "Fine. Telling him you had the same notebook is worth more to him than the definition was."
+    },
+    {
+     "es": "No hace falta apuntar eso.",
+     "en": "There is no need to write that down.",
+     "verdict": "bad",
+     "feedback": "There is. It took you three years to work out and he can have it on his ninth day."
+    }
+   ]
+  }
+ ]
+}
