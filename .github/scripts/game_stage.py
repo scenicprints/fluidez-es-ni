@@ -82,7 +82,7 @@ def main():
 
     plan = read(os.path.join(content, "plan", "game-spine.json"))
     missions = plan["missions"]
-    acts = plan["acts"]
+    districts = plan["districts"]
     planned = dict((m["id"], m) for m in missions)
 
     written, beats_total = {}, 0
@@ -99,53 +99,76 @@ def main():
             written[mid] = body
             beats_total += len(check_mission(body, problems))
 
-    # Which chunks are taught, and which are re-used later — the fade ladder
-    # only works if a phrase comes back, so a chunk taught once and never seen
-    # again is a phrase the player meets on rung one forever.
-    taught, reused = {}, {}
-    for m in missions:
-        for c in m.get("teaches", []):
-            taught.setdefault(c, []).append(m["id"])
-    once = sorted(c for c, ids in taught.items() if len(ids) == 1)
+    # Nothing on the map is signposted, so the crowd IS the quest system: a
+    # mission nobody in the street points at is a mission nobody can find.
+    hints = {}
+    hint_dir = os.path.join(content, "game", "crowd")
+    if os.path.isdir(hint_dir):
+        for name in sorted(os.listdir(hint_dir)):
+            if not name.endswith(".json"):
+                continue
+            for row in read(os.path.join(hint_dir, name)) or []:
+                for mid in row.get("points_at") or []:
+                    hints.setdefault(mid, []).append(row)
+    unfindable = [m["id"] for m in missions
+                  if m["id"] in written and not hints.get(m["id"])]
 
-    print("planned    %d missions across %d acts, %d chunks"
-          % (len(missions), len(acts), len(taught)))
+    # A chunk taught once and never met again strands the player on rung one,
+    # because the help ladder only fades when a phrase comes back.
+    met = {}
+    for m in missions:
+        for c in m.get("teaches", []) + m.get("reuses", []):
+            met[c] = met.get(c, 0) + 1
+    cold = [c for c in plan.get("core", []) if met.get(c, 0) < 3]
+
+    print("planned    %d missions across %d districts, %d chunks"
+          % (len(missions), len(districts), len(met)))
     print("written    %d of %d missions, %d beats"
           % (len(written), len(missions), beats_total))
-    for a in sorted(acts, key=int):
-        ms = [m for m in missions if str(m["act"]) == a]
+    for d in sorted(districts, key=lambda k: -sum(1 for m in missions if m["district"] == k)):
+        ms = [m for m in missions if m["district"] == d]
         done = sum(1 for m in ms if m["id"] in written)
-        print("act %s      %d of %d  %s" % (a, done, len(ms), acts[a]["name"]))
-    print("recycling  %d chunk(s) taught in only one mission" % len(once))
-    if once:
-        print("           %s" % u", ".join(once[:12]))
-    for s in stray:
-        print("PROBLEM: %s is not on the game spine" % s)
-    for p in problems[:25]:
-        print("PROBLEM: %s" % p)
+        print("%-11s%d of %d  %s" % (d, done, len(ms), districts[d]["name"]))
+    print("tiers      %s" % u"  ".join(
+        u"t%d %d/%d" % (t, sum(1 for m in missions if m["tier"] == t and m["id"] in written),
+                        sum(1 for m in missions if m["tier"] == t)) for t in (1, 2, 3, 4, 5)))
+    print("crowd      %d mission(s) nobody in the street points at" % len(unfindable))
+    print("recycling  %d everyday phrase(s) that do not come back often enough"
+          % len(cold))
+    if cold:
+        print("           %s" % u", ".join(cold[:12]))
+    for s_ in stray:
+        print("PROBLEM: %s is not on the game spine" % s_)
+    for u_ in unfindable[:10]:
+        print("PROBLEM: %s is written but unfindable - no crowd hint points at it" % u_)
+    for p_ in problems[:25]:
+        print("PROBLEM: %s" % p_)
     if len(problems) > 25:
         print("PROBLEM: ... and %d more" % (len(problems) - 25))
 
     lines = [u"# Game progress", u"",
              u"Written by `game_stage.py`. Do not edit by hand.", u"",
+             u"> %s" % plan.get("premise", u""), u"",
              u"**%d of %d missions written.**" % (len(written), len(missions)), u""]
-    for a in sorted(acts, key=int):
-        ms = [m for m in missions if str(m["act"]) == a]
+    for d in districts:
+        ms = [m for m in missions if m["district"] == d]
+        if not ms:
+            continue
         done = sum(1 for m in ms if m["id"] in written)
-        lines += [u"## Act %s — %s (%d/%d)" % (a, acts[a]["name"], done, len(ms)),
-                  u"*%s*" % acts[a]["desc"], u"",
-                  u"| | mission | who | what you are doing |",
-                  u"|---|---|---|---|"]
-        for m in ms:
-            lines.append(u"| %s | `%s` **%s** | %s | %s |"
-                         % (u"x" if m["id"] in written else u" ",
+        lines += [u"## %s (%d/%d)" % (districts[d]["name"], done, len(ms)),
+                  u"*%s*" % districts[d]["desc"], u"",
+                  u"| | tier | mission | who | what you are doing |",
+                  u"|---|---|---|---|---|"]
+        for m in sorted(ms, key=lambda x: (x["tier"], x["id"])):
+            lines.append(u"| %s | %d | `%s` **%s** | %s | %s |"
+                         % (u"x" if m["id"] in written else u" ", m["tier"],
                             m["id"], m["title"], m["who"], m["goal"]))
         lines.append(u"")
     with io.open(os.path.join(content, "plan", "GAME-PROGRESS.md"),
                  "w", encoding="utf-8") as f:
         f.write(NEWLINE.join(lines) + NEWLINE)
 
-    return len(problems) + len(stray)
+    return len(problems) + len(stray) + len(unfindable)
 
 
 if __name__ == "__main__":

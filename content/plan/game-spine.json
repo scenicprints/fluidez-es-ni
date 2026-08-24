@@ -1,240 +1,185 @@
 {
- "acts": {
-  "1": {
-   "name": "Llegada",
-   "desc": "Granada, and you can say nothing"
+ "premise": "You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.",
+ "districts": {
+  "centro": {
+   "name": "El Centro",
+   "desc": "Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you."
   },
-  "2": {
-   "name": "Quedarse",
-   "desc": "Granada, becoming a regular"
+  "mercado": {
+   "name": "El Mercado",
+   "desc": "The municipal market and the streets around it. Loud, cheap, and where you learn what things actually cost."
   },
-  "3": {
-   "name": "Managua",
-   "desc": "The barrio, where the course lives"
+  "xalteva": {
+   "name": "Xalteva",
+   "desc": "The old quarter west of the centre. Churches, quiet streets, old people with time to talk."
   },
-  "4": {
-   "name": "La familia",
-   "desc": "Holding your own"
+  "guadalupe": {
+   "name": "Guadalupe",
+   "desc": "East, sloping toward the water. Families, workshops, kids in the street."
+  },
+  "pantanal": {
+   "name": "Pantanal",
+   "desc": "Down by the lake. Poorer, wetter, the part of Granada no postcard shows."
+  },
+  "malecon": {
+   "name": "El Malecón",
+   "desc": "The lakefront. Boats, fried fish, Sunday crowds."
+  },
+  "terminal": {
+   "name": "La Terminal",
+   "desc": "Buses in and out. Everyone here is going somewhere or has just arrived."
+  },
+  "barrio": {
+   "name": "Tu barrio",
+   "desc": "Your own street. The landlady, the pulpería on the corner, neighbours who hear everything."
+  },
+  "trabajo": {
+   "name": "El trabajo",
+   "desc": "The workshop and the errands that pay. Where your Spanish stops being polite and starts being useful."
+  },
+  "tramites": {
+   "name": "Trámites y salud",
+   "desc": "Offices, clinics, queues. The Spanish nobody teaches and everybody needs."
+  },
+  "fiestas": {
+   "name": "Las fiestas",
+   "desc": "The calendar. Some come round once a year and you will miss one."
+  },
+  "afuera": {
+   "name": "Afuera",
+   "desc": "Masaya, Catarina, la Laguna, Mombacho. You need wheels and a reason."
   }
  },
- "places": {
-  "hostal": "Hostal, Calle La Libertad",
-  "calzada": "Calle La Calzada",
-  "parque": "Parque Central",
-  "mercado": "Mercado de Granada",
-  "farmacia": "La farmacia",
-  "lago": "The dock on Cocibolca",
-  "barrio": "Your street in Granada",
-  "pulperia": "The pulpería on the corner",
-  "cancha": "The corner pitch",
-  "terminal": "The bus terminal",
-  "masaya": "Masaya",
-  "managua": "The barrio, Managua",
-  "fritanga": "Doña Carmen’s fritanga",
-  "taller": "The workshop",
-  "iglesia": "The church",
-  "suegra": "Doña Elena’s house"
- },
+ "crowd": [
+  {
+   "kind": "vendedora",
+   "count": 12,
+   "note": "Sells something from a doorway. Knows who buys what."
+  },
+  {
+   "kind": "chavalo en bici",
+   "count": 10,
+   "note": "Kids on bikes. Know where everyone is, and are wrong about a third of the time."
+  },
+  {
+   "kind": "doña en la puerta",
+   "count": 14,
+   "note": "Out in a rocking chair. Sees everything on the street."
+  },
+  {
+   "kind": "caponero",
+   "count": 8,
+   "note": "Waiting for a fare. Knows every address in town."
+  },
+  {
+   "kind": "obrero",
+   "count": 8,
+   "note": "Working on something. Short answers, useful ones."
+  },
+  {
+   "kind": "viejo de la esquina",
+   "count": 6,
+   "note": "Has time. Tells you more than you asked."
+  },
+  {
+   "kind": "turista",
+   "count": 6,
+   "note": "Lost, and speaks English at you. Talking to them raises your chele."
+  },
+  {
+   "kind": "cuidacarros",
+   "count": 5,
+   "note": "Watching parked motos. Sees who comes and goes."
+  },
+  {
+   "kind": "evangélico",
+   "count": 4,
+   "note": "Wants to invite you somewhere, and genuinely knows the barrio."
+  },
+  {
+   "kind": "borracho amable",
+   "count": 3,
+   "note": "Unreliable, friendly, occasionally right."
+  },
+  {
+   "kind": "policía",
+   "count": 4,
+   "note": "Answers what you ask and nothing more."
+  },
+  {
+   "kind": "perro",
+   "count": 10,
+   "note": "Not a source of hints."
+  }
+ ],
+ "core": [
+  "Buenas",
+  "por favor",
+  "gracias",
+  "está bien",
+  "quiero",
+  "me da",
+  "vaya pues",
+  "ideay",
+  "ni modo",
+  "así es",
+  "me deja en",
+  "con permiso",
+  "fíjese que",
+  "dale",
+  "cuídese",
+  "no ando",
+  "ya va",
+  "todo bien",
+  "vamos",
+  "nos vemos",
+  "que le vaya bien",
+  "disculpe",
+  "¿a cómo?",
+  "otro día"
+ ],
  "missions": [
   {
-   "id": "g1-01",
-   "act": 1,
-   "place": "hostal",
+   "id": "centro-01",
+   "district": "centro",
+   "tier": 1,
    "who": "El muchacho del hostal",
-   "title": "El hostal",
-   "goal": "Get yourself a room",
+   "title": "La primera noche",
+   "goal": "Get a room for your first three nights",
    "teaches": [
     "Buenas",
     "quiero",
     "un cuarto",
-    "tres",
-    "noches",
-    "está",
-    "bien",
-    "gracias"
+    "tres noches",
+    "está bien"
    ],
    "reuses": []
   },
   {
-   "id": "g1-02",
-   "act": 1,
-   "place": "calzada",
+   "id": "centro-02",
+   "district": "centro",
+   "tier": 1,
    "who": "La muchacha del comedor",
-   "title": "Desayuno en La Calzada",
-   "goal": "Order breakfast and pay",
+   "title": "El desayuno",
+   "goal": "Order breakfast and ask what you owe",
    "teaches": [
     "un gallo pinto",
     "por favor",
     "un café",
-    "cuánto",
-    "le debo"
+    "cuánto le debo"
    ],
    "reuses": [
     "Buenas",
-    "bien",
+    "está bien",
     "quiero"
    ]
   },
   {
-   "id": "g1-03",
-   "act": 1,
-   "place": "parque",
-   "who": "El taxista",
-   "title": "Taxi al mercado",
-   "goal": "Get there without paying the chele price",
-   "teaches": [
-    "al mercado",
-    "ochenta",
-    "córdobas",
-    "cien"
-   ],
-   "reuses": [
-    "Buenas",
-    "cuánto",
-    "por favor"
-   ]
-  },
-  {
-   "id": "g1-04",
-   "act": 1,
-   "place": "mercado",
-   "who": "La verdulera",
-   "title": "La fruta",
-   "goal": "Buy fruit for the week",
-   "teaches": [
-    "una libra",
-    "de",
-    "mango",
-    "aguacate",
-    "¿a cómo?"
-   ],
-   "reuses": [
-    "bien",
-    "está",
-    "gracias"
-   ]
-  },
-  {
-   "id": "g1-05",
-   "act": 1,
-   "place": "mercado",
-   "who": "El del cambio",
-   "title": "Los reales",
-   "goal": "Change a hundred dollars",
-   "teaches": [
-    "quiero cambiar",
-    "dólares",
-    "billetes",
-    "pequeños"
-   ],
-   "reuses": [
-    "Buenas",
-    "cuánto",
-    "quiero"
-   ]
-  },
-  {
-   "id": "g1-06",
-   "act": 1,
-   "place": "calzada",
-   "who": "Un chavalo",
-   "title": "La tarjeta",
-   "goal": "Buy a phone chip and put credit on it",
-   "teaches": [
-    "un chip",
-    "una recarga",
-    "de cien",
-    "mi teléfono"
-   ],
-   "reuses": [
-    "está",
-    "gracias",
-    "por favor"
-   ]
-  },
-  {
-   "id": "g1-07",
-   "act": 1,
-   "place": "parque",
-   "who": "Doña de los caites",
-   "title": "¿Por dónde?",
-   "goal": "Ask the way to the cathedral",
-   "teaches": [
-    "¿dónde queda?",
-    "la catedral",
-    "de aquí",
-    "arriba",
-    "abajo"
-   ],
-   "reuses": [
-    "bien",
-    "cuánto",
-    "quiero"
-   ]
-  },
-  {
-   "id": "g1-08",
-   "act": 1,
-   "place": "farmacia",
-   "who": "La farmacéutica",
-   "title": "La farmacia",
-   "goal": "Explain what hurts and get something for it",
-   "teaches": [
-    "me duele",
-    "la cabeza",
-    "el estómago",
-    "desde ayer"
-   ],
-   "reuses": [
-    "Buenas",
-    "gracias",
-    "por favor"
-   ]
-  },
-  {
-   "id": "g1-09",
-   "act": 1,
-   "place": "hostal",
-   "who": "La señora del lavado",
-   "title": "La ropa sucia",
-   "goal": "Get your washing done by Friday",
-   "teaches": [
-    "lavar",
-    "esta ropa",
-    "para el viernes",
-    "¿cuánto sale?"
-   ],
-   "reuses": [
-    "bien",
-    "está",
-    "quiero"
-   ]
-  },
-  {
-   "id": "g1-10",
-   "act": 1,
-   "place": "lago",
-   "who": "El lanchero",
-   "title": "Las isletas",
-   "goal": "Haggle a boat out to the isletas and back",
-   "teaches": [
-    "una vuelta",
-    "por las isletas",
-    "una hora",
-    "ida y vuelta"
-   ],
-   "reuses": [
-    "Buenas",
-    "cuánto",
-    "por favor"
-   ]
-  },
-  {
-   "id": "g1-11",
-   "act": 1,
-   "place": "calzada",
-   "who": "El mesero que habla inglés",
-   "title": "En español, por favor",
+   "id": "centro-03",
+   "district": "centro",
+   "tier": 1,
+   "who": "El mesero",
+   "title": "En español",
    "goal": "Get served in Spanish by somebody who would rather practise English",
    "teaches": [
     "en español",
@@ -243,18 +188,18 @@
     "de nuevo"
    ],
    "reuses": [
-    "bien",
-    "está",
-    "gracias"
+    "Buenas",
+    "está bien",
+    "quiero"
    ]
   },
   {
-   "id": "g1-12",
-   "act": 1,
-   "place": "parque",
-   "who": "Don de la banca",
+   "id": "centro-04",
+   "district": "centro",
+   "tier": 2,
+   "who": "Doña de la banca",
    "title": "El calor",
-   "goal": "Small talk on a bench about the heat and nothing else",
+   "goal": "Sit on a bench and talk about the weather and nothing else",
    "teaches": [
     "qué calor",
     "todos los días",
@@ -262,24 +207,61 @@
     "ni modo"
    ],
    "reuses": [
-    "Buenas",
-    "cuánto",
+    "está bien",
+    "por favor",
     "quiero"
    ]
   },
   {
-   "id": "g2-01",
-   "act": 2,
-   "place": "barrio",
-   "who": "Doña Marta",
-   "title": "El cuarto de alquiler",
-   "goal": "Rent a room by the month instead of the night",
+   "id": "centro-05",
+   "district": "centro",
+   "tier": 2,
+   "who": "El cuidacarros",
+   "title": "El cuidacarros",
+   "goal": "Understand that the man watching your moto has a job, not a racket",
    "teaches": [
-    "por mes",
-    "el alquiler",
-    "el agua",
-    "incluido",
-    "¿desde cuándo?"
+    "se lo cuido",
+    "diez pesos",
+    "ahí se lo dejo",
+    "gracias"
+   ],
+   "reuses": [
+    "Buenas",
+    "está bien",
+    "por favor"
+   ]
+  },
+  {
+   "id": "centro-06",
+   "district": "centro",
+   "tier": 2,
+   "who": "El guía",
+   "title": "La catedral",
+   "goal": "Get the story of the cathedral out of somebody who wants paying for it",
+   "teaches": [
+    "¿me cuenta?",
+    "no ando",
+    "otro día",
+    "muy amable"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "centro-07",
+   "district": "centro",
+   "tier": 3,
+   "who": "El fotógrafo",
+   "title": "La foto",
+   "goal": "Get a photo taken for a document, not for a postcard",
+   "teaches": [
+    "para un documento",
+    "fondo blanco",
+    "sin lentes",
+    "¿cuándo salen?"
    ],
    "reuses": [
     "Buenas",
@@ -288,67 +270,561 @@
    ]
   },
   {
-   "id": "g2-02",
-   "act": 2,
-   "place": "pulperia",
-   "who": "Doña Chepa",
+   "id": "centro-08",
+   "district": "centro",
+   "tier": 3,
+   "who": "El del kiosco",
+   "title": "El periódico",
+   "goal": "Buy a paper and get told the news before you read it",
+   "teaches": [
+    "el periódico",
+    "¿qué dice?",
+    "lo de siempre",
+    "nada bueno"
+   ],
+   "reuses": [
+    "está bien",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "centro-09",
+   "district": "centro",
+   "tier": 3,
+   "who": "La turista perdida",
+   "title": "La gringa perdida",
+   "goal": "Translate for a lost tourist, and feel your accent get worse",
+   "teaches": [
+    "ella pregunta",
+    "dice que",
+    "no es aquí",
+    "yo le explico"
+   ],
+   "reuses": [
+    "así es",
+    "no ando",
+    "otro día"
+   ]
+  },
+  {
+   "id": "centro-10",
+   "district": "centro",
+   "tier": 4,
+   "who": "El poeta",
+   "title": "Darío",
+   "goal": "Be told about Rubén Darío by a man who will not stop",
+   "teaches": [
+    "el poeta",
+    "de aquí",
+    "me lo aprendí",
+    "de memoria"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "centro-11",
+   "district": "centro",
+   "tier": 4,
+   "who": "El transitero",
+   "title": "La multa",
+   "goal": "Talk your way out of a ticket, or find out what not doing so costs",
+   "teaches": [
+    "jefe",
+    "no me di cuenta",
+    "ando sin",
+    "disculpe la molestia"
+   ],
+   "reuses": [
+    "está bien",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "centro-12",
+   "district": "centro",
+   "tier": 5,
+   "who": "El borracho amable",
+   "title": "El del parque",
+   "goal": "Get away from a friendly drunk without insulting him",
+   "teaches": [
+    "ya me voy",
+    "otro día conversamos",
+    "cuídese",
+    "que le vaya bien"
+   ],
+   "reuses": [
+    "así es",
+    "no ando",
+    "otro día"
+   ]
+  },
+  {
+   "id": "mercado-01",
+   "district": "mercado",
+   "tier": 1,
+   "who": "La verdulera",
+   "title": "La fruta",
+   "goal": "Buy fruit for the week without paying the chele price",
+   "teaches": [
+    "una libra",
+    "de mango",
+    "¿a cómo?",
+    "está caro"
+   ],
+   "reuses": [
+    "está bien",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "mercado-02",
+   "district": "mercado",
+   "tier": 1,
+   "who": "El del cambio",
+   "title": "Los reales",
+   "goal": "Change dollars and insist on small notes",
+   "teaches": [
+    "quiero cambiar",
+    "dólares",
+    "billetes pequeños",
+    "¿a cómo está?"
+   ],
+   "reuses": [
+    "está bien",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "mercado-03",
+   "district": "mercado",
+   "tier": 2,
+   "who": "La carnicera",
+   "title": "La carne",
+   "goal": "Buy meat by weight and get the cut you meant",
+   "teaches": [
+    "media libra",
+    "sin hueso",
+    "para sopa",
+    "así está bien"
+   ],
+   "reuses": [
+    "así es",
+    "cuídese",
+    "no ando"
+   ]
+  },
+  {
+   "id": "mercado-04",
+   "district": "mercado",
+   "tier": 2,
+   "who": "El de los granos",
+   "title": "Los frijoles",
+   "goal": "Buy beans and be told how to cook them",
+   "teaches": [
+    "una libra de frijoles",
+    "rojos",
+    "¿cómo los hago?",
+    "con todo"
+   ],
+   "reuses": [
+    "otro día",
+    "que le vaya bien",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "mercado-05",
+   "district": "mercado",
+   "tier": 2,
+   "who": "Doña de la fritanga",
+   "title": "La fritanga",
+   "goal": "Order from a fritanga like somebody who eats there",
+   "teaches": [
+    "un enchilado",
+    "con ensalada",
+    "para llevar",
+    "ya va"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "mercado-06",
+   "district": "mercado",
+   "tier": 3,
+   "who": "El cargador",
+   "title": "Las bolsas",
+   "goal": "Pay somebody to carry your shopping, agreed first",
+   "teaches": [
+    "me ayuda",
+    "hasta la esquina",
+    "¿cuánto me cobra?",
+    "quedamos así"
+   ],
+   "reuses": [
+    "Buenas",
+    "otro día",
+    "por favor"
+   ]
+  },
+  {
+   "id": "mercado-07",
+   "district": "mercado",
+   "tier": 3,
+   "who": "La de las tortillas",
+   "title": "Las tortillas",
+   "goal": "Buy tortillas at the right hour, because later there are none",
+   "teaches": [
+    "¿todavía hay?",
+    "ya se acabaron",
+    "mañana temprano",
+    "guárdeme"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "quiero"
+   ]
+  },
+  {
+   "id": "mercado-08",
+   "district": "mercado",
+   "tier": 3,
+   "who": "El vendedor insistente",
+   "title": "El insistente",
+   "goal": "Say no four times to somebody who ignores the first three",
+   "teaches": [
+    "no gracias",
+    "ya tengo",
+    "de verdad no",
+    "que le vaya bien"
+   ],
+   "reuses": [
+    "así es",
+    "cuídese",
+    "ni modo"
+   ]
+  },
+  {
+   "id": "mercado-09",
+   "district": "mercado",
+   "tier": 4,
+   "who": "La de las hierbas",
+   "title": "El remedio",
+   "goal": "Be sold a remedy for something you did not know you had",
+   "teaches": [
+    "para el estómago",
+    "lo hierve",
+    "en ayunas",
+    "no cuesta nada"
+   ],
+   "reuses": [
+    "no ando",
+    "que le vaya bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "mercado-10",
+   "district": "mercado",
+   "tier": 4,
+   "who": "El pescadero",
+   "title": "El pescado",
+   "goal": "Buy fish and be able to tell whether it is fresh",
+   "teaches": [
+    "está fresco",
+    "de hoy",
+    "me lo limpia",
+    "entero"
+   ],
+   "reuses": [
+    "Buenas",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "mercado-11",
+   "district": "mercado",
+   "tier": 4,
+   "who": "La comadre",
+   "title": "La comadre",
+   "goal": "Be recognised, and become somebody who comes here",
+   "teaches": [
+    "ya lo conozco",
+    "lo de siempre",
+    "le guardé",
+    "así me gusta"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "mercado-12",
+   "district": "mercado",
+   "tier": 5,
+   "who": "El regateador",
+   "title": "El regateo",
+   "goal": "Haggle properly, which is neither arguing nor accepting",
+   "teaches": [
+    "me lo deja en",
+    "ni para usted ni para mí",
+    "ya pues",
+    "trato hecho"
+   ],
+   "reuses": [
+    "así es",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "xalteva-01",
+   "district": "xalteva",
+   "tier": 1,
+   "who": "Doña de los caites",
+   "title": "¿Por dónde?",
+   "goal": "Ask the way and get an answer with no street names in it",
+   "teaches": [
+    "¿dónde queda?",
+    "dos cuadras",
+    "al lago",
+    "arriba"
+   ],
+   "reuses": [
+    "cuídese",
+    "no ando",
+    "ya va"
+   ]
+  },
+  {
+   "id": "xalteva-02",
+   "district": "xalteva",
+   "tier": 2,
+   "who": "El sacristán",
+   "title": "La iglesia",
+   "goal": "Get into a church that is shut, and be told why",
+   "teaches": [
+    "está cerrado",
+    "a las cinco",
+    "venga después",
+    "con permiso"
+   ],
+   "reuses": [
+    "otro día",
+    "que le vaya bien",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "xalteva-03",
+   "district": "xalteva",
+   "tier": 2,
+   "who": "La beata",
+   "title": "La misa",
+   "goal": "Talk about mass without pretending to be devout",
+   "teaches": [
+    "no soy de aquí",
+    "respeto mucho",
+    "algún día",
+    "primero Dios"
+   ],
+   "reuses": [
+    "cuídese",
+    "no ando",
+    "ya va"
+   ]
+  },
+  {
+   "id": "xalteva-04",
+   "district": "xalteva",
+   "tier": 3,
+   "who": "Don Chombo",
+   "title": "El viejo de la esquina",
+   "goal": "Let an old man tell you what this street used to be",
+   "teaches": [
+    "antes",
+    "en aquel tiempo",
+    "ya no es igual",
+    "usted no vio eso"
+   ],
+   "reuses": [
+    "otro día",
+    "que le vaya bien",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "xalteva-05",
+   "district": "xalteva",
+   "tier": 3,
+   "who": "La costurera",
+   "title": "El pantalón",
+   "goal": "Get trousers taken up and agree when they are ready",
+   "teaches": [
+    "me lo arregla",
+    "aquí",
+    "¿para cuándo?",
+    "el jueves"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "xalteva-06",
+   "district": "xalteva",
+   "tier": 3,
+   "who": "El niño de la bici",
+   "title": "El mandado",
+   "goal": "Send a kid on an errand and get the change back",
+   "teaches": [
+    "me hace un mandado",
+    "aquí está",
+    "me trae el vuelto",
+    "para vos"
+   ],
+   "reuses": [
+    "está bien",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "xalteva-07",
+   "district": "xalteva",
+   "tier": 4,
+   "who": "La maestra",
+   "title": "La escuela",
+   "goal": "Be asked to say hello to a class in English",
+   "teaches": [
+    "no soy maestro",
+    "con mucho gusto",
+    "¿qué les digo?",
+    "una vez nada más"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "cuídese"
+   ]
+  },
+  {
+   "id": "xalteva-08",
+   "district": "xalteva",
+   "tier": 4,
+   "who": "El del cementerio",
+   "title": "El cementerio",
+   "goal": "Walk a cemetery with the man who looks after it",
+   "teaches": [
+    "toda mi vida",
+    "aquí están",
+    "los cuido",
+    "nadie viene"
+   ],
+   "reuses": [
+    "no ando",
+    "que le vaya bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "xalteva-09",
+   "district": "xalteva",
+   "tier": 5,
+   "who": "Doña Rosa",
+   "title": "La rezadora",
+   "goal": "Be invited to a novena and know what is expected",
+   "teaches": [
+    "nueve noches",
+    "a las siete",
+    "no hace falta",
+    "con eso basta"
+   ],
+   "reuses": [
+    "Buenas",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "xalteva-10",
+   "district": "xalteva",
+   "tier": 5,
+   "who": "El historiador",
+   "title": "Las murallas",
+   "goal": "Hear why this quarter is called Xalteva",
+   "teaches": [
+    "los indios",
+    "antes de",
+    "la muralla",
+    "lo que queda"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "guadalupe-01",
+   "district": "guadalupe",
+   "tier": 1,
+   "who": "El pulpero",
    "title": "La pulpería",
-   "goal": "Become somebody the shop knows by name",
+   "goal": "Buy the small things at the shop on the corner",
    "teaches": [
-    "fiado",
-    "me apunta",
-    "mañana le pago",
-    "ideay"
+    "me da",
+    "un jabón",
+    "y una gaseosa",
+    "nada más"
    ],
    "reuses": [
-    "bien",
-    "está",
+    "así es",
+    "ni modo",
     "quiero"
    ]
   },
   {
-   "id": "g2-03",
-   "act": 2,
-   "place": "barrio",
-   "who": "El barbero",
-   "title": "La barbería",
-   "goal": "Get a haircut you actually asked for",
+   "id": "guadalupe-02",
+   "district": "guadalupe",
+   "tier": 2,
+   "who": "El de las motos",
+   "title": "El taller de motos",
+   "goal": "Describe a noise without knowing the word for it",
    "teaches": [
-    "más corto",
-    "a los lados",
-    "así está bien",
-    "déjelo así"
+    "hace un ruido",
+    "aquí atrás",
+    "cuando freno",
+    "¿es grave?"
    ],
    "reuses": [
-    "bien",
-    "está",
-    "gracias"
+    "Buenas",
+    "gracias",
+    "por favor"
    ]
   },
   {
-   "id": "g2-04",
-   "act": 2,
-   "place": "barrio",
-   "who": "Roberto",
-   "title": "El chavalo de al lado",
-   "goal": "Let the neighbour’s kid teach you the words nobody prints",
-   "teaches": [
-    "chunche",
-    "chele",
-    "vaya pues",
-    "dale"
-   ],
-   "reuses": [
-    "cuánto",
-    "ideay",
-    "quiero"
-   ]
-  },
-  {
-   "id": "g2-05",
-   "act": 2,
-   "place": "cancha",
-   "who": "Los de la cancha",
+   "id": "guadalupe-03",
+   "district": "guadalupe",
+   "tier": 2,
+   "who": "Los chavalos",
    "title": "La mejenga",
    "goal": "Get picked for a game on the corner pitch",
    "teaches": [
@@ -358,34 +834,91 @@
     "buena esa"
    ],
    "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "guadalupe-04",
+   "district": "guadalupe",
+   "tier": 3,
+   "who": "La vecina",
+   "title": "El cumpleaños",
+   "goal": "Be invited to a birthday and turn up with the right thing",
+   "teaches": [
+    "cumple años",
+    "¿a qué hora?",
+    "¿llevo algo?",
+    "felicidades"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "ni modo"
+   ]
+  },
+  {
+   "id": "guadalupe-05",
+   "district": "guadalupe",
+   "tier": 3,
+   "who": "El carpintero",
+   "title": "La mesa",
+   "goal": "Order a table and describe the size with your hands",
+   "teaches": [
+    "así de grande",
+    "de madera",
+    "¿me la hace?",
+    "sin prisa"
+   ],
+   "reuses": [
+    "cuídese",
+    "no ando",
+    "ya va"
+   ]
+  },
+  {
+   "id": "guadalupe-06",
+   "district": "guadalupe",
+   "tier": 3,
+   "who": "La señora del perro",
+   "title": "El perro",
+   "goal": "Deal with a dog that has decided your gate is its gate",
+   "teaches": [
+    "ese perro",
+    "no es mío",
+    "aquí anda",
+    "no muerde"
+   ],
+   "reuses": [
+    "otro día",
+    "que le vaya bien",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "guadalupe-07",
+   "district": "guadalupe",
+   "tier": 4,
+   "who": "El evangélico",
+   "title": "El culto",
+   "goal": "Decline an invitation to church without giving offence",
+   "teaches": [
+    "le agradezco",
+    "no soy de esa",
+    "respeto",
+    "quizás otro día"
+   ],
+   "reuses": [
     "Buenas",
     "gracias",
     "por favor"
    ]
   },
   {
-   "id": "g2-06",
-   "act": 2,
-   "place": "barrio",
-   "who": "Doña Marta",
-   "title": "El agua",
-   "goal": "Complain that the water has been off for three days",
-   "teaches": [
-    "no hay agua",
-    "desde el martes",
-    "¿cuándo viene?",
-    "avíseme"
-   ],
-   "reuses": [
-    "bien",
-    "está",
-    "quiero"
-   ]
-  },
-  {
-   "id": "g2-07",
-   "act": 2,
-   "place": "pulperia",
+   "id": "guadalupe-08",
+   "district": "guadalupe",
+   "tier": 4,
    "who": "Doña Chepa",
    "title": "El chisme",
    "goal": "Hear gossip and pass it on without getting it wrong",
@@ -396,42 +929,705 @@
     "¿de verdad?"
    ],
    "reuses": [
-    "cuánto",
-    "ideay",
-    "vaya pues"
+    "está bien",
+    "me da",
+    "quiero"
    ]
   },
   {
-   "id": "g2-08",
-   "act": 2,
-   "place": "barrio",
-   "who": "La vecina",
-   "title": "El cumpleaños",
-   "goal": "Get invited to a birthday and turn up right",
+   "id": "guadalupe-09",
+   "district": "guadalupe",
+   "tier": 5,
+   "who": "El vecino bravo",
+   "title": "El pleito",
+   "goal": "Get between two neighbours arguing over a wall",
    "teaches": [
-    "cumple años",
-    "¿a qué hora?",
-    "llevo algo",
-    "felicidades"
+    "cálmese",
+    "no es para tanto",
+    "hablando se arregla",
+    "ya estuvo"
    ],
    "reuses": [
-    "cuánto",
-    "quiero",
-    "vaya pues"
+    "Buenas",
+    "otro día",
+    "¿a cómo?"
    ]
   },
   {
-   "id": "g2-09",
-   "act": 2,
-   "place": "terminal",
-   "who": "El cobrador",
-   "title": "El bus a Masaya",
-   "goal": "Take the bus without ending up in Managua",
+   "id": "guadalupe-10",
+   "district": "guadalupe",
+   "tier": 5,
+   "who": "La partera",
+   "title": "La partera",
+   "goal": "Talk to a midwife who has delivered half the street",
    "teaches": [
-    "¿va para Masaya?",
+    "¿cuántos años?",
+    "aquí nacieron",
+    "sin doctor",
+    "nunca se me murió"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "pantanal-01",
+   "district": "pantanal",
+   "tier": 2,
+   "who": "El pescador",
+   "title": "La lancha",
+   "goal": "Get taken out on the lake by somebody who works it",
+   "teaches": [
+    "me lleva",
+    "una hora",
+    "ida y vuelta",
+    "temprano"
+   ],
+   "reuses": [
+    "me da",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "pantanal-02",
+   "district": "pantanal",
+   "tier": 2,
+   "who": "La lavandera",
+   "title": "El lavado",
+   "goal": "Get your washing done and agree a day",
+   "teaches": [
+    "lavar esta ropa",
+    "para el viernes",
+    "¿cuánto sale?",
+    "sin apuro"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "pantanal-03",
+   "district": "pantanal",
+   "tier": 3,
+   "who": "El del agua",
+   "title": "No hay agua",
+   "goal": "Find out when the water is coming back",
+   "teaches": [
+    "no hay agua",
+    "desde el martes",
+    "¿cuándo viene?",
+    "avíseme"
+   ],
+   "reuses": [
+    "cuídese",
+    "no ando",
+    "ya va"
+   ]
+  },
+  {
+   "id": "pantanal-04",
+   "district": "pantanal",
+   "tier": 3,
+   "who": "La señora del fogón",
+   "title": "La leña",
+   "goal": "Buy firewood and carry it further than you expected",
+   "teaches": [
+    "un tercio",
+    "de leña",
+    "seca",
+    "ahí se la dejo"
+   ],
+   "reuses": [
+    "otro día",
+    "que le vaya bien",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "pantanal-05",
+   "district": "pantanal",
+   "tier": 3,
+   "who": "El chavalo descalzo",
+   "title": "El chavalo",
+   "goal": "Be asked for money by a kid, and work out what you think",
+   "teaches": [
+    "no tengo",
+    "te compro algo",
+    "¿comiste?",
+    "andá con cuidado"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "pantanal-06",
+   "district": "pantanal",
+   "tier": 4,
+   "who": "Doña Julia",
+   "title": "La inundación",
+   "goal": "Help bail out a house after the rain and be fed for it",
+   "teaches": [
+    "se metió el agua",
+    "toda la noche",
+    "échele",
+    "coma algo"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "pantanal-07",
+   "district": "pantanal",
+   "tier": 4,
+   "who": "El albañil",
+   "title": "El techo",
+   "goal": "Help patch a roof with a man who explains nothing",
+   "teaches": [
+    "súbase",
+    "páseme",
+    "aquí",
+    "quieto"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "ni modo"
+   ]
+  },
+  {
+   "id": "pantanal-08",
+   "district": "pantanal",
+   "tier": 4,
+   "who": "La curandera",
+   "title": "El mal de ojo",
+   "goal": "Be treated for something you do not believe in",
+   "teaches": [
+    "le hicieron ojo",
+    "un huevo",
+    "no se ría",
+    "ya verá"
+   ],
+   "reuses": [
+    "cuídese",
+    "fíjese que",
+    "no ando"
+   ]
+  },
+  {
+   "id": "pantanal-09",
+   "district": "pantanal",
+   "tier": 5,
+   "who": "El que volvió",
+   "title": "El que volvió",
+   "goal": "Talk to a man who went south for work and came back with nothing",
+   "teaches": [
+    "me fui",
+    "allá",
+    "no es como dicen",
+    "aquí estoy mejor"
+   ],
+   "reuses": [
+    "que le vaya bien",
+    "ya va",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "pantanal-10",
+   "district": "pantanal",
+   "tier": 5,
+   "who": "La abuela",
+   "title": "El terremoto",
+   "goal": "Hear about 1972 from somebody who was in it",
+   "teaches": [
+    "yo tenía",
+    "esa noche",
+    "se cayó todo",
+    "no lo olvido"
+   ],
+   "reuses": [
+    "Buenas",
+    "otro día",
+    "por favor"
+   ]
+  },
+  {
+   "id": "malecon-01",
+   "district": "malecon",
+   "tier": 1,
+   "who": "La del quesillo",
+   "title": "El quesillo",
+   "goal": "Eat a quesillo and survive the bag it comes in",
+   "teaches": [
+    "un quesillo",
+    "con todo",
+    "sin cebolla",
+    "está rico"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "quiero"
+   ]
+  },
+  {
+   "id": "malecon-02",
+   "district": "malecon",
+   "tier": 2,
+   "who": "El lanchero",
+   "title": "Las isletas",
+   "goal": "Haggle a boat around the isletas",
+   "teaches": [
+    "una vuelta",
+    "por las isletas",
+    "¿cuánto por todos?",
+    "ida y vuelta"
+   ],
+   "reuses": [
+    "así es",
+    "me da",
+    "ni modo"
+   ]
+  },
+  {
+   "id": "malecon-03",
+   "district": "malecon",
+   "tier": 2,
+   "who": "El de la pesca",
+   "title": "El guapote",
+   "goal": "Order fried fish and be told which one is worth it",
+   "teaches": [
+    "guapote",
+    "frito",
+    "con tajadas",
+    "el de allá"
+   ],
+   "reuses": [
+    "con permiso",
+    "cuídese",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "malecon-04",
+   "district": "malecon",
+   "tier": 3,
+   "who": "La familia del domingo",
+   "title": "El domingo",
+   "goal": "Be pulled into somebody’s Sunday on the shore",
+   "teaches": [
+    "siéntese",
+    "hay bastante",
+    "no sea pena",
+    "sírvase"
+   ],
+   "reuses": [
+    "no ando",
+    "que le vaya bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "malecon-05",
+   "district": "malecon",
+   "tier": 3,
+   "who": "El del caballo",
+   "title": "El caballo",
+   "goal": "Turn down a horse ride without making it awkward",
+   "teaches": [
+    "no gracias",
+    "nunca he montado",
+    "otro día",
+    "está bonito"
+   ],
+   "reuses": [
+    "Buenas",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "malecon-06",
+   "district": "malecon",
+   "tier": 4,
+   "who": "El músico",
+   "title": "El son nica",
+   "goal": "Get a musician to explain what he is playing",
+   "teaches": [
+    "¿qué es eso?",
+    "de aquí",
+    "toque otra",
+    "me gustó"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "malecon-07",
+   "district": "malecon",
+   "tier": 4,
+   "who": "El vigilante",
+   "title": "La noche",
+   "goal": "Be told, politely, that this is not a good place after dark",
+   "teaches": [
+    "ya es tarde",
+    "mejor váyase",
+    "por ahí no",
+    "se lo digo yo"
+   ],
+   "reuses": [
+    "me da",
+    "ni modo",
+    "quiero"
+   ]
+  },
+  {
+   "id": "malecon-08",
+   "district": "malecon",
+   "tier": 5,
+   "who": "El capitán",
+   "title": "A Ometepe",
+   "goal": "Buy a ferry ticket and understand the schedule",
+   "teaches": [
+    "¿a qué hora sale?",
+    "un pasaje",
+    "de ida",
+    "si el lago deja"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "terminal-01",
+   "district": "terminal",
+   "tier": 1,
+   "who": "El cobrador",
+   "title": "La ruta",
+   "goal": "Take a bus without ending up somewhere else",
+   "teaches": [
+    "¿va para?",
     "me deja en",
     "la parada",
     "ya voy bajando"
+   ],
+   "reuses": [
+    "cuídese",
+    "no ando",
+    "ya va"
+   ]
+  },
+  {
+   "id": "terminal-02",
+   "district": "terminal",
+   "tier": 2,
+   "who": "El taxista",
+   "title": "El taxi",
+   "goal": "Agree the fare before you get in, not after",
+   "teaches": [
+    "¿cuánto me cobra?",
+    "al mercado",
+    "está bien",
+    "antes de subir"
+   ],
+   "reuses": [
+    "gracias",
+    "quiero"
+   ]
+  },
+  {
+   "id": "terminal-03",
+   "district": "terminal",
+   "tier": 2,
+   "who": "El del colectivo",
+   "title": "El colectivo",
+   "goal": "Understand that a taxi stopping for others is not a scam",
+   "teaches": [
+    "va lleno",
+    "yo voy primero",
+    "no importa",
+    "así es aquí"
+   ],
+   "reuses": [
+    "así es",
+    "me da",
+    "ni modo"
+   ]
+  },
+  {
+   "id": "terminal-04",
+   "district": "terminal",
+   "tier": 3,
+   "who": "La de los boletos",
+   "title": "El expreso",
+   "goal": "Buy a ticket to Managua and pick the right bus",
+   "teaches": [
+    "un boleto",
+    "el expreso",
+    "¿a qué hora?",
+    "el próximo"
+   ],
+   "reuses": [
+    "con permiso",
+    "fíjese que",
+    "me deja en"
+   ]
+  },
+  {
+   "id": "terminal-05",
+   "district": "terminal",
+   "tier": 3,
+   "who": "El vendedor del bus",
+   "title": "El que vende en el bus",
+   "goal": "Buy something from somebody selling in the aisle at speed",
+   "teaches": [
+    "¿qué lleva?",
+    "deme uno",
+    "aquí tiene",
+    "gracias joven"
+   ],
+   "reuses": [
+    "cuídese",
+    "no ando",
+    "ya va"
+   ]
+  },
+  {
+   "id": "terminal-06",
+   "district": "terminal",
+   "tier": 4,
+   "who": "El de las encomiendas",
+   "title": "La encomienda",
+   "goal": "Send a package to somebody in another town",
+   "teaches": [
+    "mandar esto",
+    "a Masaya",
+    "¿llega hoy?",
+    "¿quién lo recibe?"
+   ],
+   "reuses": [
+    "otro día",
+    "que le vaya bien",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "terminal-07",
+   "district": "terminal",
+   "tier": 4,
+   "who": "El estafador",
+   "title": "El que te quiere ver la cara",
+   "goal": "Spot the one who actually is trying it on",
+   "teaches": [
+    "no hay cambio",
+    "espere",
+    "yo le doy",
+    "no me venga"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "terminal-08",
+   "district": "terminal",
+   "tier": 4,
+   "who": "La señora con maletas",
+   "title": "Las maletas",
+   "goal": "Help somebody with bags and refuse the money",
+   "teaches": [
+    "yo le ayudo",
+    "no es nada",
+    "no se preocupe",
+    "que le vaya bien"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "terminal-09",
+   "district": "terminal",
+   "tier": 5,
+   "who": "El chofer",
+   "title": "El chofer",
+   "goal": "Sit up front and get a driver talking for forty minutes",
+   "teaches": [
+    "¿cuántos años maneja?",
+    "toda la ruta",
+    "me gusta",
+    "uno se acostumbra"
+   ],
+   "reuses": [
+    "así es",
+    "me deja en",
+    "ni modo"
+   ]
+  },
+  {
+   "id": "terminal-10",
+   "district": "terminal",
+   "tier": 5,
+   "who": "El que se va",
+   "title": "El migrante",
+   "goal": "Say goodbye to somebody leaving for good",
+   "teaches": [
+    "se va",
+    "¿cuándo vuelve?",
+    "no sé",
+    "que Dios lo acompañe"
+   ],
+   "reuses": [
+    "con permiso",
+    "cuídese",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "barrio-01",
+   "district": "barrio",
+   "tier": 1,
+   "who": "Doña Marta",
+   "title": "El cuarto",
+   "goal": "Rent a room by the month instead of the night",
+   "teaches": [
+    "por mes",
+    "el alquiler",
+    "¿el agua va incluida?",
+    "¿desde cuándo?"
+   ],
+   "reuses": [
+    "no ando",
+    "que le vaya bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "barrio-02",
+   "district": "barrio",
+   "tier": 1,
+   "who": "Doña Marta",
+   "title": "El depósito",
+   "goal": "Understand the deposit and when you get it back",
+   "teaches": [
+    "el depósito",
+    "un mes",
+    "cuando me vaya",
+    "quedamos"
+   ],
+   "reuses": [
+    "Buenas",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "barrio-03",
+   "district": "barrio",
+   "tier": 2,
+   "who": "El pulpero",
+   "title": "Fiado",
+   "goal": "Be given credit at the shop, which means being trusted",
+   "teaches": [
+    "fiado",
+    "me lo apunta",
+    "mañana le pago",
+    "ideay"
+   ],
+   "reuses": [
+    "está bien",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "barrio-04",
+   "district": "barrio",
+   "tier": 2,
+   "who": "El barbero",
+   "title": "La barbería",
+   "goal": "Get the haircut you actually asked for",
+   "teaches": [
+    "más corto",
+    "a los lados",
+    "así está bien",
+    "déjelo así"
+   ],
+   "reuses": [
+    "con permiso",
+    "fíjese que",
+    "me deja en"
+   ]
+  },
+  {
+   "id": "barrio-05",
+   "district": "barrio",
+   "tier": 2,
+   "who": "La vecina de al lado",
+   "title": "La música",
+   "goal": "Ask a neighbour to turn it down at one in the morning",
+   "teaches": [
+    "disculpe",
+    "es muy tarde",
+    "un favor",
+    "se lo agradezco"
+   ],
+   "reuses": [
+    "cuídese",
+    "no ando",
+    "ya va"
+   ]
+  },
+  {
+   "id": "barrio-06",
+   "district": "barrio",
+   "tier": 3,
+   "who": "El electricista",
+   "title": "Se fue la luz",
+   "goal": "Get the power back, and learn it is not just your house",
+   "teaches": [
+    "se fue la luz",
+    "en toda la cuadra",
+    "¿ya llamó?",
+    "ya viene"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "barrio-07",
+   "district": "barrio",
+   "tier": 3,
+   "who": "Roberto",
+   "title": "El chavalo de al lado",
+   "goal": "Let a kid teach you the words nobody prints",
+   "teaches": [
+    "chunche",
+    "chele",
+    "vaya pues",
+    "dale"
    ],
    "reuses": [
     "así es",
@@ -440,11 +1636,676 @@
    ]
   },
   {
-   "id": "g2-10",
-   "act": 2,
-   "place": "masaya",
+   "id": "barrio-08",
+   "district": "barrio",
+   "tier": 3,
+   "who": "Doña Marta",
+   "title": "La gotera",
+   "goal": "Report a leak and get it fixed before the rains",
+   "teaches": [
+    "hay una gotera",
+    "en el cuarto",
+    "cuando llueve",
+    "¿lo puede ver?"
+   ],
+   "reuses": [
+    "ideay",
+    "ni modo",
+    "vaya pues"
+   ]
+  },
+  {
+   "id": "barrio-09",
+   "district": "barrio",
+   "tier": 3,
+   "who": "El del gas",
+   "title": "El cilindro",
+   "goal": "Order a gas cylinder and be in when it comes",
+   "teaches": [
+    "un cilindro",
+    "de veinticinco",
+    "¿a qué hora?",
+    "aquí estoy"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "me deja en"
+   ]
+  },
+  {
+   "id": "barrio-10",
+   "district": "barrio",
+   "tier": 4,
+   "who": "La vecina",
+   "title": "El velorio",
+   "goal": "Say the right thing at a wake, which is almost nothing",
+   "teaches": [
+    "lo siento mucho",
+    "mi pésame",
+    "era buena gente",
+    "aquí estamos"
+   ],
+   "reuses": [
+    "cuídese",
+    "dale",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "barrio-11",
+   "district": "barrio",
+   "tier": 4,
+   "who": "Doña Chepa",
+   "title": "La indirecta",
+   "goal": "Realise you are being told off without being told off",
+   "teaches": [
+    "no es por nada",
+    "algunos",
+    "yo no digo nombres",
+    "entienda"
+   ],
+   "reuses": [
+    "no ando",
+    "que le vaya bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "barrio-12",
+   "district": "barrio",
+   "tier": 4,
+   "who": "El vecino",
+   "title": "El favor",
+   "goal": "Be asked a favour you would rather not do",
+   "teaches": [
+    "fíjese que",
+    "es que",
+    "déjeme ver",
+    "no le prometo"
+   ],
+   "reuses": [
+    "disculpe",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "barrio-13",
+   "district": "barrio",
+   "tier": 5,
+   "who": "Doña Marta",
+   "title": "El aumento",
+   "goal": "Be told the rent is going up, and negotiate",
+   "teaches": [
+    "va a subir",
+    "¿desde cuándo?",
+    "es mucho",
+    "quedemos en"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "barrio-14",
+   "district": "barrio",
+   "tier": 5,
+   "who": "Todos",
+   "title": "La cuadra",
+   "goal": "Be greeted first, by everybody, on your own street",
+   "teaches": [
+    "adiós",
+    "buenas",
+    "¿cómo amaneció?",
+    "ahí vamos"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "trabajo-01",
+   "district": "trabajo",
+   "tier": 1,
+   "who": "Doña Chepa",
+   "title": "El mandado",
+   "goal": "Earn your first córdobas carrying somebody else’s shopping",
+   "teaches": [
+    "yo se lo llevo",
+    "¿cuánto me da?",
+    "está bien",
+    "cuando quiera"
+   ],
+   "reuses": [
+    "ideay",
+    "ni modo",
+    "vaya pues"
+   ]
+  },
+  {
+   "id": "trabajo-02",
+   "district": "trabajo",
+   "tier": 2,
+   "who": "Don Emilio",
+   "title": "El taller",
+   "goal": "Ask for work and be told what you are actually worth",
+   "teaches": [
+    "busco trabajo",
+    "sé un poco",
+    "aprendo rápido",
+    "pruébeme"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "me deja en"
+   ]
+  },
+  {
+   "id": "trabajo-03",
+   "district": "trabajo",
+   "tier": 2,
+   "who": "Marcos",
+   "title": "El compañero",
+   "goal": "Make your first real friend at work",
+   "teaches": [
+    "¿qué pasó?",
+    "todo bien",
+    "vamos",
+    "nos vemos"
+   ],
+   "reuses": [
+    "cuídese",
+    "dale",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "trabajo-04",
+   "district": "trabajo",
+   "tier": 3,
+   "who": "Don Emilio",
+   "title": "La jerarquía",
+   "goal": "Learn who you may and may not contradict",
+   "teaches": [
+    "con permiso",
+    "usted dirá",
+    "como usted diga",
+    "no me toca"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "trabajo-05",
+   "district": "trabajo",
+   "tier": 3,
+   "who": "Marcos",
+   "title": "La quincena",
+   "goal": "Survive the week before payday",
+   "teaches": [
+    "no ando",
+    "hasta la quincena",
+    "me presta",
+    "se lo devuelvo"
+   ],
+   "reuses": [
+    "ideay",
+    "ni modo",
+    "vaya pues"
+   ]
+  },
+  {
+   "id": "trabajo-06",
+   "district": "trabajo",
+   "tier": 3,
+   "who": "El cliente",
+   "title": "El cliente",
+   "goal": "Explain a delay to somebody who does not want to hear it",
+   "teaches": [
+    "no está listo",
+    "para el lunes",
+    "le aviso",
+    "una disculpa"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "me deja en"
+   ]
+  },
+  {
+   "id": "trabajo-07",
+   "district": "trabajo",
+   "tier": 4,
+   "who": "Don Emilio",
+   "title": "El error",
+   "goal": "Own a mistake that cost money",
+   "teaches": [
+    "fue mío",
+    "yo lo hice",
+    "lo arreglo",
+    "no vuelve a pasar"
+   ],
+   "reuses": [
+    "cuídese",
+    "dale",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "trabajo-08",
+   "district": "trabajo",
+   "tier": 4,
+   "who": "Marcos",
+   "title": "La cerveza del viernes",
+   "goal": "Drink with workmates and keep up with the joking",
+   "teaches": [
+    "una fría",
+    "yo invito",
+    "no seás así",
+    "ya va la última"
+   ],
+   "reuses": [
+    "no ando",
+    "todo bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "trabajo-09",
+   "district": "trabajo",
+   "tier": 5,
+   "who": "Don Emilio",
+   "title": "El aumento del sueldo",
+   "goal": "Ask for more money without insulting anybody",
+   "teaches": [
+    "quería hablarle",
+    "ya llevo",
+    "lo que usted crea",
+    "le agradezco"
+   ],
+   "reuses": [
+    "nos vemos",
+    "que le vaya bien",
+    "vamos"
+   ]
+  },
+  {
+   "id": "trabajo-10",
+   "district": "trabajo",
+   "tier": 5,
+   "who": "El nuevo",
+   "title": "El nuevo",
+   "goal": "Teach somebody newer than you, in Spanish",
+   "teaches": [
+    "ponete aquí",
+    "así no",
+    "mirá",
+    "vas bien"
+   ],
+   "reuses": [
+    "disculpe",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "tramites-01",
+   "district": "tramites",
+   "tier": 2,
+   "who": "La farmacéutica",
+   "title": "La farmacia",
+   "goal": "Explain what hurts and get something for it",
+   "teaches": [
+    "me duele",
+    "la cabeza",
+    "desde ayer",
+    "algo suave"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "tramites-02",
+   "district": "tramites",
+   "tier": 2,
+   "who": "La de la ventanilla",
+   "title": "La fila",
+   "goal": "Queue, and find out you are in the wrong one",
+   "teaches": [
+    "¿es aquí?",
+    "la otra ventanilla",
+    "¿quién es el último?",
+    "yo sigo"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "tramites-03",
+   "district": "tramites",
+   "tier": 3,
+   "who": "El del banco",
+   "title": "El banco",
+   "goal": "Open an account with documents you do not have",
+   "teaches": [
+    "quiero abrir",
+    "no tengo",
+    "¿qué necesito?",
+    "vuelvo mañana"
+   ],
+   "reuses": [
+    "ideay",
+    "ni modo",
+    "vaya pues"
+   ]
+  },
+  {
+   "id": "tramites-04",
+   "district": "tramites",
+   "tier": 3,
+   "who": "La enfermera",
+   "title": "El centro de salud",
+   "goal": "Get seen at a clinic and describe symptoms properly",
+   "teaches": [
+    "tengo fiebre",
+    "tres días",
+    "me duele aquí",
+    "¿es grave?"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "me deja en"
+   ]
+  },
+  {
+   "id": "tramites-05",
+   "district": "tramites",
+   "tier": 3,
+   "who": "El de migración",
+   "title": "La prórroga",
+   "goal": "Extend a visa and be sent away twice first",
+   "teaches": [
+    "la prórroga",
+    "treinta días",
+    "¿qué más?",
+    "ya vengo"
+   ],
+   "reuses": [
+    "cuídese",
+    "dale",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "tramites-06",
+   "district": "tramites",
+   "tier": 4,
+   "who": "El dentista",
+   "title": "La muela",
+   "goal": "Get a tooth dealt with while explaining the pain",
+   "teaches": [
+    "esta muela",
+    "cuando como",
+    "con el frío",
+    "sáquemela"
+   ],
+   "reuses": [
+    "no ando",
+    "todo bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "tramites-07",
+   "district": "tramites",
+   "tier": 4,
+   "who": "El policía",
+   "title": "La denuncia",
+   "goal": "Report a stolen phone and manage your expectations",
+   "teaches": [
+    "me robaron",
+    "anoche",
+    "poner una denuncia",
+    "¿sirve de algo?"
+   ],
+   "reuses": [
+    "nos vemos",
+    "que le vaya bien",
+    "vamos"
+   ]
+  },
+  {
+   "id": "tramites-08",
+   "district": "tramites",
+   "tier": 4,
+   "who": "La abogada",
+   "title": "El papel",
+   "goal": "Get a document notarised without understanding it",
+   "teaches": [
+    "necesito",
+    "un papel",
+    "¿usted me lo hace?",
+    "¿cuánto cobra?"
+   ],
+   "reuses": [
+    "disculpe",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "tramites-09",
+   "district": "tramites",
+   "tier": 5,
+   "who": "El doctor",
+   "title": "El dengue",
+   "goal": "Have dengue explained to you while you have it",
+   "teaches": [
+    "mucho suero",
+    "no se levante",
+    "si empeora",
+    "una semana"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "tramites-10",
+   "district": "tramites",
+   "tier": 5,
+   "who": "La de la ventanilla",
+   "title": "La cédula",
+   "goal": "Sit through the whole bureaucracy for one piece of card",
+   "teaches": [
+    "vengo por",
+    "ya entregué",
+    "me dijeron",
+    "¿cuál es el mío?"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "fiestas-01",
+   "district": "fiestas",
+   "tier": 2,
+   "who": "Doña Marta",
+   "title": "La Purísima",
+   "goal": "Sing at a door on the 7th of December and get sweets for it",
+   "teaches": [
+    "¿quién causa tanta alegría?",
+    "la concepción",
+    "gorra",
+    "vivan las gorras"
+   ],
+   "reuses": [
+    "ideay",
+    "ni modo",
+    "vaya pues"
+   ]
+  },
+  {
+   "id": "fiestas-02",
+   "district": "fiestas",
+   "tier": 3,
+   "who": "El vecino",
+   "title": "La Gritería",
+   "goal": "Go door to door and keep up with the responses",
+   "teaches": [
+    "gritería",
+    "ya empezó",
+    "vamos",
+    "aquí dan bueno"
+   ],
+   "reuses": [
+    "así es",
+    "con permiso",
+    "me deja en"
+   ]
+  },
+  {
+   "id": "fiestas-03",
+   "district": "fiestas",
+   "tier": 3,
+   "who": "La de la alfombra",
+   "title": "Semana Santa",
+   "goal": "Help make a sawdust carpet before the procession walks over it",
+   "teaches": [
+    "aserrín",
+    "la alfombra",
+    "no lo pise",
+    "toda la noche"
+   ],
+   "reuses": [
+    "cuídese",
+    "dale",
+    "fíjese que"
+   ]
+  },
+  {
+   "id": "fiestas-04",
+   "district": "fiestas",
+   "tier": 3,
+   "who": "El jinete",
+   "title": "La Hípica",
+   "goal": "Watch the horse parade and understand what is being shown off",
+   "teaches": [
+    "los caballos",
+    "ese es de",
+    "qué bonito",
+    "todos los años"
+   ],
+   "reuses": [
+    "no ando",
+    "todo bien",
+    "ya va"
+   ]
+  },
+  {
+   "id": "fiestas-05",
+   "district": "fiestas",
+   "tier": 4,
+   "who": "El enmascarado",
+   "title": "El Torovenado",
+   "goal": "Work out that the costumes are mocking somebody specific",
+   "teaches": [
+    "se están burlando",
+    "¿de quién?",
+    "del alcalde",
+    "nadie se salva"
+   ],
+   "reuses": [
+    "nos vemos",
+    "que le vaya bien",
+    "vamos"
+   ]
+  },
+  {
+   "id": "fiestas-06",
+   "district": "fiestas",
+   "tier": 4,
+   "who": "La bailarina",
+   "title": "El Palo de Mayo",
+   "goal": "Be dragged into dancing something you cannot dance",
+   "teaches": [
+    "no sé bailar",
+    "nadie sabe",
+    "movete",
+    "ya vas"
+   ],
+   "reuses": [
+    "disculpe",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "fiestas-07",
+   "district": "fiestas",
+   "tier": 4,
+   "who": "Doña Marta",
+   "title": "La Nochebuena",
+   "goal": "Get through Christmas Eve with somebody else’s family",
+   "teaches": [
+    "nochebuena",
+    "a las doce",
+    "feliz navidad",
+    "que se repita"
+   ],
+   "reuses": [
+    "Buenas",
+    "gracias",
+    "por favor"
+   ]
+  },
+  {
+   "id": "fiestas-08",
+   "district": "fiestas",
+   "tier": 5,
+   "who": "Todos",
+   "title": "El año viejo",
+   "goal": "Burn an old year, which is a doll, in the street at midnight",
+   "teaches": [
+    "el año viejo",
+    "quemarlo",
+    "que se vaya",
+    "feliz año"
+   ],
+   "reuses": [
+    "está bien",
+    "me da",
+    "quiero"
+   ]
+  },
+  {
+   "id": "afuera-01",
+   "district": "afuera",
+   "tier": 3,
    "who": "La artesana",
-   "title": "El mercado de Masaya",
+   "title": "Masaya",
    "goal": "Buy a hammock and get the price down",
    "teaches": [
     "una hamaca",
@@ -459,435 +2320,112 @@
    ]
   },
   {
-   "id": "g2-11",
-   "act": 2,
-   "place": "barrio",
-   "who": "Don Emilio",
-   "title": "El taller",
-   "goal": "Ask for work and be told what you are actually worth",
+   "id": "afuera-02",
+   "district": "afuera",
+   "tier": 3,
+   "who": "El alfarero",
+   "title": "San Juan de Oriente",
+   "goal": "Watch pottery being made and ask how long it took to learn",
    "teaches": [
-    "busco trabajo",
-    "sé un poco",
-    "aprendo rápido",
-    "pruébeme"
+    "¿cuánto tardó?",
+    "desde chavalo",
+    "mi papá",
+    "está lindo"
    ],
    "reuses": [
     "así es",
-    "fíjese que",
+    "con permiso",
     "me deja en"
    ]
   },
   {
-   "id": "g2-12",
-   "act": 2,
-   "place": "barrio",
-   "who": "Marcos",
-   "title": "El compañero",
-   "goal": "Make your first real friend at work",
+   "id": "afuera-03",
+   "district": "afuera",
+   "tier": 4,
+   "who": "El del mirador",
+   "title": "Catarina",
+   "goal": "Look down at the laguna and be told what you are seeing",
    "teaches": [
-    "¿qué pasó?",
-    "todo bien",
-    "vamos",
-    "nos vemos"
+    "ahí está",
+    "la laguna",
+    "aquel es",
+    "se ve todo"
    ],
    "reuses": [
-    "Buenas",
-    "dale",
-    "por favor"
-   ]
-  },
-  {
-   "id": "g3-01",
-   "act": 3,
-   "place": "managua",
-   "who": "Marcos",
-   "title": "La mudanza",
-   "goal": "Move to Managua and admit you are lost",
-   "teaches": [
-    "me mudé",
-    "no conozco",
-    "ando perdido",
-    "enséñeme"
-   ],
-   "reuses": [
-    "bien",
-    "cuánto",
-    "quiero"
-   ]
-  },
-  {
-   "id": "g3-02",
-   "act": 3,
-   "place": "fritanga",
-   "who": "Doña Carmen",
-   "title": "La fritanga",
-   "goal": "Order at the fritanga like somebody who eats there",
-   "teaches": [
-    "un enchilado",
-    "con ensalada",
-    "para llevar",
-    "ya va"
-   ],
-   "reuses": [
-    "ideay",
-    "ni modo",
-    "vaya pues"
-   ]
-  },
-  {
-   "id": "g3-03",
-   "act": 3,
-   "place": "managua",
-   "who": "Don Beto",
-   "title": "El vecino viejo",
-   "goal": "Sit with an old man and let him talk about 1979",
-   "teaches": [
-    "antes",
-    "en aquel tiempo",
-    "mi hermano",
-    "se lo llevaron"
-   ],
-   "reuses": [
-    "cuánto",
-    "ideay",
-    "vaya pues"
-   ]
-  },
-  {
-   "id": "g3-04",
-   "act": 3,
-   "place": "managua",
-   "who": "Doña Chepa",
-   "title": "Las direcciones",
-   "goal": "Give somebody your address the Nicaraguan way",
-   "teaches": [
-    "de donde fue",
-    "dos cuadras",
-    "al lago",
-    "casa portón negro"
-   ],
-   "reuses": [
-    "así es",
-    "me deja en",
-    "ni modo"
-   ]
-  },
-  {
-   "id": "g3-05",
-   "act": 3,
-   "place": "taller",
-   "who": "Don Emilio",
-   "title": "La jerarquía",
-   "goal": "Learn who you may and may not contradict at work",
-   "teaches": [
-    "con permiso",
-    "usted dirá",
-    "como usted diga",
-    "no me toca"
-   ],
-   "reuses": [
-    "dale",
-    "fíjese que",
-    "ya va"
-   ]
-  },
-  {
-   "id": "g3-06",
-   "act": 3,
-   "place": "managua",
-   "who": "Marcos",
-   "title": "La quincena",
-   "goal": "Survive the week before payday",
-   "teaches": [
-    "no ando",
-    "hasta la quincena",
-    "me presta",
-    "se lo devuelvo"
-   ],
-   "reuses": [
-    "con permiso",
-    "fíjese que",
-    "me deja en"
-   ]
-  },
-  {
-   "id": "g3-07",
-   "act": 3,
-   "place": "managua",
-   "who": "Delroy",
-   "title": "El costeño",
-   "goal": "Meet somebody from Bluefields whose Spanish is not yours",
-   "teaches": [
-    "de la costa",
-    "no le entendí",
-    "más despacio",
-    "¿cómo dijo?"
-   ],
-   "reuses": [
-    "dale",
-    "todo bien",
-    "ya va"
-   ]
-  },
-  {
-   "id": "g3-08",
-   "act": 3,
-   "place": "iglesia",
-   "who": "Doña Carmen",
-   "title": "La Purísima",
-   "goal": "Sing at a door on the 7th of December and get sweets for it",
-   "teaches": [
-    "¿quién causa tanta alegría?",
-    "la concepción",
-    "gorra",
-    "vivan las gorras"
-   ],
-   "reuses": [
-    "dale",
-    "fíjese que",
-    "más despacio"
-   ]
-  },
-  {
-   "id": "g3-09",
-   "act": 3,
-   "place": "managua",
-   "who": "El vecino",
-   "title": "El velorio",
-   "goal": "Say the right thing at a wake, which is almost nothing",
-   "teaches": [
-    "lo siento mucho",
-    "mi pésame",
-    "era buena gente",
-    "aquí estamos"
-   ],
-   "reuses": [
-    "todo bien",
-    "vamos",
-    "ya va"
-   ]
-  },
-  {
-   "id": "g3-10",
-   "act": 3,
-   "place": "managua",
-   "who": "Doña Chepa",
-   "title": "La indirecta",
-   "goal": "Understand that you are being told off without being told off",
-   "teaches": [
-    "no es por nada",
-    "algunos",
-    "yo no digo nombres",
-    "entienda"
-   ],
-   "reuses": [
-    "Buenas",
-    "nos vemos",
-    "por favor"
-   ]
-  },
-  {
-   "id": "g3-11",
-   "act": 3,
-   "place": "managua",
-   "who": "Roberto",
-   "title": "El que se fue",
-   "goal": "Hear that the kid next door left for Costa Rica",
-   "teaches": [
-    "se fue",
-    "a buscar",
-    "manda",
-    "vuelve en diciembre"
-   ],
-   "reuses": [
-    "bien",
-    "está",
-    "gracias"
-   ]
-  },
-  {
-   "id": "g3-12",
-   "act": 3,
-   "place": "taller",
-   "who": "Wilmer",
-   "title": "El del norte",
-   "goal": "Talk to a man from a Jinotega coffee farm about home",
-   "teaches": [
-    "del norte",
-    "el corte",
-    "frío",
-    "allá arriba"
-   ],
-   "reuses": [
-    "cuánto",
-    "quiero",
-    "vaya pues"
-   ]
-  },
-  {
-   "id": "g3-13",
-   "act": 3,
-   "place": "managua",
-   "who": "Marcos",
-   "title": "El compadre",
-   "goal": "Be asked to be godfather and understand what it costs",
-   "teaches": [
-    "compadre",
-    "el bautizo",
-    "con mucho gusto",
-    "es un honor"
-   ],
-   "reuses": [
-    "así es",
-    "ideay",
-    "ni modo"
-   ]
-  },
-  {
-   "id": "g3-14",
-   "act": 3,
-   "place": "managua",
-   "who": "Don Beto",
-   "title": "La despedida",
-   "goal": "Say goodbye to a man who is not going to be there next year",
-   "teaches": [
     "cuídese",
-    "que Dios lo guarde",
-    "vengo pronto",
-    "no diga eso"
-   ],
-   "reuses": [
-    "con permiso",
-    "fíjese que",
-    "me deja en"
-   ]
-  },
-  {
-   "id": "g4-01",
-   "act": 4,
-   "place": "managua",
-   "who": "Lucía",
-   "title": "La primera vez",
-   "goal": "Say something to her that is not about the weather",
-   "teaches": [
-    "te ves bien",
-    "¿te puedo?",
-    "otro día",
-    "cuando quiera"
-   ],
-   "reuses": [
-    "así es",
-    "me deja en",
-    "ni modo"
-   ]
-  },
-  {
-   "id": "g4-02",
-   "act": 4,
-   "place": "managua",
-   "who": "Lucía",
-   "title": "El paseo",
-   "goal": "Ask her out without it sounding like a transaction",
-   "teaches": [
-    "salgamos",
-    "el domingo",
-    "yo paso",
-    "me avisas"
-   ],
-   "reuses": [
-    "con permiso",
     "dale",
     "fíjese que"
    ]
   },
   {
-   "id": "g4-03",
-   "act": 4,
-   "place": "suegra",
-   "who": "Doña Elena",
-   "title": "La suegra",
-   "goal": "Meet her mother and get out alive",
+   "id": "afuera-04",
+   "district": "afuera",
+   "tier": 4,
+   "who": "El guía de Mombacho",
+   "title": "Mombacho",
+   "goal": "Climb a volcano with a guide who talks the whole way",
    "teaches": [
-    "mucho gusto",
-    "señora",
-    "permiso",
-    "gracias por todo"
-   ],
-   "reuses": [
-    "cuídese",
-    "más despacio",
-    "ya va"
-   ]
-  },
-  {
-   "id": "g4-04",
-   "act": 4,
-   "place": "suegra",
-   "who": "Julio y Chino",
-   "title": "Los cuñados",
-   "goal": "Survive being tested by two brothers-in-law",
-   "teaches": [
-    "ideay",
-    "no me diga",
-    "vos sabés",
-    "ya me cayó"
-   ],
-   "reuses": [
-    "nos vemos",
-    "todo bien",
-    "vamos"
-   ]
-  },
-  {
-   "id": "g4-05",
-   "act": 4,
-   "place": "suegra",
-   "who": "Doña Elena",
-   "title": "La cocina",
-   "goal": "Be taught a recipe and be judged on how you listen",
-   "teaches": [
-    "¿cuánto le echo?",
-    "a ojo",
-    "así",
+    "el volcán",
+    "ahí arriba",
+    "despacio",
     "ya casi"
    ],
    "reuses": [
-    "Buenas",
-    "gracias",
-    "por favor"
+    "no ando",
+    "todo bien",
+    "ya va"
    ]
   },
   {
-   "id": "g4-06",
-   "act": 4,
-   "place": "managua",
-   "who": "Lucía",
-   "title": "El pleito",
-   "goal": "Have an argument in Spanish and not lose it by accident",
+   "id": "afuera-05",
+   "district": "afuera",
+   "tier": 4,
+   "who": "El de la laguna",
+   "title": "La Laguna de Apoyo",
+   "goal": "Swim in a crater and be warned about the current",
    "teaches": [
-    "no es eso",
-    "me estás",
-    "dejame explicar",
-    "ya no importa"
+    "está honda",
+    "no vaya lejos",
+    "el agua es",
+    "salga ya"
    ],
    "reuses": [
-    "así",
     "nos vemos",
+    "que le vaya bien",
     "vamos"
    ]
   },
   {
-   "id": "g4-07",
-   "act": 4,
-   "place": "managua",
-   "who": "Lucía",
-   "title": "La disculpa",
-   "goal": "Apologise properly, which is not the same as saying sorry",
+   "id": "afuera-06",
+   "district": "afuera",
+   "tier": 5,
+   "who": "El caficultor",
+   "title": "El cafetal",
+   "goal": "Pick coffee for a day and be judged on your speed",
    "teaches": [
-    "me pasé",
-    "tenías razón",
-    "no vuelve a pasar",
-    "perdoname"
+    "el corte",
+    "sólo las rojas",
+    "con las dos manos",
+    "va aprendiendo"
+   ],
+   "reuses": [
+    "disculpe",
+    "otro día",
+    "¿a cómo?"
+   ]
+  },
+  {
+   "id": "afuera-07",
+   "district": "afuera",
+   "tier": 5,
+   "who": "El de Nandaime",
+   "title": "La carretera",
+   "goal": "Break down between towns and get help from strangers",
+   "teaches": [
+    "se me quedó",
+    "no arranca",
+    "¿me da un jalón?",
+    "Dios se lo pague"
    ],
    "reuses": [
     "Buenas",
@@ -896,79 +2434,22 @@
    ]
   },
   {
-   "id": "g4-08",
-   "act": 4,
-   "place": "suegra",
-   "who": "Doña Elena",
-   "title": "El permiso",
-   "goal": "Ask her mother for something that matters",
+   "id": "afuera-08",
+   "district": "afuera",
+   "tier": 5,
+   "who": "Los de Masatepe",
+   "title": "La sopa",
+   "goal": "Eat sopa de mondongo and be watched while you do it",
    "teaches": [
-    "quería hablarle",
-    "con respeto",
-    "le pido",
-    "lo que usted diga"
+    "mondongo",
+    "primera vez",
+    "está fuerte",
+    "me gustó"
    ],
    "reuses": [
-    "bien",
-    "está",
+    "está bien",
+    "me da",
     "quiero"
-   ]
-  },
-  {
-   "id": "g4-09",
-   "act": 4,
-   "place": "iglesia",
-   "who": "Todos",
-   "title": "La boda",
-   "goal": "Get through your own wedding in a language you married into",
-   "teaches": [
-    "sí",
-    "acepto",
-    "para siempre",
-    "gracias a todos"
-   ],
-   "reuses": [
-    "cuánto",
-    "ideay",
-    "vaya pues"
-   ]
-  },
-  {
-   "id": "g4-10",
-   "act": 4,
-   "place": "managua",
-   "who": "Lucía",
-   "title": "El chavalo",
-   "goal": "Find out you are going to be a father",
-   "teaches": [
-    "estoy",
-    "vamos a tener",
-    "¿de verdad?",
-    "no lo puedo creer"
-   ],
-   "reuses": [
-    "así es",
-    "me deja en",
-    "ni modo"
-   ]
-  },
-  {
-   "id": "g4-11",
-   "act": 4,
-   "place": "managua",
-   "who": "Tom",
-   "title": "El nuevo",
-   "goal": "Give a lost Canadian the notebook somebody once gave you",
-   "teaches": [
-    "ando perdido",
-    "yo también estuve",
-    "tomá",
-    "vas a aprender"
-   ],
-   "reuses": [
-    "con permiso",
-    "dale",
-    "fíjese que"
    ]
   }
  ]
