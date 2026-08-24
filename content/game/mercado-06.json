@@ -1,0 +1,112 @@
+{
+ "id": "mercado-06",
+ "district": "mercado",
+ "tier": 3,
+ "who": "El cargador",
+ "title": "Las bolsas",
+ "goal": "Pay somebody to carry your shopping, agreed first",
+ "culture": "The cargadores carry loads on their backs and by handcart, and it is a job like any other. Agreeing the price before he picks anything up is the whole etiquette and it protects both of you — afterwards it is an argument, beforehand it is a price.",
+ "beats": [
+  {
+   "es": "¿Le ayudo con eso, jefe? Está pesado.",
+   "objective": "Yes — ask him to help",
+   "key": "me ayuda",
+   "say": "Sí, me ayuda, por favor.",
+   "en": "Yes, give me a hand, please.",
+   "tiles": [
+    "sí",
+    "me ayuda",
+    "por favor"
+   ],
+   "extra": [
+    "no gracias",
+    "hasta la esquina",
+    "ya tengo",
+    "otro día"
+   ],
+   "ok": [
+    "si me ayuda por favor",
+    "me ayuda por favor",
+    "me ayuda"
+   ],
+   "teaches": [
+    "me ayuda"
+   ],
+   "good": "Me ayuda asks for a hand rather than hiring a servant, which is how both of you want it framed."
+  },
+  {
+   "es": "¿Hasta dónde se lo llevo?",
+   "objective": "As far as the corner",
+   "key": "hasta la esquina",
+   "say": "Hasta la esquina.",
+   "en": "As far as the corner.",
+   "tiles": [
+    "hasta la esquina"
+   ],
+   "extra": [
+    "hasta el hotel",
+    "me ayuda",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "hasta la esquina",
+    "hasta la esquina por favor"
+   ],
+   "teaches": [
+    "hasta la esquina"
+   ],
+   "good": "Distance here is corners and blocks. Nobody measures anything in metres and nobody uses a street name."
+  },
+  {
+   "es": "Va pues. Ahorita se lo dejo ahí.",
+   "objective": "Ask the price before he lifts it",
+   "key": "¿cuánto me cobra?",
+   "say": "¿Y cuánto me cobra?",
+   "en": "And what will you charge me?",
+   "tiles": [
+    "¿y cuánto",
+    "me cobra?"
+   ],
+   "extra": [
+    "gracias",
+    "está bien",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "y cuanto me cobra",
+    "cuanto me cobra"
+   ],
+   "teaches": [
+    "¿cuánto me cobra?"
+   ],
+   "good": "Before he picks it up, every time. Ask afterwards and you are having an argument; ask now and you are agreeing a price."
+  },
+  {
+   "es": "Deme veinte pesos y estamos bien.",
+   "objective": "Agree, and shake on it",
+   "key": "quedamos así",
+   "say": "Quedamos así. Gracias.",
+   "en": "Agreed. Thank you.",
+   "tiles": [
+    "quedamos así",
+    "gracias"
+   ],
+   "extra": [
+    "muy caro",
+    "ni modo",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "quedamos asi gracias",
+    "quedamos asi"
+   ],
+   "teaches": [
+    "quedamos así"
+   ],
+   "good": "Quedamos así seals it: we are agreed. It closes every small deal in this country and it is worth more than a handshake."
+  }
+ ]
+}

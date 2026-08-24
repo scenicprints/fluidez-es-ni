@@ -1,0 +1,112 @@
+{
+ "id": "mercado-01",
+ "district": "mercado",
+ "tier": 1,
+ "who": "La verdulera",
+ "title": "La fruta",
+ "goal": "Buy fruit for the week without paying the chele price",
+ "culture": "Nothing has a price on it. You ask ¿a cómo?, the first number you are given is the one for a foreigner, and saying está caro is not rudeness — it is the second line of a conversation you are both expected to have.",
+ "beats": [
+  {
+   "es": "¡Adelante, mi amor! ¿Qué le doy? Hay mango, papaya, jocote.",
+   "objective": "Ask the price of the mango",
+   "key": "¿a cómo?",
+   "say": "¿A cómo el mango?",
+   "en": "How much is the mango?",
+   "tiles": [
+    "¿a cómo",
+    "el mango?"
+   ],
+   "extra": [
+    "una libra",
+    "está caro",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "a como el mango",
+    "a como"
+   ],
+   "teaches": [
+    "¿a cómo?"
+   ],
+   "good": "¿A cómo? is the whole question and you will use it every day. Asking is not haggling yet — it is finding out where the haggling starts."
+  },
+  {
+   "es": "A veinte la libra, fresquito, del día.",
+   "objective": "Say that is dear",
+   "key": "está caro",
+   "say": "Está caro.",
+   "en": "That’s expensive.",
+   "tiles": [
+    "está caro"
+   ],
+   "extra": [
+    "muy",
+    "está bien",
+    "ni modo",
+    "una libra"
+   ],
+   "ok": [
+    "esta caro",
+    "esta muy caro"
+   ],
+   "teaches": [
+    "está caro"
+   ],
+   "good": "Está caro is neither an insult nor a refusal. It is the line that gets you the real price, and she is waiting for it."
+  },
+  {
+   "es": "Uy. Bueno, se lo dejo a quince. Ni modo.",
+   "objective": "Ask for a pound of it",
+   "key": "una libra",
+   "say": "Una libra de mango.",
+   "en": "A pound of mango.",
+   "tiles": [
+    "una libra",
+    "de mango"
+   ],
+   "extra": [
+    "media libra",
+    "está caro",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "una libra de mango",
+    "una libra de mango por favor"
+   ],
+   "teaches": [
+    "una libra",
+    "de mango"
+   ],
+   "good": "Everything on this floor is sold by the libra, and a libra is a pound. The market here never went metric and never will."
+  },
+  {
+   "es": "Ahí le va. ¿Algo más, mi amor?",
+   "objective": "That is all",
+   "key": "está bien",
+   "say": "Está bien. Gracias.",
+   "en": "That’s everything. Thank you.",
+   "tiles": [
+    "está bien",
+    "gracias"
+   ],
+   "extra": [
+    "una libra",
+    "otro día",
+    "por favor",
+    "ni modo"
+   ],
+   "ok": [
+    "esta bien gracias",
+    "esta bien",
+    "gracias"
+   ],
+   "teaches": [
+    "está bien"
+   ],
+   "good": "Está bien closes the sale without cutting her off. Mi amor is not flirting — it is what she calls everybody who stops at the stall."
+  }
+ ]
+}

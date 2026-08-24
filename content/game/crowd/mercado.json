@@ -1,0 +1,129 @@
+[
+ {
+  "kind": "caponero",
+  "district": "mercado",
+  "says": "¿Va al mercado? La fruta está más barata al fondo, donde la verdulera.",
+  "en": "Going to the market? The fruit is cheaper at the back, at the vegetable woman’s stall.",
+  "points_at": [
+   "mercado-01"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "mercado",
+  "says": "Si anda dólares, cámbielos con el muchacho de la esquina. Ese le da mejor que el banco.",
+  "en": "If you have dollars, change them with the lad on the corner. He gives you better than the bank.",
+  "points_at": [
+   "mercado-02"
+  ]
+ },
+ {
+  "kind": "policía",
+  "district": "mercado",
+  "says": "Aquí es tranquilo, pero cuide la bolsa. Y no cambie dinero con cualquiera.",
+  "en": "It is quiet here, but mind your bag. And do not change money with just anybody.",
+  "points_at": [
+   "mercado-02"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "mercado",
+  "says": "La carnicería está entrando a mano derecha. Dígale qué va a cocinar y ella le corta.",
+  "en": "The butcher is on the right as you go in. Tell her what you are cooking and she cuts it for you.",
+  "points_at": [
+   "mercado-03"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "mercado",
+  "says": "Los frijoles cómprelos por libra donde el de los granos. Y pregúntele cómo se hacen.",
+  "en": "Buy the beans by the pound at the grain seller. And ask him how they are cooked.",
+  "points_at": [
+   "mercado-04"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "mercado",
+  "says": "De noche ponen la fritanga en la esquina. El enchilado de esa doña es el mejor.",
+  "en": "At night they set the fritanga up on the corner. That lady’s enchilado is the best there is.",
+  "points_at": [
+   "mercado-05"
+  ]
+ },
+ {
+  "kind": "cuidacarros",
+  "district": "mercado",
+  "says": "Si lleva mucha bolsa, ahí andan los cargadores. Arregle el precio antes, jefe.",
+  "en": "If you are carrying a lot of bags, the porters are about. Agree the price first, boss.",
+  "points_at": [
+   "mercado-06"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "mercado",
+  "says": "Las tortillas se acaban temprano. Si va después de las diez, ya no hay.",
+  "en": "The tortillas run out early. If you go after ten, there are none left.",
+  "points_at": [
+   "mercado-07"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "mercado",
+  "says": "Al de las hamacas no le diga que sí por lástima. Dígale que no cuatro veces y ya.",
+  "en": "Do not say yes to the hammock man out of pity. Tell him no four times and that is that.",
+  "points_at": [
+   "mercado-08"
+  ]
+ },
+ {
+  "kind": "evangélico",
+  "district": "mercado",
+  "says": "¿Anda malo del estómago, hermano? La señora de las hierbas, al fondo. Le da el remedio.",
+  "en": "Is your stomach bad, brother? The herb lady, at the back. She will give you the remedy.",
+  "points_at": [
+   "mercado-09"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "mercado",
+  "says": "El pescado del lago lo venden en la mañana. Pregunte si es de hoy, no tenga pena.",
+  "en": "They sell the lake fish in the morning. Ask if it came in today, do not be shy.",
+  "points_at": [
+   "mercado-10"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "mercado",
+  "says": "Vaya siempre donde la misma. A los tres días ya le guarda lo mejor.",
+  "en": "Always go to the same woman. Within three days she is keeping the best for you.",
+  "points_at": [
+   "mercado-11"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "mercado",
+  "says": "El de los bolsos de cuero pide el doble. Ofrezca la mitad y quédense en medio.",
+  "en": "The leather bag man asks double. Offer half and settle in the middle.",
+  "points_at": [
+   "mercado-12"
+  ]
+ },
+ {
+  "kind": "turista",
+  "district": "mercado",
+  "says": "Do they take dollars here? Everyone keeps saying a number and I can’t tell if it’s good.",
+  "en": "(She wants the money changer, and she is about to accept a terrible rate.)",
+  "points_at": [
+   "mercado-02",
+   "mercado-12"
+  ]
+ }
+]

@@ -1,0 +1,113 @@
+{
+ "id": "mercado-02",
+ "district": "mercado",
+ "tier": 1,
+ "who": "El del cambio",
+ "title": "Los reales",
+ "goal": "Change dollars and insist on small notes",
+ "culture": "The money changers work the street outside the market with a calculator and a fold of notes, everybody uses them, and they beat the bank. Ask the rate first and ask for small notes: a thousand-córdoba note is no use to a pulpería or a bus.",
+ "beats": [
+  {
+   "es": "¿Cambia, amigo? Dólares, córdobas.",
+   "objective": "Ask today’s rate",
+   "key": "¿a cómo está?",
+   "say": "¿A cómo está hoy?",
+   "en": "What’s the rate today?",
+   "tiles": [
+    "¿a cómo está",
+    "hoy?"
+   ],
+   "extra": [
+    "dólares",
+    "está bien",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "a como esta hoy",
+    "a como esta"
+   ],
+   "teaches": [
+    "¿a cómo está?"
+   ],
+   "good": "¿A cómo está? asks today’s rate. It moves, everybody knows roughly what it should be, and asking says that you do too."
+  },
+  {
+   "es": "A treinta y seis con cincuenta.",
+   "objective": "Change a hundred dollars",
+   "key": "quiero cambiar",
+   "say": "Quiero cambiar cien dólares.",
+   "en": "I want to change a hundred dollars.",
+   "tiles": [
+    "quiero cambiar",
+    "cien",
+    "dólares"
+   ],
+   "extra": [
+    "billetes pequeños",
+    "está bien",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "quiero cambiar cien dolares",
+    "quiero cambiar cien"
+   ],
+   "teaches": [
+    "quiero cambiar",
+    "dólares"
+   ],
+   "good": "Quiero cambiar is the entire transaction. He counts it into your hand and you are expected to watch him do it."
+  },
+  {
+   "es": "Listo. ¿Se los doy en billetes de mil?",
+   "objective": "Ask for small notes",
+   "key": "billetes pequeños",
+   "say": "Billetes pequeños, por favor.",
+   "en": "Small notes, please.",
+   "tiles": [
+    "billetes pequeños",
+    "por favor"
+   ],
+   "extra": [
+    "de mil",
+    "está bien",
+    "gracias",
+    "dólares"
+   ],
+   "ok": [
+    "billetes pequenos por favor",
+    "billetes pequenos"
+   ],
+   "teaches": [
+    "billetes pequeños"
+   ],
+   "good": "A thousand-córdoba note is nearly useless: the pulpería cannot change it and neither can the bus. Ask for small ones every single time."
+  },
+  {
+   "es": "Ahí está. Cuéntelos, pues.",
+   "objective": "Count them and agree",
+   "key": "está bien",
+   "say": "Está bien. Gracias.",
+   "en": "That’s right. Thank you.",
+   "tiles": [
+    "está bien",
+    "gracias"
+   ],
+   "extra": [
+    "ni modo",
+    "otro día",
+    "por favor",
+    "dólares"
+   ],
+   "ok": [
+    "esta bien gracias",
+    "esta bien"
+   ],
+   "teaches": [
+    "está bien"
+   ],
+   "good": "Cuéntelos is not a challenge. Counting it in front of him is normal, he expects it, and not counting is the odd thing to do."
+  }
+ ]
+}

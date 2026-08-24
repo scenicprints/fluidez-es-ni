@@ -1,0 +1,112 @@
+{
+ "id": "mercado-11",
+ "district": "mercado",
+ "tier": 4,
+ "who": "La comadre",
+ "title": "La comadre",
+ "goal": "Be recognised, and become somebody who comes here",
+ "culture": "This is what all the other market missions were for. Going to the same stall until she knows you is not a trick for better prices — though it is that too. It is the difference between shopping in a place and living in it.",
+ "beats": [
+  {
+   "es": "¡Ideay! Usted otra vez. Ya lo conozco a usted.",
+   "objective": "Tell her you know your way around now",
+   "key": "ya lo conozco",
+   "say": "Ya lo conozco todo aquí.",
+   "en": "I know my way around here now.",
+   "tiles": [
+    "ya lo conozco",
+    "todo aquí"
+   ],
+   "extra": [
+    "otro día",
+    "no ando",
+    "gracias",
+    "así es"
+   ],
+   "ok": [
+    "ya lo conozco todo aqui",
+    "ya lo conozco"
+   ],
+   "teaches": [
+    "ya lo conozco"
+   ],
+   "good": "Ideay is the most Nicaraguan noise there is — surprise, greeting, disbelief, all of it. Ya lo conozco claims the place a little, and she will let you."
+  },
+  {
+   "es": "Le guardé los mejores, mire. Desde temprano se los aparté.",
+   "objective": "She put them aside for you — check",
+   "key": "le guardé",
+   "say": "¿Me los guardó? Muy amable.",
+   "en": "You kept them for me? That’s very kind.",
+   "tiles": [
+    "¿me los guardó?",
+    "muy amable"
+   ],
+   "extra": [
+    "gracias",
+    "otro día",
+    "no ando",
+    "así es"
+   ],
+   "ok": [
+    "me los guardo muy amable",
+    "me los guardo"
+   ],
+   "teaches": [
+    "le guardé",
+    "muy amable"
+   ],
+   "good": "Le guardé from her, me los guardó from you: the same act from the two ends of it. Hearing one and being able to say the other is most of what fluency is."
+  },
+  {
+   "es": "¿Y qué va a llevar hoy?",
+   "objective": "The usual",
+   "key": "lo de siempre",
+   "say": "Lo de siempre, pues.",
+   "en": "The usual, then.",
+   "tiles": [
+    "lo de siempre",
+    "pues"
+   ],
+   "extra": [
+    "una libra",
+    "otro día",
+    "gracias",
+    "así es"
+   ],
+   "ok": [
+    "lo de siempre pues",
+    "lo de siempre"
+   ],
+   "teaches": [
+    "lo de siempre"
+   ],
+   "good": "This is the sentence you have been working towards since your first morning here. It means she knows what you buy, and you only get it by coming back."
+  },
+  {
+   "es": "¿Se los doy bien maduros, como la vez pasada?",
+   "objective": "Yes — that is how you like them",
+   "key": "así me gusta",
+   "say": "Así me gusta. Gracias.",
+   "en": "That’s how I like them. Thank you.",
+   "tiles": [
+    "así me gusta",
+    "gracias"
+   ],
+   "extra": [
+    "no",
+    "otro día",
+    "por favor",
+    "lo de siempre"
+   ],
+   "ok": [
+    "asi me gusta gracias",
+    "asi me gusta"
+   ],
+   "teaches": [
+    "así me gusta"
+   ],
+   "good": "She asked because she remembered. Answering it is the entire point of going to the same stall, and it is worth more than the córdobas it saves."
+  }
+ ]
+}

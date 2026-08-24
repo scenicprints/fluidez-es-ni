@@ -1,0 +1,110 @@
+{
+ "id": "mercado-08",
+ "district": "mercado",
+ "tier": 3,
+ "who": "El vendedor insistente",
+ "title": "El insistente",
+ "goal": "Say no four times to somebody who ignores the first three",
+ "culture": "He is not being rude and neither are you. The escalation is the ritual: nobody expects the first no to work, and four polite ones are normal. Walking off in silence is the only move here that actually reads as contempt.",
+ "beats": [
+  {
+   "es": "¡Amigo! Hamacas, hamacas. Le hago precio especial.",
+   "objective": "No thank you",
+   "key": "no gracias",
+   "say": "No, gracias.",
+   "en": "No, thank you.",
+   "tiles": [
+    "no",
+    "gracias"
+   ],
+   "extra": [
+    "ya tengo",
+    "de verdad no",
+    "está bien",
+    "por favor"
+   ],
+   "ok": [
+    "no gracias",
+    "gracias no"
+   ],
+   "teaches": [
+    "no gracias"
+   ],
+   "good": "The first no, and nobody expects it to work — including him. It is not ignored so much as noted."
+  },
+  {
+   "es": "Mire nomás, sin compromiso. ¿De qué color la quiere?",
+   "objective": "Say you have one already",
+   "key": "ya tengo",
+   "say": "Ya tengo, gracias.",
+   "en": "I’ve already got one, thanks.",
+   "tiles": [
+    "ya tengo",
+    "gracias"
+   ],
+   "extra": [
+    "no",
+    "de verdad no",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "ya tengo gracias",
+    "ya tengo"
+   ],
+   "teaches": [
+    "ya tengo"
+   ],
+   "good": "Ya tengo hands him a reason instead of a wall, and it works about half the time. It is the only one of the four that is a fact."
+  },
+  {
+   "es": "¿Y una para la esposa? ¿Para la mamá? Le dejo dos por el precio de una.",
+   "objective": "Really, no",
+   "key": "de verdad no",
+   "say": "De verdad no, gracias.",
+   "en": "Really, no thank you.",
+   "tiles": [
+    "de verdad no",
+    "gracias"
+   ],
+   "extra": [
+    "ya tengo",
+    "otro día",
+    "está bien",
+    "no"
+   ],
+   "ok": [
+    "de verdad no gracias",
+    "de verdad no"
+   ],
+   "teaches": [
+    "de verdad no"
+   ],
+   "good": "De verdad no is firm without being cross. Getting cross is what would be rude; a third no is not."
+  },
+  {
+   "es": "Bueno, bueno. Ahí cuando quiera, amigo.",
+   "objective": "Leave it well",
+   "key": "que le vaya bien",
+   "say": "Que le vaya bien.",
+   "en": "All the best to you.",
+   "tiles": [
+    "que le vaya bien"
+   ],
+   "extra": [
+    "ya tengo",
+    "de verdad no",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "que le vaya bien",
+    "que le vaya bien gracias"
+   ],
+   "teaches": [
+    "que le vaya bien"
+   ],
+   "good": "Wishing him well on the way out is what turns four noes into a conversation. He will remember you kindly and try again tomorrow, and that is fine."
+  }
+ ]
+}

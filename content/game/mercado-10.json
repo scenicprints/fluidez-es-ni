@@ -1,0 +1,110 @@
+{
+ "id": "mercado-10",
+ "district": "mercado",
+ "tier": 4,
+ "who": "El pescadero",
+ "title": "El pescado",
+ "goal": "Buy fish and be able to tell whether it is fresh",
+ "culture": "Guapote and mojarra come out of Cocibolca and they come in at dawn. Asking whether it is from today is expected rather than insulting, and he will tell you the truth, because you live here now and he will see you next week.",
+ "beats": [
+  {
+   "es": "Guapote, mojarra, tilapia. ¿Qué le gusta?",
+   "objective": "Ask if it is fresh",
+   "key": "está fresco",
+   "say": "¿Está fresco?",
+   "en": "Is it fresh?",
+   "tiles": [
+    "¿está fresco?"
+   ],
+   "extra": [
+    "de hoy",
+    "gracias",
+    "entero",
+    "por favor"
+   ],
+   "ok": [
+    "esta fresco"
+   ],
+   "teaches": [
+    "está fresco"
+   ],
+   "good": "Asking is expected. What would be strange, and what would mark you as somebody passing through, is not asking."
+  },
+  {
+   "es": "Fresquísimo. Mírele los ojos, mire.",
+   "objective": "Ask whether it came in today",
+   "key": "de hoy",
+   "say": "¿Es de hoy?",
+   "en": "Did it come in today?",
+   "tiles": [
+    "¿es de hoy?"
+   ],
+   "extra": [
+    "de ayer",
+    "está fresco",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "es de hoy",
+    "de hoy"
+   ],
+   "teaches": [
+    "de hoy"
+   ],
+   "good": "Fresco is an opinion; de hoy is a fact. This is the question behind the question and he will answer it straight."
+  },
+  {
+   "es": "De hoy, de la madrugada. ¿Se lo limpio?",
+   "objective": "Yes, have him clean it",
+   "key": "me lo limpia",
+   "say": "Sí, me lo limpia, por favor.",
+   "en": "Yes, clean it for me, please.",
+   "tiles": [
+    "sí",
+    "me lo limpia",
+    "por favor"
+   ],
+   "extra": [
+    "no",
+    "entero",
+    "gracias",
+    "de hoy"
+   ],
+   "ok": [
+    "si me lo limpia por favor",
+    "me lo limpia por favor",
+    "me lo limpia"
+   ],
+   "teaches": [
+    "me lo limpia"
+   ],
+   "good": "He guts and scales it on the spot and does not charge for it. Saying no to that is a decision, not a saving."
+  },
+  {
+   "es": "¿Y se lo corto en filete?",
+   "objective": "Whole, please",
+   "key": "entero",
+   "say": "Entero, por favor.",
+   "en": "Whole, please.",
+   "tiles": [
+    "entero",
+    "por favor"
+   ],
+   "extra": [
+    "en filete",
+    "me lo limpia",
+    "gracias",
+    "de hoy"
+   ],
+   "ok": [
+    "entero por favor",
+    "entero"
+   ],
+   "teaches": [
+    "entero"
+   ],
+   "good": "Entero — whole. A guapote is fried whole here, head and all, and asking for fillets marks you out more than your accent does."
+  }
+ ]
+}

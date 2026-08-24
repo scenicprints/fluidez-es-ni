@@ -1,0 +1,108 @@
+{
+ "id": "mercado-09",
+ "district": "mercado",
+ "tier": 4,
+ "who": "La de las hierbas",
+ "title": "El remedio",
+ "goal": "Be sold a remedy for something you did not know you had",
+ "culture": "The herb stall is where a great many people get their medicine, and a fair amount of it works. You are not being taken in. Say which part of you hurts, take the instructions seriously, and when she says no cuesta nada she is giving you something.",
+ "beats": [
+  {
+   "es": "¿Qué anda buscando, mi hijo? Aquí hay para todo.",
+   "objective": "Something for your stomach",
+   "key": "para el estómago",
+   "say": "Algo para el estómago.",
+   "en": "Something for my stomach.",
+   "tiles": [
+    "algo",
+    "para el estómago"
+   ],
+   "extra": [
+    "para la gripe",
+    "gracias",
+    "por favor",
+    "no ando"
+   ],
+   "ok": [
+    "algo para el estomago",
+    "para el estomago"
+   ],
+   "teaches": [
+    "para el estómago"
+   ],
+   "good": "Name the part of you that hurts. That is the whole consultation, and she will put the plant for it in your hand."
+  },
+  {
+   "es": "Ah, eso es el hombre grande. Amarguísimo, pero le quita todo.",
+   "objective": "Ask how you take it",
+   "key": "lo hierve",
+   "say": "¿Lo hierve?",
+   "en": "Do you boil it?",
+   "tiles": [
+    "¿lo hierve?"
+   ],
+   "extra": [
+    "en ayunas",
+    "gracias",
+    "por favor",
+    "no ando"
+   ],
+   "ok": [
+    "lo hierve"
+   ],
+   "teaches": [
+    "lo hierve"
+   ],
+   "good": "Nearly everything on this stall is a tea, and asking is how you avoid a week of chewing bark. Hombre grande really is that bitter."
+  },
+  {
+   "es": "Lo hierve y se lo toma en ayunas, tres días.",
+   "objective": "Say it back so you have it",
+   "key": "en ayunas",
+   "say": "En ayunas. Tres días.",
+   "en": "On an empty stomach. Three days.",
+   "tiles": [
+    "en ayunas",
+    "tres días"
+   ],
+   "extra": [
+    "lo hierve",
+    "gracias",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "en ayunas tres dias",
+    "en ayunas"
+   ],
+   "teaches": [
+    "en ayunas"
+   ],
+   "good": "En ayunas is before you have eaten anything at all. Repeating the instruction back matters more here than it does at a pharmacy, because there is no label."
+  },
+  {
+   "es": "Y llévese esta ramita también. No cuesta nada.",
+   "objective": "Check you heard that right",
+   "key": "no cuesta nada",
+   "say": "¿No cuesta nada?",
+   "en": "It doesn’t cost anything?",
+   "tiles": [
+    "¿no cuesta nada?"
+   ],
+   "extra": [
+    "gracias",
+    "muy amable",
+    "no ando",
+    "en ayunas"
+   ],
+   "ok": [
+    "no cuesta nada",
+    "no cuesta nada gracias"
+   ],
+   "teaches": [
+    "no cuesta nada"
+   ],
+   "good": "She is giving it to you. No cuesta nada ends the sale as a kindness, and the only right answer is to take it and say muy amable."
+  }
+ ]
+}

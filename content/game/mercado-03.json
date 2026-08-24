@@ -1,0 +1,108 @@
+{
+ "id": "mercado-03",
+ "district": "mercado",
+ "tier": 2,
+ "who": "La carnicera",
+ "title": "La carne",
+ "goal": "Buy meat by weight and get the cut you meant",
+ "culture": "There is no case to point at and no label to read. You say a weight and what you are cooking, and she cuts for it — that is the service, it is free, and it works better than choosing would.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Qué le doy hoy?",
+   "objective": "Half a pound",
+   "key": "media libra",
+   "say": "Media libra, por favor.",
+   "en": "Half a pound, please.",
+   "tiles": [
+    "media libra",
+    "por favor"
+   ],
+   "extra": [
+    "una libra",
+    "para sopa",
+    "gracias",
+    "sin hueso"
+   ],
+   "ok": [
+    "media libra por favor",
+    "media libra"
+   ],
+   "teaches": [
+    "media libra"
+   ],
+   "good": "Media libra. It is asked for out loud, by weight, and there is nothing behind the glass to point at."
+  },
+  {
+   "es": "¿Y para qué la quiere? ¿Para sopa o para asar?",
+   "objective": "For soup",
+   "key": "para sopa",
+   "say": "Para sopa.",
+   "en": "For soup.",
+   "tiles": [
+    "para sopa"
+   ],
+   "extra": [
+    "para asar",
+    "sin hueso",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "para sopa"
+   ],
+   "teaches": [
+    "para sopa"
+   ],
+   "good": "Tell her the dish and she picks the cut. You have to know what you are cooking; you do not have to know any butchery."
+  },
+  {
+   "es": "¿Con hueso o sin hueso?",
+   "objective": "Without the bone",
+   "key": "sin hueso",
+   "say": "Sin hueso.",
+   "en": "Without bone.",
+   "tiles": [
+    "sin hueso"
+   ],
+   "extra": [
+    "con hueso",
+    "para sopa",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "sin hueso",
+    "sin hueso por favor"
+   ],
+   "teaches": [
+    "sin hueso"
+   ],
+   "good": "The bone is where the flavour is and she may well say so, but sin hueso is an ordinary thing to ask for and she will not argue twice."
+  },
+  {
+   "es": "¿Así está bien, o le pongo un poquito más?",
+   "objective": "That is the right amount",
+   "key": "así está bien",
+   "say": "Así está bien. Gracias.",
+   "en": "That’s just right. Thank you.",
+   "tiles": [
+    "así está bien",
+    "gracias"
+   ],
+   "extra": [
+    "más",
+    "sin hueso",
+    "por favor",
+    "otro día"
+   ],
+   "ok": [
+    "asi esta bien gracias",
+    "asi esta bien"
+   ],
+   "teaches": [
+    "así está bien"
+   ],
+   "good": "Así está bien stops the scale where it is. It is the polite enough, and it works for rice, for beans and for how much they are pouring you."
+  }
+ ]
+}

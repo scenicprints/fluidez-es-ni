@@ -1,0 +1,112 @@
+{
+ "id": "mercado-07",
+ "district": "mercado",
+ "tier": 3,
+ "who": "La de las tortillas",
+ "title": "Las tortillas",
+ "goal": "Buy tortillas at the right hour, because later there are none",
+ "culture": "Tortillas are made in the morning and they run out. Turn up at eleven and the answer is ya se acabaron, and the fix is not to complain but to ask her to put some aside for you tomorrow.",
+ "beats": [
+  {
+   "es": "Buenas.",
+   "objective": "Ask whether there are any left",
+   "key": "¿todavía hay?",
+   "say": "Buenas. ¿Todavía hay tortillas?",
+   "en": "Hello. Are there still tortillas?",
+   "tiles": [
+    "Buenas",
+    "¿todavía hay",
+    "tortillas?"
+   ],
+   "extra": [
+    "gracias",
+    "mañana",
+    "por favor",
+    "está bien"
+   ],
+   "ok": [
+    "buenas todavia hay tortillas",
+    "todavia hay tortillas",
+    "todavia hay"
+   ],
+   "teaches": [
+    "¿todavía hay?"
+   ],
+   "good": "¿Todavía hay? asks whether any are left, which is a different question from whether she sells them. Here it is the one that matters."
+  },
+  {
+   "es": "Uy, no. Ya se acabaron, mi amor. Desde las diez.",
+   "objective": "Say it back to be sure you understood",
+   "key": "ya se acabaron",
+   "say": "¿Ya se acabaron?",
+   "en": "They’ve run out already?",
+   "tiles": [
+    "¿ya se acabaron?"
+   ],
+   "extra": [
+    "mañana temprano",
+    "gracias",
+    "está bien",
+    "guárdeme"
+   ],
+   "ok": [
+    "ya se acabaron"
+   ],
+   "teaches": [
+    "ya se acabaron"
+   ],
+   "good": "Se acabaron — they are finished. Repeating it back as a question is how you check you heard it, and she will tell you when to come instead."
+  },
+  {
+   "es": "Sí pues. Venga mañana temprano, como a las seis.",
+   "objective": "Early tomorrow, then",
+   "key": "mañana temprano",
+   "say": "Mañana temprano, entonces.",
+   "en": "Early tomorrow, then.",
+   "tiles": [
+    "mañana temprano",
+    "entonces"
+   ],
+   "extra": [
+    "otro día",
+    "gracias",
+    "está bien",
+    "guárdeme"
+   ],
+   "ok": [
+    "manana temprano entonces",
+    "manana temprano"
+   ],
+   "teaches": [
+    "mañana temprano"
+   ],
+   "good": "Temprano at a tortillería means six. Anything in this market worth queueing for is gone by ten and nobody thinks that is early."
+  },
+  {
+   "es": "Ahí la espero, pues.",
+   "objective": "Ask her to put some aside",
+   "key": "guárdeme",
+   "say": "Guárdeme unas, por favor.",
+   "en": "Keep me some, please.",
+   "tiles": [
+    "guárdeme",
+    "unas",
+    "por favor"
+   ],
+   "extra": [
+    "mañana temprano",
+    "gracias",
+    "otro día",
+    "no"
+   ],
+   "ok": [
+    "guardeme unas por favor",
+    "guardeme unas"
+   ],
+   "teaches": [
+    "guárdeme"
+   ],
+   "good": "Guárdeme asks her to put some by for you, and asking is the whole difference between a customer and a regular."
+  }
+ ]
+}

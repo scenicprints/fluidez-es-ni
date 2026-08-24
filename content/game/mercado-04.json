@@ -1,0 +1,109 @@
+{
+ "id": "mercado-04",
+ "district": "mercado",
+ "tier": 2,
+ "who": "El de los granos",
+ "title": "Los frijoles",
+ "goal": "Buy beans and be told how to cook them",
+ "culture": "Red beans, not black — black is Guatemala and Costa Rica, and gallo pinto is made with rojos. Ask how to cook them and you get the whole recipe twice over, which is included in the price and is worth more than the beans.",
+ "beats": [
+  {
+   "es": "Buenas, ¿qué anda llevando?",
+   "objective": "A pound of beans",
+   "key": "una libra de frijoles",
+   "say": "Una libra de frijoles.",
+   "en": "A pound of beans.",
+   "tiles": [
+    "una libra de frijoles"
+   ],
+   "extra": [
+    "rojos",
+    "negros",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "una libra de frijoles",
+    "una libra de frijoles por favor"
+   ],
+   "teaches": [
+    "una libra de frijoles"
+   ],
+   "good": "Out of the sack, into the scale, weighed in front of you. Nothing here comes in a packet."
+  },
+  {
+   "es": "¿Rojos o negros?",
+   "objective": "Red",
+   "key": "rojos",
+   "say": "Rojos.",
+   "en": "Red ones.",
+   "tiles": [
+    "rojos"
+   ],
+   "extra": [
+    "negros",
+    "una libra de frijoles",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "rojos",
+    "rojos por favor"
+   ],
+   "teaches": [
+    "rojos"
+   ],
+   "good": "Red. Black beans are Guatemala and Costa Rica; a Nicaraguan kitchen runs on rojos and so does gallo pinto."
+  },
+  {
+   "es": "Ahí le van, fresquitos, de Nueva Guinea.",
+   "objective": "Ask how to cook them",
+   "key": "¿cómo los hago?",
+   "say": "¿Y cómo los hago?",
+   "en": "And how do I cook them?",
+   "tiles": [
+    "¿y cómo",
+    "los hago?"
+   ],
+   "extra": [
+    "gracias",
+    "mañana",
+    "con todo",
+    "por favor"
+   ],
+   "ok": [
+    "y como los hago",
+    "como los hago"
+   ],
+   "teaches": [
+    "¿cómo los hago?"
+   ],
+   "good": "Ask, and you get the recipe, then the recipe again, then the answer to a question you did not ask. All of it is free and most of it is right."
+  },
+  {
+   "es": "Los deja en agua desde anoche. Y les echa cebolla, chiltoma, ajo...",
+   "objective": "With the lot, then",
+   "key": "con todo",
+   "say": "Con todo. Está bien.",
+   "en": "With everything. Got it.",
+   "tiles": [
+    "con todo",
+    "está bien"
+   ],
+   "extra": [
+    "sin cebolla",
+    "gracias",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "con todo esta bien",
+    "con todo"
+   ],
+   "teaches": [
+    "con todo"
+   ],
+   "good": "Con todo is the lot — onion, chiltoma, garlic. Chiltoma, not pimiento: the pepper has a different name here and this is where you learn it."
+  }
+ ]
+}

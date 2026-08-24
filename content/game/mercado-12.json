@@ -1,0 +1,110 @@
+{
+ "id": "mercado-12",
+ "district": "mercado",
+ "tier": 5,
+ "who": "El regateador",
+ "title": "El regateo",
+ "goal": "Haggle properly, which is neither arguing nor accepting",
+ "culture": "Haggling has a shape: ask, be told, counter once, meet in the middle, close, and never reopen it. Grinding somebody down is not winning and paying the first number is not manners — the ritual is the point, and both of you are meant to enjoy it.",
+ "beats": [
+  {
+   "es": "Ese bolso de cuero le sale en mil quinientos. De Masaya, hecho a mano.",
+   "objective": "Counter, once",
+   "key": "me lo deja en",
+   "say": "¿Me lo deja en mil?",
+   "en": "Would you let me have it for a thousand?",
+   "tiles": [
+    "¿me lo deja en",
+    "mil?"
+   ],
+   "extra": [
+    "está caro",
+    "ni modo",
+    "gracias",
+    "trato hecho"
+   ],
+   "ok": [
+    "me lo deja en mil"
+   ],
+   "teaches": [
+    "me lo deja en"
+   ],
+   "good": "One counter, said as a question. Me lo deja en... is not an argument — it is the next line of a script you are both reading from."
+  },
+  {
+   "es": "¿Mil? Uy, no. En mil doscientos, y le juro que no gano nada.",
+   "objective": "Split it — say it suits neither of you",
+   "key": "ni para usted ni para mí",
+   "say": "Mil cien. Ni para usted ni para mí.",
+   "en": "Eleven hundred. Good for neither of us.",
+   "tiles": [
+    "mil cien",
+    "ni para usted ni para mí"
+   ],
+   "extra": [
+    "mil quinientos",
+    "está caro",
+    "gracias",
+    "trato hecho"
+   ],
+   "ok": [
+    "mil cien ni para usted ni para mi",
+    "ni para usted ni para mi"
+   ],
+   "teaches": [
+    "ni para usted ni para mí"
+   ],
+   "good": "Ni para usted ni para mí closes the gap by making the split the fair thing rather than the concession. It lets him agree without losing."
+  },
+  {
+   "es": "Ay, hombre. Mil ciento cincuenta y se lo llevo hasta la esquina.",
+   "objective": "Hold where you are",
+   "key": "ya pues",
+   "say": "Ya pues, mil cien.",
+   "en": "Come on now, eleven hundred.",
+   "tiles": [
+    "ya pues",
+    "mil cien"
+   ],
+   "extra": [
+    "mil quinientos",
+    "trato hecho",
+    "gracias",
+    "está caro"
+   ],
+   "ok": [
+    "ya pues mil cien",
+    "ya pues"
+   ],
+   "teaches": [
+    "ya pues"
+   ],
+   "good": "Ya pues is come on, alright, enough — a nudge and not a demand. Said with a smile it ends the haggling your way and costs him nothing he minds."
+  },
+  {
+   "es": "¡Bueno! Mil cien pues. Se lo dejo porque usted me cae bien.",
+   "objective": "Close it",
+   "key": "trato hecho",
+   "say": "Trato hecho. Gracias.",
+   "en": "Done deal. Thank you.",
+   "tiles": [
+    "trato hecho",
+    "gracias"
+   ],
+   "extra": [
+    "ya pues",
+    "está caro",
+    "otro día",
+    "por favor"
+   ],
+   "ok": [
+    "trato hecho gracias",
+    "trato hecho"
+   ],
+   "teaches": [
+    "trato hecho"
+   ],
+   "good": "Trato hecho — done. Say it, pay it, and never go back to the price: reopening a closed deal is the one genuinely rude move in the whole exchange."
+  }
+ ]
+}

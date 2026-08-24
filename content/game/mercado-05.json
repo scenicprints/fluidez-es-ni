@@ -1,0 +1,111 @@
+{
+ "id": "mercado-05",
+ "district": "mercado",
+ "tier": 2,
+ "who": "Doña de la fritanga",
+ "title": "La fritanga",
+ "goal": "Order from a fritanga like somebody who eats there",
+ "culture": "The fritanga is the evening grill on the pavement, and it is where most people actually eat. An enchilado here is a fried stuffed tortilla off that grill and has nothing to do with the Mexican dish that shares the name.",
+ "beats": [
+  {
+   "es": "Buenas noches. ¿Qué le sirvo?",
+   "objective": "One enchilado",
+   "key": "un enchilado",
+   "say": "Un enchilado, por favor.",
+   "en": "One enchilado, please.",
+   "tiles": [
+    "un enchilado",
+    "por favor"
+   ],
+   "extra": [
+    "dos",
+    "con ensalada",
+    "gracias",
+    "para llevar"
+   ],
+   "ok": [
+    "un enchilado por favor",
+    "un enchilado"
+   ],
+   "teaches": [
+    "un enchilado"
+   ],
+   "good": "A fried, stuffed tortilla straight off the grill. Order it by name and nobody will ask you anything else about it."
+  },
+  {
+   "es": "¿Con ensalada y maduro?",
+   "objective": "Yes, with salad",
+   "key": "con ensalada",
+   "say": "Con ensalada, sí.",
+   "en": "With salad, yes.",
+   "tiles": [
+    "con ensalada",
+    "sí"
+   ],
+   "extra": [
+    "sin ensalada",
+    "no",
+    "gracias",
+    "para llevar"
+   ],
+   "ok": [
+    "con ensalada si",
+    "con ensalada"
+   ],
+   "teaches": [
+    "con ensalada"
+   ],
+   "good": "The ensalada is shredded cabbage in vinegar and it goes on the plate, not beside it. Maduro is fried sweet plantain and you want that too."
+  },
+  {
+   "es": "¿Se lo sirvo aquí o se lo empaco?",
+   "objective": "To take away",
+   "key": "para llevar",
+   "say": "Para llevar, por favor.",
+   "en": "To take away, please.",
+   "tiles": [
+    "para llevar",
+    "por favor"
+   ],
+   "extra": [
+    "aquí",
+    "con ensalada",
+    "gracias",
+    "mañana"
+   ],
+   "ok": [
+    "para llevar por favor",
+    "para llevar"
+   ],
+   "teaches": [
+    "para llevar"
+   ],
+   "good": "Para llevar gets it in a bag with the salad in a bag of its own. Aquí gets you a plastic chair on the pavement, which is the better answer."
+  },
+  {
+   "es": "Se lo hago fresquito. Espéreme un poquito, pues.",
+   "objective": "Tell her you will wait",
+   "key": "ya va",
+   "say": "Ya va. Aquí espero.",
+   "en": "Alright. I’ll wait here.",
+   "tiles": [
+    "ya va",
+    "aquí espero"
+   ],
+   "extra": [
+    "para llevar",
+    "otro día",
+    "gracias",
+    "no"
+   ],
+   "ok": [
+    "ya va aqui espero",
+    "ya va"
+   ],
+   "teaches": [
+    "ya va"
+   ],
+   "good": "Ya va is the most useful two words in the country: coming right up, hang on, alright, I heard you. The tone does all the work."
+  }
+ ]
+}

@@ -4,7 +4,7 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**12 of 122 missions written.**
+**24 of 122 missions written.**
 
 ## El Centro (12/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
@@ -24,23 +24,23 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 4 | `centro-11` **La multa** | El transitero | Talk your way out of a ticket, or find out what not doing so costs |
 | x | 5 | `centro-12` **El del parque** | El borracho amable | Get away from a friendly drunk without insulting him |
 
-## El Mercado (0/12)
+## El Mercado (12/12)
 *The municipal market and the streets around it. Loud, cheap, and where you learn what things actually cost.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `mercado-01` **La fruta** | La verdulera | Buy fruit for the week without paying the chele price |
-|   | 1 | `mercado-02` **Los reales** | El del cambio | Change dollars and insist on small notes |
-|   | 2 | `mercado-03` **La carne** | La carnicera | Buy meat by weight and get the cut you meant |
-|   | 2 | `mercado-04` **Los frijoles** | El de los granos | Buy beans and be told how to cook them |
-|   | 2 | `mercado-05` **La fritanga** | Doña de la fritanga | Order from a fritanga like somebody who eats there |
-|   | 3 | `mercado-06` **Las bolsas** | El cargador | Pay somebody to carry your shopping, agreed first |
-|   | 3 | `mercado-07` **Las tortillas** | La de las tortillas | Buy tortillas at the right hour, because later there are none |
-|   | 3 | `mercado-08` **El insistente** | El vendedor insistente | Say no four times to somebody who ignores the first three |
-|   | 4 | `mercado-09` **El remedio** | La de las hierbas | Be sold a remedy for something you did not know you had |
-|   | 4 | `mercado-10` **El pescado** | El pescadero | Buy fish and be able to tell whether it is fresh |
-|   | 4 | `mercado-11` **La comadre** | La comadre | Be recognised, and become somebody who comes here |
-|   | 5 | `mercado-12` **El regateo** | El regateador | Haggle properly, which is neither arguing nor accepting |
+| x | 1 | `mercado-01` **La fruta** | La verdulera | Buy fruit for the week without paying the chele price |
+| x | 1 | `mercado-02` **Los reales** | El del cambio | Change dollars and insist on small notes |
+| x | 2 | `mercado-03` **La carne** | La carnicera | Buy meat by weight and get the cut you meant |
+| x | 2 | `mercado-04` **Los frijoles** | El de los granos | Buy beans and be told how to cook them |
+| x | 2 | `mercado-05` **La fritanga** | Doña de la fritanga | Order from a fritanga like somebody who eats there |
+| x | 3 | `mercado-06` **Las bolsas** | El cargador | Pay somebody to carry your shopping, agreed first |
+| x | 3 | `mercado-07` **Las tortillas** | La de las tortillas | Buy tortillas at the right hour, because later there are none |
+| x | 3 | `mercado-08` **El insistente** | El vendedor insistente | Say no four times to somebody who ignores the first three |
+| x | 4 | `mercado-09` **El remedio** | La de las hierbas | Be sold a remedy for something you did not know you had |
+| x | 4 | `mercado-10` **El pescado** | El pescadero | Buy fish and be able to tell whether it is fresh |
+| x | 4 | `mercado-11` **La comadre** | La comadre | Be recognised, and become somebody who comes here |
+| x | 5 | `mercado-12` **El regateo** | El regateador | Haggle properly, which is neither arguing nor accepting |
 
 ## Xalteva (0/10)
 *The old quarter west of the centre. Churches, quiet streets, old people with time to talk.*
