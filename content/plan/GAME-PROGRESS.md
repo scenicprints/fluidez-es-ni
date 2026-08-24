@@ -4,18 +4,18 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**0 of 122 missions written.**
+**4 of 122 missions written.**
 
-## El Centro (0/12)
+## El Centro (4/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `centro-01` **La primera noche** | El muchacho del hostal | Get a room for your first three nights |
-|   | 1 | `centro-02` **El desayuno** | La muchacha del comedor | Order breakfast and ask what you owe |
-|   | 1 | `centro-03` **En español** | El mesero | Get served in Spanish by somebody who would rather practise English |
+| x | 1 | `centro-01` **La primera noche** | El muchacho del hostal | Get a room for your first three nights |
+| x | 1 | `centro-02` **El desayuno** | La muchacha del comedor | Order breakfast and ask what you owe |
+| x | 1 | `centro-03` **En español** | El mesero | Get served in Spanish by somebody who would rather practise English |
 |   | 2 | `centro-04` **El calor** | Doña de la banca | Sit on a bench and talk about the weather and nothing else |
-|   | 2 | `centro-05` **El cuidacarros** | El cuidacarros | Understand that the man watching your moto has a job, not a racket |
+| x | 2 | `centro-05` **El cuidacarros** | El cuidacarros | Understand that the man watching your moto has a job, not a racket |
 |   | 2 | `centro-06` **La catedral** | El guía | Get the story of the cathedral out of somebody who wants paying for it |
 |   | 3 | `centro-07` **La foto** | El fotógrafo | Get a photo taken for a document, not for a postcard |
 |   | 3 | `centro-08` **El periódico** | El del kiosco | Buy a paper and get told the news before you read it |

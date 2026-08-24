@@ -1,0 +1,93 @@
+{
+ "id": "centro-02",
+ "district": "centro",
+ "tier": 1,
+ "who": "La muchacha del comedor",
+ "title": "El desayuno",
+ "goal": "Order breakfast and ask what you owe",
+ "culture": "Gallo pinto is rice and beans fried together, and it is breakfast. There is no other option and nobody is apologising for that.",
+ "beats": [
+  {
+   "es": "Buenas, ¿qué le doy?",
+   "objective": "Order gallo pinto",
+   "key": "por favor",
+   "say": "Buenas. Un gallo pinto, por favor.",
+   "en": "Hello. A gallo pinto, please.",
+   "tiles": [
+    "Buenas",
+    "un gallo pinto",
+    "por favor"
+   ],
+   "extra": [
+    "un café",
+    "no",
+    "la cuenta",
+    "mañana"
+   ],
+   "ok": [
+    "buenas un gallo pinto por favor",
+    "un gallo pinto por favor",
+    "buenas un gallo pinto",
+    "un gallo pinto"
+   ],
+   "teaches": [
+    "un gallo pinto",
+    "por favor"
+   ],
+   "good": "¿Qué le doy? is what you get instead of a menu. Answer with the thing, not a sentence."
+  },
+  {
+   "es": "¿Y de tomar?",
+   "objective": "A coffee",
+   "key": "por favor",
+   "say": "Un café, por favor.",
+   "en": "A coffee, please.",
+   "tiles": [
+    "un café",
+    "por favor"
+   ],
+   "extra": [
+    "un gallo pinto",
+    "agua",
+    "no",
+    "Buenas"
+   ],
+   "ok": [
+    "un cafe por favor",
+    "un cafe",
+    "buenas un cafe por favor"
+   ],
+   "teaches": [
+    "un café"
+   ],
+   "good": "De tomar covers anything you drink, not just alcohol."
+  },
+  {
+   "es": "Ahí le va, pues.",
+   "objective": "Ask what you owe",
+   "key": "cuánto le debo",
+   "say": "¿Cuánto le debo?",
+   "en": "How much do I owe you?",
+   "tiles": [
+    "cuánto",
+    "le debo"
+   ],
+   "extra": [
+    "la cuenta",
+    "por favor",
+    "está bien",
+    "gracias"
+   ],
+   "ok": [
+    "cuanto le debo",
+    "cuanto le debo por favor",
+    "la cuenta por favor",
+    "la cuenta"
+   ],
+   "teaches": [
+    "cuánto le debo"
+   ],
+   "good": "¿Cuánto le debo? is warmer than la cuenta. It assumes you are staying."
+  }
+ ]
+}

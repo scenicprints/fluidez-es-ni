@@ -1,0 +1,57 @@
+[
+ {
+  "kind": "doña en la puerta",
+  "district": "centro",
+  "says": "¿Anda buscando dónde quedarse? Ahí nomás, en la esquina, hay hospedaje.",
+  "en": "Looking for somewhere to stay? Just there, on the corner, there is a guesthouse.",
+  "points_at": [
+   "centro-01"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "centro",
+  "says": "¿Tiene hambre? El comedor de la Calzada abre temprano.",
+  "en": "Hungry? The comedor on La Calzada opens early.",
+  "points_at": [
+   "centro-02"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "centro",
+  "says": "Si quiere desayunar, La Calzada. Ahí desayunan todos.",
+  "en": "If you want breakfast, La Calzada. Everybody eats there.",
+  "points_at": [
+   "centro-02",
+   "centro-03"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "centro",
+  "says": "A ese mesero no le hable en inglés, que después no lo suelta.",
+  "en": "Do not speak English to that waiter, or he will never let you go.",
+  "points_at": [
+   "centro-03"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "centro",
+  "says": "Deje la moto con el muchacho, él se la cuida. Es su trabajo, pues.",
+  "en": "Leave the moto with the lad, he will watch it. It is his job.",
+  "points_at": [
+   "centro-05"
+  ]
+ },
+ {
+  "kind": "cuidacarros",
+  "district": "centro",
+  "says": "Aquí le cuido cualquier cosa, jefe. Nada le pasa.",
+  "en": "I will watch anything for you here, boss. Nothing happens to it.",
+  "points_at": [
+   "centro-05"
+  ]
+ }
+]

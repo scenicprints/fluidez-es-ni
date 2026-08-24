@@ -1,5 +1,7 @@
 {
  "premise": "You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.",
+ "open_world": "OPEN WORLD. Nothing is locked. You can walk into any district on the first day and talk to anybody. Tier is a difficulty label for authoring order and for what the game SUGGESTS next - it is never a gate. If a player wants to walk into a tier-five conversation on day one and lose it, that is their business.",
+ "no_puzzles": "This is a language game, not a Zelda game. A mission must never be a puzzle you have to think your way through. Being lost is a nudge, not a maze: ask somebody, get pointed, go. The difficulty lives in the Spanish, nowhere else.",
  "districts": {
   "centro": {
    "name": "El Centro",

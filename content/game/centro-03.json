@@ -1,0 +1,90 @@
+{
+ "id": "centro-03",
+ "district": "centro",
+ "tier": 1,
+ "who": "El mesero",
+ "title": "En español",
+ "goal": "Get served in Spanish by somebody who would rather practise English",
+ "culture": "He is being friendly, not rude — English is worth money on this street. Asking in Spanish is how you turn it round without embarrassing him.",
+ "beats": [
+  {
+   "es": "Hello my friend! Where you from?",
+   "objective": "Answer, and ask to speak Spanish",
+   "key": "en español",
+   "say": "Buenas. ¿Podemos hablar en español?",
+   "en": "Hello. Can we speak in Spanish?",
+   "tiles": [
+    "Buenas",
+    "¿podemos hablar",
+    "en español?"
+   ],
+   "extra": [
+    "no entiendo",
+    "gracias",
+    "otro día",
+    "está bien"
+   ],
+   "ok": [
+    "buenas podemos hablar en espanol",
+    "podemos hablar en espanol"
+   ],
+   "teaches": [
+    "en español"
+   ],
+   "good": "Asking is better than just answering in Spanish and hoping. He will switch, and he will be pleased."
+  },
+  {
+   "es": "¡Ah! ¿Está aprendiendo? Muy bien. ¿Qué va a querer?",
+   "objective": "Say you are learning, and ask for his help",
+   "key": "estoy aprendiendo",
+   "say": "Estoy aprendiendo. Ayúdeme, por favor.",
+   "en": "I am learning. Help me, please.",
+   "tiles": [
+    "estoy aprendiendo",
+    "ayúdeme",
+    "por favor"
+   ],
+   "extra": [
+    "no sé",
+    "gracias",
+    "de nuevo",
+    "está bien"
+   ],
+   "ok": [
+    "estoy aprendiendo ayudeme por favor",
+    "estoy aprendiendo ayudeme",
+    "estoy aprendiendo"
+   ],
+   "teaches": [
+    "estoy aprendiendo",
+    "ayúdeme"
+   ],
+   "good": "Say it once and people will slow down for the rest of the conversation. It is the most useful sentence you own."
+  },
+  {
+   "es": "Perfecto. Entonces le traigo el menú y me dice, ¿va?",
+   "objective": "You missed that — ask again",
+   "key": "de nuevo",
+   "say": "De nuevo, por favor.",
+   "en": "Again, please.",
+   "tiles": [
+    "de nuevo",
+    "por favor"
+   ],
+   "extra": [
+    "gracias",
+    "está bien",
+    "ya va",
+    "no"
+   ],
+   "ok": [
+    "de nuevo por favor",
+    "de nuevo"
+   ],
+   "teaches": [
+    "de nuevo"
+   ],
+   "good": "Asking twice is normal and costs you nothing. Nodding at something you did not catch costs you the rest of the conversation."
+  }
+ ]
+}

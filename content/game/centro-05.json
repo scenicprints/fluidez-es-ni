@@ -1,0 +1,89 @@
+{
+ "id": "centro-05",
+ "district": "centro",
+ "tier": 2,
+ "who": "El cuidacarros",
+ "title": "El cuidacarros",
+ "goal": "Understand that the man watching your moto has a job, not a racket",
+ "culture": "This is not a shakedown and refusing marks you instantly. Ten córdobas, and your moto is still there when you come back. Everybody pays it.",
+ "beats": [
+  {
+   "es": "¿Se lo cuido, jefe?",
+   "objective": "Leave it with him",
+   "key": "ahí se lo dejo",
+   "say": "Ahí se lo dejo.",
+   "en": "I’ll leave it with you.",
+   "tiles": [
+    "ahí",
+    "se lo dejo"
+   ],
+   "extra": [
+    "no gracias",
+    "yo lo cuido",
+    "no es mío",
+    "está bien"
+   ],
+   "ok": [
+    "ahi se lo dejo",
+    "se lo dejo"
+   ],
+   "teaches": [
+    "ahí se lo dejo"
+   ],
+   "good": "Jefe is not sarcasm. It is what he calls everybody, and it costs nothing to be called it."
+  },
+  {
+   "es": "Ahí está, jefe. Nadie lo tocó.",
+   "objective": "Pay him",
+   "key": "diez pesos",
+   "say": "Aquí tiene. Diez pesos.",
+   "en": "Here you go. Ten córdobas.",
+   "tiles": [
+    "aquí tiene",
+    "diez pesos"
+   ],
+   "extra": [
+    "cien pesos",
+    "no tengo",
+    "está caro",
+    "mañana"
+   ],
+   "ok": [
+    "aqui tiene diez pesos",
+    "diez pesos",
+    "aqui tiene"
+   ],
+   "teaches": [
+    "diez pesos"
+   ],
+   "good": "Pesos, not córdobas, in the street. The note says córdoba and nobody says it."
+  },
+  {
+   "es": "Gracias, jefe. Aquí lo espero.",
+   "objective": "Thank him properly",
+   "key": "gracias",
+   "say": "Gracias, muy amable.",
+   "en": "Thank you, that’s very kind.",
+   "tiles": [
+    "gracias",
+    "muy amable"
+   ],
+   "extra": [
+    "adiós",
+    "por favor",
+    "está bien",
+    "otro día"
+   ],
+   "ok": [
+    "gracias muy amable",
+    "muy amable",
+    "gracias"
+   ],
+   "teaches": [
+    "gracias",
+    "muy amable"
+   ],
+   "good": "Muy amable is the everyday sign-off after somebody does you a small service."
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "id": "centro-01",
+ "district": "centro",
+ "tier": 1,
+ "who": "El muchacho del hostal",
+ "title": "La primera noche",
+ "goal": "Get a room for your first three nights",
+ "culture": "Cuarto, not habitación. Habitación is what a Spaniard says, and everyone will hear it.",
+ "beats": [
+  {
+   "es": "Buenas. ¿En qué le ayudo?",
+   "objective": "Ask for a room",
+   "key": "Buenas",
+   "say": "Buenas. Quiero un cuarto.",
+   "en": "Hello. I want a room.",
+   "tiles": [
+    "Buenas",
+    "quiero",
+    "un cuarto"
+   ],
+   "extra": [
+    "mañana",
+    "no",
+    "gracias",
+    "tres noches"
+   ],
+   "ok": [
+    "buenas quiero un cuarto",
+    "quiero un cuarto",
+    "buenas quiero un cuarto gracias",
+    "quiero un cuarto gracias"
+   ],
+   "teaches": [
+    "Buenas",
+    "quiero",
+    "un cuarto"
+   ],
+   "good": "Buenas on its own is the whole greeting here. Nobody says buenos días after about nine."
+  },
+  {
+   "es": "¿Para cuántas noches?",
+   "objective": "Three nights",
+   "key": "tres noches",
+   "say": "Tres noches.",
+   "en": "Three nights.",
+   "tiles": [
+    "tres",
+    "noches"
+   ],
+   "extra": [
+    "córdobas",
+    "cinco",
+    "un cuarto",
+    "mañana"
+   ],
+   "ok": [
+    "tres noches",
+    "tres"
+   ],
+   "teaches": [
+    "tres noches"
+   ],
+   "good": "Short is normal. Nobody builds a sentence for this."
+  },
+  {
+   "es": "Son quince dólares la noche. ¿Está bien?",
+   "objective": "Agree",
+   "key": "está bien",
+   "say": "Está bien.",
+   "en": "That’s fine.",
+   "tiles": [
+    "está",
+    "bien"
+   ],
+   "extra": [
+    "no",
+    "muy",
+    "caro",
+    "gracias"
+   ],
+   "ok": [
+    "esta bien",
+    "esta bien gracias",
+    "muy bien"
+   ],
+   "teaches": [
+    "está bien"
+   ],
+   "good": "Está bien is the whole language for yes, agreed, fine, alright."
+  }
+ ]
+}

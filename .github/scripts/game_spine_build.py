@@ -228,6 +228,16 @@ with io.open(out, 'w', encoding='utf-8') as f:
         'premise': (u'You moved to Granada and you live there. There is no plot. '
                     u'There are districts, and everything that happens to somebody '
                     u'living in a Nicaraguan city. Winning is doing all of it.'),
+        'open_world': (u'OPEN WORLD. Nothing is locked. You can walk into any district '
+                       u'on the first day and talk to anybody. Tier is a difficulty '
+                       u'label for authoring order and for what the game SUGGESTS '
+                       u'next - it is never a gate. If a player wants to walk into a '
+                       u'tier-five conversation on day one and lose it, that is their '
+                       u'business.'),
+        'no_puzzles': (u'This is a language game, not a Zelda game. A mission must '
+                       u'never be a puzzle you have to think your way through. Being '
+                       u'lost is a nudge, not a maze: ask somebody, get pointed, go. '
+                       u'The difficulty lives in the Spanish, nowhere else.'),
         'districts': {k: {'name': v[0], 'desc': v[1]} for k, v in DISTRICTS.items()},
         'crowd': [{'kind': k, 'count': n, 'note': d} for k, n, d in CROWD],
         'core': CORE,
