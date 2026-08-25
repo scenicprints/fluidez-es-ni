@@ -186,6 +186,40 @@ def main():
             if kind == "scenario" and not item.get("steps"):
                 problems.append("scenario %s has no steps" % i)
 
+    # The game. Missions live one-per-file in content/game/ and the street
+    # crowd in content/game/crowd/, and both go into the pack so the app has
+    # them offline like everything else. This course declares the `game`
+    # feature; Schweizer Hochdeutsch does not, so the tab never appears there.
+    game = None
+    game_dir = os.path.join(content_dir, "game")
+    if os.path.isdir(game_dir):
+        missions, crowd = [], []
+        for name in sorted(os.listdir(game_dir)):
+            if name.endswith(".json"):
+                body = read(os.path.join(game_dir, name))
+                if body.get("beats"):
+                    missions.append(body)
+        crowd_dir = os.path.join(game_dir, "crowd")
+        if os.path.isdir(crowd_dir):
+            for name in sorted(os.listdir(crowd_dir)):
+                if name.endswith(".json"):
+                    for i, row in enumerate(read(os.path.join(crowd_dir, name))):
+                        row = dict(row)
+                        row["id"] = "crowd-%s-%d" % (name[:-5], i)
+                        crowd.append(row)
+        # A mission nobody in the street points at cannot be found, and the
+        # game has no map markers by design. game_stage.py fails on this too;
+        # failing here as well means it can never reach a phone.
+        pointed = set()
+        for row in crowd:
+            pointed |= set(row.get("points_at") or [])
+        for m in missions:
+            if m["id"] not in pointed:
+                problems.append("game: %s is written but nobody in the street "
+                                "points at it" % m["id"])
+        if missions:
+            game = {"missions": missions, "crowd": crowd}
+
     features = manifest.get("features")
     if not features:
         features = ["words"]
@@ -193,6 +227,8 @@ def main():
         if scenarios: features.append("scenes")
         if patterns: features.append("patterns")
         if verbs: features.append("verbs")
+    if game and "game" not in features:
+        features.append("game")
         # Audio is opt-in: several languages have no speech voice at all.
 
     # Inflected forms -> the dictionary entry they belong to.
@@ -254,6 +290,7 @@ def main():
         "verbs": verbs,
         "emergency": emergency,
         "momo": momo,
+        "game": game,
     }
 
     # Is this actually Nicaraguan Spanish?
@@ -311,6 +348,11 @@ def main():
           (len(lessons), len(scenarios), len(dictionary), len(patterns),
            ", verbs" if verbs else ""))
     print("features   %s" % ", ".join(features))
+    if game:
+        print("game       %d missions, %d beats, %d crowd lines"
+              % (len(game["missions"]),
+                 sum(len(m["beats"]) for m in game["missions"]),
+                 len(game["crowd"])))
     print("dialect    Nicaraguan - %d voseo forms, 0 off-dialect" % voseo_count)
     if schedule_stats.get("stories"):
         print("spine      %d stories, %s running words, %d words taught, "
