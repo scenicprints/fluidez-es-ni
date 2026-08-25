@@ -1,0 +1,75 @@
+[
+ {
+  "kind": "doña en la puerta",
+  "district": "fiestas",
+  "says": "El siete de diciembre es la Purísima. Váyase conmigo y aprende a gritar en las puertas.",
+  "en": "The seventh of December is the Purísima. Come with me and learn to shout at the doors.",
+  "points_at": [
+   "fiestas-01",
+   "fiestas-02"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "fiestas",
+  "says": "A las seis suenan las campanas y sale todo el mundo. Ahí empieza la gritería.",
+  "en": "At six the bells go and everybody comes out. That is when the Gritería starts.",
+  "points_at": [
+   "fiestas-02"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "fiestas",
+  "says": "En Semana Santa hacen las alfombras de aserrín en la calle. No las vaya a pisar.",
+  "en": "In Holy Week they make the sawdust carpets in the street. Mind you do not step on them.",
+  "points_at": [
+   "fiestas-03"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "fiestas",
+  "says": "La Hípica es de los caballos. Cada uno es de una finca y todos saben de cuál.",
+  "en": "The Hípica is the horses. Each one belongs to an estate and everybody knows which.",
+  "points_at": [
+   "fiestas-04"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "fiestas",
+  "says": "En el Torovenado se disfrazan del alcalde, del cura, de todos. Nadie se salva.",
+  "en": "At the Torovenado they dress up as the mayor, the priest, everybody. Nobody is spared.",
+  "points_at": [
+   "fiestas-05"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "fiestas",
+  "says": "En mayo bailan el Palo de Mayo en la calle. Y lo van a jalar a usted, no se salva.",
+  "en": "In May they dance the Palo de Mayo in the street. And they will drag you in, you will not escape.",
+  "points_at": [
+   "fiestas-06"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "fiestas",
+  "says": "En Nochebuena se come a las doce de la noche, no antes. Y se abraza a todo el mundo.",
+  "en": "On Christmas Eve you eat at midnight, not before. And you hug everybody.",
+  "points_at": [
+   "fiestas-07"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "fiestas",
+  "says": "El treinta y uno queman el año viejo en la calle. Un muñeco de ropa vieja, con cohetes.",
+  "en": "On the thirty-first they burn the old year in the street. A dummy in old clothes, with fireworks.",
+  "points_at": [
+   "fiestas-08"
+  ]
+ }
+]

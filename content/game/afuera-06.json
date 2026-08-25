@@ -1,0 +1,107 @@
+{
+ "id": "afuera-06",
+ "district": "afuera",
+ "tier": 5,
+ "who": "El caficultor",
+ "title": "El cafetal",
+ "goal": "Pick coffee for a day and be judged on your speed",
+ "culture": "El corte is the coffee harvest and it is the axis a third of the country’s year turns on. You are paid by weight, green beans ruin the batch, and the people who do this for a living will be four times faster than you by lunchtime.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Viene a ver el cafetal?",
+   "objective": "Ask about the harvest",
+   "key": "el corte",
+   "say": "¿Cuándo es el corte?",
+   "en": "When is the harvest?",
+   "tiles": [
+    "¿cuándo es",
+    "el corte?"
+   ],
+   "extra": [
+    "sólo las rojas",
+    "con las dos manos",
+    "disculpe",
+    "otro día"
+   ],
+   "ok": [
+    "cuando es el corte",
+    "el corte"
+   ],
+   "teaches": [
+    "el corte"
+   ],
+   "good": "El corte is the picking. For a third of this country it is the axis the whole year turns on."
+  },
+  {
+   "es": "Ahorita mismo. Agarre un canasto, pues. Pero sólo las rojas.",
+   "objective": "Check the rule",
+   "key": "sólo las rojas",
+   "say": "¿Sólo las rojas?",
+   "en": "Only the red ones?",
+   "tiles": [
+    "¿sólo las rojas?"
+   ],
+   "extra": [
+    "el corte",
+    "con las dos manos",
+    "¿a cómo?",
+    "otro día"
+   ],
+   "ok": [
+    "solo las rojas"
+   ],
+   "teaches": [
+    "sólo las rojas"
+   ],
+   "good": "Only the red ones. Green ones ruin the batch, and you are paid by weight — so the temptation is real and so is the rule."
+  },
+  {
+   "es": "Y con las dos manos, si no, no avanza.",
+   "objective": "Say it back",
+   "key": "con las dos manos",
+   "say": "¿Con las dos manos?",
+   "en": "With both hands?",
+   "tiles": [
+    "¿con las dos manos?"
+   ],
+   "extra": [
+    "sólo las rojas",
+    "el corte",
+    "disculpe",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "con las dos manos"
+   ],
+   "teaches": [
+    "con las dos manos"
+   ],
+   "good": "Both hands, both sides of the branch, all day. The people doing this for a living will be four times faster than you by lunchtime."
+  },
+  {
+   "es": "Va aprendiendo, joven. Va aprendiendo.",
+   "objective": "Take the compliment",
+   "key": "va aprendiendo",
+   "say": "Voy aprendiendo, pues.",
+   "en": "I’m getting there.",
+   "tiles": [
+    "voy aprendiendo",
+    "pues"
+   ],
+   "extra": [
+    "va aprendiendo",
+    "el corte",
+    "otro día",
+    "disculpe"
+   ],
+   "ok": [
+    "voy aprendiendo pues",
+    "voy aprendiendo"
+   ],
+   "teaches": [
+    "va aprendiendo"
+   ],
+   "good": "Va aprendiendo from him, voy aprendiendo from you. It is the highest praise you will get on your first day and it is meant kindly."
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "id": "fiestas-01",
+ "district": "fiestas",
+ "tier": 2,
+ "who": "Doña Marta",
+ "title": "La Purísima",
+ "goal": "Sing at a door on the 7th of December and get sweets for it",
+ "culture": "The seventh of December. Somebody shouts the question at a door, everybody within earshot shouts the answer, and the house hands out la gorra — sweets, sugar cane, fruit, a whistle. It is the most Nicaraguan night of the year and you do it with somebody who knows the houses.",
+ "beats": [
+  {
+   "es": "El siete gritamos en las puertas. Yo pregunto y usted contesta. ¿Quién causa tanta alegría?",
+   "objective": "Give the answer everybody gives",
+   "key": "la concepción",
+   "say": "¡La Concepción de María!",
+   "en": "The Conception of Mary!",
+   "tiles": [
+    "¡la Concepción",
+    "de María!"
+   ],
+   "extra": [
+    "gorra",
+    "vivan las gorras",
+    "ideay",
+    "ni modo"
+   ],
+   "ok": [
+    "la concepcion de maria",
+    "la concepcion"
+   ],
+   "teaches": [
+    "¿quién causa tanta alegría?",
+    "la concepción"
+   ],
+   "good": "One question, one answer, at every door in the country on the same night. It is the one call and response you cannot afford not to know."
+  },
+  {
+   "es": "¡Eso! Y entonces le dan la gorra.",
+   "objective": "Ask what a gorra is",
+   "key": "gorra",
+   "say": "¿Qué es la gorra?",
+   "en": "What’s a gorra?",
+   "tiles": [
+    "¿qué es",
+    "la gorra?"
+   ],
+   "extra": [
+    "vivan las gorras",
+    "la concepción",
+    "vaya pues",
+    "ni modo"
+   ],
+   "ok": [
+    "que es la gorra",
+    "la gorra"
+   ],
+   "teaches": [
+    "gorra"
+   ],
+   "good": "La gorra is what the house hands you at the door: sweets, fruit, a stick of sugar cane, a plastic whistle. Everybody goes home with a bagful."
+  },
+  {
+   "es": "Dulces, caña, un pito. Y usted grita otra cosa cuando se la dan.",
+   "objective": "Shout the thanks",
+   "key": "vivan las gorras",
+   "say": "¡Vivan las gorras!",
+   "en": "Long live the gift bags!",
+   "tiles": [
+    "¡vivan las gorras!"
+   ],
+   "extra": [
+    "la concepción",
+    "la gorra",
+    "ideay",
+    "vaya pues"
+   ],
+   "ok": [
+    "vivan las gorras"
+   ],
+   "teaches": [
+    "vivan las gorras"
+   ],
+   "good": "Shouted, on somebody’s doorstep, by grown adults. It is not a joke and by the fourth house you will be shouting it too."
+  },
+  {
+   "es": "¿Y viene conmigo el siete, pues?",
+   "objective": "Say yes",
+   "key": "vaya pues",
+   "say": "Vaya pues. Voy con usted.",
+   "en": "Alright then. I’ll come with you.",
+   "tiles": [
+    "vaya pues",
+    "voy con usted"
+   ],
+   "extra": [
+    "otro día",
+    "ni modo",
+    "la gorra",
+    "ideay"
+   ],
+   "ok": [
+    "vaya pues voy con usted",
+    "vaya pues"
+   ],
+   "teaches": [
+    "vaya pues"
+   ],
+   "good": "Going with somebody who knows which houses give what is the only way to do your first Gritería. Going alone is carol singing without the carols."
+  }
+ ]
+}

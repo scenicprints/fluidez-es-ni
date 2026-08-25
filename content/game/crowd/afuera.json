@@ -1,0 +1,74 @@
+[
+ {
+  "kind": "caponero",
+  "district": "afuera",
+  "says": "¿Va para Masaya? Las hamacas allá son las buenas, pero pida rebaja.",
+  "en": "Going to Masaya? The hammocks there are the good ones, but ask for a discount.",
+  "points_at": [
+   "afuera-01"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "afuera",
+  "says": "En San Juan de Oriente hacen la cerámica. Pregúntele al alfarero desde cuándo trabaja.",
+  "en": "In San Juan de Oriente they make the pottery. Ask the potter how long he has been at it.",
+  "points_at": [
+   "afuera-02"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "afuera",
+  "says": "Del mirador de Catarina se ve la laguna, el Mombacho y hasta Granada.",
+  "en": "From the viewpoint at Catarina you can see the lagoon, Mombacho and even Granada.",
+  "points_at": [
+   "afuera-03"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "afuera",
+  "says": "Al Mombacho se sube con guía. Hora y media, pero despacio se llega.",
+  "en": "You go up Mombacho with a guide. An hour and a half, but slowly you get there.",
+  "points_at": [
+   "afuera-04"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "afuera",
+  "says": "En la laguna se puede nadar, pero no vaya lejos. Por la tarde entra el viento.",
+  "en": "You can swim in the lagoon, but do not go far out. The wind comes up in the afternoon.",
+  "points_at": [
+   "afuera-05"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "afuera",
+  "says": "En el corte pagan por peso. Pero si corta las verdes, le echan a perder el saco.",
+  "en": "On the harvest they pay by weight. But if you pick the green ones you ruin the sack.",
+  "points_at": [
+   "afuera-06"
+  ]
+ },
+ {
+  "kind": "cuidacarros",
+  "district": "afuera",
+  "says": "Si se le queda el carro en la carretera, alguien para. Aquí siempre para alguien, jefe.",
+  "en": "If your car dies on the highway, somebody stops. Somebody always stops here, boss.",
+  "points_at": [
+   "afuera-07"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "afuera",
+  "says": "En Masatepe está la sopa de mondongo. Fuerte, pero hay que probarla una vez.",
+  "en": "The mondongo soup is in Masatepe. Strong, but you have to try it once.",
+  "points_at": [
+   "afuera-08"
+  ]
+ }
+]

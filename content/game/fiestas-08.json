@@ -1,0 +1,106 @@
+{
+ "id": "fiestas-08",
+ "district": "fiestas",
+ "tier": 5,
+ "who": "Todos",
+ "title": "El año viejo",
+ "goal": "Burn an old year, which is a doll, in the street at midnight",
+ "culture": "A stuffed dummy in old clothes, sitting in a chair on the pavement all day, often dressed as somebody who annoyed everybody that year. At midnight it is burned in the middle of the street with fireworks inside it.",
+ "beats": [
+  {
+   "es": "(Hay un muñeco de ropa vieja sentado en una silla en la acera.)",
+   "objective": "Ask what it is",
+   "key": "el año viejo",
+   "say": "¿Y ese es el año viejo?",
+   "en": "Is that the old year?",
+   "tiles": [
+    "¿y ese es",
+    "el año viejo?"
+   ],
+   "extra": [
+    "quemarlo",
+    "que se vaya",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "y ese es el ano viejo",
+    "el ano viejo"
+   ],
+   "teaches": [
+    "el año viejo"
+   ],
+   "good": "A stuffed dummy in old clothes, sat in a chair on the pavement. It is the old year, and it is very often dressed as somebody in particular."
+  },
+  {
+   "es": "Ese mismo. A las doce lo quemamos.",
+   "objective": "Ask about the burning",
+   "key": "quemarlo",
+   "say": "¿Van a quemarlo?",
+   "en": "You’re going to burn it?",
+   "tiles": [
+    "¿van a quemarlo?"
+   ],
+   "extra": [
+    "el año viejo",
+    "que se vaya",
+    "quiero",
+    "está bien"
+   ],
+   "ok": [
+    "van a quemarlo",
+    "quemarlo"
+   ],
+   "teaches": [
+    "quemarlo"
+   ],
+   "good": "Quemarlo — burn it. In the middle of the street, with fireworks stuffed inside it, while the whole block watches."
+  },
+  {
+   "es": "¡Que se vaya el año viejo! ¡Que se vaya!",
+   "objective": "Shout it with them",
+   "key": "que se vaya",
+   "say": "¡Que se vaya!",
+   "en": "Let it go!",
+   "tiles": [
+    "¡que se vaya!"
+   ],
+   "extra": [
+    "quemarlo",
+    "feliz año",
+    "me da",
+    "quiero"
+   ],
+   "ok": [
+    "que se vaya"
+   ],
+   "teaches": [
+    "que se vaya"
+   ],
+   "good": "Que se vaya — let it go. Everybody shouts it and every single person shouting means a different year."
+  },
+  {
+   "es": "(Dan las doce. Arde el muñeco y truenan los cohetes.)",
+   "objective": "Say it",
+   "key": "feliz año",
+   "say": "¡Feliz año!",
+   "en": "Happy new year!",
+   "tiles": [
+    "¡feliz año!"
+   ],
+   "extra": [
+    "que se vaya",
+    "el año viejo",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "feliz ano"
+   ],
+   "teaches": [
+    "feliz año"
+   ],
+   "good": "Feliz año, not feliz año nuevo — everybody drops the nuevo. And then you hug thirty people, again."
+  }
+ ]
+}

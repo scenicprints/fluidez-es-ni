@@ -4,7 +4,7 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**106 of 122 missions written.**
+**122 of 122 missions written.**
 
 ## El Centro (12/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
@@ -172,31 +172,31 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 5 | `tramites-09` **El dengue** | El doctor | Have dengue explained to you while you have it |
 | x | 5 | `tramites-10` **La cédula** | La de la ventanilla | Sit through the whole bureaucracy for one piece of card |
 
-## Las fiestas (0/8)
+## Las fiestas (8/8)
 *The calendar. Some come round once a year and you will miss one.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 2 | `fiestas-01` **La Purísima** | Doña Marta | Sing at a door on the 7th of December and get sweets for it |
-|   | 3 | `fiestas-02` **La Gritería** | El vecino | Go door to door and keep up with the responses |
-|   | 3 | `fiestas-03` **Semana Santa** | La de la alfombra | Help make a sawdust carpet before the procession walks over it |
-|   | 3 | `fiestas-04` **La Hípica** | El jinete | Watch the horse parade and understand what is being shown off |
-|   | 4 | `fiestas-05` **El Torovenado** | El enmascarado | Work out that the costumes are mocking somebody specific |
-|   | 4 | `fiestas-06` **El Palo de Mayo** | La bailarina | Be dragged into dancing something you cannot dance |
-|   | 4 | `fiestas-07` **La Nochebuena** | Doña Marta | Get through Christmas Eve with somebody else’s family |
-|   | 5 | `fiestas-08` **El año viejo** | Todos | Burn an old year, which is a doll, in the street at midnight |
+| x | 2 | `fiestas-01` **La Purísima** | Doña Marta | Sing at a door on the 7th of December and get sweets for it |
+| x | 3 | `fiestas-02` **La Gritería** | El vecino | Go door to door and keep up with the responses |
+| x | 3 | `fiestas-03` **Semana Santa** | La de la alfombra | Help make a sawdust carpet before the procession walks over it |
+| x | 3 | `fiestas-04` **La Hípica** | El jinete | Watch the horse parade and understand what is being shown off |
+| x | 4 | `fiestas-05` **El Torovenado** | El enmascarado | Work out that the costumes are mocking somebody specific |
+| x | 4 | `fiestas-06` **El Palo de Mayo** | La bailarina | Be dragged into dancing something you cannot dance |
+| x | 4 | `fiestas-07` **La Nochebuena** | Doña Marta | Get through Christmas Eve with somebody else’s family |
+| x | 5 | `fiestas-08` **El año viejo** | Todos | Burn an old year, which is a doll, in the street at midnight |
 
-## Afuera (0/8)
+## Afuera (8/8)
 *Masaya, Catarina, la Laguna, Mombacho. You need wheels and a reason.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 3 | `afuera-01` **Masaya** | La artesana | Buy a hammock and get the price down |
-|   | 3 | `afuera-02` **San Juan de Oriente** | El alfarero | Watch pottery being made and ask how long it took to learn |
-|   | 4 | `afuera-03` **Catarina** | El del mirador | Look down at the laguna and be told what you are seeing |
-|   | 4 | `afuera-04` **Mombacho** | El guía de Mombacho | Climb a volcano with a guide who talks the whole way |
-|   | 4 | `afuera-05` **La Laguna de Apoyo** | El de la laguna | Swim in a crater and be warned about the current |
-|   | 5 | `afuera-06` **El cafetal** | El caficultor | Pick coffee for a day and be judged on your speed |
-|   | 5 | `afuera-07` **La carretera** | El de Nandaime | Break down between towns and get help from strangers |
-|   | 5 | `afuera-08` **La sopa** | Los de Masatepe | Eat sopa de mondongo and be watched while you do it |
+| x | 3 | `afuera-01` **Masaya** | La artesana | Buy a hammock and get the price down |
+| x | 3 | `afuera-02` **San Juan de Oriente** | El alfarero | Watch pottery being made and ask how long it took to learn |
+| x | 4 | `afuera-03` **Catarina** | El del mirador | Look down at the laguna and be told what you are seeing |
+| x | 4 | `afuera-04` **Mombacho** | El guía de Mombacho | Climb a volcano with a guide who talks the whole way |
+| x | 4 | `afuera-05` **La Laguna de Apoyo** | El de la laguna | Swim in a crater and be warned about the current |
+| x | 5 | `afuera-06` **El cafetal** | El caficultor | Pick coffee for a day and be judged on your speed |
+| x | 5 | `afuera-07` **La carretera** | El de Nandaime | Break down between towns and get help from strangers |
+| x | 5 | `afuera-08` **La sopa** | Los de Masatepe | Eat sopa de mondongo and be watched while you do it |
 

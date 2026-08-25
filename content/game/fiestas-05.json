@@ -1,0 +1,107 @@
+{
+ "id": "fiestas-05",
+ "district": "fiestas",
+ "tier": 4,
+ "who": "El enmascarado",
+ "title": "El Torovenado",
+ "goal": "Work out that the costumes are mocking somebody specific",
+ "culture": "Torovenado is satire in costume, and every mask in it is somebody in particular — the mayor, the priest, the police, the crowd itself. It is a protected licence to say out loud what is not otherwise said, and the even-handedness is what protects it.",
+ "beats": [
+  {
+   "es": "(Pasa un hombre disfrazado de algo que le resulta muy familiar.)",
+   "objective": "Ask what is going on",
+   "key": "se están burlando",
+   "say": "¿Se están burlando?",
+   "en": "Are they making fun of someone?",
+   "tiles": [
+    "¿se están burlando?"
+   ],
+   "extra": [
+    "¿de quién?",
+    "del alcalde",
+    "vamos",
+    "nos vemos"
+   ],
+   "ok": [
+    "se estan burlando"
+   ],
+   "teaches": [
+    "se están burlando"
+   ],
+   "good": "Burlarse is to mock. The costumes are not decoration — every one of them is a person, and the crowd knows which."
+  },
+  {
+   "es": "¡Claro que sí! ¿No lo ve?",
+   "objective": "Ask who of",
+   "key": "¿de quién?",
+   "say": "¿De quién?",
+   "en": "Of whom?",
+   "tiles": [
+    "¿de quién?"
+   ],
+   "extra": [
+    "se están burlando",
+    "del alcalde",
+    "vamos",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "de quien"
+   ],
+   "teaches": [
+    "¿de quién?"
+   ],
+   "good": "Two words, and the answer will be a name you now recognise, because you live here."
+  },
+  {
+   "es": "De ese de ahí, el gordo... del alcalde, pues.",
+   "objective": "Say it back",
+   "key": "del alcalde",
+   "say": "¿Del alcalde? Ideay.",
+   "en": "The mayor? Well I never.",
+   "tiles": [
+    "¿del alcalde?",
+    "ideay"
+   ],
+   "extra": [
+    "se están burlando",
+    "nadie se salva",
+    "vamos",
+    "nos vemos"
+   ],
+   "ok": [
+    "del alcalde ideay",
+    "del alcalde"
+   ],
+   "teaches": [
+    "del alcalde"
+   ],
+   "good": "The mayor, in a mask, in a parade, in front of the whole town. This is a protected tradition of saying out loud what is not said the rest of the year."
+  },
+  {
+   "es": "Aquí nadie se salva. Ni el cura, ni la policía, ni nosotros.",
+   "objective": "Agree",
+   "key": "nadie se salva",
+   "say": "Nadie se salva, entonces.",
+   "en": "Nobody gets off, then.",
+   "tiles": [
+    "nadie se salva",
+    "entonces"
+   ],
+   "extra": [
+    "del alcalde",
+    "se están burlando",
+    "vamos",
+    "nos vemos"
+   ],
+   "ok": [
+    "nadie se salva entonces",
+    "nadie se salva"
+   ],
+   "teaches": [
+    "nadie se salva"
+   ],
+   "good": "Nadie se salva — nobody is spared. Not the mayor, not the priest, not the people watching, and that even-handedness is the entire licence the day runs on."
+  }
+ ]
+}

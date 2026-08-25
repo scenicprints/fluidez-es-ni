@@ -1,0 +1,109 @@
+{
+ "id": "fiestas-02",
+ "district": "fiestas",
+ "tier": 3,
+ "who": "El vecino",
+ "title": "La Gritería",
+ "goal": "Go door to door and keep up with the responses",
+ "culture": "Six in the evening, the bells go and the fireworks start, and the entire city walks out of its houses at once. You will do thirty houses, the good ones run out, and every barrio knows which house does the big gorras.",
+ "beats": [
+  {
+   "es": "(Suenan las campanas y empiezan los cohetes. Son las seis.)",
+   "objective": "Ask whether it has started",
+   "key": "ya empezó",
+   "say": "¿Ya empezó?",
+   "en": "Has it started?",
+   "tiles": [
+    "¿ya empezó?"
+   ],
+   "extra": [
+    "la gritería",
+    "vamos",
+    "aquí dan bueno",
+    "así es"
+   ],
+   "ok": [
+    "ya empezo"
+   ],
+   "teaches": [
+    "ya empezó"
+   ],
+   "good": "Six in the evening, bells and rockets, and the whole city out of doors within about four minutes. Ya empezó is what everybody says."
+  },
+  {
+   "es": "¡Ya empezó! ¡Vámonos, vecino!",
+   "objective": "Name the night",
+   "key": "gritería",
+   "say": "¡La gritería! Vamos.",
+   "en": "The Gritería! Let’s go.",
+   "tiles": [
+    "¡la gritería!",
+    "vamos"
+   ],
+   "extra": [
+    "ya empezó",
+    "aquí dan bueno",
+    "con permiso",
+    "me deja en"
+   ],
+   "ok": [
+    "la griteria vamos",
+    "la griteria"
+   ],
+   "teaches": [
+    "gritería"
+   ],
+   "good": "La Gritería — the shouting. That is genuinely its name and it is a completely accurate description of the evening."
+  },
+  {
+   "es": "(Ya llevan cuatro casas. La bolsa va pesando.)",
+   "objective": "Move him on to the next one",
+   "key": "vamos",
+   "say": "Vamos a la otra.",
+   "en": "On to the next one.",
+   "tiles": [
+    "vamos",
+    "a la otra"
+   ],
+   "extra": [
+    "aquí dan bueno",
+    "ya empezó",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "vamos a la otra",
+    "vamos"
+   ],
+   "teaches": [
+    "vamos"
+   ],
+   "good": "You are doing thirty houses tonight and the good ones run out. Vamos is said constantly and always slightly urgently."
+  },
+  {
+   "es": "Espere, espere. Aquí dan bueno.",
+   "objective": "Agree to queue at this one",
+   "key": "aquí dan bueno",
+   "say": "¿Aquí dan bueno? Entonces esperamos.",
+   "en": "They give good stuff here? Then we’ll wait.",
+   "tiles": [
+    "¿aquí dan bueno?",
+    "entonces esperamos"
+   ],
+   "extra": [
+    "vamos",
+    "la gritería",
+    "me deja en",
+    "así es"
+   ],
+   "ok": [
+    "aqui dan bueno entonces esperamos",
+    "aqui dan bueno"
+   ],
+   "teaches": [
+    "aquí dan bueno"
+   ],
+   "good": "Dan bueno — they give good stuff. Every barrio knows which house does the big gorras, and there will be a queue outside it."
+  }
+ ]
+}

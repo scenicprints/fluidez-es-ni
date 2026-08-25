@@ -1,0 +1,108 @@
+{
+ "id": "afuera-07",
+ "district": "afuera",
+ "tier": 5,
+ "who": "El de Nandaime",
+ "title": "La carretera",
+ "goal": "Break down between towns and get help from strangers",
+ "culture": "Somebody will stop. Asking a stranger on the road for a tow is completely ordinary, and Dios se lo pague — the biggest thank-you there is — is exactly what this situation is for. You last heard it from the woman with the suitcases.",
+ "beats": [
+  {
+   "es": "(Un carro se orilla detrás de usted.) ¿Qué pasó, amigo?",
+   "objective": "Say what happened",
+   "key": "se me quedó",
+   "say": "Se me quedó el carro.",
+   "en": "The car died on me.",
+   "tiles": [
+    "se me quedó",
+    "el carro"
+   ],
+   "extra": [
+    "no arranca",
+    "¿me da un jalón?",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "se me quedo el carro",
+    "se me quedo"
+   ],
+   "teaches": [
+    "se me quedó"
+   ],
+   "good": "Se me quedó — it stopped on me. The me puts it on you without making it your fault, which is exactly the right amount of blame."
+  },
+  {
+   "es": "¿Y no arranca?",
+   "objective": "Confirm",
+   "key": "no arranca",
+   "say": "No arranca nada.",
+   "en": "It won’t start at all.",
+   "tiles": [
+    "no arranca",
+    "nada"
+   ],
+   "extra": [
+    "se me quedó",
+    "¿me da un jalón?",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "no arranca nada",
+    "no arranca"
+   ],
+   "teaches": [
+    "no arranca"
+   ],
+   "good": "No arranca — it will not start. Two words that will get somebody’s head under your bonnet within a minute on any road in this country."
+  },
+  {
+   "es": "(Se asoma al motor un rato.) Uy. Eso es taller.",
+   "objective": "Ask for a tow",
+   "key": "¿me da un jalón?",
+   "say": "¿Me da un jalón?",
+   "en": "Could you give me a tow?",
+   "tiles": [
+    "¿me da un jalón?"
+   ],
+   "extra": [
+    "no arranca",
+    "se me quedó",
+    "Buenas",
+    "por favor"
+   ],
+   "ok": [
+    "me da un jalon"
+   ],
+   "teaches": [
+    "¿me da un jalón?"
+   ],
+   "good": "Un jalón is a tow or a lift. Asking a stranger on the road for one is completely ordinary, and he had already stopped before you asked."
+  },
+  {
+   "es": "Va pues. Amarre ahí y vamos despacio hasta Nandaime.",
+   "objective": "Thank him the big way",
+   "key": "Dios se lo pague",
+   "say": "Dios se lo pague.",
+   "en": "God repay you.",
+   "tiles": [
+    "Dios se lo pague"
+   ],
+   "extra": [
+    "gracias",
+    "no arranca",
+    "Buenas",
+    "por favor"
+   ],
+   "ok": [
+    "dios se lo pague",
+    "dios se lo pague gracias"
+   ],
+   "teaches": [
+    "Dios se lo pague"
+   ],
+   "good": "The largest thank-you there is, and the one the woman with the suitcases used on you at the terminal. This is the situation it exists for."
+  }
+ ]
+}

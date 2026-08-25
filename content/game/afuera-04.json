@@ -1,0 +1,113 @@
+{
+ "id": "afuera-04",
+ "district": "afuera",
+ "tier": 4,
+ "who": "El guía de Mombacho",
+ "title": "Mombacho",
+ "goal": "Climb a volcano with a guide who talks the whole way",
+ "culture": "Mombacho is the volcano you have been looking at from the plaza since your first morning. Going slowly up it is not a failure, it is the method, and ya casi is a kindness rather than a measurement.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Sube hoy?",
+   "objective": "Ask about the climb",
+   "key": "el volcán",
+   "say": "¿Subimos el volcán?",
+   "en": "Are we going up the volcano?",
+   "tiles": [
+    "¿subimos",
+    "el volcán?"
+   ],
+   "extra": [
+    "ahí arriba",
+    "despacio",
+    "todo bien",
+    "ya va"
+   ],
+   "ok": [
+    "subimos el volcan",
+    "el volcan"
+   ],
+   "teaches": [
+    "el volcán"
+   ],
+   "good": "Mombacho is the shape on the horizon you have been looking at from Parque Central since your first morning. Today you are on it."
+  },
+  {
+   "es": "Ahí arriba está el cráter. Hora y media.",
+   "objective": "Up there?",
+   "key": "ahí arriba",
+   "say": "¿Ahí arriba, hasta el cráter?",
+   "en": "Up there, all the way to the crater?",
+   "tiles": [
+    "¿ahí arriba,",
+    "hasta el cráter?"
+   ],
+   "extra": [
+    "el volcán",
+    "despacio",
+    "no ando",
+    "todo bien"
+   ],
+   "ok": [
+    "ahi arriba hasta el crater",
+    "ahi arriba"
+   ],
+   "teaches": [
+    "ahí arriba"
+   ],
+   "good": "Ahí arriba — up there. He will point at cloud, because the top of it is in cloud most days of the year."
+  },
+  {
+   "es": "Despacio, despacio. No hay prisa, joven.",
+   "objective": "Agree to go slowly",
+   "key": "despacio",
+   "say": "Despacio, sí. Voy despacio.",
+   "en": "Slowly, yes. I’m going slowly.",
+   "tiles": [
+    "despacio",
+    "sí",
+    "voy despacio"
+   ],
+   "extra": [
+    "ya casi",
+    "el volcán",
+    "ya va",
+    "todo bien"
+   ],
+   "ok": [
+    "despacio si voy despacio",
+    "voy despacio",
+    "despacio"
+   ],
+   "teaches": [
+    "despacio"
+   ],
+   "good": "Despacio is the whole technique and he says it to everybody. Going slowly up a volcano is not failing at it, it is how it is done."
+  },
+  {
+   "es": "Ya casi, ya casi. Ahí está.",
+   "objective": "Ask whether that is true",
+   "key": "ya casi",
+   "say": "¿Ya casi de verdad?",
+   "en": "Really almost there?",
+   "tiles": [
+    "¿ya casi",
+    "de verdad?"
+   ],
+   "extra": [
+    "despacio",
+    "ahí arriba",
+    "no ando",
+    "ya va"
+   ],
+   "ok": [
+    "ya casi de verdad",
+    "ya casi"
+   ],
+   "teaches": [
+    "ya casi"
+   ],
+   "good": "Ya casi means almost there and it is said from about the halfway point onwards. It is a kindness rather than a measurement."
+  }
+ ]
+}

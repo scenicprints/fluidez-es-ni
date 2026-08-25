@@ -1,0 +1,111 @@
+{
+ "id": "afuera-03",
+ "district": "afuera",
+ "tier": 4,
+ "who": "El del mirador",
+ "title": "Catarina",
+ "goal": "Look down at the laguna and be told what you are seeing",
+ "culture": "From the mirador at Catarina you can see the crater lake, Mombacho, and the town you live in. It is also where Spanish finally makes you use its third distance: este, ese and aquel, that last one for things far enough away to point at.",
+ "beats": [
+  {
+   "es": "(Doscientos metros abajo hay agua, redonda y quieta.)",
+   "objective": "Ask what it is",
+   "key": "la laguna",
+   "say": "¿Esa es la laguna?",
+   "en": "Is that the lagoon?",
+   "tiles": [
+    "¿esa es",
+    "la laguna?"
+   ],
+   "extra": [
+    "ahí está",
+    "aquel es",
+    "cuídese",
+    "dale"
+   ],
+   "ok": [
+    "esa es la laguna",
+    "la laguna"
+   ],
+   "teaches": [
+    "la laguna"
+   ],
+   "good": "The Laguna de Apoyo: a crater full of water, two hundred metres below you and about the same again deep."
+  },
+  {
+   "es": "Ahí está. La Laguna de Apoyo.",
+   "objective": "Say it back",
+   "key": "ahí está",
+   "say": "Ahí está. Qué grande.",
+   "en": "There it is. It’s huge.",
+   "tiles": [
+    "ahí está",
+    "qué grande"
+   ],
+   "extra": [
+    "la laguna",
+    "aquel es",
+    "fíjese que",
+    "dale"
+   ],
+   "ok": [
+    "ahi esta que grande",
+    "ahi esta"
+   ],
+   "teaches": [
+    "ahí está"
+   ],
+   "good": "Ahí está — there it is. Two words that hand something over, and you last heard them from the cuidacarros about your moto."
+  },
+  {
+   "es": "Y aquel es el Mombacho. Y aquel de allá, Granada.",
+   "objective": "Ask which is which",
+   "key": "aquel es",
+   "say": "¿Y aquel es Granada?",
+   "en": "And that far one is Granada?",
+   "tiles": [
+    "¿y aquel es",
+    "Granada?"
+   ],
+   "extra": [
+    "la laguna",
+    "ahí está",
+    "cuídese",
+    "dale"
+   ],
+   "ok": [
+    "y aquel es granada",
+    "aquel es"
+   ],
+   "teaches": [
+    "aquel es"
+   ],
+   "good": "Aquel is that one over there, further off than ese. Spanish has three distances and this viewpoint is where you finally need the third."
+  },
+  {
+   "es": "Desde aquí se ve todo, joven. Todo.",
+   "objective": "Agree",
+   "key": "se ve todo",
+   "say": "Se ve todo desde aquí.",
+   "en": "You can see everything from here.",
+   "tiles": [
+    "se ve todo",
+    "desde aquí"
+   ],
+   "extra": [
+    "aquel es",
+    "ahí está",
+    "fíjese que",
+    "cuídese"
+   ],
+   "ok": [
+    "se ve todo desde aqui",
+    "se ve todo"
+   ],
+   "teaches": [
+    "se ve todo"
+   ],
+   "good": "From up here you can see the town you live in. It is a strange feeling and a good one, and it is worth the trip on its own."
+  }
+ ]
+}

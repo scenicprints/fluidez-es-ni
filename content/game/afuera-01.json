@@ -1,0 +1,111 @@
+{
+ "id": "afuera-01",
+ "district": "afuera",
+ "tier": 3,
+ "who": "La artesana",
+ "title": "Masaya",
+ "goal": "Buy a hammock and get the price down",
+ "culture": "Masaya hammocks are the good ones and everybody knows it, which is reflected in the first number you are given. The haggle has the same shape as the leather bag in El Centro, one letter different: una hamaca is feminine, so it is me la deja en.",
+ "beats": [
+  {
+   "es": "Adelante. Hamacas de Masaya, hechas a mano.",
+   "objective": "Ask the price",
+   "key": "una hamaca",
+   "say": "¿A cómo una hamaca?",
+   "en": "How much is a hammock?",
+   "tiles": [
+    "¿a cómo",
+    "una hamaca?"
+   ],
+   "extra": [
+    "está muy caro",
+    "me la llevo",
+    "ideay",
+    "ni modo"
+   ],
+   "ok": [
+    "a como una hamaca",
+    "una hamaca"
+   ],
+   "teaches": [
+    "una hamaca"
+   ],
+   "good": "¿A cómo? one last time. It has worked on a mango, a bundle of firewood and now a hammock."
+  },
+  {
+   "es": "Mil ochocientos, y es de las buenas.",
+   "objective": "Say it is too dear",
+   "key": "está muy caro",
+   "say": "Uy, está muy caro.",
+   "en": "Oof, that’s very dear.",
+   "tiles": [
+    "uy",
+    "está muy caro"
+   ],
+   "extra": [
+    "una hamaca",
+    "me la llevo",
+    "vaya pues",
+    "ni modo"
+   ],
+   "ok": [
+    "uy esta muy caro",
+    "esta muy caro"
+   ],
+   "teaches": [
+    "está muy caro"
+   ],
+   "good": "You have done this in the market. The uy in front is free and it does half the work for you."
+  },
+  {
+   "es": "Es que lleva tres días de trabajo, mire el tejido.",
+   "objective": "Make the counter",
+   "key": "¿me lo deja en?",
+   "say": "¿Me la deja en mil doscientos?",
+   "en": "Would you let me have it for twelve hundred?",
+   "tiles": [
+    "¿me la deja en",
+    "mil doscientos?"
+   ],
+   "extra": [
+    "está muy caro",
+    "me la llevo",
+    "ideay",
+    "vaya pues"
+   ],
+   "ok": [
+    "me la deja en mil doscientos",
+    "me la deja en"
+   ],
+   "teaches": [
+    "¿me lo deja en?"
+   ],
+   "good": "Me lo deja en, me la deja en — the lo or the la follows the thing, and a hamaca is feminine. Same move as the leather bag, one letter different."
+  },
+  {
+   "es": "Mil cuatrocientos y es suya. Ya no gano nada.",
+   "objective": "Take it",
+   "key": "me la llevo",
+   "say": "Me la llevo. Trato hecho.",
+   "en": "I’ll take it. Done deal.",
+   "tiles": [
+    "me la llevo",
+    "trato hecho"
+   ],
+   "extra": [
+    "está muy caro",
+    "otro día",
+    "ni modo",
+    "ideay"
+   ],
+   "ok": [
+    "me la llevo trato hecho",
+    "me la llevo"
+   ],
+   "teaches": [
+    "me la llevo"
+   ],
+   "good": "Me la llevo — I’ll take it. Say it, pay it, and do not reopen the price. You learned that from the man with the leather bags."
+  }
+ ]
+}

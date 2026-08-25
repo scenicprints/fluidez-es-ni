@@ -1,0 +1,107 @@
+{
+ "id": "fiestas-06",
+ "district": "fiestas",
+ "tier": 4,
+ "who": "La bailarina",
+ "title": "El Palo de Mayo",
+ "goal": "Be dragged into dancing something you cannot dance",
+ "culture": "Palo de Mayo comes from the Caribbean coast and is danced everywhere in May. You cannot dance it, which will not save you, and nadie sabe is what everybody says to everybody who tries to get out of it.",
+ "beats": [
+  {
+   "es": "(Lo agarra de la mano y lo jala hacia la rueda.)",
+   "objective": "Say you cannot dance",
+   "key": "no sé bailar",
+   "say": "¡No sé bailar!",
+   "en": "I can’t dance!",
+   "tiles": [
+    "¡no sé bailar!"
+   ],
+   "extra": [
+    "nadie sabe",
+    "movete",
+    "otro día",
+    "disculpe"
+   ],
+   "ok": [
+    "no se bailar"
+   ],
+   "teaches": [
+    "no sé bailar"
+   ],
+   "good": "True, and it will not save you. Say it anyway — it is the required opening move and she has an answer ready."
+  },
+  {
+   "es": "¡Nadie sabe! Igual bailamos.",
+   "objective": "Check that",
+   "key": "nadie sabe",
+   "say": "¿Nadie sabe?",
+   "en": "Nobody knows how?",
+   "tiles": [
+    "¿nadie sabe?"
+   ],
+   "extra": [
+    "no sé bailar",
+    "movete",
+    "disculpe",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "nadie sabe"
+   ],
+   "teaches": [
+    "nadie sabe"
+   ],
+   "good": "Nadie sabe — nobody knows how. It is not true, and it is exactly the right thing to say to somebody who is about to refuse."
+  },
+  {
+   "es": "¡Movete! Así, con las caderas.",
+   "objective": "Repeat the instruction back",
+   "key": "movete",
+   "say": "¿Así? ¿Me muevo así?",
+   "en": "Like this? Do I move like this?",
+   "tiles": [
+    "¿así?",
+    "¿me muevo así?"
+   ],
+   "extra": [
+    "movete",
+    "nadie sabe",
+    "otro día",
+    "disculpe"
+   ],
+   "ok": [
+    "asi me muevo asi",
+    "me muevo asi"
+   ],
+   "teaches": [
+    "movete"
+   ],
+   "good": "Movete — vos, and no accent on the o. She is your age and dancing with you, so there is no usted anywhere in this."
+  },
+  {
+   "es": "¡Ya vas! ¡Eso, eso!",
+   "objective": "Take the compliment",
+   "key": "ya vas",
+   "say": "¿Ya voy? ¡Ideay!",
+   "en": "I’m getting it? Well!",
+   "tiles": [
+    "¿ya voy?",
+    "¡ideay!"
+   ],
+   "extra": [
+    "ya vas",
+    "movete",
+    "disculpe",
+    "otro día"
+   ],
+   "ok": [
+    "ya voy ideay",
+    "ya voy"
+   ],
+   "teaches": [
+    "ya vas"
+   ],
+   "good": "Ya vas — you are getting it. Vas is the same in vos and tú, which is why it slips past unnoticed. The point is that she said it, and you should believe her."
+  }
+ ]
+}

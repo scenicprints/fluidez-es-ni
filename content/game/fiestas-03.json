@@ -1,0 +1,108 @@
+{
+ "id": "fiestas-03",
+ "district": "fiestas",
+ "tier": 3,
+ "who": "La de la alfombra",
+ "title": "Semana Santa",
+ "goal": "Help make a sawdust carpet before the procession walks over it",
+ "culture": "Dyed sawdust laid on the road overnight by a whole family, so that the procession can walk straight over it at seven in the morning. The destruction is the point, which does not stop everybody shouting at you not to step on it.",
+ "beats": [
+  {
+   "es": "(Hay costales de aserrín de colores en media calle.)",
+   "objective": "Ask what the sawdust is for",
+   "key": "aserrín",
+   "say": "¿Y ese aserrín?",
+   "en": "What’s all the sawdust for?",
+   "tiles": [
+    "¿y ese aserrín?"
+   ],
+   "extra": [
+    "la alfombra",
+    "no lo pise",
+    "toda la noche",
+    "cuídese"
+   ],
+   "ok": [
+    "y ese aserrin",
+    "ese aserrin"
+   ],
+   "teaches": [
+    "aserrín"
+   ],
+   "good": "Aserrín is sawdust, dyed in buckets, and there is a lorry-load of it in the middle of the road."
+  },
+  {
+   "es": "Es para la alfombra. Para la procesión de mañana.",
+   "objective": "Say it back",
+   "key": "la alfombra",
+   "say": "¿La alfombra? ¿En la calle?",
+   "en": "A carpet? On the road?",
+   "tiles": [
+    "¿la alfombra?",
+    "¿en la calle?"
+   ],
+   "extra": [
+    "aserrín",
+    "no lo pise",
+    "toda la noche",
+    "dale"
+   ],
+   "ok": [
+    "la alfombra en la calle",
+    "la alfombra"
+   ],
+   "teaches": [
+    "la alfombra"
+   ],
+   "good": "A carpet, made of coloured sawdust, laid on the road surface. In the morning the procession walks over it, and that is what it was made for."
+  },
+  {
+   "es": "¡Cuidado! No lo pise, por favor.",
+   "objective": "Apologise and step back",
+   "key": "no lo pise",
+   "say": "Disculpe. No lo piso.",
+   "en": "Sorry. I won’t step on it.",
+   "tiles": [
+    "disculpe",
+    "no lo piso"
+   ],
+   "extra": [
+    "no lo pise",
+    "aserrín",
+    "cuídese",
+    "fíjese que"
+   ],
+   "ok": [
+    "disculpe no lo piso",
+    "no lo piso"
+   ],
+   "teaches": [
+    "no lo pise"
+   ],
+   "good": "No lo pise from her, no lo piso from you. Everybody says it to everybody all night and it is the first thing you will hear when you arrive."
+  },
+  {
+   "es": "Vamos a estar aquí hasta que amanezca.",
+   "objective": "All night?",
+   "key": "toda la noche",
+   "say": "¿Toda la noche?",
+   "en": "All night?",
+   "tiles": [
+    "¿toda la noche?"
+   ],
+   "extra": [
+    "la alfombra",
+    "aserrín",
+    "dale",
+    "fíjese que"
+   ],
+   "ok": [
+    "toda la noche"
+   ],
+   "teaches": [
+    "toda la noche"
+   ],
+   "good": "All night, by a whole family, to be walked over at seven in the morning. Saying it back is how you find out that the destruction is the whole idea."
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "id": "fiestas-04",
+ "district": "fiestas",
+ "tier": 3,
+ "who": "El jinete",
+ "title": "La Hípica",
+ "goal": "Watch the horse parade and understand what is being shown off",
+ "culture": "The Hípica is a parade of horses, and every horse in it belongs to somebody the crowd can name. Whose it is and where it is from is half the conversation and all of the point.",
+ "beats": [
+  {
+   "es": "(Van pasando los caballos, uno detrás de otro, brillando.)",
+   "objective": "Ask whose they are",
+   "key": "los caballos",
+   "say": "¿De quién son los caballos?",
+   "en": "Whose are the horses?",
+   "tiles": [
+    "¿de quién son",
+    "los caballos?"
+   ],
+   "extra": [
+    "ese es de",
+    "qué bonito",
+    "todo bien",
+    "ya va"
+   ],
+   "ok": [
+    "de quien son los caballos",
+    "los caballos"
+   ],
+   "teaches": [
+    "los caballos"
+   ],
+   "good": "The horses are the point and whose they are is the second question everybody in the crowd is asking."
+  },
+  {
+   "es": "De las fincas. Ese es de don Alberto, el de Nandaime.",
+   "objective": "Say it back",
+   "key": "ese es de",
+   "say": "¿Ese es de Nandaime?",
+   "en": "That one’s from Nandaime?",
+   "tiles": [
+    "¿ese es de",
+    "Nandaime?"
+   ],
+   "extra": [
+    "los caballos",
+    "qué bonito",
+    "no ando",
+    "todo bien"
+   ],
+   "ok": [
+    "ese es de nandaime",
+    "ese es de"
+   ],
+   "teaches": [
+    "ese es de"
+   ],
+   "good": "Ese es de — that one belongs to. Every horse in the parade belongs to a name, and half the pleasure of watching is knowing them."
+  },
+  {
+   "es": "(Pasa uno blanco, bailando de lado.)",
+   "objective": "Say the right thing",
+   "key": "qué bonito",
+   "say": "Qué bonito.",
+   "en": "Beautiful.",
+   "tiles": [
+    "qué bonito"
+   ],
+   "extra": [
+    "ese es de",
+    "los caballos",
+    "ya va",
+    "todo bien"
+   ],
+   "ok": [
+    "que bonito"
+   ],
+   "teaches": [
+    "qué bonito"
+   ],
+   "good": "Qué bonito, on its own, about a horse. It is the complete and correct thing to say and nothing more is needed."
+  },
+  {
+   "es": "Todos los años igual. Nunca falla.",
+   "objective": "Every year?",
+   "key": "todos los años",
+   "say": "¿Todos los años?",
+   "en": "Every year?",
+   "tiles": [
+    "¿todos los años?"
+   ],
+   "extra": [
+    "qué bonito",
+    "los caballos",
+    "no ando",
+    "ya va"
+   ],
+   "ok": [
+    "todos los anos"
+   ],
+   "teaches": [
+    "todos los años"
+   ],
+   "good": "Todos los años — every year. The calendar here is fixed and heavy, and this is the parade that closes the patron saint’s fiestas."
+  }
+ ]
+}

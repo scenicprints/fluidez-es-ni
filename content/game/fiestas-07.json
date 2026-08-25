@@ -1,0 +1,109 @@
+{
+ "id": "fiestas-07",
+ "district": "fiestas",
+ "tier": 4,
+ "who": "Doña Marta",
+ "title": "La Nochebuena",
+ "goal": "Get through Christmas Eve with somebody else’s family",
+ "culture": "The 24th is the night that matters and the 25th is for sleeping. Nothing happens until midnight, and then everybody in the room hugs everybody else in the room, one at a time, including the people they met an hour ago.",
+ "beats": [
+  {
+   "es": "Vecino, ¿y usted qué va a hacer el veinticuatro?",
+   "objective": "Say you have nothing on",
+   "key": "nochebuena",
+   "say": "¿La Nochebuena? Nada.",
+   "en": "Christmas Eve? Nothing.",
+   "tiles": [
+    "¿la Nochebuena?",
+    "nada"
+   ],
+   "extra": [
+    "a las doce",
+    "feliz navidad",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "la nochebuena nada",
+    "la nochebuena"
+   ],
+   "teaches": [
+    "nochebuena"
+   ],
+   "good": "Nochebuena, the 24th, is the night here; the 25th is for sleeping. Saying you have nothing planned is an invitation, and she asked for that reason."
+  },
+  {
+   "es": "¡Entonces venga! Comemos a las doce.",
+   "objective": "Check the hour",
+   "key": "a las doce",
+   "say": "¿A las doce de la noche?",
+   "en": "At midnight?",
+   "tiles": [
+    "¿a las doce",
+    "de la noche?"
+   ],
+   "extra": [
+    "nochebuena",
+    "feliz navidad",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "a las doce de la noche",
+    "a las doce"
+   ],
+   "teaches": [
+    "a las doce"
+   ],
+   "good": "Midnight, and not a minute before. The whole meal happens after the fireworks and the children are awake for every bit of it."
+  },
+  {
+   "es": "(Dan las doce. Todo el mundo se abraza, uno por uno.)",
+   "objective": "Say the thing",
+   "key": "feliz navidad",
+   "say": "¡Feliz Navidad!",
+   "en": "Merry Christmas!",
+   "tiles": [
+    "¡feliz Navidad!"
+   ],
+   "extra": [
+    "a las doce",
+    "que se repita",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "feliz navidad"
+   ],
+   "teaches": [
+    "feliz navidad"
+   ],
+   "good": "Said while hugging every single person in the room, one at a time, including the ones you met an hour ago."
+  },
+  {
+   "es": "¡Feliz Navidad, mi hijo! Y que se repita.",
+   "objective": "Answer it",
+   "key": "que se repita",
+   "say": "Que se repita, doña.",
+   "en": "May it come round again, doña.",
+   "tiles": [
+    "que se repita",
+    "doña"
+   ],
+   "extra": [
+    "feliz navidad",
+    "a las doce",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "que se repita dona",
+    "que se repita"
+   ],
+   "teaches": [
+    "que se repita"
+   ],
+   "good": "Que se repita — may it happen again. It is what you say at the end of anything good, and it is the nearest thing to a blessing that gets used casually."
+  }
+ ]
+}

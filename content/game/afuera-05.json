@@ -1,0 +1,107 @@
+{
+ "id": "afuera-05",
+ "district": "afuera",
+ "tier": 4,
+ "who": "El de la laguna",
+ "title": "La Laguna de Apoyo",
+ "goal": "Swim in a crater and be warned about the current",
+ "culture": "The water is warm because there is a volcano underneath it, which is not a metaphor. The afternoon wind on that crater is the reason there are rules, and salga ya is not a suggestion even though it is delivered like one.",
+ "beats": [
+  {
+   "es": "Puede meterse. Está buena hoy.",
+   "objective": "Ask if it is deep",
+   "key": "está honda",
+   "say": "¿Está honda?",
+   "en": "Is it deep?",
+   "tiles": [
+    "¿está honda?"
+   ],
+   "extra": [
+    "no vaya lejos",
+    "el agua es",
+    "vamos",
+    "nos vemos"
+   ],
+   "ok": [
+    "esta honda"
+   ],
+   "teaches": [
+    "está honda"
+   ],
+   "good": "Honda, not profunda — the everyday word. The answer is about two hundred metres and nobody has ever touched the bottom of it."
+  },
+  {
+   "es": "Bien honda. No vaya lejos, ¿oyó?",
+   "objective": "Say it back",
+   "key": "no vaya lejos",
+   "say": "¿No voy lejos?",
+   "en": "Not far out?",
+   "tiles": [
+    "¿no voy lejos?"
+   ],
+   "extra": [
+    "está honda",
+    "el agua es",
+    "que le vaya bien",
+    "vamos"
+   ],
+   "ok": [
+    "no voy lejos"
+   ],
+   "teaches": [
+    "no vaya lejos"
+   ],
+   "good": "No vaya from him, no voy from you. It is a real warning delivered gently: the far side is a very long way back."
+  },
+  {
+   "es": "Y el agua es tibia, fíjese. Meta la mano.",
+   "objective": "Ask about that",
+   "key": "el agua es",
+   "say": "¿El agua es caliente?",
+   "en": "The water is warm?",
+   "tiles": [
+    "¿el agua es",
+    "caliente?"
+   ],
+   "extra": [
+    "está honda",
+    "no vaya lejos",
+    "nos vemos",
+    "vamos"
+   ],
+   "ok": [
+    "el agua es caliente",
+    "el agua es"
+   ],
+   "teaches": [
+    "el agua es"
+   ],
+   "good": "It is warm because there is a volcano underneath it. That is not a figure of speech."
+  },
+  {
+   "es": "¡Salga ya! ¡Ya viene el viento!",
+   "objective": "Get out",
+   "key": "salga ya",
+   "say": "Ya salgo. Ya voy.",
+   "en": "Coming out. On my way.",
+   "tiles": [
+    "ya salgo",
+    "ya voy"
+   ],
+   "extra": [
+    "salga ya",
+    "no vaya lejos",
+    "vamos",
+    "nos vemos"
+   ],
+   "ok": [
+    "ya salgo ya voy",
+    "ya salgo"
+   ],
+   "teaches": [
+    "salga ya"
+   ],
+   "good": "Salga ya from him, ya salgo from you, and do not argue about it. The afternoon wind on that crater is the reason there are rules at all."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "afuera-08",
+ "district": "afuera",
+ "tier": 5,
+ "who": "Los de Masatepe",
+ "title": "La sopa",
+ "goal": "Eat sopa de mondongo and be watched while you do it",
+ "culture": "Masatepe is where people drive to eat mondongo, which is tripe soup. The whole table will watch your first spoonful. Honesty is completely fine — está fuerte is accurate and acceptable — and pulling a face is the only thing that is not.",
+ "beats": [
+  {
+   "es": "¿Ya probó el mondongo, joven?",
+   "objective": "Ask what is in it, before",
+   "key": "mondongo",
+   "say": "¿Qué lleva el mondongo?",
+   "en": "What’s in the mondongo?",
+   "tiles": [
+    "¿qué lleva",
+    "el mondongo?"
+   ],
+   "extra": [
+    "primera vez",
+    "está fuerte",
+    "me da",
+    "está bien"
+   ],
+   "ok": [
+    "que lleva el mondongo",
+    "el mondongo"
+   ],
+   "teaches": [
+    "mondongo"
+   ],
+   "good": "Ask before, not after. Mondongo is tripe, and Masatepe is where people drive from other departments to eat it."
+  },
+  {
+   "es": "Panza de res, yuca, chayote... ¿nunca ha comido?",
+   "objective": "Say it is your first",
+   "key": "primera vez",
+   "say": "Es mi primera vez.",
+   "en": "It’s my first time.",
+   "tiles": [
+    "es mi",
+    "primera vez"
+   ],
+   "extra": [
+    "mondongo",
+    "está fuerte",
+    "quiero",
+    "me da"
+   ],
+   "ok": [
+    "es mi primera vez",
+    "primera vez"
+   ],
+   "teaches": [
+    "primera vez"
+   ],
+   "good": "Say it. Everybody at that table wants to watch a first spoonful, and you may as well let them enjoy it."
+  },
+  {
+   "es": "(Toda la mesa lo está viendo. Pruebe.)",
+   "objective": "Be honest",
+   "key": "está fuerte",
+   "say": "Está fuerte.",
+   "en": "It’s strong.",
+   "tiles": [
+    "está fuerte"
+   ],
+   "extra": [
+    "primera vez",
+    "me gustó",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "esta fuerte"
+   ],
+   "teaches": [
+    "está fuerte"
+   ],
+   "good": "Está fuerte — it is strong. Honest, accurate and completely acceptable. Pulling a face is the thing that would not be."
+  },
+  {
+   "es": "(Se termina el plato. Siguen viéndolo.)",
+   "objective": "Say the thing they are waiting for",
+   "key": "me gustó",
+   "say": "Pero me gustó.",
+   "en": "But I liked it.",
+   "tiles": [
+    "pero",
+    "me gustó"
+   ],
+   "extra": [
+    "está fuerte",
+    "primera vez",
+    "quiero",
+    "está bien"
+   ],
+   "ok": [
+    "pero me gusto",
+    "me gusto"
+   ],
+   "teaches": [
+    "me gustó"
+   ],
+   "good": "Pero me gustó — but I liked it. If it is true, this is the sentence the whole table was waiting for, and you will immediately be given more."
+  }
+ ]
+}

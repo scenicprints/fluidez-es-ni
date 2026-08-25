@@ -1,0 +1,109 @@
+{
+ "id": "afuera-02",
+ "district": "afuera",
+ "tier": 3,
+ "who": "El alfarero",
+ "title": "San Juan de Oriente",
+ "goal": "Watch pottery being made and ask how long it took to learn",
+ "culture": "In this village the pottery goes four or five generations deep in most houses. Ask about the years rather than the technique — the years are the answer he wants to give you.",
+ "beats": [
+  {
+   "es": "(Está centrando el barro con el pie en el torno.)",
+   "objective": "Ask how long it took to learn",
+   "key": "¿cuánto tardó?",
+   "say": "¿Cuánto tardó en aprender?",
+   "en": "How long did it take you to learn?",
+   "tiles": [
+    "¿cuánto tardó",
+    "en aprender?"
+   ],
+   "extra": [
+    "desde chavalo",
+    "mi papá",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "cuanto tardo en aprender",
+    "cuanto tardo"
+   ],
+   "teaches": [
+    "¿cuánto tardó?"
+   ],
+   "good": "Ask the years, not the technique. The years are the answer he would rather give."
+  },
+  {
+   "es": "Uf. Desde chavalo ando en esto.",
+   "objective": "Since he was a kid?",
+   "key": "desde chavalo",
+   "say": "¿Desde chavalo?",
+   "en": "Since you were a boy?",
+   "tiles": [
+    "¿desde chavalo?"
+   ],
+   "extra": [
+    "¿cuánto tardó?",
+    "mi papá",
+    "me deja en",
+    "así es"
+   ],
+   "ok": [
+    "desde chavalo"
+   ],
+   "teaches": [
+    "desde chavalo"
+   ],
+   "good": "Desde chavalo — since I was a kid. The same word Roberto taught you next door, now describing a whole working life."
+  },
+  {
+   "es": "Mi papá me enseñó. Y a él le enseñó el suyo.",
+   "objective": "Ask about his father",
+   "key": "mi papá",
+   "say": "¿Su papá también?",
+   "en": "Your father as well?",
+   "tiles": [
+    "¿su papá",
+    "también?"
+   ],
+   "extra": [
+    "desde chavalo",
+    "está lindo",
+    "con permiso",
+    "así es"
+   ],
+   "ok": [
+    "su papa tambien",
+    "su papa"
+   ],
+   "teaches": [
+    "mi papá"
+   ],
+   "good": "Mi papá from him, su papá from you. In this village the wheel goes four or five generations deep in most houses on the street."
+  },
+  {
+   "es": "(Levanta la pieza terminada y se la enseña.)",
+   "objective": "Say the right thing about it",
+   "key": "está lindo",
+   "say": "Está lindo. De verdad.",
+   "en": "That’s lovely. Really.",
+   "tiles": [
+    "está lindo",
+    "de verdad"
+   ],
+   "extra": [
+    "desde chavalo",
+    "mi papá",
+    "me deja en",
+    "con permiso"
+   ],
+   "ok": [
+    "esta lindo de verdad",
+    "esta lindo"
+   ],
+   "teaches": [
+    "está lindo"
+   ],
+   "good": "Lindo rather than bonito, for something somebody made with their hands. It is a small choice and he will hear it."
+  }
+ ]
+}
