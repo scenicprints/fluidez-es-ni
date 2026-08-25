@@ -1,0 +1,105 @@
+{
+ "id": "tramites-04",
+ "district": "tramites",
+ "tier": 3,
+ "who": "La enfermera",
+ "title": "El centro de salud",
+ "goal": "Get seen at a clinic and describe symptoms properly",
+ "culture": "Public clinics are free and busy. She is triaging thirty people this morning, so the symptom comes first, the number of days second and the location third — in that order, in as few words as you can manage.",
+ "beats": [
+  {
+   "es": "Pase. ¿Qué le pasa?",
+   "objective": "Symptom first",
+   "key": "tengo fiebre",
+   "say": "Tengo fiebre.",
+   "en": "I have a fever.",
+   "tiles": [
+    "tengo fiebre"
+   ],
+   "extra": [
+    "tres días",
+    "me duele aquí",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "tengo fiebre"
+   ],
+   "teaches": [
+    "tengo fiebre"
+   ],
+   "good": "Two words, first. She is seeing thirty people this morning and she is sorting them, not chatting."
+  },
+  {
+   "es": "¿Desde cuándo?",
+   "objective": "Three days",
+   "key": "tres días",
+   "say": "Tres días.",
+   "en": "Three days.",
+   "tiles": [
+    "tres días"
+   ],
+   "extra": [
+    "tres horas",
+    "tengo fiebre",
+    "así es",
+    "me deja en"
+   ],
+   "ok": [
+    "tres dias"
+   ],
+   "teaches": [
+    "tres días"
+   ],
+   "good": "Three days with a fever, in this country, is the number that gets you a blood test — because of what it might be."
+  },
+  {
+   "es": "¿Y le duele algo?",
+   "objective": "Point, and be specific",
+   "key": "me duele aquí",
+   "say": "Me duele aquí, atrás de los ojos.",
+   "en": "It hurts here, behind the eyes.",
+   "tiles": [
+    "me duele aquí",
+    "atrás de los ojos"
+   ],
+   "extra": [
+    "tengo fiebre",
+    "tres días",
+    "con permiso",
+    "así es"
+   ],
+   "ok": [
+    "me duele aqui atras de los ojos",
+    "me duele aqui"
+   ],
+   "teaches": [
+    "me duele aquí"
+   ],
+   "good": "Behind the eyes, with a fever, means one thing here. She will say the word before you do."
+  },
+  {
+   "es": "Le voy a mandar un examen de sangre.",
+   "objective": "Ask whether it is serious",
+   "key": "¿es grave?",
+   "say": "¿Es grave?",
+   "en": "Is it serious?",
+   "tiles": [
+    "¿es grave?"
+   ],
+   "extra": [
+    "tres días",
+    "tengo fiebre",
+    "me deja en",
+    "así es"
+   ],
+   "ok": [
+    "es grave"
+   ],
+   "teaches": [
+    "¿es grave?"
+   ],
+   "good": "The same two words you used on the moto in Guadalupe. They work on an engine and they work on a person."
+  }
+ ]
+}

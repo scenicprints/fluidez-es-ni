@@ -1,0 +1,107 @@
+{
+ "id": "tramites-06",
+ "district": "tramites",
+ "tier": 4,
+ "who": "El dentista",
+ "title": "La muela",
+ "goal": "Get a tooth dealt with while explaining the pain",
+ "culture": "Same diagnostic shape as the moto workshop: where it is, and when it happens. Between cuando como and con el frío he already knows what he will find, and he will do it today.",
+ "beats": [
+  {
+   "es": "Abra. ¿Cuál le duele?",
+   "objective": "Point at it",
+   "key": "esta muela",
+   "say": "Esta muela.",
+   "en": "This tooth.",
+   "tiles": [
+    "esta muela"
+   ],
+   "extra": [
+    "cuando como",
+    "con el frío",
+    "no ando",
+    "ya va"
+   ],
+   "ok": [
+    "esta muela"
+   ],
+   "teaches": [
+    "esta muela"
+   ],
+   "good": "Muela is a molar and diente is a front tooth. Pointing is allowed and expected."
+  },
+  {
+   "es": "¿Y cuándo le duele?",
+   "objective": "When you eat",
+   "key": "cuando como",
+   "say": "Cuando como.",
+   "en": "When I eat.",
+   "tiles": [
+    "cuando como"
+   ],
+   "extra": [
+    "cuando duermo",
+    "esta muela",
+    "todo bien",
+    "ya va"
+   ],
+   "ok": [
+    "cuando como"
+   ],
+   "teaches": [
+    "cuando como"
+   ],
+   "good": "When it hurts is the diagnosis, exactly as it was with the noise on the moto: aquí atrás, cuando freno."
+  },
+  {
+   "es": "¿Y con lo frío?",
+   "objective": "With cold as well",
+   "key": "con el frío",
+   "say": "Con el frío también.",
+   "en": "With cold things too.",
+   "tiles": [
+    "con el frío",
+    "también"
+   ],
+   "extra": [
+    "cuando como",
+    "esta muela",
+    "no ando",
+    "todo bien"
+   ],
+   "ok": [
+    "con el frio tambien",
+    "con el frio"
+   ],
+   "teaches": [
+    "con el frío"
+   ],
+   "good": "Between that and cuando como he already knows what he is going to find when he gets in there."
+  },
+  {
+   "es": "Se puede salvar... pero le va a doler un tiempo.",
+   "objective": "Tell him to take it out",
+   "key": "sáquemela",
+   "say": "Sáquemela, mejor.",
+   "en": "Better take it out.",
+   "tiles": [
+    "sáquemela",
+    "mejor"
+   ],
+   "extra": [
+    "no",
+    "esta muela",
+    "ya va",
+    "todo bien"
+   ],
+   "ok": [
+    "saquemela mejor",
+    "saquemela"
+   ],
+   "teaches": [
+    "sáquemela"
+   ],
+   "good": "Sáquemela — take it out. It is your decision and he will do it this afternoon, which is either reassuring or not depending on the day you are having."
+  }
+ ]
+}

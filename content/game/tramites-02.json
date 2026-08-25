@@ -1,0 +1,109 @@
+{
+ "id": "tramites-02",
+ "district": "tramites",
+ "tier": 2,
+ "who": "La de la ventanilla",
+ "title": "La fila",
+ "goal": "Queue, and find out you are in the wrong one",
+ "culture": "A queue here is not a line, it is an order that everybody in the room is holding in their head. You ask who is last, you tell the next person that you follow them, and then you can go and sit down.",
+ "beats": [
+  {
+   "es": "(Hay tres filas y ninguna tiene rótulo.)",
+   "objective": "Ask whether this is the right one",
+   "key": "¿es aquí?",
+   "say": "¿Es aquí la fila?",
+   "en": "Is this the right queue?",
+   "tiles": [
+    "¿es aquí",
+    "la fila?"
+   ],
+   "extra": [
+    "la otra ventanilla",
+    "yo sigo",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "es aqui la fila",
+    "es aqui"
+   ],
+   "teaches": [
+    "¿es aquí?"
+   ],
+   "good": "Ask before you stand in it for forty minutes. Nothing in the building is labelled and nobody thinks that is strange."
+  },
+  {
+   "es": "No, aquí no. Es en la otra ventanilla.",
+   "objective": "Say it back",
+   "key": "la otra ventanilla",
+   "say": "¿En la otra ventanilla?",
+   "en": "At the other window?",
+   "tiles": [
+    "¿en la otra ventanilla?"
+   ],
+   "extra": [
+    "¿es aquí?",
+    "yo sigo",
+    "quiero",
+    "está bien"
+   ],
+   "ok": [
+    "en la otra ventanilla"
+   ],
+   "teaches": [
+    "la otra ventanilla"
+   ],
+   "good": "There is always another ventanilla. Being sent to it once is normal; being sent back is Tuesday."
+  },
+  {
+   "es": "(La otra fila no tiene principio ni fin.)",
+   "objective": "Ask who is last",
+   "key": "¿quién es el último?",
+   "say": "¿Quién es el último?",
+   "en": "Who’s last?",
+   "tiles": [
+    "¿quién es",
+    "el último?"
+   ],
+   "extra": [
+    "yo sigo",
+    "la otra ventanilla",
+    "me da",
+    "quiero"
+   ],
+   "ok": [
+    "quien es el ultimo",
+    "quien es"
+   ],
+   "teaches": [
+    "¿quién es el último?"
+   ],
+   "good": "This question is how you enter the queue. Somebody puts a hand up, you remember their face, and the order exists."
+  },
+  {
+   "es": "(Llega alguien detrás de usted y pregunta lo mismo.)",
+   "objective": "Claim your place",
+   "key": "yo sigo",
+   "say": "Yo sigo. Usted va después.",
+   "en": "I’m next. You’re after me.",
+   "tiles": [
+    "yo sigo",
+    "usted va después"
+   ],
+   "extra": [
+    "¿quién es el último?",
+    "la otra ventanilla",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "yo sigo usted va despues",
+    "yo sigo"
+   ],
+   "teaches": [
+    "yo sigo"
+   ],
+   "good": "Yo sigo — I follow. Say it and you can go and sit down, because the room will hold your place for you."
+  }
+ ]
+}

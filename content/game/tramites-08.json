@@ -1,0 +1,87 @@
+{
+ "id": "tramites-08",
+ "district": "tramites",
+ "tier": 4,
+ "who": "La abogada",
+ "title": "El papel",
+ "goal": "Get a document notarised without understanding it",
+ "culture": "Un papel is any document at all, and admitting you do not know which one you need is the fastest route to the right one. She has read the letter you were given and she knows exactly what it is asking for.",
+ "beats": [
+  {
+   "es": "Buenas, adelante. ¿En qué le ayudo?",
+   "objective": "Say what you need",
+   "key": "necesito",
+   "say": "Necesito un papel.",
+   "en": "I need a document.",
+   "tiles": [
+    "necesito",
+    "un papel"
+   ],
+   "extra": [
+    "¿usted me lo hace?",
+    "¿cuánto cobra?",
+    "disculpe",
+    "otro día"
+   ],
+   "ok": [
+    "necesito un papel",
+    "necesito"
+   ],
+   "teaches": [
+    "necesito",
+    "un papel"
+   ],
+   "good": "Un papel is any document there is. Say it and she will work out which one you mean rather better than you can."
+  },
+  {
+   "es": "¿Qué tipo de papel? ¿Un poder, una constancia?",
+   "objective": "Admit you do not know",
+   "key": "¿usted me lo hace?",
+   "say": "No sé. ¿Usted me lo hace?",
+   "en": "I don’t know. Could you do it for me?",
+   "tiles": [
+    "no sé",
+    "¿usted me lo hace?"
+   ],
+   "extra": [
+    "necesito",
+    "¿cuánto cobra?",
+    "otro día",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "no se usted me lo hace",
+    "usted me lo hace"
+   ],
+   "teaches": [
+    "¿usted me lo hace?"
+   ],
+   "good": "Admitting it is the fastest route to the right document. She has read the letter you were handed and she knows what it wants."
+  },
+  {
+   "es": "Sí, se lo hago y se lo notarizo.",
+   "objective": "Ask the price before she starts",
+   "key": "¿cuánto cobra?",
+   "say": "¿Cuánto cobra usted?",
+   "en": "What do you charge?",
+   "tiles": [
+    "¿cuánto cobra",
+    "usted?"
+   ],
+   "extra": [
+    "necesito",
+    "un papel",
+    "disculpe",
+    "otro día"
+   ],
+   "ok": [
+    "cuanto cobra usted",
+    "cuanto cobra"
+   ],
+   "teaches": [
+    "¿cuánto cobra?"
+   ],
+   "good": "Ask before she starts typing. A notarised page has a price and it is not written down anywhere in the room."
+  }
+ ]
+}

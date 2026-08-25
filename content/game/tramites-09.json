@@ -1,0 +1,111 @@
+{
+ "id": "tramites-09",
+ "district": "tramites",
+ "tier": 5,
+ "who": "El doctor",
+ "title": "El dengue",
+ "goal": "Have dengue explained to you while you have it",
+ "culture": "There is no medicine for it. The treatment is fluid and lying down, and the dangerous part is the day the fever drops and you feel better. Every instruction here is one to repeat back, because none of it comes on a piece of paper.",
+ "beats": [
+  {
+   "es": "Es dengue. Tiene que tomar mucho suero.",
+   "objective": "Repeat the instruction",
+   "key": "mucho suero",
+   "say": "Mucho suero. Entendido.",
+   "en": "Plenty of fluids. Understood.",
+   "tiles": [
+    "mucho suero",
+    "entendido"
+   ],
+   "extra": [
+    "no se levante",
+    "si empeora",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "mucho suero entendido",
+    "mucho suero"
+   ],
+   "teaches": [
+    "mucho suero"
+   ],
+   "good": "Suero is rehydration salts, sold in every pulpería. There is no medicine for this and the fluid IS the treatment."
+  },
+  {
+   "es": "Y no se levante. Reposo, joven.",
+   "objective": "Check what he means",
+   "key": "no se levante",
+   "say": "¿No me levanto nada?",
+   "en": "I’m not to get up at all?",
+   "tiles": [
+    "¿no me levanto",
+    "nada?"
+   ],
+   "extra": [
+    "mucho suero",
+    "si empeora",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "no me levanto nada",
+    "no me levanto"
+   ],
+   "teaches": [
+    "no se levante"
+   ],
+   "good": "No se levante from him, no me levanto from you. He means it: people get up on day four and end up straight back in here."
+  },
+  {
+   "es": "Si empeora, se viene de una vez.",
+   "objective": "Ask what worse looks like",
+   "key": "si empeora",
+   "say": "¿Si empeora cómo?",
+   "en": "Worse how?",
+   "tiles": [
+    "¿si empeora",
+    "cómo?"
+   ],
+   "extra": [
+    "mucho suero",
+    "no se levante",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "si empeora como",
+    "si empeora"
+   ],
+   "teaches": [
+    "si empeora"
+   ],
+   "good": "Ask, because the dangerous part of dengue is the day the fever drops and you feel better. He will tell you the signs and you should write them down."
+  },
+  {
+   "es": "Una semana, más o menos, y va a andar bien.",
+   "objective": "A week, then",
+   "key": "una semana",
+   "say": "Una semana. Está bien.",
+   "en": "A week. Alright.",
+   "tiles": [
+    "una semana",
+    "está bien"
+   ],
+   "extra": [
+    "un día",
+    "si empeora",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "una semana esta bien",
+    "una semana"
+   ],
+   "teaches": [
+    "una semana"
+   ],
+   "good": "A week flat on your back, and everybody you tell afterwards will say they had it worse. They probably did."
+  }
+ ]
+}

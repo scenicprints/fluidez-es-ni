@@ -1,0 +1,111 @@
+{
+ "id": "tramites-03",
+ "district": "tramites",
+ "tier": 3,
+ "who": "El del banco",
+ "title": "El banco",
+ "goal": "Open an account with documents you do not have",
+ "culture": "Nobody has all of it on the first visit and the list on the wall is longer than the real one. Ask for the real one out loud, write it down, and come back without irritation: getting cross at a ventanilla has never moved a document forward.",
+ "beats": [
+  {
+   "es": "Buenas, ¿en qué le ayudo?",
+   "objective": "Say what you want",
+   "key": "quiero abrir",
+   "say": "Quiero abrir una cuenta.",
+   "en": "I want to open an account.",
+   "tiles": [
+    "quiero abrir",
+    "una cuenta"
+   ],
+   "extra": [
+    "no tengo",
+    "vuelvo mañana",
+    "ideay",
+    "ni modo"
+   ],
+   "ok": [
+    "quiero abrir una cuenta",
+    "quiero abrir"
+   ],
+   "teaches": [
+    "quiero abrir"
+   ],
+   "good": "Simple to say. As it turns out, not simple to do."
+  },
+  {
+   "es": "¿Trae cédula, constancia salarial y recibo de luz?",
+   "objective": "Say you have not got them",
+   "key": "no tengo",
+   "say": "No tengo todo eso.",
+   "en": "I don’t have all that.",
+   "tiles": [
+    "no tengo",
+    "todo eso"
+   ],
+   "extra": [
+    "¿qué necesito?",
+    "vuelvo mañana",
+    "vaya pues",
+    "ni modo"
+   ],
+   "ok": [
+    "no tengo todo eso",
+    "no tengo"
+   ],
+   "teaches": [
+    "no tengo"
+   ],
+   "good": "No tengo, plainly, without apologising for it. Nobody has all of it the first time and he knows that better than you do."
+  },
+  {
+   "es": "Hm. Sin eso no se puede.",
+   "objective": "Ask for the real list",
+   "key": "¿qué necesito?",
+   "say": "¿Y qué necesito exactamente?",
+   "en": "And what exactly do I need?",
+   "tiles": [
+    "¿y qué necesito",
+    "exactamente?"
+   ],
+   "extra": [
+    "no tengo",
+    "vuelvo mañana",
+    "ideay",
+    "vaya pues"
+   ],
+   "ok": [
+    "y que necesito exactamente",
+    "que necesito"
+   ],
+   "teaches": [
+    "¿qué necesito?"
+   ],
+   "good": "Ask for it out loud and write it down. It will be shorter than the list on the wall, and it is the one that counts."
+  },
+  {
+   "es": "Con eso ya le abrimos la cuenta.",
+   "objective": "Say you will come back",
+   "key": "vuelvo mañana",
+   "say": "Está bien. Vuelvo mañana.",
+   "en": "Alright. I’ll come back tomorrow.",
+   "tiles": [
+    "está bien",
+    "vuelvo mañana"
+   ],
+   "extra": [
+    "¿qué necesito?",
+    "no tengo",
+    "ni modo",
+    "ideay"
+   ],
+   "ok": [
+    "esta bien vuelvo manana",
+    "vuelvo manana"
+   ],
+   "teaches": [
+    "vuelvo mañana"
+   ],
+   "good": "Vuelvo mañana, without irritation. Getting cross at a window has never once moved a piece of paper forward in this country."
+  }
+ ]
+}

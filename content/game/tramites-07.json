@@ -1,0 +1,110 @@
+{
+ "id": "tramites-07",
+ "district": "tramites",
+ "tier": 4,
+ "who": "El policía",
+ "title": "La denuncia",
+ "goal": "Report a stolen phone and manage your expectations",
+ "culture": "You will get a piece of paper, not the phone. The paper is for the phone company. Asking the officer whether it is worth anything is a completely normal question and he will answer it honestly, which is worth more than the paper.",
+ "beats": [
+  {
+   "es": "Buenas. Dígame.",
+   "objective": "Say what happened",
+   "key": "me robaron",
+   "say": "Me robaron el teléfono.",
+   "en": "My phone was stolen.",
+   "tiles": [
+    "me robaron",
+    "el teléfono"
+   ],
+   "extra": [
+    "anoche",
+    "poner una denuncia",
+    "vamos",
+    "nos vemos"
+   ],
+   "ok": [
+    "me robaron el telefono",
+    "me robaron"
+   ],
+   "teaches": [
+    "me robaron"
+   ],
+   "good": "Me robaron — they robbed me, with no particular they. Spanish puts it this way round and it is the normal way to say it."
+  },
+  {
+   "es": "¿Cuándo fue?",
+   "objective": "Last night, and where",
+   "key": "anoche",
+   "say": "Anoche, en la Calzada.",
+   "en": "Last night, on La Calzada.",
+   "tiles": [
+    "anoche",
+    "en la Calzada"
+   ],
+   "extra": [
+    "me robaron",
+    "poner una denuncia",
+    "vamos",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "anoche en la calzada",
+    "anoche"
+   ],
+   "teaches": [
+    "anoche"
+   ],
+   "good": "Anoche is last night in one word. Where matters more than you would think — he already knows which corner."
+  },
+  {
+   "es": "¿Y qué quiere hacer?",
+   "objective": "Say you want to file it",
+   "key": "poner una denuncia",
+   "say": "Quiero poner una denuncia.",
+   "en": "I want to file a report.",
+   "tiles": [
+    "quiero",
+    "poner una denuncia"
+   ],
+   "extra": [
+    "anoche",
+    "me robaron",
+    "nos vemos",
+    "vamos"
+   ],
+   "ok": [
+    "quiero poner una denuncia",
+    "poner una denuncia"
+   ],
+   "teaches": [
+    "poner una denuncia"
+   ],
+   "good": "Poner una denuncia — to file a report. The verb is poner, which is worth knowing before you are standing at the desk."
+  },
+  {
+   "es": "Le doy el papel. Pero el teléfono ya no aparece, se lo digo de una vez.",
+   "objective": "Ask whether it is worth anything",
+   "key": "¿sirve de algo?",
+   "say": "¿Y sirve de algo?",
+   "en": "And is it any use?",
+   "tiles": [
+    "¿y sirve de algo?"
+   ],
+   "extra": [
+    "poner una denuncia",
+    "anoche",
+    "vamos",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "y sirve de algo",
+    "sirve de algo"
+   ],
+   "teaches": [
+    "¿sirve de algo?"
+   ],
+   "good": "Ask it. He will tell you the truth — the paper is for the phone company, not for getting the phone back — and you are both better for the honesty."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "malecon-01",
+ "district": "malecon",
+ "tier": 1,
+ "who": "La del quesillo",
+ "title": "El quesillo",
+ "goal": "Eat a quesillo and survive the bag it comes in",
+ "culture": "Cheese, cream, pickled onion and salt in a tortilla, served in a plastic bag. The bag is not a mistake — you drink the cream out of the corner of it when the tortilla is gone, and everybody watching will be pleased that you knew to.",
+ "beats": [
+  {
+   "es": "¿Le doy quesillo, joven?",
+   "objective": "Order one",
+   "key": "un quesillo",
+   "say": "Un quesillo, por favor.",
+   "en": "One quesillo, please.",
+   "tiles": [
+    "un quesillo",
+    "por favor"
+   ],
+   "extra": [
+    "con todo",
+    "sin cebolla",
+    "está bien",
+    "quiero"
+   ],
+   "ok": [
+    "un quesillo por favor",
+    "un quesillo"
+   ],
+   "teaches": [
+    "un quesillo"
+   ],
+   "good": "Cheese, cream, pickled onion and salt, in a tortilla, in a bag. La Paz Centro and Nagarote argue about who does it best and neither of them is here."
+  },
+  {
+   "es": "¿Con todo?",
+   "objective": "With everything",
+   "key": "con todo",
+   "say": "Con todo.",
+   "en": "With everything.",
+   "tiles": [
+    "con todo"
+   ],
+   "extra": [
+    "sin nada",
+    "un quesillo",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "con todo"
+   ],
+   "teaches": [
+    "con todo"
+   ],
+   "good": "Con todo again — the same answer you gave about the beans. It is the default reply to every ¿con qué? in this country."
+  },
+  {
+   "es": "¿Todo todo? ¿Con la cebolla?",
+   "objective": "Except the onion",
+   "key": "sin cebolla",
+   "say": "Pero sin cebolla.",
+   "en": "But without the onion.",
+   "tiles": [
+    "pero",
+    "sin cebolla"
+   ],
+   "extra": [
+    "con todo",
+    "un quesillo",
+    "gracias",
+    "quiero"
+   ],
+   "ok": [
+    "pero sin cebolla",
+    "sin cebolla"
+   ],
+   "teaches": [
+    "sin cebolla"
+   ],
+   "good": "The pickled onion is the strongest thing in there and asking for it without offends nobody."
+  },
+  {
+   "es": "(Se lo pasa en la bolsa, goteando.)",
+   "objective": "Tell her it is good",
+   "key": "está rico",
+   "say": "Está rico. De verdad.",
+   "en": "It’s good. Really.",
+   "tiles": [
+    "está rico",
+    "de verdad"
+   ],
+   "extra": [
+    "con todo",
+    "sin cebolla",
+    "está bien",
+    "gracias"
+   ],
+   "ok": [
+    "esta rico de verdad",
+    "esta rico"
+   ],
+   "teaches": [
+    "está rico"
+   ],
+   "good": "Está rico is what you say with your mouth full and it is expected. Saying nothing at all reads as not liking it."
+  }
+ ]
+}

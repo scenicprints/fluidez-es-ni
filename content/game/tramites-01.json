@@ -1,0 +1,110 @@
+{
+ "id": "tramites-01",
+ "district": "tramites",
+ "tier": 2,
+ "who": "La farmacéutica",
+ "title": "La farmacia",
+ "goal": "Explain what hurts and get something for it",
+ "culture": "The pharmacist is the first line of medicine here, not the doctor. You describe the symptom across the counter and she hands you something out of a drawer, often without a prescription — which is why saying algo suave matters.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Qué necesita?",
+   "objective": "Say what hurts",
+   "key": "me duele",
+   "say": "Me duele la cabeza.",
+   "en": "I have a headache.",
+   "tiles": [
+    "me duele",
+    "la cabeza"
+   ],
+   "extra": [
+    "desde ayer",
+    "algo suave",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "me duele la cabeza",
+    "me duele"
+   ],
+   "teaches": [
+    "me duele",
+    "la cabeza"
+   ],
+   "good": "Me duele plus the part of you. It is the sentence that gets you seen anywhere in this country, and she is where you start, not the clinic."
+  },
+  {
+   "es": "¿Y desde cuándo?",
+   "objective": "Since yesterday",
+   "key": "desde ayer",
+   "say": "Desde ayer.",
+   "en": "Since yesterday.",
+   "tiles": [
+    "desde ayer"
+   ],
+   "extra": [
+    "desde hoy",
+    "me duele",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "desde ayer"
+   ],
+   "teaches": [
+    "desde ayer"
+   ],
+   "good": "How long is the second half of every diagnosis here, and she will ask it before she reaches for anything."
+  },
+  {
+   "es": "¿Le doy algo fuerte?",
+   "objective": "Ask for something mild",
+   "key": "algo suave",
+   "say": "Deme algo suave.",
+   "en": "Give me something mild.",
+   "tiles": [
+    "deme",
+    "algo suave"
+   ],
+   "extra": [
+    "algo fuerte",
+    "desde ayer",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "deme algo suave",
+    "algo suave"
+   ],
+   "teaches": [
+    "algo suave"
+   ],
+   "good": "Algo suave — something mild. Say it, or you may be handed something a good deal stronger than you wanted, over the counter, no questions asked."
+  },
+  {
+   "es": "Tome esto. Cada ocho horas, con comida.",
+   "objective": "Repeat the dose back",
+   "key": "cada ocho horas",
+   "say": "Cada ocho horas. Gracias.",
+   "en": "Every eight hours. Thank you.",
+   "tiles": [
+    "cada ocho horas",
+    "gracias"
+   ],
+   "extra": [
+    "algo suave",
+    "desde ayer",
+    "por favor",
+    "Buenas"
+   ],
+   "ok": [
+    "cada ocho horas gracias",
+    "cada ocho horas"
+   ],
+   "teaches": [
+    "cada ocho horas"
+   ],
+   "good": "Say the dose back. There is no printed label on what she has just tipped into a little paper bag for you."
+  }
+ ]
+}

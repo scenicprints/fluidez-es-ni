@@ -1,0 +1,108 @@
+{
+ "id": "tramites-05",
+ "district": "tramites",
+ "tier": 3,
+ "who": "El de migración",
+ "title": "La prórroga",
+ "goal": "Extend a visa and be sent away twice first",
+ "culture": "Thirty days at a time, and never all of the requirements at once. Ask ¿qué más? until the answer is nada, or you will find out about the third item on your second trip.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Qué necesita?",
+   "objective": "Name the thing",
+   "key": "la prórroga",
+   "say": "Vengo por la prórroga.",
+   "en": "I’ve come about the extension.",
+   "tiles": [
+    "vengo por",
+    "la prórroga"
+   ],
+   "extra": [
+    "treinta días",
+    "¿qué más?",
+    "cuídese",
+    "dale"
+   ],
+   "ok": [
+    "vengo por la prorroga",
+    "la prorroga"
+   ],
+   "teaches": [
+    "la prórroga"
+   ],
+   "good": "La prórroga is the extension. Say the word for the thing and you skip ten minutes of explaining what you mean."
+  },
+  {
+   "es": "¿Por cuánto tiempo la quiere?",
+   "objective": "Thirty days",
+   "key": "treinta días",
+   "say": "Treinta días.",
+   "en": "Thirty days.",
+   "tiles": [
+    "treinta días"
+   ],
+   "extra": [
+    "noventa días",
+    "la prórroga",
+    "cuídese",
+    "fíjese que"
+   ],
+   "ok": [
+    "treinta dias"
+   ],
+   "teaches": [
+    "treinta días"
+   ],
+   "good": "Thirty at a time is what they give, so thirty is what you ask for."
+  },
+  {
+   "es": "Necesito copia del pasaporte y dos fotos.",
+   "objective": "Ask what else",
+   "key": "¿qué más?",
+   "say": "¿Y qué más?",
+   "en": "And what else?",
+   "tiles": [
+    "¿y qué más?"
+   ],
+   "extra": [
+    "la prórroga",
+    "treinta días",
+    "dale",
+    "cuídese"
+   ],
+   "ok": [
+    "y que mas",
+    "que mas"
+   ],
+   "teaches": [
+    "¿qué más?"
+   ],
+   "good": "Ask it until the answer is nada. Otherwise the third requirement turns up on your second trip, which is how it is designed."
+  },
+  {
+   "es": "Y el comprobante del pago. Nada más.",
+   "objective": "Say you will be straight back",
+   "key": "ya vengo",
+   "say": "Ya vengo con las fotos.",
+   "en": "I’ll be back with the photos.",
+   "tiles": [
+    "ya vengo",
+    "con las fotos"
+   ],
+   "extra": [
+    "¿qué más?",
+    "treinta días",
+    "fíjese que",
+    "dale"
+   ],
+   "ok": [
+    "ya vengo con las fotos",
+    "ya vengo"
+   ],
+   "teaches": [
+    "ya vengo"
+   ],
+   "good": "Ya vengo — back in a moment, said about anything from a minute to an afternoon. The photo place is the one you already used in El Centro."
+  }
+ ]
+}

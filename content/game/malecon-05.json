@@ -1,0 +1,109 @@
+{
+ "id": "malecon-05",
+ "district": "malecon",
+ "tier": 3,
+ "who": "El del caballo",
+ "title": "El caballo",
+ "goal": "Turn down a horse ride without making it awkward",
+ "culture": "Reasons work better than refusals, and praising the animal costs nothing and is probably true. You have done the four-noes version of this at the hammock stall; this is the gentler one.",
+ "beats": [
+  {
+   "es": "¿Un paseo a caballo, amigo? Barato.",
+   "objective": "No thank you",
+   "key": "no gracias",
+   "say": "No, gracias.",
+   "en": "No, thank you.",
+   "tiles": [
+    "no",
+    "gracias"
+   ],
+   "extra": [
+    "nunca he montado",
+    "otro día",
+    "está bonito",
+    "Buenas"
+   ],
+   "ok": [
+    "no gracias"
+   ],
+   "teaches": [
+    "no gracias"
+   ],
+   "good": "The first no. You have done this at the hammock stall and it works the same way here."
+  },
+  {
+   "es": "¡Es manso! Suba, no le pasa nada.",
+   "objective": "Give him a reason",
+   "key": "nunca he montado",
+   "say": "Nunca he montado.",
+   "en": "I’ve never ridden.",
+   "tiles": [
+    "nunca he montado"
+   ],
+   "extra": [
+    "no gracias",
+    "otro día",
+    "está bonito",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "nunca he montado"
+   ],
+   "teaches": [
+    "nunca he montado"
+   ],
+   "good": "A reason he cannot argue with, and it happens to be true. Reasons work far better than refusals in this country."
+  },
+  {
+   "es": "Por eso mismo. Yo lo llevo despacio.",
+   "objective": "Praise the horse",
+   "key": "está bonito",
+   "say": "Pero está bonito el caballo.",
+   "en": "He is a fine-looking horse, though.",
+   "tiles": [
+    "pero",
+    "está bonito",
+    "el caballo"
+   ],
+   "extra": [
+    "no gracias",
+    "otro día",
+    "nunca he montado",
+    "Buenas"
+   ],
+   "ok": [
+    "pero esta bonito el caballo",
+    "esta bonito"
+   ],
+   "teaches": [
+    "está bonito"
+   ],
+   "good": "Praise the animal. It costs nothing, it is probably true, and it turns a refusal into a conversation he can walk away from happily."
+  },
+  {
+   "es": "¿Verdad que sí? Es mío desde potrillo.",
+   "objective": "Leave it open",
+   "key": "otro día",
+   "say": "Otro día, tal vez.",
+   "en": "Another day, maybe.",
+   "tiles": [
+    "otro día",
+    "tal vez"
+   ],
+   "extra": [
+    "está bonito",
+    "nunca he montado",
+    "no gracias",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "otro dia tal vez",
+    "otro dia"
+   ],
+   "teaches": [
+    "otro día"
+   ],
+   "good": "Otro día, one more time. By now you know it is a real maybe rather than a brush-off, which is exactly why it works."
+  }
+ ]
+}

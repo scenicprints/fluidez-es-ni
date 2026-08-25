@@ -1,0 +1,105 @@
+{
+ "id": "malecon-03",
+ "district": "malecon",
+ "tier": 2,
+ "who": "El de la pesca",
+ "title": "El guapote",
+ "goal": "Order fried fish and be told which one is worth it",
+ "culture": "It comes whole, head and all, with fried plantain. Tajadas are the savoury green ones and maduro is the sweet ripe one, and that is the only real decision. Choosing your fish by pointing at the tray is normal.",
+ "beats": [
+  {
+   "es": "¿Pescado, joven? Fresquito del lago.",
+   "objective": "Ask for guapote",
+   "key": "guapote",
+   "say": "Un guapote.",
+   "en": "A guapote.",
+   "tiles": [
+    "un guapote"
+   ],
+   "extra": [
+    "frito",
+    "con tajadas",
+    "con permiso",
+    "cuídese"
+   ],
+   "ok": [
+    "un guapote"
+   ],
+   "teaches": [
+    "guapote"
+   ],
+   "good": "Guapote is the lake fish worth ordering. You met it on the fishmonger’s slab in the market; here it arrives on a plate."
+  },
+  {
+   "es": "¿Frito o al vapor?",
+   "objective": "Fried",
+   "key": "frito",
+   "say": "Frito.",
+   "en": "Fried.",
+   "tiles": [
+    "frito"
+   ],
+   "extra": [
+    "al vapor",
+    "un guapote",
+    "gracias",
+    "fíjese que"
+   ],
+   "ok": [
+    "frito"
+   ],
+   "teaches": [
+    "frito"
+   ],
+   "good": "Frito, whole, head and all. Al vapor exists on the sign and nobody has ever ordered it."
+  },
+  {
+   "es": "¿Y con qué se lo pongo?",
+   "objective": "With plantain",
+   "key": "con tajadas",
+   "say": "Con tajadas.",
+   "en": "With plantain chips.",
+   "tiles": [
+    "con tajadas"
+   ],
+   "extra": [
+    "con arroz",
+    "frito",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "con tajadas"
+   ],
+   "teaches": [
+    "con tajadas"
+   ],
+   "good": "Tajadas are fried green plantain. Maduro is the sweet ripe one, and this is the fork in the road at every plate in the country."
+  },
+  {
+   "es": "(Le enseña la bandeja.) ¿Cuál quiere?",
+   "objective": "Point at one",
+   "key": "el de allá",
+   "say": "El de allá, el grande.",
+   "en": "That one over there, the big one.",
+   "tiles": [
+    "el de allá",
+    "el grande"
+   ],
+   "extra": [
+    "este",
+    "con tajadas",
+    "frito",
+    "fíjese que"
+   ],
+   "ok": [
+    "el de alla el grande",
+    "el de alla"
+   ],
+   "teaches": [
+    "el de allá"
+   ],
+   "good": "El de allá — that one over there. Fish is chosen by pointing everywhere on earth and nobody minds you doing it here."
+  }
+ ]
+}

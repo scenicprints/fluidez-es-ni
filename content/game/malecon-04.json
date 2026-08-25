@@ -1,0 +1,109 @@
+{
+ "id": "malecon-04",
+ "district": "malecon",
+ "tier": 3,
+ "who": "La familia del domingo",
+ "title": "El domingo",
+ "goal": "Be pulled into somebody’s Sunday on the shore",
+ "culture": "Sunday on the lakefront is families with pots of food, and they will feed you. Hesitating for one beat is polite; refusing outright is the only wrong answer on that beach. No sea pena means stop being shy and it is said to everybody.",
+ "beats": [
+  {
+   "es": "¡Venga, siéntese con nosotros!",
+   "objective": "Check they mean it",
+   "key": "siéntese",
+   "say": "¿Yo? ¿Me siento?",
+   "en": "Me? Should I sit?",
+   "tiles": [
+    "¿yo?",
+    "¿me siento?"
+   ],
+   "extra": [
+    "hay bastante",
+    "sírvase",
+    "no ando",
+    "ya va"
+   ],
+   "ok": [
+    "yo me siento",
+    "me siento"
+   ],
+   "teaches": [
+    "siéntese"
+   ],
+   "good": "Siéntese from them, me siento from you. They do mean it, and hesitating for exactly one beat before accepting is the polite amount."
+  },
+  {
+   "es": "¡Sí, hombre! Hay bastante.",
+   "objective": "Check there is enough",
+   "key": "hay bastante",
+   "say": "¿Hay bastante?",
+   "en": "Is there enough?",
+   "tiles": [
+    "¿hay bastante?"
+   ],
+   "extra": [
+    "siéntese",
+    "sírvase",
+    "ya va",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "hay bastante"
+   ],
+   "teaches": [
+    "hay bastante"
+   ],
+   "good": "Hay bastante — there is plenty. There is never quite as much as they say and you are eating some of it regardless; that is the arrangement."
+  },
+  {
+   "es": "No sea pena, pues. Coma.",
+   "objective": "Say you are not being shy",
+   "key": "no sea pena",
+   "say": "No, no es pena.",
+   "en": "No, I’m not being shy.",
+   "tiles": [
+    "no",
+    "no es pena"
+   ],
+   "extra": [
+    "hay bastante",
+    "sírvase",
+    "no ando",
+    "ya va"
+   ],
+   "ok": [
+    "no no es pena",
+    "no es pena"
+   ],
+   "teaches": [
+    "no sea pena"
+   ],
+   "good": "Pena is shyness and embarrassment at once. No sea pena is said to everybody who hesitates, and the correct response is to stop hesitating."
+  },
+  {
+   "es": "Sírvase, pues. Agarre de ahí.",
+   "objective": "Help yourself",
+   "key": "sírvase",
+   "say": "Gracias. Me sirvo.",
+   "en": "Thank you. I’ll help myself.",
+   "tiles": [
+    "gracias",
+    "me sirvo"
+   ],
+   "extra": [
+    "sírvase",
+    "hay bastante",
+    "ya va",
+    "no ando"
+   ],
+   "ok": [
+    "gracias me sirvo",
+    "me sirvo"
+   ],
+   "teaches": [
+    "sírvase"
+   ],
+   "good": "Sírvase — help yourself. Take a modest amount and say so out loud; taking nothing is the one move that would hurt somebody’s feelings."
+  }
+ ]
+}

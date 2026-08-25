@@ -1,0 +1,109 @@
+{
+ "id": "malecon-02",
+ "district": "malecon",
+ "tier": 2,
+ "who": "El lanchero",
+ "title": "Las isletas",
+ "goal": "Haggle a boat around the isletas",
+ "culture": "Per person is the tourist unit. Ask for the boat rather than the seat and the number changes, and settle the return before you push off — the same lesson the fisherman in Pantanal taught you, at Malecón prices.",
+ "beats": [
+  {
+   "es": "¡Paseo por las isletas! ¿Van?",
+   "objective": "Ask for a trip round",
+   "key": "una vuelta",
+   "say": "¿Nos da una vuelta?",
+   "en": "Would you take us round?",
+   "tiles": [
+    "¿nos da",
+    "una vuelta?"
+   ],
+   "extra": [
+    "por las isletas",
+    "ida y vuelta",
+    "así es",
+    "me da"
+   ],
+   "ok": [
+    "nos da una vuelta",
+    "una vuelta"
+   ],
+   "teaches": [
+    "una vuelta"
+   ],
+   "good": "Una vuelta is a spin, a lap, a trip round. It is the word for this and it costs less than the thing called a tour."
+  },
+  {
+   "es": "¿Por dónde quieren ir?",
+   "objective": "Round the isletas",
+   "key": "por las isletas",
+   "say": "Por las isletas.",
+   "en": "Round the isletas.",
+   "tiles": [
+    "por las isletas"
+   ],
+   "extra": [
+    "una vuelta",
+    "ida y vuelta",
+    "ni modo",
+    "así es"
+   ],
+   "ok": [
+    "por las isletas"
+   ],
+   "teaches": [
+    "por las isletas"
+   ],
+   "good": "The same islands the fisherman took you to, at the price the Malecón charges. Which is why this mission is a haggle and that one was not."
+  },
+  {
+   "es": "Quince dólares por persona.",
+   "objective": "Ask for the boat, not the seat",
+   "key": "¿cuánto por todos?",
+   "say": "¿Y cuánto por todos?",
+   "en": "And how much for all of us?",
+   "tiles": [
+    "¿y cuánto",
+    "por todos?"
+   ],
+   "extra": [
+    "una vuelta",
+    "por las isletas",
+    "ni modo",
+    "me da"
+   ],
+   "ok": [
+    "y cuanto por todos",
+    "cuanto por todos"
+   ],
+   "teaches": [
+    "¿cuánto por todos?"
+   ],
+   "good": "Per person is the tourist unit. Ask for the whole boat and the arithmetic changes in your favour immediately."
+  },
+  {
+   "es": "Cuarenta por todos y los traigo de vuelta.",
+   "objective": "Confirm the return",
+   "key": "ida y vuelta",
+   "say": "Ida y vuelta, ¿verdad?",
+   "en": "There and back, right?",
+   "tiles": [
+    "ida y vuelta",
+    "¿verdad?"
+   ],
+   "extra": [
+    "una vuelta",
+    "por todos",
+    "así es",
+    "ni modo"
+   ],
+   "ok": [
+    "ida y vuelta verdad",
+    "ida y vuelta"
+   ],
+   "teaches": [
+    "ida y vuelta"
+   ],
+   "good": "You learned this from the fisherman. Ask it again anyway — a boat is the one place where the return really is negotiable."
+  }
+ ]
+}

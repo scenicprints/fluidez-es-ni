@@ -1,0 +1,76 @@
+[
+ {
+  "kind": "vendedora",
+  "district": "tramites",
+  "says": "Si le duele algo, primero a la farmacia. Ahí le dan sin receta y le sale más barato.",
+  "en": "If something hurts, go to the pharmacy first. They give it to you without a prescription and it is cheaper.",
+  "points_at": [
+   "tramites-01"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "tramites",
+  "says": "En esas oficinas pregunte quién es el último antes de pararse en la fila.",
+  "en": "In those offices, ask who is last before you stand in the queue.",
+  "points_at": [
+   "tramites-02",
+   "tramites-10"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "tramites",
+  "says": "Para abrir cuenta le piden mil papeles. Pregunte bien la lista antes de ir.",
+  "en": "To open an account they ask for a thousand documents. Ask for the exact list before you go.",
+  "points_at": [
+   "tramites-03"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "tramites",
+  "says": "Con fiebre de tres días vaya al centro de salud, no se quede en la casa.",
+  "en": "With a three-day fever go to the clinic, do not stay at home.",
+  "points_at": [
+   "tramites-04",
+   "tramites-09"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "tramites",
+  "says": "Lo de la prórroga es en migración, y llévese las fotos desde ya.",
+  "en": "The visa extension is at immigration, and take the photos with you from the start.",
+  "points_at": [
+   "tramites-05"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "tramites",
+  "says": "¿Le duele la muela? El dentista de la esquina se la saca el mismo día.",
+  "en": "Toothache? The dentist on the corner takes it out the same day.",
+  "points_at": [
+   "tramites-06"
+  ]
+ },
+ {
+  "kind": "policía",
+  "district": "tramites",
+  "says": "Si le robaron, ponga la denuncia. No le va a aparecer, pero el papel le sirve.",
+  "en": "If you were robbed, file the report. It will not turn up, but the paper is useful.",
+  "points_at": [
+   "tramites-07"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "tramites",
+  "says": "Para papeles, la abogada de enfrente. Ella se los hace y se los notariza.",
+  "en": "For documents, the lawyer across the way. She writes them and notarises them.",
+  "points_at": [
+   "tramites-08"
+  ]
+ }
+]

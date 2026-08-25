@@ -1,0 +1,109 @@
+{
+ "id": "tramites-10",
+ "district": "tramites",
+ "tier": 5,
+ "who": "La de la ventanilla",
+ "title": "La cédula",
+ "goal": "Sit through the whole bureaucracy for one piece of card",
+ "culture": "Five weeks, four visits and a shoebox of laminated cards with no order to them. The Spanish that gets you through it is four phrases long and every one of them is a way of saying: I have already done my part.",
+ "beats": [
+  {
+   "es": "¿Sí?",
+   "objective": "Say what you came for",
+   "key": "vengo por",
+   "say": "Vengo por mi cédula.",
+   "en": "I’ve come for my ID card.",
+   "tiles": [
+    "vengo por",
+    "mi cédula"
+   ],
+   "extra": [
+    "ya entregué",
+    "me dijeron",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "vengo por mi cedula",
+    "vengo por"
+   ],
+   "teaches": [
+    "vengo por"
+   ],
+   "good": "Vengo por — I have come for. The single most useful opening sentence in any office in the country."
+  },
+  {
+   "es": "¿Ya entregó los papeles?",
+   "objective": "Yes, already",
+   "key": "ya entregué",
+   "say": "Ya entregué todo.",
+   "en": "I handed everything in already.",
+   "tiles": [
+    "ya entregué",
+    "todo"
+   ],
+   "extra": [
+    "vengo por",
+    "me dijeron",
+    "quiero",
+    "está bien"
+   ],
+   "ok": [
+    "ya entregue todo",
+    "ya entregue"
+   ],
+   "teaches": [
+    "ya entregué"
+   ],
+   "good": "Ya entregué — I already handed them in. Say it before she asks you to do it again, because she will."
+  },
+  {
+   "es": "¿Y quién le dijo que viniera hoy?",
+   "objective": "Say who told you",
+   "key": "me dijeron",
+   "say": "Me dijeron que hoy.",
+   "en": "I was told today.",
+   "tiles": [
+    "me dijeron",
+    "que hoy"
+   ],
+   "extra": [
+    "ya entregué",
+    "vengo por",
+    "me da",
+    "quiero"
+   ],
+   "ok": [
+    "me dijeron que hoy",
+    "me dijeron"
+   ],
+   "teaches": [
+    "me dijeron"
+   ],
+   "good": "Me dijeron, with no particular they, is both true and unarguable. Naming whoever told you would only get them into trouble."
+  },
+  {
+   "es": "(Pone una caja de cartón llena de cédulas en el mostrador.)",
+   "objective": "Ask which one is yours",
+   "key": "¿cuál es el mío?",
+   "say": "¿Cuál es el mío?",
+   "en": "Which one is mine?",
+   "tiles": [
+    "¿cuál es el mío?"
+   ],
+   "extra": [
+    "me dijeron",
+    "ya entregué",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "cual es el mio"
+   ],
+   "teaches": [
+    "¿cuál es el mío?"
+   ],
+   "good": "A shoebox of laminated cards in no order at all. This is the last sentence of a process that took five weeks and it is worth every one of them."
+  }
+ ]
+}

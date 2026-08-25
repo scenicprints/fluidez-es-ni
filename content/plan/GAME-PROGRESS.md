@@ -4,7 +4,7 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**88 of 122 missions written.**
+**106 of 122 missions written.**
 
 ## El Centro (12/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
@@ -90,19 +90,19 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 5 | `pantanal-09` **El que volvió** | El que volvió | Talk to a man who went south for work and came back with nothing |
 | x | 5 | `pantanal-10` **El terremoto** | La abuela | Hear about 1972 from somebody who was in it |
 
-## El Malecón (0/8)
+## El Malecón (8/8)
 *The lakefront. Boats, fried fish, Sunday crowds.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `malecon-01` **El quesillo** | La del quesillo | Eat a quesillo and survive the bag it comes in |
-|   | 2 | `malecon-02` **Las isletas** | El lanchero | Haggle a boat around the isletas |
-|   | 2 | `malecon-03` **El guapote** | El de la pesca | Order fried fish and be told which one is worth it |
-|   | 3 | `malecon-04` **El domingo** | La familia del domingo | Be pulled into somebody’s Sunday on the shore |
-|   | 3 | `malecon-05` **El caballo** | El del caballo | Turn down a horse ride without making it awkward |
-|   | 4 | `malecon-06` **El son nica** | El músico | Get a musician to explain what he is playing |
-|   | 4 | `malecon-07` **La noche** | El vigilante | Be told, politely, that this is not a good place after dark |
-|   | 5 | `malecon-08` **A Ometepe** | El capitán | Buy a ferry ticket and understand the schedule |
+| x | 1 | `malecon-01` **El quesillo** | La del quesillo | Eat a quesillo and survive the bag it comes in |
+| x | 2 | `malecon-02` **Las isletas** | El lanchero | Haggle a boat around the isletas |
+| x | 2 | `malecon-03` **El guapote** | El de la pesca | Order fried fish and be told which one is worth it |
+| x | 3 | `malecon-04` **El domingo** | La familia del domingo | Be pulled into somebody’s Sunday on the shore |
+| x | 3 | `malecon-05` **El caballo** | El del caballo | Turn down a horse ride without making it awkward |
+| x | 4 | `malecon-06` **El son nica** | El músico | Get a musician to explain what he is playing |
+| x | 4 | `malecon-07` **La noche** | El vigilante | Be told, politely, that this is not a good place after dark |
+| x | 5 | `malecon-08` **A Ometepe** | El capitán | Buy a ferry ticket and understand the schedule |
 
 ## La Terminal (10/10)
 *Buses in and out. Everyone here is going somewhere or has just arrived.*
@@ -156,21 +156,21 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 5 | `trabajo-09` **El aumento del sueldo** | Don Emilio | Ask for more money without insulting anybody |
 | x | 5 | `trabajo-10` **El nuevo** | El nuevo | Teach somebody newer than you, in Spanish |
 
-## Trámites y salud (0/10)
+## Trámites y salud (10/10)
 *Offices, clinics, queues. The Spanish nobody teaches and everybody needs.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 2 | `tramites-01` **La farmacia** | La farmacéutica | Explain what hurts and get something for it |
-|   | 2 | `tramites-02` **La fila** | La de la ventanilla | Queue, and find out you are in the wrong one |
-|   | 3 | `tramites-03` **El banco** | El del banco | Open an account with documents you do not have |
-|   | 3 | `tramites-04` **El centro de salud** | La enfermera | Get seen at a clinic and describe symptoms properly |
-|   | 3 | `tramites-05` **La prórroga** | El de migración | Extend a visa and be sent away twice first |
-|   | 4 | `tramites-06` **La muela** | El dentista | Get a tooth dealt with while explaining the pain |
-|   | 4 | `tramites-07` **La denuncia** | El policía | Report a stolen phone and manage your expectations |
-|   | 4 | `tramites-08` **El papel** | La abogada | Get a document notarised without understanding it |
-|   | 5 | `tramites-09` **El dengue** | El doctor | Have dengue explained to you while you have it |
-|   | 5 | `tramites-10` **La cédula** | La de la ventanilla | Sit through the whole bureaucracy for one piece of card |
+| x | 2 | `tramites-01` **La farmacia** | La farmacéutica | Explain what hurts and get something for it |
+| x | 2 | `tramites-02` **La fila** | La de la ventanilla | Queue, and find out you are in the wrong one |
+| x | 3 | `tramites-03` **El banco** | El del banco | Open an account with documents you do not have |
+| x | 3 | `tramites-04` **El centro de salud** | La enfermera | Get seen at a clinic and describe symptoms properly |
+| x | 3 | `tramites-05` **La prórroga** | El de migración | Extend a visa and be sent away twice first |
+| x | 4 | `tramites-06` **La muela** | El dentista | Get a tooth dealt with while explaining the pain |
+| x | 4 | `tramites-07` **La denuncia** | El policía | Report a stolen phone and manage your expectations |
+| x | 4 | `tramites-08` **El papel** | La abogada | Get a document notarised without understanding it |
+| x | 5 | `tramites-09` **El dengue** | El doctor | Have dengue explained to you while you have it |
+| x | 5 | `tramites-10` **La cédula** | La de la ventanilla | Sit through the whole bureaucracy for one piece of card |
 
 ## Las fiestas (0/8)
 *The calendar. Some come round once a year and you will miss one.*

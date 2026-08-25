@@ -1,0 +1,107 @@
+{
+ "id": "malecon-07",
+ "district": "malecon",
+ "tier": 4,
+ "who": "El vigilante",
+ "title": "La noche",
+ "goal": "Be told, politely, that this is not a good place after dark",
+ "culture": "He is a night watchman being kind, and the whole warning is delivered in softeners: ya es tarde, mejor váyase, por ahí no. Recognising it as advice rather than conversation is the mission, and the correct answer is to take it.",
+ "beats": [
+  {
+   "es": "Buenas noches, joven. Ya es tarde.",
+   "objective": "Register that this is advice",
+   "key": "ya es tarde",
+   "say": "¿Ya es tarde?",
+   "en": "Is it late?",
+   "tiles": [
+    "¿ya es tarde?"
+   ],
+   "extra": [
+    "mejor váyase",
+    "por ahí no",
+    "me da",
+    "quiero"
+   ],
+   "ok": [
+    "ya es tarde"
+   ],
+   "teaches": [
+    "ya es tarde"
+   ],
+   "good": "He is not making conversation. Ya es tarde from a watchman is the opening line of a piece of advice."
+  },
+  {
+   "es": "Sí. Mejor váyase para el centro.",
+   "objective": "Say it back",
+   "key": "mejor váyase",
+   "say": "¿Mejor me voy?",
+   "en": "I should go, then?",
+   "tiles": [
+    "¿mejor me voy?"
+   ],
+   "extra": [
+    "ya es tarde",
+    "por ahí no",
+    "ni modo",
+    "me da"
+   ],
+   "ok": [
+    "mejor me voy"
+   ],
+   "teaches": [
+    "mejor váyase"
+   ],
+   "good": "Mejor váyase from him, mejor me voy from you. Mejor here means it would be better if — the gentlest possible way to tell somebody to leave."
+  },
+  {
+   "es": "Sí. Y por ahí no, por la orilla no vaya.",
+   "objective": "Ask which way instead",
+   "key": "por ahí no",
+   "say": "¿Por ahí no? ¿Por dónde entonces?",
+   "en": "Not that way? Which way, then?",
+   "tiles": [
+    "¿por ahí no?",
+    "¿por dónde entonces?"
+   ],
+   "extra": [
+    "mejor váyase",
+    "ya es tarde",
+    "quiero",
+    "ni modo"
+   ],
+   "ok": [
+    "por ahi no por donde entonces",
+    "por ahi no"
+   ],
+   "teaches": [
+    "por ahí no"
+   ],
+   "good": "Ask for the alternative. He is telling you about one specific stretch of shore after dark, not about the country."
+  },
+  {
+   "es": "Por la calle, derechito. Se lo digo yo.",
+   "objective": "Take the advice",
+   "key": "se lo digo yo",
+   "say": "Le hago caso. Gracias.",
+   "en": "I’ll do as you say. Thank you.",
+   "tiles": [
+    "le hago caso",
+    "gracias"
+   ],
+   "extra": [
+    "ya es tarde",
+    "por ahí no",
+    "me da",
+    "ni modo"
+   ],
+   "ok": [
+    "le hago caso gracias",
+    "le hago caso"
+   ],
+   "teaches": [
+    "se lo digo yo"
+   ],
+   "good": "Se lo digo yo — take it from me. That is the weight he is putting behind it, and le hago caso, I’ll do as you say, is the right answer."
+  }
+ ]
+}

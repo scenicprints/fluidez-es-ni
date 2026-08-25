@@ -1,0 +1,109 @@
+{
+ "id": "malecon-08",
+ "district": "malecon",
+ "tier": 5,
+ "who": "El capitán",
+ "title": "A Ometepe",
+ "goal": "Buy a ferry ticket and understand the schedule",
+ "culture": "A pasaje on a boat, a boleto on a bus. And the timetable has a condition attached to it that no printed schedule anywhere else has: si el lago deja — if the lake lets us. Cocibolca gets rough enough to cancel the crossing and everybody who works it talks about the lake as something that decides.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Para Ometepe?",
+   "objective": "Ask the time",
+   "key": "¿a qué hora sale?",
+   "say": "¿A qué hora sale el ferry?",
+   "en": "What time does the ferry leave?",
+   "tiles": [
+    "¿a qué hora sale",
+    "el ferry?"
+   ],
+   "extra": [
+    "un pasaje",
+    "de ida",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "a que hora sale el ferry",
+    "a que hora sale"
+   ],
+   "teaches": [
+    "¿a qué hora sale?"
+   ],
+   "good": "The same question you asked at the bus terminal. Sale is what everything does here — buses, photographs, ferries."
+  },
+  {
+   "es": "A las dos y media. Si el lago deja.",
+   "objective": "Buy the ticket",
+   "key": "un pasaje",
+   "say": "Un pasaje, por favor.",
+   "en": "One ticket, please.",
+   "tiles": [
+    "un pasaje",
+    "por favor"
+   ],
+   "extra": [
+    "un boleto",
+    "de ida",
+    "fíjese que",
+    "así es"
+   ],
+   "ok": [
+    "un pasaje por favor",
+    "un pasaje"
+   ],
+   "teaches": [
+    "un pasaje"
+   ],
+   "good": "A pasaje on a boat and a boleto on a bus. Nobody will correct you, and he will notice that you got it right."
+  },
+  {
+   "es": "¿De ida o ida y vuelta?",
+   "objective": "One way",
+   "key": "de ida",
+   "say": "De ida nada más.",
+   "en": "One way only.",
+   "tiles": [
+    "de ida",
+    "nada más"
+   ],
+   "extra": [
+    "ida y vuelta",
+    "un pasaje",
+    "con permiso",
+    "así es"
+   ],
+   "ok": [
+    "de ida nada mas",
+    "de ida"
+   ],
+   "teaches": [
+    "de ida"
+   ],
+   "good": "De ida — one way. You are staying on the island a while, which is the correct decision and he will approve of it."
+  },
+  {
+   "es": "Listo. A las dos y media, si el lago deja.",
+   "objective": "Ask what he means by that",
+   "key": "si el lago deja",
+   "say": "¿Si el lago deja?",
+   "en": "If the lake lets us?",
+   "tiles": [
+    "¿si el lago deja?"
+   ],
+   "extra": [
+    "de ida",
+    "un pasaje",
+    "fíjese que",
+    "con permiso"
+   ],
+   "ok": [
+    "si el lago deja"
+   ],
+   "teaches": [
+    "si el lago deja"
+   ],
+   "good": "Cocibolca gets rough enough to cancel the crossing. Everybody who works this water talks about the lake as something that makes decisions."
+  }
+ ]
+}

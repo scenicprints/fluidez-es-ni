@@ -1,0 +1,66 @@
+[
+ {
+  "kind": "doña en la puerta",
+  "district": "malecon",
+  "says": "Baje al malecón el domingo. Ahí venden quesillo y la gente lleva las ollas.",
+  "en": "Go down to the lakefront on Sunday. They sell quesillo and people bring their pots.",
+  "points_at": [
+   "malecon-01",
+   "malecon-04"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "malecon",
+  "says": "Los lancheros piden por persona. Pregúnteles cuánto por el bote completo.",
+  "en": "The boatmen charge per person. Ask them how much for the whole boat.",
+  "points_at": [
+   "malecon-02"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "malecon",
+  "says": "El guapote frito con tajadas, ahí en los ranchos de la orilla. Pida el más grande.",
+  "en": "Fried guapote with plantain, in the shacks along the shore. Ask for the biggest one.",
+  "points_at": [
+   "malecon-03"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "malecon",
+  "says": "Ahí anda el señor de los caballos. Si no quiere, dígale que nunca ha montado.",
+  "en": "The horse man is about. If you do not want to, tell him you have never ridden.",
+  "points_at": [
+   "malecon-05"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "malecon",
+  "says": "Ese que toca ahí sabe son nica del bueno. Pregúntele qué es lo que toca.",
+  "en": "That man playing there knows the real son nica. Ask him what it is he is playing.",
+  "points_at": [
+   "malecon-06"
+  ]
+ },
+ {
+  "kind": "cuidacarros",
+  "district": "malecon",
+  "says": "De noche por la orilla no ande, jefe. Hágale caso al vigilante.",
+  "en": "Do not walk along the shore at night, boss. Do as the watchman says.",
+  "points_at": [
+   "malecon-07"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "malecon",
+  "says": "El ferry a Ometepe sale de aquí. Pero si el lago está bravo, no sale.",
+  "en": "The ferry to Ometepe leaves from here. But if the lake is rough, it does not go.",
+  "points_at": [
+   "malecon-08"
+  ]
+ }
+]

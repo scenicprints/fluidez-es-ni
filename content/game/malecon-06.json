@@ -1,0 +1,111 @@
+{
+ "id": "malecon-06",
+ "district": "malecon",
+ "tier": 4,
+ "who": "El músico",
+ "title": "El son nica",
+ "goal": "Get a musician to explain what he is playing",
+ "culture": "Musicians here are asked to play and almost never asked what it is. Asking is worth more to him than the coins, and toque otra is the best thing you can say to anybody holding a guitar.",
+ "beats": [
+  {
+   "es": "(Está tocando algo que usted no reconoce.)",
+   "objective": "Ask what it is",
+   "key": "¿qué es eso?",
+   "say": "¿Qué es eso que toca?",
+   "en": "What’s that you’re playing?",
+   "tiles": [
+    "¿qué es eso",
+    "que toca?"
+   ],
+   "extra": [
+    "de aquí",
+    "toque otra",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "que es eso que toca",
+    "que es eso"
+   ],
+   "teaches": [
+    "¿qué es eso?"
+   ],
+   "good": "Ask. He is asked to play constantly and asked what it is almost never."
+  },
+  {
+   "es": "Es son nica, pues. De aquí.",
+   "objective": "From here?",
+   "key": "de aquí",
+   "say": "¿De aquí, de Nicaragua?",
+   "en": "From here, from Nicaragua?",
+   "tiles": [
+    "¿de aquí,",
+    "de Nicaragua?"
+   ],
+   "extra": [
+    "¿qué es eso?",
+    "toque otra",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "de aqui de nicaragua",
+    "de aqui"
+   ],
+   "teaches": [
+    "de aquí"
+   ],
+   "good": "De aquí again — the same two words the poet used about Darío in Parque Central, and meaning the same thing: the country, not the street."
+  },
+  {
+   "es": "De aquí mismo. Mi papá tocaba esto.",
+   "objective": "Ask for another",
+   "key": "toque otra",
+   "say": "Toque otra, por favor.",
+   "en": "Play another, please.",
+   "tiles": [
+    "toque otra",
+    "por favor"
+   ],
+   "extra": [
+    "de aquí",
+    "¿qué es eso?",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "toque otra por favor",
+    "toque otra"
+   ],
+   "teaches": [
+    "toque otra"
+   ],
+   "good": "Toque otra — play another one. It is the best thing you can say to somebody with a guitar and it is worth more to him than the coins are."
+  },
+  {
+   "es": "(Toca otra, más larga.)",
+   "objective": "Tell him you liked it",
+   "key": "me gustó",
+   "say": "Me gustó mucho. Gracias.",
+   "en": "I liked that a lot. Thank you.",
+   "tiles": [
+    "me gustó mucho",
+    "gracias"
+   ],
+   "extra": [
+    "toque otra",
+    "de aquí",
+    "por favor",
+    "está bien"
+   ],
+   "ok": [
+    "me gusto mucho gracias",
+    "me gusto mucho"
+   ],
+   "teaches": [
+    "me gustó"
+   ],
+   "good": "Me gustó, in the past, because it is finished. Saying so out loud is the payment that is not money."
+  }
+ ]
+}
