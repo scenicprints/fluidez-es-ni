@@ -1,2174 +1,2283 @@
 {
- "dictionary": [
-  "dictionary/core.json",
-  "dictionary/spine.json"
- ],
- "patterns": [
-  "patterns/core.json",
-  "patterns/spine.json"
- ],
- "scenarios": [
-  {
-   "id": "sc96",
-   "title": "Buenas",
-   "desc": "Four people between you and the pulpería, and none of them can be passed in silence",
-   "phase": 0,
-   "path": "scenarios/sc96.json"
-  },
-  {
-   "id": "sc97",
-   "title": "El gallo pinto",
-   "desc": "You are fed before anybody asks your name",
-   "phase": 0,
-   "path": "scenarios/sc97.json"
-  },
-  {
-   "id": "sc98",
-   "title": "Aquí nadie dice tú",
-   "desc": "A boy of twelve corrects your Spanish, kindly",
-   "phase": 0,
-   "path": "scenarios/sc98.json"
-  },
-  {
-   "id": "sc99",
-   "title": "¿Y es casado usted?",
-   "desc": "In four minutes they know your age, your work and whether you are married",
-   "phase": 0,
-   "path": "scenarios/sc99.json"
-  },
-  {
-   "id": "sc41",
-   "title": "Se fue la luz",
-   "desc": "The power goes out and the pulpería is dark",
-   "phase": 0,
-   "path": "scenarios/sc41.json"
-  },
-  {
-   "id": "sc42",
-   "title": "La pila",
-   "desc": "Water comes twice a week and you have to catch it",
-   "phase": 0,
-   "path": "scenarios/sc42.json"
-  },
-  {
-   "id": "sc43",
-   "title": "¿Dónde está el baño?",
-   "desc": "Asking for the bathroom in somebody else’s house",
-   "phase": 0,
-   "path": "scenarios/sc43.json"
-  },
-  {
-   "id": "sc100",
-   "title": "La ruta equivocada",
-   "desc": "The wrong bus, and an hour you do not get back",
-   "phase": 0,
-   "path": "scenarios/sc100.json"
-  },
-  {
-   "id": "sc101",
-   "title": "Donde fue el árbol",
-   "desc": "An address that names a tree cut down in 1998",
-   "phase": 1,
-   "path": "scenarios/sc101.json"
-  },
-  {
-   "id": "sc44",
-   "title": "La caponera",
-   "desc": "Three wheels, no doors, and a price to agree first",
-   "phase": 1,
-   "path": "scenarios/sc44.json"
-  },
-  {
-   "id": "sc45",
-   "title": "El interlocal a Masaya",
-   "desc": "Leaving Managua for the first time",
-   "phase": 1,
-   "path": "scenarios/sc45.json"
-  },
-  {
-   "id": "sc103",
-   "title": "El almuerzo del comedor",
-   "desc": "Midday, a counter, and no menu anywhere",
-   "phase": 1,
-   "path": "scenarios/sc103.json"
-  },
-  {
-   "id": "sc46",
-   "title": "En la ferretería",
-   "desc": "Buying a thing whose name you do not know",
-   "phase": 1,
-   "path": "scenarios/sc46.json"
-  },
-  {
-   "id": "sc104",
-   "title": "Una recarga",
-   "desc": "Phone credit, bought across a counter, said out loud",
-   "phase": 1,
-   "path": "scenarios/sc104.json"
-  },
-  {
-   "id": "sc102",
-   "title": "Un mandado",
-   "desc": "Being sent for tortillas, which means you are trusted",
-   "phase": 1,
-   "path": "scenarios/sc102.json"
-  },
-  {
-   "id": "sc47",
-   "title": "Los mangos",
-   "desc": "Fruit falls on the roof for a month",
-   "phase": 1,
-   "path": "scenarios/sc47.json"
-  },
-  {
-   "id": "sc105",
-   "title": "Pinolillo",
-   "desc": "Drink it and you belong to them now",
-   "phase": 1,
-   "path": "scenarios/sc105.json"
-  },
-  {
-   "id": "sc106",
-   "title": "Me caés bien",
-   "desc": "One verb between a friendship and a declaration",
-   "phase": 2,
-   "path": "scenarios/sc106.json"
-  },
-  {
-   "id": "sc48",
-   "title": "Pase adelante",
-   "desc": "Being invited in and not being able to refuse",
-   "phase": 2,
-   "path": "scenarios/sc48.json"
-  },
-  {
-   "id": "sc49",
-   "title": "Ahorita",
-   "desc": "One word, four meanings, and a whole afternoon",
-   "phase": 2,
-   "path": "scenarios/sc49.json"
-  },
-  {
-   "id": "sc107",
-   "title": "Que cumplás muchos más",
-   "desc": "A birthday in the patio, and a piece of cake you did not expect",
-   "phase": 2,
-   "path": "scenarios/sc107.json"
-  },
-  {
-   "id": "sc108",
-   "title": "Primero Dios",
-   "desc": "Every plan anybody makes has a condition attached to it",
-   "phase": 2,
-   "path": "scenarios/sc108.json"
-  },
-  {
-   "id": "sc51",
-   "title": "El mes de la patria",
-   "desc": "September, and the flags go up on everything",
-   "phase": 2,
-   "path": "scenarios/sc51.json"
-  },
-  {
-   "id": "sc52",
-   "title": "El día de la madre",
-   "desc": "May 30, and it is not negotiable",
-   "phase": 2,
-   "path": "scenarios/sc52.json"
-  },
-  {
-   "id": "sc50",
-   "title": "La Gritería",
-   "desc": "December 7, and the shouting arrives at your door",
-   "phase": 2,
-   "path": "scenarios/sc50.json"
-  },
-  {
-   "id": "sc109",
-   "title": "Yo invito",
-   "desc": "Reaching for your share and getting it badly wrong",
-   "phase": 2,
-   "path": "scenarios/sc109.json"
-  },
-  {
-   "id": "sc53",
-   "title": "No seás malo",
-   "desc": "The first time you are teased, and the first time you answer",
-   "phase": 2,
-   "path": "scenarios/sc53.json"
-  },
-  {
-   "id": "sc110",
-   "title": "Extraño mi casa",
-   "desc": "Admitting it out loud, and getting an answer you did not expect",
-   "phase": 2,
-   "path": "scenarios/sc110.json"
-  },
-  {
-   "id": "sc112",
-   "title": "El alquiler",
-   "desc": "A house, a price, and a handshake instead of a contract",
-   "phase": 3,
-   "path": "scenarios/sc112.json"
-  },
-  {
-   "id": "sc54",
-   "title": "El recibo está malo",
-   "desc": "A bill that is wrong, and the man who cannot fix it",
-   "phase": 3,
-   "path": "scenarios/sc54.json"
-  },
-  {
-   "id": "sc55",
-   "title": "Otra vez mañana",
-   "desc": "Being told to come back, and coming back",
-   "phase": 3,
-   "path": "scenarios/sc55.json"
-  },
-  {
-   "id": "sc111",
-   "title": "Acordamos ochenta",
-   "desc": "The price doubles at the end of the journey",
-   "phase": 3,
-   "path": "scenarios/sc111.json"
-  },
-  {
-   "id": "sc56",
-   "title": "Me prestás",
-   "desc": "Somebody asks you for money",
-   "phase": 3,
-   "path": "scenarios/sc56.json"
-  },
-  {
-   "id": "sc57",
-   "title": "Con el mecánico",
-   "desc": "Something is broken and you cannot name it",
-   "phase": 3,
-   "path": "scenarios/sc57.json"
-  },
-  {
-   "id": "sc113",
-   "title": "No lo perdiste",
-   "desc": "A phone gone, and a grammar that puts the blame nowhere",
-   "phase": 3,
-   "path": "scenarios/sc113.json"
-  },
-  {
-   "id": "sc114",
-   "title": "Arrecho",
-   "desc": "One word, two opposite meanings, and only the tone to go on",
-   "phase": 3,
-   "path": "scenarios/sc114.json"
-  },
-  {
-   "id": "sc58",
-   "title": "Fijate que no",
-   "desc": "Saying no without ever saying it",
-   "phase": 3,
-   "path": "scenarios/sc58.json"
-  },
-  {
-   "id": "sc59",
-   "title": "Perdón",
-   "desc": "Apologising so that it lands",
-   "phase": 3,
-   "path": "scenarios/sc59.json"
-  },
-  {
-   "id": "sc115",
-   "title": "Con las manos vacías",
-   "desc": "A year of doing something wrong, and the day somebody finally says so",
-   "phase": 3,
-   "path": "scenarios/sc115.json"
-  },
-  {
-   "id": "sc60",
-   "title": "Una seña",
-   "desc": "Reading a signal you are not sure is one",
-   "phase": 4,
-   "path": "scenarios/sc60.json"
-  },
-  {
-   "id": "sc116",
-   "title": "Te quiero",
-   "desc": "Two words for one thing, and the bigger one said first",
-   "phase": 4,
-   "path": "scenarios/sc116.json"
-  },
-  {
-   "id": "sc117",
-   "title": "Gordo",
-   "desc": "Affection that arrives sounding like an insult",
-   "phase": 4,
-   "path": "scenarios/sc117.json"
-  },
-  {
-   "id": "sc61",
-   "title": "Conocé a mi mamá",
-   "desc": "Meeting doña Elena for the first time",
-   "phase": 4,
-   "path": "scenarios/sc61.json"
-  },
-  {
-   "id": "sc62",
-   "title": "Los cuñados",
-   "desc": "Her brothers, and the test that is not called one",
-   "phase": 4,
-   "path": "scenarios/sc62.json"
-  },
-  {
-   "id": "sc63",
-   "title": "Estoy celoso",
-   "desc": "Jealousy, out loud, before it goes bad",
-   "phase": 4,
-   "path": "scenarios/sc63.json"
-  },
-  {
-   "id": "sc64",
-   "title": "La plata",
-   "desc": "An argument about money that is not about money",
-   "phase": 4,
-   "path": "scenarios/sc64.json"
-  },
-  {
-   "id": "sc65",
-   "title": "Tu familia o la mía",
-   "desc": "Whose house you go to, and what it stands for",
-   "phase": 4,
-   "path": "scenarios/sc65.json"
-  },
-  {
-   "id": "sc66",
-   "title": "Pedir la mano",
-   "desc": "Asking her family, in a room with everybody in it",
-   "phase": 4,
-   "path": "scenarios/sc66.json"
-  },
-  {
-   "id": "sc67",
-   "title": "La boda",
-   "desc": "Your own wedding, and forty people with opinions",
-   "phase": 4,
-   "path": "scenarios/sc67.json"
-  },
-  {
-   "id": "sc119",
-   "title": "La serenata",
-   "desc": "Midnight on the twenty-ninth of May, three musicians, and a woman pretending to be surprised",
-   "phase": 4,
-   "path": "scenarios/sc119.json"
-  },
-  {
-   "id": "sc118",
-   "title": "La casa poco a poco",
-   "desc": "A Sunday, a bag of cement, and nobody charging anybody",
-   "phase": 4,
-   "path": "scenarios/sc118.json"
-  },
-  {
-   "id": "sc71",
-   "title": "El bautizo",
-   "desc": "Being asked to be a godparent",
-   "phase": 4,
-   "path": "scenarios/sc71.json"
-  },
-  {
-   "id": "sc73",
-   "title": "Le tocaba a alguien",
-   "desc": "The suegra asks you, and not her own sons",
-   "phase": 4,
-   "path": "scenarios/sc73.json"
-  },
-  {
-   "id": "sc120",
-   "title": "¿Cómo sigue?",
-   "desc": "Nobody in the house will say the word out loud",
-   "phase": 4,
-   "path": "scenarios/sc120.json"
-  },
-  {
-   "id": "sc70",
-   "title": "Se puso malo",
-   "desc": "A hospital corridor at eleven at night",
-   "phase": 4,
-   "path": "scenarios/sc70.json"
-  },
-  {
-   "id": "sc68",
-   "title": "El novenario",
-   "desc": "Nine nights in somebody else’s house",
-   "phase": 4,
-   "path": "scenarios/sc68.json"
-  },
-  {
-   "id": "sc69",
-   "title": "Los difuntos",
-   "desc": "November 2, and a grave that is not yours",
-   "phase": 4,
-   "path": "scenarios/sc69.json"
-  },
-  {
-   "id": "sc72",
-   "title": "Te lo agradezco",
-   "desc": "Thanking somebody so that it counts",
-   "phase": 4,
-   "path": "scenarios/sc72.json"
-  },
-  {
-   "id": "sc74",
-   "title": "Qué tuani",
-   "desc": "A word you learned from a teenager, said to a grandmother",
-   "phase": 5,
-   "path": "scenarios/sc74.json"
-  },
-  {
-   "id": "sc121",
-   "title": "Semana Santa",
-   "desc": "Six days when the whole country stops and nobody warned you",
-   "phase": 5,
-   "path": "scenarios/sc121.json"
-  },
-  {
-   "id": "sc75",
-   "title": "El tope",
-   "desc": "August 1, and the whole city moves at once",
-   "phase": 5,
-   "path": "scenarios/sc75.json"
-  },
-  {
-   "id": "sc76",
-   "title": "El enano en tu puerta",
-   "desc": "A giant woman, a big-headed boy and forty verses",
-   "phase": 5,
-   "path": "scenarios/sc76.json"
-  },
-  {
-   "id": "sc77",
-   "title": "Delroy",
-   "desc": "Half the country you had not accounted for",
-   "phase": 5,
-   "path": "scenarios/sc77.json"
-  },
-  {
-   "id": "sc78",
-   "title": "El año viejo",
-   "desc": "Burning the year on the pavement at midnight",
-   "phase": 5,
-   "path": "scenarios/sc78.json"
-  },
-  {
-   "id": "sc79",
-   "title": "Padrino de las sillas",
-   "desc": "Being asked to pay for part of somebody’s quince",
-   "phase": 5,
-   "path": "scenarios/sc79.json"
-  },
-  {
-   "id": "sc122",
-   "title": "La masa del sábado",
-   "desc": "Saturday night, fifty nacatamales, and an arm that stops working",
-   "phase": 5,
-   "path": "scenarios/sc122.json"
-  },
-  {
-   "id": "sc123",
-   "title": "A las doce en punto",
-   "desc": "Arriving on time, and being put to work for two hours",
-   "phase": 5,
-   "path": "scenarios/sc123.json"
-  },
-  {
-   "id": "sc80",
-   "title": "Una birra",
-   "desc": "One beer, and the door that opens after eleven",
-   "phase": 5,
-   "path": "scenarios/sc80.json"
-  },
-  {
-   "id": "sc125",
-   "title": "Se me pasó la mano",
-   "desc": "One step past funny, in a patio that has gone quiet",
-   "phase": 5,
-   "path": "scenarios/sc125.json"
-  },
-  {
-   "id": "sc81",
-   "title": "El chisme vuelve",
-   "desc": "Something you said in confidence comes back improved",
-   "phase": 5,
-   "path": "scenarios/sc81.json"
-  },
-  {
-   "id": "sc124",
-   "title": "No me hallo",
-   "desc": "A word for something you have been feeling for a year",
-   "phase": 5,
-   "path": "scenarios/sc124.json"
-  },
-  {
-   "id": "sc82",
-   "title": "Andate ya",
-   "desc": "Leaving a house, which takes forty minutes",
-   "phase": 5,
-   "path": "scenarios/sc82.json"
-  },
-  {
-   "id": "sc83",
-   "title": "Depende",
-   "desc": "A yes-or-no question, and twenty minutes",
-   "phase": 6,
-   "path": "scenarios/sc83.json"
-  },
-  {
-   "id": "sc84",
-   "title": "Tal vez después",
-   "desc": "A no you were given in March",
-   "phase": 6,
-   "path": "scenarios/sc84.json"
-  },
-  {
-   "id": "sc85",
-   "title": "Con todo respeto",
-   "desc": "Correcting a man of sixty-eight",
-   "phase": 6,
-   "path": "scenarios/sc85.json"
-  },
-  {
-   "id": "sc86",
-   "title": "Es que fíjese",
-   "desc": "A job that is not ready, and the man who talks first",
-   "phase": 6,
-   "path": "scenarios/sc86.json"
-  },
-  {
-   "id": "sc127",
-   "title": "Del norte",
-   "desc": "A country you thought had one accent",
-   "phase": 6,
-   "path": "scenarios/sc127.json"
-  },
-  {
-   "id": "sc128",
-   "title": "Los dos apellidos",
-   "desc": "A window, a form, and a surname you have not got",
-   "phase": 6,
-   "path": "scenarios/sc128.json"
-  },
-  {
-   "id": "sc129",
-   "title": "El del billete",
-   "desc": "Four years of paying with his face and never once looking",
-   "phase": 6,
-   "path": "scenarios/sc129.json"
-  },
-  {
-   "id": "sc87",
-   "title": "De eso mejor no",
-   "desc": "A subject that closes without anybody refusing",
-   "phase": 6,
-   "path": "scenarios/sc87.json"
-  },
-  {
-   "id": "sc126",
-   "title": "El setenta y nueve",
-   "desc": "An old man tells you where he was, and stops before the end",
-   "phase": 6,
-   "path": "scenarios/sc126.json"
-  },
-  {
-   "id": "sc130",
-   "title": "Uno nunca sabe",
-   "desc": "Saying I without saying I",
-   "phase": 6,
-   "path": "scenarios/sc130.json"
-  },
-  {
-   "id": "sc88",
-   "title": "La indirecta",
-   "desc": "A leaking roof, mentioned like the weather",
-   "phase": 6,
-   "path": "scenarios/sc88.json"
-  },
-  {
-   "id": "sc89",
-   "title": "Ni modo",
-   "desc": "The drain is still blocked and the water is in the house",
-   "phase": 6,
-   "path": "scenarios/sc89.json"
-  },
-  {
-   "id": "sc90",
-   "title": "El chiste que no explicaron",
-   "desc": "Laughing in real time, or not at all",
-   "phase": 7,
-   "path": "scenarios/sc90.json"
-  },
-  {
-   "id": "sc91",
-   "title": "Como decía mi abuela",
-   "desc": "Quoting the dead to end an argument",
-   "phase": 7,
-   "path": "scenarios/sc91.json"
-  },
-  {
-   "id": "sc92",
-   "title": "Ya en serio",
-   "desc": "The tone changes and you have to change with it",
-   "phase": 7,
-   "path": "scenarios/sc92.json"
-  },
-  {
-   "id": "sc93",
-   "title": "Béisbol o fútbol",
-   "desc": "An argument nobody wants to win",
-   "phase": 7,
-   "path": "scenarios/sc93.json"
-  },
-  {
-   "id": "sc131",
-   "title": "La bulla",
-   "desc": "A speaker on the pavement at one in the morning",
-   "phase": 7,
-   "path": "scenarios/sc131.json"
-  },
-  {
-   "id": "sc134",
-   "title": "¿Y usted de dónde es?",
-   "desc": "The same question as always, answered in a different order",
-   "phase": 7,
-   "path": "scenarios/sc134.json"
-  },
-  {
-   "id": "sc132",
-   "title": "Ideay, y vos qué",
-   "desc": "Five years before anybody asks you what you actually think",
-   "phase": 7,
-   "path": "scenarios/sc132.json"
-  },
-  {
-   "id": "sc133",
-   "title": "Confianza",
-   "desc": "Explaining a word to somebody who arrived last week",
-   "phase": 7,
-   "path": "scenarios/sc133.json"
-  },
-  {
-   "id": "sc94",
-   "title": "Otro chele",
-   "desc": "Somebody arrives with the notebook you used to have",
-   "phase": 7,
-   "path": "scenarios/sc94.json"
-  },
-  {
-   "id": "sc95",
-   "title": "Nadie preguntó",
-   "desc": "Ten minutes at a bus stop",
-   "phase": 7,
-   "path": "scenarios/sc95.json"
-  },
-  {
-   "id": "sc135",
-   "title": "Ya sos nica",
-   "desc": "An ordinary Saturday, and somebody says it out loud",
-   "phase": 7,
-   "path": "scenarios/sc135.json"
+  "dictionary": [
+    "dictionary/core.json",
+    "dictionary/spine.json"
+  ],
+  "patterns": [
+    "patterns/core.json",
+    "patterns/spine.json"
+  ],
+  "scenarios": [
+    {
+      "id": "sc96",
+      "title": "Buenas",
+      "desc": "Four people between you and the pulpería, and none of them can be passed in silence",
+      "phase": 0,
+      "path": "scenarios/sc96.json"
+    },
+    {
+      "id": "sc97",
+      "title": "El gallo pinto",
+      "desc": "You are fed before anybody asks your name",
+      "phase": 0,
+      "path": "scenarios/sc97.json"
+    },
+    {
+      "id": "sc98",
+      "title": "Aquí nadie dice tú",
+      "desc": "A boy of twelve corrects your Spanish, kindly",
+      "phase": 0,
+      "path": "scenarios/sc98.json"
+    },
+    {
+      "id": "sc99",
+      "title": "¿Y es casado usted?",
+      "desc": "In four minutes they know your age, your work and whether you are married",
+      "phase": 0,
+      "path": "scenarios/sc99.json"
+    },
+    {
+      "id": "sc41",
+      "title": "Se fue la luz",
+      "desc": "The power goes out and the pulpería is dark",
+      "phase": 0,
+      "path": "scenarios/sc41.json"
+    },
+    {
+      "id": "sc42",
+      "title": "La pila",
+      "desc": "Water comes twice a week and you have to catch it",
+      "phase": 0,
+      "path": "scenarios/sc42.json"
+    },
+    {
+      "id": "sc43",
+      "title": "¿Dónde está el baño?",
+      "desc": "Asking for the bathroom in somebody else’s house",
+      "phase": 0,
+      "path": "scenarios/sc43.json"
+    },
+    {
+      "id": "sc100",
+      "title": "La ruta equivocada",
+      "desc": "The wrong bus, and an hour you do not get back",
+      "phase": 0,
+      "path": "scenarios/sc100.json"
+    },
+    {
+      "id": "sc101",
+      "title": "Donde fue el árbol",
+      "desc": "An address that names a tree cut down in 1998",
+      "phase": 1,
+      "path": "scenarios/sc101.json"
+    },
+    {
+      "id": "sc44",
+      "title": "La caponera",
+      "desc": "Three wheels, no doors, and a price to agree first",
+      "phase": 1,
+      "path": "scenarios/sc44.json"
+    },
+    {
+      "id": "sc45",
+      "title": "El interlocal a Masaya",
+      "desc": "Leaving Managua for the first time",
+      "phase": 1,
+      "path": "scenarios/sc45.json"
+    },
+    {
+      "id": "sc103",
+      "title": "El almuerzo del comedor",
+      "desc": "Midday, a counter, and no menu anywhere",
+      "phase": 1,
+      "path": "scenarios/sc103.json"
+    },
+    {
+      "id": "sc46",
+      "title": "En la ferretería",
+      "desc": "Buying a thing whose name you do not know",
+      "phase": 1,
+      "path": "scenarios/sc46.json"
+    },
+    {
+      "id": "sc104",
+      "title": "Una recarga",
+      "desc": "Phone credit, bought across a counter, said out loud",
+      "phase": 1,
+      "path": "scenarios/sc104.json"
+    },
+    {
+      "id": "sc102",
+      "title": "Un mandado",
+      "desc": "Being sent for tortillas, which means you are trusted",
+      "phase": 1,
+      "path": "scenarios/sc102.json"
+    },
+    {
+      "id": "sc47",
+      "title": "Los mangos",
+      "desc": "Fruit falls on the roof for a month",
+      "phase": 1,
+      "path": "scenarios/sc47.json"
+    },
+    {
+      "id": "sc105",
+      "title": "Pinolillo",
+      "desc": "Drink it and you belong to them now",
+      "phase": 1,
+      "path": "scenarios/sc105.json"
+    },
+    {
+      "id": "sc106",
+      "title": "Me caés bien",
+      "desc": "One verb between a friendship and a declaration",
+      "phase": 2,
+      "path": "scenarios/sc106.json"
+    },
+    {
+      "id": "sc48",
+      "title": "Pase adelante",
+      "desc": "Being invited in and not being able to refuse",
+      "phase": 2,
+      "path": "scenarios/sc48.json"
+    },
+    {
+      "id": "sc49",
+      "title": "Ahorita",
+      "desc": "One word, four meanings, and a whole afternoon",
+      "phase": 2,
+      "path": "scenarios/sc49.json"
+    },
+    {
+      "id": "sc107",
+      "title": "Que cumplás muchos más",
+      "desc": "A birthday in the patio, and a piece of cake you did not expect",
+      "phase": 2,
+      "path": "scenarios/sc107.json"
+    },
+    {
+      "id": "sc108",
+      "title": "Primero Dios",
+      "desc": "Every plan anybody makes has a condition attached to it",
+      "phase": 2,
+      "path": "scenarios/sc108.json"
+    },
+    {
+      "id": "sc51",
+      "title": "El mes de la patria",
+      "desc": "September, and the flags go up on everything",
+      "phase": 2,
+      "path": "scenarios/sc51.json"
+    },
+    {
+      "id": "sc52",
+      "title": "El día de la madre",
+      "desc": "May 30, and it is not negotiable",
+      "phase": 2,
+      "path": "scenarios/sc52.json"
+    },
+    {
+      "id": "sc50",
+      "title": "La Gritería",
+      "desc": "December 7, and the shouting arrives at your door",
+      "phase": 2,
+      "path": "scenarios/sc50.json"
+    },
+    {
+      "id": "sc109",
+      "title": "Yo invito",
+      "desc": "Reaching for your share and getting it badly wrong",
+      "phase": 2,
+      "path": "scenarios/sc109.json"
+    },
+    {
+      "id": "sc53",
+      "title": "No seás malo",
+      "desc": "The first time you are teased, and the first time you answer",
+      "phase": 2,
+      "path": "scenarios/sc53.json"
+    },
+    {
+      "id": "sc110",
+      "title": "Extraño mi casa",
+      "desc": "Admitting it out loud, and getting an answer you did not expect",
+      "phase": 2,
+      "path": "scenarios/sc110.json"
+    },
+    {
+      "id": "sc112",
+      "title": "El alquiler",
+      "desc": "A house, a price, and a handshake instead of a contract",
+      "phase": 3,
+      "path": "scenarios/sc112.json"
+    },
+    {
+      "id": "sc54",
+      "title": "El recibo está malo",
+      "desc": "A bill that is wrong, and the man who cannot fix it",
+      "phase": 3,
+      "path": "scenarios/sc54.json"
+    },
+    {
+      "id": "sc55",
+      "title": "Otra vez mañana",
+      "desc": "Being told to come back, and coming back",
+      "phase": 3,
+      "path": "scenarios/sc55.json"
+    },
+    {
+      "id": "sc111",
+      "title": "Acordamos ochenta",
+      "desc": "The price doubles at the end of the journey",
+      "phase": 3,
+      "path": "scenarios/sc111.json"
+    },
+    {
+      "id": "sc56",
+      "title": "Me prestás",
+      "desc": "Somebody asks you for money",
+      "phase": 3,
+      "path": "scenarios/sc56.json"
+    },
+    {
+      "id": "sc57",
+      "title": "Con el mecánico",
+      "desc": "Something is broken and you cannot name it",
+      "phase": 3,
+      "path": "scenarios/sc57.json"
+    },
+    {
+      "id": "sc113",
+      "title": "No lo perdiste",
+      "desc": "A phone gone, and a grammar that puts the blame nowhere",
+      "phase": 3,
+      "path": "scenarios/sc113.json"
+    },
+    {
+      "id": "sc114",
+      "title": "Arrecho",
+      "desc": "One word, two opposite meanings, and only the tone to go on",
+      "phase": 3,
+      "path": "scenarios/sc114.json"
+    },
+    {
+      "id": "sc58",
+      "title": "Fijate que no",
+      "desc": "Saying no without ever saying it",
+      "phase": 3,
+      "path": "scenarios/sc58.json"
+    },
+    {
+      "id": "sc59",
+      "title": "Perdón",
+      "desc": "Apologising so that it lands",
+      "phase": 3,
+      "path": "scenarios/sc59.json"
+    },
+    {
+      "id": "sc115",
+      "title": "Con las manos vacías",
+      "desc": "A year of doing something wrong, and the day somebody finally says so",
+      "phase": 3,
+      "path": "scenarios/sc115.json"
+    },
+    {
+      "id": "sc60",
+      "title": "Una seña",
+      "desc": "Reading a signal you are not sure is one",
+      "phase": 4,
+      "path": "scenarios/sc60.json"
+    },
+    {
+      "id": "sc116",
+      "title": "Te quiero",
+      "desc": "Two words for one thing, and the bigger one said first",
+      "phase": 4,
+      "path": "scenarios/sc116.json"
+    },
+    {
+      "id": "sc117",
+      "title": "Gordo",
+      "desc": "Affection that arrives sounding like an insult",
+      "phase": 4,
+      "path": "scenarios/sc117.json"
+    },
+    {
+      "id": "sc61",
+      "title": "Conocé a mi mamá",
+      "desc": "Meeting doña Elena for the first time",
+      "phase": 4,
+      "path": "scenarios/sc61.json"
+    },
+    {
+      "id": "sc62",
+      "title": "Los cuñados",
+      "desc": "Her brothers, and the test that is not called one",
+      "phase": 4,
+      "path": "scenarios/sc62.json"
+    },
+    {
+      "id": "sc63",
+      "title": "Estoy celoso",
+      "desc": "Jealousy, out loud, before it goes bad",
+      "phase": 4,
+      "path": "scenarios/sc63.json"
+    },
+    {
+      "id": "sc64",
+      "title": "La plata",
+      "desc": "An argument about money that is not about money",
+      "phase": 4,
+      "path": "scenarios/sc64.json"
+    },
+    {
+      "id": "sc65",
+      "title": "Tu familia o la mía",
+      "desc": "Whose house you go to, and what it stands for",
+      "phase": 4,
+      "path": "scenarios/sc65.json"
+    },
+    {
+      "id": "sc66",
+      "title": "Pedir la mano",
+      "desc": "Asking her family, in a room with everybody in it",
+      "phase": 4,
+      "path": "scenarios/sc66.json"
+    },
+    {
+      "id": "sc67",
+      "title": "La boda",
+      "desc": "Your own wedding, and forty people with opinions",
+      "phase": 4,
+      "path": "scenarios/sc67.json"
+    },
+    {
+      "id": "sc119",
+      "title": "La serenata",
+      "desc": "Midnight on the twenty-ninth of May, three musicians, and a woman pretending to be surprised",
+      "phase": 4,
+      "path": "scenarios/sc119.json"
+    },
+    {
+      "id": "sc118",
+      "title": "La casa poco a poco",
+      "desc": "A Sunday, a bag of cement, and nobody charging anybody",
+      "phase": 4,
+      "path": "scenarios/sc118.json"
+    },
+    {
+      "id": "sc71",
+      "title": "El bautizo",
+      "desc": "Being asked to be a godparent",
+      "phase": 4,
+      "path": "scenarios/sc71.json"
+    },
+    {
+      "id": "sc73",
+      "title": "Le tocaba a alguien",
+      "desc": "The suegra asks you, and not her own sons",
+      "phase": 4,
+      "path": "scenarios/sc73.json"
+    },
+    {
+      "id": "sc120",
+      "title": "¿Cómo sigue?",
+      "desc": "Nobody in the house will say the word out loud",
+      "phase": 4,
+      "path": "scenarios/sc120.json"
+    },
+    {
+      "id": "sc70",
+      "title": "Se puso malo",
+      "desc": "A hospital corridor at eleven at night",
+      "phase": 4,
+      "path": "scenarios/sc70.json"
+    },
+    {
+      "id": "sc68",
+      "title": "El novenario",
+      "desc": "Nine nights in somebody else’s house",
+      "phase": 4,
+      "path": "scenarios/sc68.json"
+    },
+    {
+      "id": "sc69",
+      "title": "Los difuntos",
+      "desc": "November 2, and a grave that is not yours",
+      "phase": 4,
+      "path": "scenarios/sc69.json"
+    },
+    {
+      "id": "sc72",
+      "title": "Te lo agradezco",
+      "desc": "Thanking somebody so that it counts",
+      "phase": 4,
+      "path": "scenarios/sc72.json"
+    },
+    {
+      "id": "sc74",
+      "title": "Qué tuani",
+      "desc": "A word you learned from a teenager, said to a grandmother",
+      "phase": 5,
+      "path": "scenarios/sc74.json"
+    },
+    {
+      "id": "sc121",
+      "title": "Semana Santa",
+      "desc": "Six days when the whole country stops and nobody warned you",
+      "phase": 5,
+      "path": "scenarios/sc121.json"
+    },
+    {
+      "id": "sc75",
+      "title": "El tope",
+      "desc": "August 1, and the whole city moves at once",
+      "phase": 5,
+      "path": "scenarios/sc75.json"
+    },
+    {
+      "id": "sc76",
+      "title": "El enano en tu puerta",
+      "desc": "A giant woman, a big-headed boy and forty verses",
+      "phase": 5,
+      "path": "scenarios/sc76.json"
+    },
+    {
+      "id": "sc77",
+      "title": "Delroy",
+      "desc": "Half the country you had not accounted for",
+      "phase": 5,
+      "path": "scenarios/sc77.json"
+    },
+    {
+      "id": "sc78",
+      "title": "El año viejo",
+      "desc": "Burning the year on the pavement at midnight",
+      "phase": 5,
+      "path": "scenarios/sc78.json"
+    },
+    {
+      "id": "sc79",
+      "title": "Padrino de las sillas",
+      "desc": "Being asked to pay for part of somebody’s quince",
+      "phase": 5,
+      "path": "scenarios/sc79.json"
+    },
+    {
+      "id": "sc122",
+      "title": "La masa del sábado",
+      "desc": "Saturday night, fifty nacatamales, and an arm that stops working",
+      "phase": 5,
+      "path": "scenarios/sc122.json"
+    },
+    {
+      "id": "sc123",
+      "title": "A las doce en punto",
+      "desc": "Arriving on time, and being put to work for two hours",
+      "phase": 5,
+      "path": "scenarios/sc123.json"
+    },
+    {
+      "id": "sc80",
+      "title": "Una birra",
+      "desc": "One beer, and the door that opens after eleven",
+      "phase": 5,
+      "path": "scenarios/sc80.json"
+    },
+    {
+      "id": "sc125",
+      "title": "Se me pasó la mano",
+      "desc": "One step past funny, in a patio that has gone quiet",
+      "phase": 5,
+      "path": "scenarios/sc125.json"
+    },
+    {
+      "id": "sc81",
+      "title": "El chisme vuelve",
+      "desc": "Something you said in confidence comes back improved",
+      "phase": 5,
+      "path": "scenarios/sc81.json"
+    },
+    {
+      "id": "sc124",
+      "title": "No me hallo",
+      "desc": "A word for something you have been feeling for a year",
+      "phase": 5,
+      "path": "scenarios/sc124.json"
+    },
+    {
+      "id": "sc82",
+      "title": "Andate ya",
+      "desc": "Leaving a house, which takes forty minutes",
+      "phase": 5,
+      "path": "scenarios/sc82.json"
+    },
+    {
+      "id": "sc83",
+      "title": "Depende",
+      "desc": "A yes-or-no question, and twenty minutes",
+      "phase": 6,
+      "path": "scenarios/sc83.json"
+    },
+    {
+      "id": "sc84",
+      "title": "Tal vez después",
+      "desc": "A no you were given in March",
+      "phase": 6,
+      "path": "scenarios/sc84.json"
+    },
+    {
+      "id": "sc85",
+      "title": "Con todo respeto",
+      "desc": "Correcting a man of sixty-eight",
+      "phase": 6,
+      "path": "scenarios/sc85.json"
+    },
+    {
+      "id": "sc86",
+      "title": "Es que fíjese",
+      "desc": "A job that is not ready, and the man who talks first",
+      "phase": 6,
+      "path": "scenarios/sc86.json"
+    },
+    {
+      "id": "sc127",
+      "title": "Del norte",
+      "desc": "A country you thought had one accent",
+      "phase": 6,
+      "path": "scenarios/sc127.json"
+    },
+    {
+      "id": "sc128",
+      "title": "Los dos apellidos",
+      "desc": "A window, a form, and a surname you have not got",
+      "phase": 6,
+      "path": "scenarios/sc128.json"
+    },
+    {
+      "id": "sc129",
+      "title": "El del billete",
+      "desc": "Four years of paying with his face and never once looking",
+      "phase": 6,
+      "path": "scenarios/sc129.json"
+    },
+    {
+      "id": "sc87",
+      "title": "De eso mejor no",
+      "desc": "A subject that closes without anybody refusing",
+      "phase": 6,
+      "path": "scenarios/sc87.json"
+    },
+    {
+      "id": "sc126",
+      "title": "El setenta y nueve",
+      "desc": "An old man tells you where he was, and stops before the end",
+      "phase": 6,
+      "path": "scenarios/sc126.json"
+    },
+    {
+      "id": "sc130",
+      "title": "Uno nunca sabe",
+      "desc": "Saying I without saying I",
+      "phase": 6,
+      "path": "scenarios/sc130.json"
+    },
+    {
+      "id": "sc88",
+      "title": "La indirecta",
+      "desc": "A leaking roof, mentioned like the weather",
+      "phase": 6,
+      "path": "scenarios/sc88.json"
+    },
+    {
+      "id": "sc89",
+      "title": "Ni modo",
+      "desc": "The drain is still blocked and the water is in the house",
+      "phase": 6,
+      "path": "scenarios/sc89.json"
+    },
+    {
+      "id": "sc90",
+      "title": "El chiste que no explicaron",
+      "desc": "Laughing in real time, or not at all",
+      "phase": 7,
+      "path": "scenarios/sc90.json"
+    },
+    {
+      "id": "sc91",
+      "title": "Como decía mi abuela",
+      "desc": "Quoting the dead to end an argument",
+      "phase": 7,
+      "path": "scenarios/sc91.json"
+    },
+    {
+      "id": "sc92",
+      "title": "Ya en serio",
+      "desc": "The tone changes and you have to change with it",
+      "phase": 7,
+      "path": "scenarios/sc92.json"
+    },
+    {
+      "id": "sc93",
+      "title": "Béisbol o fútbol",
+      "desc": "An argument nobody wants to win",
+      "phase": 7,
+      "path": "scenarios/sc93.json"
+    },
+    {
+      "id": "sc131",
+      "title": "La bulla",
+      "desc": "A speaker on the pavement at one in the morning",
+      "phase": 7,
+      "path": "scenarios/sc131.json"
+    },
+    {
+      "id": "sc134",
+      "title": "¿Y usted de dónde es?",
+      "desc": "The same question as always, answered in a different order",
+      "phase": 7,
+      "path": "scenarios/sc134.json"
+    },
+    {
+      "id": "sc132",
+      "title": "Ideay, y vos qué",
+      "desc": "Five years before anybody asks you what you actually think",
+      "phase": 7,
+      "path": "scenarios/sc132.json"
+    },
+    {
+      "id": "sc133",
+      "title": "Confianza",
+      "desc": "Explaining a word to somebody who arrived last week",
+      "phase": 7,
+      "path": "scenarios/sc133.json"
+    },
+    {
+      "id": "sc94",
+      "title": "Otro chele",
+      "desc": "Somebody arrives with the notebook you used to have",
+      "phase": 7,
+      "path": "scenarios/sc94.json"
+    },
+    {
+      "id": "sc95",
+      "title": "Nadie preguntó",
+      "desc": "Ten minutes at a bus stop",
+      "phase": 7,
+      "path": "scenarios/sc95.json"
+    },
+    {
+      "id": "sc135",
+      "title": "Ya sos nica",
+      "desc": "An ordinary Saturday, and somebody says it out loud",
+      "phase": 7,
+      "path": "scenarios/sc135.json"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "p0-01",
+      "title": "El calor",
+      "desc": "You land, and the heat decides everything",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-01.json"
+    },
+    {
+      "id": "p0-02",
+      "title": "Buenas",
+      "desc": "One word does the work of ten",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-02.json"
+    },
+    {
+      "id": "p0-03",
+      "title": "Córdobas",
+      "desc": "Money that is not yours yet",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-03.json"
+    },
+    {
+      "id": "p0-04",
+      "title": "Gallo pinto",
+      "desc": "Breakfast, and there is no other option",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-04.json"
+    },
+    {
+      "id": "p0-05",
+      "title": "El cuarto",
+      "desc": "A room with a fan and no hot water",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-05.json"
+    },
+    {
+      "id": "p0-06",
+      "title": "Se fue la luz",
+      "desc": "The power goes and nobody reacts",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-06.json"
+    },
+    {
+      "id": "p0-07",
+      "title": "El agua",
+      "desc": "Water has a schedule",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-07.json"
+    },
+    {
+      "id": "p0-08",
+      "title": "Vos",
+      "desc": "Nobody says tu here",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-08.json"
+    },
+    {
+      "id": "p0-09",
+      "title": "La pulpería",
+      "desc": "The shop is somebody's front window",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-09.json"
+    },
+    {
+      "id": "p0-10",
+      "title": "Chele",
+      "desc": "They have a name for you already",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-10.json"
+    },
+    {
+      "id": "p0-11",
+      "title": "La fritanga",
+      "desc": "Dinner comes off a grill on the sidewalk",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-11.json"
+    },
+    {
+      "id": "p0-12",
+      "title": "Tengo hambre",
+      "desc": "Saying what your body needs",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-12.json"
+    },
+    {
+      "id": "p0-13",
+      "title": "Los vecinos",
+      "desc": "You have neighbours whether you want them or not",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-13.json"
+    },
+    {
+      "id": "p0-14",
+      "title": "El bus",
+      "desc": "Getting on is the hard part",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-14.json"
+    },
+    {
+      "id": "p0-15",
+      "title": "Ideay",
+      "desc": "Small words that carry a lot",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-15.json"
+    },
+    {
+      "id": "p0-16",
+      "title": "La primera semana",
+      "desc": "Looking back at seven days",
+      "phase": 0,
+      "diff": 1,
+      "path": "lessons/p0-16.json"
+    },
+    {
+      "id": "p1-01",
+      "title": "Dos cuadras al lago",
+      "desc": "Directions with no street names",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-01.json"
+    },
+    {
+      "id": "p1-02",
+      "title": "Donde fue el árbol",
+      "desc": "Places that no longer exist are still directions",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-02.json"
+    },
+    {
+      "id": "p1-03",
+      "title": "Regateando",
+      "desc": "Arguing about price without being rude",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-03.json"
+    },
+    {
+      "id": "p1-04",
+      "title": "El interlocal",
+      "desc": "Leaving Managua for the first time",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-04.json"
+    },
+    {
+      "id": "p1-05",
+      "title": "El mototaxi",
+      "desc": "Three wheels and no doors",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-05.json"
+    },
+    {
+      "id": "p1-06",
+      "title": "Un chip Claro",
+      "desc": "Getting a phone that works",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-06.json"
+    },
+    {
+      "id": "p1-07",
+      "title": "El mercado Oriental",
+      "desc": "The biggest market in Central America",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-07.json"
+    },
+    {
+      "id": "p1-08",
+      "title": "Vigorón",
+      "desc": "Granada on a banana leaf",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-08.json"
+    },
+    {
+      "id": "p1-09",
+      "title": "León y Granada",
+      "desc": "Two cities that do not like each other",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-09.json"
+    },
+    {
+      "id": "p1-10",
+      "title": "El lago Cocibolca",
+      "desc": "A freshwater sea",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-10.json"
+    },
+    {
+      "id": "p1-11",
+      "title": "La época seca",
+      "desc": "Two seasons, and this is the hard one",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-11.json"
+    },
+    {
+      "id": "p1-12",
+      "title": "En la ferretería",
+      "desc": "Buying things by describing them",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-12.json"
+    },
+    {
+      "id": "p1-13",
+      "title": "Los mangos",
+      "desc": "Fruit falls on the roof for a month",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-13.json"
+    },
+    {
+      "id": "p1-14",
+      "title": "El almuerzo",
+      "desc": "Lunch is the real meal",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-14.json"
+    },
+    {
+      "id": "p1-15",
+      "title": "Un mandado",
+      "desc": "Being sent to do errands",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-15.json"
+    },
+    {
+      "id": "p1-16",
+      "title": "El domingo",
+      "desc": "The week has a shape",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-16.json"
+    },
+    {
+      "id": "p1-17",
+      "title": "Pinolillo",
+      "desc": "The drink the country is named after",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-17.json"
+    },
+    {
+      "id": "p1-18",
+      "title": "Ya sé llegar",
+      "desc": "You can get anywhere now",
+      "phase": 1,
+      "diff": 2,
+      "path": "lessons/p1-18.json"
+    },
+    {
+      "id": "p2-01",
+      "title": "Cómo te llamás de verdad",
+      "desc": "Names, and all the ones you get given",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-01.json"
+    },
+    {
+      "id": "p2-02",
+      "title": "La familia de Roberto",
+      "desc": "Everyone is somebody's cousin",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-02.json"
+    },
+    {
+      "id": "p2-03",
+      "title": "Pase adelante",
+      "desc": "Being invited in, and not being able to refuse",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-03.json"
+    },
+    {
+      "id": "p2-04",
+      "title": "Me cae bien",
+      "desc": "Liking a person is a different verb",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-04.json"
+    },
+    {
+      "id": "p2-05",
+      "title": "De dónde sos",
+      "desc": "The question everyone asks",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-05.json"
+    },
+    {
+      "id": "p2-06",
+      "title": "Contame",
+      "desc": "Telling somebody what happened",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-06.json"
+    },
+    {
+      "id": "p2-07",
+      "title": "Ahorita",
+      "desc": "A word that means four different things",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-07.json"
+    },
+    {
+      "id": "p2-08",
+      "title": "El cumpleaños",
+      "desc": "A birthday, and you are expected",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-08.json"
+    },
+    {
+      "id": "p2-09",
+      "title": "Chavalos",
+      "desc": "Children are everywhere and they are everyone's",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-09.json"
+    },
+    {
+      "id": "p2-10",
+      "title": "La iglesia",
+      "desc": "Faith is not a private matter here",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-10.json"
+    },
+    {
+      "id": "p2-11",
+      "title": "El béisbol",
+      "desc": "Not football. Baseball.",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-11.json"
+    },
+    {
+      "id": "p2-12",
+      "title": "Un favor",
+      "desc": "Asking for something and owing something",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-12.json"
+    },
+    {
+      "id": "p2-13",
+      "title": "Qué hiciste ayer",
+      "desc": "Yesterday, and the day before",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-13.json"
+    },
+    {
+      "id": "p2-14",
+      "title": "Cuando era chavalo",
+      "desc": "How people talk about the past that was ongoing",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-14.json"
+    },
+    {
+      "id": "p2-15",
+      "title": "La Gritería",
+      "desc": "December 7, and the whole country shouts",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-15.json"
+    },
+    {
+      "id": "p2-16",
+      "title": "El mes de la patria",
+      "desc": "September belongs to the country",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-16.json"
+    },
+    {
+      "id": "p2-17",
+      "title": "Flores amarillas",
+      "desc": "September 21, and you had better not forget",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-17.json"
+    },
+    {
+      "id": "p2-18",
+      "title": "El día de la madre",
+      "desc": "May 30, and it is not negotiable",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-18.json"
+    },
+    {
+      "id": "p2-19",
+      "title": "Vamos a la playa",
+      "desc": "Making a plan with six people",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-19.json"
+    },
+    {
+      "id": "p2-20",
+      "title": "Te presento a",
+      "desc": "Introducing one person to another",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-20.json"
+    },
+    {
+      "id": "p2-21",
+      "title": "No seás malo",
+      "desc": "Teasing, and being teased",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-21.json"
+    },
+    {
+      "id": "p2-22",
+      "title": "Salud",
+      "desc": "A first night out",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-22.json"
+    },
+    {
+      "id": "p2-23",
+      "title": "Estoy enfermo",
+      "desc": "Being ill somewhere you do not know the words",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-23.json"
+    },
+    {
+      "id": "p2-24",
+      "title": "Mi amigo",
+      "desc": "When somebody stops being an acquaintance",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-24.json"
+    },
+    {
+      "id": "p2-25",
+      "title": "Extraño mi casa",
+      "desc": "Missing a place you chose to leave",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-25.json"
+    },
+    {
+      "id": "p2-26",
+      "title": "Ya sos de aquí",
+      "desc": "The first time somebody says you belong",
+      "phase": 2,
+      "diff": 2,
+      "path": "lessons/p2-26.json"
+    },
+    {
+      "id": "p3-01",
+      "title": "Alquilando una casa",
+      "desc": "Your own place, and a contract you half understand",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-01.json"
+    },
+    {
+      "id": "p3-02",
+      "title": "El recibo",
+      "desc": "A bill that is wrong",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-02.json"
+    },
+    {
+      "id": "p3-03",
+      "title": "Un trámite",
+      "desc": "Paperwork, and the whole day gone",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-03.json"
+    },
+    {
+      "id": "p3-04",
+      "title": "Otra vez mañana",
+      "desc": "Being told to come back",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-04.json"
+    },
+    {
+      "id": "p3-05",
+      "title": "Me cobraron de más",
+      "desc": "Being overcharged, and saying so",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-05.json"
+    },
+    {
+      "id": "p3-06",
+      "title": "No estoy de acuerdo",
+      "desc": "Disagreeing without wrecking the room",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-06.json"
+    },
+    {
+      "id": "p3-07",
+      "title": "Fijate que no",
+      "desc": "Saying no without saying no",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-07.json"
+    },
+    {
+      "id": "p3-08",
+      "title": "Un trabajo",
+      "desc": "Work, and what is expected of you",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-08.json"
+    },
+    {
+      "id": "p3-09",
+      "title": "La quincena",
+      "desc": "Money arrives twice a month and leaves faster",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-09.json"
+    },
+    {
+      "id": "p3-10",
+      "title": "Me prestás",
+      "desc": "Being asked for money",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-10.json"
+    },
+    {
+      "id": "p3-11",
+      "title": "El mecánico",
+      "desc": "Something is broken and you cannot name it",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-11.json"
+    },
+    {
+      "id": "p3-12",
+      "title": "Tuve un problema",
+      "desc": "Explaining what went wrong",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-12.json"
+    },
+    {
+      "id": "p3-13",
+      "title": "Cuidado",
+      "desc": "Safety, and how people talk about it",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-13.json"
+    },
+    {
+      "id": "p3-14",
+      "title": "Me robaron",
+      "desc": "Something taken",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-14.json"
+    },
+    {
+      "id": "p3-15",
+      "title": "En el hospital",
+      "desc": "Serious this time",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-15.json"
+    },
+    {
+      "id": "p3-16",
+      "title": "Qué harías vos",
+      "desc": "Asking for advice",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-16.json"
+    },
+    {
+      "id": "p3-17",
+      "title": "Es que no me entendiste",
+      "desc": "A misunderstanding that becomes an argument",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-17.json"
+    },
+    {
+      "id": "p3-18",
+      "title": "Estoy arrecho",
+      "desc": "Being angry out loud",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-18.json"
+    },
+    {
+      "id": "p3-19",
+      "title": "Perdón",
+      "desc": "Apologising properly",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-19.json"
+    },
+    {
+      "id": "p3-20",
+      "title": "Hablemos",
+      "desc": "Choosing to have the conversation",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-20.json"
+    },
+    {
+      "id": "p3-21",
+      "title": "Prometiste",
+      "desc": "A promise not kept",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-21.json"
+    },
+    {
+      "id": "p3-22",
+      "title": "No es tan fácil",
+      "desc": "Somebody explains their situation",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-22.json"
+    },
+    {
+      "id": "p3-23",
+      "title": "Las remesas",
+      "desc": "Money that crosses a border every month",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-23.json"
+    },
+    {
+      "id": "p3-24",
+      "title": "Se fue para el sur",
+      "desc": "Somebody leaves",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-24.json"
+    },
+    {
+      "id": "p3-25",
+      "title": "Aquí se hace así",
+      "desc": "Being corrected on how things are done",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-25.json"
+    },
+    {
+      "id": "p3-26",
+      "title": "Ya me defiendo",
+      "desc": "You can handle yourself now",
+      "phase": 3,
+      "diff": 3,
+      "path": "lessons/p3-26.json"
+    },
+    {
+      "id": "p4-01",
+      "title": "La conocí",
+      "desc": "Meeting somebody who matters",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-01.json"
+    },
+    {
+      "id": "p4-02",
+      "title": "Me gusta ella",
+      "desc": "Saying you like somebody, and getting it right",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-02.json"
+    },
+    {
+      "id": "p4-03",
+      "title": "Una seña",
+      "desc": "Reading the signals",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-03.json"
+    },
+    {
+      "id": "p4-04",
+      "title": "Salimos",
+      "desc": "A first evening alone",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-04.json"
+    },
+    {
+      "id": "p4-05",
+      "title": "Mi amor",
+      "desc": "The words people actually use",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-05.json"
+    },
+    {
+      "id": "p4-06",
+      "title": "Chinearme",
+      "desc": "Tenderness has its own grammar",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-06.json"
+    },
+    {
+      "id": "p4-07",
+      "title": "Te quiero",
+      "desc": "Querer and amar are not the same size",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-07.json"
+    },
+    {
+      "id": "p4-08",
+      "title": "Conocé a mi mamá",
+      "desc": "Meeting her mother",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-08.json"
+    },
+    {
+      "id": "p4-09",
+      "title": "La suegra",
+      "desc": "The most important relationship you have now",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-09.json"
+    },
+    {
+      "id": "p4-10",
+      "title": "Los cuñados",
+      "desc": "Her brothers, and the test",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-10.json"
+    },
+    {
+      "id": "p4-11",
+      "title": "Qué son tus intenciones",
+      "desc": "Being asked directly",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-11.json"
+    },
+    {
+      "id": "p4-12",
+      "title": "El día de la madre",
+      "desc": "May 30, from the inside",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-12.json"
+    },
+    {
+      "id": "p4-13",
+      "title": "Estoy celoso",
+      "desc": "Jealousy, said out loud",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-13.json"
+    },
+    {
+      "id": "p4-14",
+      "title": "No es lo que pensás",
+      "desc": "A misunderstanding between two people",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-14.json"
+    },
+    {
+      "id": "p4-15",
+      "title": "La plata",
+      "desc": "An argument about money",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-15.json"
+    },
+    {
+      "id": "p4-16",
+      "title": "Tu familia o la mía",
+      "desc": "An argument about family",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-16.json"
+    },
+    {
+      "id": "p4-17",
+      "title": "Perdoname",
+      "desc": "Repairing it",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-17.json"
+    },
+    {
+      "id": "p4-18",
+      "title": "Hablemos de nosotros",
+      "desc": "The conversation about what this is",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-18.json"
+    },
+    {
+      "id": "p4-19",
+      "title": "Se acabó",
+      "desc": "It ends",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-19.json"
+    },
+    {
+      "id": "p4-20",
+      "title": "Me duele",
+      "desc": "Heartbreak",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-20.json"
+    },
+    {
+      "id": "p4-21",
+      "title": "Volvimos",
+      "desc": "Or it does not end",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-21.json"
+    },
+    {
+      "id": "p4-22",
+      "title": "Pedir la mano",
+      "desc": "Asking her family",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-22.json"
+    },
+    {
+      "id": "p4-23",
+      "title": "La boda",
+      "desc": "A wedding",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-23.json"
+    },
+    {
+      "id": "p4-24",
+      "title": "Ahora somos familia",
+      "desc": "What changes after",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-24.json"
+    },
+    {
+      "id": "p4-25",
+      "title": "La casa poco a poco",
+      "desc": "Building something slowly",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-25.json"
+    },
+    {
+      "id": "p4-26",
+      "title": "El bautizo",
+      "desc": "You are asked to be a godparent",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-26.json"
+    },
+    {
+      "id": "p4-27",
+      "title": "Un chavalito",
+      "desc": "A baby in the family",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-27.json"
+    },
+    {
+      "id": "p4-28",
+      "title": "Se puso malo",
+      "desc": "Somebody is seriously ill",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-28.json"
+    },
+    {
+      "id": "p4-29",
+      "title": "El novenario",
+      "desc": "Nine nights",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-29.json"
+    },
+    {
+      "id": "p4-30",
+      "title": "Los difuntos",
+      "desc": "November 2, at the cemetery",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-30.json"
+    },
+    {
+      "id": "p4-31",
+      "title": "Cómo era él",
+      "desc": "Talking about somebody who is gone",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-31.json"
+    },
+    {
+      "id": "p4-32",
+      "title": "Te lo agradezco",
+      "desc": "Gratitude that means something",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-32.json"
+    },
+    {
+      "id": "p4-33",
+      "title": "Mi mujer",
+      "desc": "How you refer to her now",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-33.json"
+    },
+    {
+      "id": "p4-34",
+      "title": "Los domingos ahora",
+      "desc": "What a week looks like now",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-34.json"
+    },
+    {
+      "id": "p4-35",
+      "title": "Ya sos parte",
+      "desc": "Belonging to a family, not a country",
+      "phase": 4,
+      "diff": 4,
+      "path": "lessons/p4-35.json"
+    },
+    {
+      "id": "p5-01",
+      "title": "Qué tuani",
+      "desc": "Slang that dates you if you get it wrong",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-01.json"
+    },
+    {
+      "id": "p5-02",
+      "title": "Hablan rapidísimo",
+      "desc": "Fast speech, and what disappears in it",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-02.json"
+    },
+    {
+      "id": "p5-03",
+      "title": "El doble sentido",
+      "desc": "Nothing means only one thing",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-03.json"
+    },
+    {
+      "id": "p5-04",
+      "title": "Vacilando",
+      "desc": "Mockery as affection, at speed",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-04.json"
+    },
+    {
+      "id": "p5-05",
+      "title": "Semana Santa",
+      "desc": "The whole country goes to the beach",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-05.json"
+    },
+    {
+      "id": "p5-06",
+      "title": "Santo Domingo",
+      "desc": "Managua’s own saint",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-06.json"
+    },
+    {
+      "id": "p5-07",
+      "title": "La Gigantona",
+      "desc": "A giant woman and a big-headed dwarf",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-07.json"
+    },
+    {
+      "id": "p5-08",
+      "title": "Palo de Mayo",
+      "desc": "The other Nicaragua",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-08.json"
+    },
+    {
+      "id": "p5-09",
+      "title": "El año viejo",
+      "desc": "Burning the year",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-09.json"
+    },
+    {
+      "id": "p5-10",
+      "title": "La purísima otra vez",
+      "desc": "December 7, but you know it now",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-10.json"
+    },
+    {
+      "id": "p5-11",
+      "title": "Los quince",
+      "desc": "A fifteenth birthday",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-11.json"
+    },
+    {
+      "id": "p5-12",
+      "title": "El refrán",
+      "desc": "Sayings, and why they end arguments",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-12.json"
+    },
+    {
+      "id": "p5-13",
+      "title": "Puro cuento",
+      "desc": "Exaggeration as an art form",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-13.json"
+    },
+    {
+      "id": "p5-14",
+      "title": "Ideay pues",
+      "desc": "The words that hold a conversation together",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-14.json"
+    },
+    {
+      "id": "p5-15",
+      "title": "La cerveza está helada",
+      "desc": "An evening that goes long",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-15.json"
+    },
+    {
+      "id": "p5-16",
+      "title": "El chisme",
+      "desc": "Gossip, and how it moves",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-16.json"
+    },
+    {
+      "id": "p5-17",
+      "title": "No me hallo",
+      "desc": "Feeling out of place, in their words",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-17.json"
+    },
+    {
+      "id": "p5-18",
+      "title": "Un baile",
+      "desc": "Dancing, and not being able to",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-18.json"
+    },
+    {
+      "id": "p5-19",
+      "title": "La comida de la abuela",
+      "desc": "Food that only exists in houses",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-19.json"
+    },
+    {
+      "id": "p5-20",
+      "title": "El nacatamal del domingo",
+      "desc": "Sunday morning, and the whole street smells the same",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-20.json"
+    },
+    {
+      "id": "p5-21",
+      "title": "Bromas pesadas",
+      "desc": "A joke that goes too far",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-21.json"
+    },
+    {
+      "id": "p5-22",
+      "title": "Ese es mi barrio",
+      "desc": "Where you live means something",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-22.json"
+    },
+    {
+      "id": "p5-23",
+      "title": "Hora nica",
+      "desc": "Time is a suggestion and everyone knows it",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-23.json"
+    },
+    {
+      "id": "p5-24",
+      "title": "Andate ya",
+      "desc": "Leaving without being rude",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-24.json"
+    },
+    {
+      "id": "p5-25",
+      "title": "Me hablan normal",
+      "desc": "They stop slowing down for you",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-25.json"
+    },
+    {
+      "id": "p5-26",
+      "title": "Sos nica adoptivo",
+      "desc": "Being claimed",
+      "phase": 5,
+      "diff": 5,
+      "path": "lessons/p5-26.json"
+    },
+    {
+      "id": "p6-01",
+      "title": "Depende",
+      "desc": "The answer that is not an answer",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-01.json"
+    },
+    {
+      "id": "p6-02",
+      "title": "Tal vez después",
+      "desc": "Refusing something you were never going to do",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-02.json"
+    },
+    {
+      "id": "p6-03",
+      "title": "Con todo respeto",
+      "desc": "Disagreeing with somebody above you",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-03.json"
+    },
+    {
+      "id": "p6-04",
+      "title": "Es que fíjese",
+      "desc": "The excuse as a social form",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-04.json"
+    },
+    {
+      "id": "p6-05",
+      "title": "No hallaba cómo decirle",
+      "desc": "Saying a hard thing gently",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-05.json"
+    },
+    {
+      "id": "p6-06",
+      "title": "Del norte",
+      "desc": "Nicaragua is not one accent",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-06.json"
+    },
+    {
+      "id": "p6-07",
+      "title": "La costa",
+      "desc": "The Caribbean side is another country",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-07.json"
+    },
+    {
+      "id": "p6-08",
+      "title": "Los apellidos",
+      "desc": "Names carry history",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-08.json"
+    },
+    {
+      "id": "p6-09",
+      "title": "La plata y el color",
+      "desc": "Things that are noticed and not said",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-09.json"
+    },
+    {
+      "id": "p6-10",
+      "title": "Uno nunca sabe",
+      "desc": "Impersonal uno, and hiding behind it",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-10.json"
+    },
+    {
+      "id": "p6-11",
+      "title": "De eso mejor no",
+      "desc": "Subjects that get closed",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-11.json"
+    },
+    {
+      "id": "p6-12",
+      "title": "El 79",
+      "desc": "History everyone carries",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-12.json"
+    },
+    {
+      "id": "p6-13",
+      "title": "Los que se fueron",
+      "desc": "A country with a diaspora",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-13.json"
+    },
+    {
+      "id": "p6-14",
+      "title": "Rubén Darío",
+      "desc": "The poet is on the money",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-14.json"
+    },
+    {
+      "id": "p6-15",
+      "title": "Qué va a querer",
+      "desc": "Politeness in a shop, at full speed",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-15.json"
+    },
+    {
+      "id": "p6-16",
+      "title": "Sabe qué",
+      "desc": "Getting somebody’s attention properly",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-16.json"
+    },
+    {
+      "id": "p6-17",
+      "title": "Como quien no quiere",
+      "desc": "Saying something sideways",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-17.json"
+    },
+    {
+      "id": "p6-18",
+      "title": "Ni modo",
+      "desc": "Accepting what cannot be changed",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-18.json"
+    },
+    {
+      "id": "p6-19",
+      "title": "Hablando de eso",
+      "desc": "Steering a conversation",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-19.json"
+    },
+    {
+      "id": "p6-20",
+      "title": "Me suena raro",
+      "desc": "Hearing a mistake before you can explain it",
+      "phase": 6,
+      "diff": 6,
+      "path": "lessons/p6-20.json"
+    },
+    {
+      "id": "p7-01",
+      "title": "El chiste que no explicaron",
+      "desc": "Getting a joke in real time",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-01.json"
+    },
+    {
+      "id": "p7-02",
+      "title": "Juego de palabras",
+      "desc": "Wordplay",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-02.json"
+    },
+    {
+      "id": "p7-03",
+      "title": "Como decía mi abuela",
+      "desc": "Quoting the dead as an argument",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-03.json"
+    },
+    {
+      "id": "p7-04",
+      "title": "Hablando en serio",
+      "desc": "Switching from joking to real",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-04.json"
+    },
+    {
+      "id": "p7-05",
+      "title": "Una carta",
+      "desc": "Writing something formal",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-05.json"
+    },
+    {
+      "id": "p7-06",
+      "title": "En la radio",
+      "desc": "Listening to something not aimed at you",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-06.json"
+    },
+    {
+      "id": "p7-07",
+      "title": "Discutiendo de fútbol y béisbol",
+      "desc": "Arguing about nothing, at length",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-07.json"
+    },
+    {
+      "id": "p7-08",
+      "title": "El campo",
+      "desc": "Rural Spanish is older",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-08.json"
+    },
+    {
+      "id": "p7-09",
+      "title": "Palabras que no existen afuera",
+      "desc": "Words with no translation",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-09.json"
+    },
+    {
+      "id": "p7-10",
+      "title": "Lo que no se dice",
+      "desc": "Silence as content",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-10.json"
+    },
+    {
+      "id": "p7-11",
+      "title": "La bulla",
+      "desc": "Noise, and living inside it",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-11.json"
+    },
+    {
+      "id": "p7-12",
+      "title": "Ideay, y vos qué",
+      "desc": "Being asked what you think, and meaning it",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-12.json"
+    },
+    {
+      "id": "p7-13",
+      "title": "Los amigos de siempre",
+      "desc": "Friendship over years",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-13.json"
+    },
+    {
+      "id": "p7-14",
+      "title": "Volviendo de afuera",
+      "desc": "Coming back from somewhere else",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-14.json"
+    },
+    {
+      "id": "p7-15",
+      "title": "Explicándole a otro chele",
+      "desc": "Teaching somebody who just arrived",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-15.json"
+    },
+    {
+      "id": "p7-16",
+      "title": "Mi país y este país",
+      "desc": "Belonging to two places badly",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-16.json"
+    },
+    {
+      "id": "p7-17",
+      "title": "Hablás como de aquí",
+      "desc": "Somebody says it plainly",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-17.json"
+    },
+    {
+      "id": "p7-18",
+      "title": "Ya sos nica",
+      "desc": "The last one",
+      "phase": 7,
+      "diff": 7,
+      "path": "lessons/p7-18.json"
+    }
+  ],
+  "name": "Nicaraguan Spanish",
+  "speech": "es-MX",
+  "features": [
+    "reader",
+    "scenes",
+    "review",
+    "verbs",
+    "order",
+    "words",
+    "patterns",
+    "audio"
+  ],
+  "verbs": "verbs.json",
+  "emergency": "emergency.json",
+  "momo": "momo.json",
+  "mascot": "guardabarranco",
+  "phases": [
+    [
+      "Sobrevivir",
+      "Saludos, números, lo básico"
+    ],
+    [
+      "Moverse",
+      "Mercados, taxis, direcciones, plata"
+    ],
+    [
+      "Conectar",
+      "Conversar, amigos, hablar de vos"
+    ],
+    [
+      "Defenderte",
+      "Opiniones, problemas, planes, desacuerdos"
+    ],
+    [
+      "Del corazón",
+      "Tu pareja, la familia, cariño, pleitos"
+    ],
+    [
+      "Encajar",
+      "Humor, hablar rápido, dichos y jerga en la calle"
+    ],
+    [
+      "Sonar de aquí",
+      "Matices, doble sentido, hablar de ideas"
+    ],
+    [
+      "Como nica",
+      "Juegos de palabras, chistes internos, la cola larga"
+    ]
+  ],
+  "ui": {
+    "today": "Hoy",
+    "path": "Camino",
+    "scenes": "Escenas",
+    "words": "Palabras",
+    "review": "Repaso",
+    "verbs": "Verbos",
+    "order": "Orden",
+    "listening": "Escuchar",
+    "shadowing": "Repetir",
+    "patterns": "Patrones",
+    "emergency": "Emergencia",
+    "conjugation": "conjugación",
+    "buildIt": "armalo",
+    "dictation": "dictado",
+    "sayItBack": "repetilo",
+    "nothingDue": "nada pendiente",
+    "due": "{n} pendientes",
+    "known": "{n} conocidas",
+    "scenesCount": "{a} · {b} hechas",
+    "patternsCount": "{a} de {b}",
+    "streakDay": "{n} día",
+    "streakDays": "{n} días",
+    "streakStart": "Hacé algo hoy y arranca",
+    "streakBest": "Tu mejor: {n}",
+    "streakLongest": "Tu récord, seguí así",
+    "contResume": "Seguí donde quedaste",
+    "contAgain": "Leelo de nuevo",
+    "contStart": "Empezá a leer",
+    "contOpen": "Abrir",
+    "friends": "Aprendiendo con vos",
+    "friendsNone": "Todavía nadie. Mandale el link a un amigo y él escoge su propio nombre.",
+    "setLearning": "Aprender",
+    "setVoice": "Voz",
+    "setFriends": "Amigos",
+    "setContent": "Contenido",
+    "setAccount": "Cuenta",
+    "setAbout": "Acerca de",
+    "setLanguage": "Idioma",
+    "setLanguageOn": "Cambia lecciones, palabras y voz",
+    "setLanguageOff": "El curso que estás aprendiendo",
+    "setGoal": "Meta diaria",
+    "setGoalSub": "Cuánto por día para no perder la racha",
+    "setRemind": "Recordame cada noche",
+    "setRemindSub": "Un empujón si todavía no practicás",
+    "setSpeed": "Velocidad de la voz",
+    "setSpeedSub": "Más despacio al principio",
+    "setAutoplay": "Leer en voz alta automáticamente",
+    "setAutoplaySub": "Lee la primera línea al abrir una lección",
+    "setListenFirst": "Escuchar antes de ver el inglés",
+    "setListenFirstSub": "Primero oír, después ver",
+    "setInvite": "Invitar a un amigo",
+    "setInviteSub": "Abre el link y escoge su propio nombre",
+    "setBoard": "Mostrarme en el tablero",
+    "setBoardSub": "Tus amigos ven tu racha y tu nivel",
+    "setCheck": "Buscar lecciones nuevas",
+    "setChecking": "buscando…",
+    "setUpToDate": "✓ al día",
+    "setDownloaded": "Descargado",
+    "setDownloadedSub": "Todo funciona sin señal",
+    "setDownloadedVal": "{a} lecciones · {b} escenas",
+    "setStorage": "Espacio usado",
+    "setStorageSub": "En este teléfono",
+    "setSignedIn": "Sesión de",
+    "setSignOut": "Cerrar sesión",
+    "setSignOutSub": "Tu progreso queda guardado en la nube",
+    "setVersion": "Versión",
+    "setReset": "Borrar mi progreso",
+    "setResetSub": "Borra cada palabra, cada racha y cada lección",
+    "bauTitle": "En obra",
+    "bauSub": "under construction",
+    "bauWhy": "Esta parte del curso todavía no existe. Ya viene.",
+    "bauBack": "Volver"
   }
- ],
- "lessons": [
-  {
-   "id": "p0-01",
-   "title": "El calor",
-   "desc": "You land, and the heat decides everything",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-01.json"
-  },
-  {
-   "id": "p0-02",
-   "title": "Buenas",
-   "desc": "One word does the work of ten",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-02.json"
-  },
-  {
-   "id": "p0-03",
-   "title": "Córdobas",
-   "desc": "Money that is not yours yet",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-03.json"
-  },
-  {
-   "id": "p0-04",
-   "title": "Gallo pinto",
-   "desc": "Breakfast, and there is no other option",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-04.json"
-  },
-  {
-   "id": "p0-05",
-   "title": "El cuarto",
-   "desc": "A room with a fan and no hot water",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-05.json"
-  },
-  {
-   "id": "p0-06",
-   "title": "Se fue la luz",
-   "desc": "The power goes and nobody reacts",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-06.json"
-  },
-  {
-   "id": "p0-07",
-   "title": "El agua",
-   "desc": "Water has a schedule",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-07.json"
-  },
-  {
-   "id": "p0-08",
-   "title": "Vos",
-   "desc": "Nobody says tu here",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-08.json"
-  },
-  {
-   "id": "p0-09",
-   "title": "La pulpería",
-   "desc": "The shop is somebody's front window",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-09.json"
-  },
-  {
-   "id": "p0-10",
-   "title": "Chele",
-   "desc": "They have a name for you already",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-10.json"
-  },
-  {
-   "id": "p0-11",
-   "title": "La fritanga",
-   "desc": "Dinner comes off a grill on the sidewalk",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-11.json"
-  },
-  {
-   "id": "p0-12",
-   "title": "Tengo hambre",
-   "desc": "Saying what your body needs",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-12.json"
-  },
-  {
-   "id": "p0-13",
-   "title": "Los vecinos",
-   "desc": "You have neighbours whether you want them or not",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-13.json"
-  },
-  {
-   "id": "p0-14",
-   "title": "El bus",
-   "desc": "Getting on is the hard part",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-14.json"
-  },
-  {
-   "id": "p0-15",
-   "title": "Ideay",
-   "desc": "Small words that carry a lot",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-15.json"
-  },
-  {
-   "id": "p0-16",
-   "title": "La primera semana",
-   "desc": "Looking back at seven days",
-   "phase": 0,
-   "diff": 1,
-   "path": "lessons/p0-16.json"
-  },
-  {
-   "id": "p1-01",
-   "title": "Dos cuadras al lago",
-   "desc": "Directions with no street names",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-01.json"
-  },
-  {
-   "id": "p1-02",
-   "title": "Donde fue el árbol",
-   "desc": "Places that no longer exist are still directions",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-02.json"
-  },
-  {
-   "id": "p1-03",
-   "title": "Regateando",
-   "desc": "Arguing about price without being rude",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-03.json"
-  },
-  {
-   "id": "p1-04",
-   "title": "El interlocal",
-   "desc": "Leaving Managua for the first time",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-04.json"
-  },
-  {
-   "id": "p1-05",
-   "title": "El mototaxi",
-   "desc": "Three wheels and no doors",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-05.json"
-  },
-  {
-   "id": "p1-06",
-   "title": "Un chip Claro",
-   "desc": "Getting a phone that works",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-06.json"
-  },
-  {
-   "id": "p1-07",
-   "title": "El mercado Oriental",
-   "desc": "The biggest market in Central America",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-07.json"
-  },
-  {
-   "id": "p1-08",
-   "title": "Vigorón",
-   "desc": "Granada on a banana leaf",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-08.json"
-  },
-  {
-   "id": "p1-09",
-   "title": "León y Granada",
-   "desc": "Two cities that do not like each other",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-09.json"
-  },
-  {
-   "id": "p1-10",
-   "title": "El lago Cocibolca",
-   "desc": "A freshwater sea",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-10.json"
-  },
-  {
-   "id": "p1-11",
-   "title": "La época seca",
-   "desc": "Two seasons, and this is the hard one",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-11.json"
-  },
-  {
-   "id": "p1-12",
-   "title": "En la ferretería",
-   "desc": "Buying things by describing them",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-12.json"
-  },
-  {
-   "id": "p1-13",
-   "title": "Los mangos",
-   "desc": "Fruit falls on the roof for a month",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-13.json"
-  },
-  {
-   "id": "p1-14",
-   "title": "El almuerzo",
-   "desc": "Lunch is the real meal",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-14.json"
-  },
-  {
-   "id": "p1-15",
-   "title": "Un mandado",
-   "desc": "Being sent to do errands",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-15.json"
-  },
-  {
-   "id": "p1-16",
-   "title": "El domingo",
-   "desc": "The week has a shape",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-16.json"
-  },
-  {
-   "id": "p1-17",
-   "title": "Pinolillo",
-   "desc": "The drink the country is named after",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-17.json"
-  },
-  {
-   "id": "p1-18",
-   "title": "Ya sé llegar",
-   "desc": "You can get anywhere now",
-   "phase": 1,
-   "diff": 2,
-   "path": "lessons/p1-18.json"
-  },
-  {
-   "id": "p2-01",
-   "title": "Cómo te llamás de verdad",
-   "desc": "Names, and all the ones you get given",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-01.json"
-  },
-  {
-   "id": "p2-02",
-   "title": "La familia de Roberto",
-   "desc": "Everyone is somebody's cousin",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-02.json"
-  },
-  {
-   "id": "p2-03",
-   "title": "Pase adelante",
-   "desc": "Being invited in, and not being able to refuse",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-03.json"
-  },
-  {
-   "id": "p2-04",
-   "title": "Me cae bien",
-   "desc": "Liking a person is a different verb",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-04.json"
-  },
-  {
-   "id": "p2-05",
-   "title": "De dónde sos",
-   "desc": "The question everyone asks",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-05.json"
-  },
-  {
-   "id": "p2-06",
-   "title": "Contame",
-   "desc": "Telling somebody what happened",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-06.json"
-  },
-  {
-   "id": "p2-07",
-   "title": "Ahorita",
-   "desc": "A word that means four different things",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-07.json"
-  },
-  {
-   "id": "p2-08",
-   "title": "El cumpleaños",
-   "desc": "A birthday, and you are expected",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-08.json"
-  },
-  {
-   "id": "p2-09",
-   "title": "Chavalos",
-   "desc": "Children are everywhere and they are everyone's",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-09.json"
-  },
-  {
-   "id": "p2-10",
-   "title": "La iglesia",
-   "desc": "Faith is not a private matter here",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-10.json"
-  },
-  {
-   "id": "p2-11",
-   "title": "El béisbol",
-   "desc": "Not football. Baseball.",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-11.json"
-  },
-  {
-   "id": "p2-12",
-   "title": "Un favor",
-   "desc": "Asking for something and owing something",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-12.json"
-  },
-  {
-   "id": "p2-13",
-   "title": "Qué hiciste ayer",
-   "desc": "Yesterday, and the day before",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-13.json"
-  },
-  {
-   "id": "p2-14",
-   "title": "Cuando era chavalo",
-   "desc": "How people talk about the past that was ongoing",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-14.json"
-  },
-  {
-   "id": "p2-15",
-   "title": "La Gritería",
-   "desc": "December 7, and the whole country shouts",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-15.json"
-  },
-  {
-   "id": "p2-16",
-   "title": "El mes de la patria",
-   "desc": "September belongs to the country",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-16.json"
-  },
-  {
-   "id": "p2-17",
-   "title": "Flores amarillas",
-   "desc": "September 21, and you had better not forget",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-17.json"
-  },
-  {
-   "id": "p2-18",
-   "title": "El día de la madre",
-   "desc": "May 30, and it is not negotiable",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-18.json"
-  },
-  {
-   "id": "p2-19",
-   "title": "Vamos a la playa",
-   "desc": "Making a plan with six people",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-19.json"
-  },
-  {
-   "id": "p2-20",
-   "title": "Te presento a",
-   "desc": "Introducing one person to another",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-20.json"
-  },
-  {
-   "id": "p2-21",
-   "title": "No seás malo",
-   "desc": "Teasing, and being teased",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-21.json"
-  },
-  {
-   "id": "p2-22",
-   "title": "Salud",
-   "desc": "A first night out",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-22.json"
-  },
-  {
-   "id": "p2-23",
-   "title": "Estoy enfermo",
-   "desc": "Being ill somewhere you do not know the words",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-23.json"
-  },
-  {
-   "id": "p2-24",
-   "title": "Mi amigo",
-   "desc": "When somebody stops being an acquaintance",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-24.json"
-  },
-  {
-   "id": "p2-25",
-   "title": "Extraño mi casa",
-   "desc": "Missing a place you chose to leave",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-25.json"
-  },
-  {
-   "id": "p2-26",
-   "title": "Ya sos de aquí",
-   "desc": "The first time somebody says you belong",
-   "phase": 2,
-   "diff": 2,
-   "path": "lessons/p2-26.json"
-  },
-  {
-   "id": "p3-01",
-   "title": "Alquilando una casa",
-   "desc": "Your own place, and a contract you half understand",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-01.json"
-  },
-  {
-   "id": "p3-02",
-   "title": "El recibo",
-   "desc": "A bill that is wrong",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-02.json"
-  },
-  {
-   "id": "p3-03",
-   "title": "Un trámite",
-   "desc": "Paperwork, and the whole day gone",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-03.json"
-  },
-  {
-   "id": "p3-04",
-   "title": "Otra vez mañana",
-   "desc": "Being told to come back",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-04.json"
-  },
-  {
-   "id": "p3-05",
-   "title": "Me cobraron de más",
-   "desc": "Being overcharged, and saying so",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-05.json"
-  },
-  {
-   "id": "p3-06",
-   "title": "No estoy de acuerdo",
-   "desc": "Disagreeing without wrecking the room",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-06.json"
-  },
-  {
-   "id": "p3-07",
-   "title": "Fijate que no",
-   "desc": "Saying no without saying no",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-07.json"
-  },
-  {
-   "id": "p3-08",
-   "title": "Un trabajo",
-   "desc": "Work, and what is expected of you",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-08.json"
-  },
-  {
-   "id": "p3-09",
-   "title": "La quincena",
-   "desc": "Money arrives twice a month and leaves faster",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-09.json"
-  },
-  {
-   "id": "p3-10",
-   "title": "Me prestás",
-   "desc": "Being asked for money",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-10.json"
-  },
-  {
-   "id": "p3-11",
-   "title": "El mecánico",
-   "desc": "Something is broken and you cannot name it",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-11.json"
-  },
-  {
-   "id": "p3-12",
-   "title": "Tuve un problema",
-   "desc": "Explaining what went wrong",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-12.json"
-  },
-  {
-   "id": "p3-13",
-   "title": "Cuidado",
-   "desc": "Safety, and how people talk about it",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-13.json"
-  },
-  {
-   "id": "p3-14",
-   "title": "Me robaron",
-   "desc": "Something taken",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-14.json"
-  },
-  {
-   "id": "p3-15",
-   "title": "En el hospital",
-   "desc": "Serious this time",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-15.json"
-  },
-  {
-   "id": "p3-16",
-   "title": "Qué harías vos",
-   "desc": "Asking for advice",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-16.json"
-  },
-  {
-   "id": "p3-17",
-   "title": "Es que no me entendiste",
-   "desc": "A misunderstanding that becomes an argument",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-17.json"
-  },
-  {
-   "id": "p3-18",
-   "title": "Estoy arrecho",
-   "desc": "Being angry out loud",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-18.json"
-  },
-  {
-   "id": "p3-19",
-   "title": "Perdón",
-   "desc": "Apologising properly",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-19.json"
-  },
-  {
-   "id": "p3-20",
-   "title": "Hablemos",
-   "desc": "Choosing to have the conversation",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-20.json"
-  },
-  {
-   "id": "p3-21",
-   "title": "Prometiste",
-   "desc": "A promise not kept",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-21.json"
-  },
-  {
-   "id": "p3-22",
-   "title": "No es tan fácil",
-   "desc": "Somebody explains their situation",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-22.json"
-  },
-  {
-   "id": "p3-23",
-   "title": "Las remesas",
-   "desc": "Money that crosses a border every month",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-23.json"
-  },
-  {
-   "id": "p3-24",
-   "title": "Se fue para el sur",
-   "desc": "Somebody leaves",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-24.json"
-  },
-  {
-   "id": "p3-25",
-   "title": "Aquí se hace así",
-   "desc": "Being corrected on how things are done",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-25.json"
-  },
-  {
-   "id": "p3-26",
-   "title": "Ya me defiendo",
-   "desc": "You can handle yourself now",
-   "phase": 3,
-   "diff": 3,
-   "path": "lessons/p3-26.json"
-  },
-  {
-   "id": "p4-01",
-   "title": "La conocí",
-   "desc": "Meeting somebody who matters",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-01.json"
-  },
-  {
-   "id": "p4-02",
-   "title": "Me gusta ella",
-   "desc": "Saying you like somebody, and getting it right",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-02.json"
-  },
-  {
-   "id": "p4-03",
-   "title": "Una seña",
-   "desc": "Reading the signals",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-03.json"
-  },
-  {
-   "id": "p4-04",
-   "title": "Salimos",
-   "desc": "A first evening alone",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-04.json"
-  },
-  {
-   "id": "p4-05",
-   "title": "Mi amor",
-   "desc": "The words people actually use",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-05.json"
-  },
-  {
-   "id": "p4-06",
-   "title": "Chinearme",
-   "desc": "Tenderness has its own grammar",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-06.json"
-  },
-  {
-   "id": "p4-07",
-   "title": "Te quiero",
-   "desc": "Querer and amar are not the same size",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-07.json"
-  },
-  {
-   "id": "p4-08",
-   "title": "Conocé a mi mamá",
-   "desc": "Meeting her mother",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-08.json"
-  },
-  {
-   "id": "p4-09",
-   "title": "La suegra",
-   "desc": "The most important relationship you have now",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-09.json"
-  },
-  {
-   "id": "p4-10",
-   "title": "Los cuñados",
-   "desc": "Her brothers, and the test",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-10.json"
-  },
-  {
-   "id": "p4-11",
-   "title": "Qué son tus intenciones",
-   "desc": "Being asked directly",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-11.json"
-  },
-  {
-   "id": "p4-12",
-   "title": "El día de la madre",
-   "desc": "May 30, from the inside",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-12.json"
-  },
-  {
-   "id": "p4-13",
-   "title": "Estoy celoso",
-   "desc": "Jealousy, said out loud",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-13.json"
-  },
-  {
-   "id": "p4-14",
-   "title": "No es lo que pensás",
-   "desc": "A misunderstanding between two people",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-14.json"
-  },
-  {
-   "id": "p4-15",
-   "title": "La plata",
-   "desc": "An argument about money",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-15.json"
-  },
-  {
-   "id": "p4-16",
-   "title": "Tu familia o la mía",
-   "desc": "An argument about family",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-16.json"
-  },
-  {
-   "id": "p4-17",
-   "title": "Perdoname",
-   "desc": "Repairing it",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-17.json"
-  },
-  {
-   "id": "p4-18",
-   "title": "Hablemos de nosotros",
-   "desc": "The conversation about what this is",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-18.json"
-  },
-  {
-   "id": "p4-19",
-   "title": "Se acabó",
-   "desc": "It ends",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-19.json"
-  },
-  {
-   "id": "p4-20",
-   "title": "Me duele",
-   "desc": "Heartbreak",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-20.json"
-  },
-  {
-   "id": "p4-21",
-   "title": "Volvimos",
-   "desc": "Or it does not end",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-21.json"
-  },
-  {
-   "id": "p4-22",
-   "title": "Pedir la mano",
-   "desc": "Asking her family",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-22.json"
-  },
-  {
-   "id": "p4-23",
-   "title": "La boda",
-   "desc": "A wedding",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-23.json"
-  },
-  {
-   "id": "p4-24",
-   "title": "Ahora somos familia",
-   "desc": "What changes after",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-24.json"
-  },
-  {
-   "id": "p4-25",
-   "title": "La casa poco a poco",
-   "desc": "Building something slowly",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-25.json"
-  },
-  {
-   "id": "p4-26",
-   "title": "El bautizo",
-   "desc": "You are asked to be a godparent",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-26.json"
-  },
-  {
-   "id": "p4-27",
-   "title": "Un chavalito",
-   "desc": "A baby in the family",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-27.json"
-  },
-  {
-   "id": "p4-28",
-   "title": "Se puso malo",
-   "desc": "Somebody is seriously ill",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-28.json"
-  },
-  {
-   "id": "p4-29",
-   "title": "El novenario",
-   "desc": "Nine nights",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-29.json"
-  },
-  {
-   "id": "p4-30",
-   "title": "Los difuntos",
-   "desc": "November 2, at the cemetery",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-30.json"
-  },
-  {
-   "id": "p4-31",
-   "title": "Cómo era él",
-   "desc": "Talking about somebody who is gone",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-31.json"
-  },
-  {
-   "id": "p4-32",
-   "title": "Te lo agradezco",
-   "desc": "Gratitude that means something",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-32.json"
-  },
-  {
-   "id": "p4-33",
-   "title": "Mi mujer",
-   "desc": "How you refer to her now",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-33.json"
-  },
-  {
-   "id": "p4-34",
-   "title": "Los domingos ahora",
-   "desc": "What a week looks like now",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-34.json"
-  },
-  {
-   "id": "p4-35",
-   "title": "Ya sos parte",
-   "desc": "Belonging to a family, not a country",
-   "phase": 4,
-   "diff": 4,
-   "path": "lessons/p4-35.json"
-  },
-  {
-   "id": "p5-01",
-   "title": "Qué tuani",
-   "desc": "Slang that dates you if you get it wrong",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-01.json"
-  },
-  {
-   "id": "p5-02",
-   "title": "Hablan rapidísimo",
-   "desc": "Fast speech, and what disappears in it",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-02.json"
-  },
-  {
-   "id": "p5-03",
-   "title": "El doble sentido",
-   "desc": "Nothing means only one thing",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-03.json"
-  },
-  {
-   "id": "p5-04",
-   "title": "Vacilando",
-   "desc": "Mockery as affection, at speed",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-04.json"
-  },
-  {
-   "id": "p5-05",
-   "title": "Semana Santa",
-   "desc": "The whole country goes to the beach",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-05.json"
-  },
-  {
-   "id": "p5-06",
-   "title": "Santo Domingo",
-   "desc": "Managua’s own saint",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-06.json"
-  },
-  {
-   "id": "p5-07",
-   "title": "La Gigantona",
-   "desc": "A giant woman and a big-headed dwarf",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-07.json"
-  },
-  {
-   "id": "p5-08",
-   "title": "Palo de Mayo",
-   "desc": "The other Nicaragua",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-08.json"
-  },
-  {
-   "id": "p5-09",
-   "title": "El año viejo",
-   "desc": "Burning the year",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-09.json"
-  },
-  {
-   "id": "p5-10",
-   "title": "La purísima otra vez",
-   "desc": "December 7, but you know it now",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-10.json"
-  },
-  {
-   "id": "p5-11",
-   "title": "Los quince",
-   "desc": "A fifteenth birthday",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-11.json"
-  },
-  {
-   "id": "p5-12",
-   "title": "El refrán",
-   "desc": "Sayings, and why they end arguments",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-12.json"
-  },
-  {
-   "id": "p5-13",
-   "title": "Puro cuento",
-   "desc": "Exaggeration as an art form",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-13.json"
-  },
-  {
-   "id": "p5-14",
-   "title": "Ideay pues",
-   "desc": "The words that hold a conversation together",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-14.json"
-  },
-  {
-   "id": "p5-15",
-   "title": "La cerveza está helada",
-   "desc": "An evening that goes long",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-15.json"
-  },
-  {
-   "id": "p5-16",
-   "title": "El chisme",
-   "desc": "Gossip, and how it moves",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-16.json"
-  },
-  {
-   "id": "p5-17",
-   "title": "No me hallo",
-   "desc": "Feeling out of place, in their words",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-17.json"
-  },
-  {
-   "id": "p5-18",
-   "title": "Un baile",
-   "desc": "Dancing, and not being able to",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-18.json"
-  },
-  {
-   "id": "p5-19",
-   "title": "La comida de la abuela",
-   "desc": "Food that only exists in houses",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-19.json"
-  },
-  {
-   "id": "p5-20",
-   "title": "El nacatamal del domingo",
-   "desc": "Sunday morning, and the whole street smells the same",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-20.json"
-  },
-  {
-   "id": "p5-21",
-   "title": "Bromas pesadas",
-   "desc": "A joke that goes too far",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-21.json"
-  },
-  {
-   "id": "p5-22",
-   "title": "Ese es mi barrio",
-   "desc": "Where you live means something",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-22.json"
-  },
-  {
-   "id": "p5-23",
-   "title": "Hora nica",
-   "desc": "Time is a suggestion and everyone knows it",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-23.json"
-  },
-  {
-   "id": "p5-24",
-   "title": "Andate ya",
-   "desc": "Leaving without being rude",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-24.json"
-  },
-  {
-   "id": "p5-25",
-   "title": "Me hablan normal",
-   "desc": "They stop slowing down for you",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-25.json"
-  },
-  {
-   "id": "p5-26",
-   "title": "Sos nica adoptivo",
-   "desc": "Being claimed",
-   "phase": 5,
-   "diff": 5,
-   "path": "lessons/p5-26.json"
-  },
-  {
-   "id": "p6-01",
-   "title": "Depende",
-   "desc": "The answer that is not an answer",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-01.json"
-  },
-  {
-   "id": "p6-02",
-   "title": "Tal vez después",
-   "desc": "Refusing something you were never going to do",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-02.json"
-  },
-  {
-   "id": "p6-03",
-   "title": "Con todo respeto",
-   "desc": "Disagreeing with somebody above you",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-03.json"
-  },
-  {
-   "id": "p6-04",
-   "title": "Es que fíjese",
-   "desc": "The excuse as a social form",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-04.json"
-  },
-  {
-   "id": "p6-05",
-   "title": "No hallaba cómo decirle",
-   "desc": "Saying a hard thing gently",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-05.json"
-  },
-  {
-   "id": "p6-06",
-   "title": "Del norte",
-   "desc": "Nicaragua is not one accent",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-06.json"
-  },
-  {
-   "id": "p6-07",
-   "title": "La costa",
-   "desc": "The Caribbean side is another country",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-07.json"
-  },
-  {
-   "id": "p6-08",
-   "title": "Los apellidos",
-   "desc": "Names carry history",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-08.json"
-  },
-  {
-   "id": "p6-09",
-   "title": "La plata y el color",
-   "desc": "Things that are noticed and not said",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-09.json"
-  },
-  {
-   "id": "p6-10",
-   "title": "Uno nunca sabe",
-   "desc": "Impersonal uno, and hiding behind it",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-10.json"
-  },
-  {
-   "id": "p6-11",
-   "title": "De eso mejor no",
-   "desc": "Subjects that get closed",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-11.json"
-  },
-  {
-   "id": "p6-12",
-   "title": "El 79",
-   "desc": "History everyone carries",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-12.json"
-  },
-  {
-   "id": "p6-13",
-   "title": "Los que se fueron",
-   "desc": "A country with a diaspora",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-13.json"
-  },
-  {
-   "id": "p6-14",
-   "title": "Rubén Darío",
-   "desc": "The poet is on the money",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-14.json"
-  },
-  {
-   "id": "p6-15",
-   "title": "Qué va a querer",
-   "desc": "Politeness in a shop, at full speed",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-15.json"
-  },
-  {
-   "id": "p6-16",
-   "title": "Sabe qué",
-   "desc": "Getting somebody’s attention properly",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-16.json"
-  },
-  {
-   "id": "p6-17",
-   "title": "Como quien no quiere",
-   "desc": "Saying something sideways",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-17.json"
-  },
-  {
-   "id": "p6-18",
-   "title": "Ni modo",
-   "desc": "Accepting what cannot be changed",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-18.json"
-  },
-  {
-   "id": "p6-19",
-   "title": "Hablando de eso",
-   "desc": "Steering a conversation",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-19.json"
-  },
-  {
-   "id": "p6-20",
-   "title": "Me suena raro",
-   "desc": "Hearing a mistake before you can explain it",
-   "phase": 6,
-   "diff": 6,
-   "path": "lessons/p6-20.json"
-  },
-  {
-   "id": "p7-01",
-   "title": "El chiste que no explicaron",
-   "desc": "Getting a joke in real time",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-01.json"
-  },
-  {
-   "id": "p7-02",
-   "title": "Juego de palabras",
-   "desc": "Wordplay",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-02.json"
-  },
-  {
-   "id": "p7-03",
-   "title": "Como decía mi abuela",
-   "desc": "Quoting the dead as an argument",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-03.json"
-  },
-  {
-   "id": "p7-04",
-   "title": "Hablando en serio",
-   "desc": "Switching from joking to real",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-04.json"
-  },
-  {
-   "id": "p7-05",
-   "title": "Una carta",
-   "desc": "Writing something formal",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-05.json"
-  },
-  {
-   "id": "p7-06",
-   "title": "En la radio",
-   "desc": "Listening to something not aimed at you",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-06.json"
-  },
-  {
-   "id": "p7-07",
-   "title": "Discutiendo de fútbol y béisbol",
-   "desc": "Arguing about nothing, at length",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-07.json"
-  },
-  {
-   "id": "p7-08",
-   "title": "El campo",
-   "desc": "Rural Spanish is older",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-08.json"
-  },
-  {
-   "id": "p7-09",
-   "title": "Palabras que no existen afuera",
-   "desc": "Words with no translation",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-09.json"
-  },
-  {
-   "id": "p7-10",
-   "title": "Lo que no se dice",
-   "desc": "Silence as content",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-10.json"
-  },
-  {
-   "id": "p7-11",
-   "title": "La bulla",
-   "desc": "Noise, and living inside it",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-11.json"
-  },
-  {
-   "id": "p7-12",
-   "title": "Ideay, y vos qué",
-   "desc": "Being asked what you think, and meaning it",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-12.json"
-  },
-  {
-   "id": "p7-13",
-   "title": "Los amigos de siempre",
-   "desc": "Friendship over years",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-13.json"
-  },
-  {
-   "id": "p7-14",
-   "title": "Volviendo de afuera",
-   "desc": "Coming back from somewhere else",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-14.json"
-  },
-  {
-   "id": "p7-15",
-   "title": "Explicándole a otro chele",
-   "desc": "Teaching somebody who just arrived",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-15.json"
-  },
-  {
-   "id": "p7-16",
-   "title": "Mi país y este país",
-   "desc": "Belonging to two places badly",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-16.json"
-  },
-  {
-   "id": "p7-17",
-   "title": "Hablás como de aquí",
-   "desc": "Somebody says it plainly",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-17.json"
-  },
-  {
-   "id": "p7-18",
-   "title": "Ya sos nica",
-   "desc": "The last one",
-   "phase": 7,
-   "diff": 7,
-   "path": "lessons/p7-18.json"
-  }
- ],
- "name": "Nicaraguan Spanish",
- "speech": "es-MX",
- "features": [
-  "reader",
-  "scenes",
-  "review",
-  "verbs",
-  "order",
-  "words",
-  "patterns",
-  "audio"
- ],
- "verbs": "verbs.json",
- "emergency": "emergency.json",
- "momo": "momo.json"
 }

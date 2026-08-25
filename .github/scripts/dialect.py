@@ -123,6 +123,18 @@ def collect(pack):
                 out.append((u"scene %s reply" % s.get("id"), o.get("es") or u""))
     for m in pack.get("momo") or []:
         out.append((u"momo %s" % m.get("id"), m.get("say") or u""))
+    # The interface is target-language text too, and it is the text a learner
+    # sees most often — every screen, every day. It used to be skipped here
+    # simply because it did not exist when this was written, which is exactly
+    # how the game ended up needing a gate of its own.
+    for key, value in sorted((pack.get("ui") or {}).items()):
+        if isinstance(value, str):
+            out.append((u"ui %s" % key, value))
+    for i, phase in enumerate(pack.get("phases") or []):
+        pair = phase if isinstance(phase, list) else [phase.get("name"), phase.get("desc")]
+        for part in pair:
+            if isinstance(part, str):
+                out.append((u"phase %d" % i, part))
     return out
 
 

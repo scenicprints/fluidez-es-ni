@@ -291,6 +291,13 @@ def main():
         "emergency": emergency,
         "momo": momo,
         "game": game,
+        # Everything the app needs to wear this language rather than English.
+        # A course that declares none of these falls back to the built-in
+        # ladder, the English labels and the default mascot.
+        "mascot": manifest.get("mascot"),
+        "icons": manifest.get("icons"),
+        "phases": manifest.get("phases"),
+        "ui": manifest.get("ui"),
     }
 
     # Is this actually Nicaraguan Spanish?
