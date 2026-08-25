@@ -1,0 +1,109 @@
+{
+ "id": "trabajo-06",
+ "district": "trabajo",
+ "tier": 3,
+ "who": "El cliente",
+ "title": "El cliente",
+ "goal": "Explain a delay to somebody who does not want to hear it",
+ "culture": "Bad news first and in four words. Then a real day — not ahorita and not mañana, both of which mean neither. Then one apology, once: apologising three times makes it sound like it is going to happen again.",
+ "beats": [
+  {
+   "es": "Vengo por lo mío. ¿Ya está listo?",
+   "objective": "Say it plainly",
+   "key": "no está listo",
+   "say": "Todavía no está listo.",
+   "en": "It’s not ready yet.",
+   "tiles": [
+    "todavía",
+    "no está listo"
+   ],
+   "extra": [
+    "para el lunes",
+    "le aviso",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "todavia no esta listo",
+    "no esta listo"
+   ],
+   "teaches": [
+    "no está listo"
+   ],
+   "good": "Say it first and plainly. Everything after this is easier once the bad news is out of the way in four words."
+  },
+  {
+   "es": "¿Y para cuándo, pues?",
+   "objective": "Give a real day",
+   "key": "para el lunes",
+   "say": "Para el lunes.",
+   "en": "By Monday.",
+   "tiles": [
+    "para el lunes"
+   ],
+   "extra": [
+    "para mañana",
+    "le aviso",
+    "así es",
+    "me deja en"
+   ],
+   "ok": [
+    "para el lunes"
+   ],
+   "teaches": [
+    "para el lunes"
+   ],
+   "good": "A day you can keep. Ahorita and mañana are what people say when they mean neither, and he has heard both already this week."
+  },
+  {
+   "es": "Uy. Bueno, ni modo.",
+   "objective": "Promise to tell him",
+   "key": "le aviso",
+   "say": "Le aviso cuando esté.",
+   "en": "I’ll let you know when it’s done.",
+   "tiles": [
+    "le aviso",
+    "cuando esté"
+   ],
+   "extra": [
+    "para el lunes",
+    "no está listo",
+    "con permiso",
+    "así es"
+   ],
+   "ok": [
+    "le aviso cuando este",
+    "le aviso"
+   ],
+   "teaches": [
+    "le aviso"
+   ],
+   "good": "Le aviso — I will let you know. The same word the neighbour used about the water coming back, and it carries the same obligation."
+  },
+  {
+   "es": "Está bien, joven. Aquí lo espero.",
+   "objective": "Apologise once",
+   "key": "una disculpa",
+   "say": "Una disculpa, de verdad.",
+   "en": "My apologies, truly.",
+   "tiles": [
+    "una disculpa",
+    "de verdad"
+   ],
+   "extra": [
+    "le aviso",
+    "para el lunes",
+    "así es",
+    "me deja en"
+   ],
+   "ok": [
+    "una disculpa de verdad",
+    "una disculpa"
+   ],
+   "teaches": [
+    "una disculpa"
+   ],
+   "good": "Once, and then stop. Apologising three times makes it sound like it is going to happen again."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+[
+ {
+  "kind": "doña en la puerta",
+  "district": "trabajo",
+  "says": "Doña Chepa siempre viene cargada del mercado. Ofrézcase, que ella paga.",
+  "en": "Doña Chepa always comes back loaded from the market. Offer to help, she pays.",
+  "points_at": [
+   "trabajo-01"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "trabajo",
+  "says": "Don Emilio necesita quien le ayude en el taller. Vaya temprano y pregúntele.",
+  "en": "Don Emilio needs somebody to help in the workshop. Go early and ask him.",
+  "points_at": [
+   "trabajo-02"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "trabajo",
+  "says": "En el taller está Marcos, el más alegre de todos. Con ese se hace amigo rápido.",
+  "en": "Marcos is at the workshop, the cheeriest of the lot. You will be friends with him fast.",
+  "points_at": [
+   "trabajo-03",
+   "trabajo-08"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "trabajo",
+  "says": "En el taller no le lleve la contraria a don Emilio delante de la gente.",
+  "en": "In that workshop, do not contradict don Emilio in front of people.",
+  "points_at": [
+   "trabajo-04"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "trabajo",
+  "says": "Antes de la quincena aquí nadie anda con nada. Ni pregunte.",
+  "en": "Before payday nobody round here has anything. Do not even ask.",
+  "points_at": [
+   "trabajo-05"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "trabajo",
+  "says": "Ahí viene el cliente por su trabajo. Dígale la verdad de una vez, es peor después.",
+  "en": "Here comes the customer for his job. Tell him the truth straight away, it is worse later.",
+  "points_at": [
+   "trabajo-06"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "trabajo",
+  "says": "Si se equivoca, dígalo usted primero. Don Emilio perdona el error, no la mentira.",
+  "en": "If you make a mistake, say so first. Don Emilio forgives the mistake, not the lie.",
+  "points_at": [
+   "trabajo-07"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "trabajo",
+  "says": "Si va a pedir aumento, hable con él solo y temprano. Nunca delante de otros.",
+  "en": "If you are going to ask for a rise, talk to him alone and early. Never in front of others.",
+  "points_at": [
+   "trabajo-09"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "trabajo",
+  "says": "Entró un muchacho nuevo al taller. Enséñele usted, que ya sabe cómo es.",
+  "en": "A new lad has started at the workshop. You teach him, you know how it goes now.",
+  "points_at": [
+   "trabajo-10"
+  ]
+ }
+]

@@ -1,0 +1,109 @@
+{
+ "id": "barrio-11",
+ "district": "barrio",
+ "tier": 4,
+ "who": "Doña Chepa",
+ "title": "La indirecta",
+ "goal": "Realise you are being told off without being told off",
+ "culture": "The indirecta is a whole grammar of complaint and the point of it is that nobody has to be embarrassed. Recognising it is the skill. Answering it directly — naming yourself, apologising outright — is a bigger breach than whatever you did.",
+ "beats": [
+  {
+   "es": "No es por nada, vecino, pero...",
+   "objective": "You know what is coming — let it come",
+   "key": "no es por nada",
+   "say": "¿No es por nada?",
+   "en": "It’s nothing, is it?",
+   "tiles": [
+    "¿no es por nada?"
+   ],
+   "extra": [
+    "algunos",
+    "yo no digo nombres",
+    "no ando",
+    "ya va"
+   ],
+   "ok": [
+    "no es por nada"
+   ],
+   "teaches": [
+    "no es por nada"
+   ],
+   "good": "No es por nada means it is very much about something. When a sentence opens like this, what follows is about you."
+  },
+  {
+   "es": "...algunos sacan la basura el día que no toca, fíjese.",
+   "objective": "Acknowledge the some people",
+   "key": "algunos",
+   "say": "Ah. Algunos.",
+   "en": "Ah. Some people.",
+   "tiles": [
+    "ah",
+    "algunos"
+   ],
+   "extra": [
+    "no es por nada",
+    "yo no digo nombres",
+    "ya va",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "ah algunos",
+    "algunos"
+   ],
+   "teaches": [
+    "algunos"
+   ],
+   "good": "Algunos — some people. There is exactly one person in the algunos and both of you know which one."
+  },
+  {
+   "es": "Yo no digo nombres, ¿va? Yo no soy así.",
+   "objective": "Play it perfectly straight",
+   "key": "yo no digo nombres",
+   "say": "Usted no dice nombres.",
+   "en": "You don’t name names.",
+   "tiles": [
+    "usted no dice nombres"
+   ],
+   "extra": [
+    "algunos",
+    "no es por nada",
+    "ya va",
+    "no ando"
+   ],
+   "ok": [
+    "usted no dice nombres"
+   ],
+   "teaches": [
+    "yo no digo nombres"
+   ],
+   "good": "Naming yourself would embarrass her, and the entire architecture of the indirecta exists so that nobody has to be embarrassed. Play it straight."
+  },
+  {
+   "es": "Usted entienda, pues.",
+   "objective": "Answer with what you will do",
+   "key": "entienda",
+   "say": "Ya entendí, doña. Mañana la saco.",
+   "en": "I understand, doña. I’ll put it out tomorrow.",
+   "tiles": [
+    "ya entendí",
+    "doña",
+    "mañana la saco"
+   ],
+   "extra": [
+    "algunos",
+    "no es por nada",
+    "que le vaya bien",
+    "ya va"
+   ],
+   "ok": [
+    "ya entendi dona manana la saco",
+    "ya entendi dona",
+    "ya entendi"
+   ],
+   "teaches": [
+    "entienda"
+   ],
+   "good": "Answer with the action and never with an admission. Say what you will do differently and the whole thing closes with neither of you having said it out loud."
+  }
+ ]
+}

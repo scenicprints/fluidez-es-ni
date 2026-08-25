@@ -1,0 +1,111 @@
+{
+ "id": "barrio-03",
+ "district": "barrio",
+ "tier": 2,
+ "who": "El pulpero",
+ "title": "Fiado",
+ "goal": "Be given credit at the shop, which means being trusted",
+ "culture": "Fiado is credit in a school exercise book behind the counter, with no interest and no paperwork. Being given it is not a financial event, it is a social one: it says you are somebody who lives here and will be walking past tomorrow.",
+ "beats": [
+  {
+   "es": "Son sesenta pesos. ...¿No le alcanza?",
+   "objective": "Ask for credit",
+   "key": "fiado",
+   "say": "¿Me lo da fiado?",
+   "en": "Could you put it on credit?",
+   "tiles": [
+    "¿me lo da",
+    "fiado?"
+   ],
+   "extra": [
+    "me lo apunta",
+    "mañana le pago",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "me lo da fiado",
+    "fiado"
+   ],
+   "teaches": [
+    "fiado"
+   ],
+   "good": "Fiado is credit, in a notebook, with nothing signed. Asking for it is asking to be counted as a neighbour rather than a customer."
+  },
+  {
+   "es": "Va pues. Se lo fío.",
+   "objective": "He said yes — react",
+   "key": "ideay",
+   "say": "¡Ideay! Gracias.",
+   "en": "Well! Thank you.",
+   "tiles": [
+    "¡ideay!",
+    "gracias"
+   ],
+   "extra": [
+    "fiado",
+    "me lo apunta",
+    "está bien",
+    "por favor"
+   ],
+   "ok": [
+    "ideay gracias",
+    "ideay"
+   ],
+   "teaches": [
+    "ideay"
+   ],
+   "good": "Ideay is the most Nicaraguan noise there is — surprise, greeting, disbelief, delight — and the tone does all of the work. Here it means: really? Thanks."
+  },
+  {
+   "es": "Le apunto aquí en el cuaderno, ¿va?",
+   "objective": "Yes — write it down",
+   "key": "me lo apunta",
+   "say": "Sí, me lo apunta.",
+   "en": "Yes, put it down for me.",
+   "tiles": [
+    "sí",
+    "me lo apunta"
+   ],
+   "extra": [
+    "ideay",
+    "fiado",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "si me lo apunta",
+    "me lo apunta"
+   ],
+   "teaches": [
+    "me lo apunta"
+   ],
+   "good": "Me lo apunta — put it down for me. That exercise book is the entire credit system of the barrio and it works better than most."
+  },
+  {
+   "es": "¿Y cuándo me paga?",
+   "objective": "Name the day",
+   "key": "mañana le pago",
+   "say": "Mañana le pago. Palabra.",
+   "en": "I’ll pay you tomorrow. My word.",
+   "tiles": [
+    "mañana le pago",
+    "palabra"
+   ],
+   "extra": [
+    "otro día",
+    "fiado",
+    "gracias",
+    "está bien"
+   ],
+   "ok": [
+    "manana le pago palabra",
+    "manana le pago"
+   ],
+   "teaches": [
+    "mañana le pago"
+   ],
+   "good": "Say the day and then keep it. The thing that ends fiado is never being poor — it is not turning up."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "barrio-06",
+ "district": "barrio",
+ "tier": 3,
+ "who": "El electricista",
+ "title": "Se fue la luz",
+ "goal": "Get the power back, and learn it is not just your house",
+ "culture": "The first question is never how to fix it, it is how far it goes. Your house alone is your problem; the whole block is the company’s. And somebody has to ring it in, which everybody assumes somebody else has already done.",
+ "beats": [
+  {
+   "es": "Buenas, joven. ¿También sin luz?",
+   "objective": "Say the power has gone",
+   "key": "se fue la luz",
+   "say": "Se fue la luz.",
+   "en": "The power’s gone.",
+   "tiles": [
+    "se fue la luz"
+   ],
+   "extra": [
+    "en toda la cuadra",
+    "¿ya llamó?",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "se fue la luz"
+   ],
+   "teaches": [
+    "se fue la luz"
+   ],
+   "good": "Se fue la luz — the light went. The verb is irse, as though it had walked out, which after the third time in a week is how it feels."
+  },
+  {
+   "es": "A mí también, desde hace rato.",
+   "objective": "Ask how far it goes",
+   "key": "en toda la cuadra",
+   "say": "¿En toda la cuadra?",
+   "en": "The whole block?",
+   "tiles": [
+    "¿en toda la cuadra?"
+   ],
+   "extra": [
+    "se fue la luz",
+    "¿ya llamó?",
+    "está bien",
+    "quiero"
+   ],
+   "ok": [
+    "en toda la cuadra"
+   ],
+   "teaches": [
+    "en toda la cuadra"
+   ],
+   "good": "This is the diagnostic question and it changes what happens next. Your house is your problem; the block is somebody else’s."
+  },
+  {
+   "es": "En toda. Hasta la esquina está oscuro.",
+   "objective": "Ask whether anybody has rung it in",
+   "key": "¿ya llamó?",
+   "say": "¿Ya llamó alguien?",
+   "en": "Has anyone called it in?",
+   "tiles": [
+    "¿ya llamó",
+    "alguien?"
+   ],
+   "extra": [
+    "en toda la cuadra",
+    "se fue la luz",
+    "gracias",
+    "me da"
+   ],
+   "ok": [
+    "ya llamo alguien",
+    "ya llamo"
+   ],
+   "teaches": [
+    "¿ya llamó?"
+   ],
+   "good": "Somebody has to report it and everybody assumes somebody else did. Asking is how you find out that nobody has."
+  },
+  {
+   "es": "Sí, ya llamaron. Ya viene la cuadrilla.",
+   "objective": "Accept that",
+   "key": "ya viene",
+   "say": "Ya viene, entonces. Está bien.",
+   "en": "It’s coming, then. Alright.",
+   "tiles": [
+    "ya viene",
+    "entonces",
+    "está bien"
+   ],
+   "extra": [
+    "se fue la luz",
+    "¿ya llamó?",
+    "me da",
+    "quiero"
+   ],
+   "ok": [
+    "ya viene entonces esta bien",
+    "ya viene entonces",
+    "ya viene"
+   ],
+   "teaches": [
+    "ya viene"
+   ],
+   "good": "Ya viene means it is on its way and commits nobody to a time. You will hear it about the bus, the plumber, the rain and the light."
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "id": "trabajo-04",
+ "district": "trabajo",
+ "tier": 3,
+ "who": "Don Emilio",
+ "title": "La jerarquía",
+ "goal": "Learn who you may and may not contradict",
+ "culture": "The workshop has an order to it and none of it is written down. You do not walk up and start talking, you do not argue in front of a customer, and you do not decide anything that is not yours to decide. None of that is servility; it is how the place runs and everybody in it is protected by it.",
+ "beats": [
+  {
+   "es": "(Don Emilio está con un cliente. Usted necesita preguntarle algo.)",
+   "objective": "Knock, so to speak",
+   "key": "con permiso",
+   "say": "Con permiso, don Emilio.",
+   "en": "Excuse me, don Emilio.",
+   "tiles": [
+    "con permiso",
+    "don Emilio"
+   ],
+   "extra": [
+    "usted dirá",
+    "como usted diga",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "con permiso don emilio",
+    "con permiso"
+   ],
+   "teaches": [
+    "con permiso"
+   ],
+   "good": "You do not walk up and start talking. Con permiso is the knock on the door, and skipping it is the loudest thing you can do in a quiet workshop."
+  },
+  {
+   "es": "Usted dirá, joven.",
+   "objective": "He has given you the floor — be brief",
+   "key": "usted dirá",
+   "say": "Es sobre el trabajo del lunes.",
+   "en": "It’s about Monday’s job.",
+   "tiles": [
+    "es sobre",
+    "el trabajo del lunes"
+   ],
+   "extra": [
+    "como usted diga",
+    "no me toca",
+    "está bien",
+    "quiero"
+   ],
+   "ok": [
+    "es sobre el trabajo del lunes",
+    "es sobre"
+   ],
+   "teaches": [
+    "usted dirá"
+   ],
+   "good": "Usted dirá means go on, I am listening. It is a small formality that tells you he is the one granting the turn — so take it and be short."
+  },
+  {
+   "es": "Eso lo hacemos como siempre. No me lo cambie.",
+   "objective": "Accept the decision",
+   "key": "como usted diga",
+   "say": "Como usted diga.",
+   "en": "As you say.",
+   "tiles": [
+    "como usted diga"
+   ],
+   "extra": [
+    "no me toca",
+    "usted dirá",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "como usted diga"
+   ],
+   "teaches": [
+    "como usted diga"
+   ],
+   "good": "Como usted diga is not servility. It closes a decision that was never yours, it costs nothing, and it is why he will listen next time you do have something."
+  },
+  {
+   "es": "(Un cliente le pregunta a USTED si puede rebajarle el precio.)",
+   "objective": "Say it is not yours to decide",
+   "key": "no me toca",
+   "say": "No me toca a mí. Pregúntele a don Emilio.",
+   "en": "That’s not mine to decide. Ask don Emilio.",
+   "tiles": [
+    "no me toca a mí",
+    "pregúntele a don Emilio"
+   ],
+   "extra": [
+    "como usted diga",
+    "usted dirá",
+    "quiero",
+    "me da"
+   ],
+   "ok": [
+    "no me toca a mi preguntele a don emilio",
+    "no me toca a mi",
+    "no me toca"
+   ],
+   "teaches": [
+    "no me toca"
+   ],
+   "good": "No me toca — it is not mine to decide. It protects you and it points the customer at the one person who can actually answer him."
+  }
+ ]
+}

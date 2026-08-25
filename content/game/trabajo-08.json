@@ -1,0 +1,107 @@
+{
+ "id": "trabajo-08",
+ "district": "trabajo",
+ "tier": 4,
+ "who": "Marcos",
+ "title": "La cerveza del viernes",
+ "goal": "Drink with workmates and keep up with the joking",
+ "culture": "Paying is fought over rather than negotiated, and losing gracefully is part of it. Ya va la última is said about the third of six and everybody knows it is not true, which is why saying it is joining in rather than lying.",
+ "beats": [
+  {
+   "es": "¡Viernes! ¿Nos tomamos algo?",
+   "objective": "Order a cold one",
+   "key": "una fría",
+   "say": "Una fría.",
+   "en": "A cold one.",
+   "tiles": [
+    "una fría"
+   ],
+   "extra": [
+    "yo invito",
+    "no seás así",
+    "no ando",
+    "todo bien"
+   ],
+   "ok": [
+    "una fria"
+   ],
+   "teaches": [
+    "una fría"
+   ],
+   "good": "Una fría — a cold one. Nobody orders beer by its name; the temperature is the part that matters."
+  },
+  {
+   "es": "Yo pago, dale.",
+   "objective": "Fight him for it",
+   "key": "yo invito",
+   "say": "No, yo invito.",
+   "en": "No, it’s on me.",
+   "tiles": [
+    "no",
+    "yo invito"
+   ],
+   "extra": [
+    "una fría",
+    "no seás así",
+    "ya va",
+    "todo bien"
+   ],
+   "ok": [
+    "no yo invito",
+    "yo invito"
+   ],
+   "teaches": [
+    "yo invito"
+   ],
+   "good": "Yo invito — my treat. It is fought over rather than negotiated, and losing the fight gracefully is part of the ritual."
+  },
+  {
+   "es": "¡No! Vos pagaste la vez pasada.",
+   "objective": "Push back the way he would",
+   "key": "no seás así",
+   "say": "No seás así.",
+   "en": "Don’t be like that.",
+   "tiles": [
+    "no seás así"
+   ],
+   "extra": [
+    "yo invito",
+    "una fría",
+    "ya va",
+    "no ando"
+   ],
+   "ok": [
+    "no seas asi"
+   ],
+   "teaches": [
+    "no seás así"
+   ],
+   "good": "No seás así — don’t be like that. VOS: seás, not seas. It is the same phrase doña Chepa used about the gossip, in the vos form because he is your friend."
+  },
+  {
+   "es": "Bueno, bueno. Ya va la última, ¿va?",
+   "objective": "Agree it is the last one",
+   "key": "ya va la última",
+   "say": "Ya va la última. Dale.",
+   "en": "Last one, then. Right.",
+   "tiles": [
+    "ya va la última",
+    "dale"
+   ],
+   "extra": [
+    "yo invito",
+    "una fría",
+    "no ando",
+    "todo bien"
+   ],
+   "ok": [
+    "ya va la ultima dale",
+    "ya va la ultima"
+   ],
+   "teaches": [
+    "ya va la última"
+   ],
+   "good": "Ya va la última is said about the third of six and everybody at the table knows it. Saying it is joining in, not lying."
+  }
+ ]
+}

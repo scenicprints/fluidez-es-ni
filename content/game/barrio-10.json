@@ -1,0 +1,107 @@
+{
+ "id": "barrio-10",
+ "district": "barrio",
+ "tier": 4,
+ "who": "La vecina",
+ "title": "El velorio",
+ "goal": "Say the right thing at a wake, which is almost nothing",
+ "culture": "The wake is in the house, all night, door open, chairs out in the street and coffee going. You go in, you say four words, you sit down for twenty minutes. Saying too much is the mistake. Not going at all is the bigger one, and it will be noticed.",
+ "beats": [
+  {
+   "es": "(La puerta está abierta. Hay sillas en la calle y café.)",
+   "objective": "Say you are sorry",
+   "key": "lo siento mucho",
+   "say": "Lo siento mucho.",
+   "en": "I’m very sorry.",
+   "tiles": [
+    "lo siento mucho"
+   ],
+   "extra": [
+    "mi pésame",
+    "era buena gente",
+    "cuídese",
+    "dale"
+   ],
+   "ok": [
+    "lo siento mucho"
+   ],
+   "teaches": [
+    "lo siento mucho"
+   ],
+   "good": "Four syllables, and then stop. The mistake at a wake is never saying too little."
+  },
+  {
+   "es": "Gracias, vecino. Pase, pase adelante.",
+   "objective": "Offer your condolences properly",
+   "key": "mi pésame",
+   "say": "Mi pésame, doña.",
+   "en": "My condolences, doña.",
+   "tiles": [
+    "mi pésame",
+    "doña"
+   ],
+   "extra": [
+    "lo siento mucho",
+    "era buena gente",
+    "fíjese que",
+    "dale"
+   ],
+   "ok": [
+    "mi pesame dona",
+    "mi pesame"
+   ],
+   "teaches": [
+    "mi pésame"
+   ],
+   "good": "Mi pésame is the fixed phrase, and using it says you know what to do — which at that door is worth a great deal more than sincerity you cannot express yet."
+  },
+  {
+   "es": "Setenta y ocho años tenía. Se fue tranquilo, gracias a Dios.",
+   "objective": "Say something about him",
+   "key": "era buena gente",
+   "say": "Era buena gente.",
+   "en": "He was a good sort.",
+   "tiles": [
+    "era buena gente"
+   ],
+   "extra": [
+    "mi pésame",
+    "lo siento mucho",
+    "cuídese",
+    "fíjese que"
+   ],
+   "ok": [
+    "era buena gente"
+   ],
+   "teaches": [
+    "era buena gente"
+   ],
+   "good": "Buena gente is the highest ordinary praise there is here, and it is exactly what you say about somebody you did not know well. It is not a lie; it is the form."
+  },
+  {
+   "es": "Aquí estamos, pues. Toda la noche vamos a estar.",
+   "objective": "Say you will stay a while",
+   "key": "aquí estamos",
+   "say": "Aquí estamos. Me quedo un rato.",
+   "en": "We’re here. I’ll stay a while.",
+   "tiles": [
+    "aquí estamos",
+    "me quedo un rato"
+   ],
+   "extra": [
+    "mi pésame",
+    "cuídese",
+    "dale",
+    "fíjese que"
+   ],
+   "ok": [
+    "aqui estamos me quedo un rato",
+    "aqui estamos"
+   ],
+   "teaches": [
+    "aquí estamos"
+   ],
+   "good": "Aquí estamos — we are here. It means what it says: nobody is going anywhere, and for the next twenty minutes neither are you."
+  }
+ ]
+}

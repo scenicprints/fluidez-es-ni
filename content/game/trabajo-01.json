@@ -1,0 +1,111 @@
+{
+ "id": "trabajo-01",
+ "district": "trabajo",
+ "tier": 1,
+ "who": "Doña Chepa",
+ "title": "El mandado",
+ "goal": "Earn your first córdobas carrying somebody else’s shopping",
+ "culture": "The mirror of the cargador in the market: there you paid, and agreeing the price first was the etiquette. Here you are the one carrying, and letting her name the figure is the move — the work is small and she is a neighbour.",
+ "beats": [
+  {
+   "es": "(Va cargada con cuatro bolsas y le falta media cuadra.)",
+   "objective": "Offer to carry it",
+   "key": "yo se lo llevo",
+   "say": "Yo se lo llevo, doña.",
+   "en": "I’ll carry it for you, doña.",
+   "tiles": [
+    "yo se lo llevo",
+    "doña"
+   ],
+   "extra": [
+    "¿cuánto me da?",
+    "cuando quiera",
+    "ideay",
+    "ni modo"
+   ],
+   "ok": [
+    "yo se lo llevo dona",
+    "yo se lo llevo"
+   ],
+   "teaches": [
+    "yo se lo llevo"
+   ],
+   "good": "The same sentence the porter used on you in the market, now coming out of your mouth. That is the whole arc of this district in one line."
+  },
+  {
+   "es": "¡Ay, sí, mi hijo! ¿Y cuánto me cobra?",
+   "objective": "Let her name it",
+   "key": "¿cuánto me da?",
+   "say": "¿Cuánto me da usted?",
+   "en": "What will you give me?",
+   "tiles": [
+    "¿cuánto me da",
+    "usted?"
+   ],
+   "extra": [
+    "yo se lo llevo",
+    "cuando quiera",
+    "vaya pues",
+    "ni modo"
+   ],
+   "ok": [
+    "cuanto me da usted",
+    "cuanto me da"
+   ],
+   "teaches": [
+    "¿cuánto me da?"
+   ],
+   "good": "¿Cuánto me da? lets her set it, which is right when the work is small and the person is a neighbour. ¿Cuánto me cobra? was for when you were the one buying."
+  },
+  {
+   "es": "Le doy veinte, ¿le parece?",
+   "objective": "Take it",
+   "key": "está bien",
+   "say": "Está bien. Vamos.",
+   "en": "That’s fine. Let’s go.",
+   "tiles": [
+    "está bien",
+    "vamos"
+   ],
+   "extra": [
+    "¿cuánto me da?",
+    "ideay",
+    "ni modo",
+    "vaya pues"
+   ],
+   "ok": [
+    "esta bien vamos",
+    "esta bien"
+   ],
+   "teaches": [
+    "está bien"
+   ],
+   "good": "Twenty córdobas for three blocks. It is not much and it is the first money you have earned in Spanish, which is a different thing."
+  },
+  {
+   "es": "Gracias, mi hijo. Cuando quiera, ahí me busca.",
+   "objective": "Say the same back",
+   "key": "cuando quiera",
+   "say": "Cuando quiera, doña.",
+   "en": "Any time, doña.",
+   "tiles": [
+    "cuando quiera",
+    "doña"
+   ],
+   "extra": [
+    "está bien",
+    "vaya pues",
+    "ni modo",
+    "ideay"
+   ],
+   "ok": [
+    "cuando quiera dona",
+    "cuando quiera"
+   ],
+   "teaches": [
+    "cuando quiera"
+   ],
+   "good": "Cuando quiera — whenever you like. It is an offer of more work, and the correct answer is the same two words straight back."
+  }
+ ]
+}

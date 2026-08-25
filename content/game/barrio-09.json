@@ -1,0 +1,109 @@
+{
+ "id": "barrio-09",
+ "district": "barrio",
+ "tier": 3,
+ "who": "El del gas",
+ "title": "El cilindro",
+ "goal": "Order a gas cylinder and be in when it comes",
+ "culture": "Cooking gas comes in a cylinder you swap, delivered off the back of a truck. There is no pipe and no account, and delivery is simply two people agreeing to be in the same place at the same time.",
+ "beats": [
+  {
+   "es": "¡Gaaas! ¿Gas, joven?",
+   "objective": "Order one",
+   "key": "un cilindro",
+   "say": "Un cilindro, por favor.",
+   "en": "One cylinder, please.",
+   "tiles": [
+    "un cilindro",
+    "por favor"
+   ],
+   "extra": [
+    "de veinticinco",
+    "¿a qué hora?",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "un cilindro por favor",
+    "un cilindro"
+   ],
+   "teaches": [
+    "un cilindro"
+   ],
+   "good": "Gas arrives on a truck with a loudspeaker and you buy it by shouting back. There is no pipe to any house on this street."
+  },
+  {
+   "es": "¿De veinticinco o de cien libras?",
+   "objective": "The twenty-five",
+   "key": "de veinticinco",
+   "say": "De veinticinco.",
+   "en": "The twenty-five.",
+   "tiles": [
+    "de veinticinco"
+   ],
+   "extra": [
+    "de cien",
+    "un cilindro",
+    "gracias",
+    "así es"
+   ],
+   "ok": [
+    "de veinticinco"
+   ],
+   "teaches": [
+    "de veinticinco"
+   ],
+   "good": "Twenty-five pounds is the household one and one person can carry it. The hundred is for a comedor."
+  },
+  {
+   "es": "Se lo mando hoy mismo.",
+   "objective": "Ask what time",
+   "key": "¿a qué hora?",
+   "say": "¿A qué hora me lo trae?",
+   "en": "What time will you bring it?",
+   "tiles": [
+    "¿a qué hora",
+    "me lo trae?"
+   ],
+   "extra": [
+    "un cilindro",
+    "de veinticinco",
+    "con permiso",
+    "me deja en"
+   ],
+   "ok": [
+    "a que hora me lo trae",
+    "a que hora"
+   ],
+   "teaches": [
+    "¿a qué hora?"
+   ],
+   "good": "Ask, because somebody has to open the door and hand over the empty one, and that somebody is you."
+  },
+  {
+   "es": "Como a las tres de la tarde.",
+   "objective": "Say you will be in",
+   "key": "aquí estoy",
+   "say": "A las tres aquí estoy.",
+   "en": "I’ll be here at three.",
+   "tiles": [
+    "a las tres",
+    "aquí estoy"
+   ],
+   "extra": [
+    "¿a qué hora?",
+    "un cilindro",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "a las tres aqui estoy",
+    "aqui estoy"
+   ],
+   "teaches": [
+    "aquí estoy"
+   ],
+   "good": "Aquí estoy — I will be here. That is the whole of the delivery contract and both halves of it are spoken."
+  }
+ ]
+}

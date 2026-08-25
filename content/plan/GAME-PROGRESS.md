@@ -4,7 +4,7 @@ Written by `game_stage.py`. Do not edit by hand.
 
 > You moved to Granada and you live there. There is no plot. There are districts, and everything that happens to somebody living in a Nicaraguan city. Winning is doing all of it.
 
-**64 of 122 missions written.**
+**88 of 122 missions written.**
 
 ## El Centro (12/12)
 *Parque Central, la catedral, La Calzada. Where the tourists are, and where people would rather practise their English on you.*
@@ -120,41 +120,41 @@ Written by `game_stage.py`. Do not edit by hand.
 | x | 5 | `terminal-09` **El chofer** | El chofer | Sit up front and get a driver talking for forty minutes |
 | x | 5 | `terminal-10` **El migrante** | El que se va | Say goodbye to somebody leaving for good |
 
-## Tu barrio (0/14)
+## Tu barrio (14/14)
 *Your own street. The landlady, the pulpería on the corner, neighbours who hear everything.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `barrio-01` **El cuarto** | Doña Marta | Rent a room by the month instead of the night |
-|   | 1 | `barrio-02` **El depósito** | Doña Marta | Understand the deposit and when you get it back |
-|   | 2 | `barrio-03` **Fiado** | El pulpero | Be given credit at the shop, which means being trusted |
-|   | 2 | `barrio-04` **La barbería** | El barbero | Get the haircut you actually asked for |
-|   | 2 | `barrio-05` **La música** | La vecina de al lado | Ask a neighbour to turn it down at one in the morning |
-|   | 3 | `barrio-06` **Se fue la luz** | El electricista | Get the power back, and learn it is not just your house |
-|   | 3 | `barrio-07` **El chavalo de al lado** | Roberto | Let a kid teach you the words nobody prints |
-|   | 3 | `barrio-08` **La gotera** | Doña Marta | Report a leak and get it fixed before the rains |
-|   | 3 | `barrio-09` **El cilindro** | El del gas | Order a gas cylinder and be in when it comes |
-|   | 4 | `barrio-10` **El velorio** | La vecina | Say the right thing at a wake, which is almost nothing |
-|   | 4 | `barrio-11` **La indirecta** | Doña Chepa | Realise you are being told off without being told off |
-|   | 4 | `barrio-12` **El favor** | El vecino | Be asked a favour you would rather not do |
-|   | 5 | `barrio-13` **El aumento** | Doña Marta | Be told the rent is going up, and negotiate |
-|   | 5 | `barrio-14` **La cuadra** | Todos | Be greeted first, by everybody, on your own street |
+| x | 1 | `barrio-01` **El cuarto** | Doña Marta | Rent a room by the month instead of the night |
+| x | 1 | `barrio-02` **El depósito** | Doña Marta | Understand the deposit and when you get it back |
+| x | 2 | `barrio-03` **Fiado** | El pulpero | Be given credit at the shop, which means being trusted |
+| x | 2 | `barrio-04` **La barbería** | El barbero | Get the haircut you actually asked for |
+| x | 2 | `barrio-05` **La música** | La vecina de al lado | Ask a neighbour to turn it down at one in the morning |
+| x | 3 | `barrio-06` **Se fue la luz** | El electricista | Get the power back, and learn it is not just your house |
+| x | 3 | `barrio-07` **El chavalo de al lado** | Roberto | Let a kid teach you the words nobody prints |
+| x | 3 | `barrio-08` **La gotera** | Doña Marta | Report a leak and get it fixed before the rains |
+| x | 3 | `barrio-09` **El cilindro** | El del gas | Order a gas cylinder and be in when it comes |
+| x | 4 | `barrio-10` **El velorio** | La vecina | Say the right thing at a wake, which is almost nothing |
+| x | 4 | `barrio-11` **La indirecta** | Doña Chepa | Realise you are being told off without being told off |
+| x | 4 | `barrio-12` **El favor** | El vecino | Be asked a favour you would rather not do |
+| x | 5 | `barrio-13` **El aumento** | Doña Marta | Be told the rent is going up, and negotiate |
+| x | 5 | `barrio-14` **La cuadra** | Todos | Be greeted first, by everybody, on your own street |
 
-## El trabajo (0/10)
+## El trabajo (10/10)
 *The workshop and the errands that pay. Where your Spanish stops being polite and starts being useful.*
 
 | | tier | mission | who | what you are doing |
 |---|---|---|---|---|
-|   | 1 | `trabajo-01` **El mandado** | Doña Chepa | Earn your first córdobas carrying somebody else’s shopping |
-|   | 2 | `trabajo-02` **El taller** | Don Emilio | Ask for work and be told what you are actually worth |
-|   | 2 | `trabajo-03` **El compañero** | Marcos | Make your first real friend at work |
-|   | 3 | `trabajo-04` **La jerarquía** | Don Emilio | Learn who you may and may not contradict |
-|   | 3 | `trabajo-05` **La quincena** | Marcos | Survive the week before payday |
-|   | 3 | `trabajo-06` **El cliente** | El cliente | Explain a delay to somebody who does not want to hear it |
-|   | 4 | `trabajo-07` **El error** | Don Emilio | Own a mistake that cost money |
-|   | 4 | `trabajo-08` **La cerveza del viernes** | Marcos | Drink with workmates and keep up with the joking |
-|   | 5 | `trabajo-09` **El aumento del sueldo** | Don Emilio | Ask for more money without insulting anybody |
-|   | 5 | `trabajo-10` **El nuevo** | El nuevo | Teach somebody newer than you, in Spanish |
+| x | 1 | `trabajo-01` **El mandado** | Doña Chepa | Earn your first córdobas carrying somebody else’s shopping |
+| x | 2 | `trabajo-02` **El taller** | Don Emilio | Ask for work and be told what you are actually worth |
+| x | 2 | `trabajo-03` **El compañero** | Marcos | Make your first real friend at work |
+| x | 3 | `trabajo-04` **La jerarquía** | Don Emilio | Learn who you may and may not contradict |
+| x | 3 | `trabajo-05` **La quincena** | Marcos | Survive the week before payday |
+| x | 3 | `trabajo-06` **El cliente** | El cliente | Explain a delay to somebody who does not want to hear it |
+| x | 4 | `trabajo-07` **El error** | Don Emilio | Own a mistake that cost money |
+| x | 4 | `trabajo-08` **La cerveza del viernes** | Marcos | Drink with workmates and keep up with the joking |
+| x | 5 | `trabajo-09` **El aumento del sueldo** | Don Emilio | Ask for more money without insulting anybody |
+| x | 5 | `trabajo-10` **El nuevo** | El nuevo | Teach somebody newer than you, in Spanish |
 
 ## Trámites y salud (0/10)
 *Offices, clinics, queues. The Spanish nobody teaches and everybody needs.*

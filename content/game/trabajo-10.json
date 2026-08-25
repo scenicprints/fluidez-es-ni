@@ -1,0 +1,113 @@
+{
+ "id": "trabajo-10",
+ "district": "trabajo",
+ "tier": 5,
+ "who": "El nuevo",
+ "title": "El nuevo",
+ "goal": "Teach somebody newer than you, in Spanish",
+ "culture": "The last mission of the district, and the first time you are the one who knows. He is newer than you, so he gets vos — ponete, mirá, seguí — and you teach the way don Emilio taught you, which is two words and then showing him.",
+ "beats": [
+  {
+   "es": "Buenas... me dijeron que le preguntara a usted.",
+   "objective": "Put him where he should be",
+   "key": "ponete aquí",
+   "say": "Ponete aquí, a la par mía.",
+   "en": "Stand here, next to me.",
+   "tiles": [
+    "ponete aquí",
+    "a la par mía"
+   ],
+   "extra": [
+    "así no",
+    "mirá",
+    "vas bien",
+    "disculpe"
+   ],
+   "ok": [
+    "ponete aqui a la par mia",
+    "ponete aqui"
+   ],
+   "teaches": [
+    "ponete aquí"
+   ],
+   "good": "Ponete — vos. He is newer than you, so he gets vos and you get to be the one who knows. A la par is beside; al lado is what a book would say."
+  },
+  {
+   "es": "(Lo agarra al revés.) ¿Así?",
+   "objective": "Stop him",
+   "key": "así no",
+   "say": "Así no. Mirá.",
+   "en": "Not like that. Look.",
+   "tiles": [
+    "así no",
+    "mirá"
+   ],
+   "extra": [
+    "ponete aquí",
+    "vas bien",
+    "otro día",
+    "disculpe"
+   ],
+   "ok": [
+    "asi no mira",
+    "asi no"
+   ],
+   "teaches": [
+    "así no"
+   ],
+   "good": "Así no — not like that. Two words, no explanation, and then you show him, which is exactly how don Emilio taught you in your first week."
+  },
+  {
+   "es": "Ah. ¿Y entonces cómo?",
+   "objective": "Show him",
+   "key": "mirá",
+   "say": "Mirá. Así, despacio.",
+   "en": "Look. Like this, slowly.",
+   "tiles": [
+    "mirá",
+    "así",
+    "despacio"
+   ],
+   "extra": [
+    "así no",
+    "ponete aquí",
+    "vas bien",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "mira asi despacio",
+    "mira asi",
+    "mira"
+   ],
+   "teaches": [
+    "mirá"
+   ],
+   "good": "Mirá, not mira — the accent is the entire difference and it is the vos imperative. You have been hearing it since Guadalupe."
+  },
+  {
+   "es": "(Lo hace bien.) ¿Así está?",
+   "objective": "Tell him he is doing fine",
+   "key": "vas bien",
+   "say": "Vas bien. Seguí así.",
+   "en": "You’re doing fine. Keep going.",
+   "tiles": [
+    "vas bien",
+    "seguí así"
+   ],
+   "extra": [
+    "así no",
+    "mirá",
+    "ponete aquí",
+    "otro día"
+   ],
+   "ok": [
+    "vas bien segui asi",
+    "vas bien"
+   ],
+   "teaches": [
+    "vas bien"
+   ],
+   "good": "Vas bien — you’re doing fine. Seguí is vos again. This is the last mission of the district and you are the one saying it, which is the whole point of it."
+  }
+ ]
+}

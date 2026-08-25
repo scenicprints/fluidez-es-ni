@@ -1,0 +1,111 @@
+{
+ "id": "trabajo-02",
+ "district": "trabajo",
+ "tier": 2,
+ "who": "Don Emilio",
+ "title": "El taller",
+ "goal": "Ask for work and be told what you are actually worth",
+ "culture": "Busco trabajo is not an embarrassing thing to say here and he has been asked it a hundred times. He is not deciding whether you are a mechanic; he is deciding whether you are worth a week, and overselling yourself is the fastest way back onto the street.",
+ "beats": [
+  {
+   "es": "Buenas. ¿Qué se le ofrece, joven?",
+   "objective": "Say it straight out",
+   "key": "busco trabajo",
+   "say": "Busco trabajo, don Emilio.",
+   "en": "I’m looking for work, don Emilio.",
+   "tiles": [
+    "busco trabajo",
+    "don Emilio"
+   ],
+   "extra": [
+    "sé un poco",
+    "aprendo rápido",
+    "así es",
+    "con permiso"
+   ],
+   "ok": [
+    "busco trabajo don emilio",
+    "busco trabajo"
+   ],
+   "teaches": [
+    "busco trabajo"
+   ],
+   "good": "No preamble. Busco trabajo is not embarrassing to say in this country and he has heard it a hundred times without thinking less of anybody."
+  },
+  {
+   "es": "¿Y usted sabe de esto o no sabe nada?",
+   "objective": "Be honest",
+   "key": "sé un poco",
+   "say": "Sé un poco. No mucho.",
+   "en": "I know a little. Not much.",
+   "tiles": [
+    "sé un poco",
+    "no mucho"
+   ],
+   "extra": [
+    "busco trabajo",
+    "aprendo rápido",
+    "así es",
+    "me deja en"
+   ],
+   "ok": [
+    "se un poco no mucho",
+    "se un poco"
+   ],
+   "teaches": [
+    "sé un poco"
+   ],
+   "good": "Sé un poco is the answer that survives the first hour. Claiming more than you have is the fastest way out of a workshop."
+  },
+  {
+   "es": "Hm.",
+   "objective": "Give him the reason to try",
+   "key": "aprendo rápido",
+   "say": "Pero aprendo rápido.",
+   "en": "But I learn fast.",
+   "tiles": [
+    "pero",
+    "aprendo rápido"
+   ],
+   "extra": [
+    "sé un poco",
+    "busco trabajo",
+    "con permiso",
+    "así es"
+   ],
+   "ok": [
+    "pero aprendo rapido",
+    "aprendo rapido"
+   ],
+   "teaches": [
+    "aprendo rápido"
+   ],
+   "good": "The pero does all the work. He is weighing a week of his time, not your qualifications."
+  },
+  {
+   "es": "¿Y por qué le voy a dar chance a usted?",
+   "objective": "Ask him to try you",
+   "key": "pruébeme",
+   "say": "Pruébeme una semana.",
+   "en": "Give me a week’s trial.",
+   "tiles": [
+    "pruébeme",
+    "una semana"
+   ],
+   "extra": [
+    "aprendo rápido",
+    "sé un poco",
+    "así es",
+    "me deja en"
+   ],
+   "ok": [
+    "pruebeme una semana",
+    "pruebeme"
+   ],
+   "teaches": [
+    "pruébeme"
+   ],
+   "good": "Pruébeme — try me. It costs him almost nothing to agree to and it is the one argument he has no answer for."
+  }
+ ]
+}

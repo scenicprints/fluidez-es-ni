@@ -1,0 +1,109 @@
+{
+ "id": "barrio-04",
+ "district": "barrio",
+ "tier": 2,
+ "who": "El barbero",
+ "title": "La barbería",
+ "goal": "Get the haircut you actually asked for",
+ "culture": "No numbers, no guards and no photographs. He asks as he goes and you answer in two-word instructions, which is why this is a listening mission disguised as a haircut.",
+ "beats": [
+  {
+   "es": "Buenas. Siéntese. ¿Cómo se lo hago?",
+   "objective": "Shorter",
+   "key": "más corto",
+   "say": "Más corto, por favor.",
+   "en": "Shorter, please.",
+   "tiles": [
+    "más corto",
+    "por favor"
+   ],
+   "extra": [
+    "a los lados",
+    "así está bien",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "mas corto por favor",
+    "mas corto"
+   ],
+   "teaches": [
+    "más corto"
+   ],
+   "good": "Más corto is the whole instruction, and he will ask about the rest as he goes. There is no number and no attachment on the clippers."
+  },
+  {
+   "es": "¿Y de arriba? ¿También?",
+   "objective": "At the sides only",
+   "key": "a los lados",
+   "say": "A los lados nada más.",
+   "en": "At the sides only.",
+   "tiles": [
+    "a los lados",
+    "nada más"
+   ],
+   "extra": [
+    "más corto",
+    "de arriba",
+    "gracias",
+    "fíjese que"
+   ],
+   "ok": [
+    "a los lados nada mas",
+    "a los lados"
+   ],
+   "teaches": [
+    "a los lados"
+   ],
+   "good": "The two words that stop a haircut from turning into a different haircut. Say them before he starts, not after."
+  },
+  {
+   "es": "¿Así, mire? ¿Le gusta?",
+   "objective": "That’s right",
+   "key": "así está bien",
+   "say": "Así está bien.",
+   "en": "That’s just right.",
+   "tiles": [
+    "así está bien"
+   ],
+   "extra": [
+    "más corto",
+    "a los lados",
+    "gracias",
+    "con permiso"
+   ],
+   "ok": [
+    "asi esta bien"
+   ],
+   "teaches": [
+    "así está bien"
+   ],
+   "good": "Así está bien again — the same phrase that stops the butcher’s scale. It stops anything, anywhere, without giving offence."
+  },
+  {
+   "es": "¿Le arreglo la barba también?",
+   "objective": "Leave it as it is",
+   "key": "déjelo así",
+   "say": "Déjelo así. Gracias.",
+   "en": "Leave it as it is. Thank you.",
+   "tiles": [
+    "déjelo así",
+    "gracias"
+   ],
+   "extra": [
+    "más corto",
+    "a los lados",
+    "con permiso",
+    "fíjese que"
+   ],
+   "ok": [
+    "dejelo asi gracias",
+    "dejelo asi"
+   ],
+   "teaches": [
+    "déjelo así"
+   ],
+   "good": "Déjelo así — leave it. Useful in a barbershop and in every other situation where somebody is about to improve something of yours."
+  }
+ ]
+}

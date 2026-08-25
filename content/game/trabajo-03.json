@@ -1,0 +1,111 @@
+{
+ "id": "trabajo-03",
+ "district": "trabajo",
+ "tier": 2,
+ "who": "Marcos",
+ "title": "El compañero",
+ "goal": "Make your first real friend at work",
+ "culture": "¿Qué pasó? is hello between men who work together. Nothing has happened and he does not want to know what has. This is also where you switch to vos for good with somebody your own age, and getting that switch right is worth more than any verb table.",
+ "beats": [
+  {
+   "es": "¿Qué pasó, pues?",
+   "objective": "Answer the greeting",
+   "key": "¿qué pasó?",
+   "say": "¿Qué pasó, Marcos?",
+   "en": "How’s it going, Marcos?",
+   "tiles": [
+    "¿qué pasó",
+    "Marcos?"
+   ],
+   "extra": [
+    "todo bien",
+    "vamos",
+    "nos vemos",
+    "cuídese"
+   ],
+   "ok": [
+    "que paso marcos",
+    "que paso"
+   ],
+   "teaches": [
+    "¿qué pasó?"
+   ],
+   "good": "¿Qué pasó? is hello, not a question. Nothing has happened, and answering it as though something had is the mistake every learner makes once."
+  },
+  {
+   "es": "¿Todo bien?",
+   "objective": "All good — and ask him back",
+   "key": "todo bien",
+   "say": "Todo bien. ¿Y vos?",
+   "en": "All good. And you?",
+   "tiles": [
+    "todo bien",
+    "¿y vos?"
+   ],
+   "extra": [
+    "¿qué pasó?",
+    "vamos",
+    "nos vemos",
+    "dale"
+   ],
+   "ok": [
+    "todo bien y vos",
+    "todo bien"
+   ],
+   "teaches": [
+    "todo bien"
+   ],
+   "good": "¿Y vos? He is a workmate your own age, so it is vos from here on, permanently. That switch is worth more than any verb table you will ever learn."
+  },
+  {
+   "es": "Todo bien. ¿Vamos a almorzar?",
+   "objective": "Go with him",
+   "key": "vamos",
+   "say": "Vamos. Dale.",
+   "en": "Let’s go. Right.",
+   "tiles": [
+    "vamos",
+    "dale"
+   ],
+   "extra": [
+    "todo bien",
+    "nos vemos",
+    "fíjese que",
+    "cuídese"
+   ],
+   "ok": [
+    "vamos dale",
+    "vamos"
+   ],
+   "teaches": [
+    "vamos"
+   ],
+   "good": "Vamos is let’s go and dale is alright. Between them they arrange nearly everything that happens after work."
+  },
+  {
+   "es": "Bueno, ya me voy. Nos vemos mañana.",
+   "objective": "Say goodbye like a workmate",
+   "key": "nos vemos",
+   "say": "Nos vemos, Marcos.",
+   "en": "See you, Marcos.",
+   "tiles": [
+    "nos vemos",
+    "Marcos"
+   ],
+   "extra": [
+    "vamos",
+    "todo bien",
+    "cuídese",
+    "dale"
+   ],
+   "ok": [
+    "nos vemos marcos",
+    "nos vemos"
+   ],
+   "teaches": [
+    "nos vemos"
+   ],
+   "good": "Nos vemos — see you. Cuídese is for the doña on the corner; between the two of you it is this, and using the wrong one is audible."
+  }
+ ]
+}

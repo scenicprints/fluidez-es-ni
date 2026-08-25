@@ -1,0 +1,111 @@
+{
+ "id": "barrio-07",
+ "district": "barrio",
+ "tier": 3,
+ "who": "Roberto",
+ "title": "El chavalo de al lado",
+ "goal": "Let a kid teach you the words nobody prints",
+ "culture": "None of these four words are in a textbook and all four are in every conversation. A nine-year-old will teach them to you faster and more accurately than anybody else, because he has no idea which ones are supposed to be difficult.",
+ "beats": [
+  {
+   "es": "¡Chele! ¿Y usted cómo se llama?",
+   "objective": "Ask what chele means",
+   "key": "chele",
+   "say": "¿Qué es chele?",
+   "en": "What’s a chele?",
+   "tiles": [
+    "¿qué es",
+    "chele?"
+   ],
+   "extra": [
+    "chunche",
+    "vaya pues",
+    "dale",
+    "así es"
+   ],
+   "ok": [
+    "que es chele",
+    "chele"
+   ],
+   "teaches": [
+    "chele"
+   ],
+   "good": "Chele is what you are: fair, foreign, or both. It is not an insult, it is not going to stop, and the only useful response is to know it."
+  },
+  {
+   "es": "Chele es usted, pues. Blanquito. Pasame ese chunche.",
+   "objective": "Ask what a chunche is",
+   "key": "chunche",
+   "say": "¿Y qué es un chunche?",
+   "en": "And what’s a chunche?",
+   "tiles": [
+    "¿y qué es",
+    "un chunche?"
+   ],
+   "extra": [
+    "chele",
+    "vaya pues",
+    "dale",
+    "ni modo"
+   ],
+   "ok": [
+    "y que es un chunche",
+    "que es un chunche"
+   ],
+   "teaches": [
+    "chunche"
+   ],
+   "good": "A chunche is a thing whose name you do not need: the thingy, the whatsit, that. It will cover about a fifth of everything you cannot yet name."
+  },
+  {
+   "es": "El chunche es... cualquier cosa. Eso. Aquello. ¿Entendiste?",
+   "objective": "Tell him you have it",
+   "key": "dale",
+   "say": "Dale, entendí.",
+   "en": "Right, got it.",
+   "tiles": [
+    "dale",
+    "entendí"
+   ],
+   "extra": [
+    "vaya pues",
+    "chunche",
+    "así es",
+    "ideay"
+   ],
+   "ok": [
+    "dale entendi",
+    "dale"
+   ],
+   "teaches": [
+    "dale"
+   ],
+   "good": "Dale is go on, alright, yes, do it. It is the most-used word in the country after pues and on its own it means almost nothing."
+  },
+  {
+   "es": "¡Va! Ya aprendió. Vaya pues, chele.",
+   "objective": "Sign off the way he did",
+   "key": "vaya pues",
+   "say": "Vaya pues, Roberto.",
+   "en": "See you, then, Roberto.",
+   "tiles": [
+    "vaya pues",
+    "Roberto"
+   ],
+   "extra": [
+    "dale",
+    "chunche",
+    "chele",
+    "ni modo"
+   ],
+   "ok": [
+    "vaya pues roberto",
+    "vaya pues"
+   ],
+   "teaches": [
+    "vaya pues"
+   ],
+   "good": "Vaya pues closes a conversation without ending it. Half the goodbyes in this country are these two words and nothing else."
+  }
+ ]
+}

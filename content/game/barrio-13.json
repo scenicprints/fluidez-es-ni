@@ -1,0 +1,112 @@
+{
+ "id": "barrio-13",
+ "district": "barrio",
+ "tier": 5,
+ "who": "Doña Marta",
+ "title": "El aumento",
+ "goal": "Be told the rent is going up, and negotiate",
+ "culture": "She is not a company and there is no contract to point at, which cuts both ways: she can raise it whenever she likes and she can also just decide not to. Es mucho said plainly, and a number in the middle, is the whole of the negotiation.",
+ "beats": [
+  {
+   "es": "Mi hijo, fíjese que el alquiler va a subir.",
+   "objective": "Get the number first",
+   "key": "va a subir",
+   "say": "¿Va a subir? ¿Cuánto?",
+   "en": "It’s going up? By how much?",
+   "tiles": [
+    "¿va a subir?",
+    "¿cuánto?"
+   ],
+   "extra": [
+    "¿desde cuándo?",
+    "es mucho",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "va a subir cuanto",
+    "va a subir"
+   ],
+   "teaches": [
+    "va a subir"
+   ],
+   "good": "Va a subir — it is going up. Ask the number before you say anything else, because the number is the only part that is negotiable."
+  },
+  {
+   "es": "A ciento treinta, mi hijo.",
+   "objective": "Ask from when",
+   "key": "¿desde cuándo?",
+   "say": "¿Y desde cuándo?",
+   "en": "And from when?",
+   "tiles": [
+    "¿y desde cuándo?"
+   ],
+   "extra": [
+    "va a subir",
+    "es mucho",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "y desde cuando",
+    "desde cuando"
+   ],
+   "teaches": [
+    "¿desde cuándo?"
+   ],
+   "good": "The date is worth as much as the number. A rise next month and a rise today are two different conversations."
+  },
+  {
+   "es": "Desde el mes que viene.",
+   "objective": "Say it is a lot — and stop",
+   "key": "es mucho",
+   "say": "Es mucho, doña. De verdad.",
+   "en": "That’s a lot, doña. Honestly.",
+   "tiles": [
+    "es mucho",
+    "doña",
+    "de verdad"
+   ],
+   "extra": [
+    "va a subir",
+    "¿desde cuándo?",
+    "gracias",
+    "por favor"
+   ],
+   "ok": [
+    "es mucho dona de verdad",
+    "es mucho dona",
+    "es mucho"
+   ],
+   "teaches": [
+    "es mucho"
+   ],
+   "good": "Es mucho, said flatly and then nothing. She is not a company, and she may not have thought about it from your side until you said it out loud."
+  },
+  {
+   "es": "Bueno... ¿y usted qué dice, pues?",
+   "objective": "Propose the middle",
+   "key": "quedemos en",
+   "say": "Quedemos en ciento quince.",
+   "en": "Let’s settle on a hundred and fifteen.",
+   "tiles": [
+    "quedemos en",
+    "ciento quince"
+   ],
+   "extra": [
+    "es mucho",
+    "va a subir",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "quedemos en ciento quince",
+    "quedemos en"
+   ],
+   "teaches": [
+    "quedemos en"
+   ],
+   "good": "Quedemos en — let’s settle on. The same move as the leather bag in the market, and it works here for exactly the same reason."
+  }
+ ]
+}

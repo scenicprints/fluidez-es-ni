@@ -1,0 +1,109 @@
+{
+ "id": "barrio-08",
+ "district": "barrio",
+ "tier": 3,
+ "who": "Doña Marta",
+ "title": "La gotera",
+ "goal": "Report a leak and get it fixed before the rains",
+ "culture": "The rains start in May and after that it is every afternoon, so a drip in March is a small favour and a drip in June is an emergency for everybody at once. The deadline is the useful part of the report.",
+ "beats": [
+  {
+   "es": "Buenas, mi hijo. ¿Qué pasó?",
+   "objective": "Report the leak",
+   "key": "hay una gotera",
+   "say": "Hay una gotera.",
+   "en": "There’s a leak.",
+   "tiles": [
+    "hay una gotera"
+   ],
+   "extra": [
+    "en el cuarto",
+    "cuando llueve",
+    "ideay",
+    "ni modo"
+   ],
+   "ok": [
+    "hay una gotera"
+   ],
+   "teaches": [
+    "hay una gotera"
+   ],
+   "good": "Una gotera is a drip through the roof and every house here has had one. Naming it is the whole report."
+  },
+  {
+   "es": "¿Dónde, pues?",
+   "objective": "In the room",
+   "key": "en el cuarto",
+   "say": "En el cuarto, arriba.",
+   "en": "In the room, up there.",
+   "tiles": [
+    "en el cuarto",
+    "arriba"
+   ],
+   "extra": [
+    "hay una gotera",
+    "cuando llueve",
+    "vaya pues",
+    "ni modo"
+   ],
+   "ok": [
+    "en el cuarto arriba",
+    "en el cuarto"
+   ],
+   "teaches": [
+    "en el cuarto"
+   ],
+   "good": "Cuarto again — the same word as your first night in the hostel. Arriba here means up there, not west: context does that work."
+  },
+  {
+   "es": "¿Y gotea siempre o qué?",
+   "objective": "Only when it rains",
+   "key": "cuando llueve",
+   "say": "Solo cuando llueve.",
+   "en": "Only when it rains.",
+   "tiles": [
+    "solo",
+    "cuando llueve"
+   ],
+   "extra": [
+    "en el cuarto",
+    "hay una gotera",
+    "ideay",
+    "vaya pues"
+   ],
+   "ok": [
+    "solo cuando llueve",
+    "cuando llueve"
+   ],
+   "teaches": [
+    "cuando llueve"
+   ],
+   "good": "Which is the important half of the report, because in May it will be raining every afternoon and so will the roof."
+  },
+  {
+   "es": "Ah, ya. Le digo a mi hijo que suba a verlo.",
+   "objective": "Ask for it before the rains",
+   "key": "¿lo puede ver?",
+   "say": "¿Lo puede ver antes de las lluvias?",
+   "en": "Could he look at it before the rains?",
+   "tiles": [
+    "¿lo puede ver",
+    "antes de las lluvias?"
+   ],
+   "extra": [
+    "cuando llueve",
+    "en el cuarto",
+    "ni modo",
+    "vaya pues"
+   ],
+   "ok": [
+    "lo puede ver antes de las lluvias",
+    "lo puede ver"
+   ],
+   "teaches": [
+    "¿lo puede ver?"
+   ],
+   "good": "Ask for the timing as well as the fix. Antes de las lluvias is a real deadline here and everybody understands exactly how much time it means."
+  }
+ ]
+}

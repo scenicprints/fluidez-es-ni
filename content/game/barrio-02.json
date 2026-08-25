@@ -1,0 +1,111 @@
+{
+ "id": "barrio-02",
+ "district": "barrio",
+ "tier": 1,
+ "who": "Doña Marta",
+ "title": "El depósito",
+ "goal": "Understand the deposit and when you get it back",
+ "culture": "A month held as a deposit, in cash, with nothing written down. It comes back if the room does, and the time to settle what that means is now — pleasantly, while everybody still likes each other.",
+ "beats": [
+  {
+   "es": "Ah, y me deja el depósito.",
+   "objective": "Ask what deposit",
+   "key": "el depósito",
+   "say": "¿El depósito? ¿De cuánto?",
+   "en": "A deposit? How much?",
+   "tiles": [
+    "¿el depósito?",
+    "¿de cuánto?"
+   ],
+   "extra": [
+    "un mes",
+    "cuando me vaya",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "el deposito de cuanto",
+    "el deposito"
+   ],
+   "teaches": [
+    "el depósito"
+   ],
+   "good": "El depósito. Nothing is written down, so what it is and when it comes back are things you settle out loud, now."
+  },
+  {
+   "es": "Un mes. Igual que el alquiler.",
+   "objective": "One month — say it back",
+   "key": "un mes",
+   "say": "Un mes, entonces.",
+   "en": "A month, then.",
+   "tiles": [
+    "un mes",
+    "entonces"
+   ],
+   "extra": [
+    "dos meses",
+    "el depósito",
+    "gracias",
+    "¿a cómo?"
+   ],
+   "ok": [
+    "un mes entonces",
+    "un mes"
+   ],
+   "teaches": [
+    "un mes"
+   ],
+   "good": "One month’s rent, held in a drawer. Repeating the number is how a spoken agreement gets made in a country that does not sign much."
+  },
+  {
+   "es": "Ajá. Así se hace aquí.",
+   "objective": "Ask when you get it back",
+   "key": "cuando me vaya",
+   "say": "¿Me lo devuelve cuando me vaya?",
+   "en": "Do I get it back when I leave?",
+   "tiles": [
+    "¿me lo devuelve",
+    "cuando me vaya?"
+   ],
+   "extra": [
+    "un mes",
+    "el depósito",
+    "gracias",
+    "otro día"
+   ],
+   "ok": [
+    "me lo devuelve cuando me vaya",
+    "cuando me vaya"
+   ],
+   "teaches": [
+    "cuando me vaya"
+   ],
+   "good": "Cuando me vaya — when I go. Ask it now, kindly, while the two of you are still pleased with each other."
+  },
+  {
+   "es": "Cuando se vaya, sí. Si me deja el cuarto bien.",
+   "objective": "Close the agreement",
+   "key": "quedamos",
+   "say": "Quedamos así, doña.",
+   "en": "Agreed, then, doña.",
+   "tiles": [
+    "quedamos así",
+    "doña"
+   ],
+   "extra": [
+    "un mes",
+    "el depósito",
+    "gracias",
+    "Buenas"
+   ],
+   "ok": [
+    "quedamos asi dona",
+    "quedamos asi"
+   ],
+   "teaches": [
+    "quedamos"
+   ],
+   "good": "Quedamos así — the same two words that closed the deal with the porter in the market. It is how every agreement in this country gets signed."
+  }
+ ]
+}

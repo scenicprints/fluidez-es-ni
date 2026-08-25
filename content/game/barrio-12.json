@@ -1,0 +1,109 @@
+{
+ "id": "barrio-12",
+ "district": "barrio",
+ "tier": 4,
+ "who": "El vecino",
+ "title": "El favor",
+ "goal": "Be asked a favour you would rather not do",
+ "culture": "A flat no is expensive between neighbours, so the language does the work instead. Fíjese que and es que buy you room, déjeme ver is a real answer, and no le prometo is the honest end of it. Saying yes and not turning up would cost far more.",
+ "beats": [
+  {
+   "es": "Vecino, fíjese que necesito que me cuide la casa el fin de semana.",
+   "objective": "Buy yourself some room",
+   "key": "fíjese que",
+   "say": "Fíjese que... no sé.",
+   "en": "Well now... I’m not sure.",
+   "tiles": [
+    "fíjese que",
+    "no sé"
+   ],
+   "extra": [
+    "es que",
+    "déjeme ver",
+    "no le prometo",
+    "disculpe"
+   ],
+   "ok": [
+    "fijese que no se",
+    "fijese que"
+   ],
+   "teaches": [
+    "fíjese que"
+   ],
+   "good": "Fíjese que back at him is a stall and a softener at once. It signals that a but is coming without committing you to it yet."
+  },
+  {
+   "es": "Es un ratito nomás. ¿Puede o no puede?",
+   "objective": "Start the reason",
+   "key": "es que",
+   "say": "Es que voy a estar fuera.",
+   "en": "It’s just that I’ll be away.",
+   "tiles": [
+    "es que",
+    "voy a estar fuera"
+   ],
+   "extra": [
+    "fíjese que",
+    "déjeme ver",
+    "no le prometo",
+    "otro día"
+   ],
+   "ok": [
+    "es que voy a estar fuera",
+    "es que"
+   ],
+   "teaches": [
+    "es que"
+   ],
+   "good": "Es que introduces a reason, and half the time the reason never arrives. It is the most useful two words for declining anything in this country."
+  },
+  {
+   "es": "Ah. ¿Y no puede aunque sea el sábado?",
+   "objective": "Do not commit",
+   "key": "déjeme ver",
+   "say": "Déjeme ver.",
+   "en": "Let me see.",
+   "tiles": [
+    "déjeme ver"
+   ],
+   "extra": [
+    "es que",
+    "fíjese que",
+    "no le prometo",
+    "disculpe"
+   ],
+   "ok": [
+    "dejeme ver"
+   ],
+   "teaches": [
+    "déjeme ver"
+   ],
+   "good": "Déjeme ver — let me see. It is a real answer here rather than a brush-off, and it is understood as one by both sides."
+  },
+  {
+   "es": "Va pues. Me avisa, entonces.",
+   "objective": "Be honest about the odds",
+   "key": "no le prometo",
+   "say": "Le aviso, pero no le prometo.",
+   "en": "I’ll let you know, but I’m not promising.",
+   "tiles": [
+    "le aviso",
+    "pero no le prometo"
+   ],
+   "extra": [
+    "déjeme ver",
+    "es que",
+    "disculpe",
+    "otro día"
+   ],
+   "ok": [
+    "le aviso pero no le prometo",
+    "no le prometo"
+   ],
+   "teaches": [
+    "no le prometo"
+   ],
+   "good": "No le prometo is the honest end of it. Saying yes and then not turning up would cost you the street, and this costs you nothing."
+  }
+ ]
+}

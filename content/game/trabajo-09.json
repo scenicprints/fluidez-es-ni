@@ -1,0 +1,111 @@
+{
+ "id": "trabajo-09",
+ "district": "trabajo",
+ "tier": 5,
+ "who": "Don Emilio",
+ "title": "El aumento del sueldo",
+ "goal": "Ask for more money without insulting anybody",
+ "culture": "Alone, early, and never in front of anybody. The imperfect does the softening — quería, I was wanting to — and naming your own number invites a no. Hand him the decision and he has to live up to it.",
+ "beats": [
+  {
+   "es": "¿Qué pasó, joven? ¿Todo bien?",
+   "objective": "Open it softly",
+   "key": "quería hablarle",
+   "say": "Quería hablarle un momento.",
+   "en": "I wanted to have a word.",
+   "tiles": [
+    "quería hablarle",
+    "un momento"
+   ],
+   "extra": [
+    "ya llevo",
+    "lo que usted crea",
+    "nos vemos",
+    "vamos"
+   ],
+   "ok": [
+    "queria hablarle un momento",
+    "queria hablarle"
+   ],
+   "teaches": [
+    "quería hablarle"
+   ],
+   "good": "The imperfect softens it: quería, I was wanting to. Quiero hablarle would be a confrontation, and this is not one."
+  },
+  {
+   "es": "Dígame, pues.",
+   "objective": "State the fact, not the demand",
+   "key": "ya llevo",
+   "say": "Ya llevo ocho meses aquí.",
+   "en": "I’ve been here eight months now.",
+   "tiles": [
+    "ya llevo",
+    "ocho meses aquí"
+   ],
+   "extra": [
+    "quería hablarle",
+    "lo que usted crea",
+    "vamos",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "ya llevo ocho meses aqui",
+    "ya llevo"
+   ],
+   "teaches": [
+    "ya llevo"
+   ],
+   "good": "Ya llevo — I have been here this long already. A fact rather than a demand, and he can do the arithmetic himself without being asked to."
+  },
+  {
+   "es": "Ajá. ¿Y cuánto quiere usted?",
+   "objective": "Hand him the decision",
+   "key": "lo que usted crea",
+   "say": "Lo que usted crea justo.",
+   "en": "Whatever you think is fair.",
+   "tiles": [
+    "lo que usted crea",
+    "justo"
+   ],
+   "extra": [
+    "ya llevo",
+    "quería hablarle",
+    "nos vemos",
+    "vamos"
+   ],
+   "ok": [
+    "lo que usted crea justo",
+    "lo que usted crea"
+   ],
+   "teaches": [
+    "lo que usted crea"
+   ],
+   "good": "Naming a number invites a no. Lo que usted crea makes it about what is fair, and then he has to be fair in front of himself."
+  },
+  {
+   "es": "Le subo quinientos desde la quincena.",
+   "objective": "Thank him and go",
+   "key": "le agradezco",
+   "say": "Le agradezco, don Emilio.",
+   "en": "I’m grateful, don Emilio.",
+   "tiles": [
+    "le agradezco",
+    "don Emilio"
+   ],
+   "extra": [
+    "lo que usted crea",
+    "ya llevo",
+    "vamos",
+    "nos vemos"
+   ],
+   "ok": [
+    "le agradezco don emilio",
+    "le agradezco"
+   ],
+   "teaches": [
+    "le agradezco"
+   ],
+   "good": "Le agradezco, not gracias — a size up, for something that cost him a decision. And then leave: staying to talk about it would undo it."
+  }
+ ]
+}

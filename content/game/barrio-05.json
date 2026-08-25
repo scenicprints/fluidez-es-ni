@@ -1,0 +1,111 @@
+{
+ "id": "barrio-05",
+ "district": "barrio",
+ "tier": 2,
+ "who": "La vecina de al lado",
+ "title": "La música",
+ "goal": "Ask a neighbour to turn it down at one in the morning",
+ "culture": "Music at volume is normal and complaining about it is not, so the entire thing is done as a favour asked rather than a right asserted. Politeness gets it turned down. A complaint gets it turned up, and then you live next door to that for a year.",
+ "beats": [
+  {
+   "es": "(La música se oye desde la calle. Es la una de la mañana.)",
+   "objective": "Open by apologising",
+   "key": "disculpe",
+   "say": "Disculpe, vecina.",
+   "en": "Excuse me, neighbour.",
+   "tiles": [
+    "disculpe",
+    "vecina"
+   ],
+   "extra": [
+    "un favor",
+    "es muy tarde",
+    "gracias",
+    "cuídese"
+   ],
+   "ok": [
+    "disculpe vecina",
+    "disculpe"
+   ],
+   "teaches": [
+    "disculpe"
+   ],
+   "good": "You open by apologising for existing. That is not weakness here — it is the move that decides how the next thirty seconds go."
+  },
+  {
+   "es": "¿Sí? Dígame, vecino.",
+   "objective": "Ask for a favour",
+   "key": "un favor",
+   "say": "¿Me hace un favor?",
+   "en": "Would you do me a favour?",
+   "tiles": [
+    "¿me hace",
+    "un favor?"
+   ],
+   "extra": [
+    "disculpe",
+    "es muy tarde",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "me hace un favor",
+    "un favor"
+   ],
+   "teaches": [
+    "un favor"
+   ],
+   "good": "Ask for a favour rather than assert a right. The music is not illegal and you are not owed silence — you are asking a neighbour for something."
+  },
+  {
+   "es": "Claro, ¿qué pasó?",
+   "objective": "State the fact and stop",
+   "key": "es muy tarde",
+   "say": "Es muy tarde. La música.",
+   "en": "It’s very late. The music.",
+   "tiles": [
+    "es muy tarde",
+    "la música"
+   ],
+   "extra": [
+    "un favor",
+    "disculpe",
+    "gracias",
+    "no ando"
+   ],
+   "ok": [
+    "es muy tarde la musica",
+    "es muy tarde"
+   ],
+   "teaches": [
+    "es muy tarde"
+   ],
+   "good": "Say the fact and stop talking. Add what you want after it and you are complaining; leave it there and she will say it for you."
+  },
+  {
+   "es": "Ay, sí pues. Ya la bajo, no se preocupe.",
+   "objective": "Thank her properly",
+   "key": "se lo agradezco",
+   "say": "Se lo agradezco, vecina.",
+   "en": "I really appreciate it, neighbour.",
+   "tiles": [
+    "se lo agradezco",
+    "vecina"
+   ],
+   "extra": [
+    "disculpe",
+    "un favor",
+    "cuídese",
+    "ya va"
+   ],
+   "ok": [
+    "se lo agradezco vecina",
+    "se lo agradezco"
+   ],
+   "teaches": [
+    "se lo agradezco"
+   ],
+   "good": "Se lo agradezco is a size up from gracias, and it is the right size for somebody who did what you asked at one in the morning."
+  }
+ ]
+}

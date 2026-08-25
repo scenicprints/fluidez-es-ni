@@ -1,0 +1,107 @@
+{
+ "id": "trabajo-05",
+ "district": "trabajo",
+ "tier": 3,
+ "who": "Marcos",
+ "title": "La quincena",
+ "goal": "Survive the week before payday",
+ "culture": "La quincena is the fifteenth and the last day of the month, and the whole country is broke for the three days before each one. Being skint is not embarrassing because everybody is skint on exactly the same day.",
+ "beats": [
+  {
+   "es": "¿Vamos por una fría?",
+   "objective": "Say you are skint",
+   "key": "no ando",
+   "say": "No ando con nada.",
+   "en": "I haven’t got a thing.",
+   "tiles": [
+    "no ando con nada"
+   ],
+   "extra": [
+    "hasta la quincena",
+    "me presta",
+    "ideay",
+    "ni modo"
+   ],
+   "ok": [
+    "no ando con nada"
+   ],
+   "teaches": [
+    "no ando"
+   ],
+   "good": "The same phrase you used on the friendly drunk in the park, now said to a friend. It carries no shame here at all."
+  },
+  {
+   "es": "Ideay, ¿y eso?",
+   "objective": "Until payday",
+   "key": "hasta la quincena",
+   "say": "Hasta la quincena.",
+   "en": "Not till payday.",
+   "tiles": [
+    "hasta la quincena"
+   ],
+   "extra": [
+    "no ando con nada",
+    "me presta",
+    "vaya pues",
+    "ni modo"
+   ],
+   "ok": [
+    "hasta la quincena"
+   ],
+   "teaches": [
+    "hasta la quincena"
+   ],
+   "good": "La quincena is the fifteenth and the thirtieth. Everybody in the country is broke on the same three days and everybody knows it."
+  },
+  {
+   "es": "Yo tampoco ando... bueno, algo tengo.",
+   "objective": "Ask for the loan",
+   "key": "me presta",
+   "say": "¿Me presta cien?",
+   "en": "Could you lend me a hundred?",
+   "tiles": [
+    "¿me presta",
+    "cien?"
+   ],
+   "extra": [
+    "hasta la quincena",
+    "se lo devuelvo",
+    "ideay",
+    "vaya pues"
+   ],
+   "ok": [
+    "me presta cien",
+    "me presta"
+   ],
+   "teaches": [
+    "me presta"
+   ],
+   "good": "Me presta — usted, even to a friend you call vos. Asking for money is the one place people go formal with somebody close, and copying that is worth noticing."
+  },
+  {
+   "es": "Va pues. Tenga.",
+   "objective": "Promise the day back",
+   "key": "se lo devuelvo",
+   "say": "Se lo devuelvo el viernes.",
+   "en": "I’ll give it back on Friday.",
+   "tiles": [
+    "se lo devuelvo",
+    "el viernes"
+   ],
+   "extra": [
+    "me presta",
+    "hasta la quincena",
+    "ni modo",
+    "ideay"
+   ],
+   "ok": [
+    "se lo devuelvo el viernes",
+    "se lo devuelvo"
+   ],
+   "teaches": [
+    "se lo devuelvo"
+   ],
+   "good": "Name the day. The lending was easy; the giving back is what decides whether there is ever a second time."
+  }
+ ]
+}

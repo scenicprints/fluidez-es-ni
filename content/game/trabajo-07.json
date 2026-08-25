@@ -1,0 +1,111 @@
+{
+ "id": "trabajo-07",
+ "district": "trabajo",
+ "tier": 4,
+ "who": "Don Emilio",
+ "title": "El error",
+ "goal": "Own a mistake that cost money",
+ "culture": "Say it before anybody looks around. He forgives the mistake and not the lie, and the whole ritual is four short sentences — own it, confirm it, fix it, promise once. Tomorrow nobody will mention it again.",
+ "beats": [
+  {
+   "es": "¿Y esto? ¿Quién hizo esto?",
+   "objective": "Own it immediately",
+   "key": "fue mío",
+   "say": "Fue mío, don Emilio.",
+   "en": "That was me, don Emilio.",
+   "tiles": [
+    "fue mío",
+    "don Emilio"
+   ],
+   "extra": [
+    "yo lo hice",
+    "lo arreglo",
+    "cuídese",
+    "dale"
+   ],
+   "ok": [
+    "fue mio don emilio",
+    "fue mio"
+   ],
+   "teaches": [
+    "fue mío"
+   ],
+   "good": "Immediately, before anybody starts looking around. Fue mío is two words and it is the difference between a mistake and a problem."
+  },
+  {
+   "es": "¿Usted?",
+   "objective": "Confirm it",
+   "key": "yo lo hice",
+   "say": "Yo lo hice. Sí.",
+   "en": "I did it. Yes.",
+   "tiles": [
+    "yo lo hice",
+    "sí"
+   ],
+   "extra": [
+    "fue mío",
+    "lo arreglo",
+    "fíjese que",
+    "dale"
+   ],
+   "ok": [
+    "yo lo hice si",
+    "yo lo hice"
+   ],
+   "teaches": [
+    "yo lo hice"
+   ],
+   "good": "No explanation yet. He asked a yes-or-no question and the only thing that helps you is the yes."
+  },
+  {
+   "es": "¿Y ahora qué hacemos?",
+   "objective": "Move to the fix",
+   "key": "lo arreglo",
+   "say": "Lo arreglo hoy mismo.",
+   "en": "I’ll fix it today.",
+   "tiles": [
+    "lo arreglo",
+    "hoy mismo"
+   ],
+   "extra": [
+    "fue mío",
+    "no vuelve a pasar",
+    "cuídese",
+    "dale"
+   ],
+   "ok": [
+    "lo arreglo hoy mismo",
+    "lo arreglo"
+   ],
+   "teaches": [
+    "lo arreglo"
+   ],
+   "good": "Get to the fix as fast as you can. He is not interested in how you feel about it, and telling him would make it about you."
+  },
+  {
+   "es": "Le va a costar a usted, ¿oyó?",
+   "objective": "Take it and promise once",
+   "key": "no vuelve a pasar",
+   "say": "Está bien. No vuelve a pasar.",
+   "en": "Alright. It won’t happen again.",
+   "tiles": [
+    "está bien",
+    "no vuelve a pasar"
+   ],
+   "extra": [
+    "lo arreglo",
+    "fue mío",
+    "fíjese que",
+    "dale"
+   ],
+   "ok": [
+    "esta bien no vuelve a pasar",
+    "no vuelve a pasar"
+   ],
+   "teaches": [
+    "no vuelve a pasar"
+   ],
+   "good": "Take the cost without arguing and promise exactly once. That is the whole ritual, and tomorrow nobody mentions it again."
+  }
+ ]
+}

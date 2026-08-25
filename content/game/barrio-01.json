@@ -1,0 +1,110 @@
+{
+ "id": "barrio-01",
+ "district": "barrio",
+ "tier": 1,
+ "who": "Doña Marta",
+ "title": "El cuarto",
+ "goal": "Rent a room by the month instead of the night",
+ "culture": "You rent from a woman who lives in the same house. There is no agency, no contract and nothing to sign — the agreement is the two of you saying the numbers out loud. Which is why the water and the light have to be asked about now, by you.",
+ "beats": [
+  {
+   "es": "Buenas. Sí, tengo un cuarto desocupado. ¿Lo quiere ver?",
+   "objective": "Ask to take it by the month",
+   "key": "por mes",
+   "say": "¿Me lo alquila por mes?",
+   "en": "Would you rent it to me by the month?",
+   "tiles": [
+    "¿me lo alquila",
+    "por mes?"
+   ],
+   "extra": [
+    "el alquiler",
+    "¿desde cuándo?",
+    "gracias",
+    "no ando"
+   ],
+   "ok": [
+    "me lo alquila por mes",
+    "por mes"
+   ],
+   "teaches": [
+    "por mes"
+   ],
+   "good": "Por mes, not por noche. The hostel was fifteen dollars a night; this is a different arrangement and this is the sentence that opens it."
+  },
+  {
+   "es": "Claro. Son cien dólares el mes.",
+   "objective": "Say the number back",
+   "key": "el alquiler",
+   "say": "Cien dólares de alquiler.",
+   "en": "A hundred dollars rent.",
+   "tiles": [
+    "cien dólares",
+    "de alquiler"
+   ],
+   "extra": [
+    "por mes",
+    "¿desde cuándo?",
+    "gracias",
+    "ya va"
+   ],
+   "ok": [
+    "cien dolares de alquiler",
+    "de alquiler"
+   ],
+   "teaches": [
+    "el alquiler"
+   ],
+   "good": "El alquiler is the rent. Say the number back out loud: there is nothing to sign, so the two of you agreeing out loud IS the agreement."
+  },
+  {
+   "es": "Ajá. Cien al mes, adelantado.",
+   "objective": "Ask whether the water is included",
+   "key": "¿el agua va incluida?",
+   "say": "¿El agua va incluida?",
+   "en": "Is the water included?",
+   "tiles": [
+    "¿el agua",
+    "va incluida?"
+   ],
+   "extra": [
+    "el alquiler",
+    "por mes",
+    "gracias",
+    "no ando"
+   ],
+   "ok": [
+    "el agua va incluida",
+    "va incluida"
+   ],
+   "teaches": [
+    "¿el agua va incluida?"
+   ],
+   "good": "Ask, because often it is not, and the water and the light are what turn a cheap room into an expensive one."
+  },
+  {
+   "es": "El agua sí. La luz la paga usted aparte.",
+   "objective": "Ask from when",
+   "key": "¿desde cuándo?",
+   "say": "¿Y desde cuándo?",
+   "en": "And from when?",
+   "tiles": [
+    "¿y desde cuándo?"
+   ],
+   "extra": [
+    "por mes",
+    "el alquiler",
+    "gracias",
+    "que le vaya bien"
+   ],
+   "ok": [
+    "y desde cuando",
+    "desde cuando"
+   ],
+   "teaches": [
+    "¿desde cuándo?"
+   ],
+   "good": "¿Desde cuándo? asks when it starts. Everything here is agreed by talking, so the date has to be said out loud as well."
+  }
+ ]
+}

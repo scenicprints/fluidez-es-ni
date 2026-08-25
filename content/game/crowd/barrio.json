@@ -1,0 +1,120 @@
+[
+ {
+  "kind": "doña en la puerta",
+  "district": "barrio",
+  "says": "¿Anda buscando cuarto? Doña Marta alquila por mes, ahí en la casa azul.",
+  "en": "Looking for a room? Doña Marta rents by the month, there in the blue house.",
+  "points_at": [
+   "barrio-01",
+   "barrio-02"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "barrio",
+  "says": "En la pulpería le fían si ya lo conocen. Pregúntele al pulpero, no tenga pena.",
+  "en": "The shop gives you credit once they know you. Ask the shopkeeper, do not be shy.",
+  "points_at": [
+   "barrio-03"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "barrio",
+  "says": "El barbero abre hasta las siete. Dígale bien cortito o le deja lo mismo.",
+  "en": "The barber is open till seven. Tell him nice and short or he leaves it the same.",
+  "points_at": [
+   "barrio-04"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "barrio",
+  "says": "Esa vecina pone música hasta la madrugada. Pídale el favor, no se enoje, y la baja.",
+  "en": "That neighbour plays music till dawn. Ask her the favour, do not get cross, and she turns it down.",
+  "points_at": [
+   "barrio-05"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "barrio",
+  "says": "Se fue la luz en toda la cuadra. El electricista anda por ahí, pregúntele a él.",
+  "en": "The power is out on the whole block. The electrician is about, ask him.",
+  "points_at": [
+   "barrio-06"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "barrio",
+  "says": "El chavalo Roberto le enseña más palabras que cualquier libro. Y unas que no debería.",
+  "en": "Young Roberto will teach you more words than any book. And a few he should not.",
+  "points_at": [
+   "barrio-07"
+  ]
+ },
+ {
+  "kind": "obrero",
+  "district": "barrio",
+  "says": "Si le gotea el techo, dígale a la dueña antes de mayo. Después no hay quien suba.",
+  "en": "If your roof leaks, tell the landlady before May. After that nobody will go up there.",
+  "points_at": [
+   "barrio-08"
+  ]
+ },
+ {
+  "kind": "chavalo en bici",
+  "district": "barrio",
+  "says": "El del gas pasa como a las tres. Encárguele el cilindro y espérelo en la casa.",
+  "en": "The gas man comes past about three. Order the cylinder and wait in for him.",
+  "points_at": [
+   "barrio-09"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "barrio",
+  "says": "Murió don Ramón. Están velando ahí al lado, toda la noche. Pase aunque sea un rato.",
+  "en": "Don Ramón has died. They are holding the wake next door, all night. Go in even for a while.",
+  "points_at": [
+   "barrio-10"
+  ]
+ },
+ {
+  "kind": "viejo de la esquina",
+  "district": "barrio",
+  "says": "Cuando doña Chepa dice \"algunos\", está hablando de usted. Fíjese bien.",
+  "en": "When doña Chepa says \"some people\", she means you. Pay attention.",
+  "points_at": [
+   "barrio-11"
+  ]
+ },
+ {
+  "kind": "vendedora",
+  "district": "barrio",
+  "says": "El vecino anda pidiendo que le cuiden la casa. Ya nos preguntó a todos.",
+  "en": "The neighbour is going round asking somebody to watch his house. He has asked all of us already.",
+  "points_at": [
+   "barrio-12"
+  ]
+ },
+ {
+  "kind": "doña en la puerta",
+  "district": "barrio",
+  "says": "Fíjese que a todos nos subió el alquiler este mes. Hable con ella, sí se puede.",
+  "en": "She has put all our rents up this month. Talk to her, it can be done.",
+  "points_at": [
+   "barrio-13"
+  ]
+ },
+ {
+  "kind": "caponero",
+  "district": "barrio",
+  "says": "Aquí lo saludan a uno primero. Si no contesta, al mes ya nadie lo saluda.",
+  "en": "Round here people greet you first. If you do not answer, in a month nobody greets you at all.",
+  "points_at": [
+   "barrio-14"
+  ]
+ }
+]

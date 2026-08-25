@@ -1,0 +1,108 @@
+{
+ "id": "barrio-14",
+ "district": "barrio",
+ "tier": 5,
+ "who": "Todos",
+ "title": "La cuadra",
+ "goal": "Be greeted first, by everybody, on your own street",
+ "culture": "This is what all of it was for. Nobody on this block greets a stranger first; they greet you now. And adiós shouted at somebody you are walking past means hello, not goodbye, which is the single most confusing thing in Nicaraguan Spanish and stops being confusing here.",
+ "beats": [
+  {
+   "es": "(Una señora pasa en la acera de enfrente.) ¡Adiós!",
+   "objective": "Answer it",
+   "key": "adiós",
+   "say": "¡Adiós!",
+   "en": "Hello!",
+   "tiles": [
+    "¡adiós!"
+   ],
+   "extra": [
+    "buenas",
+    "¿cómo amaneció?",
+    "ahí vamos",
+    "está bien"
+   ],
+   "ok": [
+    "adios"
+   ],
+   "teaches": [
+    "adiós"
+   ],
+   "good": "Adiós, shouted at somebody you are walking past, means hello. Not goodbye. This is the moment it stops confusing you."
+  },
+  {
+   "es": "(Don Chombo, en su silla, levanta la mano.) Buenas.",
+   "objective": "Greet him back, by name",
+   "key": "buenas",
+   "say": "Buenas, don Chombo.",
+   "en": "Morning, don Chombo.",
+   "tiles": [
+    "buenas",
+    "don Chombo"
+   ],
+   "extra": [
+    "adiós",
+    "ahí vamos",
+    "me da",
+    "quiero"
+   ],
+   "ok": [
+    "buenas don chombo",
+    "buenas"
+   ],
+   "teaches": [
+    "buenas"
+   ],
+   "good": "The same word you learned on your first night at the hostel, said now to a man whose name you know and who was expecting you."
+  },
+  {
+   "es": "¿Y cómo amaneció, vecino?",
+   "objective": "Ask it back",
+   "key": "¿cómo amaneció?",
+   "say": "Bien, ¿y usted? ¿Cómo amaneció?",
+   "en": "Well, and you? How did you wake up?",
+   "tiles": [
+    "bien",
+    "¿y usted?",
+    "¿cómo amaneció?"
+   ],
+   "extra": [
+    "adiós",
+    "ahí vamos",
+    "está bien",
+    "me da"
+   ],
+   "ok": [
+    "bien y usted como amanecio",
+    "como amanecio"
+   ],
+   "teaches": [
+    "¿cómo amaneció?"
+   ],
+   "good": "¿Cómo amaneció? is how did you wake up, and it is the morning greeting between people who live on the same street. It is being asked OF you."
+  },
+  {
+   "es": "Ahí vamos, gracias a Dios. Ahí vamos.",
+   "objective": "Say it yourself",
+   "key": "ahí vamos",
+   "say": "Ahí vamos.",
+   "en": "Getting along.",
+   "tiles": [
+    "ahí vamos"
+   ],
+   "extra": [
+    "adiós",
+    "buenas",
+    "está bien",
+    "quiero"
+   ],
+   "ok": [
+    "ahi vamos"
+   ],
+   "teaches": [
+    "ahí vamos"
+   ],
+   "good": "Ahí vamos — we are getting along. Not good, not bad, still going. It is the answer everybody gives, and now it is yours, on your own street."
+  }
+ ]
+}
